@@ -1,0 +1,490 @@
+,country,participant,result,olympic_game,discipline,event
+0,AUT,mario reiter,00:03:08.060,Nagano 1998,Alpine Skiing,alpine combined men
+1,NOR,lasse kjus,00:03:08.650,Nagano 1998,Alpine Skiing,alpine combined men
+2,AUT,christian mayer,00:03:10.110,Nagano 1998,Alpine Skiing,alpine combined men
+3,AUT,günther mader,00:03:10.190,Nagano 1998,Alpine Skiing,alpine combined men
+4,POL,andrzej bachleda,00:03:11.530,Nagano 1998,Alpine Skiing,alpine combined men
+5,ITA,alessandro fattori,00:03:17.000,Nagano 1998,Alpine Skiing,alpine combined men
+6,SLO,ales brezavsek,00:03:20.090,Nagano 1998,Alpine Skiing,alpine combined men
+7,SLO,peter pen,00:03:20.810,Nagano 1998,Alpine Skiing,alpine combined men
+8,LIE,juergen hasler,00:03:23.150,Nagano 1998,Alpine Skiing,alpine combined men
+9,ITA,erik seletto,00:03:23.230,Nagano 1998,Alpine Skiing,alpine combined men
+10,CHI,thomas grob,00:03:28.600,Nagano 1998,Alpine Skiing,alpine combined men
+11,UKR,nikolay skriabin,00:03:30.250,Nagano 1998,Alpine Skiing,alpine combined men
+12,CHI,rainer grob,00:03:34.490,Nagano 1998,Alpine Skiing,alpine combined men
+13,GEO,zurab djidjishvili,00:03:35.650,Nagano 1998,Alpine Skiing,alpine combined men
+14,IRL,paul patrick schwarzacher-joyce,00:03:39.030,Nagano 1998,Alpine Skiing,alpine combined men
+15,NOR,kjetil andre aamodt,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+16,NOR,finn christian jagge,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+17,AUT,hermann maier,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+18,ITA,kristian ghedina,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+19,ITA,luca cattaneo,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+20,USA,matthew grosjean,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+21,SUI,paul accola,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+22,BUL,petar ditschev,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+23,CAN,ed podivinsky,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+24,LTU,linas vaitkus,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+25,SLO,jernej koblar,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+26,FIN,kalle palander,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+27,SUI,bruno kernen,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+28,GBR,james ormond,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+29,SUI,jürg grünenfelder,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+30,DEN,arne hardenberg,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+31,SWE,patrik jaerbyn,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+32,DEN,tejs broberg,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+33,USA,jason rosener,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+34,JPN,yasuyuki takishita,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+35,GBR,andrew freshwater,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+36,USA,chad fleischer,Did not finish,Nagano 1998,Alpine Skiing,alpine combined men
+37,CZE,marcel maxa,Disqualified,Nagano 1998,Alpine Skiing,alpine combined men
+38,USA,tommy moe,Did not start,Nagano 1998,Alpine Skiing,alpine combined men
+0,GER,katja seizinger,00:02:40.740,Nagano 1998,Alpine Skiing,alpine combined women
+1,GER,martina ertl-renz,00:02:40.920,Nagano 1998,Alpine Skiing,alpine combined women
+2,GER,hilde gerg,00:02:41.500,Nagano 1998,Alpine Skiing,alpine combined women
+3,AUT,stefanie schuster,00:02:42.250,Nagano 1998,Alpine Skiing,alpine combined women
+4,ITA,morena gallizio,00:02:42.520,Nagano 1998,Alpine Skiing,alpine combined women
+5,FRA,florence masnada,00:02:42.840,Nagano 1998,Alpine Skiing,alpine combined women
+6,USA,caroline lalive,00:02:44.760,Nagano 1998,Alpine Skiing,alpine combined women
+7,CRO,janica kostelic,00:02:45.230,Nagano 1998,Alpine Skiing,alpine combined women
+8,USA,alexandra shaffer,00:02:45.240,Nagano 1998,Alpine Skiing,alpine combined women
+9,SUI,catherine borghi,00:02:45.330,Nagano 1998,Alpine Skiing,alpine combined women
+10,AUT,brigitte obermoser,00:02:45.480,Nagano 1998,Alpine Skiing,alpine combined women
+11,GER,monika bergmann-schmuderer,00:02:45.840,Nagano 1998,Alpine Skiing,alpine combined women
+12,NOR,ingeborg helen marken,00:02:47.190,Nagano 1998,Alpine Skiing,alpine combined women
+13,USA,jonna mendes,00:02:48.590,Nagano 1998,Alpine Skiing,alpine combined women
+14,CZE,lucie hrstkova,00:02:49.960,Nagano 1998,Alpine Skiing,alpine combined women
+15,JPN,junko yamakawa,00:02:50.360,Nagano 1998,Alpine Skiing,alpine combined women
+16,LIE,tamara schaedler,00:02:52.180,Nagano 1998,Alpine Skiing,alpine combined women
+17,USA,kirsten l clark,00:02:52.250,Nagano 1998,Alpine Skiing,alpine combined women
+18,ARG,carola calello,00:02:53.770,Nagano 1998,Alpine Skiing,alpine combined women
+19,UKR,yulia kharkivska,00:02:57.110,Nagano 1998,Alpine Skiing,alpine combined women
+20,HUN,monika kovacs,00:03:06.310,Nagano 1998,Alpine Skiing,alpine combined women
+21,NOR,kristine kristiansen,Did not finish,Nagano 1998,Alpine Skiing,alpine combined women
+22,ISL,brynja þorsteinsdóttir,Did not finish,Nagano 1998,Alpine Skiing,alpine combined women
+23,AUT,michaela dorfmeister,Did not finish,Nagano 1998,Alpine Skiing,alpine combined women
+24,SWE,pernilla wiberg,Did not finish,Nagano 1998,Alpine Skiing,alpine combined women
+25,AUT,renate goetschl,Did not finish,Nagano 1998,Alpine Skiing,alpine combined women
+26,ITA,bibiana perez,Did not finish,Nagano 1998,Alpine Skiing,alpine combined women
+27,CAN,melanie turgeon,Did not finish,Nagano 1998,Alpine Skiing,alpine combined women
+28,NOR,trude gimle,Did not finish,Nagano 1998,Alpine Skiing,alpine combined women
+29,AUT,alexandra meissnitzer,Did not start,Nagano 1998,Alpine Skiing,alpine combined women
+30,ITA,isolde kostner,Did not start,Nagano 1998,Alpine Skiing,alpine combined women
+31,USA,kathleen monahan,Did not start,Nagano 1998,Alpine Skiing,alpine combined women
+0,FRA,jean-luc cretier,00:01:50.110,Nagano 1998,Alpine Skiing,downhill men
+1,NOR,lasse kjus,00:01:50.510,Nagano 1998,Alpine Skiing,downhill men
+2,AUT,hannes trinkl,00:01:50.630,Nagano 1998,Alpine Skiing,downhill men
+3,SUI,jürg grünenfelder,00:01:50.640,Nagano 1998,Alpine Skiing,downhill men
+4,CAN,ed podivinsky,00:01:50.710,Nagano 1998,Alpine Skiing,downhill men
+5,ITA,kristian ghedina,00:01:50.760,Nagano 1998,Alpine Skiing,downhill men
+6,AUT,andreas schifferer,00:01:50.770,Nagano 1998,Alpine Skiing,downhill men
+7,SUI,didier cuche,00:01:50.910,Nagano 1998,Alpine Skiing,downhill men
+8,USA,kyle rasmussen,00:01:51.090,Nagano 1998,Alpine Skiing,downhill men
+9,SWE,patrik jaerbyn,00:01:51.220,Nagano 1998,Alpine Skiing,downhill men
+10,AUT,fritz strobl,00:01:51.340,Nagano 1998,Alpine Skiing,downhill men
+11,USA,tommy moe,00:01:51.430,Nagano 1998,Alpine Skiing,downhill men
+12,NOR,kjetil andre aamodt,00:01:51.720,Nagano 1998,Alpine Skiing,downhill men
+13,SUI,franco cavegn,00:01:51.740,Nagano 1998,Alpine Skiing,downhill men
+14,USA,jason rosener,00:01:52.330,Nagano 1998,Alpine Skiing,downhill men
+15,ITA,werner perathoner,00:01:52.360,Nagano 1998,Alpine Skiing,downhill men
+16,JPN,tsuyoshi tomii,00:01:52.620,Nagano 1998,Alpine Skiing,downhill men
+17,RUS,andrey filichkin,00:01:52.650,Nagano 1998,Alpine Skiing,downhill men
+18,CAN,kevin wert,00:01:52.670,Nagano 1998,Alpine Skiing,downhill men
+19,SLO,jernej koblar,00:01:52.790,Nagano 1998,Alpine Skiing,downhill men
+20,BIH,enis becirbegovic,00:01:53.470,Nagano 1998,Alpine Skiing,downhill men
+21,POL,andrzej bachleda,00:01:53.620,Nagano 1998,Alpine Skiing,downhill men
+22,GBR,graham bell,00:01:53.930,Nagano 1998,Alpine Skiing,downhill men
+23,RUS,vasily bezsmelnitsyn,00:01:54.270,Nagano 1998,Alpine Skiing,downhill men
+24,LTU,linas vaitkus,00:01:56.220,Nagano 1998,Alpine Skiing,downhill men
+25,CHI,nils linneberg,00:01:56.590,Nagano 1998,Alpine Skiing,downhill men
+26,IRL,paul patrick schwarzacher-joyce,00:01:58.710,Nagano 1998,Alpine Skiing,downhill men
+27,CHI,rainer grob,00:01:58.750,Nagano 1998,Alpine Skiing,downhill men
+28,AUT,hermann maier,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+29,FRA,nicolas burtin,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+30,SUI,bruno kernen,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+31,ITA,luca cattaneo,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+32,ITA,peter runggaldier,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+33,CAN,luke sauder,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+34,SLO,ales brezavsek,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+35,USA,alva kitt,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+36,CAN,brian stemmle,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+37,FRA,adrien duvillard,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+38,SLO,peter pen,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+39,LIE,juergen hasler,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+40,GBR,andrew freshwater,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+41,JPN,yasuyuki takishita,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+42,CHI,thomas grob,Did not finish,Nagano 1998,Alpine Skiing,downhill men
+0,GER,katja seizinger,00:01:29.890,Nagano 1998,Alpine Skiing,downhill women
+1,SWE,pernilla wiberg,00:01:29.180,Nagano 1998,Alpine Skiing,downhill women
+2,FRA,florence masnada,00:01:29.370,Nagano 1998,Alpine Skiing,downhill women
+3,FRA,melanie suchet,00:01:29.480,Nagano 1998,Alpine Skiing,downhill women
+4,RUS,svetlana gladisheva,00:01:29.500,Nagano 1998,Alpine Skiing,downhill women
+5,USA,picabo street,00:01:29.540,Nagano 1998,Alpine Skiing,downhill women
+6,FRA,régine cavagnoud,00:01:29.720,Nagano 1998,Alpine Skiing,downhill women
+7,AUT,alexandra meissnitzer,00:01:29.840,Nagano 1998,Alpine Skiing,downhill women
+8,GER,katharina gutensohn,00:01:29.960,Nagano 1998,Alpine Skiing,downhill women
+9,GER,hilde gerg,00:01:29.960,Nagano 1998,Alpine Skiing,downhill women
+10,NOR,ingeborg helen marken,00:01:30.190,Nagano 1998,Alpine Skiing,downhill women
+11,SUI,heidi zurbriggen,00:01:30.250,Nagano 1998,Alpine Skiing,downhill women
+12,RUS,varvara zelenskaia,00:01:30.380,Nagano 1998,Alpine Skiing,downhill women
+13,FRA,carole montillet-carles,00:01:30.650,Nagano 1998,Alpine Skiing,downhill women
+14,AUT,stefanie schuster,00:01:30.730,Nagano 1998,Alpine Skiing,downhill women
+15,NOR,trude gimle,00:01:30.870,Nagano 1998,Alpine Skiing,downhill women
+16,USA,jonna mendes,00:01:30.890,Nagano 1998,Alpine Skiing,downhill women
+17,AUT,michaela dorfmeister,00:01:31.170,Nagano 1998,Alpine Skiing,downhill women
+18,CAN,kate pace lindsay,00:01:31.300,Nagano 1998,Alpine Skiing,downhill women
+19,ITA,bibiana perez,00:01:31.430,Nagano 1998,Alpine Skiing,downhill women
+20,ITA,alessandra merlin,00:01:31.440,Nagano 1998,Alpine Skiing,downhill women
+21,SUI,catherine borghi,00:01:31.450,Nagano 1998,Alpine Skiing,downhill women
+22,CAN,melanie turgeon,00:01:31.450,Nagano 1998,Alpine Skiing,downhill women
+23,SLO,spela bracun,00:01:31.540,Nagano 1998,Alpine Skiing,downhill women
+24,CRO,janica kostelic,00:01:31.970,Nagano 1998,Alpine Skiing,downhill women
+25,ITA,morena gallizio,00:01:32.220,Nagano 1998,Alpine Skiing,downhill women
+26,USA,kathleen monahan,00:01:32.220,Nagano 1998,Alpine Skiing,downhill women
+27,USA,kirsten l clark,00:01:32.250,Nagano 1998,Alpine Skiing,downhill women
+28,RUS,ekaterina nesterenko,00:01:32.540,Nagano 1998,Alpine Skiing,downhill women
+29,SUI,corinne rey bellet,00:01:32.920,Nagano 1998,Alpine Skiing,downhill women
+30,CZE,lucie hrstkova,00:01:33.000,Nagano 1998,Alpine Skiing,downhill women
+31,RUS,anna larionova,00:01:34.360,Nagano 1998,Alpine Skiing,downhill women
+32,UKR,yulia kharkivska,00:01:35.600,Nagano 1998,Alpine Skiing,downhill women
+33,ARG,carola calello,00:01:36.710,Nagano 1998,Alpine Skiing,downhill women
+34,AUT,renate goetschl,Did not finish,Nagano 1998,Alpine Skiing,downhill women
+35,ITA,isolde kostner,Did not finish,Nagano 1998,Alpine Skiing,downhill women
+36,GER,regina häusl,Did not finish,Nagano 1998,Alpine Skiing,downhill women
+37,NOR,kristine kristiansen,Did not finish,Nagano 1998,Alpine Skiing,downhill women
+38,HUN,monika kovacs,Disqualified,Nagano 1998,Alpine Skiing,downhill women
+0,AUT,hermann maier,00:02:38.510,Nagano 1998,Alpine Skiing,giant slalom men
+1,AUT,stephan eberharter,00:02:39.360,Nagano 1998,Alpine Skiing,giant slalom men
+2,SUI,michael von gruenigen,00:02:39.690,Nagano 1998,Alpine Skiing,giant slalom men
+3,AUT,hans knauss,00:02:39.710,Nagano 1998,Alpine Skiing,giant slalom men
+4,SLO,jure kosir,00:02:39.980,Nagano 1998,Alpine Skiing,giant slalom men
+5,SUI,steve locher,00:02:40.300,Nagano 1998,Alpine Skiing,giant slalom men
+6,SUI,paul accola,00:02:40.570,Nagano 1998,Alpine Skiing,giant slalom men
+7,NOR,lasse kjus,00:02:40.650,Nagano 1998,Alpine Skiing,giant slalom men
+8,AUT,christian mayer,00:02:40.670,Nagano 1998,Alpine Skiing,giant slalom men
+9,SWE,fredrik nyberg,00:02:40.950,Nagano 1998,Alpine Skiing,giant slalom men
+10,FRA,ian piccard,00:02:41.100,Nagano 1998,Alpine Skiing,giant slalom men
+11,SUI,urs kaelin,00:02:41.170,Nagano 1998,Alpine Skiing,giant slalom men
+12,FRA,christophe saioni,00:02:41.240,Nagano 1998,Alpine Skiing,giant slalom men
+13,LIE,marco buechel,00:02:41.990,Nagano 1998,Alpine Skiing,giant slalom men
+14,ITA,matteo nana,00:02:42.370,Nagano 1998,Alpine Skiing,giant slalom men
+15,ITA,sergio bergamelli,00:02:42.780,Nagano 1998,Alpine Skiing,giant slalom men
+16,NOR,tom stiansen,00:02:42.880,Nagano 1998,Alpine Skiing,giant slalom men
+17,SLO,mitja kunc,00:02:43.090,Nagano 1998,Alpine Skiing,giant slalom men
+18,FIN,sami uotila,00:02:43.450,Nagano 1998,Alpine Skiing,giant slalom men
+19,USA,daron rahlves,00:02:43.590,Nagano 1998,Alpine Skiing,giant slalom men
+20,SWE,patrik jaerbyn,00:02:43.820,Nagano 1998,Alpine Skiing,giant slalom men
+21,SLO,jernej koblar,00:02:43.960,Nagano 1998,Alpine Skiing,giant slalom men
+22,CRO,thomas loedler,00:02:44.210,Nagano 1998,Alpine Skiing,giant slalom men
+23,POL,andrzej bachleda,00:02:46.240,Nagano 1998,Alpine Skiing,giant slalom men
+24,JPN,kiminobu kimura,00:02:46.350,Nagano 1998,Alpine Skiing,giant slalom men
+25,USA,sacha gros,00:02:46.890,Nagano 1998,Alpine Skiing,giant slalom men
+26,DEN,tejs broberg,00:02:47.140,Nagano 1998,Alpine Skiing,giant slalom men
+27,CRO,vedran pavlek,00:02:47.540,Nagano 1998,Alpine Skiing,giant slalom men
+28,CZE,marcel maxa,00:02:49.510,Nagano 1998,Alpine Skiing,giant slalom men
+29,JPN,takuya ishioka,00:02:49.510,Nagano 1998,Alpine Skiing,giant slalom men
+30,GBR,alain baxter,00:02:49.820,Nagano 1998,Alpine Skiing,giant slalom men
+31,BUL,stefan georgiev,00:02:50.890,Nagano 1998,Alpine Skiing,giant slalom men
+32,KOR,seung wook hur,00:02:52.270,Nagano 1998,Alpine Skiing,giant slalom men
+33,LAT,ivars ciaguns,00:02:53.590,Nagano 1998,Alpine Skiing,giant slalom men
+34,SCG,marko djordjevic,00:02:58.470,Nagano 1998,Alpine Skiing,giant slalom men
+35,MKD,aleksandar stojanovski,00:03:01.170,Nagano 1998,Alpine Skiing,giant slalom men
+36,ITA,patrick holzer,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+37,GER,markus eberle,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+38,FIN,kalle palander,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+39,AND,victor gomez,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+40,AND,gérard escoda,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+41,BIH,enis becirbegovic,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+42,KAZ,dmitry kvach,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+43,ISL,kristinn bjornsson,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+44,NOR,kjetil andre aamodt,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+45,ITA,alberto tomba,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+46,NOR,harald christian strand nilsen,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+47,SLO,bernhard knauss,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+48,LIE,achim vogt,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+49,USA,casey puckett,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+50,SWE,martin hansson,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+51,RUS,andrey filichkin,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+52,JPN,kentaro minagawa,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+53,FIN,mika marila,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+54,RUS,vasily bezsmelnitsyn,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+55,CRO,renato gaspar,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+56,ISL,haukur arnorsson,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+57,KOR,jong-moon byun,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+58,BUL,lubomir popov,Did not finish,Nagano 1998,Alpine Skiing,giant slalom men
+59,CAN,thomas grandi,Disqualified,Nagano 1998,Alpine Skiing,giant slalom men
+60,FRA,joel chenal,Disqualified,Nagano 1998,Alpine Skiing,giant slalom men
+61,USA,bode miller,Disqualified,Nagano 1998,Alpine Skiing,giant slalom men
+62,ISL,johann hafstein,Did not start,Nagano 1998,Alpine Skiing,giant slalom men
+0,ITA,deborah compagnoni,00:02:50.590,Nagano 1998,Alpine Skiing,giant slalom women
+1,AUT,alexandra meissnitzer,00:02:52.390,Nagano 1998,Alpine Skiing,giant slalom women
+2,GER,katja seizinger,00:02:52.610,Nagano 1998,Alpine Skiing,giant slalom women
+3,GER,martina ertl-renz,00:02:52.720,Nagano 1998,Alpine Skiing,giant slalom women
+4,FRA,sophie lefranc-duvillard,00:02:53.270,Nagano 1998,Alpine Skiing,giant slalom women
+5,SUI,heidi zurbriggen,00:02:53.610,Nagano 1998,Alpine Skiing,giant slalom women
+6,SWE,anna ottosson,00:02:53.810,Nagano 1998,Alpine Skiing,giant slalom women
+7,ITA,sabina panzanini,00:02:54.090,Nagano 1998,Alpine Skiing,giant slalom women
+8,LIE,birgit heeb-batliner,00:02:54.700,Nagano 1998,Alpine Skiing,giant slalom women
+9,NOR,andrine flemmen,00:02:54.940,Nagano 1998,Alpine Skiing,giant slalom women
+10,SWE,pernilla wiberg,00:02:55.400,Nagano 1998,Alpine Skiing,giant slalom women
+11,ESP,maria jose rienda,00:02:55.540,Nagano 1998,Alpine Skiing,giant slalom women
+12,GER,hilde gerg,00:02:55.890,Nagano 1998,Alpine Skiing,giant slalom women
+13,SWE,martina fortkord,00:02:56.350,Nagano 1998,Alpine Skiing,giant slalom women
+14,AUT,stefanie schuster,00:02:56.410,Nagano 1998,Alpine Skiing,giant slalom women
+15,SUI,karin roten meier,00:02:56.960,Nagano 1998,Alpine Skiing,giant slalom women
+16,SLO,alenka dovzan,00:02:57.350,Nagano 1998,Alpine Skiing,giant slalom women
+17,SLO,urska hrovat,00:02:57.440,Nagano 1998,Alpine Skiing,giant slalom women
+18,SUI,catherine borghi,00:02:58.420,Nagano 1998,Alpine Skiing,giant slalom women
+19,SLO,natasa bokal,00:02:58.460,Nagano 1998,Alpine Skiing,giant slalom women
+20,AUT,christiane mitterwallner,00:02:58.460,Nagano 1998,Alpine Skiing,giant slalom women
+21,NOR,kristine kristiansen,00:02:58.710,Nagano 1998,Alpine Skiing,giant slalom women
+22,ITA,karen putzer,00:02:59.040,Nagano 1998,Alpine Skiing,giant slalom women
+23,CRO,janica kostelic,00:02:59.390,Nagano 1998,Alpine Skiing,giant slalom women
+24,JPN,kazuko ikeda,00:03:00.710,Nagano 1998,Alpine Skiing,giant slalom women
+25,FIN,tanja poutiainen,00:03:01.660,Nagano 1998,Alpine Skiing,giant slalom women
+26,JPN,kumiko kashiwagi,00:03:01.910,Nagano 1998,Alpine Skiing,giant slalom women
+27,USA,julie parisien,00:03:02.780,Nagano 1998,Alpine Skiing,giant slalom women
+28,JPN,junko yamakawa,00:03:03.950,Nagano 1998,Alpine Skiing,giant slalom women
+29,GER,regina häusl,00:03:04.570,Nagano 1998,Alpine Skiing,giant slalom women
+30,LAT,ilze abola,00:03:14.500,Nagano 1998,Alpine Skiing,giant slalom women
+31,HUN,monika kovacs,00:03:15.560,Nagano 1998,Alpine Skiing,giant slalom women
+32,MKD,jana nikolovska,00:03:29.970,Nagano 1998,Alpine Skiing,giant slalom women
+33,GRE,sofia mistrioti,00:03:32.200,Nagano 1998,Alpine Skiing,giant slalom women
+34,USA,sarah schleper,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+35,USA,alexandra shaffer,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+36,SUI,sonja nef,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+37,FRA,leila piccard,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+38,ESP,ana galindo santolaria,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+39,SWE,ylva nowen,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+40,SLO,spela pretnar,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+41,ESP,ainhoa ibarra astelarra,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+42,USA,caroline lalive,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+43,CZE,lucie hrstkova,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+44,LIE,tamara schaedler,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+45,NOR,ingeborg helen marken,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+46,JPN,noriyo hiroi,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+47,LIE,diana fehr,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+48,GBR,sophie ormond,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+49,ARG,carola calello,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+50,AND,vicky grau,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+51,ISL,theodora mathiesen,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+52,FIN,henna raita,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+53,ISL,brynja þorsteinsdóttir,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+54,BIH,ariana boras,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+55,DEN,katrine hvidsteen,Did not finish,Nagano 1998,Alpine Skiing,giant slalom women
+56,ITA,isolde kostner,Did not start,Nagano 1998,Alpine Skiing,giant slalom women
+57,KAZ,yulia krygina,Did not start,Nagano 1998,Alpine Skiing,giant slalom women
+58,UKR,yulia kharkivska,Did not start,Nagano 1998,Alpine Skiing,giant slalom women
+0,NOR,hans-petter buraas,00:01:49.310,Nagano 1998,Alpine Skiing,slalom men
+1,NOR,ole christian furuseth,00:01:50.640,Nagano 1998,Alpine Skiing,slalom men
+2,AUT,thomas sykora,00:01:50.680,Nagano 1998,Alpine Skiing,slalom men
+3,NOR,tom stiansen,00:01:50.900,Nagano 1998,Alpine Skiing,slalom men
+4,AUT,christian mayer,00:01:51.090,Nagano 1998,Alpine Skiing,slalom men
+5,AUT,thomas stangassinger,00:01:51.250,Nagano 1998,Alpine Skiing,slalom men
+6,NOR,finn christian jagge,00:01:51.390,Nagano 1998,Alpine Skiing,slalom men
+7,FRA,joel chenal,00:01:51.510,Nagano 1998,Alpine Skiing,slalom men
+8,FIN,kalle palander,00:01:51.810,Nagano 1998,Alpine Skiing,slalom men
+9,FRA,pierrick bourgeat,00:01:51.820,Nagano 1998,Alpine Skiing,slalom men
+10,ITA,matteo nana,00:01:51.960,Nagano 1998,Alpine Skiing,slalom men
+11,SUI,didier plaschy,00:01:52.030,Nagano 1998,Alpine Skiing,slalom men
+12,JPN,kiminobu kimura,00:01:52.150,Nagano 1998,Alpine Skiing,slalom men
+13,FRA,sebastien amiez,00:01:52.190,Nagano 1998,Alpine Skiing,slalom men
+14,USA,matthew grosjean,00:01:52.560,Nagano 1998,Alpine Skiing,slalom men
+15,ITA,angelo weiss,00:01:52.800,Nagano 1998,Alpine Skiing,slalom men
+16,SLO,matjaz vrhovnik,00:01:54.650,Nagano 1998,Alpine Skiing,slalom men
+17,SUI,paul accola,00:01:54.910,Nagano 1998,Alpine Skiing,slalom men
+18,SUI,michael von gruenigen,00:01:54.960,Nagano 1998,Alpine Skiing,slalom men
+19,JPN,gaku hirasawa,00:01:55.240,Nagano 1998,Alpine Skiing,slalom men
+20,JPN,takuya ishioka,00:01:55.690,Nagano 1998,Alpine Skiing,slalom men
+21,BUL,stefan georgiev,00:01:56.120,Nagano 1998,Alpine Skiing,slalom men
+22,KOR,seung wook hur,00:01:58.010,Nagano 1998,Alpine Skiing,slalom men
+23,URU,gabriel hottegindre,00:02:03.270,Nagano 1998,Alpine Skiing,slalom men
+24,ISL,sveinn brynjolfsson,00:02:06.180,Nagano 1998,Alpine Skiing,slalom men
+25,RSA,alexander heath,00:02:14.440,Nagano 1998,Alpine Skiing,slalom men
+26,ARM,arsen harutyunyan,00:02:15.110,Nagano 1998,Alpine Skiing,slalom men
+27,UZB,komil urunbayev,00:02:18.850,Nagano 1998,Alpine Skiing,slalom men
+28,TUR,arif alaftargil,00:02:25.090,Nagano 1998,Alpine Skiing,slalom men
+29,IRI,hassan shemshaki,00:02:26.990,Nagano 1998,Alpine Skiing,slalom men
+30,PUR,william schenker,00:02:28.880,Nagano 1998,Alpine Skiing,slalom men
+31,POL,andrzej bachleda,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+32,USA,bode miller,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+33,CZE,marcel maxa,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+34,CRO,thomas loedler,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+35,BUL,petar ditschev,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+36,ITA,alberto tomba,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+37,ITA,fabrizio tescari,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+38,SLO,andrej miklavc,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+39,SLO,jure kosir,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+40,ISL,kristinn bjornsson,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+41,SWE,martin hansson,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+42,AUT,mario reiter,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+43,GER,markus eberle,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+44,CAN,thomas grandi,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+45,FRA,françois simond,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+46,SUI,marco casanova,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+47,FIN,mika marila,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+48,USA,chip knight,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+49,USA,andy leroy,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+50,JPN,kentaro minagawa,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+51,ISL,haukur arnorsson,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+52,AND,gérard escoda,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+53,ISL,arnor gunnarsson,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+54,BUL,lubomir popov,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+55,FIN,sami uotila,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+56,AND,victor gomez,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+57,KOR,jong-moon byun,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+58,BUL,angel pumpalov,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+59,DEN,arne hardenberg,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+60,GRE,vassilis dimitriadis,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+61,GEO,levan abramischvili,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+62,CYP,andreas vassili,Did not finish,Nagano 1998,Alpine Skiing,slalom men
+63,GBR,alain baxter,Disqualified,Nagano 1998,Alpine Skiing,slalom men
+64,SLO,drago grubelnik,Disqualified,Nagano 1998,Alpine Skiing,slalom men
+65,GER,alois vogl,Did not start,Nagano 1998,Alpine Skiing,slalom men
+0,GER,hilde gerg,00:01:32.400,Nagano 1998,Alpine Skiing,slalom women
+1,ITA,deborah compagnoni,00:01:32.460,Nagano 1998,Alpine Skiing,slalom women
+2,AUS,zali steggall,00:01:32.670,Nagano 1998,Alpine Skiing,slalom women
+3,GER,martina ertl-renz,00:01:32.910,Nagano 1998,Alpine Skiing,slalom women
+4,AUT,sabine egger,00:01:33.220,Nagano 1998,Alpine Skiing,slalom women
+5,AUT,ingrid salvenmoser,00:01:33.390,Nagano 1998,Alpine Skiing,slalom women
+6,SUI,martina accola,00:01:34.120,Nagano 1998,Alpine Skiing,slalom women
+7,ITA,morena gallizio,00:01:34.870,Nagano 1998,Alpine Skiing,slalom women
+8,GER,monika bergmann-schmuderer,00:01:34.990,Nagano 1998,Alpine Skiing,slalom women
+9,SWE,anna ottosson,00:01:35.240,Nagano 1998,Alpine Skiing,slalom women
+10,SLO,natasa bokal,00:01:35.590,Nagano 1998,Alpine Skiing,slalom women
+11,SWE,ylva nowen,00:01:36.330,Nagano 1998,Alpine Skiing,slalom women
+12,USA,julie parisien,00:01:36.350,Nagano 1998,Alpine Skiing,slalom women
+13,ESP,maria jose rienda,00:01:36.460,Nagano 1998,Alpine Skiing,slalom women
+14,ITA,lara magoni,00:01:36.630,Nagano 1998,Alpine Skiing,slalom women
+15,SLO,alenka dovzan,00:01:36.660,Nagano 1998,Alpine Skiing,slalom women
+16,JPN,kazuko ikeda,00:01:37.290,Nagano 1998,Alpine Skiing,slalom women
+17,FIN,tanja poutiainen,00:01:37.510,Nagano 1998,Alpine Skiing,slalom women
+18,AND,vicky grau,00:01:37.690,Nagano 1998,Alpine Skiing,slalom women
+19,JPN,junko yamakawa,00:01:38.100,Nagano 1998,Alpine Skiing,slalom women
+20,LIE,diana fehr,00:01:38.760,Nagano 1998,Alpine Skiing,slalom women
+21,USA,sarah schleper,00:01:39.420,Nagano 1998,Alpine Skiing,slalom women
+22,LIE,tamara schaedler,00:01:40.010,Nagano 1998,Alpine Skiing,slalom women
+23,JPN,kumiko kashiwagi,00:01:40.460,Nagano 1998,Alpine Skiing,slalom women
+24,ARG,carola calello,00:01:41.560,Nagano 1998,Alpine Skiing,slalom women
+25,BUL,nadezhda vasileva,00:01:45.440,Nagano 1998,Alpine Skiing,slalom women
+26,SCG,mirjana granzov,00:01:46.650,Nagano 1998,Alpine Skiing,slalom women
+27,FRA,leila piccard,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+28,SUI,karin roten meier,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+29,USA,kristina koznick,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+30,SLO,urska hrovat,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+31,SLO,spela pretnar,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+32,NOR,trine bakke-rognmo,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+33,FIN,henna raita,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+34,ESP,monica bosch forrellad,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+35,CAN,katerina tichy,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+36,DEN,katrine hvidsteen,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+37,SWE,martina fortkord,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+38,SWE,pernilla wiberg,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+39,NZL,claudia riegler,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+40,SUI,sonja nef,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+41,FRA,laure pequegnot,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+42,FRA,patricia chauvet,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+43,ITA,elisabetta biavaschi,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+44,NOR,andrine flemmen,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+45,GBR,emma carrick-anderson,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+46,NOR,trude gimle,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+47,CRO,janica kostelic,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+48,ISL,brynja þorsteinsdóttir,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+49,ISL,sigríður þorláksdóttir,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+50,ISL,theodora mathiesen,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+51,CZE,lucie hrstkova,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+52,HUN,kinga barsi,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+53,HUN,marika labancz,Did not finish,Nagano 1998,Alpine Skiing,slalom women
+54,USA,tasha nelson,Disqualified,Nagano 1998,Alpine Skiing,slalom women
+55,JPN,noriyo hiroi,Disqualified,Nagano 1998,Alpine Skiing,slalom women
+56,GEO,sofia akhmeteli,Disqualified,Nagano 1998,Alpine Skiing,slalom women
+0,AUT,hermann maier,00:01:34.820,Nagano 1998,Alpine Skiing,super-G men
+1,SUI,didier cuche,00:01:35.430,Nagano 1998,Alpine Skiing,super-G men
+2,AUT,hans knauss,00:01:35.430,Nagano 1998,Alpine Skiing,super-G men
+3,ITA,alessandro fattori,00:01:35.610,Nagano 1998,Alpine Skiing,super-G men
+4,NOR,kjetil andre aamodt,00:01:35.670,Nagano 1998,Alpine Skiing,super-G men
+5,SWE,patrik jaerbyn,00:01:35.720,Nagano 1998,Alpine Skiing,super-G men
+6,USA,daron rahlves,00:01:35.960,Nagano 1998,Alpine Skiing,super-G men
+7,USA,tommy moe,00:01:35.970,Nagano 1998,Alpine Skiing,super-G men
+8,NOR,lasse kjus,00:01:36.250,Nagano 1998,Alpine Skiing,super-G men
+9,SWE,fredrik nyberg,00:01:36.310,Nagano 1998,Alpine Skiing,super-G men
+10,SUI,bruno kernen,00:01:36.370,Nagano 1998,Alpine Skiing,super-G men
+11,CAN,brian stemmle,00:01:36.400,Nagano 1998,Alpine Skiing,super-G men
+12,USA,kyle rasmussen,00:01:36.520,Nagano 1998,Alpine Skiing,super-G men
+13,SUI,steve locher,00:01:36.620,Nagano 1998,Alpine Skiing,super-G men
+14,ITA,werner perathoner,00:01:36.640,Nagano 1998,Alpine Skiing,super-G men
+15,ITA,kristian ghedina,00:01:36.700,Nagano 1998,Alpine Skiing,super-G men
+16,SLO,jernej koblar,00:01:36.840,Nagano 1998,Alpine Skiing,super-G men
+17,SUI,paul accola,00:01:36.870,Nagano 1998,Alpine Skiing,super-G men
+18,AUT,andreas schifferer,00:01:37.000,Nagano 1998,Alpine Skiing,super-G men
+19,ITA,peter runggaldier,00:01:37.000,Nagano 1998,Alpine Skiing,super-G men
+20,RUS,andrey filichkin,00:01:37.290,Nagano 1998,Alpine Skiing,super-G men
+21,BIH,enis becirbegovic,00:01:37.580,Nagano 1998,Alpine Skiing,super-G men
+22,SLO,peter pen,00:01:37.810,Nagano 1998,Alpine Skiing,super-G men
+23,JPN,tsuyoshi tomii,00:01:37.860,Nagano 1998,Alpine Skiing,super-G men
+24,FRA,jean-luc cretier,00:01:37.950,Nagano 1998,Alpine Skiing,super-G men
+25,LIE,juergen hasler,00:01:38.320,Nagano 1998,Alpine Skiing,super-G men
+26,JPN,yasuyuki takishita,00:01:38.390,Nagano 1998,Alpine Skiing,super-G men
+27,SLO,ales brezavsek,00:01:38.540,Nagano 1998,Alpine Skiing,super-G men
+28,RUS,vasily bezsmelnitsyn,00:01:39.390,Nagano 1998,Alpine Skiing,super-G men
+29,CRO,vedran pavlek,00:01:39.630,Nagano 1998,Alpine Skiing,super-G men
+30,GBR,graham bell,00:01:39.800,Nagano 1998,Alpine Skiing,super-G men
+31,CRO,renato gaspar,00:01:39.850,Nagano 1998,Alpine Skiing,super-G men
+32,GBR,andrew freshwater,00:01:39.890,Nagano 1998,Alpine Skiing,super-G men
+33,USA,chad fleischer,00:01:40.190,Nagano 1998,Alpine Skiing,super-G men
+34,DEN,tejs broberg,00:01:41.090,Nagano 1998,Alpine Skiing,super-G men
+35,BLR,igar yudin,00:01:45.920,Nagano 1998,Alpine Skiing,super-G men
+36,BRA,marcelo apovian,00:01:49.430,Nagano 1998,Alpine Skiing,super-G men
+37,FRA,frederic marin-cudraz,Did not finish,Nagano 1998,Alpine Skiing,super-G men
+38,CHI,thomas grob,Did not finish,Nagano 1998,Alpine Skiing,super-G men
+39,GEO,zurab djidjishvili,Did not finish,Nagano 1998,Alpine Skiing,super-G men
+40,AND,victor gomez,Did not finish,Nagano 1998,Alpine Skiing,super-G men
+41,RSA,alexander heath,Did not finish,Nagano 1998,Alpine Skiing,super-G men
+42,AUT,stephan eberharter,Disqualified,Nagano 1998,Alpine Skiing,super-G men
+43,FRA,nicolas burtin,Disqualified,Nagano 1998,Alpine Skiing,super-G men
+44,CAN,ed podivinsky,Disqualified,Nagano 1998,Alpine Skiing,super-G men
+45,CRO,thomas loedler,Did not start,Nagano 1998,Alpine Skiing,super-G men
+46,FRA,adrien duvillard,Did not start,Nagano 1998,Alpine Skiing,super-G men
+0,USA,picabo street,00:01:18.020,Nagano 1998,Alpine Skiing,super-G women
+1,AUT,michaela dorfmeister,00:01:18.030,Nagano 1998,Alpine Skiing,super-G women
+2,AUT,alexandra meissnitzer,00:01:18.090,Nagano 1998,Alpine Skiing,super-G women
+3,GER,regina häusl,00:01:18.270,Nagano 1998,Alpine Skiing,super-G women
+4,AUT,renate goetschl,00:01:18.320,Nagano 1998,Alpine Skiing,super-G women
+5,GER,katja seizinger,00:01:18.440,Nagano 1998,Alpine Skiing,super-G women
+6,GER,martina ertl-renz,00:01:18.460,Nagano 1998,Alpine Skiing,super-G women
+7,FRA,melanie suchet,00:01:18.510,Nagano 1998,Alpine Skiing,super-G women
+8,AUT,stefanie schuster,00:01:18.530,Nagano 1998,Alpine Skiing,super-G women
+9,GER,hilde gerg,00:01:18.590,Nagano 1998,Alpine Skiing,super-G women
+10,ITA,isolde kostner,00:01:18.620,Nagano 1998,Alpine Skiing,super-G women
+11,RUS,varvara zelenskaia,00:01:18.720,Nagano 1998,Alpine Skiing,super-G women
+12,RUS,svetlana gladisheva,00:01:18.820,Nagano 1998,Alpine Skiing,super-G women
+13,FRA,carole montillet-carles,00:01:18.880,Nagano 1998,Alpine Skiing,super-G women
+14,SWE,pernilla wiberg,00:01:18.880,Nagano 1998,Alpine Skiing,super-G women
+15,FRA,régine cavagnoud,00:01:18.910,Nagano 1998,Alpine Skiing,super-G women
+16,NOR,kristine kristiansen,00:01:19.020,Nagano 1998,Alpine Skiing,super-G women
+17,FRA,florence masnada,00:01:19.030,Nagano 1998,Alpine Skiing,super-G women
+18,NOR,ingeborg helen marken,00:01:19.160,Nagano 1998,Alpine Skiing,super-G women
+19,CAN,melanie turgeon,00:01:19.200,Nagano 1998,Alpine Skiing,super-G women
+20,SUI,heidi zurbriggen,00:01:19.220,Nagano 1998,Alpine Skiing,super-G women
+21,ITA,bibiana perez,00:01:19.470,Nagano 1998,Alpine Skiing,super-G women
+22,ITA,barbara merlin,00:01:19.640,Nagano 1998,Alpine Skiing,super-G women
+23,SLO,mojca suhadolc,00:01:19.660,Nagano 1998,Alpine Skiing,super-G women
+24,NOR,trude gimle,00:01:19.710,Nagano 1998,Alpine Skiing,super-G women
+25,CRO,janica kostelic,00:01:19.770,Nagano 1998,Alpine Skiing,super-G women
+26,CAN,kate pace lindsay,00:01:19.890,Nagano 1998,Alpine Skiing,super-G women
+27,ITA,karen putzer,00:01:20.160,Nagano 1998,Alpine Skiing,super-G women
+28,USA,kathleen monahan,00:01:20.250,Nagano 1998,Alpine Skiing,super-G women
+29,SLO,spela bracun,00:01:20.290,Nagano 1998,Alpine Skiing,super-G women
+30,SUI,corinne rey bellet,00:01:20.310,Nagano 1998,Alpine Skiing,super-G women
+31,USA,jonna mendes,00:01:20.350,Nagano 1998,Alpine Skiing,super-G women
+32,RUS,anna larionova,00:01:20.610,Nagano 1998,Alpine Skiing,super-G women
+33,SUI,catherine borghi,00:01:20.690,Nagano 1998,Alpine Skiing,super-G women
+34,CZE,lucie hrstkova,00:01:21.740,Nagano 1998,Alpine Skiing,super-G women
+35,JPN,kumiko kashiwagi,00:01:21.890,Nagano 1998,Alpine Skiing,super-G women
+36,RUS,olesya aliyeva,00:01:22.000,Nagano 1998,Alpine Skiing,super-G women
+37,LIE,tamara schaedler,00:01:22.900,Nagano 1998,Alpine Skiing,super-G women
+38,BIH,ariana boras,00:01:24.480,Nagano 1998,Alpine Skiing,super-G women
+39,HUN,monika kovacs,00:01:24.770,Nagano 1998,Alpine Skiing,super-G women
+40,ARG,carola calello,00:01:25.080,Nagano 1998,Alpine Skiing,super-G women
+41,USA,kirsten l clark,Did not finish,Nagano 1998,Alpine Skiing,super-G women
+42,KAZ,yulia krygina,Did not finish,Nagano 1998,Alpine Skiing,super-G women
+43,ROU,simona pastinaru,Did not start,Nagano 1998,Alpine Skiing,super-G women

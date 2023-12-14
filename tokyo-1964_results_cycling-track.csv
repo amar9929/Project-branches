@@ -1,0 +1,69 @@
+,country,participant,result,olympic_game,discipline,event
+0,BEL,patrick sercu,00:01:09.590,Tokyo 1964,Cycling Track,1km time trial men
+1,ITA,giovanni pettenella,00:01:10.090,Tokyo 1964,Cycling Track,1km time trial men
+2,FRA,pierre trentin,00:01:10.420,Tokyo 1964,Cycling Track,1km time trial men
+3,NED,pieter carel c. van der touw,00:01:10.680,Tokyo 1964,Cycling Track,1km time trial men
+4,TCH,jiri pecka,00:01:10.700,Tokyo 1964,Cycling Track,1km time trial men
+5,GER,lothar claesges,00:01:10.860,Tokyo 1964,Cycling Track,1km time trial men
+6,POL,waclaw latocha,00:01:11.120,Tokyo 1964,Cycling Track,1km time trial men
+7,TTO,roger gibbon,00:01:11.190,Tokyo 1964,Cycling Track,1km time trial men
+8,URS,viktor logunov,00:01:11.360,Tokyo 1964,Cycling Track,1km time trial men
+9,JPN,katsuhiko sato,00:01:11.680,Tokyo 1964,Cycling Track,1km time trial men
+10,DEN,jan ingstrup mikkelsen,00:01:12.030,Tokyo 1964,Cycling Track,1km time trial men
+11,ARG,carlos alberto vazquez,00:01:12.180,Tokyo 1964,Cycling Track,1km time trial men
+12,MEX,jose mercado escareno,00:01:12.830,Tokyo 1964,Cycling Track,1km time trial men
+13,USA,william kund,00:01:12.890,Tokyo 1964,Cycling Track,1km time trial men
+14,BUL,stefan stefanov kirev,00:01:13.060,Tokyo 1964,Cycling Track,1km time trial men
+15,AUS,richard ian paris,00:01:13.270,Tokyo 1964,Cycling Track,1km time trial men
+16,GBR,roger cyril whitfield,00:01:13.290,Tokyo 1964,Cycling Track,1km time trial men
+17,HUN,ferenc habony,00:01:14.480,Tokyo 1964,Cycling Track,1km time trial men
+18,COL,eduardo bustos camacho,00:01:15.050,Tokyo 1964,Cycling Track,1km time trial men
+19,URU,oscar almada,00:01:17.170,Tokyo 1964,Cycling Track,1km time trial men
+20,THA,preeda chullamondhol,00:01:18.060,Tokyo 1964,Cycling Track,1km time trial men
+21,CAM,thol tan,00:01:18.200,Tokyo 1964,Cycling Track,1km time trial men
+22,PAK,muhammad sheraz hafeez,00:01:18.500,Tokyo 1964,Cycling Track,1km time trial men
+23,MAS,joo-pong ng,00:01:20.680,Tokyo 1964,Cycling Track,1km time trial men
+24,VNM,tran van nen,00:01:21.580,Tokyo 1964,Cycling Track,1km time trial men
+25,IND,dalbir singh gill,00:01:21.620,Tokyo 1964,Cycling Track,1km time trial men
+26,TPE,ming-shu shue,Did not finish,Tokyo 1964,Cycling Track,1km time trial men
+0,ITA,angelo damiano,,Tokyo 1964,Cycling Track,2000m tandem men
+1,URS,viktor logunov,,Tokyo 1964,Cycling Track,2000m tandem men
+2,GER,willy fuggerer,2,Tokyo 1964,Cycling Track,2000m tandem men
+3,NED,arie de graaf,0,Tokyo 1964,Cycling Track,2000m tandem men
+4,AUS,ian sterry browne,,Tokyo 1964,Cycling Track,2000m tandem men
+5,DEN,per sarto jorgensen,,Tokyo 1964,Cycling Track,2000m tandem men
+6,HUN,ferenc habony,,Tokyo 1964,Cycling Track,2000m tandem men
+7,TCH,karel paar,,Tokyo 1964,Cycling Track,2000m tandem men
+8,FRA,daniel morelon,,Tokyo 1964,Cycling Track,2000m tandem men
+0,TCH,jiri daler,,Tokyo 1964,Cycling Track,Individual Pursuit men
+1,ITA,giorgio ursi,,Tokyo 1964,Cycling Track,Individual Pursuit men
+2,DEN,preben isaksson,00:05:01.900,Tokyo 1964,Cycling Track,Individual Pursuit men
+3,NED,tiemen groen,00:05:04.210,Tokyo 1964,Cycling Track,Individual Pursuit men
+4,POL,lucjan jozefowicz,,Tokyo 1964,Cycling Track,Individual Pursuit men
+5,URS,stanislav moskvin,,Tokyo 1964,Cycling Track,Individual Pursuit men
+6,GBR,hugh william porter,,Tokyo 1964,Cycling Track,Individual Pursuit men
+7,GER,lothar spiegelberg,,Tokyo 1964,Cycling Track,Individual Pursuit men
+8,HKG,kwong choi chow,overtaken,Tokyo 1964,Cycling Track,Individual Pursuit men
+9,MAS,choon boon tjow,overtaken,Tokyo 1964,Cycling Track,Individual Pursuit men
+10,VNM,tran van nen,overtaken,Tokyo 1964,Cycling Track,Individual Pursuit men
+11,PAK,muhammad amir ashiq,overtaken,Tokyo 1964,Cycling Track,Individual Pursuit men
+0,ITA,giovanni pettenella,,Tokyo 1964,Cycling Track,Sprint individual men
+1,ITA,sergio bianchetto,,Tokyo 1964,Cycling Track,Sprint individual men
+2,FRA,daniel morelon,2,Tokyo 1964,Cycling Track,Sprint individual men
+3,FRA,pierre trentin,1,Tokyo 1964,Cycling Track,Sprint individual men
+4,GER,willy fuggerer,,Tokyo 1964,Cycling Track,Sprint individual men
+5,BEL,patrick sercu,,Tokyo 1964,Cycling Track,Sprint individual men
+6,COL,mario vanegas jimenez,,Tokyo 1964,Cycling Track,Sprint individual men
+7,POL,zbyslaw zajac,,Tokyo 1964,Cycling Track,Sprint individual men
+8,TTO,roger gibbon,Did not finish,Tokyo 1964,Cycling Track,Sprint individual men
+9,ARG,carlos alberto vazquez,Did not finish,Tokyo 1964,Cycling Track,Sprint individual men
+0,,,,Tokyo 1964,Cycling Track,Team Pursuit 4000m men
+1,,,,Tokyo 1964,Cycling Track,Team Pursuit 4000m men
+2,,,00:04:38.990,Tokyo 1964,Cycling Track,Team Pursuit 4000m men
+3,,,00:04:39.420,Tokyo 1964,Cycling Track,Team Pursuit 4000m men
+4,,,,Tokyo 1964,Cycling Track,Team Pursuit 4000m men
+5,,,,Tokyo 1964,Cycling Track,Team Pursuit 4000m men
+6,,,,Tokyo 1964,Cycling Track,Team Pursuit 4000m men
+7,,,,Tokyo 1964,Cycling Track,Team Pursuit 4000m men
+8,,,Did not finish,Tokyo 1964,Cycling Track,Team Pursuit 4000m men
+9,,,Did not finish,Tokyo 1964,Cycling Track,Team Pursuit 4000m men

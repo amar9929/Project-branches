@@ -1,0 +1,123 @@
+,country,participant,result,olympic_game,discipline,event
+0,NOR,kristian blummenfelt,1:45:04,Tokyo 2020,Triathlon,Men's Individual
+1,GBR,alex yee,1:45:15,Tokyo 2020,Triathlon,Men's Individual
+2,NZL,hayden wilde,1:45:24,Tokyo 2020,Triathlon,Men's Individual
+3,BEL,marten van riel,1:45:52,Tokyo 2020,Triathlon,Men's Individual
+4,GBR,jonathan brownlee,1:45:53,Tokyo 2020,Triathlon,Men's Individual
+5,USA,kevin mcdowell,1:45:54,Tokyo 2020,Triathlon,Men's Individual
+6,HUN,bence bicsak,1:45:56,Tokyo 2020,Triathlon,Men's Individual
+7,NOR,gustav iden,1:46:00,Tokyo 2020,Triathlon,Men's Individual
+8,SUI,max studer,1:46:06,Tokyo 2020,Triathlon,Men's Individual
+9,ESP,mario mola,1:46:13,Tokyo 2020,Triathlon,Men's Individual
+10,NOR,casper stornes,1:46:19,Tokyo 2020,Triathlon,Men's Individual
+11,ESP,fernando alarza,1:46:22,Tokyo 2020,Triathlon,Men's Individual
+12,FRA,vincent luis,1:46:24,Tokyo 2020,Triathlon,Men's Individual
+13,JPN,kenji nener,1:46:24,Tokyo 2020,Triathlon,Men's Individual
+14,CAN,tyler mislawchuk,1:46:28,Tokyo 2020,Triathlon,Men's Individual
+15,AUS,jacob birtwhistle,1:46:32,Tokyo 2020,Triathlon,Men's Individual
+16,FRA,dorian coninx,1:46:48,Tokyo 2020,Triathlon,Men's Individual
+17,NZL,tayler reid,1:46:54,Tokyo 2020,Triathlon,Men's Individual
+18,JPN,makoto odakura,1:47:03,Tokyo 2020,Triathlon,Men's Individual
+19,ISR,shachar sagiv,1:47:10,Tokyo 2020,Triathlon,Men's Individual
+20,FRA,leo bergere,1:47:20,Tokyo 2020,Triathlon,Men's Individual
+21,SUI,andrea salvisberg,1:47:25,Tokyo 2020,Triathlon,Men's Individual
+22,POR,joao silva,1:47:30,Tokyo 2020,Triathlon,Men's Individual
+23,AUS,matthew hauser,1:47:35,Tokyo 2020,Triathlon,Men's Individual
+24,ESP,javier gomez noya,1:47:46,Tokyo 2020,Triathlon,Men's Individual
+25,AUS,aaron royle,1:47:57,Tokyo 2020,Triathlon,Men's Individual
+26,POR,joao pereira,1:48:03,Tokyo 2020,Triathlon,Men's Individual
+27,BRA,manoel messias,1:48:11,Tokyo 2020,Triathlon,Men's Individual
+28,HUN,tamas toth,1:48:19,Tokyo 2020,Triathlon,Men's Individual
+29,CHI,diego moya,1:48:29,Tokyo 2020,Triathlon,Men's Individual
+30,MEX,crisanto grajales,1:48:36,Tokyo 2020,Triathlon,Men's Individual
+31,ROC,dmitriy polyanskiy,1:48:46,Tokyo 2020,Triathlon,Men's Individual
+32,HKG,oscar coggins,1:48:55,Tokyo 2020,Triathlon,Men's Individual
+33,AUT,lukas hollaus,1:48:59,Tokyo 2020,Triathlon,Men's Individual
+34,ISR,ran sagiv,1:49:04,Tokyo 2020,Triathlon,Men's Individual
+35,ROU,felix duchampt,1:49:06,Tokyo 2020,Triathlon,Men's Individual
+36,ITA,gianluca pozzatti,1:49:14,Tokyo 2020,Triathlon,Men's Individual
+37,GER,jonas schomburg,1:49:34,Tokyo 2020,Triathlon,Men's Individual
+38,ITA,delian stateff,1:50:00,Tokyo 2020,Triathlon,Men's Individual
+39,GER,justus nieschlag,1:50:10,Tokyo 2020,Triathlon,Men's Individual
+40,AZE,rostyslav pevtsov,1:50:46,Tokyo 2020,Triathlon,Men's Individual
+41,USA,morgan pearson,1:52:05,Tokyo 2020,Triathlon,Men's Individual
+42,LUX,stefan zachaus,1:52:21,Tokyo 2020,Triathlon,Men's Individual
+43,MAR,mehdi essadiq,1:53:25,Tokyo 2020,Triathlon,Men's Individual
+44,MEX,irving perez,1:54:02,Tokyo 2020,Triathlon,Men's Individual
+45,SYR,mohamad maso,1:54:12,Tokyo 2020,Triathlon,Men's Individual
+46,IRL,russell white,1:54:40,Tokyo 2020,Triathlon,Men's Individual
+47,CAN,matthew sharpe,1:57:32,Tokyo 2020,Triathlon,Men's Individual
+48,RSA,henri schoeman,Did not finish,Tokyo 2020,Triathlon,Men's Individual
+49,AUT,alois knabl,Did not finish,Tokyo 2020,Triathlon,Men's Individual
+50,ROC,igor polyanskiy,Disqualified,Tokyo 2020,Triathlon,Men's Individual
+0,,,1:23:41,Tokyo 2020,Triathlon,Mixed Relay
+1,,,1:23:55,Tokyo 2020,Triathlon,Mixed Relay
+2,,,1:24:04,Tokyo 2020,Triathlon,Mixed Relay
+3,,,1:24:34,Tokyo 2020,Triathlon,Mixed Relay
+4,,,1:24:36,Tokyo 2020,Triathlon,Mixed Relay
+5,,,1:24:40,Tokyo 2020,Triathlon,Mixed Relay
+6,,,1:25:27,Tokyo 2020,Triathlon,Mixed Relay
+7,,,1:26:23,Tokyo 2020,Triathlon,Mixed Relay
+8,,,1:26:27,Tokyo 2020,Triathlon,Mixed Relay
+9,,,1:26:31,Tokyo 2020,Triathlon,Mixed Relay
+10,,,1:26:43,Tokyo 2020,Triathlon,Mixed Relay
+11,,,1:26:53,Tokyo 2020,Triathlon,Mixed Relay
+12,,,1:27:02,Tokyo 2020,Triathlon,Mixed Relay
+13,,,1:27:21,Tokyo 2020,Triathlon,Mixed Relay
+14,,,1:28:53,Tokyo 2020,Triathlon,Mixed Relay
+15,,,Did not start,Tokyo 2020,Triathlon,Mixed Relay
+16,,,Disqualified,Tokyo 2020,Triathlon,Mixed Relay
+0,BER,flora duffy,1:55:36,Tokyo 2020,Triathlon,Women's Individual
+1,GBR,georgia taylor-brown,1:56:50,Tokyo 2020,Triathlon,Women's Individual
+2,USA,katie zaferes,1:57:03,Tokyo 2020,Triathlon,Women's Individual
+3,NED,rachel klamer,1:57:48,Tokyo 2020,Triathlon,Women's Individual
+4,FRA,leonie periault,1:57:49,Tokyo 2020,Triathlon,Women's Individual
+5,SUI,nicola spirig,1:58:05,Tokyo 2020,Triathlon,Women's Individual
+6,ITA,alice betto,1:58:22,Tokyo 2020,Triathlon,Women's Individual
+7,GER,laura lindemann,1:58:24,Tokyo 2020,Triathlon,Women's Individual
+8,GBR,jessica learmonth,1:58:28,Tokyo 2020,Triathlon,Women's Individual
+9,BEL,valerie barthelemy,1:58:49,Tokyo 2020,Triathlon,Women's Individual
+10,NED,maya kingma,1:59:16,Tokyo 2020,Triathlon,Women's Individual
+11,HUN,zsanett horvath,2:00:00,Tokyo 2020,Triathlon,Women's Individual
+12,GBR,vicky holland,2:00:10,Tokyo 2020,Triathlon,Women's Individual
+13,USA,summer rappaport,2:00:19,Tokyo 2020,Triathlon,Women's Individual
+14,CAN,amelie kretz,2:00:33,Tokyo 2020,Triathlon,Women's Individual
+15,USA,taylor knibb,2:00:59,Tokyo 2020,Triathlon,Women's Individual
+16,RSA,simone ackermann,2:01:14,Tokyo 2020,Triathlon,Women's Individual
+17,JPN,yuko takahashi,2:01:18,Tokyo 2020,Triathlon,Women's Individual
+18,SUI,jolanda annen,2:01:31,Tokyo 2020,Triathlon,Women's Individual
+19,ITA,verena steinhauser,2:01:47,Tokyo 2020,Triathlon,Women's Individual
+20,ESP,miriam casillas garcia,2:01:52,Tokyo 2020,Triathlon,Women's Individual
+21,POR,melanie santos,2:02:06,Tokyo 2020,Triathlon,Women's Individual
+22,IRL,carolyn hayes,2:02:10,Tokyo 2020,Triathlon,Women's Individual
+23,NOR,lotte miller,2:02:43,Tokyo 2020,Triathlon,Women's Individual
+24,CHI,barbara riveros,2:02:46,Tokyo 2020,Triathlon,Women's Individual
+25,AUS,emma jeffcoat,2:02:57,Tokyo 2020,Triathlon,Women's Individual
+26,AUT,lisa perterer,2:03:00,Tokyo 2020,Triathlon,Women's Individual
+27,BRA,vittoria lopes,2:03:09,Tokyo 2020,Triathlon,Women's Individual
+28,NZL,nicole van der kaay,2:03:26,Tokyo 2020,Triathlon,Women's Individual
+29,CZE,petra kurikova,2:04:10,Tokyo 2020,Triathlon,Women's Individual
+30,GER,anabel knoll,2:04:45,Tokyo 2020,Triathlon,Women's Individual
+31,BRA,luisa baptista,2:05:32,Tokyo 2020,Triathlon,Women's Individual
+32,ARG,romina biagioli,2:07:42,Tokyo 2020,Triathlon,Women's Individual
+33,BEL,claire michel,2:11:05,Tokyo 2020,Triathlon,Women's Individual
+34,ITA,angelica olmo,Did not finish,Tokyo 2020,Triathlon,Women's Individual
+35,ECU,elizabeth bravo,Lapped,Tokyo 2020,Triathlon,Women's Individual
+36,AUS,ashleigh gentle,Lapped,Tokyo 2020,Triathlon,Women's Individual
+37,CZE,vendula frintova,Lapped,Tokyo 2020,Triathlon,Women's Individual
+38,AUS,jaz hedgeland,Lapped,Tokyo 2020,Triathlon,Women's Individual
+39,ESP,anna godoy,Lapped,Tokyo 2020,Triathlon,Women's Individual
+40,HUN,zsofia kovacs,Lapped,Tokyo 2020,Triathlon,Women's Individual
+41,RSA,gillian sanders,Lapped,Tokyo 2020,Triathlon,Women's Individual
+42,ROC,alexandra razarenova,Lapped,Tokyo 2020,Triathlon,Women's Individual
+43,CAN,joanna brown,Lapped,Tokyo 2020,Triathlon,Women's Individual
+44,CHN,mengying zhong,Lapped,Tokyo 2020,Triathlon,Women's Individual
+45,EST,kaidi kivioja,Lapped,Tokyo 2020,Triathlon,Women's Individual
+46,EGY,basmla elsalamoney,Lapped,Tokyo 2020,Triathlon,Women's Individual
+47,MEX,cecilia perez,Did not finish,Tokyo 2020,Triathlon,Women's Individual
+48,FRA,cassandre beaugrand,Did not finish,Tokyo 2020,Triathlon,Women's Individual
+49,NZL,ainsley thorpe,Did not finish,Tokyo 2020,Triathlon,Women's Individual
+50,ROC,anastasia gorbunova,Did not finish,Tokyo 2020,Triathlon,Women's Individual
+51,JPN,niina kishimoto,Did not finish,Tokyo 2020,Triathlon,Women's Individual
+52,MEX,claudia rivas,Did not finish,Tokyo 2020,Triathlon,Women's Individual
+53,AUT,julia hauser,Did not finish,Tokyo 2020,Triathlon,Women's Individual

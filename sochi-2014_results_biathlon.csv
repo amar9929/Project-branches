@@ -1,0 +1,577 @@
+,country,participant,result,olympic_game,discipline,event
+0,NOR,ole einar bjørndalen,00:24:33.500,Sochi 2014,Biathlon,10km men
+1,AUT,dominik landertinger,00:24:34.800,Sochi 2014,Biathlon,10km men
+2,CZE,jaroslav soukup,00:24:39.200,Sochi 2014,Biathlon,10km men
+3,RUS,anton shipulin,00:24:39.900,Sochi 2014,Biathlon,10km men
+4,CAN,jean-philippe le guellec,00:24:43.200,Sochi 2014,Biathlon,10km men
+5,FRA,martin fourcade,00:24:45.900,Sochi 2014,Biathlon,10km men
+6,AUT,simon eder,00:24:47.200,Sochi 2014,Biathlon,10km men
+7,CZE,ondrej moravec,00:24:48.100,Sochi 2014,Biathlon,10km men
+8,NOR,emil hegle svendsen,00:25:02.800,Sochi 2014,Biathlon,10km men
+9,SLO,jakov fak,00:25:06.500,Sochi 2014,Biathlon,10km men
+10,ITA,dominik windisch,00:25:07.600,Sochi 2014,Biathlon,10km men
+11,ITA,lukas hofer,00:25:08.800,Sochi 2014,Biathlon,10km men
+12,CAN,nathan smith,00:25:09.700,Sochi 2014,Biathlon,10km men
+13,FRA,jean guillaume beatrix,00:25:12.100,Sochi 2014,Biathlon,10km men
+14,GER,simon schempp,00:25:16.400,Sochi 2014,Biathlon,10km men
+15,LAT,andrejs rastorgujevs,00:25:20.200,Sochi 2014,Biathlon,10km men
+16,SWE,fredrik lindstroem,00:25:21.000,Sochi 2014,Biathlon,10km men
+17,USA,tim burke,00:25:23.300,Sochi 2014,Biathlon,10km men
+18,AUT,christoph sumann,00:25:25.500,Sochi 2014,Biathlon,10km men
+19,GER,erik lesser,00:25:26.700,Sochi 2014,Biathlon,10km men
+20,UKR,andriy deryzemlya,00:25:29.000,Sochi 2014,Biathlon,10km men
+21,CAN,brendan green,00:25:31.700,Sochi 2014,Biathlon,10km men
+22,SWE,carl johan bergman,00:25:35.900,Sochi 2014,Biathlon,10km men
+23,SWE,bjorn ferry,00:25:36.400,Sochi 2014,Biathlon,10km men
+24,SLO,klemen bauer,00:25:40.700,Sochi 2014,Biathlon,10km men
+25,RUS,evgeniy garanichev,00:25:43.000,Sochi 2014,Biathlon,10km men
+26,RUS,dmitry malyshko,00:25:48.500,Sochi 2014,Biathlon,10km men
+27,BLR,vladimir chepelin,00:25:49.700,Sochi 2014,Biathlon,10km men
+28,ROU,cornel puchianu,00:25:50.700,Sochi 2014,Biathlon,10km men
+29,CZE,michal slesingr,00:25:51.700,Sochi 2014,Biathlon,10km men
+30,UKR,artem pryma,00:25:57.600,Sochi 2014,Biathlon,10km men
+31,BLR,sergey novikov,00:26:00.800,Sochi 2014,Biathlon,10km men
+32,GER,arnd peiffer,00:26:01.200,Sochi 2014,Biathlon,10km men
+33,USA,lowell bailey,00:26:04.100,Sochi 2014,Biathlon,10km men
+34,FRA,simon fourcade,00:26:04.200,Sochi 2014,Biathlon,10km men
+35,SVK,matej kazar,00:26:04.800,Sochi 2014,Biathlon,10km men
+36,AUT,daniel mesotitsch,00:26:06.600,Sochi 2014,Biathlon,10km men
+37,NOR,tarjei boe,00:26:10.100,Sochi 2014,Biathlon,10km men
+38,SUI,serafin wiestner,00:26:10.200,Sochi 2014,Biathlon,10km men
+39,UKR,sergii semenov,00:26:10.400,Sochi 2014,Biathlon,10km men
+40,SWE,tobias arwidson,00:26:11.800,Sochi 2014,Biathlon,10km men
+41,KAZ,yan savitskiy,00:26:13.000,Sochi 2014,Biathlon,10km men
+42,USA,leif nordgren,00:26:17.400,Sochi 2014,Biathlon,10km men
+43,FRA,simon desthieux,00:26:18.200,Sochi 2014,Biathlon,10km men
+44,ITA,christian de lorenzi,00:26:25.400,Sochi 2014,Biathlon,10km men
+45,LTU,tomas kaukenas,00:26:26.200,Sochi 2014,Biathlon,10km men
+46,BUL,krasimir anev,00:26:28.000,Sochi 2014,Biathlon,10km men
+47,EST,danil steptsenko,00:26:40.500,Sochi 2014,Biathlon,10km men
+48,SLO,janez maric,00:26:41.300,Sochi 2014,Biathlon,10km men
+49,SVK,pavol hurajt,00:26:45.800,Sochi 2014,Biathlon,10km men
+50,EST,indrek tobreluts,00:26:46.500,Sochi 2014,Biathlon,10km men
+51,EST,kauri koiv,00:26:47.100,Sochi 2014,Biathlon,10km men
+52,NOR,johannes thingnes boe,00:26:51.000,Sochi 2014,Biathlon,10km men
+53,BLR,evgeny abramenko,00:26:55.000,Sochi 2014,Biathlon,10km men
+54,BLR,yury liadau,00:26:55.100,Sochi 2014,Biathlon,10km men
+55,GER,christoph stephan,00:26:55.400,Sochi 2014,Biathlon,10km men
+56,KAZ,sergey naumik,00:26:55.500,Sochi 2014,Biathlon,10km men
+57,BUL,vladimir iliev,00:26:55.900,Sochi 2014,Biathlon,10km men
+58,USA,russell currier,00:26:58.500,Sochi 2014,Biathlon,10km men
+59,FIN,ahti toivanen,00:26:58.600,Sochi 2014,Biathlon,10km men
+60,SUI,benjamin weger,00:27:00.500,Sochi 2014,Biathlon,10km men
+61,POL,krzysztof plywaczyk,00:27:02.300,Sochi 2014,Biathlon,10km men
+62,SVK,tomas hasilla,00:27:05.400,Sochi 2014,Biathlon,10km men
+63,EST,roland lessing,00:27:06.300,Sochi 2014,Biathlon,10km men
+64,GBR,lee-steve jackson,00:27:07.500,Sochi 2014,Biathlon,10km men
+65,SVK,martin otcenas,00:27:07.800,Sochi 2014,Biathlon,10km men
+66,SRB,milanko petrovic,00:27:08.200,Sochi 2014,Biathlon,10km men
+67,BUL,mihail klecherov,00:27:13.600,Sochi 2014,Biathlon,10km men
+68,JPN,hidenori isa,00:27:15.200,Sochi 2014,Biathlon,10km men
+69,SLO,peter dokl,00:27:20.100,Sochi 2014,Biathlon,10km men
+70,AUS,alexei almoukov,00:27:24.600,Sochi 2014,Biathlon,10km men
+71,CAN,scott perras,00:27:32.100,Sochi 2014,Biathlon,10km men
+72,CZE,tomas krupcik,00:27:39.300,Sochi 2014,Biathlon,10km men
+73,BUL,ivan zlatev,00:27:48.500,Sochi 2014,Biathlon,10km men
+74,POL,lukasz szczurek,00:27:57.200,Sochi 2014,Biathlon,10km men
+75,FIN,jarkko kauppinen,00:27:57.800,Sochi 2014,Biathlon,10km men
+76,HUN,karoly gombos,00:28:04.300,Sochi 2014,Biathlon,10km men
+77,KAZ,anton pantov,00:28:05.000,Sochi 2014,Biathlon,10km men
+78,ITA,markus windisch,00:28:14.400,Sochi 2014,Biathlon,10km men
+79,KOR,inbok lee,00:28:35.900,Sochi 2014,Biathlon,10km men
+80,CHN,long ren,00:28:53.200,Sochi 2014,Biathlon,10km men
+81,ESP,victor lobo escolar,00:28:53.300,Sochi 2014,Biathlon,10km men
+82,POL,grzegorz guzik,00:29:17.200,Sochi 2014,Biathlon,10km men
+83,POL,rafal lepel,00:29:25.800,Sochi 2014,Biathlon,10km men
+84,KAZ,dias keneshev,00:30:06.800,Sochi 2014,Biathlon,10km men
+85,UKR,serguei sednev,Disqualified,Sochi 2014,Biathlon,10km men
+86,RUS,evgeny ustyugov,Disqualified,Sochi 2014,Biathlon,10km men
+0,BLR,darya domracheva,00:29:30.700,Sochi 2014,Biathlon,10km pursuit women
+1,NOR,tora berger,00:30:08.300,Sochi 2014,Biathlon,10km pursuit women
+2,SLO,teja gregorin,00:30:12.700,Sochi 2014,Biathlon,10km pursuit women
+3,CZE,gabriela koukalova,00:30:18.300,Sochi 2014,Biathlon,10km pursuit women
+4,UKR,valj semerenko,00:30:23.600,Sochi 2014,Biathlon,10km pursuit women
+5,SVK,anastasiya kuzmina,00:30:29.100,Sochi 2014,Biathlon,10km pursuit women
+6,RUS,olga vilukhina,00:30:32.900,Sochi 2014,Biathlon,10km pursuit women
+7,ITA,karin oberhofer,00:30:37.800,Sochi 2014,Biathlon,10km pursuit women
+8,NOR,ann kristin aafedt flatland,00:30:40.200,Sochi 2014,Biathlon,10km pursuit women
+9,UKR,vita semerenko,00:30:40.300,Sochi 2014,Biathlon,10km pursuit women
+10,FRA,anais bescond,00:30:43.700,Sochi 2014,Biathlon,10km pursuit women
+11,BLR,nadezhda skardino,00:30:43.700,Sochi 2014,Biathlon,10km pursuit women
+12,FRA,marie dorin habert,00:30:53.600,Sochi 2014,Biathlon,10km pursuit women
+13,SUI,selina gasparin,00:30:59.100,Sochi 2014,Biathlon,10km pursuit women
+14,FIN,kaisa makarainen,00:31:02.300,Sochi 2014,Biathlon,10km pursuit women
+15,ITA,dorothea wierer,00:31:03.200,Sochi 2014,Biathlon,10km pursuit women
+16,USA,susan dunklee,00:31:11.600,Sochi 2014,Biathlon,10km pursuit women
+17,POL,monika hojnisz,00:31:14.000,Sochi 2014,Biathlon,10km pursuit women
+18,POL,weronika nowakowska,00:31:25.400,Sochi 2014,Biathlon,10km pursuit women
+19,CZE,veronika vitkova,00:31:42.900,Sochi 2014,Biathlon,10km pursuit women
+20,UKR,olena pidhrushna,00:31:54.200,Sochi 2014,Biathlon,10km pursuit women
+21,RUS,yana romanova,00:31:55.100,Sochi 2014,Biathlon,10km pursuit women
+22,NOR,tiril eckhoff,00:32:12.300,Sochi 2014,Biathlon,10km pursuit women
+23,CAN,zina kocher,00:32:15.100,Sochi 2014,Biathlon,10km pursuit women
+24,ROU,eva tofalvi,00:32:15.300,Sochi 2014,Biathlon,10km pursuit women
+25,GER,evi sachenbacher-stehle,00:32:16.600,Sochi 2014,Biathlon,10km pursuit women
+26,CAN,megan imrie,00:32:22.700,Sochi 2014,Biathlon,10km pursuit women
+27,GER,andrea henkel,00:32:30.400,Sochi 2014,Biathlon,10km pursuit women
+28,GER,laura dahlmeier,00:32:38.800,Sochi 2014,Biathlon,10km pursuit women
+29,SUI,elisa gasparin,00:32:42.800,Sochi 2014,Biathlon,10km pursuit women
+30,JPN,fuyuko tachizaki,00:32:49.000,Sochi 2014,Biathlon,10km pursuit women
+31,BLR,liudmila kalinchik,00:32:54.900,Sochi 2014,Biathlon,10km pursuit women
+32,POL,krystyna guzik,00:32:56.300,Sochi 2014,Biathlon,10km pursuit women
+33,SVK,jana gerekova,00:32:57.700,Sochi 2014,Biathlon,10km pursuit women
+34,NOR,synnoeve solemdal,00:33:04.300,Sochi 2014,Biathlon,10km pursuit women
+35,KAZ,yelena khrustalyova,00:33:06.500,Sochi 2014,Biathlon,10km pursuit women
+36,POL,magdalena gwizdon,00:33:14.300,Sochi 2014,Biathlon,10km pursuit women
+37,AUT,lisa theresa hauser,00:33:25.000,Sochi 2014,Biathlon,10km pursuit women
+38,GER,franziska preuss,00:33:34.000,Sochi 2014,Biathlon,10km pursuit women
+39,KAZ,darya klimina,00:33:54.600,Sochi 2014,Biathlon,10km pursuit women
+40,CZE,eva puskarcikova,00:33:59.000,Sochi 2014,Biathlon,10km pursuit women
+41,LTU,diana rasimoviciute,00:34:07.100,Sochi 2014,Biathlon,10km pursuit women
+42,FRA,anais chevalier,00:34:14.500,Sochi 2014,Biathlon,10km pursuit women
+43,CAN,rosanna crawford,00:34:15.600,Sochi 2014,Biathlon,10km pursuit women
+44,ESP,victoria padial hernandez,00:34:30.300,Sochi 2014,Biathlon,10km pursuit women
+45,RUS,ekaterina shumilova,00:34:34.200,Sochi 2014,Biathlon,10km pursuit women
+46,ITA,michela ponza,00:34:36.400,Sochi 2014,Biathlon,10km pursuit women
+47,ITA,nicole gontier,00:34:37.500,Sochi 2014,Biathlon,10km pursuit women
+48,CHN,jialin tang,00:34:40.400,Sochi 2014,Biathlon,10km pursuit women
+49,USA,sara studebaker,00:35:00.000,Sochi 2014,Biathlon,10km pursuit women
+50,CZE,jitka landova,00:35:37.600,Sochi 2014,Biathlon,10km pursuit women
+51,CHN,yan zhang,00:36:12.100,Sochi 2014,Biathlon,10km pursuit women
+52,USA,annelies cook,00:36:20.900,Sochi 2014,Biathlon,10km pursuit women
+53,EST,johanna talihaerm,00:37:52.500,Sochi 2014,Biathlon,10km pursuit women
+54,BLR,nastassia kinnunen,00:41:01.800,Sochi 2014,Biathlon,10km pursuit women
+55,CAN,megan tandy,Did not finish,Sochi 2014,Biathlon,10km pursuit women
+56,RUS,olga zaytseva,Disqualified,Sochi 2014,Biathlon,10km pursuit women
+57,FIN,mari laukkanen,Did not start,Sochi 2014,Biathlon,10km pursuit women
+58,UKR,yuliia dzhima,Did not start,Sochi 2014,Biathlon,10km pursuit women
+59,FRA,marie laure brunet,Did not start,Sochi 2014,Biathlon,10km pursuit women
+0,BLR,darya domracheva,00:35:25.600,Sochi 2014,Biathlon,12.5km mass start women
+1,CZE,gabriela koukalova,00:35:45.800,Sochi 2014,Biathlon,12.5km mass start women
+2,NOR,tiril eckhoff,00:35:52.900,Sochi 2014,Biathlon,12.5km mass start women
+3,SLO,teja gregorin,00:36:05.000,Sochi 2014,Biathlon,12.5km mass start women
+4,POL,monika hojnisz,00:36:20.500,Sochi 2014,Biathlon,12.5km mass start women
+5,FIN,kaisa makarainen,00:36:27.100,Sochi 2014,Biathlon,12.5km mass start women
+6,UKR,olena pidhrushna,00:36:37.100,Sochi 2014,Biathlon,12.5km mass start women
+7,CZE,veronika vitkova,00:36:49.300,Sochi 2014,Biathlon,12.5km mass start women
+8,SUI,selina gasparin,00:36:54.900,Sochi 2014,Biathlon,12.5km mass start women
+9,FRA,anais bescond,00:36:55.300,Sochi 2014,Biathlon,12.5km mass start women
+10,USA,susan dunklee,00:36:57.900,Sochi 2014,Biathlon,12.5km mass start women
+11,UKR,valj semerenko,00:37:03.500,Sochi 2014,Biathlon,12.5km mass start women
+12,ITA,karin oberhofer,00:37:03.600,Sochi 2014,Biathlon,12.5km mass start women
+13,NOR,tora berger,00:37:07.800,Sochi 2014,Biathlon,12.5km mass start women
+14,BLR,nadezhda skardino,00:37:08.000,Sochi 2014,Biathlon,12.5km mass start women
+15,UKR,vita semerenko,00:37:16.100,Sochi 2014,Biathlon,12.5km mass start women
+16,GER,andrea henkel,00:37:19.200,Sochi 2014,Biathlon,12.5km mass start women
+17,POL,krystyna guzik,00:37:33.900,Sochi 2014,Biathlon,12.5km mass start women
+18,POL,weronika nowakowska,00:37:35.200,Sochi 2014,Biathlon,12.5km mass start women
+19,ROU,eva tofalvi,00:37:50.900,Sochi 2014,Biathlon,12.5km mass start women
+20,RUS,olga vilukhina,00:38:05.300,Sochi 2014,Biathlon,12.5km mass start women
+21,UKR,yuliia dzhima,00:38:10.800,Sochi 2014,Biathlon,12.5km mass start women
+22,NOR,ann kristin aafedt flatland,00:38:15.600,Sochi 2014,Biathlon,12.5km mass start women
+23,ITA,dorothea wierer,00:38:37.400,Sochi 2014,Biathlon,12.5km mass start women
+24,SVK,anastasiya kuzmina,00:38:50.300,Sochi 2014,Biathlon,12.5km mass start women
+25,CAN,megan imrie,00:38:59.000,Sochi 2014,Biathlon,12.5km mass start women
+26,GER,franziska hildebrand,00:39:09.500,Sochi 2014,Biathlon,12.5km mass start women
+27,SUI,elisa gasparin,Did not finish,Sochi 2014,Biathlon,12.5km mass start women
+28,GER,evi sachenbacher-stehle,Disqualified,Sochi 2014,Biathlon,12.5km mass start women
+29,RUS,olga zaytseva,Disqualified,Sochi 2014,Biathlon,12.5km mass start women
+0,FRA,martin fourcade,00:33:48.600,Sochi 2014,Biathlon,12.5km pursuit men
+1,CZE,ondrej moravec,00:34:02.700,Sochi 2014,Biathlon,12.5km pursuit men
+2,FRA,jean guillaume beatrix,00:34:12.800,Sochi 2014,Biathlon,12.5km pursuit men
+3,NOR,ole einar bjørndalen,00:34:14.500,Sochi 2014,Biathlon,12.5km pursuit men
+4,GER,simon schempp,00:34:27.700,Sochi 2014,Biathlon,12.5km pursuit men
+5,NOR,emil hegle svendsen,00:34:28.800,Sochi 2014,Biathlon,12.5km pursuit men
+6,AUT,simon eder,00:34:28.900,Sochi 2014,Biathlon,12.5km pursuit men
+7,LAT,andrejs rastorgujevs,00:34:36.900,Sochi 2014,Biathlon,12.5km pursuit men
+8,AUT,dominik landertinger,00:34:37.500,Sochi 2014,Biathlon,12.5km pursuit men
+9,CAN,nathan smith,00:34:37.700,Sochi 2014,Biathlon,12.5km pursuit men
+10,AUT,christoph sumann,00:34:43.000,Sochi 2014,Biathlon,12.5km pursuit men
+11,SWE,fredrik lindstroem,00:34:45.700,Sochi 2014,Biathlon,12.5km pursuit men
+12,RUS,anton shipulin,00:34:47.100,Sochi 2014,Biathlon,12.5km pursuit men
+13,RUS,evgeniy garanichev,00:34:47.700,Sochi 2014,Biathlon,12.5km pursuit men
+14,GER,erik lesser,00:34:53.100,Sochi 2014,Biathlon,12.5km pursuit men
+15,ITA,lukas hofer,00:34:53.100,Sochi 2014,Biathlon,12.5km pursuit men
+16,FRA,simon fourcade,00:35:15.000,Sochi 2014,Biathlon,12.5km pursuit men
+17,GER,arnd peiffer,00:35:21.400,Sochi 2014,Biathlon,12.5km pursuit men
+18,CZE,jaroslav soukup,00:35:35.000,Sochi 2014,Biathlon,12.5km pursuit men
+19,FRA,simon desthieux,00:35:35.600,Sochi 2014,Biathlon,12.5km pursuit men
+20,USA,tim burke,00:35:37.000,Sochi 2014,Biathlon,12.5km pursuit men
+21,SVK,matej kazar,00:35:38.400,Sochi 2014,Biathlon,12.5km pursuit men
+22,SLO,klemen bauer,00:35:39.800,Sochi 2014,Biathlon,12.5km pursuit men
+23,ITA,dominik windisch,00:35:40.000,Sochi 2014,Biathlon,12.5km pursuit men
+24,CAN,jean-philippe le guellec,00:35:45.300,Sochi 2014,Biathlon,12.5km pursuit men
+25,NOR,tarjei boe,00:35:50.500,Sochi 2014,Biathlon,12.5km pursuit men
+26,SWE,tobias arwidson,00:35:51.200,Sochi 2014,Biathlon,12.5km pursuit men
+27,KAZ,yan savitskiy,00:35:57.000,Sochi 2014,Biathlon,12.5km pursuit men
+28,SWE,bjorn ferry,00:36:06.900,Sochi 2014,Biathlon,12.5km pursuit men
+29,SLO,jakov fak,00:36:11.200,Sochi 2014,Biathlon,12.5km pursuit men
+30,NOR,johannes thingnes boe,00:36:12.400,Sochi 2014,Biathlon,12.5km pursuit men
+31,RUS,dmitry malyshko,00:36:17.000,Sochi 2014,Biathlon,12.5km pursuit men
+32,SWE,carl johan bergman,00:36:20.900,Sochi 2014,Biathlon,12.5km pursuit men
+33,CAN,brendan green,00:36:21.200,Sochi 2014,Biathlon,12.5km pursuit men
+34,UKR,andriy deryzemlya,00:36:21.500,Sochi 2014,Biathlon,12.5km pursuit men
+35,AUT,daniel mesotitsch,00:36:23.400,Sochi 2014,Biathlon,12.5km pursuit men
+36,USA,lowell bailey,00:36:34.800,Sochi 2014,Biathlon,12.5km pursuit men
+37,UKR,sergii semenov,00:36:48.100,Sochi 2014,Biathlon,12.5km pursuit men
+38,LTU,tomas kaukenas,00:36:49.800,Sochi 2014,Biathlon,12.5km pursuit men
+39,BLR,vladimir chepelin,00:36:57.200,Sochi 2014,Biathlon,12.5km pursuit men
+40,ITA,christian de lorenzi,00:36:58.200,Sochi 2014,Biathlon,12.5km pursuit men
+41,GER,christoph stephan,00:37:18.800,Sochi 2014,Biathlon,12.5km pursuit men
+42,UKR,artem pryma,00:37:39.300,Sochi 2014,Biathlon,12.5km pursuit men
+43,EST,indrek tobreluts,00:38:00.500,Sochi 2014,Biathlon,12.5km pursuit men
+44,EST,kauri koiv,00:38:10.200,Sochi 2014,Biathlon,12.5km pursuit men
+45,ROU,cornel puchianu,00:38:19.800,Sochi 2014,Biathlon,12.5km pursuit men
+46,BUL,krasimir anev,00:38:47.600,Sochi 2014,Biathlon,12.5km pursuit men
+47,SLO,janez maric,00:38:58.400,Sochi 2014,Biathlon,12.5km pursuit men
+48,BLR,sergey novikov,00:38:59.500,Sochi 2014,Biathlon,12.5km pursuit men
+49,BLR,evgeny abramenko,00:39:11.500,Sochi 2014,Biathlon,12.5km pursuit men
+50,SVK,pavol hurajt,00:39:14.300,Sochi 2014,Biathlon,12.5km pursuit men
+51,USA,leif nordgren,00:39:31.400,Sochi 2014,Biathlon,12.5km pursuit men
+52,BUL,vladimir iliev,00:39:44.600,Sochi 2014,Biathlon,12.5km pursuit men
+53,BLR,yury liadau,00:39:46.200,Sochi 2014,Biathlon,12.5km pursuit men
+54,SUI,serafin wiestner,00:39:48.100,Sochi 2014,Biathlon,12.5km pursuit men
+55,KAZ,sergey naumik,00:40:06.500,Sochi 2014,Biathlon,12.5km pursuit men
+56,EST,danil steptsenko,00:40:52.000,Sochi 2014,Biathlon,12.5km pursuit men
+57,UKR,serguei sednev,Disqualified,Sochi 2014,Biathlon,12.5km pursuit men
+58,RUS,evgeny ustyugov,Disqualified,Sochi 2014,Biathlon,12.5km pursuit men
+59,CZE,michal slesingr,Did not start,Sochi 2014,Biathlon,12.5km pursuit men
+0,NOR,emil hegle svendsen,00:42:29.100,Sochi 2014,Biathlon,15km mass start men
+1,FRA,martin fourcade,00:42:29.100,Sochi 2014,Biathlon,15km mass start men
+2,CZE,ondrej moravec,00:42:42.900,Sochi 2014,Biathlon,15km mass start men
+3,SLO,jakov fak,00:42:57.200,Sochi 2014,Biathlon,15km mass start men
+4,RUS,evgeniy garanichev,00:43:25.300,Sochi 2014,Biathlon,15km mass start men
+5,SWE,fredrik lindstroem,00:43:30.500,Sochi 2014,Biathlon,15km mass start men
+6,AUT,dominik landertinger,00:43:32.800,Sochi 2014,Biathlon,15km mass start men
+7,NOR,johannes thingnes boe,00:43:34.200,Sochi 2014,Biathlon,15km mass start men
+8,CAN,brendan green,00:43:38.300,Sochi 2014,Biathlon,15km mass start men
+9,CAN,jean-philippe le guellec,00:43:41.600,Sochi 2014,Biathlon,15km mass start men
+10,RUS,anton shipulin,00:43:48.200,Sochi 2014,Biathlon,15km mass start men
+11,SWE,bjorn ferry,00:43:48.300,Sochi 2014,Biathlon,15km mass start men
+12,GER,simon schempp,00:43:48.300,Sochi 2014,Biathlon,15km mass start men
+13,LAT,andrejs rastorgujevs,00:43:53.100,Sochi 2014,Biathlon,15km mass start men
+14,SVK,matej kazar,00:44:25.600,Sochi 2014,Biathlon,15km mass start men
+15,AUT,simon eder,00:44:30.700,Sochi 2014,Biathlon,15km mass start men
+16,FRA,jean guillaume beatrix,00:44:34.200,Sochi 2014,Biathlon,15km mass start men
+17,GER,arnd peiffer,00:44:35.000,Sochi 2014,Biathlon,15km mass start men
+18,RUS,dmitry malyshko,00:44:42.900,Sochi 2014,Biathlon,15km mass start men
+19,USA,tim burke,00:44:55.900,Sochi 2014,Biathlon,15km mass start men
+20,NOR,ole einar bjørndalen,00:45:08.300,Sochi 2014,Biathlon,15km mass start men
+21,USA,lowell bailey,00:45:19.200,Sochi 2014,Biathlon,15km mass start men
+22,CZE,jaroslav soukup,00:45:22.200,Sochi 2014,Biathlon,15km mass start men
+23,ITA,dominik windisch,00:45:28.400,Sochi 2014,Biathlon,15km mass start men
+24,GER,erik lesser,00:45:34.200,Sochi 2014,Biathlon,15km mass start men
+25,AUT,christoph sumann,00:45:39.000,Sochi 2014,Biathlon,15km mass start men
+26,ITA,lukas hofer,Did not finish,Sochi 2014,Biathlon,15km mass start men
+27,CAN,nathan smith,Did not finish,Sochi 2014,Biathlon,15km mass start men
+28,FRA,simon fourcade,Did not finish,Sochi 2014,Biathlon,15km mass start men
+29,RUS,evgeny ustyugov,Disqualified,Sochi 2014,Biathlon,15km mass start men
+0,BLR,darya domracheva,00:43:19.600,Sochi 2014,Biathlon,15km women
+1,SUI,selina gasparin,00:44:35.300,Sochi 2014,Biathlon,15km women
+2,BLR,nadezhda skardino,00:44:57.800,Sochi 2014,Biathlon,15km women
+3,CZE,gabriela koukalova,00:45:17.100,Sochi 2014,Biathlon,15km women
+4,FRA,anais bescond,00:45:34.000,Sochi 2014,Biathlon,15km women
+5,CZE,veronika vitkova,00:45:46.000,Sochi 2014,Biathlon,15km women
+6,UKR,yuliia dzhima,00:45:49.900,Sochi 2014,Biathlon,15km women
+7,UKR,olena pidhrushna,00:45:59.500,Sochi 2014,Biathlon,15km women
+8,FIN,kaisa makarainen,00:46:02.500,Sochi 2014,Biathlon,15km women
+9,POL,krystyna guzik,00:46:27.300,Sochi 2014,Biathlon,15km women
+10,SLO,teja gregorin,00:46:38.700,Sochi 2014,Biathlon,15km women
+11,POL,monika hojnisz,00:46:44.300,Sochi 2014,Biathlon,15km women
+12,GER,laura dahlmeier,00:46:45.700,Sochi 2014,Biathlon,15km women
+13,ITA,karin oberhofer,00:46:46.600,Sochi 2014,Biathlon,15km women
+14,NOR,tora berger,00:47:12.600,Sochi 2014,Biathlon,15km women
+15,FRA,marie laure brunet,00:47:13.600,Sochi 2014,Biathlon,15km women
+16,NOR,tiril eckhoff,00:47:20.400,Sochi 2014,Biathlon,15km women
+17,UKR,valj semerenko,00:47:28.200,Sochi 2014,Biathlon,15km women
+18,GER,evi sachenbacher-stehle,00:47:30.400,Sochi 2014,Biathlon,15km women
+19,ROU,eva tofalvi,00:47:30.800,Sochi 2014,Biathlon,15km women
+20,CZE,eva puskarcikova,00:47:34.600,Sochi 2014,Biathlon,15km women
+21,USA,hannah dreissigacker,00:47:51.700,Sochi 2014,Biathlon,15km women
+22,NOR,elise ringen,00:47:54.000,Sochi 2014,Biathlon,15km women
+23,BLR,liudmila kalinchik,00:48:06.200,Sochi 2014,Biathlon,15km women
+24,FRA,marine bolliet,00:48:12.100,Sochi 2014,Biathlon,15km women
+25,SVK,anastasiya kuzmina,00:48:14.100,Sochi 2014,Biathlon,15km women
+26,AUT,katharina innerhofer,00:48:28.300,Sochi 2014,Biathlon,15km women
+27,UKR,vita semerenko,00:48:29.200,Sochi 2014,Biathlon,15km women
+28,CAN,megan imrie,00:48:32.700,Sochi 2014,Biathlon,15km women
+29,POL,weronika nowakowska,00:48:35.200,Sochi 2014,Biathlon,15km women
+30,POL,magdalena gwizdon,00:48:44.100,Sochi 2014,Biathlon,15km women
+31,SUI,elisa gasparin,00:48:46.900,Sochi 2014,Biathlon,15km women
+32,USA,susan dunklee,00:48:54.100,Sochi 2014,Biathlon,15km women
+33,BLR,nadzeya pisareva,00:48:55.400,Sochi 2014,Biathlon,15km women
+34,AUT,lisa theresa hauser,00:48:56.400,Sochi 2014,Biathlon,15km women
+35,SUI,irene cadurisch,00:49:01.000,Sochi 2014,Biathlon,15km women
+36,GER,franziska hildebrand,00:49:06.400,Sochi 2014,Biathlon,15km women
+37,FRA,marie dorin habert,00:49:06.500,Sochi 2014,Biathlon,15km women
+38,KAZ,darya klimina,00:49:13.500,Sochi 2014,Biathlon,15km women
+39,KAZ,galina vishnevskaya,00:49:26.900,Sochi 2014,Biathlon,15km women
+40,LTU,diana rasimoviciute,00:49:32.500,Sochi 2014,Biathlon,15km women
+41,ITA,alexia runggaldier,00:49:35.600,Sochi 2014,Biathlon,15km women
+42,EST,kadri lehtla,00:49:44.800,Sochi 2014,Biathlon,15km women
+43,ITA,nicole gontier,00:49:51.200,Sochi 2014,Biathlon,15km women
+44,CHN,yan zhang,00:49:57.000,Sochi 2014,Biathlon,15km women
+45,KAZ,yelena khrustalyova,00:50:00.100,Sochi 2014,Biathlon,15km women
+46,AND,laure soulie,00:50:04.200,Sochi 2014,Biathlon,15km women
+47,RUS,olga podchufarova,00:50:13.300,Sochi 2014,Biathlon,15km women
+48,SVK,jana gerekova,00:50:20.800,Sochi 2014,Biathlon,15km women
+49,CAN,megan tandy,00:50:26.800,Sochi 2014,Biathlon,15km women
+50,JPN,fuyuko tachizaki,00:50:27.400,Sochi 2014,Biathlon,15km women
+51,RUS,yana romanova,00:50:42.100,Sochi 2014,Biathlon,15km women
+52,ESP,victoria padial hernandez,00:50:48.500,Sochi 2014,Biathlon,15km women
+53,USA,sara studebaker,00:50:53.400,Sochi 2014,Biathlon,15km women
+54,NOR,ann kristin aafedt flatland,00:51:00.000,Sochi 2014,Biathlon,15km women
+55,CHN,jialin tang,00:51:03.700,Sochi 2014,Biathlon,15km women
+56,EST,grete gaim,00:51:28.500,Sochi 2014,Biathlon,15km women
+57,SVK,martina chrapanova,00:52:00.500,Sochi 2014,Biathlon,15km women
+58,CZE,jitka landova,00:52:05.700,Sochi 2014,Biathlon,15km women
+59,SUI,aita gasparin,00:52:14.900,Sochi 2014,Biathlon,15km women
+60,CAN,zina kocher,00:53:00.700,Sochi 2014,Biathlon,15km women
+61,USA,lanny barnes,00:53:02.200,Sochi 2014,Biathlon,15km women
+62,KAZ,alina raikova,00:53:15.600,Sochi 2014,Biathlon,15km women
+63,SVK,terezia poliakova,00:53:19.800,Sochi 2014,Biathlon,15km women
+64,CAN,rosanna crawford,00:53:29.800,Sochi 2014,Biathlon,15km women
+65,JPN,miki kobayashi,00:54:01.000,Sochi 2014,Biathlon,15km women
+66,KOR,jihee mun,00:54:06.700,Sochi 2014,Biathlon,15km women
+67,HUN,emoke szocs,00:54:12.300,Sochi 2014,Biathlon,15km women
+68,GBR,amanda lightfoot,00:54:38.100,Sochi 2014,Biathlon,15km women
+69,BUL,desislava stoyanova,00:54:41.100,Sochi 2014,Biathlon,15km women
+70,EST,johanna talihaerm,00:55:16.500,Sochi 2014,Biathlon,15km women
+71,EST,darja jurlova,00:55:18.000,Sochi 2014,Biathlon,15km women
+72,JPN,yuki nakajima,00:56:00.200,Sochi 2014,Biathlon,15km women
+73,BRA,jaqueline mourao,00:57:22.600,Sochi 2014,Biathlon,15km women
+74,CHN,na song,00:59:43.300,Sochi 2014,Biathlon,15km women
+75,AUS,lucy glanville,01:01:00.700,Sochi 2014,Biathlon,15km women
+76,LAT,zanna juskane,Did not finish,Sochi 2014,Biathlon,15km women
+77,GER,franziska preuss,Did not finish,Sochi 2014,Biathlon,15km women
+78,JPN,rina mitsuhashi,Did not finish,Sochi 2014,Biathlon,15km women
+79,BIH,tanja karisik-kosarac,Did not finish,Sochi 2014,Biathlon,15km women
+80,RUS,olga zaytseva,Disqualified,Sochi 2014,Biathlon,15km women
+81,RUS,ekaterina glazyrina,Disqualified,Sochi 2014,Biathlon,15km women
+82,FIN,mari laukkanen,Did not start,Sochi 2014,Biathlon,15km women
+83,ITA,dorothea wierer,Did not start,Sochi 2014,Biathlon,15km women
+0,FRA,martin fourcade,00:49:31.700,Sochi 2014,Biathlon,20km men
+1,GER,erik lesser,00:49:43.900,Sochi 2014,Biathlon,20km men
+2,RUS,evgeniy garanichev,00:50:06.200,Sochi 2014,Biathlon,20km men
+3,AUT,simon eder,00:50:09.500,Sochi 2014,Biathlon,20km men
+4,AUT,dominik landertinger,00:50:14.200,Sochi 2014,Biathlon,20km men
+5,FRA,jean guillaume beatrix,00:50:15.500,Sochi 2014,Biathlon,20km men
+6,NOR,emil hegle svendsen,00:50:30.300,Sochi 2014,Biathlon,20km men
+7,USA,lowell bailey,00:50:57.400,Sochi 2014,Biathlon,20km men
+8,UKR,sergii semenov,00:51:07.900,Sochi 2014,Biathlon,20km men
+9,GER,daniel boehm,00:51:09.400,Sochi 2014,Biathlon,20km men
+10,NOR,johannes thingnes boe,00:51:16.500,Sochi 2014,Biathlon,20km men
+11,SWE,bjorn ferry,00:51:18.300,Sochi 2014,Biathlon,20km men
+12,FRA,simon fourcade,00:51:29.900,Sochi 2014,Biathlon,20km men
+13,ITA,lukas hofer,00:51:34.600,Sochi 2014,Biathlon,20km men
+14,SWE,fredrik lindstroem,00:51:50.200,Sochi 2014,Biathlon,20km men
+15,GER,simon schempp,00:51:50.300,Sochi 2014,Biathlon,20km men
+16,CZE,jaroslav soukup,00:51:55.100,Sochi 2014,Biathlon,20km men
+17,CZE,ondrej moravec,00:51:55.800,Sochi 2014,Biathlon,20km men
+18,SVK,matej kazar,00:51:56.900,Sochi 2014,Biathlon,20km men
+19,KAZ,yan savitskiy,00:52:00.000,Sochi 2014,Biathlon,20km men
+20,CAN,brendan green,00:52:05.300,Sochi 2014,Biathlon,20km men
+21,GER,andreas birnbacher,00:52:17.900,Sochi 2014,Biathlon,20km men
+22,LTU,tomas kaukenas,00:52:38.900,Sochi 2014,Biathlon,20km men
+23,AUT,christoph sumann,00:52:39.100,Sochi 2014,Biathlon,20km men
+24,CAN,nathan smith,00:52:41.300,Sochi 2014,Biathlon,20km men
+25,NOR,tarjei boe,00:52:41.500,Sochi 2014,Biathlon,20km men
+26,KAZ,anton pantov,00:52:51.500,Sochi 2014,Biathlon,20km men
+27,SVK,pavol hurajt,00:52:53.300,Sochi 2014,Biathlon,20km men
+28,EST,indrek tobreluts,00:53:02.500,Sochi 2014,Biathlon,20km men
+29,ITA,christian de lorenzi,00:53:13.100,Sochi 2014,Biathlon,20km men
+30,SLO,jakov fak,00:53:17.600,Sochi 2014,Biathlon,20km men
+31,LAT,andrejs rastorgujevs,00:53:18.900,Sochi 2014,Biathlon,20km men
+32,NOR,ole einar bjørndalen,00:53:21.900,Sochi 2014,Biathlon,20km men
+33,CAN,jean-philippe le guellec,00:53:25.500,Sochi 2014,Biathlon,20km men
+34,BUL,krasimir anev,00:53:30.300,Sochi 2014,Biathlon,20km men
+35,SWE,carl johan bergman,00:53:37.500,Sochi 2014,Biathlon,20km men
+36,BUL,vladimir iliev,00:53:52.600,Sochi 2014,Biathlon,20km men
+37,AUT,daniel mesotitsch,00:53:53.300,Sochi 2014,Biathlon,20km men
+38,SWE,tobias arwidson,00:54:03.000,Sochi 2014,Biathlon,20km men
+39,GBR,lee-steve jackson,00:54:11.300,Sochi 2014,Biathlon,20km men
+40,SVK,tomas hasilla,00:54:16.900,Sochi 2014,Biathlon,20km men
+41,USA,tim burke,00:54:21.200,Sochi 2014,Biathlon,20km men
+42,AUS,alexei almoukov,00:54:35.400,Sochi 2014,Biathlon,20km men
+43,UKR,andriy deryzemlya,00:54:40.000,Sochi 2014,Biathlon,20km men
+44,SUI,simon hallenbarter,00:54:52.200,Sochi 2014,Biathlon,20km men
+45,SUI,benjamin weger,00:54:54.500,Sochi 2014,Biathlon,20km men
+46,BLR,vladimir chepelin,00:54:59.200,Sochi 2014,Biathlon,20km men
+47,USA,russell currier,00:55:07.500,Sochi 2014,Biathlon,20km men
+48,POL,lukasz szczurek,00:55:18.600,Sochi 2014,Biathlon,20km men
+49,SLO,klemen bauer,00:55:29.100,Sochi 2014,Biathlon,20km men
+50,BLR,evgeny abramenko,00:55:38.800,Sochi 2014,Biathlon,20km men
+51,BLR,sergey novikov,00:55:41.700,Sochi 2014,Biathlon,20km men
+52,UKR,dmytro pidruchnyi,00:55:53.400,Sochi 2014,Biathlon,20km men
+53,FIN,ahti toivanen,00:55:55.400,Sochi 2014,Biathlon,20km men
+54,CZE,michal slesingr,00:55:57.900,Sochi 2014,Biathlon,20km men
+55,SVK,miroslav matiasko,00:55:58.700,Sochi 2014,Biathlon,20km men
+56,CAN,scott perras,00:56:04.300,Sochi 2014,Biathlon,20km men
+57,ROU,cornel puchianu,00:56:10.400,Sochi 2014,Biathlon,20km men
+58,CZE,michal krcmar,00:56:14.100,Sochi 2014,Biathlon,20km men
+59,EST,danil steptsenko,00:56:14.400,Sochi 2014,Biathlon,20km men
+60,SLO,janez maric,00:56:22.400,Sochi 2014,Biathlon,20km men
+61,RUS,alexey volkov,00:56:30.300,Sochi 2014,Biathlon,20km men
+62,ITA,dominik windisch,00:56:31.400,Sochi 2014,Biathlon,20km men
+63,CHN,long ren,00:56:35.800,Sochi 2014,Biathlon,20km men
+64,SUI,ivan joller,00:56:40.600,Sochi 2014,Biathlon,20km men
+65,BUL,mihail klecherov,00:56:41.800,Sochi 2014,Biathlon,20km men
+66,SRB,milanko petrovic,00:56:45.400,Sochi 2014,Biathlon,20km men
+67,EST,kalev ermits,00:57:04.500,Sochi 2014,Biathlon,20km men
+68,ITA,markus windisch,00:57:18.500,Sochi 2014,Biathlon,20km men
+69,ESP,victor lobo escolar,00:57:22.800,Sochi 2014,Biathlon,20km men
+70,KOR,inbok lee,00:57:29.000,Sochi 2014,Biathlon,20km men
+71,SLO,peter dokl,00:57:51.500,Sochi 2014,Biathlon,20km men
+72,BUL,miroslav kenanov,00:58:01.100,Sochi 2014,Biathlon,20km men
+73,KAZ,sergey naumik,00:58:03.200,Sochi 2014,Biathlon,20km men
+74,POL,krzysztof plywaczyk,00:58:12.500,Sochi 2014,Biathlon,20km men
+75,EST,kauri koiv,00:58:17.300,Sochi 2014,Biathlon,20km men
+76,SUI,claudio bockli,00:58:19.200,Sochi 2014,Biathlon,20km men
+77,BLR,aliaksandr dorozhka,00:58:27.700,Sochi 2014,Biathlon,20km men
+78,UKR,artem pryma,00:58:35.200,Sochi 2014,Biathlon,20km men
+79,FRA,alexis boeuf,00:58:39.000,Sochi 2014,Biathlon,20km men
+80,USA,leif nordgren,00:58:47.600,Sochi 2014,Biathlon,20km men
+81,JPN,hidenori isa,00:58:56.100,Sochi 2014,Biathlon,20km men
+82,KAZ,alexandr trifonov,01:00:08.900,Sochi 2014,Biathlon,20km men
+83,POL,grzegorz guzik,01:00:20.700,Sochi 2014,Biathlon,20km men
+84,POL,lukasz slonina,01:00:29.500,Sochi 2014,Biathlon,20km men
+85,HUN,karoly gombos,01:05:16.700,Sochi 2014,Biathlon,20km men
+86,FIN,jarkko kauppinen,Did not finish,Sochi 2014,Biathlon,20km men
+87,RUS,alexander loginov,Disqualified,Sochi 2014,Biathlon,20km men
+88,RUS,evgeny ustyugov,Disqualified,Sochi 2014,Biathlon,20km men
+0,,,01:10:02.500,Sochi 2014,Biathlon,4x6km relay women
+1,,,01:10:40.100,Sochi 2014,Biathlon,4x6km relay women
+2,,,01:11:25.700,Sochi 2014,Biathlon,4x6km relay women
+3,,,01:11:33.400,Sochi 2014,Biathlon,4x6km relay women
+4,,,01:11:43.300,Sochi 2014,Biathlon,4x6km relay women
+5,,,01:12:14.200,Sochi 2014,Biathlon,4x6km relay women
+6,,,01:12:21.500,Sochi 2014,Biathlon,4x6km relay women
+7,,,01:12:34.300,Sochi 2014,Biathlon,4x6km relay women
+8,,,01:12:34.400,Sochi 2014,Biathlon,4x6km relay women
+9,,,01:13:44.200,Sochi 2014,Biathlon,4x6km relay women
+10,,,01:15:54.700,Sochi 2014,Biathlon,4x6km relay women
+11,,,DNF,Sochi 2014,Biathlon,4x6km relay women
+12,,,DNF,Sochi 2014,Biathlon,4x6km relay women
+13,,,lapped,Sochi 2014,Biathlon,4x6km relay women
+14,,,lapped,Sochi 2014,Biathlon,4x6km relay women
+15,,,Did not finish,Sochi 2014,Biathlon,4x6km relay women
+16,,,Disqualified for doping,Sochi 2014,Biathlon,4x6km relay women
+0,,,01:12:19.400,Sochi 2014,Biathlon,4x7.5km relay men
+1,,,01:12:45.700,Sochi 2014,Biathlon,4x7.5km relay men
+2,,,01:13:10.300,Sochi 2014,Biathlon,4x7.5km relay men
+3,,,01:13:15.500,Sochi 2014,Biathlon,4x7.5km relay men
+4,,,01:13:43.100,Sochi 2014,Biathlon,4x7.5km relay men
+5,,,01:13:46.200,Sochi 2014,Biathlon,4x7.5km relay men
+6,,,01:13:46.400,Sochi 2014,Biathlon,4x7.5km relay men
+7,,,01:14:21.100,Sochi 2014,Biathlon,4x7.5km relay men
+8,,,01:14:32.000,Sochi 2014,Biathlon,4x7.5km relay men
+9,,,01:15:11.900,Sochi 2014,Biathlon,4x7.5km relay men
+10,,,01:15:23.800,Sochi 2014,Biathlon,4x7.5km relay men
+11,,,01:16:02.300,Sochi 2014,Biathlon,4x7.5km relay men
+12,,,01:16:15.800,Sochi 2014,Biathlon,4x7.5km relay men
+13,,,01:17:38.400,Sochi 2014,Biathlon,4x7.5km relay men
+14,,,01:17:39.100,Sochi 2014,Biathlon,4x7.5km relay men
+15,,,lapped,Sochi 2014,Biathlon,4x7.5km relay men
+16,,,lapped,Sochi 2014,Biathlon,4x7.5km relay men
+17,,,lapped,Sochi 2014,Biathlon,4x7.5km relay men
+18,,,Disqualified,Sochi 2014,Biathlon,4x7.5km relay men
+0,SVK,anastasiya kuzmina,00:21:06.800,Sochi 2014,Biathlon,7.5km women
+1,RUS,olga vilukhina,00:21:26.700,Sochi 2014,Biathlon,7.5km women
+2,UKR,vita semerenko,00:21:28.500,Sochi 2014,Biathlon,7.5km women
+3,ITA,karin oberhofer,00:21:34.700,Sochi 2014,Biathlon,7.5km women
+4,FRA,anais bescond,00:21:36.700,Sochi 2014,Biathlon,7.5km women
+5,ITA,dorothea wierer,00:21:37.400,Sochi 2014,Biathlon,7.5km women
+6,POL,weronika nowakowska,00:21:37.600,Sochi 2014,Biathlon,7.5km women
+7,SUI,elisa gasparin,00:21:38.200,Sochi 2014,Biathlon,7.5km women
+8,BLR,darya domracheva,00:21:38.600,Sochi 2014,Biathlon,7.5km women
+9,NOR,tora berger,00:21:40.600,Sochi 2014,Biathlon,7.5km women
+10,GER,evi sachenbacher-stehle,00:21:40.800,Sochi 2014,Biathlon,7.5km women
+11,UKR,valj semerenko,00:21:44.900,Sochi 2014,Biathlon,7.5km women
+12,SUI,selina gasparin,00:21:46.500,Sochi 2014,Biathlon,7.5km women
+13,USA,susan dunklee,00:21:48.300,Sochi 2014,Biathlon,7.5km women
+14,SLO,teja gregorin,00:21:48.900,Sochi 2014,Biathlon,7.5km women
+15,CZE,veronika vitkova,00:21:50.800,Sochi 2014,Biathlon,7.5km women
+16,BLR,nadezhda skardino,00:21:50.900,Sochi 2014,Biathlon,7.5km women
+17,NOR,tiril eckhoff,00:21:51.400,Sochi 2014,Biathlon,7.5km women
+18,RUS,yana romanova,00:21:53.400,Sochi 2014,Biathlon,7.5km women
+19,FRA,marie dorin habert,00:21:55.000,Sochi 2014,Biathlon,7.5km women
+20,POL,monika hojnisz,00:21:55.100,Sochi 2014,Biathlon,7.5km women
+21,GER,andrea henkel,00:22:01.500,Sochi 2014,Biathlon,7.5km women
+22,ROU,eva tofalvi,00:22:01.500,Sochi 2014,Biathlon,7.5km women
+23,NOR,ann kristin aafedt flatland,00:22:10.600,Sochi 2014,Biathlon,7.5km women
+24,CAN,rosanna crawford,00:22:10.800,Sochi 2014,Biathlon,7.5km women
+25,UKR,olena pidhrushna,00:22:12.800,Sochi 2014,Biathlon,7.5km women
+26,AUT,lisa theresa hauser,00:22:15.600,Sochi 2014,Biathlon,7.5km women
+27,CZE,gabriela koukalova,00:22:17.500,Sochi 2014,Biathlon,7.5km women
+28,FIN,kaisa makarainen,00:22:18.400,Sochi 2014,Biathlon,7.5km women
+29,CAN,megan imrie,00:22:19.500,Sochi 2014,Biathlon,7.5km women
+30,CAN,zina kocher,00:22:25.500,Sochi 2014,Biathlon,7.5km women
+31,POL,krystyna guzik,00:22:27.800,Sochi 2014,Biathlon,7.5km women
+32,BLR,nastassia kinnunen,00:22:29.700,Sochi 2014,Biathlon,7.5km women
+33,NOR,synnoeve solemdal,00:22:32.100,Sochi 2014,Biathlon,7.5km women
+34,FIN,mari laukkanen,00:22:37.300,Sochi 2014,Biathlon,7.5km women
+35,BLR,liudmila kalinchik,00:22:37.800,Sochi 2014,Biathlon,7.5km women
+36,ITA,michela ponza,00:22:47.000,Sochi 2014,Biathlon,7.5km women
+37,JPN,fuyuko tachizaki,00:22:47.400,Sochi 2014,Biathlon,7.5km women
+38,POL,magdalena gwizdon,00:22:51.200,Sochi 2014,Biathlon,7.5km women
+39,GER,franziska preuss,00:22:53.100,Sochi 2014,Biathlon,7.5km women
+40,UKR,yuliia dzhima,00:22:55.500,Sochi 2014,Biathlon,7.5km women
+41,SVK,jana gerekova,00:22:58.000,Sochi 2014,Biathlon,7.5km women
+42,USA,sara studebaker,00:22:59.500,Sochi 2014,Biathlon,7.5km women
+43,CZE,eva puskarcikova,00:23:00.900,Sochi 2014,Biathlon,7.5km women
+44,GER,laura dahlmeier,00:23:03.200,Sochi 2014,Biathlon,7.5km women
+45,FRA,anais chevalier,00:23:03.400,Sochi 2014,Biathlon,7.5km women
+46,EST,johanna talihaerm,00:23:09.300,Sochi 2014,Biathlon,7.5km women
+47,CHN,yan zhang,00:23:09.400,Sochi 2014,Biathlon,7.5km women
+48,CZE,jitka landova,00:23:16.900,Sochi 2014,Biathlon,7.5km women
+49,LTU,diana rasimoviciute,00:23:18.600,Sochi 2014,Biathlon,7.5km women
+50,ESP,victoria padial hernandez,00:23:21.500,Sochi 2014,Biathlon,7.5km women
+51,USA,annelies cook,00:23:23.400,Sochi 2014,Biathlon,7.5km women
+52,ITA,nicole gontier,00:23:26.300,Sochi 2014,Biathlon,7.5km women
+53,CHN,jialin tang,00:23:26.700,Sochi 2014,Biathlon,7.5km women
+54,FRA,marie laure brunet,00:23:27.400,Sochi 2014,Biathlon,7.5km women
+55,KAZ,yelena khrustalyova,00:23:29.600,Sochi 2014,Biathlon,7.5km women
+56,KAZ,darya klimina,00:23:33.300,Sochi 2014,Biathlon,7.5km women
+57,CAN,megan tandy,00:23:34.500,Sochi 2014,Biathlon,7.5km women
+58,RUS,ekaterina shumilova,00:23:38.400,Sochi 2014,Biathlon,7.5km women
+59,BUL,desislava stoyanova,00:23:48.100,Sochi 2014,Biathlon,7.5km women
+60,SVK,martina chrapanova,00:23:48.300,Sochi 2014,Biathlon,7.5km women
+61,CHN,chaoqing song,00:23:49.500,Sochi 2014,Biathlon,7.5km women
+62,KAZ,galina vishnevskaya,00:23:52.000,Sochi 2014,Biathlon,7.5km women
+63,USA,hannah dreissigacker,00:23:55.000,Sochi 2014,Biathlon,7.5km women
+64,AND,laure soulie,00:23:57.800,Sochi 2014,Biathlon,7.5km women
+65,EST,darja jurlova,00:24:01.100,Sochi 2014,Biathlon,7.5km women
+66,JPN,yuki nakajima,00:24:12.900,Sochi 2014,Biathlon,7.5km women
+67,EST,kadri lehtla,00:24:13.300,Sochi 2014,Biathlon,7.5km women
+68,HUN,emoke szocs,00:24:15.400,Sochi 2014,Biathlon,7.5km women
+69,EST,grete gaim,00:24:18.200,Sochi 2014,Biathlon,7.5km women
+70,SVK,paulina fialkova,00:24:27.100,Sochi 2014,Biathlon,7.5km women
+71,KAZ,marina lebedeva,00:24:31.900,Sochi 2014,Biathlon,7.5km women
+72,KOR,jihee mun,00:24:32.000,Sochi 2014,Biathlon,7.5km women
+73,GBR,amanda lightfoot,00:24:48.900,Sochi 2014,Biathlon,7.5km women
+74,AUT,katharina innerhofer,00:24:49.000,Sochi 2014,Biathlon,7.5km women
+75,BRA,jaqueline mourao,00:25:06.400,Sochi 2014,Biathlon,7.5km women
+76,BIH,tanja karisik-kosarac,00:25:06.800,Sochi 2014,Biathlon,7.5km women
+77,LAT,zanna juskane,00:25:36.500,Sochi 2014,Biathlon,7.5km women
+78,JPN,rina mitsuhashi,00:25:40.600,Sochi 2014,Biathlon,7.5km women
+79,JPN,miki kobayashi,00:25:52.300,Sochi 2014,Biathlon,7.5km women
+80,AUS,lucy glanville,00:26:57.100,Sochi 2014,Biathlon,7.5km women
+81,CHN,na song,00:27:01.500,Sochi 2014,Biathlon,7.5km women
+82,MDA,alexandra camenscic,00:27:37.000,Sochi 2014,Biathlon,7.5km women
+83,RUS,olga zaytseva,Disqualified for doping,Sochi 2014,Biathlon,7.5km women
+0,,,01:09:17.000,Sochi 2014,Biathlon,Relay mix mixed
+1,,,01:09:49.600,Sochi 2014,Biathlon,Relay mix mixed
+2,,,01:10:15.200,Sochi 2014,Biathlon,Relay mix mixed
+3,,,01:11:04.700,Sochi 2014,Biathlon,Relay mix mixed
+4,,,01:12:04.300,Sochi 2014,Biathlon,Relay mix mixed
+5,,,01:12:05.200,Sochi 2014,Biathlon,Relay mix mixed
+6,,,01:12:20.100,Sochi 2014,Biathlon,Relay mix mixed
+7,,,01:12:34.800,Sochi 2014,Biathlon,Relay mix mixed
+8,,,01:13:11.800,Sochi 2014,Biathlon,Relay mix mixed
+9,,,01:13:27.700,Sochi 2014,Biathlon,Relay mix mixed
+10,,,01:13:33.900,Sochi 2014,Biathlon,Relay mix mixed
+11,,,01:13:36.000,Sochi 2014,Biathlon,Relay mix mixed
+12,,,01:15:46.400,Sochi 2014,Biathlon,Relay mix mixed
+13,,,lapped,Sochi 2014,Biathlon,Relay mix mixed
+14,,,Disqualified,Sochi 2014,Biathlon,Relay mix mixed
+15,,,Disqualified for doping,Sochi 2014,Biathlon,Relay mix mixed

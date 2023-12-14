@@ -1,0 +1,599 @@
+,country,participant,result,olympic_game,discipline,event
+0,FRA,vincent jay,00:24:07.800,Vancouver 2010,Biathlon,10km men
+1,NOR,emil hegle svendsen,00:24:20.000,Vancouver 2010,Biathlon,10km men
+2,CRO,jakov fak,00:24:21.800,Vancouver 2010,Biathlon,10km men
+3,SLO,klemen bauer,00:24:25.200,Vancouver 2010,Biathlon,10km men
+4,UKR,andriy deryzemlya,00:24:48.500,Vancouver 2010,Biathlon,10km men
+5,CAN,jean-philippe le guellec,00:24:57.600,Vancouver 2010,Biathlon,10km men
+6,SVK,pavol hurajt,00:25:15.000,Vancouver 2010,Biathlon,10km men
+7,SWE,bjorn ferry,00:25:20.200,Vancouver 2010,Biathlon,10km men
+8,USA,jeremy teela,00:25:21.700,Vancouver 2010,Biathlon,10km men
+9,RUS,ivan cherezov,00:25:25.900,Vancouver 2010,Biathlon,10km men
+10,AUT,simon eder,00:25:32.200,Vancouver 2010,Biathlon,10km men
+11,AUT,christoph sumann,00:25:32.700,Vancouver 2010,Biathlon,10km men
+12,SUI,thomas frei,00:25:36.900,Vancouver 2010,Biathlon,10km men
+13,LAT,ilmars bricis,00:25:41.300,Vancouver 2010,Biathlon,10km men
+14,RUS,evgeny ustyugov,00:25:47.900,Vancouver 2010,Biathlon,10km men
+15,SUI,simon hallenbarter,00:25:48.300,Vancouver 2010,Biathlon,10km men
+16,NOR,ole einar bjørndalen,00:25:48.900,Vancouver 2010,Biathlon,10km men
+17,CZE,michal slesingr,00:25:50.900,Vancouver 2010,Biathlon,10km men
+18,GER,christoph stephan,00:25:51.100,Vancouver 2010,Biathlon,10km men
+19,BLR,aleksandr syman,00:25:53.500,Vancouver 2010,Biathlon,10km men
+20,GER,michael greis,00:25:56.000,Vancouver 2010,Biathlon,10km men
+21,UKR,serguei sednev,00:25:57.200,Vancouver 2010,Biathlon,10km men
+22,GER,andreas birnbacher,00:26:06.400,Vancouver 2010,Biathlon,10km men
+23,NOR,halvard hanevold,00:26:07.700,Vancouver 2010,Biathlon,10km men
+24,BUL,krasimir anev,00:26:09.100,Vancouver 2010,Biathlon,10km men
+25,SUI,matthias simmen,00:26:11.500,Vancouver 2010,Biathlon,10km men
+26,SLO,janez maric,00:26:12.500,Vancouver 2010,Biathlon,10km men
+27,CZE,zdenek vitek,00:26:13.700,Vancouver 2010,Biathlon,10km men
+28,POL,tomasz sikora,00:26:16.200,Vancouver 2010,Biathlon,10km men
+29,RUS,anton shipulin,00:26:18.700,Vancouver 2010,Biathlon,10km men
+30,EST,indrek tobreluts,00:26:18.900,Vancouver 2010,Biathlon,10km men
+31,CHN,chengye zhang,00:26:19.900,Vancouver 2010,Biathlon,10km men
+32,UKR,sergii semenov,00:26:20.500,Vancouver 2010,Biathlon,10km men
+33,AUT,dominik landertinger,00:26:23.700,Vancouver 2010,Biathlon,10km men
+34,FRA,martin fourcade,00:26:25.600,Vancouver 2010,Biathlon,10km men
+35,USA,lowell bailey,00:26:26.600,Vancouver 2010,Biathlon,10km men
+36,GER,arnd peiffer,00:26:29.100,Vancouver 2010,Biathlon,10km men
+37,SWE,fredrik lindstroem,00:26:33.300,Vancouver 2010,Biathlon,10km men
+38,KAZ,yan savitskiy,00:26:35.200,Vancouver 2010,Biathlon,10km men
+39,BLR,sergey novikov,00:26:37.400,Vancouver 2010,Biathlon,10km men
+40,FIN,timo antila,00:26:37.400,Vancouver 2010,Biathlon,10km men
+41,SWE,carl johan bergman,00:26:41.700,Vancouver 2010,Biathlon,10km men
+42,BLR,rustam valiullin,00:26:43.700,Vancouver 2010,Biathlon,10km men
+43,ITA,markus windisch,00:26:44.700,Vancouver 2010,Biathlon,10km men
+44,AUT,daniel mesotitsch,00:26:45.300,Vancouver 2010,Biathlon,10km men
+45,NOR,lars berger,00:26:53.000,Vancouver 2010,Biathlon,10km men
+46,USA,tim burke,00:26:54.800,Vancouver 2010,Biathlon,10km men
+47,EST,kauri koiv,00:26:56.000,Vancouver 2010,Biathlon,10km men
+48,BLR,evgeny abramenko,00:26:57.800,Vancouver 2010,Biathlon,10km men
+49,LAT,andrejs rastorgujevs,00:27:05.300,Vancouver 2010,Biathlon,10km men
+50,KAZ,aleksandr chervyakov,00:27:09.900,Vancouver 2010,Biathlon,10km men
+51,CZE,jaroslav soukup,00:27:10.400,Vancouver 2010,Biathlon,10km men
+52,FRA,vincent defrasne,00:27:14.600,Vancouver 2010,Biathlon,10km men
+53,USA,jay hakkinen,00:27:17.400,Vancouver 2010,Biathlon,10km men
+54,GBR,lee-steve jackson,00:27:18.100,Vancouver 2010,Biathlon,10km men
+55,ITA,lukas hofer,00:27:18.300,Vancouver 2010,Biathlon,10km men
+56,SLO,vasja rupnik,00:27:20.800,Vancouver 2010,Biathlon,10km men
+57,SLO,peter dokl,00:27:21.000,Vancouver 2010,Biathlon,10km men
+58,BUL,mihail klecherov,00:27:23.100,Vancouver 2010,Biathlon,10km men
+59,ITA,mattia cola,00:27:24.900,Vancouver 2010,Biathlon,10km men
+60,ITA,christian de lorenzi,00:27:25.900,Vancouver 2010,Biathlon,10km men
+61,EST,roland lessing,00:27:26.000,Vancouver 2010,Biathlon,10km men
+62,RUS,maksim chudov,00:27:28.000,Vancouver 2010,Biathlon,10km men
+63,LAT,kristaps libietis,00:27:32.500,Vancouver 2010,Biathlon,10km men
+64,KOR,inbok lee,00:27:34.100,Vancouver 2010,Biathlon,10km men
+65,SVK,marek matiasko,00:27:37.400,Vancouver 2010,Biathlon,10km men
+66,CZE,ondrej moravec,00:27:39.800,Vancouver 2010,Biathlon,10km men
+67,JPN,hidenori isa,00:27:42.200,Vancouver 2010,Biathlon,10km men
+68,SUI,benjamin weger,00:27:43.600,Vancouver 2010,Biathlon,10km men
+69,MDA,victor pinzaru,00:27:52.600,Vancouver 2010,Biathlon,10km men
+70,FRA,simon fourcade,00:27:53.000,Vancouver 2010,Biathlon,10km men
+71,KAZ,dias keneshev,00:28:04.600,Vancouver 2010,Biathlon,10km men
+72,FIN,paavo puurunen,00:28:04.800,Vancouver 2010,Biathlon,10km men
+73,EST,martten kaldvee,00:28:07.700,Vancouver 2010,Biathlon,10km men
+74,SVK,dusan simocko,00:28:11.400,Vancouver 2010,Biathlon,10km men
+75,SVK,miroslav matiasko,00:28:15.900,Vancouver 2010,Biathlon,10km men
+76,UKR,vyacheslav derkach,00:28:22.900,Vancouver 2010,Biathlon,10km men
+77,LAT,edgars piksons,00:28:23.000,Vancouver 2010,Biathlon,10km men
+78,SWE,magnus jonsson,00:28:29.200,Vancouver 2010,Biathlon,10km men
+79,HUN,imre tagscherer,00:28:38.800,Vancouver 2010,Biathlon,10km men
+80,SRB,milanko petrovic,00:28:38.900,Vancouver 2010,Biathlon,10km men
+81,BUL,miroslav kenanov,00:28:40.200,Vancouver 2010,Biathlon,10km men
+82,BUL,vladimir iliev,00:28:45.000,Vancouver 2010,Biathlon,10km men
+83,KAZ,nikolay braichenko,00:28:52.000,Vancouver 2010,Biathlon,10km men
+84,POL,lukasz szczurek,00:29:02.000,Vancouver 2010,Biathlon,10km men
+85,DEN,oystein slettemark,00:30:55.800,Vancouver 2010,Biathlon,10km men
+86,AUS,alexei almoukov,00:30:57.900,Vancouver 2010,Biathlon,10km men
+87,GRE,athanassios tsakiris,Did not finish,Vancouver 2010,Biathlon,10km men
+0,FRA,vincent jay,00:24:07.800,Vancouver 2010,Biathlon,10km pursuit women
+1,NOR,emil hegle svendsen,00:24:20.000,Vancouver 2010,Biathlon,10km pursuit women
+2,CRO,jakov fak,00:24:21.800,Vancouver 2010,Biathlon,10km pursuit women
+3,SLO,klemen bauer,00:24:25.200,Vancouver 2010,Biathlon,10km pursuit women
+4,UKR,andriy deryzemlya,00:24:48.500,Vancouver 2010,Biathlon,10km pursuit women
+5,CAN,jean-philippe le guellec,00:24:57.600,Vancouver 2010,Biathlon,10km pursuit women
+6,SVK,pavol hurajt,00:25:15.000,Vancouver 2010,Biathlon,10km pursuit women
+7,SWE,bjorn ferry,00:25:20.200,Vancouver 2010,Biathlon,10km pursuit women
+8,USA,jeremy teela,00:25:21.700,Vancouver 2010,Biathlon,10km pursuit women
+9,RUS,ivan cherezov,00:25:25.900,Vancouver 2010,Biathlon,10km pursuit women
+10,AUT,simon eder,00:25:32.200,Vancouver 2010,Biathlon,10km pursuit women
+11,AUT,christoph sumann,00:25:32.700,Vancouver 2010,Biathlon,10km pursuit women
+12,SUI,thomas frei,00:25:36.900,Vancouver 2010,Biathlon,10km pursuit women
+13,LAT,ilmars bricis,00:25:41.300,Vancouver 2010,Biathlon,10km pursuit women
+14,RUS,evgeny ustyugov,00:25:47.900,Vancouver 2010,Biathlon,10km pursuit women
+15,SUI,simon hallenbarter,00:25:48.300,Vancouver 2010,Biathlon,10km pursuit women
+16,NOR,ole einar bjørndalen,00:25:48.900,Vancouver 2010,Biathlon,10km pursuit women
+17,CZE,michal slesingr,00:25:50.900,Vancouver 2010,Biathlon,10km pursuit women
+18,GER,christoph stephan,00:25:51.100,Vancouver 2010,Biathlon,10km pursuit women
+19,BLR,aleksandr syman,00:25:53.500,Vancouver 2010,Biathlon,10km pursuit women
+20,GER,michael greis,00:25:56.000,Vancouver 2010,Biathlon,10km pursuit women
+21,UKR,serguei sednev,00:25:57.200,Vancouver 2010,Biathlon,10km pursuit women
+22,GER,andreas birnbacher,00:26:06.400,Vancouver 2010,Biathlon,10km pursuit women
+23,NOR,halvard hanevold,00:26:07.700,Vancouver 2010,Biathlon,10km pursuit women
+24,BUL,krasimir anev,00:26:09.100,Vancouver 2010,Biathlon,10km pursuit women
+25,SUI,matthias simmen,00:26:11.500,Vancouver 2010,Biathlon,10km pursuit women
+26,SLO,janez maric,00:26:12.500,Vancouver 2010,Biathlon,10km pursuit women
+27,CZE,zdenek vitek,00:26:13.700,Vancouver 2010,Biathlon,10km pursuit women
+28,POL,tomasz sikora,00:26:16.200,Vancouver 2010,Biathlon,10km pursuit women
+29,RUS,anton shipulin,00:26:18.700,Vancouver 2010,Biathlon,10km pursuit women
+30,EST,indrek tobreluts,00:26:18.900,Vancouver 2010,Biathlon,10km pursuit women
+31,CHN,chengye zhang,00:26:19.900,Vancouver 2010,Biathlon,10km pursuit women
+32,UKR,sergii semenov,00:26:20.500,Vancouver 2010,Biathlon,10km pursuit women
+33,AUT,dominik landertinger,00:26:23.700,Vancouver 2010,Biathlon,10km pursuit women
+34,FRA,martin fourcade,00:26:25.600,Vancouver 2010,Biathlon,10km pursuit women
+35,USA,lowell bailey,00:26:26.600,Vancouver 2010,Biathlon,10km pursuit women
+36,GER,arnd peiffer,00:26:29.100,Vancouver 2010,Biathlon,10km pursuit women
+37,SWE,fredrik lindstroem,00:26:33.300,Vancouver 2010,Biathlon,10km pursuit women
+38,KAZ,yan savitskiy,00:26:35.200,Vancouver 2010,Biathlon,10km pursuit women
+39,BLR,sergey novikov,00:26:37.400,Vancouver 2010,Biathlon,10km pursuit women
+40,FIN,timo antila,00:26:37.400,Vancouver 2010,Biathlon,10km pursuit women
+41,SWE,carl johan bergman,00:26:41.700,Vancouver 2010,Biathlon,10km pursuit women
+42,BLR,rustam valiullin,00:26:43.700,Vancouver 2010,Biathlon,10km pursuit women
+43,ITA,markus windisch,00:26:44.700,Vancouver 2010,Biathlon,10km pursuit women
+44,AUT,daniel mesotitsch,00:26:45.300,Vancouver 2010,Biathlon,10km pursuit women
+45,NOR,lars berger,00:26:53.000,Vancouver 2010,Biathlon,10km pursuit women
+46,USA,tim burke,00:26:54.800,Vancouver 2010,Biathlon,10km pursuit women
+47,EST,kauri koiv,00:26:56.000,Vancouver 2010,Biathlon,10km pursuit women
+48,BLR,evgeny abramenko,00:26:57.800,Vancouver 2010,Biathlon,10km pursuit women
+49,LAT,andrejs rastorgujevs,00:27:05.300,Vancouver 2010,Biathlon,10km pursuit women
+50,KAZ,aleksandr chervyakov,00:27:09.900,Vancouver 2010,Biathlon,10km pursuit women
+51,CZE,jaroslav soukup,00:27:10.400,Vancouver 2010,Biathlon,10km pursuit women
+52,FRA,vincent defrasne,00:27:14.600,Vancouver 2010,Biathlon,10km pursuit women
+53,USA,jay hakkinen,00:27:17.400,Vancouver 2010,Biathlon,10km pursuit women
+54,GBR,lee-steve jackson,00:27:18.100,Vancouver 2010,Biathlon,10km pursuit women
+55,ITA,lukas hofer,00:27:18.300,Vancouver 2010,Biathlon,10km pursuit women
+56,SLO,vasja rupnik,00:27:20.800,Vancouver 2010,Biathlon,10km pursuit women
+57,SLO,peter dokl,00:27:21.000,Vancouver 2010,Biathlon,10km pursuit women
+58,BUL,mihail klecherov,00:27:23.100,Vancouver 2010,Biathlon,10km pursuit women
+59,ITA,mattia cola,00:27:24.900,Vancouver 2010,Biathlon,10km pursuit women
+60,ITA,christian de lorenzi,00:27:25.900,Vancouver 2010,Biathlon,10km pursuit women
+61,EST,roland lessing,00:27:26.000,Vancouver 2010,Biathlon,10km pursuit women
+62,RUS,maksim chudov,00:27:28.000,Vancouver 2010,Biathlon,10km pursuit women
+63,LAT,kristaps libietis,00:27:32.500,Vancouver 2010,Biathlon,10km pursuit women
+64,KOR,inbok lee,00:27:34.100,Vancouver 2010,Biathlon,10km pursuit women
+65,SVK,marek matiasko,00:27:37.400,Vancouver 2010,Biathlon,10km pursuit women
+66,CZE,ondrej moravec,00:27:39.800,Vancouver 2010,Biathlon,10km pursuit women
+67,JPN,hidenori isa,00:27:42.200,Vancouver 2010,Biathlon,10km pursuit women
+68,SUI,benjamin weger,00:27:43.600,Vancouver 2010,Biathlon,10km pursuit women
+69,MDA,victor pinzaru,00:27:52.600,Vancouver 2010,Biathlon,10km pursuit women
+70,FRA,simon fourcade,00:27:53.000,Vancouver 2010,Biathlon,10km pursuit women
+71,KAZ,dias keneshev,00:28:04.600,Vancouver 2010,Biathlon,10km pursuit women
+72,FIN,paavo puurunen,00:28:04.800,Vancouver 2010,Biathlon,10km pursuit women
+73,EST,martten kaldvee,00:28:07.700,Vancouver 2010,Biathlon,10km pursuit women
+74,SVK,dusan simocko,00:28:11.400,Vancouver 2010,Biathlon,10km pursuit women
+75,SVK,miroslav matiasko,00:28:15.900,Vancouver 2010,Biathlon,10km pursuit women
+76,UKR,vyacheslav derkach,00:28:22.900,Vancouver 2010,Biathlon,10km pursuit women
+77,LAT,edgars piksons,00:28:23.000,Vancouver 2010,Biathlon,10km pursuit women
+78,SWE,magnus jonsson,00:28:29.200,Vancouver 2010,Biathlon,10km pursuit women
+79,HUN,imre tagscherer,00:28:38.800,Vancouver 2010,Biathlon,10km pursuit women
+80,SRB,milanko petrovic,00:28:38.900,Vancouver 2010,Biathlon,10km pursuit women
+81,BUL,miroslav kenanov,00:28:40.200,Vancouver 2010,Biathlon,10km pursuit women
+82,BUL,vladimir iliev,00:28:45.000,Vancouver 2010,Biathlon,10km pursuit women
+83,KAZ,nikolay braichenko,00:28:52.000,Vancouver 2010,Biathlon,10km pursuit women
+84,POL,lukasz szczurek,00:29:02.000,Vancouver 2010,Biathlon,10km pursuit women
+85,DEN,oystein slettemark,00:30:55.800,Vancouver 2010,Biathlon,10km pursuit women
+86,AUS,alexei almoukov,00:30:57.900,Vancouver 2010,Biathlon,10km pursuit women
+87,GRE,athanassios tsakiris,Did not finish,Vancouver 2010,Biathlon,10km pursuit women
+0,GER,magdalena neuner,00:35:19.600,Vancouver 2010,Biathlon,12.5km mass start women
+1,RUS,olga zaytseva,00:35:25.100,Vancouver 2010,Biathlon,12.5km mass start women
+2,GER,simone hauswald,00:35:26.900,Vancouver 2010,Biathlon,12.5km mass start women
+3,RUS,olga pyleva,00:35:40.800,Vancouver 2010,Biathlon,12.5km mass start women
+4,BLR,darya domracheva,00:35:53.200,Vancouver 2010,Biathlon,12.5km mass start women
+5,FRA,sandrine bailly,00:36:02.000,Vancouver 2010,Biathlon,12.5km mass start women
+6,SVK,anastasiya kuzmina,00:36:02.900,Vancouver 2010,Biathlon,12.5km mass start women
+7,GER,andrea henkel,00:36:13.500,Vancouver 2010,Biathlon,12.5km mass start women
+8,SWE,helena jonsson,00:36:15.900,Vancouver 2010,Biathlon,12.5km mass start women
+9,NOR,ann kristin aafedt flatland,00:36:16.000,Vancouver 2010,Biathlon,12.5km mass start women
+10,UKR,olena pidhrushna,00:36:22.800,Vancouver 2010,Biathlon,12.5km mass start women
+11,SWE,anna-carin olofsson,00:36:22.900,Vancouver 2010,Biathlon,12.5km mass start women
+12,RUS,svetlana sleptsova,00:36:23.300,Vancouver 2010,Biathlon,12.5km mass start women
+13,FRA,marie laure brunet,00:36:39.500,Vancouver 2010,Biathlon,12.5km mass start women
+14,FRA,marie dorin habert,00:36:40.900,Vancouver 2010,Biathlon,12.5km mass start women
+15,BLR,liudmila kalinchik,00:36:55.200,Vancouver 2010,Biathlon,12.5km mass start women
+16,NOR,tora berger,00:36:58.300,Vancouver 2010,Biathlon,12.5km mass start women
+17,UKR,valj semerenko,00:37:12.500,Vancouver 2010,Biathlon,12.5km mass start women
+18,POL,krystyna guzik,00:37:22.600,Vancouver 2010,Biathlon,12.5km mass start women
+19,POL,weronika nowakowska,00:37:34.000,Vancouver 2010,Biathlon,12.5km mass start women
+20,BLR,nadezhda skardino,00:37:38.100,Vancouver 2010,Biathlon,12.5km mass start women
+21,POL,agnieszka cyl,00:37:54.700,Vancouver 2010,Biathlon,12.5km mass start women
+22,ROU,eva tofalvi,00:38:00.700,Vancouver 2010,Biathlon,12.5km mass start women
+23,GER,kati wilhelm,00:38:37.700,Vancouver 2010,Biathlon,12.5km mass start women
+24,SLO,andreja mali,00:38:53.900,Vancouver 2010,Biathlon,12.5km mass start women
+25,KAZ,yelena khrustalyova,00:39:01.300,Vancouver 2010,Biathlon,12.5km mass start women
+26,SWE,anna maria nilsson,00:39:05.800,Vancouver 2010,Biathlon,12.5km mass start women
+27,UKR,oksana khvostenko,00:39:11.000,Vancouver 2010,Biathlon,12.5km mass start women
+28,RUS,anna frolina,00:39:17.200,Vancouver 2010,Biathlon,12.5km mass start women
+29,SLO,teja gregorin,Disqualified,Vancouver 2010,Biathlon,12.5km mass start women
+0,SWE,bjorn ferry,00:33:38.400,Vancouver 2010,Biathlon,12.5km pursuit men
+1,AUT,christoph sumann,00:33:54.900,Vancouver 2010,Biathlon,12.5km pursuit men
+2,FRA,vincent jay,00:34:06.600,Vancouver 2010,Biathlon,12.5km pursuit men
+3,AUT,simon eder,00:34:09.400,Vancouver 2010,Biathlon,12.5km pursuit men
+4,GER,michael greis,00:34:29.600,Vancouver 2010,Biathlon,12.5km pursuit men
+5,RUS,ivan cherezov,00:34:29.600,Vancouver 2010,Biathlon,12.5km pursuit men
+6,NOR,ole einar bjørndalen,00:34:29.800,Vancouver 2010,Biathlon,12.5km pursuit men
+7,NOR,emil hegle svendsen,00:34:30.400,Vancouver 2010,Biathlon,12.5km pursuit men
+8,SLO,klemen bauer,00:34:33.800,Vancouver 2010,Biathlon,12.5km pursuit men
+9,UKR,serguei sednev,00:34:50.000,Vancouver 2010,Biathlon,12.5km pursuit men
+10,CAN,jean-philippe le guellec,00:34:51.900,Vancouver 2010,Biathlon,12.5km pursuit men
+11,SUI,thomas frei,00:34:56.400,Vancouver 2010,Biathlon,12.5km pursuit men
+12,GER,andreas birnbacher,00:35:03.400,Vancouver 2010,Biathlon,12.5km pursuit men
+13,AUT,dominik landertinger,00:35:06.700,Vancouver 2010,Biathlon,12.5km pursuit men
+14,RUS,evgeny ustyugov,00:35:07.400,Vancouver 2010,Biathlon,12.5km pursuit men
+15,SVK,pavol hurajt,00:35:12.800,Vancouver 2010,Biathlon,12.5km pursuit men
+16,NOR,halvard hanevold,00:35:13.100,Vancouver 2010,Biathlon,12.5km pursuit men
+17,POL,tomasz sikora,00:35:14.300,Vancouver 2010,Biathlon,12.5km pursuit men
+18,SWE,carl johan bergman,00:35:14.600,Vancouver 2010,Biathlon,12.5km pursuit men
+19,RUS,anton shipulin,00:35:34.400,Vancouver 2010,Biathlon,12.5km pursuit men
+20,BLR,sergey novikov,00:35:35.200,Vancouver 2010,Biathlon,12.5km pursuit men
+21,FRA,vincent defrasne,00:35:35.600,Vancouver 2010,Biathlon,12.5km pursuit men
+22,NOR,lars berger,00:35:37.200,Vancouver 2010,Biathlon,12.5km pursuit men
+23,USA,jeremy teela,00:35:45.400,Vancouver 2010,Biathlon,12.5km pursuit men
+24,CRO,jakov fak,00:35:45.600,Vancouver 2010,Biathlon,12.5km pursuit men
+25,UKR,andriy deryzemlya,00:35:48.700,Vancouver 2010,Biathlon,12.5km pursuit men
+26,KAZ,yan savitskiy,00:35:49.600,Vancouver 2010,Biathlon,12.5km pursuit men
+27,SUI,matthias simmen,00:35:55.000,Vancouver 2010,Biathlon,12.5km pursuit men
+28,CZE,michal slesingr,00:35:58.800,Vancouver 2010,Biathlon,12.5km pursuit men
+29,GER,christoph stephan,00:36:02.300,Vancouver 2010,Biathlon,12.5km pursuit men
+30,BLR,aleksandr syman,00:36:13.900,Vancouver 2010,Biathlon,12.5km pursuit men
+31,LAT,ilmars bricis,00:36:14.900,Vancouver 2010,Biathlon,12.5km pursuit men
+32,SWE,fredrik lindstroem,00:36:25.500,Vancouver 2010,Biathlon,12.5km pursuit men
+33,FRA,martin fourcade,00:36:28.400,Vancouver 2010,Biathlon,12.5km pursuit men
+34,CHN,chengye zhang,00:36:28.700,Vancouver 2010,Biathlon,12.5km pursuit men
+35,USA,lowell bailey,00:36:34.000,Vancouver 2010,Biathlon,12.5km pursuit men
+36,GER,arnd peiffer,00:36:44.900,Vancouver 2010,Biathlon,12.5km pursuit men
+37,CZE,zdenek vitek,00:36:45.100,Vancouver 2010,Biathlon,12.5km pursuit men
+38,UKR,sergii semenov,00:36:55.700,Vancouver 2010,Biathlon,12.5km pursuit men
+39,BLR,evgeny abramenko,00:36:56.000,Vancouver 2010,Biathlon,12.5km pursuit men
+40,AUT,daniel mesotitsch,00:36:56.000,Vancouver 2010,Biathlon,12.5km pursuit men
+41,BLR,rustam valiullin,00:37:05.500,Vancouver 2010,Biathlon,12.5km pursuit men
+42,SUI,simon hallenbarter,00:37:07.900,Vancouver 2010,Biathlon,12.5km pursuit men
+43,BUL,mihail klecherov,00:37:08.100,Vancouver 2010,Biathlon,12.5km pursuit men
+44,BUL,krasimir anev,00:37:24.200,Vancouver 2010,Biathlon,12.5km pursuit men
+45,USA,tim burke,00:37:26.800,Vancouver 2010,Biathlon,12.5km pursuit men
+46,SLO,janez maric,00:37:28.400,Vancouver 2010,Biathlon,12.5km pursuit men
+47,EST,indrek tobreluts,00:37:29.000,Vancouver 2010,Biathlon,12.5km pursuit men
+48,KAZ,aleksandr chervyakov,00:37:30.500,Vancouver 2010,Biathlon,12.5km pursuit men
+49,EST,kauri koiv,00:37:45.500,Vancouver 2010,Biathlon,12.5km pursuit men
+50,CZE,jaroslav soukup,00:38:04.900,Vancouver 2010,Biathlon,12.5km pursuit men
+51,FIN,timo antila,00:38:22.100,Vancouver 2010,Biathlon,12.5km pursuit men
+52,ITA,markus windisch,00:39:50.800,Vancouver 2010,Biathlon,12.5km pursuit men
+53,ITA,lukas hofer,00:39:50.900,Vancouver 2010,Biathlon,12.5km pursuit men
+54,ITA,mattia cola,00:39:50.900,Vancouver 2010,Biathlon,12.5km pursuit men
+55,GBR,lee-steve jackson,00:39:54.700,Vancouver 2010,Biathlon,12.5km pursuit men
+56,USA,jay hakkinen,00:40:33.200,Vancouver 2010,Biathlon,12.5km pursuit men
+57,LAT,andrejs rastorgujevs,00:41:35.900,Vancouver 2010,Biathlon,12.5km pursuit men
+58,SLO,vasja rupnik,00:41:59.200,Vancouver 2010,Biathlon,12.5km pursuit men
+59,SLO,peter dokl,lapped,Vancouver 2010,Biathlon,12.5km pursuit men
+0,RUS,evgeny ustyugov,00:35:35.700,Vancouver 2010,Biathlon,15km mass start men
+1,FRA,martin fourcade,00:35:46.200,Vancouver 2010,Biathlon,15km mass start men
+2,SVK,pavol hurajt,00:35:52.300,Vancouver 2010,Biathlon,15km mass start men
+3,AUT,christoph sumann,00:36:01.600,Vancouver 2010,Biathlon,15km mass start men
+4,AUT,daniel mesotitsch,00:36:05.900,Vancouver 2010,Biathlon,15km mass start men
+5,RUS,ivan cherezov,00:36:09.200,Vancouver 2010,Biathlon,15km mass start men
+6,AUT,dominik landertinger,00:36:09.700,Vancouver 2010,Biathlon,15km mass start men
+7,FRA,vincent jay,00:36:10.300,Vancouver 2010,Biathlon,15km mass start men
+8,CRO,jakov fak,00:36:10.500,Vancouver 2010,Biathlon,15km mass start men
+9,GER,michael greis,00:36:10.700,Vancouver 2010,Biathlon,15km mass start men
+10,POL,tomasz sikora,00:36:13.100,Vancouver 2010,Biathlon,15km mass start men
+11,SWE,bjorn ferry,00:36:13.300,Vancouver 2010,Biathlon,15km mass start men
+12,NOR,emil hegle svendsen,00:36:20.700,Vancouver 2010,Biathlon,15km mass start men
+13,FRA,simon fourcade,00:36:28.100,Vancouver 2010,Biathlon,15km mass start men
+14,GER,andreas birnbacher,00:36:30.200,Vancouver 2010,Biathlon,15km mass start men
+15,CZE,michal slesingr,00:36:35.600,Vancouver 2010,Biathlon,15km mass start men
+16,GER,arnd peiffer,00:36:44.500,Vancouver 2010,Biathlon,15km mass start men
+17,USA,tim burke,00:36:44.700,Vancouver 2010,Biathlon,15km mass start men
+18,NOR,halvard hanevold,00:36:56.600,Vancouver 2010,Biathlon,15km mass start men
+19,BLR,sergey novikov,00:36:59.300,Vancouver 2010,Biathlon,15km mass start men
+20,UKR,serguei sednev,00:37:02.800,Vancouver 2010,Biathlon,15km mass start men
+21,RUS,anton shipulin,00:37:04.700,Vancouver 2010,Biathlon,15km mass start men
+22,GER,christoph stephan,00:37:11.400,Vancouver 2010,Biathlon,15km mass start men
+23,SUI,thomas frei,00:37:12.900,Vancouver 2010,Biathlon,15km mass start men
+24,AUT,simon eder,00:37:29.700,Vancouver 2010,Biathlon,15km mass start men
+25,UKR,andriy deryzemlya,00:37:43.900,Vancouver 2010,Biathlon,15km mass start men
+26,NOR,ole einar bjørndalen,00:37:46.500,Vancouver 2010,Biathlon,15km mass start men
+27,SLO,klemen bauer,00:38:16.900,Vancouver 2010,Biathlon,15km mass start men
+28,USA,jeremy teela,00:38:36.100,Vancouver 2010,Biathlon,15km mass start men
+29,CAN,jean-philippe le guellec,00:39:18.500,Vancouver 2010,Biathlon,15km mass start men
+0,NOR,tora berger,00:40:52.800,Vancouver 2010,Biathlon,15km women
+1,KAZ,yelena khrustalyova,00:41:13.500,Vancouver 2010,Biathlon,15km women
+2,BLR,darya domracheva,00:41:21.000,Vancouver 2010,Biathlon,15km women
+3,GER,kati wilhelm,00:41:57.300,Vancouver 2010,Biathlon,15km women
+4,POL,weronika nowakowska,00:41:57.500,Vancouver 2010,Biathlon,15km women
+5,GER,andrea henkel,00:42:32.400,Vancouver 2010,Biathlon,15km women
+6,POL,agnieszka cyl,00:42:32.500,Vancouver 2010,Biathlon,15km women
+7,UKR,oksana khvostenko,00:42:38.600,Vancouver 2010,Biathlon,15km women
+8,BLR,liudmila kalinchik,00:42:39.100,Vancouver 2010,Biathlon,15km women
+9,GER,magdalena neuner,00:42:42.100,Vancouver 2010,Biathlon,15km women
+10,ROU,eva tofalvi,00:42:43.400,Vancouver 2010,Biathlon,15km women
+11,FRA,marie laure brunet,00:42:44.400,Vancouver 2010,Biathlon,15km women
+12,UKR,valj semerenko,00:42:44.500,Vancouver 2010,Biathlon,15km women
+13,NOR,ann kristin aafedt flatland,00:43:06.400,Vancouver 2010,Biathlon,15km women
+14,POL,krystyna guzik,00:43:09.600,Vancouver 2010,Biathlon,15km women
+15,BLR,olga kudrashova,00:43:11.300,Vancouver 2010,Biathlon,15km women
+16,SWE,anna-carin olofsson,00:43:12.100,Vancouver 2010,Biathlon,15km women
+17,ITA,katja haller,00:43:12.400,Vancouver 2010,Biathlon,15km women
+18,SLO,andreja mali,00:43:14.400,Vancouver 2010,Biathlon,15km women
+19,CHN,xianying liu,00:43:16.200,Vancouver 2010,Biathlon,15km women
+20,RUS,olga pyleva,00:43:25.900,Vancouver 2010,Biathlon,15km women
+21,UKR,vita semerenko,00:43:30.800,Vancouver 2010,Biathlon,15km women
+22,USA,lanny barnes,00:43:31.800,Vancouver 2010,Biathlon,15km women
+23,SWE,anna maria nilsson,00:43:44.000,Vancouver 2010,Biathlon,15km women
+24,RUS,anna bogali,00:43:46.300,Vancouver 2010,Biathlon,15km women
+25,RUS,olga zaytseva,00:43:46.800,Vancouver 2010,Biathlon,15km women
+26,ITA,michela ponza,00:43:54.400,Vancouver 2010,Biathlon,15km women
+27,BLR,nadezhda skardino,00:44:09.400,Vancouver 2010,Biathlon,15km women
+28,GER,martina glagow,00:44:12.000,Vancouver 2010,Biathlon,15km women
+29,FRA,sylvie becaert,00:44:13.200,Vancouver 2010,Biathlon,15km women
+30,LTU,diana rasimoviciute,00:44:13.200,Vancouver 2010,Biathlon,15km women
+31,UKR,olena pidhrushna,00:44:15.900,Vancouver 2010,Biathlon,15km women
+32,CHN,chunli wang,00:44:18.000,Vancouver 2010,Biathlon,15km women
+33,USA,sara studebaker,00:44:27.300,Vancouver 2010,Biathlon,15km women
+34,SLO,dijana grudicek-ravnikar,00:44:27.400,Vancouver 2010,Biathlon,15km women
+35,MDA,natalia levtchenkova,00:44:34.900,Vancouver 2010,Biathlon,15km women
+36,KAZ,anna lebedeva,00:44:36.300,Vancouver 2010,Biathlon,15km women
+37,SVK,anastasiya kuzmina,00:45:16.000,Vancouver 2010,Biathlon,15km women
+38,SUI,selina gasparin,00:45:23.600,Vancouver 2010,Biathlon,15km women
+39,ROU,mihaela purdea,00:45:27.700,Vancouver 2010,Biathlon,15km women
+40,EST,eveli saue,00:45:27.900,Vancouver 2010,Biathlon,15km women
+41,FIN,mari laukkanen,00:45:36.400,Vancouver 2010,Biathlon,15km women
+42,SVK,martina halinarova,00:45:38.700,Vancouver 2010,Biathlon,15km women
+43,EST,kadri lehtla,00:45:43.000,Vancouver 2010,Biathlon,15km women
+44,FIN,kaisa makarainen,00:45:46.400,Vancouver 2010,Biathlon,15km women
+45,SVK,jana gerekova,00:45:46.400,Vancouver 2010,Biathlon,15km women
+46,BUL,nina kadeva,00:45:49.800,Vancouver 2010,Biathlon,15km women
+47,SWE,helena jonsson,00:45:52.900,Vancouver 2010,Biathlon,15km women
+48,CAN,megan tandy,00:46:04.300,Vancouver 2010,Biathlon,15km women
+49,FRA,marie dorin habert,00:46:17.700,Vancouver 2010,Biathlon,15km women
+50,FRA,sandrine bailly,00:46:28.800,Vancouver 2010,Biathlon,15km women
+51,CHN,chaoqing song,00:46:30.300,Vancouver 2010,Biathlon,15km women
+52,JPN,fuyuko tachizaki,00:46:30.300,Vancouver 2010,Biathlon,15km women
+53,CZE,zdenka vejnarova,00:46:38.000,Vancouver 2010,Biathlon,15km women
+54,RUS,yana romanova,00:46:41.000,Vancouver 2010,Biathlon,15km women
+55,KAZ,lyubov filimonova,00:46:45.400,Vancouver 2010,Biathlon,15km women
+56,CHN,yingchao kong,00:46:46.200,Vancouver 2010,Biathlon,15km women
+57,POL,magdalena gwizdon,00:46:46.700,Vancouver 2010,Biathlon,15km women
+58,CZE,gabriela koukalova,00:46:49.800,Vancouver 2010,Biathlon,15km women
+59,NOR,solveig rogstad,00:46:55.100,Vancouver 2010,Biathlon,15km women
+60,CAN,megan imrie,00:47:05.800,Vancouver 2010,Biathlon,15km women
+61,SLO,tadeja brankovic,00:47:09.500,Vancouver 2010,Biathlon,15km women
+62,CZE,magda rezlerova,00:47:13.100,Vancouver 2010,Biathlon,15km women
+63,USA,laura spector,00:47:19.300,Vancouver 2010,Biathlon,15km women
+64,USA,haley johnson,00:47:19.400,Vancouver 2010,Biathlon,15km women
+65,LAT,madara liduma,00:47:30.200,Vancouver 2010,Biathlon,15km women
+66,CZE,veronika vitkova,00:47:33.400,Vancouver 2010,Biathlon,15km women
+67,LAT,gerda krumina,00:48:00.100,Vancouver 2010,Biathlon,15km women
+68,NOR,liv kjersti eikeland,00:48:00.700,Vancouver 2010,Biathlon,15km women
+69,KAZ,marina lebedeva,00:48:04.900,Vancouver 2010,Biathlon,15km women
+70,CAN,zina kocher,00:48:19.300,Vancouver 2010,Biathlon,15km women
+71,KOR,jihee mun,00:48:53.900,Vancouver 2010,Biathlon,15km women
+72,ROU,reka ferencz,00:48:54.900,Vancouver 2010,Biathlon,15km women
+73,ITA,karin oberhofer,00:49:18.600,Vancouver 2010,Biathlon,15km women
+74,CAN,rosanna crawford,00:49:22.100,Vancouver 2010,Biathlon,15km women
+75,SWE,elisabeth hoegberg,00:49:46.500,Vancouver 2010,Biathlon,15km women
+76,LAT,liga glazere,00:50:20.300,Vancouver 2010,Biathlon,15km women
+77,ITA,christa perathoner,00:50:23.300,Vancouver 2010,Biathlon,15km women
+78,SVK,lubomira kalinova,00:50:38.700,Vancouver 2010,Biathlon,15km women
+79,ROU,dana cojocea,00:51:01.100,Vancouver 2010,Biathlon,15km women
+80,NZL,sarah murphy,00:52:54.900,Vancouver 2010,Biathlon,15km women
+81,CRO,andrijana stipanicic,00:53:06.100,Vancouver 2010,Biathlon,15km women
+82,LAT,zanna juskane,00:53:36.400,Vancouver 2010,Biathlon,15km women
+83,GRE,panagiota tsakiri,00:54:36.300,Vancouver 2010,Biathlon,15km women
+84,ESP,victoria padial hernandez,00:56:41.800,Vancouver 2010,Biathlon,15km women
+85,BIH,tanja karisik-kosarac,Did not finish,Vancouver 2010,Biathlon,15km women
+86,SLO,teja gregorin,Disqualified,Vancouver 2010,Biathlon,15km women
+0,NOR,emil hegle svendsen,00:48:22.500,Vancouver 2010,Biathlon,20km men
+1,BLR,sergey novikov,00:48:32.000,Vancouver 2010,Biathlon,20km men
+2,NOR,ole einar bjørndalen,00:48:32.000,Vancouver 2010,Biathlon,20km men
+3,RUS,evgeny ustyugov,00:49:11.800,Vancouver 2010,Biathlon,20km men
+4,SVK,pavol hurajt,00:49:39.000,Vancouver 2010,Biathlon,20km men
+5,AUT,simon eder,00:49:41.700,Vancouver 2010,Biathlon,20km men
+6,POL,tomasz sikora,00:49:43.800,Vancouver 2010,Biathlon,20km men
+7,AUT,christoph sumann,00:50:04.900,Vancouver 2010,Biathlon,20km men
+8,AUT,daniel mesotitsch,00:50:32.000,Vancouver 2010,Biathlon,20km men
+9,GER,michael greis,00:50:37.600,Vancouver 2010,Biathlon,20km men
+10,RUS,nikolay kruglov,00:50:40.400,Vancouver 2010,Biathlon,20km men
+11,GER,andreas birnbacher,00:50:43.500,Vancouver 2010,Biathlon,20km men
+12,CAN,jean-philippe le guellec,00:50:47.100,Vancouver 2010,Biathlon,20km men
+13,FRA,martin fourcade,00:50:55.400,Vancouver 2010,Biathlon,20km men
+14,RUS,ivan cherezov,00:50:56.700,Vancouver 2010,Biathlon,20km men
+15,SUI,thomas frei,00:51:03.400,Vancouver 2010,Biathlon,20km men
+16,CZE,michal slesingr,00:51:04.800,Vancouver 2010,Biathlon,20km men
+17,SVK,dusan simocko,00:51:20.600,Vancouver 2010,Biathlon,20km men
+18,CHN,chengye zhang,00:51:31.000,Vancouver 2010,Biathlon,20km men
+19,EST,priit viks,00:51:38.100,Vancouver 2010,Biathlon,20km men
+20,NOR,tarjei boe,00:51:51.500,Vancouver 2010,Biathlon,20km men
+21,UKR,oleksander bilanenko,00:52:00.300,Vancouver 2010,Biathlon,20km men
+22,AUT,dominik landertinger,00:52:00.800,Vancouver 2010,Biathlon,20km men
+23,GER,alexander wolf,00:52:09.000,Vancouver 2010,Biathlon,20km men
+24,BUL,krasimir anev,00:52:09.200,Vancouver 2010,Biathlon,20km men
+25,FRA,vincent defrasne,00:52:14.900,Vancouver 2010,Biathlon,20km men
+26,UKR,andriy deryzemlya,00:52:19.100,Vancouver 2010,Biathlon,20km men
+27,NOR,alexander os,00:52:19.800,Vancouver 2010,Biathlon,20km men
+28,GER,christoph stephan,00:52:33.400,Vancouver 2010,Biathlon,20km men
+29,CZE,jaroslav soukup,00:52:35.200,Vancouver 2010,Biathlon,20km men
+30,ITA,markus windisch,00:52:38.700,Vancouver 2010,Biathlon,20km men
+31,SLO,klemen bauer,00:52:43.900,Vancouver 2010,Biathlon,20km men
+32,SVK,marek matiasko,00:52:47.900,Vancouver 2010,Biathlon,20km men
+33,SWE,mattias jr. nilsson,00:52:50.100,Vancouver 2010,Biathlon,20km men
+34,CZE,roman dostal,00:52:51.400,Vancouver 2010,Biathlon,20km men
+35,RUS,anton shipulin,00:52:51.700,Vancouver 2010,Biathlon,20km men
+36,LAT,edgars piksons,00:52:52.500,Vancouver 2010,Biathlon,20km men
+37,ITA,christian de lorenzi,00:53:03.600,Vancouver 2010,Biathlon,20km men
+38,SUI,matthias simmen,00:53:05.700,Vancouver 2010,Biathlon,20km men
+39,FRA,simon fourcade,00:53:06.200,Vancouver 2010,Biathlon,20km men
+40,BLR,aleksandr syman,00:53:16.200,Vancouver 2010,Biathlon,20km men
+41,SWE,bjorn ferry,00:53:16.700,Vancouver 2010,Biathlon,20km men
+42,SUI,simon hallenbarter,00:53:18.400,Vancouver 2010,Biathlon,20km men
+43,EST,kauri koiv,00:53:22.400,Vancouver 2010,Biathlon,20km men
+44,USA,tim burke,00:53:22.600,Vancouver 2010,Biathlon,20km men
+45,ITA,lukas hofer,00:53:23.700,Vancouver 2010,Biathlon,20km men
+46,SVK,miroslav matiasko,00:53:29.200,Vancouver 2010,Biathlon,20km men
+47,BLR,rustam valiullin,00:53:32.300,Vancouver 2010,Biathlon,20km men
+48,SLO,vasja rupnik,00:53:49.800,Vancouver 2010,Biathlon,20km men
+49,KAZ,aleksandr chervyakov,00:53:53.100,Vancouver 2010,Biathlon,20km men
+50,CRO,jakov fak,00:53:56.000,Vancouver 2010,Biathlon,20km men
+51,UKR,sergii semenov,00:53:57.500,Vancouver 2010,Biathlon,20km men
+52,FIN,paavo puurunen,00:54:03.500,Vancouver 2010,Biathlon,20km men
+53,ITA,rene laurent vuillermoz,00:54:19.700,Vancouver 2010,Biathlon,20km men
+54,SUI,benjamin weger,00:54:20.300,Vancouver 2010,Biathlon,20km men
+55,FIN,timo antila,00:54:22.700,Vancouver 2010,Biathlon,20km men
+56,USA,lowell bailey,00:54:23.100,Vancouver 2010,Biathlon,20km men
+57,BLR,evgeny abramenko,00:54:24.800,Vancouver 2010,Biathlon,20km men
+58,POL,lukasz szczurek,00:54:36.700,Vancouver 2010,Biathlon,20km men
+59,FRA,vincent jay,00:54:37.500,Vancouver 2010,Biathlon,20km men
+60,SWE,carl johan bergman,00:54:44.100,Vancouver 2010,Biathlon,20km men
+61,SLO,janez maric,00:54:46.400,Vancouver 2010,Biathlon,20km men
+62,BUL,mihail klecherov,00:54:54.600,Vancouver 2010,Biathlon,20km men
+63,KAZ,yan savitskiy,00:55:07.300,Vancouver 2010,Biathlon,20km men
+64,EST,roland lessing,00:55:29.800,Vancouver 2010,Biathlon,20km men
+65,GBR,lee-steve jackson,00:55:37.500,Vancouver 2010,Biathlon,20km men
+66,CZE,zdenek vitek,00:55:41.200,Vancouver 2010,Biathlon,20km men
+67,UKR,serguei sednev,00:55:47.100,Vancouver 2010,Biathlon,20km men
+68,KAZ,alexandr trifonov,00:55:53.100,Vancouver 2010,Biathlon,20km men
+69,LAT,kristaps libietis,00:56:02.400,Vancouver 2010,Biathlon,20km men
+70,KOR,inbok lee,00:56:24.500,Vancouver 2010,Biathlon,20km men
+71,KAZ,dias keneshev,00:56:27.000,Vancouver 2010,Biathlon,20km men
+72,LAT,kaspars dumbris,00:56:30.100,Vancouver 2010,Biathlon,20km men
+73,LAT,ilmars bricis,00:56:33.900,Vancouver 2010,Biathlon,20km men
+74,SLO,peter dokl,00:56:41.900,Vancouver 2010,Biathlon,20km men
+75,USA,jay hakkinen,00:57:01.800,Vancouver 2010,Biathlon,20km men
+76,SWE,fredrik lindstroem,00:57:29.800,Vancouver 2010,Biathlon,20km men
+77,AUS,alexei almoukov,00:57:37.600,Vancouver 2010,Biathlon,20km men
+78,BUL,vladimir iliev,00:57:37.800,Vancouver 2010,Biathlon,20km men
+79,GRE,athanassios tsakiris,00:57:42.100,Vancouver 2010,Biathlon,20km men
+80,EST,martten kaldvee,00:57:56.700,Vancouver 2010,Biathlon,20km men
+81,HUN,imre tagscherer,00:58:02.600,Vancouver 2010,Biathlon,20km men
+82,JPN,hidenori isa,00:58:06.200,Vancouver 2010,Biathlon,20km men
+83,BUL,martin bogdanov,00:58:29.600,Vancouver 2010,Biathlon,20km men
+84,MDA,victor pinzaru,00:58:42.600,Vancouver 2010,Biathlon,20km men
+85,USA,wynn roberts,00:58:49.200,Vancouver 2010,Biathlon,20km men
+86,SRB,milanko petrovic,00:59:44.000,Vancouver 2010,Biathlon,20km men
+87,DEN,oystein slettemark,01:01:12.900,Vancouver 2010,Biathlon,20km men
+0,,,01:09:36.300,Vancouver 2010,Biathlon,4x6km relay women
+1,,,01:10:09.100,Vancouver 2010,Biathlon,4x6km relay women
+2,,,01:10:13.400,Vancouver 2010,Biathlon,4x6km relay women
+3,,,01:10:34.100,Vancouver 2010,Biathlon,4x6km relay women
+4,,,01:10:47.200,Vancouver 2010,Biathlon,4x6km relay women
+5,,,01:11:08.200,Vancouver 2010,Biathlon,4x6km relay women
+6,,,01:11:34.000,Vancouver 2010,Biathlon,4x6km relay women
+7,,,01:12:16.900,Vancouver 2010,Biathlon,4x6km relay women
+8,,,01:12:32.900,Vancouver 2010,Biathlon,4x6km relay women
+9,,,01:12:54.200,Vancouver 2010,Biathlon,4x6km relay women
+10,,,01:12:54.300,Vancouver 2010,Biathlon,4x6km relay women
+11,,,01:13:15.800,Vancouver 2010,Biathlon,4x6km relay women
+12,,,01:13:42.900,Vancouver 2010,Biathlon,4x6km relay women
+13,,,01:14:25.500,Vancouver 2010,Biathlon,4x6km relay women
+14,,,01:14:37.500,Vancouver 2010,Biathlon,4x6km relay women
+15,,,01:15:47.500,Vancouver 2010,Biathlon,4x6km relay women
+16,,,01:17:55.500,Vancouver 2010,Biathlon,4x6km relay women
+17,,,01:18:56.200,Vancouver 2010,Biathlon,4x6km relay women
+18,,,Disqualified,Vancouver 2010,Biathlon,4x6km relay women
+0,,,01:21:38.100,Vancouver 2010,Biathlon,4x7.5km relay men
+1,,,01:22:16.700,Vancouver 2010,Biathlon,4x7.5km relay men
+2,,,01:22:16.900,Vancouver 2010,Biathlon,4x7.5km relay men
+3,,,01:23:02.000,Vancouver 2010,Biathlon,4x7.5km relay men
+4,,,01:23:16.000,Vancouver 2010,Biathlon,4x7.5km relay men
+5,,,01:23:16.200,Vancouver 2010,Biathlon,4x7.5km relay men
+6,,,01:23:55.200,Vancouver 2010,Biathlon,4x7.5km relay men
+7,,,01:24:25.100,Vancouver 2010,Biathlon,4x7.5km relay men
+8,,,01:24:36.800,Vancouver 2010,Biathlon,4x7.5km relay men
+9,,,01:24:50.700,Vancouver 2010,Biathlon,4x7.5km relay men
+10,,,01:25:47.400,Vancouver 2010,Biathlon,4x7.5km relay men
+11,,,01:26:27.500,Vancouver 2010,Biathlon,4x7.5km relay men
+12,,,01:27:58.300,Vancouver 2010,Biathlon,4x7.5km relay men
+13,,,01:28:16.500,Vancouver 2010,Biathlon,4x7.5km relay men
+14,,,01:28:54.100,Vancouver 2010,Biathlon,4x7.5km relay men
+15,,,01:29:39.700,Vancouver 2010,Biathlon,4x7.5km relay men
+16,,,01:29:52.400,Vancouver 2010,Biathlon,4x7.5km relay men
+17,,,01:30:31.100,Vancouver 2010,Biathlon,4x7.5km relay men
+18,,,01:35:15.500,Vancouver 2010,Biathlon,4x7.5km relay men
+0,SVK,anastasiya kuzmina,00:19:55.600,Vancouver 2010,Biathlon,7.5km women
+1,GER,magdalena neuner,00:19:57.100,Vancouver 2010,Biathlon,7.5km women
+2,FRA,marie dorin habert,00:20:06.500,Vancouver 2010,Biathlon,7.5km women
+3,RUS,anna frolina,00:20:07.700,Vancouver 2010,Biathlon,7.5km women
+4,KAZ,yelena khrustalyova,00:20:20.400,Vancouver 2010,Biathlon,7.5km women
+5,FRA,marie laure brunet,00:20:23.300,Vancouver 2010,Biathlon,7.5km women
+6,RUS,olga zaytseva,00:20:23.400,Vancouver 2010,Biathlon,7.5km women
+7,BLR,darya domracheva,00:20:27.400,Vancouver 2010,Biathlon,7.5km women
+8,NOR,ann kristin aafedt flatland,00:20:29.700,Vancouver 2010,Biathlon,7.5km women
+9,UKR,oksana khvostenko,00:20:38.900,Vancouver 2010,Biathlon,7.5km women
+10,SWE,helena jonsson,00:20:42.500,Vancouver 2010,Biathlon,7.5km women
+11,RUS,svetlana sleptsova,00:20:43.100,Vancouver 2010,Biathlon,7.5km women
+12,ROU,eva tofalvi,00:20:45.100,Vancouver 2010,Biathlon,7.5km women
+13,FRA,sandrine bailly,00:20:45.300,Vancouver 2010,Biathlon,7.5km women
+14,SWE,anna maria nilsson,00:20:45.500,Vancouver 2010,Biathlon,7.5km women
+15,BLR,liudmila kalinchik,00:20:46.100,Vancouver 2010,Biathlon,7.5km women
+16,UKR,olena pidhrushna,00:20:47.300,Vancouver 2010,Biathlon,7.5km women
+17,CZE,magda rezlerova,00:20:51.000,Vancouver 2010,Biathlon,7.5km women
+18,SWE,anna-carin olofsson,00:20:53.500,Vancouver 2010,Biathlon,7.5km women
+19,POL,krystyna guzik,00:20:54.300,Vancouver 2010,Biathlon,7.5km women
+20,RUS,olga pyleva,00:21:01.600,Vancouver 2010,Biathlon,7.5km women
+21,UKR,valj semerenko,00:21:08.300,Vancouver 2010,Biathlon,7.5km women
+22,CZE,veronika vitkova,00:21:10.900,Vancouver 2010,Biathlon,7.5km women
+23,LTU,diana rasimoviciute,00:21:11.200,Vancouver 2010,Biathlon,7.5km women
+24,GER,simone hauswald,00:21:14.100,Vancouver 2010,Biathlon,7.5km women
+25,GER,andrea henkel,00:21:15.700,Vancouver 2010,Biathlon,7.5km women
+26,BLR,nadezhda skardino,00:21:17.600,Vancouver 2010,Biathlon,7.5km women
+27,FRA,sylvie becaert,00:21:21.600,Vancouver 2010,Biathlon,7.5km women
+28,GER,kati wilhelm,00:21:27.200,Vancouver 2010,Biathlon,7.5km women
+29,SLO,andreja mali,00:21:32.600,Vancouver 2010,Biathlon,7.5km women
+30,CHN,chaoqing song,00:21:38.200,Vancouver 2010,Biathlon,7.5km women
+31,NOR,tora berger,00:21:42.100,Vancouver 2010,Biathlon,7.5km women
+32,UKR,vita semerenko,00:21:42.300,Vancouver 2010,Biathlon,7.5km women
+33,POL,magdalena gwizdon,00:21:48.900,Vancouver 2010,Biathlon,7.5km women
+34,POL,weronika nowakowska,00:21:49.400,Vancouver 2010,Biathlon,7.5km women
+35,SLO,dijana grudicek-ravnikar,00:21:49.700,Vancouver 2010,Biathlon,7.5km women
+36,ITA,katja haller,00:21:51.000,Vancouver 2010,Biathlon,7.5km women
+37,ROU,mihaela purdea,00:21:52.200,Vancouver 2010,Biathlon,7.5km women
+38,SVK,jana gerekova,00:21:54.000,Vancouver 2010,Biathlon,7.5km women
+39,SWE,sofia domeij,00:21:55.000,Vancouver 2010,Biathlon,7.5km women
+40,POL,agnieszka cyl,00:21:55.200,Vancouver 2010,Biathlon,7.5km women
+41,ITA,michela ponza,00:21:55.700,Vancouver 2010,Biathlon,7.5km women
+42,JPN,fuyuko tachizaki,00:21:58.000,Vancouver 2010,Biathlon,7.5km women
+43,USA,sara studebaker,00:22:05.300,Vancouver 2010,Biathlon,7.5km women
+44,CAN,megan tandy,00:22:07.700,Vancouver 2010,Biathlon,7.5km women
+45,ITA,karin oberhofer,00:22:08.900,Vancouver 2010,Biathlon,7.5km women
+46,LAT,gerda krumina,00:22:09.300,Vancouver 2010,Biathlon,7.5km women
+47,ROU,dana cojocea,00:22:12.300,Vancouver 2010,Biathlon,7.5km women
+48,CHN,chunli wang,00:22:13.400,Vancouver 2010,Biathlon,7.5km women
+49,CHN,xianying liu,00:22:14.600,Vancouver 2010,Biathlon,7.5km women
+50,KAZ,anna lebedeva,00:22:15.100,Vancouver 2010,Biathlon,7.5km women
+51,MDA,natalia levtchenkova,00:22:18.200,Vancouver 2010,Biathlon,7.5km women
+52,SVK,martina halinarova,00:22:19.000,Vancouver 2010,Biathlon,7.5km women
+53,EST,eveli saue,00:22:23.300,Vancouver 2010,Biathlon,7.5km women
+54,SUI,selina gasparin,00:22:23.400,Vancouver 2010,Biathlon,7.5km women
+55,LAT,madara liduma,00:22:23.800,Vancouver 2010,Biathlon,7.5km women
+56,KAZ,marina lebedeva,00:22:27.000,Vancouver 2010,Biathlon,7.5km women
+57,FIN,kaisa makarainen,00:22:27.300,Vancouver 2010,Biathlon,7.5km women
+58,CZE,zdenka vejnarova,00:22:28.500,Vancouver 2010,Biathlon,7.5km women
+59,CHN,yingchao kong,00:22:30.900,Vancouver 2010,Biathlon,7.5km women
+60,BUL,nina kadeva,00:22:32.400,Vancouver 2010,Biathlon,7.5km women
+61,KOR,jihee mun,00:22:34.100,Vancouver 2010,Biathlon,7.5km women
+62,EST,kadri lehtla,00:22:34.200,Vancouver 2010,Biathlon,7.5km women
+63,CAN,zina kocher,00:22:35.800,Vancouver 2010,Biathlon,7.5km women
+64,NOR,gro kristiansen,00:22:41.000,Vancouver 2010,Biathlon,7.5km women
+65,KAZ,lyubov filimonova,00:22:44.400,Vancouver 2010,Biathlon,7.5km women
+66,FIN,mari laukkanen,00:22:45.000,Vancouver 2010,Biathlon,7.5km women
+67,LAT,liga glazere,00:22:47.700,Vancouver 2010,Biathlon,7.5km women
+68,NOR,liv kjersti eikeland,00:22:51.900,Vancouver 2010,Biathlon,7.5km women
+69,CZE,veronika zvaricova,00:22:52.900,Vancouver 2010,Biathlon,7.5km women
+70,CAN,rosanna crawford,00:23:04.600,Vancouver 2010,Biathlon,7.5km women
+71,ITA,roberta fiandino,00:23:11.600,Vancouver 2010,Biathlon,7.5km women
+72,BLR,olga nazarova,00:23:11.700,Vancouver 2010,Biathlon,7.5km women
+73,SLO,tadeja brankovic,00:23:13.300,Vancouver 2010,Biathlon,7.5km women
+74,CAN,megan imrie,00:23:17.000,Vancouver 2010,Biathlon,7.5km women
+75,USA,laura spector,00:23:18.100,Vancouver 2010,Biathlon,7.5km women
+76,USA,lanny barnes,00:23:26.000,Vancouver 2010,Biathlon,7.5km women
+77,LAT,zanna juskane,00:23:32.400,Vancouver 2010,Biathlon,7.5km women
+78,USA,haley johnson,00:23:35.400,Vancouver 2010,Biathlon,7.5km women
+79,SVK,lubomira kalinova,00:23:47.200,Vancouver 2010,Biathlon,7.5km women
+80,NZL,sarah murphy,00:23:49.700,Vancouver 2010,Biathlon,7.5km women
+81,EST,kristel viigipuu,00:23:57.100,Vancouver 2010,Biathlon,7.5km women
+82,EST,sirli hanni,00:23:57.800,Vancouver 2010,Biathlon,7.5km women
+83,ROU,alexandra rusu,00:24:04.600,Vancouver 2010,Biathlon,7.5km women
+84,GRE,panagiota tsakiri,00:24:28.800,Vancouver 2010,Biathlon,7.5km women
+85,ESP,victoria padial hernandez,00:24:55.500,Vancouver 2010,Biathlon,7.5km women
+86,BIH,tanja karisik-kosarac,00:25:24.100,Vancouver 2010,Biathlon,7.5km women
+87,SLO,teja gregorin,Disqualified,Vancouver 2010,Biathlon,7.5km women
+88,CRO,andrijana stipanicic,Did not start,Vancouver 2010,Biathlon,7.5km women

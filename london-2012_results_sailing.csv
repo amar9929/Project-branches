@@ -1,0 +1,274 @@
+,country,participant,result,olympic_game,discipline,event
+0,AUS,mathew belcher,22,London 2012,Sailing,470 - Two Person Dinghy men
+1,GBR,luke patience,30,London 2012,Sailing,470 - Two Person Dinghy men
+2,ARG,juan maria de la fuente,63,London 2012,Sailing,470 - Two Person Dinghy men
+3,ITA,gabrio zandona,72,London 2012,Sailing,470 - Two Person Dinghy men
+4,NZL,jason saunders,86,London 2012,Sailing,470 - Two Person Dinghy men
+5,CRO,sime fantela,87,London 2012,Sailing,470 - Two Person Dinghy men
+6,FRA,vincent garos,90,London 2012,Sailing,470 - Two Person Dinghy men
+7,POR,alvaro marinho,93,London 2012,Sailing,470 - Two Person Dinghy men
+8,AUT,florian reichstaedter,107,London 2012,Sailing,470 - Two Person Dinghy men
+9,SWE,anton dahlberg,123,London 2012,Sailing,470 - Two Person Dinghy men
+10,ESP,aaron sarmiento,104,London 2012,Sailing,470 - Two Person Dinghy men
+11,NED,kalle coster,105,London 2012,Sailing,470 - Two Person Dinghy men
+12,GER,ferdinand gerz,105,London 2012,Sailing,470 - Two Person Dinghy men
+13,USA,stuart mcnay,108,London 2012,Sailing,470 - Two Person Dinghy men
+14,ISR,gideon kliger,112,London 2012,Sailing,470 - Two Person Dinghy men
+15,SUI,romuald hausser,119,London 2012,Sailing,470 - Two Person Dinghy men
+16,RUS,maksim sheremetev,130,London 2012,Sailing,470 - Two Person Dinghy men
+17,JPN,yugo yoshida,131,London 2012,Sailing,470 - Two Person Dinghy men
+18,GRE,panagiotis kampouridis,148,London 2012,Sailing,470 - Two Person Dinghy men
+19,CHN,daokun deng,160,London 2012,Sailing,470 - Two Person Dinghy men
+20,FIN,niklas lindgren,167,London 2012,Sailing,470 - Two Person Dinghy men
+21,KOR,seong-min jo,169,London 2012,Sailing,470 - Two Person Dinghy men
+22,IRL,ger owens,173,London 2012,Sailing,470 - Two Person Dinghy men
+23,TUR,deniz cinar,178,London 2012,Sailing,470 - Two Person Dinghy men
+24,CAN,luke ramsay,179,London 2012,Sailing,470 - Two Person Dinghy men
+25,RSA,roger beresford hudson,194,London 2012,Sailing,470 - Two Person Dinghy men
+26,CHI,diego gonzalez parro,196,London 2012,Sailing,470 - Two Person Dinghy men
+0,NZL,polly powrie,35,London 2012,Sailing,470 - Two Person Dinghy women
+1,GBR,hannah mills,51,London 2012,Sailing,470 - Two Person Dinghy women
+2,NED,lisa westerhof,64,London 2012,Sailing,470 - Two Person Dinghy women
+3,FRA,camille lecointre,65,London 2012,Sailing,470 - Two Person Dinghy women
+4,ITA,giulia conti,73,London 2012,Sailing,470 - Two Person Dinghy women
+5,BRA,fernanda oliveira,75,London 2012,Sailing,470 - Two Person Dinghy women
+6,AUS,elise rechichi,83,London 2012,Sailing,470 - Two Person Dinghy women
+7,GER,friederike belcher,84,London 2012,Sailing,470 - Two Person Dinghy women
+8,USA,sarah lihan,98,London 2012,Sailing,470 - Two Person Dinghy women
+9,ESP,berta betanzos moro,101,London 2012,Sailing,470 - Two Person Dinghy women
+10,CHN,xufeng huang,97,London 2012,Sailing,470 - Two Person Dinghy women
+11,POL,agnieszka skrzypulec,98,London 2012,Sailing,470 - Two Person Dinghy women
+12,ARG,consuelo monsegur,98,London 2012,Sailing,470 - Two Person Dinghy women
+13,JPN,wakako tabata,103,London 2012,Sailing,470 - Two Person Dinghy women
+14,ISR,vered bouskila,105,London 2012,Sailing,470 - Two Person Dinghy women
+15,DEN,henriette koch,106,London 2012,Sailing,470 - Two Person Dinghy women
+16,CRO,romana zupan,115,London 2012,Sailing,470 - Two Person Dinghy women
+17,SLO,teja cerne,127,London 2012,Sailing,470 - Two Person Dinghy women
+18,SWE,lisa ericson,128,London 2012,Sailing,470 - Two Person Dinghy women
+19,AUT,eva-maria schimak,143,London 2012,Sailing,470 - Two Person Dinghy women
+0,AUS,nathan outteridge,56,London 2012,Sailing,49er - Skiff men
+1,NZL,peter burling,80,London 2012,Sailing,49er - Skiff men
+2,DEN,peter lang,114,London 2012,Sailing,49er - Skiff men
+3,AUT,nico luca marc delle karth,118,London 2012,Sailing,49er - Skiff men
+4,GBR,stevie morrison,124,London 2012,Sailing,49er - Skiff men
+5,FRA,emmanuel dyen,127,London 2012,Sailing,49er - Skiff men
+6,FIN,kalle bask,129,London 2012,Sailing,49er - Skiff men
+7,POR,bernardo freitas,134,London 2012,Sailing,49er - Skiff men
+8,ITA,giuseppe angilella,148,London 2012,Sailing,49er - Skiff men
+9,SWE,niclas during,153,London 2012,Sailing,49er - Skiff men
+10,GER,tobias schadewaldt,142,London 2012,Sailing,49er - Skiff men
+11,ESP,iker martinez,146,London 2012,Sailing,49er - Skiff men
+12,POL,lukasz przybytek,146,London 2012,Sailing,49er - Skiff men
+13,IRL,matthew mcgovern,149,London 2012,Sailing,49er - Skiff men
+14,USA,erik storck,157,London 2012,Sailing,49er - Skiff men
+15,CAN,gordon cook,162,London 2012,Sailing,49er - Skiff men
+16,CRO,pavle kostov,181,London 2012,Sailing,49er - Skiff men
+17,JPN,yukio makino,188,London 2012,Sailing,49er - Skiff men
+18,BER,alexander kirkland,204,London 2012,Sailing,49er - Skiff men
+19,GRE,dionysios dimou,242,London 2012,Sailing,49er - Skiff men
+0,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+1,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+2,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+3,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+4,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+5,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+6,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+7,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+8,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+9,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+10,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+11,,,,London 2012,Sailing,Elliott 6m - Match Racing women
+0,GBR,ben ainslie,46,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+1,DEN,jonas hoegh-christensen,46,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+2,FRA,jonathan lobert,49,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+3,NED,pieter-jan postma,52,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+4,CRO,ivan kljakovic-gaspic,55,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+5,SLO,vasilij zbogar,63,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+6,NZL,daniel slater,83,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+7,ESP,rafael trujillo,86,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+8,SWE,daniel birgmark,90,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+9,FIN,tapio nirkko,92,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+10,EST,deniss karpak,85,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+11,USA,zach railey,97,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+12,AUS,brendan casey,106,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+13,GRE,giannis mittakis,108,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+14,CAN,gregory douglas,137,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+15,POL,piotr kula,148,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+16,RUS,eduard skornyakov,153,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+17,TUR,alican kaynar,154,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+18,UKR,oleksiy borysov,160.6,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+19,BRA,jorge zarif,161,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+20,CZE,michael maier,162,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+21,ITA,filippo baldassari,164,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+22,AUT,florian raudaschl,179,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+23,CHN,lei gong,190,London 2012,Sailing,Finn - One Person Dinghy (Heavyweight) men
+0,AUS,tom slingsby,43,London 2012,Sailing,Laser - One Person Dinghy men
+1,CYP,pavlos kontides,59,London 2012,Sailing,Laser - One Person Dinghy men
+2,SWE,rasmus myrgren,72,London 2012,Sailing,Laser - One Person Dinghy men
+3,CRO,tonci stipanovic,77,London 2012,Sailing,Laser - One Person Dinghy men
+4,NZL,andrew murdoch,87,London 2012,Sailing,Laser - One Person Dinghy men
+5,GER,simon groteluschen,92,London 2012,Sailing,Laser - One Person Dinghy men
+6,GBR,paul goodison,93,London 2012,Sailing,Laser - One Person Dinghy men
+7,URU,alejandro foglia,106,London 2012,Sailing,Laser - One Person Dinghy men
+8,GUA,juan ignacio maegli,108,London 2012,Sailing,Laser - One Person Dinghy men
+9,FRA,jean baptiste bernaz,119,London 2012,Sailing,Laser - One Person Dinghy men
+10,ARG,julio alsogaray,112,London 2012,Sailing,Laser - One Person Dinghy men
+11,ESP,javier hernandez cebrian,118,London 2012,Sailing,Laser - One Person Dinghy men
+12,BRA,bruno fontes,125,London 2012,Sailing,Laser - One Person Dinghy men
+13,NED,rutger van schaardenburg,130,London 2012,Sailing,Laser - One Person Dinghy men
+14,SGP,colin cheng,145,London 2012,Sailing,Laser - One Person Dinghy men
+15,NOR,kristian ruth,145,London 2012,Sailing,Laser - One Person Dinghy men
+16,POL,kacper zieminski,145,London 2012,Sailing,Laser - One Person Dinghy men
+17,EST,karl-martin rammo,148,London 2012,Sailing,Laser - One Person Dinghy men
+18,DEN,thorbjorn schierup,157,London 2012,Sailing,Laser - One Person Dinghy men
+19,AUT,andreas geritzer,158,London 2012,Sailing,Laser - One Person Dinghy men
+20,HUN,zsombor berecz,159,London 2012,Sailing,Laser - One Person Dinghy men
+21,POR,gustavo lima,173,London 2012,Sailing,Laser - One Person Dinghy men
+22,CAN,david wright,184,London 2012,Sailing,Laser - One Person Dinghy men
+23,KOR,jeemin ha,188,London 2012,Sailing,Laser - One Person Dinghy men
+24,ISV,cy thompson,203,London 2012,Sailing,Laser - One Person Dinghy men
+25,GRE,evangelos cheimonas,206,London 2012,Sailing,Laser - One Person Dinghy men
+26,RUS,igor lisovenko,231,London 2012,Sailing,Laser - One Person Dinghy men
+27,CZE,viktor teply,234,London 2012,Sailing,Laser - One Person Dinghy men
+28,USA,rob crane,236,London 2012,Sailing,Laser - One Person Dinghy men
+29,MNE,milivoj dukic,249,London 2012,Sailing,Laser - One Person Dinghy men
+30,SLO,karlo hmeljak,253,London 2012,Sailing,Laser - One Person Dinghy men
+31,CHI,matias del solar,255,London 2012,Sailing,Laser - One Person Dinghy men
+32,FIN,mattias lindfors,263,London 2012,Sailing,Laser - One Person Dinghy men
+33,BEL,wannes van laer,276,London 2012,Sailing,Laser - One Person Dinghy men
+34,ITA,michele regolo,280,London 2012,Sailing,Laser - One Person Dinghy men
+35,IRL,james espey,313,London 2012,Sailing,Laser - One Person Dinghy men
+36,TTO,andrew lewis,315,London 2012,Sailing,Laser - One Person Dinghy men
+37,MEX,ricardo montemayor,320,London 2012,Sailing,Laser - One Person Dinghy men
+38,TUR,mustafa cakir,325,London 2012,Sailing,Laser - One Person Dinghy men
+39,COL,andrey quintero,325,London 2012,Sailing,Laser - One Person Dinghy men
+40,VEN,jose miguel ruiz durango,333,London 2012,Sailing,Laser - One Person Dinghy men
+41,LTU,rokas milevicius,339,London 2012,Sailing,Laser - One Person Dinghy men
+42,CHN,jian shi,340,London 2012,Sailing,Laser - One Person Dinghy men
+43,UKR,valeriy kudryashov,341,London 2012,Sailing,Laser - One Person Dinghy men
+44,TUN,youssef akrout,348,London 2012,Sailing,Laser - One Person Dinghy men
+45,MON,damien desprat,351,London 2012,Sailing,Laser - One Person Dinghy men
+46,MAS,khairulnizam mohd afendy,394,London 2012,Sailing,Laser - One Person Dinghy men
+47,THA,keerati bualong,404,London 2012,Sailing,Laser - One Person Dinghy men
+48,KGZ,ilya ignatyev,422,London 2012,Sailing,Laser - One Person Dinghy men
+0,CHN,lijia xu,35,London 2012,Sailing,Laser Radial - One Person Dinghy women
+1,NED,marit bouwmeester,37,London 2012,Sailing,Laser Radial - One Person Dinghy women
+2,BEL,evi van acker,40,London 2012,Sailing,Laser Radial - One Person Dinghy women
+3,IRL,annalise murphy,44,London 2012,Sailing,Laser Radial - One Person Dinghy women
+4,GBR,alison young,60,London 2012,Sailing,Laser Radial - One Person Dinghy women
+5,LTU,gintare scheidt,82,London 2012,Sailing,Laser Radial - One Person Dinghy women
+6,FIN,sari multala,94,London 2012,Sailing,Laser Radial - One Person Dinghy women
+7,USA,paige railey,104,London 2012,Sailing,Laser Radial - One Person Dinghy women
+8,CZE,veronika kozelska fenclova,105,London 2012,Sailing,Laser Radial - One Person Dinghy women
+9,MEX,tania elias calles wolf,116,London 2012,Sailing,Laser Radial - One Person Dinghy women
+10,ESP,alicia cebrian martinez de lagos,101,London 2012,Sailing,Laser Radial - One Person Dinghy women
+11,AUS,krystal weir,121,London 2012,Sailing,Laser Radial - One Person Dinghy women
+12,DEN,anne-marie rindom,130,London 2012,Sailing,Laser Radial - One Person Dinghy women
+13,SUI,nathalie brugger,135,London 2012,Sailing,Laser Radial - One Person Dinghy women
+14,BLR,tatiana drozdovskaya,138,London 2012,Sailing,Laser Radial - One Person Dinghy women
+15,FRA,sarah steyaert,143,London 2012,Sailing,Laser Radial - One Person Dinghy women
+16,CRO,tina mihelic,148,London 2012,Sailing,Laser Radial - One Person Dinghy women
+17,SWE,josefin olsson,151,London 2012,Sailing,Laser Radial - One Person Dinghy women
+18,ITA,francesca clapcich,159,London 2012,Sailing,Laser Radial - One Person Dinghy women
+19,NZL,sara winther,185,London 2012,Sailing,Laser Radial - One Person Dinghy women
+20,ARG,cecilia carranza saroli,185,London 2012,Sailing,Laser Radial - One Person Dinghy women
+21,POL,anna weinzieher,185,London 2012,Sailing,Laser Radial - One Person Dinghy women
+22,NOR,marthe enger eide,194,London 2012,Sailing,Laser Radial - One Person Dinghy women
+23,SGP,elizabeth yin,197,London 2012,Sailing,Laser Radial - One Person Dinghy women
+24,BRA,adriana kostiw,216,London 2012,Sailing,Laser Radial - One Person Dinghy women
+25,GER,franziska goltz,220,London 2012,Sailing,Laser Radial - One Person Dinghy women
+26,CAN,danielle dube,220,London 2012,Sailing,Laser Radial - One Person Dinghy women
+27,POR,sara carmo,222,London 2012,Sailing,Laser Radial - One Person Dinghy women
+28,TUR,nazli donertas,232,London 2012,Sailing,Laser Radial - One Person Dinghy women
+29,ISR,nufar edelman,237,London 2012,Sailing,Laser Radial - One Person Dinghy women
+30,JPN,manami doi,253,London 2012,Sailing,Laser Radial - One Person Dinghy women
+31,GUA,andrea aldana bennett,257,London 2012,Sailing,Laser Radial - One Person Dinghy women
+32,GRE,anna agrafioti,257,London 2012,Sailing,Laser Radial - One Person Dinghy women
+33,RUS,svetlana shnitko,279,London 2012,Sailing,Laser Radial - One Person Dinghy women
+34,EST,anna pohlak,284,London 2012,Sailing,Laser Radial - One Person Dinghy women
+35,IOA,philipine van aanholt,291,London 2012,Sailing,Laser Radial - One Person Dinghy women
+36,LCA,beth lygoe,293,London 2012,Sailing,Laser Radial - One Person Dinghy women
+37,URU,andrea foglia costa,303,London 2012,Sailing,Laser Radial - One Person Dinghy women
+38,PER,paloma schmidt gutierrez,310,London 2012,Sailing,Laser Radial - One Person Dinghy women
+39,ISV,mayumi roller,335,London 2012,Sailing,Laser Radial - One Person Dinghy women
+40,COK,helema williams,339,London 2012,Sailing,Laser Radial - One Person Dinghy women
+0,NED,dorian van rijsselberghe,15,London 2012,Sailing,RSX - Windsurfer men
+1,GBR,nick dempsey,41,London 2012,Sailing,RSX - Windsurfer men
+2,POL,przemyslaw miarczynski,60,London 2012,Sailing,RSX - Windsurfer men
+3,GER,toni wilhelm,64,London 2012,Sailing,RSX - Windsurfer men
+4,FRA,julien bontemps,70,London 2012,Sailing,RSX - Windsurfer men
+5,GRE,vyron kokkalanis,77,London 2012,Sailing,RSX - Windsurfer men
+6,NZL,jp tobin,96,London 2012,Sailing,RSX - Windsurfer men
+7,CAN,zac plavsic,100,London 2012,Sailing,RSX - Windsurfer men
+8,BRA,bimba bimba,113,London 2012,Sailing,RSX - Windsurfer men
+9,SUI,richard stauffacher,127,London 2012,Sailing,RSX - Windsurfer men
+10,ARG,mariano daniel reutemann,116,London 2012,Sailing,RSX - Windsurfer men
+11,LTU,juozas bernotas,120,London 2012,Sailing,RSX - Windsurfer men
+12,HKG,ho tsun andy leung,125,London 2012,Sailing,RSX - Windsurfer men
+13,POR,joao rodrigues,131,London 2012,Sailing,RSX - Windsurfer men
+14,KOR,taehoon lee,139,London 2012,Sailing,RSX - Windsurfer men
+15,ESP,ivan pastor,150,London 2012,Sailing,RSX - Windsurfer men
+16,CYP,andreas pheobus cariolou,150,London 2012,Sailing,RSX - Windsurfer men
+17,CHN,aichen wang,153,London 2012,Sailing,RSX - Windsurfer men
+18,ISR,shahar zubari,155,London 2012,Sailing,RSX - Windsurfer men
+19,RUS,dmitrii polishchuk,167,London 2012,Sailing,RSX - Windsurfer men
+20,CRO,luka mratovic,170,London 2012,Sailing,RSX - Windsurfer men
+21,USA,robert willis,179,London 2012,Sailing,RSX - Windsurfer men
+22,UKR,maksim oberemko,181,London 2012,Sailing,RSX - Windsurfer men
+23,NOR,sebastian wang-hansen,185,London 2012,Sailing,RSX - Windsurfer men
+24,HUN,aron gadorfalvi,187,London 2012,Sailing,RSX - Windsurfer men
+25,BUL,yoan kolev,207,London 2012,Sailing,RSX - Windsurfer men
+26,BLR,mikalai zhukavets,208,London 2012,Sailing,RSX - Windsurfer men
+27,JPN,makoto tomizawa,209,London 2012,Sailing,RSX - Windsurfer men
+28,DEN,sebastian fleischer,220,London 2012,Sailing,RSX - Windsurfer men
+29,EST,johannes ahun,231,London 2012,Sailing,RSX - Windsurfer men
+30,VEN,daniel flores,252,London 2012,Sailing,RSX - Windsurfer men
+31,MEX,david mauricio mier y teran cuevas,254,London 2012,Sailing,RSX - Windsurfer men
+32,THA,ek boonsawad,254,London 2012,Sailing,RSX - Windsurfer men
+33,ITA,federico esposito,269,London 2012,Sailing,RSX - Windsurfer men
+34,TPE,hao chang,289,London 2012,Sailing,RSX - Windsurfer men
+35,CZE,karel lavicky,296,London 2012,Sailing,RSX - Windsurfer men
+36,COL,santiago enrique grillo diez,302,London 2012,Sailing,RSX - Windsurfer men
+37,EGY,ahmed habash,334,London 2012,Sailing,RSX - Windsurfer men
+0,ESP,marina alabau neira,26,London 2012,Sailing,RSX - Windsurfer women
+1,FIN,tuuli petaja-siren,46,London 2012,Sailing,RSX - Windsurfer women
+2,POL,zofia noceti-klepacka,47,London 2012,Sailing,RSX - Windsurfer women
+3,UKR,olha maslivets,48,London 2012,Sailing,RSX - Windsurfer women
+4,GER,moana delle,51,London 2012,Sailing,RSX - Windsurfer women
+5,ISR,lee korzits,56,London 2012,Sailing,RSX - Windsurfer women
+6,GBR,bryony shaw,59,London 2012,Sailing,RSX - Windsurfer women
+7,FRA,charline picon,89,London 2012,Sailing,RSX - Windsurfer women
+8,ITA,alessandra sensini,95,London 2012,Sailing,RSX - Windsurfer women
+9,CAN,nikola girke,109,London 2012,Sailing,RSX - Windsurfer women
+10,AUS,jessica crisp,96,London 2012,Sailing,RSX - Windsurfer women
+11,HKG,hei man hayley victoria chan,96,London 2012,Sailing,RSX - Windsurfer women
+12,BRA,patricia freitas,110,London 2012,Sailing,RSX - Windsurfer women
+13,CHN,ling li,115,London 2012,Sailing,RSX - Windsurfer women
+14,EST,ingrid puusta,134,London 2012,Sailing,RSX - Windsurfer women
+15,GRE,gelly skarlatou,134,London 2012,Sailing,RSX - Windsurfer women
+16,BEL,sigrid rondelez,150,London 2012,Sailing,RSX - Windsurfer women
+17,HUN,diana detre,150,London 2012,Sailing,RSX - Windsurfer women
+18,NOR,jannicke staalstrom,157,London 2012,Sailing,RSX - Windsurfer women
+19,USA,farrah hall,173,London 2012,Sailing,RSX - Windsurfer women
+20,JPN,yuki sunaga,180,London 2012,Sailing,RSX - Windsurfer women
+21,BUL,irina konstantinova-bontemps,180,London 2012,Sailing,RSX - Windsurfer women
+22,ARG,jazmin lopez becker,190,London 2012,Sailing,RSX - Windsurfer women
+23,THA,napalai tansai,206,London 2012,Sailing,RSX - Windsurfer women
+24,RUS,tatiana bazyuk,208,London 2012,Sailing,RSX - Windsurfer women
+25,POR,carol borges-mendelblatt,Did not start,London 2012,Sailing,RSX - Windsurfer women
+0,SWE,max salminen,32,London 2012,Sailing,Star - Keelboat men
+1,GBR,iain percy,34,London 2012,Sailing,Star - Keelboat men
+2,BRA,bruno prada,40,London 2012,Sailing,Star - Keelboat men
+3,NOR,petter morland pedersen,63,London 2012,Sailing,Star - Keelboat men
+4,NZL,jim turner,70,London 2012,Sailing,Star - Keelboat men
+5,GER,frithjof kleen,70,London 2012,Sailing,Star - Keelboat men
+6,USA,mark mendelblatt,71,London 2012,Sailing,Star - Keelboat men
+7,POL,dominik zycki,72,London 2012,Sailing,Star - Keelboat men
+8,FRA,pierre-alexis ponsot,86,London 2012,Sailing,Star - Keelboat men
+9,IRL,david burrows,95,London 2012,Sailing,Star - Keelboat men
+10,DEN,claus olesen,89,London 2012,Sailing,Star - Keelboat men
+11,CAN,richard clarke,93,London 2012,Sailing,Star - Keelboat men
+12,SUI,enrico de maria,102,London 2012,Sailing,Star - Keelboat men
+13,GRE,adonis tsotras,106,London 2012,Sailing,Star - Keelboat men
+14,POR,frederico melo,108,London 2012,Sailing,Star - Keelboat men
+15,CRO,marin lovrovic,116,London 2012,Sailing,Star - Keelboat men

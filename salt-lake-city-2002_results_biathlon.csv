@@ -1,0 +1,501 @@
+,country,participant,result,olympic_game,discipline,event
+0,NOR,ole einar bjørndalen,00:24:51.300,Salt Lake City 2002,Biathlon,10km men
+1,GER,sven fischer,00:25:20.200,Salt Lake City 2002,Biathlon,10km men
+2,AUT,wolfgang perner,00:25:44.400,Salt Lake City 2002,Biathlon,10km men
+3,GER,ricco gross,00:25:44.600,Salt Lake City 2002,Biathlon,10km men
+4,AUT,wolfgang rottmann,00:25:48.800,Salt Lake City 2002,Biathlon,10km men
+5,RUS,pavel rostovtsev,00:25:50.100,Salt Lake City 2002,Biathlon,10km men
+6,RUS,viktor maygurov,00:25:50.900,Salt Lake City 2002,Biathlon,10km men
+7,NOR,frode andresen,00:25:51.500,Salt Lake City 2002,Biathlon,10km men
+8,FRA,raphael poiree,00:25:56.900,Salt Lake City 2002,Biathlon,10km men
+9,AUT,ludwig gredler,00:26:04.300,Salt Lake City 2002,Biathlon,10km men
+10,BLR,oleg ryzhenkov,00:26:05.500,Salt Lake City 2002,Biathlon,10km men
+11,BLR,vadim sashurin,00:26:09.900,Salt Lake City 2002,Biathlon,10km men
+12,NOR,halvard hanevold,00:26:12.500,Salt Lake City 2002,Biathlon,10km men
+13,CZE,zdenek vitek,00:26:14.000,Salt Lake City 2002,Biathlon,10km men
+14,GER,michael greis,00:26:18.400,Salt Lake City 2002,Biathlon,10km men
+15,FIN,paavo puurunen,00:26:24.700,Salt Lake City 2002,Biathlon,10km men
+16,SWE,bjorn ferry,00:26:30.500,Salt Lake City 2002,Biathlon,10km men
+17,POL,wojciech kozub,00:26:31.900,Salt Lake City 2002,Biathlon,10km men
+18,FIN,timo antila,00:26:33.400,Salt Lake City 2002,Biathlon,10km men
+19,USA,jeremy teela,00:26:36.600,Salt Lake City 2002,Biathlon,10km men
+20,FRA,vincent defrasne,00:26:36.700,Salt Lake City 2002,Biathlon,10km men
+21,ITA,rene cattarinussi,00:26:37.300,Salt Lake City 2002,Biathlon,10km men
+22,SLO,tomaz globocnik,00:26:40.000,Salt Lake City 2002,Biathlon,10km men
+23,NOR,egil gjelland,00:26:42.500,Salt Lake City 2002,Biathlon,10km men
+24,FIN,vesa hietalahti,00:26:43.200,Salt Lake City 2002,Biathlon,10km men
+25,USA,jay hakkinen,00:26:43.500,Salt Lake City 2002,Biathlon,10km men
+26,SLO,marko dolenc,00:26:47.000,Salt Lake City 2002,Biathlon,10km men
+27,SWE,carl johan bergman,00:26:47.100,Salt Lake City 2002,Biathlon,10km men
+28,GER,frank luck,00:26:47.700,Salt Lake City 2002,Biathlon,10km men
+29,EST,dimitri borovik,00:26:50.100,Salt Lake City 2002,Biathlon,10km men
+30,POL,tomasz sikora,00:26:59.300,Salt Lake City 2002,Biathlon,10km men
+31,CZE,tomas holubec,00:27:01.800,Salt Lake City 2002,Biathlon,10km men
+32,RUS,sergey rusinov,00:27:04.300,Salt Lake City 2002,Biathlon,10km men
+33,CZE,roman dostal,00:27:04.900,Salt Lake City 2002,Biathlon,10km men
+34,FRA,julien robert,00:27:05.100,Salt Lake City 2002,Biathlon,10km men
+35,UKR,vyacheslav derkach,00:27:05.300,Salt Lake City 2002,Biathlon,10km men
+36,BLR,aliaksei aydarau,00:27:06.400,Salt Lake City 2002,Biathlon,10km men
+37,UKR,andriy deryzemlya,00:27:11.100,Salt Lake City 2002,Biathlon,10km men
+38,SVK,marek matiasko,00:27:12.600,Salt Lake City 2002,Biathlon,10km men
+39,LAT,ilmars bricis,00:27:17.300,Salt Lake City 2002,Biathlon,10km men
+40,JPN,kyoji suga,00:27:21.000,Salt Lake City 2002,Biathlon,10km men
+41,ROU,marian blaj,00:27:25.500,Salt Lake City 2002,Biathlon,10km men
+42,CAN,robin clegg,00:27:28.300,Salt Lake City 2002,Biathlon,10km men
+43,SLO,janez maric,00:27:28.600,Salt Lake City 2002,Biathlon,10km men
+44,EST,janno prants,00:27:29.200,Salt Lake City 2002,Biathlon,10km men
+45,LAT,olegs maluhins,00:27:30.700,Salt Lake City 2002,Biathlon,10km men
+46,CZE,petr garabik,00:27:30.900,Salt Lake City 2002,Biathlon,10km men
+47,EST,indrek tobreluts,00:27:31.100,Salt Lake City 2002,Biathlon,10km men
+48,ITA,paolo longo,00:27:31.900,Salt Lake City 2002,Biathlon,10km men
+49,ITA,wilfried pallhuber,00:27:35.700,Salt Lake City 2002,Biathlon,10km men
+50,RUS,sergei rozhkov,00:27:39.800,Salt Lake City 2002,Biathlon,10km men
+51,LAT,jekabs nakums,00:27:40.900,Salt Lake City 2002,Biathlon,10km men
+52,UKR,ruslan lysenko,00:27:43.100,Salt Lake City 2002,Biathlon,10km men
+53,USA,lawton redman,00:27:43.400,Salt Lake City 2002,Biathlon,10km men
+54,SUI,roland zwahlen,00:27:43.700,Salt Lake City 2002,Biathlon,10km men
+55,BLR,aleksandr syman,00:27:45.300,Salt Lake City 2002,Biathlon,10km men
+56,CHN,qing zhang,00:27:45.300,Salt Lake City 2002,Biathlon,10km men
+57,POL,wieslaw ziemianin,00:27:47.000,Salt Lake City 2002,Biathlon,10km men
+58,SLO,saso grajf,00:27:52.600,Salt Lake City 2002,Biathlon,10km men
+59,BUL,georgi kasabov,00:27:55.800,Salt Lake City 2002,Biathlon,10km men
+60,POL,krzysztof topor,00:28:02.200,Salt Lake City 2002,Biathlon,10km men
+61,JPN,hidenori isa,00:28:03.600,Salt Lake City 2002,Biathlon,10km men
+62,SWE,henrik forsberg,00:28:04.000,Salt Lake City 2002,Biathlon,10km men
+63,SUI,jean-marc chabloz,00:28:08.600,Salt Lake City 2002,Biathlon,10km men
+64,LAT,gundars upenieks,00:28:11.900,Salt Lake City 2002,Biathlon,10km men
+65,FRA,gilles marguet,00:28:20.100,Salt Lake City 2002,Biathlon,10km men
+66,SUI,matthias simmen,00:28:22.800,Salt Lake City 2002,Biathlon,10km men
+67,ITA,devis da canal,00:28:25.900,Salt Lake City 2002,Biathlon,10km men
+68,JPN,yukio mochizuki,00:28:28.500,Salt Lake City 2002,Biathlon,10km men
+69,EST,roland lessing,00:28:34.400,Salt Lake City 2002,Biathlon,10km men
+70,GBR,jason sklenar,00:28:43.400,Salt Lake City 2002,Biathlon,10km men
+71,GBR,mark gee,00:28:57.800,Salt Lake City 2002,Biathlon,10km men
+72,FIN,olli-pekka peltola,00:28:58.500,Salt Lake City 2002,Biathlon,10km men
+73,GBR,michael dixon,00:28:58.700,Salt Lake City 2002,Biathlon,10km men
+74,HUN,imre tagscherer,00:29:08.600,Salt Lake City 2002,Biathlon,10km men
+75,UKR,roman pryma,00:29:16.100,Salt Lake City 2002,Biathlon,10km men
+76,KGZ,aleksandr tropnikov,00:29:30.200,Salt Lake City 2002,Biathlon,10km men
+77,SWE,tord wiksten,00:29:39.500,Salt Lake City 2002,Biathlon,10km men
+78,KAZ,dmitriy pantov,00:29:46.300,Salt Lake City 2002,Biathlon,10km men
+79,KOR,byung-kook shin,00:29:51.100,Salt Lake City 2002,Biathlon,10km men
+80,ARG,ricardo oscare,00:30:00.200,Salt Lake City 2002,Biathlon,10km men
+81,LTU,liutauras barila,00:30:01.400,Salt Lake City 2002,Biathlon,10km men
+82,MDA,mihail gribusencov,00:30:02.200,Salt Lake City 2002,Biathlon,10km men
+83,CRO,zarko galjanic,00:30:33.000,Salt Lake City 2002,Biathlon,10km men
+84,GRE,stavros cristoforidis,00:31:51.400,Salt Lake City 2002,Biathlon,10km men
+85,CHI,carlos varas,00:32:48.100,Salt Lake City 2002,Biathlon,10km men
+86,AUT,christoph sumann,Did not finish,Salt Lake City 2002,Biathlon,10km men
+0,NOR,ole einar bjørndalen,00:24:51.300,Salt Lake City 2002,Biathlon,10km pursuit women
+1,GER,sven fischer,00:25:20.200,Salt Lake City 2002,Biathlon,10km pursuit women
+2,AUT,wolfgang perner,00:25:44.400,Salt Lake City 2002,Biathlon,10km pursuit women
+3,GER,ricco gross,00:25:44.600,Salt Lake City 2002,Biathlon,10km pursuit women
+4,AUT,wolfgang rottmann,00:25:48.800,Salt Lake City 2002,Biathlon,10km pursuit women
+5,RUS,pavel rostovtsev,00:25:50.100,Salt Lake City 2002,Biathlon,10km pursuit women
+6,RUS,viktor maygurov,00:25:50.900,Salt Lake City 2002,Biathlon,10km pursuit women
+7,NOR,frode andresen,00:25:51.500,Salt Lake City 2002,Biathlon,10km pursuit women
+8,FRA,raphael poiree,00:25:56.900,Salt Lake City 2002,Biathlon,10km pursuit women
+9,AUT,ludwig gredler,00:26:04.300,Salt Lake City 2002,Biathlon,10km pursuit women
+10,BLR,oleg ryzhenkov,00:26:05.500,Salt Lake City 2002,Biathlon,10km pursuit women
+11,BLR,vadim sashurin,00:26:09.900,Salt Lake City 2002,Biathlon,10km pursuit women
+12,NOR,halvard hanevold,00:26:12.500,Salt Lake City 2002,Biathlon,10km pursuit women
+13,CZE,zdenek vitek,00:26:14.000,Salt Lake City 2002,Biathlon,10km pursuit women
+14,GER,michael greis,00:26:18.400,Salt Lake City 2002,Biathlon,10km pursuit women
+15,FIN,paavo puurunen,00:26:24.700,Salt Lake City 2002,Biathlon,10km pursuit women
+16,SWE,bjorn ferry,00:26:30.500,Salt Lake City 2002,Biathlon,10km pursuit women
+17,POL,wojciech kozub,00:26:31.900,Salt Lake City 2002,Biathlon,10km pursuit women
+18,FIN,timo antila,00:26:33.400,Salt Lake City 2002,Biathlon,10km pursuit women
+19,USA,jeremy teela,00:26:36.600,Salt Lake City 2002,Biathlon,10km pursuit women
+20,FRA,vincent defrasne,00:26:36.700,Salt Lake City 2002,Biathlon,10km pursuit women
+21,ITA,rene cattarinussi,00:26:37.300,Salt Lake City 2002,Biathlon,10km pursuit women
+22,SLO,tomaz globocnik,00:26:40.000,Salt Lake City 2002,Biathlon,10km pursuit women
+23,NOR,egil gjelland,00:26:42.500,Salt Lake City 2002,Biathlon,10km pursuit women
+24,FIN,vesa hietalahti,00:26:43.200,Salt Lake City 2002,Biathlon,10km pursuit women
+25,USA,jay hakkinen,00:26:43.500,Salt Lake City 2002,Biathlon,10km pursuit women
+26,SLO,marko dolenc,00:26:47.000,Salt Lake City 2002,Biathlon,10km pursuit women
+27,SWE,carl johan bergman,00:26:47.100,Salt Lake City 2002,Biathlon,10km pursuit women
+28,GER,frank luck,00:26:47.700,Salt Lake City 2002,Biathlon,10km pursuit women
+29,EST,dimitri borovik,00:26:50.100,Salt Lake City 2002,Biathlon,10km pursuit women
+30,POL,tomasz sikora,00:26:59.300,Salt Lake City 2002,Biathlon,10km pursuit women
+31,CZE,tomas holubec,00:27:01.800,Salt Lake City 2002,Biathlon,10km pursuit women
+32,RUS,sergey rusinov,00:27:04.300,Salt Lake City 2002,Biathlon,10km pursuit women
+33,CZE,roman dostal,00:27:04.900,Salt Lake City 2002,Biathlon,10km pursuit women
+34,FRA,julien robert,00:27:05.100,Salt Lake City 2002,Biathlon,10km pursuit women
+35,UKR,vyacheslav derkach,00:27:05.300,Salt Lake City 2002,Biathlon,10km pursuit women
+36,BLR,aliaksei aydarau,00:27:06.400,Salt Lake City 2002,Biathlon,10km pursuit women
+37,UKR,andriy deryzemlya,00:27:11.100,Salt Lake City 2002,Biathlon,10km pursuit women
+38,SVK,marek matiasko,00:27:12.600,Salt Lake City 2002,Biathlon,10km pursuit women
+39,LAT,ilmars bricis,00:27:17.300,Salt Lake City 2002,Biathlon,10km pursuit women
+40,JPN,kyoji suga,00:27:21.000,Salt Lake City 2002,Biathlon,10km pursuit women
+41,ROU,marian blaj,00:27:25.500,Salt Lake City 2002,Biathlon,10km pursuit women
+42,CAN,robin clegg,00:27:28.300,Salt Lake City 2002,Biathlon,10km pursuit women
+43,SLO,janez maric,00:27:28.600,Salt Lake City 2002,Biathlon,10km pursuit women
+44,EST,janno prants,00:27:29.200,Salt Lake City 2002,Biathlon,10km pursuit women
+45,LAT,olegs maluhins,00:27:30.700,Salt Lake City 2002,Biathlon,10km pursuit women
+46,CZE,petr garabik,00:27:30.900,Salt Lake City 2002,Biathlon,10km pursuit women
+47,EST,indrek tobreluts,00:27:31.100,Salt Lake City 2002,Biathlon,10km pursuit women
+48,ITA,paolo longo,00:27:31.900,Salt Lake City 2002,Biathlon,10km pursuit women
+49,ITA,wilfried pallhuber,00:27:35.700,Salt Lake City 2002,Biathlon,10km pursuit women
+50,RUS,sergei rozhkov,00:27:39.800,Salt Lake City 2002,Biathlon,10km pursuit women
+51,LAT,jekabs nakums,00:27:40.900,Salt Lake City 2002,Biathlon,10km pursuit women
+52,UKR,ruslan lysenko,00:27:43.100,Salt Lake City 2002,Biathlon,10km pursuit women
+53,USA,lawton redman,00:27:43.400,Salt Lake City 2002,Biathlon,10km pursuit women
+54,SUI,roland zwahlen,00:27:43.700,Salt Lake City 2002,Biathlon,10km pursuit women
+55,BLR,aleksandr syman,00:27:45.300,Salt Lake City 2002,Biathlon,10km pursuit women
+56,CHN,qing zhang,00:27:45.300,Salt Lake City 2002,Biathlon,10km pursuit women
+57,POL,wieslaw ziemianin,00:27:47.000,Salt Lake City 2002,Biathlon,10km pursuit women
+58,SLO,saso grajf,00:27:52.600,Salt Lake City 2002,Biathlon,10km pursuit women
+59,BUL,georgi kasabov,00:27:55.800,Salt Lake City 2002,Biathlon,10km pursuit women
+60,POL,krzysztof topor,00:28:02.200,Salt Lake City 2002,Biathlon,10km pursuit women
+61,JPN,hidenori isa,00:28:03.600,Salt Lake City 2002,Biathlon,10km pursuit women
+62,SWE,henrik forsberg,00:28:04.000,Salt Lake City 2002,Biathlon,10km pursuit women
+63,SUI,jean-marc chabloz,00:28:08.600,Salt Lake City 2002,Biathlon,10km pursuit women
+64,LAT,gundars upenieks,00:28:11.900,Salt Lake City 2002,Biathlon,10km pursuit women
+65,FRA,gilles marguet,00:28:20.100,Salt Lake City 2002,Biathlon,10km pursuit women
+66,SUI,matthias simmen,00:28:22.800,Salt Lake City 2002,Biathlon,10km pursuit women
+67,ITA,devis da canal,00:28:25.900,Salt Lake City 2002,Biathlon,10km pursuit women
+68,JPN,yukio mochizuki,00:28:28.500,Salt Lake City 2002,Biathlon,10km pursuit women
+69,EST,roland lessing,00:28:34.400,Salt Lake City 2002,Biathlon,10km pursuit women
+70,GBR,jason sklenar,00:28:43.400,Salt Lake City 2002,Biathlon,10km pursuit women
+71,GBR,mark gee,00:28:57.800,Salt Lake City 2002,Biathlon,10km pursuit women
+72,FIN,olli-pekka peltola,00:28:58.500,Salt Lake City 2002,Biathlon,10km pursuit women
+73,GBR,michael dixon,00:28:58.700,Salt Lake City 2002,Biathlon,10km pursuit women
+74,HUN,imre tagscherer,00:29:08.600,Salt Lake City 2002,Biathlon,10km pursuit women
+75,UKR,roman pryma,00:29:16.100,Salt Lake City 2002,Biathlon,10km pursuit women
+76,KGZ,aleksandr tropnikov,00:29:30.200,Salt Lake City 2002,Biathlon,10km pursuit women
+77,SWE,tord wiksten,00:29:39.500,Salt Lake City 2002,Biathlon,10km pursuit women
+78,KAZ,dmitriy pantov,00:29:46.300,Salt Lake City 2002,Biathlon,10km pursuit women
+79,KOR,byung-kook shin,00:29:51.100,Salt Lake City 2002,Biathlon,10km pursuit women
+80,ARG,ricardo oscare,00:30:00.200,Salt Lake City 2002,Biathlon,10km pursuit women
+81,LTU,liutauras barila,00:30:01.400,Salt Lake City 2002,Biathlon,10km pursuit women
+82,MDA,mihail gribusencov,00:30:02.200,Salt Lake City 2002,Biathlon,10km pursuit women
+83,CRO,zarko galjanic,00:30:33.000,Salt Lake City 2002,Biathlon,10km pursuit women
+84,GRE,stavros cristoforidis,00:31:51.400,Salt Lake City 2002,Biathlon,10km pursuit women
+85,CHI,carlos varas,00:32:48.100,Salt Lake City 2002,Biathlon,10km pursuit women
+86,AUT,christoph sumann,Did not finish,Salt Lake City 2002,Biathlon,10km pursuit women
+0,NOR,ole einar bjørndalen,00:32:34.600,Salt Lake City 2002,Biathlon,12.5km pursuit men
+1,FRA,raphael poiree,00:33:17.600,Salt Lake City 2002,Biathlon,12.5km pursuit men
+2,GER,ricco gross,00:33:30.600,Salt Lake City 2002,Biathlon,12.5km pursuit men
+3,AUT,ludwig gredler,00:33:35.500,Salt Lake City 2002,Biathlon,12.5km pursuit men
+4,RUS,pavel rostovtsev,00:33:43.100,Salt Lake City 2002,Biathlon,12.5km pursuit men
+5,AUT,wolfgang rottmann,00:33:45.100,Salt Lake City 2002,Biathlon,12.5km pursuit men
+6,RUS,viktor maygurov,00:33:55.100,Salt Lake City 2002,Biathlon,12.5km pursuit men
+7,NOR,halvard hanevold,00:33:59.600,Salt Lake City 2002,Biathlon,12.5km pursuit men
+8,AUT,wolfgang perner,00:34:00.100,Salt Lake City 2002,Biathlon,12.5km pursuit men
+9,BLR,vadim sashurin,00:34:00.500,Salt Lake City 2002,Biathlon,12.5km pursuit men
+10,GER,frank luck,00:34:01.000,Salt Lake City 2002,Biathlon,12.5km pursuit men
+11,GER,sven fischer,00:34:09.500,Salt Lake City 2002,Biathlon,12.5km pursuit men
+12,USA,jay hakkinen,00:34:11.800,Salt Lake City 2002,Biathlon,12.5km pursuit men
+13,NOR,frode andresen,00:34:14.500,Salt Lake City 2002,Biathlon,12.5km pursuit men
+14,NOR,egil gjelland,00:34:16.900,Salt Lake City 2002,Biathlon,12.5km pursuit men
+15,GER,michael greis,00:34:19.900,Salt Lake City 2002,Biathlon,12.5km pursuit men
+16,CZE,zdenek vitek,00:34:21.000,Salt Lake City 2002,Biathlon,12.5km pursuit men
+17,FRA,vincent defrasne,00:34:33.600,Salt Lake City 2002,Biathlon,12.5km pursuit men
+18,SLO,tomaz globocnik,00:34:42.600,Salt Lake City 2002,Biathlon,12.5km pursuit men
+19,ITA,rene cattarinussi,00:35:00.900,Salt Lake City 2002,Biathlon,12.5km pursuit men
+20,BLR,oleg ryzhenkov,00:35:08.300,Salt Lake City 2002,Biathlon,12.5km pursuit men
+21,FIN,vesa hietalahti,00:35:10.000,Salt Lake City 2002,Biathlon,12.5km pursuit men
+22,USA,jeremy teela,00:35:18.100,Salt Lake City 2002,Biathlon,12.5km pursuit men
+23,SWE,bjorn ferry,00:35:27.500,Salt Lake City 2002,Biathlon,12.5km pursuit men
+24,POL,tomasz sikora,00:35:30.000,Salt Lake City 2002,Biathlon,12.5km pursuit men
+25,EST,dimitri borovik,00:35:33.100,Salt Lake City 2002,Biathlon,12.5km pursuit men
+26,RUS,sergei rozhkov,00:35:37.300,Salt Lake City 2002,Biathlon,12.5km pursuit men
+27,FIN,paavo puurunen,00:36:03.500,Salt Lake City 2002,Biathlon,12.5km pursuit men
+28,SLO,marko dolenc,00:36:06.100,Salt Lake City 2002,Biathlon,12.5km pursuit men
+29,LAT,olegs maluhins,00:36:10.500,Salt Lake City 2002,Biathlon,12.5km pursuit men
+30,RUS,sergey rusinov,00:36:14.500,Salt Lake City 2002,Biathlon,12.5km pursuit men
+31,FIN,timo antila,00:36:16.700,Salt Lake City 2002,Biathlon,12.5km pursuit men
+32,ITA,wilfried pallhuber,00:36:19.700,Salt Lake City 2002,Biathlon,12.5km pursuit men
+33,POL,wojciech kozub,00:36:27.800,Salt Lake City 2002,Biathlon,12.5km pursuit men
+34,JPN,kyoji suga,00:36:28.800,Salt Lake City 2002,Biathlon,12.5km pursuit men
+35,SWE,carl johan bergman,00:36:33.400,Salt Lake City 2002,Biathlon,12.5km pursuit men
+36,ITA,paolo longo,00:36:38.800,Salt Lake City 2002,Biathlon,12.5km pursuit men
+37,SLO,janez maric,00:36:51.400,Salt Lake City 2002,Biathlon,12.5km pursuit men
+38,FRA,julien robert,00:36:55.400,Salt Lake City 2002,Biathlon,12.5km pursuit men
+39,UKR,vyacheslav derkach,00:36:56.800,Salt Lake City 2002,Biathlon,12.5km pursuit men
+40,EST,indrek tobreluts,00:36:57.400,Salt Lake City 2002,Biathlon,12.5km pursuit men
+41,CAN,robin clegg,00:37:04.600,Salt Lake City 2002,Biathlon,12.5km pursuit men
+42,SVK,marek matiasko,00:37:26.000,Salt Lake City 2002,Biathlon,12.5km pursuit men
+43,CZE,roman dostal,00:37:26.800,Salt Lake City 2002,Biathlon,12.5km pursuit men
+44,CZE,tomas holubec,00:37:31.100,Salt Lake City 2002,Biathlon,12.5km pursuit men
+45,SLO,saso grajf,00:37:38.900,Salt Lake City 2002,Biathlon,12.5km pursuit men
+46,SUI,roland zwahlen,00:37:40.600,Salt Lake City 2002,Biathlon,12.5km pursuit men
+47,BLR,aliaksei aydarau,00:37:43.000,Salt Lake City 2002,Biathlon,12.5km pursuit men
+48,BLR,aleksandr syman,00:38:05.800,Salt Lake City 2002,Biathlon,12.5km pursuit men
+49,POL,wieslaw ziemianin,00:38:45.700,Salt Lake City 2002,Biathlon,12.5km pursuit men
+50,LAT,ilmars bricis,00:38:49.900,Salt Lake City 2002,Biathlon,12.5km pursuit men
+51,USA,lawton redman,00:38:59.000,Salt Lake City 2002,Biathlon,12.5km pursuit men
+52,CHN,qing zhang,00:39:11.100,Salt Lake City 2002,Biathlon,12.5km pursuit men
+53,LAT,jekabs nakums,00:39:19.300,Salt Lake City 2002,Biathlon,12.5km pursuit men
+54,ROU,marian blaj,00:39:31.200,Salt Lake City 2002,Biathlon,12.5km pursuit men
+55,BUL,georgi kasabov,00:40:38.500,Salt Lake City 2002,Biathlon,12.5km pursuit men
+56,EST,janno prants,Did not finish,Salt Lake City 2002,Biathlon,12.5km pursuit men
+57,UKR,andriy deryzemlya,Did not start,Salt Lake City 2002,Biathlon,12.5km pursuit men
+58,CZE,petr garabik,Did not start,Salt Lake City 2002,Biathlon,12.5km pursuit men
+59,UKR,ruslan lysenko,Did not start,Salt Lake City 2002,Biathlon,12.5km pursuit men
+0,GER,andrea henkel,00:47:29.100,Salt Lake City 2002,Biathlon,15km women
+1,NOR,liv grete poiree,00:47:37.000,Salt Lake City 2002,Biathlon,15km women
+2,SWE,magdalena forsberg,00:48:08.300,Salt Lake City 2002,Biathlon,15km women
+3,RUS,olga pyleva,00:48:14.000,Salt Lake City 2002,Biathlon,15km women
+4,BUL,ekaterina dafovska,00:48:15.500,Salt Lake City 2002,Biathlon,15km women
+5,BLR,olga nazarova,00:48:29.900,Salt Lake City 2002,Biathlon,15km women
+6,GER,martina glagow,00:48:34.200,Salt Lake City 2002,Biathlon,15km women
+7,RUS,svetlana ishmouratova,00:48:45.000,Salt Lake City 2002,Biathlon,15km women
+8,SVK,martina halinarova,00:48:47.500,Salt Lake City 2002,Biathlon,15km women
+9,RUS,albina akhatova,00:49:06.100,Salt Lake City 2002,Biathlon,15km women
+10,FRA,florence baverel-robert,00:49:10.200,Salt Lake City 2002,Biathlon,15km women
+11,GER,uschi disl,00:49:43.400,Salt Lake City 2002,Biathlon,15km women
+12,FIN,katja holanti,00:49:52.300,Salt Lake City 2002,Biathlon,15km women
+13,SVK,sona mihokova,00:50:00.700,Salt Lake City 2002,Biathlon,15km women
+14,CHN,ribo sun,00:50:04.700,Salt Lake City 2002,Biathlon,15km women
+15,FRA,sylvie becaert,00:50:09.000,Salt Lake City 2002,Biathlon,15km women
+16,CHN,xianying liu,00:50:09.400,Salt Lake City 2002,Biathlon,15km women
+17,GER,katrin apel,00:50:16.700,Salt Lake City 2002,Biathlon,15km women
+18,CZE,katerina holubcova,00:50:42.000,Salt Lake City 2002,Biathlon,15km women
+19,BUL,pavlina filipova,00:50:47.500,Salt Lake City 2002,Biathlon,15km women
+20,FRA,corinne niogret,00:50:49.600,Salt Lake City 2002,Biathlon,15km women
+21,NOR,ann elen skjelbreid,00:50:51.100,Salt Lake City 2002,Biathlon,15km women
+22,CZE,zdenka vejnarova,00:50:54.700,Salt Lake City 2002,Biathlon,15km women
+23,UKR,olena petrova,00:51:05.700,Salt Lake City 2002,Biathlon,15km women
+24,SLO,lucija larisi,00:51:12.100,Salt Lake City 2002,Biathlon,15km women
+25,FRA,delphyne burlet,00:51:19.200,Salt Lake City 2002,Biathlon,15km women
+26,UKR,oksana yakovleva,00:51:22.200,Salt Lake City 2002,Biathlon,15km women
+27,CZE,irena cesnekova,00:51:28.000,Salt Lake City 2002,Biathlon,15km women
+28,UKR,oksana khvostenko,00:51:34.400,Salt Lake City 2002,Biathlon,15km women
+29,NOR,gunn margit andreassen,00:51:42.900,Salt Lake City 2002,Biathlon,15km women
+30,USA,rachel steer,00:51:50.600,Salt Lake City 2002,Biathlon,15km women
+31,BUL,iva karagiozova,00:51:59.300,Salt Lake City 2002,Biathlon,15km women
+32,SVK,marcela pavkovcekova,00:52:03.700,Salt Lake City 2002,Biathlon,15km women
+33,UKR,alena ohurtsana-zubrilava,00:52:10.700,Salt Lake City 2002,Biathlon,15km women
+34,CZE,eva hakova,00:52:11.000,Salt Lake City 2002,Biathlon,15km women
+35,ITA,michela ponza,00:52:13.600,Salt Lake City 2002,Biathlon,15km women
+36,RUS,olga zaytseva,00:52:26.200,Salt Lake City 2002,Biathlon,15km women
+37,BLR,kseniya zikunkova,00:52:26.800,Salt Lake City 2002,Biathlon,15km women
+38,NOR,linda tjoerhom,00:52:34.000,Salt Lake City 2002,Biathlon,15km women
+39,FIN,sanna-leena perunka,00:52:48.800,Salt Lake City 2002,Biathlon,15km women
+40,SLO,tadeja brankovic,00:53:08.900,Salt Lake City 2002,Biathlon,15km women
+41,JPN,hiromi suga,00:53:10.600,Salt Lake City 2002,Biathlon,15km women
+42,BUL,irina nikoultchina,00:53:16.700,Salt Lake City 2002,Biathlon,15km women
+43,CHN,yingchao kong,00:53:38.000,Salt Lake City 2002,Biathlon,15km women
+44,JPN,tamami tanaka,00:53:40.400,Salt Lake City 2002,Biathlon,15km women
+45,CHN,shumei yu,00:53:43.000,Salt Lake City 2002,Biathlon,15km women
+46,ITA,katja haller,00:53:44.000,Salt Lake City 2002,Biathlon,15km women
+47,FIN,outi kettunen,00:53:48.100,Salt Lake City 2002,Biathlon,15km women
+48,ITA,saskia santer,00:54:14.700,Salt Lake City 2002,Biathlon,15km women
+49,JPN,ryoko takahashi,00:54:18.000,Salt Lake City 2002,Biathlon,15km women
+50,BLR,lyudmila lysenko,00:54:25.400,Salt Lake City 2002,Biathlon,15km women
+51,ROU,eva tofalvi,00:54:36.700,Salt Lake City 2002,Biathlon,15km women
+52,SVK,anna murinova,00:54:39.200,Salt Lake City 2002,Biathlon,15km women
+53,POL,anna stera-kustusz,00:54:47.100,Salt Lake City 2002,Biathlon,15km women
+54,USA,kristina sabasteanski,00:55:00.900,Salt Lake City 2002,Biathlon,15km women
+55,SLO,andreja grasic,00:55:06.400,Salt Lake City 2002,Biathlon,15km women
+56,SLO,dijana grudicek-ravnikar,00:55:50.300,Salt Lake City 2002,Biathlon,15km women
+57,HUN,ivett szollosi,00:56:34.800,Salt Lake City 2002,Biathlon,15km women
+58,USA,kara salmela,00:57:25.900,Salt Lake City 2002,Biathlon,15km women
+59,KAZ,elena dubok,00:57:32.500,Salt Lake City 2002,Biathlon,15km women
+60,ROU,dana cojocea,00:57:37.000,Salt Lake City 2002,Biathlon,15km women
+61,MDA,valentina ciurina,00:58:40.800,Salt Lake City 2002,Biathlon,15km women
+62,LAT,anzela brice,00:59:20.900,Salt Lake City 2002,Biathlon,15km women
+63,JPN,mami shindo,00:59:38.600,Salt Lake City 2002,Biathlon,15km women
+64,HUN,zsuzsanna bekecs,01:00:40.700,Salt Lake City 2002,Biathlon,15km women
+65,KOR,ja-youn kim,01:01:13.800,Salt Lake City 2002,Biathlon,15km women
+66,CHI,claudia barrenechea,01:02:30.000,Salt Lake City 2002,Biathlon,15km women
+67,GRE,despina vavatsi,01:04:39.400,Salt Lake City 2002,Biathlon,15km women
+68,ARG,natalia lovece,01:09:56.800,Salt Lake City 2002,Biathlon,15km women
+69,ITA,nathalie santer,Did not finish,Salt Lake City 2002,Biathlon,15km women
+70,BLR,lyudmila ananko,Did not finish,Salt Lake City 2002,Biathlon,15km women
+0,NOR,ole einar bjørndalen,00:51:03.300,Salt Lake City 2002,Biathlon,20km men
+1,GER,frank luck,00:51:39.400,Salt Lake City 2002,Biathlon,20km men
+2,RUS,viktor maygurov,00:51:40.600,Salt Lake City 2002,Biathlon,20km men
+3,GER,ricco gross,00:51:58.700,Salt Lake City 2002,Biathlon,20km men
+4,NOR,halvard hanevold,00:52:16.300,Salt Lake City 2002,Biathlon,20km men
+5,RUS,pavel rostovtsev,00:52:33.500,Salt Lake City 2002,Biathlon,20km men
+6,NOR,frode andresen,00:52:39.100,Salt Lake City 2002,Biathlon,20km men
+7,RUS,sergey chepikov,00:52:44.200,Salt Lake City 2002,Biathlon,20km men
+8,BLR,vadim sashurin,00:52:52.600,Salt Lake City 2002,Biathlon,20km men
+9,FRA,raphael poiree,00:52:52.900,Salt Lake City 2002,Biathlon,20km men
+10,AUT,ludwig gredler,00:53:19.300,Salt Lake City 2002,Biathlon,20km men
+11,RUS,sergei rozhkov,00:53:43.800,Salt Lake City 2002,Biathlon,20km men
+12,SLO,marko dolenc,00:53:45.800,Salt Lake City 2002,Biathlon,20km men
+13,USA,jeremy teela,00:53:56.500,Salt Lake City 2002,Biathlon,20km men
+14,FIN,paavo puurunen,00:54:15.700,Salt Lake City 2002,Biathlon,20km men
+15,NOR,egil gjelland,00:54:16.100,Salt Lake City 2002,Biathlon,20km men
+16,BLR,aliaksei aydarau,00:54:25.300,Salt Lake City 2002,Biathlon,20km men
+17,SLO,tomaz globocnik,00:54:40.600,Salt Lake City 2002,Biathlon,20km men
+18,FIN,vesa hietalahti,00:54:47.000,Salt Lake City 2002,Biathlon,20km men
+19,JPN,kyoji suga,00:54:51.900,Salt Lake City 2002,Biathlon,20km men
+20,ITA,rene cattarinussi,00:54:57.200,Salt Lake City 2002,Biathlon,20km men
+21,AUT,christoph sumann,00:55:00.300,Salt Lake City 2002,Biathlon,20km men
+22,UKR,vyacheslav derkach,00:55:01.300,Salt Lake City 2002,Biathlon,20km men
+23,UKR,ruslan lysenko,00:55:02.100,Salt Lake City 2002,Biathlon,20km men
+24,CZE,petr garabik,00:55:12.200,Salt Lake City 2002,Biathlon,20km men
+25,USA,jay hakkinen,00:55:13.800,Salt Lake City 2002,Biathlon,20km men
+26,UKR,andriy deryzemlya,00:55:14.800,Salt Lake City 2002,Biathlon,20km men
+27,CAN,robin clegg,00:55:17.500,Salt Lake City 2002,Biathlon,20km men
+28,GER,sven fischer,00:55:23.200,Salt Lake City 2002,Biathlon,20km men
+29,POL,wieslaw ziemianin,00:55:35.200,Salt Lake City 2002,Biathlon,20km men
+30,BLR,oleg ryzhenkov,00:55:56.600,Salt Lake City 2002,Biathlon,20km men
+31,AUT,wolfgang perner,00:56:00.400,Salt Lake City 2002,Biathlon,20km men
+32,ITA,paolo longo,00:56:11.900,Salt Lake City 2002,Biathlon,20km men
+33,GER,alexander wolf,00:56:16.600,Salt Lake City 2002,Biathlon,20km men
+34,CZE,roman dostal,00:56:19.600,Salt Lake City 2002,Biathlon,20km men
+35,LAT,jekabs nakums,00:56:19.600,Salt Lake City 2002,Biathlon,20km men
+36,FRA,vincent defrasne,00:56:20.300,Salt Lake City 2002,Biathlon,20km men
+37,SWE,bjorn ferry,00:56:20.700,Salt Lake City 2002,Biathlon,20km men
+38,LAT,ilmars bricis,00:56:24.400,Salt Lake City 2002,Biathlon,20km men
+39,SWE,carl johan bergman,00:56:24.500,Salt Lake City 2002,Biathlon,20km men
+40,FIN,timo antila,00:56:33.500,Salt Lake City 2002,Biathlon,20km men
+41,CZE,ivan masarik,00:56:40.600,Salt Lake City 2002,Biathlon,20km men
+42,SLO,janez maric,00:56:51.900,Salt Lake City 2002,Biathlon,20km men
+43,JPN,hidenori isa,00:56:52.800,Salt Lake City 2002,Biathlon,20km men
+44,EST,roland lessing,00:57:08.400,Salt Lake City 2002,Biathlon,20km men
+45,POL,tomasz sikora,00:57:08.500,Salt Lake City 2002,Biathlon,20km men
+46,SWE,henrik forsberg,00:57:22.000,Salt Lake City 2002,Biathlon,20km men
+47,GBR,jason sklenar,00:57:27.200,Salt Lake City 2002,Biathlon,20km men
+48,KAZ,dmitriy pantov,00:57:32.800,Salt Lake City 2002,Biathlon,20km men
+49,ITA,wilfried pallhuber,00:57:33.200,Salt Lake City 2002,Biathlon,20km men
+50,ROU,marian blaj,00:57:36.800,Salt Lake City 2002,Biathlon,20km men
+51,SVK,marek matiasko,00:57:37.800,Salt Lake City 2002,Biathlon,20km men
+52,EST,indrek tobreluts,00:57:52.100,Salt Lake City 2002,Biathlon,20km men
+53,FRA,julien robert,00:57:54.000,Salt Lake City 2002,Biathlon,20km men
+54,SWE,tord wiksten,00:58:02.300,Salt Lake City 2002,Biathlon,20km men
+55,EST,dimitri borovik,00:58:02.500,Salt Lake City 2002,Biathlon,20km men
+56,CZE,zdenek vitek,00:58:07.900,Salt Lake City 2002,Biathlon,20km men
+57,SUI,roland zwahlen,00:58:10.600,Salt Lake City 2002,Biathlon,20km men
+58,CHN,qing zhang,00:58:13.900,Salt Lake City 2002,Biathlon,20km men
+59,BLR,rustam valiullin,00:58:46.700,Salt Lake City 2002,Biathlon,20km men
+60,SUI,jean-marc chabloz,00:58:59.400,Salt Lake City 2002,Biathlon,20km men
+61,LTU,liutauras barila,00:59:02.300,Salt Lake City 2002,Biathlon,20km men
+62,EST,janno prants,00:59:14.000,Salt Lake City 2002,Biathlon,20km men
+63,AUT,daniel mesotitsch,00:59:15.900,Salt Lake City 2002,Biathlon,20km men
+64,BUL,georgi kasabov,00:59:16.100,Salt Lake City 2002,Biathlon,20km men
+65,JPN,hironao meguro,00:59:29.200,Salt Lake City 2002,Biathlon,20km men
+66,FIN,ville räikkönen,00:59:34.200,Salt Lake City 2002,Biathlon,20km men
+67,UKR,oleksander bilanenko,00:59:34.400,Salt Lake City 2002,Biathlon,20km men
+68,POL,wojciech kozub,00:59:35.100,Salt Lake City 2002,Biathlon,20km men
+69,HUN,imre tagscherer,00:59:51.800,Salt Lake City 2002,Biathlon,20km men
+70,LAT,gundars upenieks,00:59:56.000,Salt Lake City 2002,Biathlon,20km men
+71,ITA,rene laurent vuillermoz,01:00:00.700,Salt Lake City 2002,Biathlon,20km men
+72,KGZ,aleksandr tropnikov,01:00:05.300,Salt Lake City 2002,Biathlon,20km men
+73,POL,krzysztof topor,01:00:36.800,Salt Lake City 2002,Biathlon,20km men
+74,KOR,byung-kook shin,01:00:58.100,Salt Lake City 2002,Biathlon,20km men
+75,USA,dan campbell,01:00:58.600,Salt Lake City 2002,Biathlon,20km men
+76,FRA,ferreol cannard,01:01:32.900,Salt Lake City 2002,Biathlon,20km men
+77,SUI,matthias simmen,01:02:03.000,Salt Lake City 2002,Biathlon,20km men
+78,GBR,michael dixon,01:02:04.900,Salt Lake City 2002,Biathlon,20km men
+79,ARG,ricardo oscare,01:02:08.100,Salt Lake City 2002,Biathlon,20km men
+80,GBR,mark gee,01:02:10.200,Salt Lake City 2002,Biathlon,20km men
+81,SLO,janez ozbolt,01:03:16.200,Salt Lake City 2002,Biathlon,20km men
+82,CRO,zarko galjanic,01:04:54.400,Salt Lake City 2002,Biathlon,20km men
+83,MDA,mihail gribusencov,01:05:58.500,Salt Lake City 2002,Biathlon,20km men
+84,GRE,stavros cristoforidis,01:08:09.500,Salt Lake City 2002,Biathlon,20km men
+85,CHI,carlos varas,01:10:32.200,Salt Lake City 2002,Biathlon,20km men
+86,LAT,olegs maluhins,Did not finish,Salt Lake City 2002,Biathlon,20km men
+0,,,01:23:42.300,Salt Lake City 2002,Biathlon,4x7.5km relay men
+1,,,01:24:27.600,Salt Lake City 2002,Biathlon,4x7.5km relay men
+2,,,01:24:36.600,Salt Lake City 2002,Biathlon,4x7.5km relay men
+3,,,01:24:54.400,Salt Lake City 2002,Biathlon,4x7.5km relay men
+4,,,01:26:36.100,Salt Lake City 2002,Biathlon,4x7.5km relay men
+5,,,01:26:58.900,Salt Lake City 2002,Biathlon,4x7.5km relay men
+6,,,01:27:02.200,Salt Lake City 2002,Biathlon,4x7.5km relay men
+7,,,01:27:12.000,Salt Lake City 2002,Biathlon,4x7.5km relay men
+8,,,01:27:35.400,Salt Lake City 2002,Biathlon,4x7.5km relay men
+9,,,01:28:23.600,Salt Lake City 2002,Biathlon,4x7.5km relay men
+10,,,01:28:38.200,Salt Lake City 2002,Biathlon,4x7.5km relay men
+11,,,01:28:52.700,Salt Lake City 2002,Biathlon,4x7.5km relay men
+12,,,01:29:04.400,Salt Lake City 2002,Biathlon,4x7.5km relay men
+13,,,01:29:52.800,Salt Lake City 2002,Biathlon,4x7.5km relay men
+14,,,01:30:27.100,Salt Lake City 2002,Biathlon,4x7.5km relay men
+15,,,01:30:56.300,Salt Lake City 2002,Biathlon,4x7.5km relay men
+16,,,01:32:00.800,Salt Lake City 2002,Biathlon,4x7.5km relay men
+17,,,01:32:50.500,Salt Lake City 2002,Biathlon,4x7.5km relay men
+18,,,01:36:06.000,Salt Lake City 2002,Biathlon,4x7.5km relay men
+0,,,01:27:55.000,Salt Lake City 2002,Biathlon,4x7.5km relay women
+1,,,01:28:25.600,Salt Lake City 2002,Biathlon,4x7.5km relay women
+2,,,01:29:19.700,Salt Lake City 2002,Biathlon,4x7.5km relay women
+3,,,01:29:25.800,Salt Lake City 2002,Biathlon,4x7.5km relay women
+4,,,01:30:11.500,Salt Lake City 2002,Biathlon,4x7.5km relay women
+5,,,01:30:18.000,Salt Lake City 2002,Biathlon,4x7.5km relay women
+6,,,01:31:01.600,Salt Lake City 2002,Biathlon,4x7.5km relay women
+7,,,01:31:07.600,Salt Lake City 2002,Biathlon,4x7.5km relay women
+8,,,01:31:09.300,Salt Lake City 2002,Biathlon,4x7.5km relay women
+9,,,01:32:00.600,Salt Lake City 2002,Biathlon,4x7.5km relay women
+10,,,01:34:03.700,Salt Lake City 2002,Biathlon,4x7.5km relay women
+11,,,01:34:18.700,Salt Lake City 2002,Biathlon,4x7.5km relay women
+12,,,01:34:45.600,Salt Lake City 2002,Biathlon,4x7.5km relay women
+13,,,01:35:09.800,Salt Lake City 2002,Biathlon,4x7.5km relay women
+14,,,01:41:16.000,Salt Lake City 2002,Biathlon,4x7.5km relay women
+0,GER,kati wilhelm,00:20:41.400,Salt Lake City 2002,Biathlon,7.5km women
+1,GER,uschi disl,00:20:57.000,Salt Lake City 2002,Biathlon,7.5km women
+2,SWE,magdalena forsberg,00:21:20.400,Salt Lake City 2002,Biathlon,7.5km women
+3,NOR,liv grete poiree,00:21:24.100,Salt Lake City 2002,Biathlon,7.5km women
+4,FRA,florence baverel-robert,00:21:27.900,Salt Lake City 2002,Biathlon,7.5km women
+5,RUS,galina kukleva,00:21:32.100,Salt Lake City 2002,Biathlon,7.5km women
+6,FRA,sandrine bailly,00:21:35.700,Salt Lake City 2002,Biathlon,7.5km women
+7,RUS,olga pyleva,00:21:44.200,Salt Lake City 2002,Biathlon,7.5km women
+8,FRA,corinne niogret,00:21:50.300,Salt Lake City 2002,Biathlon,7.5km women
+9,SLO,andreja grasic,00:21:55.600,Salt Lake City 2002,Biathlon,7.5km women
+10,BUL,irina nikoultchina,00:21:57.000,Salt Lake City 2002,Biathlon,7.5km women
+11,GER,katrin apel,00:22:01.700,Salt Lake City 2002,Biathlon,7.5km women
+12,SVK,martina halinarova,00:22:11.900,Salt Lake City 2002,Biathlon,7.5km women
+13,BLR,olga nazarova,00:22:14.900,Salt Lake City 2002,Biathlon,7.5km women
+14,BUL,ekaterina dafovska,00:22:17.700,Salt Lake City 2002,Biathlon,7.5km women
+15,NOR,gunn margit andreassen,00:22:19.700,Salt Lake City 2002,Biathlon,7.5km women
+16,BUL,pavlina filipova,00:22:20.600,Salt Lake City 2002,Biathlon,7.5km women
+17,RUS,anna bogali,00:22:25.800,Salt Lake City 2002,Biathlon,7.5km women
+18,RUS,svetlana ishmouratova,00:22:27.300,Salt Lake City 2002,Biathlon,7.5km women
+19,CHN,shumei yu,00:22:29.900,Salt Lake City 2002,Biathlon,7.5km women
+20,SVK,sona mihokova,00:22:32.100,Salt Lake City 2002,Biathlon,7.5km women
+21,CZE,irena cesnekova,00:22:33.500,Salt Lake City 2002,Biathlon,7.5km women
+22,FRA,delphyne burlet,00:22:37.700,Salt Lake City 2002,Biathlon,7.5km women
+23,FIN,sanna-leena perunka,00:22:39.900,Salt Lake City 2002,Biathlon,7.5km women
+24,GER,andrea henkel,00:22:41.100,Salt Lake City 2002,Biathlon,7.5km women
+25,SLO,lucija larisi,00:22:44.700,Salt Lake City 2002,Biathlon,7.5km women
+26,SLO,andreja mali,00:22:45.500,Salt Lake City 2002,Biathlon,7.5km women
+27,JPN,ryoko takahashi,00:22:58.300,Salt Lake City 2002,Biathlon,7.5km women
+28,JPN,tamami tanaka,00:23:00.000,Salt Lake City 2002,Biathlon,7.5km women
+29,JPN,hiromi suga,00:23:03.500,Salt Lake City 2002,Biathlon,7.5km women
+30,UKR,tetiana vodop'ianova,00:23:03.800,Salt Lake City 2002,Biathlon,7.5km women
+31,CZE,magda rezlerova,00:23:05.000,Salt Lake City 2002,Biathlon,7.5km women
+32,BLR,yelena khrustalyova,00:23:06.600,Salt Lake City 2002,Biathlon,7.5km women
+33,CZE,eva hakova,00:23:09.400,Salt Lake City 2002,Biathlon,7.5km women
+34,SVK,anna murinova,00:23:10.000,Salt Lake City 2002,Biathlon,7.5km women
+35,ITA,saskia santer,00:23:11.200,Salt Lake City 2002,Biathlon,7.5km women
+36,FIN,outi kettunen,00:23:11.300,Salt Lake City 2002,Biathlon,7.5km women
+37,NOR,ann elen skjelbreid,00:23:14.200,Salt Lake City 2002,Biathlon,7.5km women
+38,CZE,katerina holubcova,00:23:14.600,Salt Lake City 2002,Biathlon,7.5km women
+39,ITA,nathalie santer,00:23:14.700,Salt Lake City 2002,Biathlon,7.5km women
+40,BUL,iva karagiozova,00:23:18.000,Salt Lake City 2002,Biathlon,7.5km women
+41,CHN,xianying liu,00:23:18.900,Salt Lake City 2002,Biathlon,7.5km women
+42,POL,anna stera-kustusz,00:23:24.600,Salt Lake City 2002,Biathlon,7.5km women
+43,BLR,evgenia kutsepalova,00:23:26.500,Salt Lake City 2002,Biathlon,7.5km women
+44,JPN,mami shindo,00:23:36.800,Salt Lake City 2002,Biathlon,7.5km women
+45,ITA,michela ponza,00:23:36.900,Salt Lake City 2002,Biathlon,7.5km women
+46,UKR,nina lemesh,00:23:37.400,Salt Lake City 2002,Biathlon,7.5km women
+47,UKR,olena petrova,00:23:40.900,Salt Lake City 2002,Biathlon,7.5km women
+48,USA,kara salmela,00:23:44.100,Salt Lake City 2002,Biathlon,7.5km women
+49,USA,andrea nahrgang,00:23:48.700,Salt Lake City 2002,Biathlon,7.5km women
+50,MDA,valentina ciurina,00:23:49.700,Salt Lake City 2002,Biathlon,7.5km women
+51,FIN,katja holanti,00:24:07.200,Salt Lake City 2002,Biathlon,7.5km women
+52,NOR,gro kristiansen,00:24:12.700,Salt Lake City 2002,Biathlon,7.5km women
+53,FIN,anita nyman,00:24:17.000,Salt Lake City 2002,Biathlon,7.5km women
+54,ROU,dana cojocea,00:24:17.300,Salt Lake City 2002,Biathlon,7.5km women
+55,CHN,yingchao kong,00:24:30.200,Salt Lake City 2002,Biathlon,7.5km women
+56,CHN,ribo sun,00:24:32.400,Salt Lake City 2002,Biathlon,7.5km women
+57,LAT,anzela brice,00:24:32.500,Salt Lake City 2002,Biathlon,7.5km women
+58,UKR,alena ohurtsana-zubrilava,00:24:33.200,Salt Lake City 2002,Biathlon,7.5km women
+59,USA,rachel steer,00:24:41.700,Salt Lake City 2002,Biathlon,7.5km women
+60,ROU,eva tofalvi,00:24:43.700,Salt Lake City 2002,Biathlon,7.5km women
+61,KAZ,elena dubok,00:24:50.100,Salt Lake City 2002,Biathlon,7.5km women
+62,SLO,tadeja brankovic,00:25:14.000,Salt Lake City 2002,Biathlon,7.5km women
+63,SVK,tatiana kutlikova,00:25:18.300,Salt Lake City 2002,Biathlon,7.5km women
+64,BLR,kseniya zikunkova,00:25:21.500,Salt Lake City 2002,Biathlon,7.5km women
+65,LTU,diana rasimoviciute,00:25:41.400,Salt Lake City 2002,Biathlon,7.5km women
+66,HUN,zsuzsanna bekecs,00:25:42.100,Salt Lake City 2002,Biathlon,7.5km women
+67,ITA,siegrid pallhuber,00:26:20.900,Salt Lake City 2002,Biathlon,7.5km women
+68,KOR,ja-youn kim,00:26:45.200,Salt Lake City 2002,Biathlon,7.5km women
+69,GRE,despina vavatsi,00:27:11.300,Salt Lake City 2002,Biathlon,7.5km women
+70,HUN,ivett szollosi,00:27:17.600,Salt Lake City 2002,Biathlon,7.5km women
+71,ROU,alexandra rusu,00:27:20.000,Salt Lake City 2002,Biathlon,7.5km women
+72,ARG,natalia lovece,00:29:33.200,Salt Lake City 2002,Biathlon,7.5km women
+73,CHI,claudia barrenechea,00:30:15.100,Salt Lake City 2002,Biathlon,7.5km women

@@ -1,0 +1,82 @@
+,country,participant,result,olympic_game,discipline,event
+0,GBR,jayne torvill,2.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+1,URS,natalya bestemyanova,4.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+2,URS,sergey ponomarenko,7.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+3,USA,michael seibert,7.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+4,USA,carol fox,10.6,Sarajevo 1984,Figure skating,Ice dancing mixed
+5,GBR,karen barber,11.4,Sarajevo 1984,Figure skating,Ice dancing mixed
+6,URS,aleksandr svinine,14.6,Sarajevo 1984,Figure skating,Ice dancing mixed
+7,CAN,robert mccall,15.4,Sarajevo 1984,Figure skating,Ice dancing mixed
+8,FRG,petra born,18.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+9,USA,elisa spitz,20.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+10,GBR,stephen gordon williams,22.6,Sarajevo 1984,Figure skating,Ice dancing mixed
+11,CAN,kelly johnson,23.8,Sarajevo 1984,Figure skating,Ice dancing mixed
+12,TCH,jindra hola,26.2,Sarajevo 1984,Figure skating,Ice dancing mixed
+13,FRA,pierre bechu,28.4,Sarajevo 1984,Figure skating,Ice dancing mixed
+14,ITA,roberto pelizzola,29.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+15,HUN,klara engi,33.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+16,JPN,tadayuki takahashi,33.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+17,BUL,yavor ivanov,36.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+18,CHN,xiao-lei zhao,38.0,Sarajevo 1984,Figure skating,Ice dancing mixed
+0,USA,scott hamilton,3.4,Sarajevo 1984,Figure skating,Individual men
+1,CAN,brian orser,5.6,Sarajevo 1984,Figure skating,Individual men
+2,TCH,josef sabovcik,7.4,Sarajevo 1984,Figure skating,Individual men
+3,FRG,rudi cerne,8.2,Sarajevo 1984,Figure skating,Individual men
+4,USA,brian boitano,11.0,Sarajevo 1984,Figure skating,Individual men
+5,FRA,jean-christophe simond,11.8,Sarajevo 1984,Figure skating,Individual men
+6,URS,aleksandr fadeev,13.2,Sarajevo 1984,Figure skating,Individual men
+7,URS,vladimir kotine,16.2,Sarajevo 1984,Figure skating,Individual men
+8,FRG,norbert schramm,16.2,Sarajevo 1984,Figure skating,Individual men
+9,FRG,heiko fischer,19.6,Sarajevo 1984,Figure skating,Individual men
+10,CAN,gary beacom,21.4,Sarajevo 1984,Figure skating,Individual men
+11,POL,grzegorz filipowski,27.0,Sarajevo 1984,Figure skating,Individual men
+12,USA,mark cockerell,27.6,Sarajevo 1984,Figure skating,Individual men
+13,JPN,masaru ogawa,29.2,Sarajevo 1984,Figure skating,Individual men
+14,FRA,laurent depouilly,29.6,Sarajevo 1984,Figure skating,Individual men
+15,GDR,falko kirsten,30.4,Sarajevo 1984,Figure skating,Individual men
+16,SWE,lars akesson,31.8,Sarajevo 1984,Figure skating,Individual men
+17,CHN,zhao-xiao xu,37.4,Sarajevo 1984,Figure skating,Individual men
+18,AUS,cameron bradley medhurst,37.8,Sarajevo 1984,Figure skating,Individual men
+19,CAN,jamie eggleton,38.6,Sarajevo 1984,Figure skating,Individual men
+20,YUG,miljan begovic,40.0,Sarajevo 1984,Figure skating,Individual men
+21,GBR,paul robinson,42.6,Sarajevo 1984,Figure skating,Individual men
+22,KOR,jae-hyung cho,46.0,Sarajevo 1984,Figure skating,Individual men
+0,GDR,katarina witt,3.2,Sarajevo 1984,Figure skating,Individual women
+1,USA,rosalyn sumners,4.6,Sarajevo 1984,Figure skating,Individual women
+2,URS,kira ivanova,9.2,Sarajevo 1984,Figure skating,Individual women
+3,USA,tiffany chin,11.0,Sarajevo 1984,Figure skating,Individual women
+4,URS,anna kondracheva,11.8,Sarajevo 1984,Figure skating,Individual women
+5,USA,elaine k. zayak,14.2,Sarajevo 1984,Figure skating,Individual women
+6,FRG,manuela ruben,15.0,Sarajevo 1984,Figure skating,Individual women
+7,URS,elena vodorezova,15.4,Sarajevo 1984,Figure skating,Individual women
+8,FRG,claudia leistner,17.4,Sarajevo 1984,Figure skating,Individual women
+9,YUG,sanda dubravcic,17.4,Sarajevo 1984,Figure skating,Individual women
+10,SUI,sandra cariboni,20.0,Sarajevo 1984,Figure skating,Individual women
+11,CAN,kay thomson,20.8,Sarajevo 1984,Figure skating,Individual women
+12,CAN,elizabeth manley,25.4,Sarajevo 1984,Figure skating,Individual women
+13,SUI,myriam oberwiler,28.2,Sarajevo 1984,Figure skating,Individual women
+14,ITA,karin telser,28.6,Sarajevo 1984,Figure skating,Individual women
+15,BEL,katrien pauwels,32.8,Sarajevo 1984,Figure skating,Individual women
+16,GBR,susan ann jackson,33.2,Sarajevo 1984,Figure skating,Individual women
+17,FRA,agnès gosselin,35.4,Sarajevo 1984,Figure skating,Individual women
+18,JPN,masako kato,38.8,Sarajevo 1984,Figure skating,Individual women
+19,SWE,catharina lindgren,39.0,Sarajevo 1984,Figure skating,Individual women
+20,AUS,vicky maree holland,41.0,Sarajevo 1984,Figure skating,Individual women
+21,CHN,zhenghua bao,44.2,Sarajevo 1984,Figure skating,Individual women
+22,KOR,hae-sung kim,45.4,Sarajevo 1984,Figure skating,Individual women
+23,ESP,marta cierco,Did not start,Sarajevo 1984,Figure skating,Individual women
+0,URS,yelena valova,1.4,Sarajevo 1984,Figure skating,Pairs mixed
+1,USA,peter carruthers,2.8,Sarajevo 1984,Figure skating,Pairs mixed
+2,URS,larisa seleznyova,3.8,Sarajevo 1984,Figure skating,Pairs mixed
+3,GDR,sabine baess,5.6,Sarajevo 1984,Figure skating,Pairs mixed
+4,GDR,knut schubert,7.0,Sarajevo 1984,Figure skating,Pairs mixed
+5,USA,burt lancon,9.2,Sarajevo 1984,Figure skating,Pairs mixed
+6,CAN,barbara ann underhill,9.4,Sarajevo 1984,Figure skating,Pairs mixed
+7,CAN,lloyd eisler,11.6,Sarajevo 1984,Figure skating,Pairs mixed
+8,URS,yury kvashnin,11.8,Sarajevo 1984,Figure skating,Pairs mixed
+9,USA,lee ann miller,14.0,Sarajevo 1984,Figure skating,Pairs mixed
+10,GDR,babette preussler,16.6,Sarajevo 1984,Figure skating,Pairs mixed
+11,CAN,melinda kunhegyi,17.2,Sarajevo 1984,Figure skating,Pairs mixed
+12,FRG,claudia massari,17.4,Sarajevo 1984,Figure skating,Pairs mixed
+13,GBR,ian roger jenkins,18.8,Sarajevo 1984,Figure skating,Pairs mixed
+14,CHN,bo luan,21.0,Sarajevo 1984,Figure skating,Pairs mixed

@@ -1,0 +1,1388 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,lenny krayzelburg,,Sydney 2000,Swimming,100m backstroke men
+1,AUS,matthew welsh,,Sydney 2000,Swimming,100m backstroke men
+2,GER,stev theloke,,Sydney 2000,Swimming,100m backstroke men
+3,AUS,josh watson,,Sydney 2000,Swimming,100m backstroke men
+4,POL,bartosz kizierowski,,Sydney 2000,Swimming,100m backstroke men
+5,USA,neil walker,,Sydney 2000,Swimming,100m backstroke men
+6,GER,steffen driesen,,Sydney 2000,Swimming,100m backstroke men
+7,ISR,eithan urbach,,Sydney 2000,Swimming,100m backstroke men
+8,CUB,rodolfo falcon cabrera,,Sydney 2000,Swimming,100m backstroke men
+9,HUN,peter horvath,,Sydney 2000,Swimming,100m backstroke men
+10,CAN,chris renaud,,Sydney 2000,Swimming,100m backstroke men
+11,FRA,simon dufour,,Sydney 2000,Swimming,100m backstroke men
+12,BRA,alexandre massura,,Sydney 2000,Swimming,100m backstroke men
+13,CRO,gordan kozulj,,Sydney 2000,Swimming,100m backstroke men
+14,ESP,david ortega,,Sydney 2000,Swimming,100m backstroke men
+15,GBR,adam ruckwood,,Sydney 2000,Swimming,100m backstroke men
+16,TUR,derya buyukuncu,,Sydney 2000,Swimming,100m backstroke men
+17,CRO,marko strahija,,Sydney 2000,Swimming,100m backstroke men
+18,RUS,sergey ostapchuk,,Sydney 2000,Swimming,100m backstroke men
+19,POL,mariusz siembida,,Sydney 2000,Swimming,100m backstroke men
+20,ITA,emanuele merisi,,Sydney 2000,Swimming,100m backstroke men
+21,ROU,razvan ionut florea,,Sydney 2000,Swimming,100m backstroke men
+22,BRA,rogerio romero,,Sydney 2000,Swimming,100m backstroke men
+23,LTU,darius grigalionis,,Sydney 2000,Swimming,100m backstroke men
+24,CAN,mark versfeld,,Sydney 2000,Swimming,100m backstroke men
+25,UKR,volodymyr nikolaychuk,,Sydney 2000,Swimming,100m backstroke men
+26,MAS,alex lim,,Sydney 2000,Swimming,100m backstroke men
+27,POR,nuno laurentino,,Sydney 2000,Swimming,100m backstroke men
+28,SVK,miroslav machovic,,Sydney 2000,Swimming,100m backstroke men
+29,RSA,simon thirsk,,Sydney 2000,Swimming,100m backstroke men
+30,KOR,min sung,,Sydney 2000,Swimming,100m backstroke men
+31,SLO,blaz medvesek,,Sydney 2000,Swimming,100m backstroke men
+32,AUT,markus rogan,,Sydney 2000,Swimming,100m backstroke men
+33,CHN,kunpeng ouyang,,Sydney 2000,Swimming,100m backstroke men
+34,SUI,philipp gilgen,,Sydney 2000,Swimming,100m backstroke men
+35,SWE,mattias ohlin,,Sydney 2000,Swimming,100m backstroke men
+36,NZL,scott talbot-cameron,,Sydney 2000,Swimming,100m backstroke men
+37,MDA,alexandru ivlev,,Sydney 2000,Swimming,100m backstroke men
+38,BUL,ivan angelov,,Sydney 2000,Swimming,100m backstroke men
+39,ARG,eduardo german otero,,Sydney 2000,Swimming,100m backstroke men
+40,URU,diego gallo,,Sydney 2000,Swimming,100m backstroke men
+41,SCG,milorad cavic,,Sydney 2000,Swimming,100m backstroke men
+42,THA,dulyarit phuangthong,,Sydney 2000,Swimming,100m backstroke men
+43,EGY,haitham hassan-ma,,Sydney 2000,Swimming,100m backstroke men
+44,SGP,gary tan,,Sydney 2000,Swimming,100m backstroke men
+45,ALG,mehdi addadi,,Sydney 2000,Swimming,100m backstroke men
+46,SEY,benjamin lopinto,,Sydney 2000,Swimming,100m backstroke men
+47,SUR,mike fung a wing,,Sydney 2000,Swimming,100m backstroke men
+48,KGZ,konstantin priahin,,Sydney 2000,Swimming,100m backstroke men
+49,COL,german martinez,,Sydney 2000,Swimming,100m backstroke men
+50,BAR,nicholas neckles,,Sydney 2000,Swimming,100m backstroke men
+51,KAZ,pavel sidorov,,Sydney 2000,Swimming,100m backstroke men
+52,BOL,carlos mauricio prudencio oliva,,Sydney 2000,Swimming,100m backstroke men
+53,KUW,faisal al mahmeed,,Sydney 2000,Swimming,100m backstroke men
+54,FSM,welbert samuel,,Sydney 2000,Swimming,100m backstroke men
+0,USA,lenny krayzelburg,,Sydney 2000,Swimming,100m backstroke women
+1,AUS,matthew welsh,,Sydney 2000,Swimming,100m backstroke women
+2,GER,stev theloke,,Sydney 2000,Swimming,100m backstroke women
+3,AUS,josh watson,,Sydney 2000,Swimming,100m backstroke women
+4,POL,bartosz kizierowski,,Sydney 2000,Swimming,100m backstroke women
+5,USA,neil walker,,Sydney 2000,Swimming,100m backstroke women
+6,GER,steffen driesen,,Sydney 2000,Swimming,100m backstroke women
+7,ISR,eithan urbach,,Sydney 2000,Swimming,100m backstroke women
+8,CUB,rodolfo falcon cabrera,,Sydney 2000,Swimming,100m backstroke women
+9,HUN,peter horvath,,Sydney 2000,Swimming,100m backstroke women
+10,CAN,chris renaud,,Sydney 2000,Swimming,100m backstroke women
+11,FRA,simon dufour,,Sydney 2000,Swimming,100m backstroke women
+12,BRA,alexandre massura,,Sydney 2000,Swimming,100m backstroke women
+13,CRO,gordan kozulj,,Sydney 2000,Swimming,100m backstroke women
+14,ESP,david ortega,,Sydney 2000,Swimming,100m backstroke women
+15,GBR,adam ruckwood,,Sydney 2000,Swimming,100m backstroke women
+16,TUR,derya buyukuncu,,Sydney 2000,Swimming,100m backstroke women
+17,CRO,marko strahija,,Sydney 2000,Swimming,100m backstroke women
+18,RUS,sergey ostapchuk,,Sydney 2000,Swimming,100m backstroke women
+19,POL,mariusz siembida,,Sydney 2000,Swimming,100m backstroke women
+20,ITA,emanuele merisi,,Sydney 2000,Swimming,100m backstroke women
+21,ROU,razvan ionut florea,,Sydney 2000,Swimming,100m backstroke women
+22,BRA,rogerio romero,,Sydney 2000,Swimming,100m backstroke women
+23,LTU,darius grigalionis,,Sydney 2000,Swimming,100m backstroke women
+24,CAN,mark versfeld,,Sydney 2000,Swimming,100m backstroke women
+25,UKR,volodymyr nikolaychuk,,Sydney 2000,Swimming,100m backstroke women
+26,MAS,alex lim,,Sydney 2000,Swimming,100m backstroke women
+27,POR,nuno laurentino,,Sydney 2000,Swimming,100m backstroke women
+28,SVK,miroslav machovic,,Sydney 2000,Swimming,100m backstroke women
+29,RSA,simon thirsk,,Sydney 2000,Swimming,100m backstroke women
+30,KOR,min sung,,Sydney 2000,Swimming,100m backstroke women
+31,SLO,blaz medvesek,,Sydney 2000,Swimming,100m backstroke women
+32,AUT,markus rogan,,Sydney 2000,Swimming,100m backstroke women
+33,CHN,kunpeng ouyang,,Sydney 2000,Swimming,100m backstroke women
+34,SUI,philipp gilgen,,Sydney 2000,Swimming,100m backstroke women
+35,SWE,mattias ohlin,,Sydney 2000,Swimming,100m backstroke women
+36,NZL,scott talbot-cameron,,Sydney 2000,Swimming,100m backstroke women
+37,MDA,alexandru ivlev,,Sydney 2000,Swimming,100m backstroke women
+38,BUL,ivan angelov,,Sydney 2000,Swimming,100m backstroke women
+39,ARG,eduardo german otero,,Sydney 2000,Swimming,100m backstroke women
+40,URU,diego gallo,,Sydney 2000,Swimming,100m backstroke women
+41,SCG,milorad cavic,,Sydney 2000,Swimming,100m backstroke women
+42,THA,dulyarit phuangthong,,Sydney 2000,Swimming,100m backstroke women
+43,EGY,haitham hassan-ma,,Sydney 2000,Swimming,100m backstroke women
+44,SGP,gary tan,,Sydney 2000,Swimming,100m backstroke women
+45,ALG,mehdi addadi,,Sydney 2000,Swimming,100m backstroke women
+46,SEY,benjamin lopinto,,Sydney 2000,Swimming,100m backstroke women
+47,SUR,mike fung a wing,,Sydney 2000,Swimming,100m backstroke women
+48,KGZ,konstantin priahin,,Sydney 2000,Swimming,100m backstroke women
+49,COL,german martinez,,Sydney 2000,Swimming,100m backstroke women
+50,BAR,nicholas neckles,,Sydney 2000,Swimming,100m backstroke women
+51,KAZ,pavel sidorov,,Sydney 2000,Swimming,100m backstroke women
+52,BOL,carlos mauricio prudencio oliva,,Sydney 2000,Swimming,100m backstroke women
+53,KUW,faisal al mahmeed,,Sydney 2000,Swimming,100m backstroke women
+54,FSM,welbert samuel,,Sydney 2000,Swimming,100m backstroke women
+0,ITA,domenico fioravanti,,Sydney 2000,Swimming,100m breaststroke men
+1,USA,ed moses,,Sydney 2000,Swimming,100m breaststroke men
+2,RUS,roman sloudnov,,Sydney 2000,Swimming,100m breaststroke men
+3,JPN,kosuke kitajima,,Sydney 2000,Swimming,100m breaststroke men
+4,CZE,daniel malek,,Sydney 2000,Swimming,100m breaststroke men
+5,CAN,morgan knabe,,Sydney 2000,Swimming,100m breaststroke men
+6,RSA,brett petersen,,Sydney 2000,Swimming,100m breaststroke men
+7,SUI,remo luetolf,,Sydney 2000,Swimming,100m breaststroke men
+8,HUN,karoly guttler,,Sydney 2000,Swimming,100m breaststroke men
+9,RUS,dmitry komornikov,,Sydney 2000,Swimming,100m breaststroke men
+10,FIN,jarno pihlava,,Sydney 2000,Swimming,100m breaststroke men
+11,GER,jens kruppa,,Sydney 2000,Swimming,100m breaststroke men
+12,NED,marcel wouda,,Sydney 2000,Swimming,100m breaststroke men
+13,GBR,darren mew,,Sydney 2000,Swimming,100m breaststroke men
+14,UKR,oleh lisohor,,Sydney 2000,Swimming,100m breaststroke men
+15,FRA,hugues duboscq,,Sydney 2000,Swimming,100m breaststroke men
+16,AUS,philip john rogers,,Sydney 2000,Swimming,100m breaststroke men
+17,POR,jose couto,,Sydney 2000,Swimming,100m breaststroke men
+18,MAS,elvin chia,,Sydney 2000,Swimming,100m breaststroke men
+19,GER,mark warnecke,,Sydney 2000,Swimming,100m breaststroke men
+20,JPN,akira hayashi,,Sydney 2000,Swimming,100m breaststroke men
+21,AUT,patrick schmollinger,,Sydney 2000,Swimming,100m breaststroke men
+22,GBR,adam whitehead,,Sydney 2000,Swimming,100m breaststroke men
+23,POL,marek krawczyk,,Sydney 2000,Swimming,100m breaststroke men
+24,USA,pat calhoun,,Sydney 2000,Swimming,100m breaststroke men
+25,SWE,patrik isaksson,,Sydney 2000,Swimming,100m breaststroke men
+26,NZL,steven ferguson,,Sydney 2000,Swimming,100m breaststroke men
+27,RSA,terence parkin,,Sydney 2000,Swimming,100m breaststroke men
+28,CHN,yi zhu,,Sydney 2000,Swimming,100m breaststroke men
+29,CRO,vanja rogulj,,Sydney 2000,Swimming,100m breaststroke men
+30,BRA,eduardo fischer,,Sydney 2000,Swimming,100m breaststroke men
+31,EST,raiko pachel,,Sydney 2000,Swimming,100m breaststroke men
+32,ISR,tal stricker,,Sydney 2000,Swimming,100m breaststroke men
+33,LAT,valerijs kalmikovs,,Sydney 2000,Swimming,100m breaststroke men
+34,PUR,arsenio lopez,,Sydney 2000,Swimming,100m breaststroke men
+35,MDA,vadim tatarov,,Sydney 2000,Swimming,100m breaststroke men
+36,ESA,francisco suriano siu chon him,,Sydney 2000,Swimming,100m breaststroke men
+37,GUA,alvaro fortuny lopez,,Sydney 2000,Swimming,100m breaststroke men
+38,LUX,alwin de prins,,Sydney 2000,Swimming,100m breaststroke men
+39,TPE,shang-hsuan yang,,Sydney 2000,Swimming,100m breaststroke men
+40,IRL,andrew bree,,Sydney 2000,Swimming,100m breaststroke men
+41,SCG,nikola savcic,,Sydney 2000,Swimming,100m breaststroke men
+42,MEX,alfredo jacobo rodriguez,,Sydney 2000,Swimming,100m breaststroke men
+43,PAN,ivan rodriguez mesa,,Sydney 2000,Swimming,100m breaststroke men
+44,KOR,gyeong-hwan jo,,Sydney 2000,Swimming,100m breaststroke men
+45,BLR,aleksandr gukov,,Sydney 2000,Swimming,100m breaststroke men
+46,SWZ,wickus nienaber,,Sydney 2000,Swimming,100m breaststroke men
+47,CRC,juan jose madrigal,,Sydney 2000,Swimming,100m breaststroke men
+48,NAM,jörg lindemeier,,Sydney 2000,Swimming,100m breaststroke men
+49,HKG,matthew hon ming kwok,,Sydney 2000,Swimming,100m breaststroke men
+50,MON,sylvain faure,,Sydney 2000,Swimming,100m breaststroke men
+51,ISL,hjalti gudmundsson,,Sydney 2000,Swimming,100m breaststroke men
+52,ARG,sergio andres ferreyra,,Sydney 2000,Swimming,100m breaststroke men
+53,KAZ,aleksandr savitsky,,Sydney 2000,Swimming,100m breaststroke men
+54,MAD,jean luc razakarivony,,Sydney 2000,Swimming,100m breaststroke men
+55,KSA,ahmad al-kudmani,,Sydney 2000,Swimming,100m breaststroke men
+56,SGP,yaoxiang daniel liew,,Sydney 2000,Swimming,100m breaststroke men
+57,BUL,krasimir zahov,,Sydney 2000,Swimming,100m breaststroke men
+58,KGZ,evgeny petrashov,,Sydney 2000,Swimming,100m breaststroke men
+59,TUR,hakan kiper,,Sydney 2000,Swimming,100m breaststroke men
+60,PAR,antonio leon candia,,Sydney 2000,Swimming,100m breaststroke men
+61,SEN,malick fall,,Sydney 2000,Swimming,100m breaststroke men
+62,PNG,kieran chan,,Sydney 2000,Swimming,100m breaststroke men
+63,BAN,karar samedul islam,,Sydney 2000,Swimming,100m breaststroke men
+64,UGA,joe atuhaire,,Sydney 2000,Swimming,100m breaststroke men
+65,GUI,facinet bangoura,Disqualified,Sydney 2000,Swimming,100m breaststroke men
+0,USA,megan quann,,Sydney 2000,Swimming,100m breaststroke women
+1,AUS,leisel jones,,Sydney 2000,Swimming,100m breaststroke women
+2,RSA,penelope heyns,,Sydney 2000,Swimming,100m breaststroke women
+3,RSA,sarah poewe,,Sydney 2000,Swimming,100m breaststroke women
+4,HUN,agnes kovacs,,Sydney 2000,Swimming,100m breaststroke women
+5,JPN,masami tanaka,,Sydney 2000,Swimming,100m breaststroke women
+6,AUS,tarnee white,,Sydney 2000,Swimming,100m breaststroke women
+7,GER,sylvia gerasch,,Sydney 2000,Swimming,100m breaststroke women
+8,BEL,brigitte becue,,Sydney 2000,Swimming,100m breaststroke women
+9,CAN,christin petelski,,Sydney 2000,Swimming,100m breaststroke women
+10,CAN,rhiannon leier,,Sydney 2000,Swimming,100m breaststroke women
+11,CHN,hui qi,,Sydney 2000,Swimming,100m breaststroke women
+12,UKR,svitlana bondarenko,,Sydney 2000,Swimming,100m breaststroke women
+13,GER,simone karn,,Sydney 2000,Swimming,100m breaststroke women
+14,NED,madelon baans,,Sydney 2000,Swimming,100m breaststroke women
+15,SLO,natasa kejzar,,Sydney 2000,Swimming,100m breaststroke women
+16,RUS,olga bakaldina,,Sydney 2000,Swimming,100m breaststroke women
+17,USA,staciana stitts,,Sydney 2000,Swimming,100m breaststroke women
+18,CHN,wei li,,Sydney 2000,Swimming,100m breaststroke women
+19,GBR,heidi earp,,Sydney 2000,Swimming,100m breaststroke women
+20,POL,alicja peczak,,Sydney 2000,Swimming,100m breaststroke women
+21,SWE,emma igelstroem,,Sydney 2000,Swimming,100m breaststroke women
+22,TUR,ilkay dikmen,,Sydney 2000,Swimming,100m breaststroke women
+23,AUT,elvira fischer,,Sydney 2000,Swimming,100m breaststroke women
+24,KOR,hye-yeong byeon,,Sydney 2000,Swimming,100m breaststroke women
+25,COL,isabel cristina ceballos,,Sydney 2000,Swimming,100m breaststroke women
+26,SUI,agata czaplicki,,Sydney 2000,Swimming,100m breaststroke women
+27,SGP,joscelin yeo,,Sydney 2000,Swimming,100m breaststroke women
+28,IRL,emma robinson,,Sydney 2000,Swimming,100m breaststroke women
+29,CRO,smiljana marinovic,,Sydney 2000,Swimming,100m breaststroke women
+30,CUB,imaday nunez gonzalez,,Sydney 2000,Swimming,100m breaststroke women
+31,MAS,yi ting siow,,Sydney 2000,Swimming,100m breaststroke women
+32,ISL,iris edda heimisdottir,,Sydney 2000,Swimming,100m breaststroke women
+33,KGZ,olga moltchanova,,Sydney 2000,Swimming,100m breaststroke women
+34,PHI,jenny rose guerrero,,Sydney 2000,Swimming,100m breaststroke women
+35,HKG,caroline sin wing chiu,,Sydney 2000,Swimming,100m breaststroke women
+36,BOL,katerine moreno maiser,,Sydney 2000,Swimming,100m breaststroke women
+37,ANG,nadia vanda sousa eloy cruz,,Sydney 2000,Swimming,100m breaststroke women
+38,PNG,xenia peni,,Sydney 2000,Swimming,100m breaststroke women
+39,MLI,mariam pauline keita,,Sydney 2000,Swimming,100m breaststroke women
+40,NIG,balkissa ouhoumoudou,,Sydney 2000,Swimming,100m breaststroke women
+41,BAN,doli akhtar,Disqualified,Sydney 2000,Swimming,100m breaststroke women
+42,RWA,pamela girimbabazi rugabira,Disqualified,Sydney 2000,Swimming,100m breaststroke women
+43,JPN,junko isoda,Did not start,Sydney 2000,Swimming,100m breaststroke women
+0,SWE,lars frolander,,Sydney 2000,Swimming,100m butterfly men
+1,AUS,michael klim,,Sydney 2000,Swimming,100m butterfly men
+2,AUS,geoffrey huegill,,Sydney 2000,Swimming,100m butterfly men
+3,USA,ian crocker,,Sydney 2000,Swimming,100m butterfly men
+4,JPN,takashi yamamoto,,Sydney 2000,Swimming,100m butterfly men
+5,CAN,michael mintenko,,Sydney 2000,Swimming,100m butterfly men
+6,GER,thomas rupprath,,Sydney 2000,Swimming,100m butterfly men
+7,RUS,anatoly polyakov,,Sydney 2000,Swimming,100m butterfly men
+8,NED,joris keizer,,Sydney 2000,Swimming,100m butterfly men
+9,FRA,franck esposito,,Sydney 2000,Swimming,100m butterfly men
+10,HUN,zsolt gaspar,,Sydney 2000,Swimming,100m butterfly men
+11,UKR,denys sylantiev,,Sydney 2000,Swimming,100m butterfly men
+12,GBR,james hickman,,Sydney 2000,Swimming,100m butterfly men
+13,USA,tommy hannan,,Sydney 2000,Swimming,100m butterfly men
+14,FIN,jere hard,,Sydney 2000,Swimming,100m butterfly men
+15,NED,stefan aartsen,,Sydney 2000,Swimming,100m butterfly men
+16,UKR,andriy serdinov,,Sydney 2000,Swimming,100m butterfly men
+17,RSA,theo verster,,Sydney 2000,Swimming,100m butterfly men
+18,RUS,igor marchenko,,Sydney 2000,Swimming,100m butterfly men
+19,CHN,kunpeng ouyang,,Sydney 2000,Swimming,100m butterfly men
+20,ROU,ioan stefan gherghel,,Sydney 2000,Swimming,100m butterfly men
+21,CAN,shamek pietucha,,Sydney 2000,Swimming,100m butterfly men
+22,SLO,peter mankoc,,Sydney 2000,Swimming,100m butterfly men
+23,SWE,daniel carlsson,,Sydney 2000,Swimming,100m butterfly men
+24,FIN,tero valimaa,,Sydney 2000,Swimming,100m butterfly men
+25,POL,marcin kaczmarek,,Sydney 2000,Swimming,100m butterfly men
+26,CZE,jan vitazka,,Sydney 2000,Swimming,100m butterfly men
+27,ARG,pablo martin abal,,Sydney 2000,Swimming,100m butterfly men
+28,VEN,francisco sanchez,,Sydney 2000,Swimming,100m butterfly men
+29,POR,simao morgado,,Sydney 2000,Swimming,100m butterfly men
+30,SUI,philippe meyer,,Sydney 2000,Swimming,100m butterfly men
+31,PUR,andrew livingston conners,,Sydney 2000,Swimming,100m butterfly men
+32,MEX,joshua ilika,,Sydney 2000,Swimming,100m butterfly men
+33,UZB,ravil nachayev,,Sydney 2000,Swimming,100m butterfly men
+34,KGZ,konstantin ushkov,,Sydney 2000,Swimming,100m butterfly men
+35,MAS,anthony ang,,Sydney 2000,Swimming,100m butterfly men
+36,ISR,yoav meiri,,Sydney 2000,Swimming,100m butterfly men
+37,BUL,simeon makedonski,,Sydney 2000,Swimming,100m butterfly men
+38,BIH,janko gojkovic,,Sydney 2000,Swimming,100m butterfly men
+39,VEN,oswaldo quevedo,,Sydney 2000,Swimming,100m butterfly men
+40,MKD,aleksandar miladinovski,,Sydney 2000,Swimming,100m butterfly men
+41,DEN,dennis otzen jensen,,Sydney 2000,Swimming,100m butterfly men
+42,CUB,yohan fidel garcia,,Sydney 2000,Swimming,100m butterfly men
+43,ALG,mehdi addadi,,Sydney 2000,Swimming,100m butterfly men
+44,GUM,daniel o'keeffe,,Sydney 2000,Swimming,100m butterfly men
+45,ECU,roberto delgado,,Sydney 2000,Swimming,100m butterfly men
+46,LUX,luc decker,,Sydney 2000,Swimming,100m butterfly men
+47,ISL,ríkarður ríkarðsson,,Sydney 2000,Swimming,100m butterfly men
+48,KAZ,andrey gavrilov,,Sydney 2000,Swimming,100m butterfly men
+49,CRO,ivan mladina,,Sydney 2000,Swimming,100m butterfly men
+50,GRE,ioannis drymonakos,,Sydney 2000,Swimming,100m butterfly men
+51,TPE,cheng-hua tseng,,Sydney 2000,Swimming,100m butterfly men
+52,EGY,haitham hassan-ma,,Sydney 2000,Swimming,100m butterfly men
+53,BER,stephen fahy,,Sydney 2000,Swimming,100m butterfly men
+54,INA,albert sutanto,,Sydney 2000,Swimming,100m butterfly men
+55,LAT,arturs jakovlevs,,Sydney 2000,Swimming,100m butterfly men
+56,BAH,nick rees,,Sydney 2000,Swimming,100m butterfly men
+57,SRI,conrad francis,,Sydney 2000,Swimming,100m butterfly men
+58,MDA,dumitru zastoico,,Sydney 2000,Swimming,100m butterfly men
+59,KEN,jin-woo kim,,Sydney 2000,Swimming,100m butterfly men
+60,PAK,kamal masud,,Sydney 2000,Swimming,100m butterfly men
+61,SCG,milorad cavic,Disqualified,Sydney 2000,Swimming,100m butterfly men
+62,GER,christian keller,Did not start,Sydney 2000,Swimming,100m butterfly men
+0,NED,inge de bruijn,,Sydney 2000,Swimming,100m butterfly women
+1,SVK,martina moravcova,,Sydney 2000,Swimming,100m butterfly women
+2,USA,dara torres,,Sydney 2000,Swimming,100m butterfly women
+3,AUS,petria thomas,,Sydney 2000,Swimming,100m butterfly women
+4,USA,jenny thompson,,Sydney 2000,Swimming,100m butterfly women
+5,JPN,junko onishi,,Sydney 2000,Swimming,100m butterfly women
+6,AUS,susan o'neill,,Sydney 2000,Swimming,100m butterfly women
+7,ROU,diana mocanu,,Sydney 2000,Swimming,100m butterfly women
+8,POL,otylia jedrzejczak,,Sydney 2000,Swimming,100m butterfly women
+9,SWE,johanna sjoberg,,Sydney 2000,Swimming,100m butterfly women
+10,RUS,natalia sutyagina,,Sydney 2000,Swimming,100m butterfly women
+11,RSA,amanda loots,,Sydney 2000,Swimming,100m butterfly women
+12,DEN,mette jacobsen,,Sydney 2000,Swimming,100m butterfly women
+13,FRA,cecile jeanson,,Sydney 2000,Swimming,100m butterfly women
+14,DEN,sophia skou,,Sydney 2000,Swimming,100m butterfly women
+15,SWE,anna-karin kammerling,,Sydney 2000,Swimming,100m butterfly women
+16,GER,franziska van almsick,,Sydney 2000,Swimming,100m butterfly women
+17,CHN,limin liu,,Sydney 2000,Swimming,100m butterfly women
+18,ISR,vered borochovski,,Sydney 2000,Swimming,100m butterfly women
+19,CAN,jen button,,Sydney 2000,Swimming,100m butterfly women
+20,CAN,jessica deglau,,Sydney 2000,Swimming,100m butterfly women
+21,JPN,maki mita,,Sydney 2000,Swimming,100m butterfly women
+22,BEL,fabienne dufour,,Sydney 2000,Swimming,100m butterfly women
+23,HUN,orsolya ferenczy,,Sydney 2000,Swimming,100m butterfly women
+24,CHN,yi ruan,,Sydney 2000,Swimming,100m butterfly women
+25,SGP,joscelin yeo,,Sydney 2000,Swimming,100m butterfly women
+26,GER,daniela samulski,,Sydney 2000,Swimming,100m butterfly women
+27,RSA,renate du plessis,,Sydney 2000,Swimming,100m butterfly women
+28,ESP,maria pelaez,,Sydney 2000,Swimming,100m butterfly women
+29,GBR,margaretha pedder,,Sydney 2000,Swimming,100m butterfly women
+30,RUS,ekaterina vinogradova,,Sydney 2000,Swimming,100m butterfly women
+31,CYP,maria papadopoulou,,Sydney 2000,Swimming,100m butterfly women
+32,FIN,marja kristiina parssinen,,Sydney 2000,Swimming,100m butterfly women
+33,GRE,zambia melakhroinou,,Sydney 2000,Swimming,100m butterfly women
+34,KOR,bo-eun lee,,Sydney 2000,Swimming,100m butterfly women
+35,BRA,fabiola molina,,Sydney 2000,Swimming,100m butterfly women
+36,THA,praphalsai minpraphal,,Sydney 2000,Swimming,100m butterfly women
+37,UKR,mariya ogurtsova,,Sydney 2000,Swimming,100m butterfly women
+38,ISL,eydis konradsdottir,,Sydney 2000,Swimming,100m butterfly women
+39,TTO,siobhan cropper,,Sydney 2000,Swimming,100m butterfly women
+40,TPE,shu-ting hsieh,,Sydney 2000,Swimming,100m butterfly women
+41,HKG,yan kay flora kong,,Sydney 2000,Swimming,100m butterfly women
+42,TUR,ayse diker,,Sydney 2000,Swimming,100m butterfly women
+43,ARG,maria pereyra,,Sydney 2000,Swimming,100m butterfly women
+44,SWZ,lisa de la motte,,Sydney 2000,Swimming,100m butterfly women
+45,MLT,angela galea,,Sydney 2000,Swimming,100m butterfly women
+46,ZAM,ellen lendra hight,,Sydney 2000,Swimming,100m butterfly women
+47,UZB,mariya bugakova,,Sydney 2000,Swimming,100m butterfly women
+48,FSM,tracy ann route,,Sydney 2000,Swimming,100m butterfly women
+49,ALG,kenza bennaceur,Did not start,Sydney 2000,Swimming,100m butterfly women
+0,NED,pieter van den hoogenband,,Sydney 2000,Swimming,100m freestyle men
+1,RUS,alexander popov,,Sydney 2000,Swimming,100m freestyle men
+2,USA,"gary hall, jr.",,Sydney 2000,Swimming,100m freestyle men
+3,AUS,michael klim,,Sydney 2000,Swimming,100m freestyle men
+4,USA,neil walker,,Sydney 2000,Swimming,100m freestyle men
+5,SWE,lars frolander,,Sydney 2000,Swimming,100m freestyle men
+6,RUS,denis pimankov,,Sydney 2000,Swimming,100m freestyle men
+7,AUS,christopher john fydler,,Sydney 2000,Swimming,100m freestyle men
+8,HUN,attila zubor,,Sydney 2000,Swimming,100m freestyle men
+9,ARG,jose martin meolans,,Sydney 2000,Swimming,100m freestyle men
+10,CRO,duje draganja,,Sydney 2000,Swimming,100m freestyle men
+11,ITA,lorenzo vismara,,Sydney 2000,Swimming,100m freestyle men
+12,ALG,salim iles,,Sydney 2000,Swimming,100m freestyle men
+13,GER,christian tröger,,Sydney 2000,Swimming,100m freestyle men
+14,RSA,roland schoeman,,Sydney 2000,Swimming,100m freestyle men
+15,BRA,gustavo borges,,Sydney 2000,Swimming,100m freestyle men
+16,POL,bartosz kizierowski,,Sydney 2000,Swimming,100m freestyle men
+17,NED,johan kenkhuis,,Sydney 2000,Swimming,100m freestyle men
+18,SUI,karel novy,,Sydney 2000,Swimming,100m freestyle men
+19,SWE,stefan nystrand,,Sydney 2000,Swimming,100m freestyle men
+20,SLO,peter mankoc,,Sydney 2000,Swimming,100m freestyle men
+21,FRA,romain barnier,,Sydney 2000,Swimming,100m freestyle men
+22,LTU,rolandas gimbutis,,Sydney 2000,Swimming,100m freestyle men
+23,KOR,min-seok kim,,Sydney 2000,Swimming,100m freestyle men
+24,GER,torsten spanneberg,,Sydney 2000,Swimming,100m freestyle men
+25,CAN,yannick lupien,,Sydney 2000,Swimming,100m freestyle men
+26,UKR,pavlo khnykin,,Sydney 2000,Swimming,100m freestyle men
+27,ESP,javier botello,,Sydney 2000,Swimming,100m freestyle men
+28,CAN,craig hutchison,,Sydney 2000,Swimming,100m freestyle men
+29,CUB,marcos hernandez,,Sydney 2000,Swimming,100m freestyle men
+30,BLR,oleg rukhlevich,,Sydney 2000,Swimming,100m freestyle men
+31,BEL,thierry wouters,,Sydney 2000,Swimming,100m freestyle men
+32,FIN,jere hard,,Sydney 2000,Swimming,100m freestyle men
+33,KGZ,sergey ashihmin,,Sydney 2000,Swimming,100m freestyle men
+34,GRE,spyridon bitsakis,,Sydney 2000,Swimming,100m freestyle men
+35,FIJ,carl probert,,Sydney 2000,Swimming,100m freestyle men
+36,INA,richard samuel bera,,Sydney 2000,Swimming,100m freestyle men
+37,ISR,yoav bruck,,Sydney 2000,Swimming,100m freestyle men
+38,SCG,nikola kalabic,,Sydney 2000,Swimming,100m freestyle men
+39,BAH,christopher murray,,Sydney 2000,Swimming,100m freestyle men
+40,MAS,allen ong,,Sydney 2000,Swimming,100m freestyle men
+41,ISV,george gleason,,Sydney 2000,Swimming,100m freestyle men
+42,EST,indrek sei,,Sydney 2000,Swimming,100m freestyle men
+43,EGY,tamer hamed,,Sydney 2000,Swimming,100m freestyle men
+44,CZE,kvetoslav svoboda,,Sydney 2000,Swimming,100m freestyle men
+45,URU,paul alexander kutscher,,Sydney 2000,Swimming,100m freestyle men
+46,COL,fernando jacome,,Sydney 2000,Swimming,100m freestyle men
+47,SGP,mark chay,,Sydney 2000,Swimming,100m freestyle men
+48,BIH,zeljko panic,,Sydney 2000,Swimming,100m freestyle men
+49,VEN,francisco sanchez,,Sydney 2000,Swimming,100m freestyle men
+50,AHO,howard hinds,,Sydney 2000,Swimming,100m freestyle men
+51,ZIM,glen walshaw,,Sydney 2000,Swimming,100m freestyle men
+52,KAZ,igor sitnikov,,Sydney 2000,Swimming,100m freestyle men
+53,UZB,aleksandr agafonov,,Sydney 2000,Swimming,100m freestyle men
+54,TPE,nien pin wu,,Sydney 2000,Swimming,100m freestyle men
+55,ECU,felipe delgado,,Sydney 2000,Swimming,100m freestyle men
+56,CYP,khrysanthos papakhrysanthou,,Sydney 2000,Swimming,100m freestyle men
+57,ISL,ríkarður ríkarðsson,,Sydney 2000,Swimming,100m freestyle men
+58,TTO,george bovell,,Sydney 2000,Swimming,100m freestyle men
+59,NGR,gentle offoin,,Sydney 2000,Swimming,100m freestyle men
+60,SEY,kenny roberts,,Sydney 2000,Swimming,100m freestyle men
+61,CHI,rodrigo olivares,,Sydney 2000,Swimming,100m freestyle men
+62,CIV,gregory arkhurst,,Sydney 2000,Swimming,100m freestyle men
+63,HON,alejandro castellanos,,Sydney 2000,Swimming,100m freestyle men
+64,IRI,hamid reza mobarez,,Sydney 2000,Swimming,100m freestyle men
+65,MRI,christophe lim wen ying,,Sydney 2000,Swimming,100m freestyle men
+66,MGL,galbadrakh ganaagiin,,Sydney 2000,Swimming,100m freestyle men
+67,LBN,ragi edde,,Sydney 2000,Swimming,100m freestyle men
+68,CGO,marien michel ngouabi,,Sydney 2000,Swimming,100m freestyle men
+69,BRN,dawood yosuf mohamed jassim,,Sydney 2000,Swimming,100m freestyle men
+70,GEQ,eric moussambani malonga,,Sydney 2000,Swimming,100m freestyle men
+71,NIG,karim bare,Disqualified,Sydney 2000,Swimming,100m freestyle men
+72,TJK,farkhod oripov,Disqualified,Sydney 2000,Swimming,100m freestyle men
+73,BRA,fernando scherer,Did not start,Sydney 2000,Swimming,100m freestyle men
+0,NED,inge de bruijn,,Sydney 2000,Swimming,100m freestyle women
+1,SWE,therese alshammar,,Sydney 2000,Swimming,100m freestyle women
+2,USA,jenny thompson,,Sydney 2000,Swimming,100m freestyle women
+3,USA,dara torres,,Sydney 2000,Swimming,100m freestyle women
+4,SVK,martina moravcova,,Sydney 2000,Swimming,100m freestyle women
+5,RSA,helene muller,,Sydney 2000,Swimming,100m freestyle women
+6,JPN,sumika minamoto,,Sydney 2000,Swimming,100m freestyle women
+7,NED,wilma van rijn,,Sydney 2000,Swimming,100m freestyle women
+8,GBR,susan rolph,,Sydney 2000,Swimming,100m freestyle women
+9,GBR,karen pickering,,Sydney 2000,Swimming,100m freestyle women
+10,EGY,rania elwani,,Sydney 2000,Swimming,100m freestyle women
+11,AUS,sarah ryan,,Sydney 2000,Swimming,100m freestyle women
+12,SWE,louise johncke,,Sydney 2000,Swimming,100m freestyle women
+13,CAN,laura nicholls,,Sydney 2000,Swimming,100m freestyle women
+14,GER,sandra voelker,,Sydney 2000,Swimming,100m freestyle women
+15,BLR,alena popchanka,,Sydney 2000,Swimming,100m freestyle women
+16,UKR,olga mukomol,,Sydney 2000,Swimming,100m freestyle women
+17,FIN,hanna-maria seppala,,Sydney 2000,Swimming,100m freestyle women
+18,CHN,xue han,,Sydney 2000,Swimming,100m freestyle women
+19,RUS,ekaterina kibalo,,Sydney 2000,Swimming,100m freestyle women
+20,ITA,cristina chiuso,,Sydney 2000,Swimming,100m freestyle women
+21,SGP,joscelin yeo,,Sydney 2000,Swimming,100m freestyle women
+22,ARG,florencia szigeti,,Sydney 2000,Swimming,100m freestyle women
+23,BAR,leah martindale,,Sydney 2000,Swimming,100m freestyle women
+24,GRE,tonia makhaira,,Sydney 2000,Swimming,100m freestyle women
+25,CZE,ilona hlavackova,,Sydney 2000,Swimming,100m freestyle women
+26,AUT,judith draxler,,Sydney 2000,Swimming,100m freestyle women
+27,ZIM,kirsty leigh coventry,,Sydney 2000,Swimming,100m freestyle women
+28,HUN,gyongyver lakos,,Sydney 2000,Swimming,100m freestyle women
+29,EST,elina partoka,,Sydney 2000,Swimming,100m freestyle women
+30,AUS,susan o'neill,,Sydney 2000,Swimming,100m freestyle women
+31,PAN,eileen marie coparropa aleman,,Sydney 2000,Swimming,100m freestyle women
+32,NZL,monique robins,,Sydney 2000,Swimming,100m freestyle women
+33,TTO,siobhan cropper,,Sydney 2000,Swimming,100m freestyle women
+34,BEL,tine bossuyt,,Sydney 2000,Swimming,100m freestyle women
+35,ISL,lara hrund bjargardottir,,Sydney 2000,Swimming,100m freestyle women
+36,LUX,lara heinz,,Sydney 2000,Swimming,100m freestyle women
+37,FIJ,caroline pickering,,Sydney 2000,Swimming,100m freestyle women
+38,THA,pilin tachakittiranan,,Sydney 2000,Swimming,100m freestyle women
+39,KOR,hui-jin jang,,Sydney 2000,Swimming,100m freestyle women
+40,LTU,jurate ladaviciute,,Sydney 2000,Swimming,100m freestyle women
+41,IRL,chantal gibney,,Sydney 2000,Swimming,100m freestyle women
+42,KGZ,ekaterina tochenaya,,Sydney 2000,Swimming,100m freestyle women
+43,CYP,anna stylianou,,Sydney 2000,Swimming,100m freestyle women
+44,LAT,agnese ozolina,,Sydney 2000,Swimming,100m freestyle women
+45,TPE,shu-min tsai,,Sydney 2000,Swimming,100m freestyle women
+46,PLW,nicole hayes,,Sydney 2000,Swimming,100m freestyle women
+47,LBN,rola el haress,,Sydney 2000,Swimming,100m freestyle women
+48,KEN,maria awori,,Sydney 2000,Swimming,100m freestyle women
+49,MRI,nathalie lee baw,,Sydney 2000,Swimming,100m freestyle women
+50,SEN,zeïna sahéli,,Sydney 2000,Swimming,100m freestyle women
+51,UGA,supra singhal,,Sydney 2000,Swimming,100m freestyle women
+52,MGL,altantuyaa sanjaajamtsyn,,Sydney 2000,Swimming,100m freestyle women
+53,TJK,katerina izmaylova,,Sydney 2000,Swimming,100m freestyle women
+54,CAN,marianne luise limpert,Did not start,Sydney 2000,Swimming,100m freestyle women
+55,GER,antje buschschulte,Did not start,Sydney 2000,Swimming,100m freestyle women
+0,AUS,grant hackett,,Sydney 2000,Swimming,1500m freestyle men
+1,AUS,kieren john perkins,,Sydney 2000,Swimming,1500m freestyle men
+2,USA,chris thompson,,Sydney 2000,Swimming,1500m freestyle men
+3,RUS,alexei filipets,,Sydney 2000,Swimming,1500m freestyle men
+4,RSA,ryk neethling,,Sydney 2000,Swimming,1500m freestyle men
+5,USA,erik vendt,,Sydney 2000,Swimming,1500m freestyle men
+6,UKR,igor chervynskiy,,Sydney 2000,Swimming,1500m freestyle men
+7,GER,heiko hell,,Sydney 2000,Swimming,1500m freestyle men
+8,ROU,dragos cristian coman,,Sydney 2000,Swimming,1500m freestyle men
+9,ITA,christian minotti,,Sydney 2000,Swimming,1500m freestyle men
+10,FRA,nicolas rostoucher,,Sydney 2000,Swimming,1500m freestyle men
+11,ESP,frederik hviid,,Sydney 2000,Swimming,1500m freestyle men
+12,JPN,masato hirano,,Sydney 2000,Swimming,1500m freestyle men
+13,UKR,ihor snitko,,Sydney 2000,Swimming,1500m freestyle men
+14,VEN,ricardo monasterio,,Sydney 2000,Swimming,1500m freestyle men
+15,JPN,yota arase,,Sydney 2000,Swimming,1500m freestyle men
+16,GBR,paul rory palmer,,Sydney 2000,Swimming,1500m freestyle men
+17,BRA,luiz lima,,Sydney 2000,Swimming,1500m freestyle men
+18,ITA,emiliano brembilla,,Sydney 2000,Swimming,1500m freestyle men
+19,BLR,dmitry koptur,,Sydney 2000,Swimming,1500m freestyle men
+20,GRE,spyridon gianniotis,,Sydney 2000,Swimming,1500m freestyle men
+21,RUS,alexey kovrigin,,Sydney 2000,Swimming,1500m freestyle men
+22,CAN,andrew hurd,,Sydney 2000,Swimming,1500m freestyle men
+23,ESP,teo edo,,Sydney 2000,Swimming,1500m freestyle men
+24,AUT,hannes kalteis,,Sydney 2000,Swimming,1500m freestyle men
+25,CZE,vlastimil burda,,Sydney 2000,Swimming,1500m freestyle men
+26,CAN,tim peterson,,Sydney 2000,Swimming,1500m freestyle men
+27,THA,torwai sethsothorn,,Sydney 2000,Swimming,1500m freestyle men
+28,GBR,adam faulkner,,Sydney 2000,Swimming,1500m freestyle men
+29,BUL,petar stoychev,,Sydney 2000,Swimming,1500m freestyle men
+30,MEX,jorge carral armella,,Sydney 2000,Swimming,1500m freestyle men
+31,CHN,hao jin,,Sydney 2000,Swimming,1500m freestyle men
+32,KOR,seong-mo jo,,Sydney 2000,Swimming,1500m freestyle men
+33,PHI,juan carlos antonio piccio,,Sydney 2000,Swimming,1500m freestyle men
+34,ARG,agustin fiorilli,,Sydney 2000,Swimming,1500m freestyle men
+35,MAS,dieung anak manggang,,Sydney 2000,Swimming,1500m freestyle men
+36,NZL,jonathon duncan,,Sydney 2000,Swimming,1500m freestyle men
+37,INA,steven chandra,,Sydney 2000,Swimming,1500m freestyle men
+38,SMR,diego mularoni,,Sydney 2000,Swimming,1500m freestyle men
+39,TPE,yun-lun li,,Sydney 2000,Swimming,1500m freestyle men
+40,KGZ,ivan ivanov,Disqualified,Sydney 2000,Swimming,1500m freestyle men
+0,USA,lenny krayzelburg,,Sydney 2000,Swimming,200m backstroke men
+1,USA,aaron peirsol,,Sydney 2000,Swimming,200m backstroke men
+2,AUS,matthew welsh,,Sydney 2000,Swimming,200m backstroke men
+3,ISL,orn arnarson,,Sydney 2000,Swimming,200m backstroke men
+4,ITA,emanuele merisi,,Sydney 2000,Swimming,200m backstroke men
+5,ROU,razvan ionut florea,,Sydney 2000,Swimming,200m backstroke men
+6,BRA,rogerio romero,,Sydney 2000,Swimming,200m backstroke men
+7,CRO,gordan kozulj,,Sydney 2000,Swimming,200m backstroke men
+8,CRO,marko strahija,,Sydney 2000,Swimming,200m backstroke men
+9,NED,klaas-erik zwering,,Sydney 2000,Swimming,200m backstroke men
+10,AUS,cameron delaney,,Sydney 2000,Swimming,200m backstroke men
+11,RUS,sergey ostapchuk,,Sydney 2000,Swimming,200m backstroke men
+12,CAN,chris renaud,,Sydney 2000,Swimming,200m backstroke men
+13,BRA,leonardo costa,,Sydney 2000,Swimming,200m backstroke men
+14,UKR,volodymyr nikolaychuk,,Sydney 2000,Swimming,200m backstroke men
+15,ISR,yoab gath,,Sydney 2000,Swimming,200m backstroke men
+16,FRA,simon dufour,,Sydney 2000,Swimming,200m backstroke men
+17,GBR,adam ruckwood,,Sydney 2000,Swimming,200m backstroke men
+18,GBR,simon militis,,Sydney 2000,Swimming,200m backstroke men
+19,CAN,dustin hersee,,Sydney 2000,Swimming,200m backstroke men
+20,GER,ralf braun,,Sydney 2000,Swimming,200m backstroke men
+21,NZL,scott talbot-cameron,,Sydney 2000,Swimming,200m backstroke men
+22,SLO,blaz medvesek,,Sydney 2000,Swimming,200m backstroke men
+23,CUB,neisser bent,,Sydney 2000,Swimming,200m backstroke men
+24,ITA,mirko mazzari,,Sydney 2000,Swimming,200m backstroke men
+25,CHN,yong fu,,Sydney 2000,Swimming,200m backstroke men
+26,AUT,markus rogan,,Sydney 2000,Swimming,200m backstroke men
+27,COL,alejandro bermudez,,Sydney 2000,Swimming,200m backstroke men
+28,ESP,guillermo mediano,,Sydney 2000,Swimming,200m backstroke men
+29,POR,mario carvalho,,Sydney 2000,Swimming,200m backstroke men
+30,SVK,miroslav machovic,,Sydney 2000,Swimming,200m backstroke men
+31,LTU,arunas savickas,,Sydney 2000,Swimming,200m backstroke men
+32,HKG,lik sun fong,,Sydney 2000,Swimming,200m backstroke men
+33,ARG,eduardo german otero,,Sydney 2000,Swimming,200m backstroke men
+34,THA,torwai sethsothorn,,Sydney 2000,Swimming,200m backstroke men
+35,EGY,ahmed hussein,,Sydney 2000,Swimming,200m backstroke men
+36,SGP,gary tan,,Sydney 2000,Swimming,200m backstroke men
+37,MDA,andrei mihailov,,Sydney 2000,Swimming,200m backstroke men
+38,KOR,jong-min lee,,Sydney 2000,Swimming,200m backstroke men
+39,BUL,ivan angelov,,Sydney 2000,Swimming,200m backstroke men
+40,DOM,guillermo cabrera gonzalez,,Sydney 2000,Swimming,200m backstroke men
+41,MAS,alex lim,,Sydney 2000,Swimming,200m backstroke men
+42,SCG,milos cerovic,,Sydney 2000,Swimming,200m backstroke men
+43,KGZ,aleksandr egorov,,Sydney 2000,Swimming,200m backstroke men
+44,HUN,viktor bodrogi,Disqualified,Sydney 2000,Swimming,200m backstroke men
+0,ROU,diana mocanu,,Sydney 2000,Swimming,200m backstroke women
+1,FRA,roxana maracineanu,,Sydney 2000,Swimming,200m backstroke women
+2,JPN,miki nakao,,Sydney 2000,Swimming,200m backstroke women
+3,JPN,tomoko hagiwara,,Sydney 2000,Swimming,200m backstroke women
+4,USA,amanda adkins,,Sydney 2000,Swimming,200m backstroke women
+5,ESP,nina alexandrovna zhivanevskaya,,Sydney 2000,Swimming,200m backstroke women
+6,GER,antje buschschulte,,Sydney 2000,Swimming,200m backstroke women
+7,CAN,kelly stefanyshyn,,Sydney 2000,Swimming,200m backstroke women
+8,GBR,joanna fargus,,Sydney 2000,Swimming,200m backstroke women
+9,USA,lindsay benko,,Sydney 2000,Swimming,200m backstroke women
+10,GER,cathleen rund,,Sydney 2000,Swimming,200m backstroke women
+11,DEN,louise ornstedt,,Sydney 2000,Swimming,200m backstroke women
+12,AUS,clementine stoney,,Sydney 2000,Swimming,200m backstroke women
+13,RSA,charlene wittstock,,Sydney 2000,Swimming,200m backstroke women
+14,GBR,helen don-duncan,,Sydney 2000,Swimming,200m backstroke women
+15,ESP,ivette maria,,Sydney 2000,Swimming,200m backstroke women
+16,UKR,nadiya beshevli,,Sydney 2000,Swimming,200m backstroke women
+17,CHN,shu zhan,,Sydney 2000,Swimming,200m backstroke women
+18,RUS,irina raevskaia,,Sydney 2000,Swimming,200m backstroke women
+19,NZL,helen norfolk,,Sydney 2000,Swimming,200m backstroke women
+20,FIN,anu koivisto,,Sydney 2000,Swimming,200m backstroke women
+21,BEL,yseult gervy,,Sydney 2000,Swimming,200m backstroke women
+22,POL,aleksandra miciul,,Sydney 2000,Swimming,200m backstroke women
+23,AUS,dyana calub,,Sydney 2000,Swimming,200m backstroke women
+24,GRE,aikaterini bliamou,,Sydney 2000,Swimming,200m backstroke women
+25,CUB,ana maria gonzalez,,Sydney 2000,Swimming,200m backstroke women
+26,SVK,jana korbasova,,Sydney 2000,Swimming,200m backstroke women
+27,HUN,annamaria kiss,,Sydney 2000,Swimming,200m backstroke women
+28,TUR,sadan derya erke,,Sydney 2000,Swimming,200m backstroke women
+29,THA,chonlathorn vorathamrong,,Sydney 2000,Swimming,200m backstroke women
+30,SCG,marica strazmester,,Sydney 2000,Swimming,200m backstroke women
+31,ISL,kolbrun yr kristjansdottir,,Sydney 2000,Swimming,200m backstroke women
+32,TPE,chia-hsien kuan,,Sydney 2000,Swimming,200m backstroke women
+33,CRO,petra banovic,,Sydney 2000,Swimming,200m backstroke women
+34,KOR,soo-min choi,,Sydney 2000,Swimming,200m backstroke women
+35,RUS,yuliya fomenko,Did not start,Sydney 2000,Swimming,200m backstroke women
+0,ITA,domenico fioravanti,,Sydney 2000,Swimming,200m breaststroke men
+1,RSA,terence parkin,,Sydney 2000,Swimming,200m breaststroke men
+2,ITA,davide rummolo,,Sydney 2000,Swimming,200m breaststroke men
+3,AUS,regan harrison,,Sydney 2000,Swimming,200m breaststroke men
+4,CZE,daniel malek,,Sydney 2000,Swimming,200m breaststroke men
+5,USA,kyle salyards,,Sydney 2000,Swimming,200m breaststroke men
+6,FRA,johan bernard,,Sydney 2000,Swimming,200m breaststroke men
+7,AUS,ryan mitchell,,Sydney 2000,Swimming,200m breaststroke men
+8,RUS,dmitry komornikov,,Sydney 2000,Swimming,200m breaststroke men
+9,CAN,morgan knabe,,Sydney 2000,Swimming,200m breaststroke men
+10,AUT,maxim podoprigora,,Sydney 2000,Swimming,200m breaststroke men
+11,FRA,stephan perrot,,Sydney 2000,Swimming,200m breaststroke men
+12,HUN,norbert rozsa,,Sydney 2000,Swimming,200m breaststroke men
+13,JPN,akira hayashi,,Sydney 2000,Swimming,200m breaststroke men
+14,SWE,martin gustavsson,,Sydney 2000,Swimming,200m breaststroke men
+15,KGZ,aleksandr tkachev,,Sydney 2000,Swimming,200m breaststroke men
+16,JPN,kosuke kitajima,,Sydney 2000,Swimming,200m breaststroke men
+17,POL,marek krawczyk,,Sydney 2000,Swimming,200m breaststroke men
+18,LAT,valerijs kalmikovs,,Sydney 2000,Swimming,200m breaststroke men
+19,RUS,roman sloudnov,,Sydney 2000,Swimming,200m breaststroke men
+20,USA,tom wilkens,,Sydney 2000,Swimming,200m breaststroke men
+21,BLR,aleksandr gukov,,Sydney 2000,Swimming,200m breaststroke men
+22,NED,benno gerrit kuipers,,Sydney 2000,Swimming,200m breaststroke men
+23,GBR,adam whitehead,,Sydney 2000,Swimming,200m breaststroke men
+24,ISL,jakob johann sveinsson,,Sydney 2000,Swimming,200m breaststroke men
+25,POR,jose couto,,Sydney 2000,Swimming,200m breaststroke men
+26,IRL,andrew bree,,Sydney 2000,Swimming,200m breaststroke men
+27,UKR,oleh lisohor,,Sydney 2000,Swimming,200m breaststroke men
+28,KOR,gyeong-hwan jo,,Sydney 2000,Swimming,200m breaststroke men
+29,TPE,tsung-chueh li,,Sydney 2000,Swimming,200m breaststroke men
+30,NZL,steven ferguson,,Sydney 2000,Swimming,200m breaststroke men
+31,ISR,tal stricker,,Sydney 2000,Swimming,200m breaststroke men
+32,EST,raiko pachel,,Sydney 2000,Swimming,200m breaststroke men
+33,FIN,jarno pihlava,,Sydney 2000,Swimming,200m breaststroke men
+34,ESA,francisco suriano siu chon him,,Sydney 2000,Swimming,200m breaststroke men
+35,BAH,jeremy knowles,,Sydney 2000,Swimming,200m breaststroke men
+36,ARG,andres biccoca,,Sydney 2000,Swimming,200m breaststroke men
+37,CHN,yi zhu,,Sydney 2000,Swimming,200m breaststroke men
+38,GUA,alvaro fortuny lopez,,Sydney 2000,Swimming,200m breaststroke men
+39,INA,muhammad akbar nasution,,Sydney 2000,Swimming,200m breaststroke men
+40,THA,ratapong sirisanont,,Sydney 2000,Swimming,200m breaststroke men
+41,HKG,chi kin tam,,Sydney 2000,Swimming,200m breaststroke men
+42,CRC,juan jose madrigal,,Sydney 2000,Swimming,200m breaststroke men
+43,MAS,elvin chia,,Sydney 2000,Swimming,200m breaststroke men
+44,VIE,ngoc anh nguyen,,Sydney 2000,Swimming,200m breaststroke men
+45,UZB,sergey voytsekhovich,,Sydney 2000,Swimming,200m breaststroke men
+46,ZAM,leonard ngoma,,Sydney 2000,Swimming,200m breaststroke men
+47,GER,jens kruppa,Did not start,Sydney 2000,Swimming,200m breaststroke men
+48,MDA,vadim tatarov,Did not start,Sydney 2000,Swimming,200m breaststroke men
+0,HUN,agnes kovacs,,Sydney 2000,Swimming,200m breaststroke women
+1,USA,kristy kowal,,Sydney 2000,Swimming,200m breaststroke women
+2,USA,amanda beard,,Sydney 2000,Swimming,200m breaststroke women
+3,CHN,hui qi,,Sydney 2000,Swimming,200m breaststroke women
+4,RUS,olga bakaldina,,Sydney 2000,Swimming,200m breaststroke women
+5,RSA,sarah poewe,,Sydney 2000,Swimming,200m breaststroke women
+6,JPN,masami tanaka,,Sydney 2000,Swimming,200m breaststroke women
+7,CHN,xuejuan luo,,Sydney 2000,Swimming,200m breaststroke women
+8,FRA,karine bremond,,Sydney 2000,Swimming,200m breaststroke women
+9,AUS,caroline hildreth,,Sydney 2000,Swimming,200m breaststroke women
+10,KOR,hyo-jin ku,,Sydney 2000,Swimming,200m breaststroke women
+11,GER,anne poleska,,Sydney 2000,Swimming,200m breaststroke women
+12,CAN,christin petelski,,Sydney 2000,Swimming,200m breaststroke women
+13,AUS,rebecca brown,,Sydney 2000,Swimming,200m breaststroke women
+14,POL,alicja peczak,,Sydney 2000,Swimming,200m breaststroke women
+15,JPN,junko isoda,,Sydney 2000,Swimming,200m breaststroke women
+16,ROU,beatrice caslaru,,Sydney 2000,Swimming,200m breaststroke women
+17,GER,ina hueging,,Sydney 2000,Swimming,200m breaststroke women
+18,AUT,elvira fischer,,Sydney 2000,Swimming,200m breaststroke women
+19,RSA,penelope heyns,,Sydney 2000,Swimming,200m breaststroke women
+20,BEL,brigitte becue,,Sydney 2000,Swimming,200m breaststroke women
+21,SUI,agata czaplicki,,Sydney 2000,Swimming,200m breaststroke women
+22,GBR,jaime macleod,,Sydney 2000,Swimming,200m breaststroke women
+23,TUR,ilkay dikmen,,Sydney 2000,Swimming,200m breaststroke women
+24,COL,isabel cristina ceballos,,Sydney 2000,Swimming,200m breaststroke women
+25,UKR,inna nikitina,,Sydney 2000,Swimming,200m breaststroke women
+26,MAS,yi ting siow,,Sydney 2000,Swimming,200m breaststroke women
+27,LAT,margarita kalmikova,,Sydney 2000,Swimming,200m breaststroke women
+28,MEX,adriana rebeca marmolejo vargas,,Sydney 2000,Swimming,200m breaststroke women
+29,SGP,nicolette teo,,Sydney 2000,Swimming,200m breaststroke women
+30,PHI,jenny rose guerrero,,Sydney 2000,Swimming,200m breaststroke women
+31,ISL,iris edda heimisdottir,,Sydney 2000,Swimming,200m breaststroke women
+32,KGZ,olga moltchanova,,Sydney 2000,Swimming,200m breaststroke women
+33,CUB,imaday nunez gonzalez,,Sydney 2000,Swimming,200m breaststroke women
+34,UZB,anastasiya korolyova,,Sydney 2000,Swimming,200m breaststroke women
+35,ESP,lourdes becerra,Did not start,Sydney 2000,Swimming,200m breaststroke women
+0,USA,tom malchow,,Sydney 2000,Swimming,200m butterfly men
+1,UKR,denys sylantiev,,Sydney 2000,Swimming,200m butterfly men
+2,AUS,justin norris,,Sydney 2000,Swimming,200m butterfly men
+3,RUS,anatoly polyakov,,Sydney 2000,Swimming,200m butterfly men
+4,USA,michael phelps,,Sydney 2000,Swimming,200m butterfly men
+5,GBR,steve parry,,Sydney 2000,Swimming,200m butterfly men
+6,RUS,denis pankratov,,Sydney 2000,Swimming,200m butterfly men
+7,FRA,franck esposito,,Sydney 2000,Swimming,200m butterfly men
+8,JPN,takashi yamamoto,,Sydney 2000,Swimming,200m butterfly men
+9,GBR,james hickman,,Sydney 2000,Swimming,200m butterfly men
+10,AUS,heath ramsay,,Sydney 2000,Swimming,200m butterfly men
+11,JPN,hisayoshi tanaka,,Sydney 2000,Swimming,200m butterfly men
+12,PUR,andrew livingston conners,,Sydney 2000,Swimming,200m butterfly men
+13,NED,stefan aartsen,,Sydney 2000,Swimming,200m butterfly men
+14,GER,thomas rupprath,,Sydney 2000,Swimming,200m butterfly men
+15,UKR,sergiy fesenko,,Sydney 2000,Swimming,200m butterfly men
+16,ROU,ioan stefan gherghel,,Sydney 2000,Swimming,200m butterfly men
+17,CAN,shamek pietucha,,Sydney 2000,Swimming,200m butterfly men
+18,KOR,kyu-chul han,,Sydney 2000,Swimming,200m butterfly men
+19,MEX,juan jose veloz,,Sydney 2000,Swimming,200m butterfly men
+20,SCG,vladan markovic,,Sydney 2000,Swimming,200m butterfly men
+21,MAS,anthony ang,,Sydney 2000,Swimming,200m butterfly men
+22,ESP,jorge perez salinas,,Sydney 2000,Swimming,200m butterfly men
+23,HUN,viktor bodrogi,,Sydney 2000,Swimming,200m butterfly men
+24,GRE,ioannis drymonakos,,Sydney 2000,Swimming,200m butterfly men
+25,RSA,theo verster,,Sydney 2000,Swimming,200m butterfly men
+26,CUB,gunter rodriguez,,Sydney 2000,Swimming,200m butterfly men
+27,AUT,michael windisch,,Sydney 2000,Swimming,200m butterfly men
+28,MKD,zoran lazarovski,,Sydney 2000,Swimming,200m butterfly men
+29,ITA,massimiliano eroli,,Sydney 2000,Swimming,200m butterfly men
+30,ISR,michael halika,,Sydney 2000,Swimming,200m butterfly men
+31,HKG,mark kin ming kwok,,Sydney 2000,Swimming,200m butterfly men
+32,CHN,xufeng xie,,Sydney 2000,Swimming,200m butterfly men
+33,FIN,tero valimaa,,Sydney 2000,Swimming,200m butterfly men
+34,TPE,cheng-hua tseng,,Sydney 2000,Swimming,200m butterfly men
+35,PER,juan pablo valdivieso,,Sydney 2000,Swimming,200m butterfly men
+36,IRL,colin lowth,,Sydney 2000,Swimming,200m butterfly men
+37,THA,dulyarit phuangthong,,Sydney 2000,Swimming,200m butterfly men
+38,CRO,lovrenco franicevic,,Sydney 2000,Swimming,200m butterfly men
+39,BUL,georgi palazov,,Sydney 2000,Swimming,200m butterfly men
+40,KGZ,konstantin andriouchine,,Sydney 2000,Swimming,200m butterfly men
+41,INA,albert sutanto,,Sydney 2000,Swimming,200m butterfly men
+42,ECU,roberto delgado,,Sydney 2000,Swimming,200m butterfly men
+43,MDA,dumitru zastoico,,Sydney 2000,Swimming,200m butterfly men
+44,UZB,dmitriy tsutskarev,,Sydney 2000,Swimming,200m butterfly men
+45,SYR,fadi kouzmah,,Sydney 2000,Swimming,200m butterfly men
+0,USA,misty hyman,,Sydney 2000,Swimming,200m butterfly women
+1,AUS,susan o'neill,,Sydney 2000,Swimming,200m butterfly women
+2,AUS,petria thomas,,Sydney 2000,Swimming,200m butterfly women
+3,DEN,mette jacobsen,,Sydney 2000,Swimming,200m butterfly women
+4,POL,otylia jedrzejczak,,Sydney 2000,Swimming,200m butterfly women
+5,USA,kaitlin sandeno,,Sydney 2000,Swimming,200m butterfly women
+6,JPN,yuko nakanishi,,Sydney 2000,Swimming,200m butterfly women
+7,JPN,maki mita,,Sydney 2000,Swimming,200m butterfly women
+8,ESP,mireia garcia,,Sydney 2000,Swimming,200m butterfly women
+9,GBR,georgina lee,,Sydney 2000,Swimming,200m butterfly women
+10,GBR,margaretha pedder,,Sydney 2000,Swimming,200m butterfly women
+11,RSA,amanda loots,,Sydney 2000,Swimming,200m butterfly women
+12,FRA,cecile jeanson,,Sydney 2000,Swimming,200m butterfly women
+13,DEN,sophia skou,,Sydney 2000,Swimming,200m butterfly women
+14,NZL,elizabeth van welie,,Sydney 2000,Swimming,200m butterfly women
+15,HUN,eva risztov,,Sydney 2000,Swimming,200m butterfly women
+16,CAN,jen button,,Sydney 2000,Swimming,200m butterfly women
+17,RUS,ekaterina vinogradova,,Sydney 2000,Swimming,200m butterfly women
+18,CHN,limin liu,,Sydney 2000,Swimming,200m butterfly women
+19,MKD,mirjana bosevska,,Sydney 2000,Swimming,200m butterfly women
+20,CHN,yin liu,,Sydney 2000,Swimming,200m butterfly women
+21,CAN,jessica deglau,,Sydney 2000,Swimming,200m butterfly women
+22,AUT,petra zahrl,,Sydney 2000,Swimming,200m butterfly women
+23,UKR,zhanna lozumyrska,,Sydney 2000,Swimming,200m butterfly women
+24,ESP,maria pelaez,,Sydney 2000,Swimming,200m butterfly women
+25,POL,anna uryniuk,,Sydney 2000,Swimming,200m butterfly women
+26,POR,raquel felgueiras,,Sydney 2000,Swimming,200m butterfly women
+27,GER,franziska van almsick,,Sydney 2000,Swimming,200m butterfly women
+28,TPE,shu-tzu hsieh,,Sydney 2000,Swimming,200m butterfly women
+29,CYP,natalia roubina,,Sydney 2000,Swimming,200m butterfly women
+30,GRE,zambia melakhroinou,,Sydney 2000,Swimming,200m butterfly women
+31,SGP,christel bouvron,,Sydney 2000,Swimming,200m butterfly women
+32,HKG,wing suet chan,,Sydney 2000,Swimming,200m butterfly women
+33,CRO,tinka dancevic,,Sydney 2000,Swimming,200m butterfly women
+34,ARG,ana carolina aguilera,,Sydney 2000,Swimming,200m butterfly women
+35,JOR,hana majaj,,Sydney 2000,Swimming,200m butterfly women
+0,NED,pieter van den hoogenband,,Sydney 2000,Swimming,200m freestyle men
+1,AUS,ian thorpe,,Sydney 2000,Swimming,200m freestyle men
+2,ITA,massimiliano rosolino,,Sydney 2000,Swimming,200m freestyle men
+3,USA,josh davis,,Sydney 2000,Swimming,200m freestyle men
+4,GBR,paul rory palmer,,Sydney 2000,Swimming,200m freestyle men
+5,GBR,james salter,,Sydney 2000,Swimming,200m freestyle men
+6,CAN,rick say,,Sydney 2000,Swimming,200m freestyle men
+7,AUS,grant hackett,,Sydney 2000,Swimming,200m freestyle men
+8,USA,scott goldblatt,,Sydney 2000,Swimming,200m freestyle men
+9,RUS,andrey kapralov,,Sydney 2000,Swimming,200m freestyle men
+10,HUN,bela szabados,,Sydney 2000,Swimming,200m freestyle men
+11,BLR,igor koleda,,Sydney 2000,Swimming,200m freestyle men
+12,GER,stefan herbst,,Sydney 2000,Swimming,200m freestyle men
+13,HUN,attila zubor,,Sydney 2000,Swimming,200m freestyle men
+14,ISL,orn arnarson,,Sydney 2000,Swimming,200m freestyle men
+15,GER,stefan pohl,,Sydney 2000,Swimming,200m freestyle men
+16,ROU,dragos cristian coman,,Sydney 2000,Swimming,200m freestyle men
+17,CZE,kvetoslav svoboda,,Sydney 2000,Swimming,200m freestyle men
+18,NED,martijn zuijdweg,,Sydney 2000,Swimming,200m freestyle men
+19,DEN,jacob carstensen,,Sydney 2000,Swimming,200m freestyle men
+20,CAN,mark johnston,,Sydney 2000,Swimming,200m freestyle men
+21,LTU,arunas savickas,,Sydney 2000,Swimming,200m freestyle men
+22,SGP,mark chay,,Sydney 2000,Swimming,200m freestyle men
+23,UKR,rostyslav svanidze,,Sydney 2000,Swimming,200m freestyle men
+24,POR,ricardo pedroso,,Sydney 2000,Swimming,200m freestyle men
+25,HKG,mark kin ming kwok,,Sydney 2000,Swimming,200m freestyle men
+26,BAR,damian alleyne,,Sydney 2000,Swimming,200m freestyle men
+27,KGZ,dmitri kuzmin,,Sydney 2000,Swimming,200m freestyle men
+28,KOR,cheol woo,,Sydney 2000,Swimming,200m freestyle men
+29,MEX,javier diaz,,Sydney 2000,Swimming,200m freestyle men
+30,MDA,andrei cecan,,Sydney 2000,Swimming,200m freestyle men
+31,NZL,jonathon duncan,,Sydney 2000,Swimming,200m freestyle men
+32,BRA,rodrigo castro,,Sydney 2000,Swimming,200m freestyle men
+33,COL,fernando jacome,,Sydney 2000,Swimming,200m freestyle men
+34,VEN,francisco paez,,Sydney 2000,Swimming,200m freestyle men
+35,GRE,dimitrios manganas,,Sydney 2000,Swimming,200m freestyle men
+36,MAS,allen ong,,Sydney 2000,Swimming,200m freestyle men
+37,TPE,nien pin wu,,Sydney 2000,Swimming,200m freestyle men
+38,ISV,george gleason,,Sydney 2000,Swimming,200m freestyle men
+39,ZIM,glen walshaw,,Sydney 2000,Swimming,200m freestyle men
+40,SCG,nikola kalabic,,Sydney 2000,Swimming,200m freestyle men
+41,TUR,aytekin mindan,,Sydney 2000,Swimming,200m freestyle men
+42,THA,vicha ratanachote,,Sydney 2000,Swimming,200m freestyle men
+43,UZB,oleg tsvetkovskiy,,Sydney 2000,Swimming,200m freestyle men
+44,FIJ,carl probert,,Sydney 2000,Swimming,200m freestyle men
+45,EGY,mahmoud elwany,,Sydney 2000,Swimming,200m freestyle men
+46,TTO,sebastien paddington,,Sydney 2000,Swimming,200m freestyle men
+47,KAZ,andrey kvassov,,Sydney 2000,Swimming,200m freestyle men
+48,CYP,alexandros aresti,,Sydney 2000,Swimming,200m freestyle men
+49,IND,hakimuddin shabbir habibulla,,Sydney 2000,Swimming,200m freestyle men
+50,AND,santiago deu sandoval,,Sydney 2000,Swimming,200m freestyle men
+51,RSA,ryk neethling,Did not start,Sydney 2000,Swimming,200m freestyle men
+52,RUS,dmitry chernyshov,Did not start,Sydney 2000,Swimming,200m freestyle men
+0,AUS,susan o'neill,,Sydney 2000,Swimming,200m freestyle women
+1,SVK,martina moravcova,,Sydney 2000,Swimming,200m freestyle women
+2,CRC,claudia poll ahrens,,Sydney 2000,Swimming,200m freestyle women
+3,GER,kerstin kielgass,,Sydney 2000,Swimming,200m freestyle women
+4,RUS,nadezhda chemezova,,Sydney 2000,Swimming,200m freestyle women
+5,BLR,natalia baranovskaya-khatziloizou,,Sydney 2000,Swimming,200m freestyle women
+6,ROU,camelia alina potec,,Sydney 2000,Swimming,200m freestyle women
+7,CHN,luna wang,,Sydney 2000,Swimming,200m freestyle women
+8,RSA,helene muller,,Sydney 2000,Swimming,200m freestyle women
+9,ITA,sara parise,,Sydney 2000,Swimming,200m freestyle women
+10,GER,franziska van almsick,,Sydney 2000,Swimming,200m freestyle women
+11,USA,lindsay benko,,Sydney 2000,Swimming,200m freestyle women
+12,ZIM,mandy leach,,Sydney 2000,Swimming,200m freestyle women
+13,AUS,giaan rooney,,Sydney 2000,Swimming,200m freestyle women
+14,NED,carla louise geurts,,Sydney 2000,Swimming,200m freestyle women
+15,USA,rada owen,,Sydney 2000,Swimming,200m freestyle women
+16,CHN,yu-ting yang,,Sydney 2000,Swimming,200m freestyle women
+17,CAN,jessica deglau,,Sydney 2000,Swimming,200m freestyle women
+18,GBR,karen pickering,,Sydney 2000,Swimming,200m freestyle women
+19,FRA,solenne figues,,Sydney 2000,Swimming,200m freestyle women
+20,EGY,rania elwani,,Sydney 2000,Swimming,200m freestyle women
+21,BEL,nina van koeckhoven,,Sydney 2000,Swimming,200m freestyle women
+22,CAN,laura nicholls,,Sydney 2000,Swimming,200m freestyle women
+23,ESP,laura roca,,Sydney 2000,Swimming,200m freestyle women
+24,GRE,zoi dimoschaki,,Sydney 2000,Swimming,200m freestyle women
+25,UKR,olena lapunova,,Sydney 2000,Swimming,200m freestyle women
+26,ISL,lara hrund bjargardottir,,Sydney 2000,Swimming,200m freestyle women
+27,IRL,chantal gibney,,Sydney 2000,Swimming,200m freestyle women
+28,MKD,vesna stojanovska,,Sydney 2000,Swimming,200m freestyle women
+29,THA,pilin tachakittiranan,,Sydney 2000,Swimming,200m freestyle women
+30,EST,elina partoka,,Sydney 2000,Swimming,200m freestyle women
+31,TPE,shu-min tsai,,Sydney 2000,Swimming,200m freestyle women
+32,KOR,ju-hui no,,Sydney 2000,Swimming,200m freestyle women
+33,BUL,ivanka moralieva,,Sydney 2000,Swimming,200m freestyle women
+34,KGZ,anna korshikova,,Sydney 2000,Swimming,200m freestyle women
+35,CRO,petra banovic,,Sydney 2000,Swimming,200m freestyle women
+36,IND,nisha millet,,Sydney 2000,Swimming,200m freestyle women
+37,HON,pamela vasquez benavides,,Sydney 2000,Swimming,200m freestyle women
+38,SYR,marella mamoun,,Sydney 2000,Swimming,200m freestyle women
+39,ARG,florencia szigeti,Disqualified,Sydney 2000,Swimming,200m freestyle women
+40,GBR,karen legg,Did not start,Sydney 2000,Swimming,200m freestyle women
+0,ITA,massimiliano rosolino,,Sydney 2000,Swimming,200m individual medley men
+1,USA,tom dolan,,Sydney 2000,Swimming,200m individual medley men
+2,USA,tom wilkens,,Sydney 2000,Swimming,200m individual medley men
+3,HUN,attila czene,,Sydney 2000,Swimming,200m individual medley men
+4,NED,marcel wouda,,Sydney 2000,Swimming,200m individual medley men
+5,GER,christian keller,,Sydney 2000,Swimming,200m individual medley men
+6,FRA,xavier marchand,,Sydney 2000,Swimming,200m individual medley men
+7,FIN,jani sievinen,,Sydney 2000,Swimming,200m individual medley men
+8,AUS,matthew stephen dunn,,Sydney 2000,Swimming,200m individual medley men
+9,CAN,curtis allen myden,,Sydney 2000,Swimming,200m individual medley men
+10,ROU,cezar alexandru badita,,Sydney 2000,Swimming,200m individual medley men
+11,GER,jens kruppa,,Sydney 2000,Swimming,200m individual medley men
+12,ESP,jordi carrasco,,Sydney 2000,Swimming,200m individual medley men
+13,AUS,robert van der zant,,Sydney 2000,Swimming,200m individual medley men
+14,CAN,brian johns,,Sydney 2000,Swimming,200m individual medley men
+15,JPN,jiro miki,,Sydney 2000,Swimming,200m individual medley men
+16,RSA,terence parkin,,Sydney 2000,Swimming,200m individual medley men
+17,SLO,peter mankoc,,Sydney 2000,Swimming,200m individual medley men
+18,HUN,istvan bathazi,,Sydney 2000,Swimming,200m individual medley men
+19,RSA,theo verster,,Sydney 2000,Swimming,200m individual medley men
+20,CZE,jan vitazka,,Sydney 2000,Swimming,200m individual medley men
+21,GRE,ioannis kokkodis,,Sydney 2000,Swimming,200m individual medley men
+22,NZL,dean kent,,Sydney 2000,Swimming,200m individual medley men
+23,LAT,valerijs kalmikovs,,Sydney 2000,Swimming,200m individual medley men
+24,CHN,xufeng xie,,Sydney 2000,Swimming,200m individual medley men
+25,TTO,george bovell,,Sydney 2000,Swimming,200m individual medley men
+26,AUT,michael windisch,,Sydney 2000,Swimming,200m individual medley men
+27,SUI,yves platel,,Sydney 2000,Swimming,200m individual medley men
+28,KAZ,grigoriy matuzkov,,Sydney 2000,Swimming,200m individual medley men
+29,JPN,susumu tabuchi,,Sydney 2000,Swimming,200m individual medley men
+30,UKR,artem goncharenko,,Sydney 2000,Swimming,200m individual medley men
+31,UZB,oleg pukhnatiy,,Sydney 2000,Swimming,200m individual medley men
+32,KOR,kyu-chul han,,Sydney 2000,Swimming,200m individual medley men
+33,PUR,arsenio lopez,,Sydney 2000,Swimming,200m individual medley men
+34,BAH,jeremy knowles,,Sydney 2000,Swimming,200m individual medley men
+35,CRO,kresimir cac,,Sydney 2000,Swimming,200m individual medley men
+36,MEX,javier diaz,,Sydney 2000,Swimming,200m individual medley men
+37,MKD,aleksandar miladinovski,,Sydney 2000,Swimming,200m individual medley men
+38,ISR,michael halika,,Sydney 2000,Swimming,200m individual medley men
+39,KGZ,andrei pakin,,Sydney 2000,Swimming,200m individual medley men
+40,BER,stephen fahy,,Sydney 2000,Swimming,200m individual medley men
+41,ISV,george gleason,,Sydney 2000,Swimming,200m individual medley men
+42,THA,phathanyu yimsumruay,,Sydney 2000,Swimming,200m individual medley men
+43,TPE,nien pin wu,,Sydney 2000,Swimming,200m individual medley men
+44,ARG,walter dario arciprete,,Sydney 2000,Swimming,200m individual medley men
+45,HKG,lik sun fong,,Sydney 2000,Swimming,200m individual medley men
+46,MDA,andrei zaharov,,Sydney 2000,Swimming,200m individual medley men
+47,TUR,ugur orel oral,,Sydney 2000,Swimming,200m individual medley men
+48,SCG,djordje filipovic,,Sydney 2000,Swimming,200m individual medley men
+49,INA,felix christiadi sutanto,,Sydney 2000,Swimming,200m individual medley men
+50,EGY,haitham hassan-ma,,Sydney 2000,Swimming,200m individual medley men
+51,URU,francisco picasso,,Sydney 2000,Swimming,200m individual medley men
+52,CYP,georgios dimitriadis,,Sydney 2000,Swimming,200m individual medley men
+53,MAR,saad khalloqi,,Sydney 2000,Swimming,200m individual medley men
+54,KUW,sultan alotaibi,,Sydney 2000,Swimming,200m individual medley men
+55,JOR,omar abu-fares,,Sydney 2000,Swimming,200m individual medley men
+0,UKR,yana klochkova,00:02:10.680,Sydney 2000,Swimming,200m individual medley women
+1,ROU,beatrice caslaru,00:02:12.570,Sydney 2000,Swimming,200m individual medley women
+2,USA,cristina teuscher,00:02:13.320,Sydney 2000,Swimming,200m individual medley women
+3,CAN,marianne luise limpert,00:02:13.440,Sydney 2000,Swimming,200m individual medley women
+4,CAN,joanne susan malar,00:02:13.700,Sydney 2000,Swimming,200m individual medley women
+5,RUS,oxana verevka,00:02:13.880,Sydney 2000,Swimming,200m individual medley women
+6,USA,gabrielle rose,00:02:14.820,Sydney 2000,Swimming,200m individual medley women
+7,JPN,tomoko hagiwara,00:02:15.640,Sydney 2000,Swimming,200m individual medley women
+8,CHN,yan chen,,Sydney 2000,Swimming,200m individual medley women
+9,ITA,federica biscia,,Sydney 2000,Swimming,200m individual medley women
+10,AUS,elli overton,,Sydney 2000,Swimming,200m individual medley women
+11,GBR,susan rolph,,Sydney 2000,Swimming,200m individual medley women
+12,CHN,shu zhan,,Sydney 2000,Swimming,200m individual medley women
+13,BEL,yseult gervy,,Sydney 2000,Swimming,200m individual medley women
+14,GER,sabine herbst,,Sydney 2000,Swimming,200m individual medley women
+15,GER,nicole hetzer,,Sydney 2000,Swimming,200m individual medley women
+16,CZE,hana cerna,,Sydney 2000,Swimming,200m individual medley women
+17,ZIM,kirsty leigh coventry,,Sydney 2000,Swimming,200m individual medley women
+18,SLO,alenka kejzar,,Sydney 2000,Swimming,200m individual medley women
+19,NZL,helen norfolk,,Sydney 2000,Swimming,200m individual medley women
+20,ISR,vered borochovski,,Sydney 2000,Swimming,200m individual medley women
+21,SUR,carolyn adel,,Sydney 2000,Swimming,200m individual medley women
+22,SGP,joscelin yeo,,Sydney 2000,Swimming,200m individual medley women
+23,GBR,kathryn evans,,Sydney 2000,Swimming,200m individual medley women
+24,AUS,anna windsor,,Sydney 2000,Swimming,200m individual medley women
+25,JPN,yasuko tajima,,Sydney 2000,Swimming,200m individual medley women
+26,KOR,yoosun nam,,Sydney 2000,Swimming,200m individual medley women
+27,KAZ,marina mulyayeva,,Sydney 2000,Swimming,200m individual medley women
+28,ARG,maria virginia garrone,,Sydney 2000,Swimming,200m individual medley women
+29,GRE,aikaterini sarakatsani,,Sydney 2000,Swimming,200m individual medley women
+30,MAS,wai yen sia,,Sydney 2000,Swimming,200m individual medley women
+31,KGZ,alexandra zertsalova,,Sydney 2000,Swimming,200m individual medley women
+32,CRO,smiljana marinovic,,Sydney 2000,Swimming,200m individual medley women
+33,ROU,diana mocanu,,Sydney 2000,Swimming,200m individual medley women
+34,AND,meritxell sabate,,Sydney 2000,Swimming,200m individual medley women
+35,NCA,fernanda jose cuadra delgado,,Sydney 2000,Swimming,200m individual medley women
+0,AUS,ian thorpe,,Sydney 2000,Swimming,400m freestyle men
+1,ITA,massimiliano rosolino,,Sydney 2000,Swimming,400m freestyle men
+2,USA,klete keller,,Sydney 2000,Swimming,400m freestyle men
+3,ITA,emiliano brembilla,,Sydney 2000,Swimming,400m freestyle men
+4,ROU,dragos cristian coman,,Sydney 2000,Swimming,400m freestyle men
+5,USA,chad carvin,,Sydney 2000,Swimming,400m freestyle men
+6,AUS,grant hackett,,Sydney 2000,Swimming,400m freestyle men
+7,RSA,ryk neethling,,Sydney 2000,Swimming,400m freestyle men
+8,GER,heiko hell,,Sydney 2000,Swimming,400m freestyle men
+9,GBR,paul rory palmer,,Sydney 2000,Swimming,400m freestyle men
+10,JPN,masato hirano,,Sydney 2000,Swimming,400m freestyle men
+11,FRA,nicolas rostoucher,,Sydney 2000,Swimming,400m freestyle men
+12,GBR,james salter,,Sydney 2000,Swimming,400m freestyle men
+13,RUS,alexei filipets,,Sydney 2000,Swimming,400m freestyle men
+14,CAN,rick say,,Sydney 2000,Swimming,400m freestyle men
+15,UKR,ihor snitko,,Sydney 2000,Swimming,400m freestyle men
+16,BRA,luiz lima,,Sydney 2000,Swimming,400m freestyle men
+17,DEN,jacob carstensen,,Sydney 2000,Swimming,400m freestyle men
+18,CZE,vlastimil burda,,Sydney 2000,Swimming,400m freestyle men
+19,GRE,spyridon gianniotis,,Sydney 2000,Swimming,400m freestyle men
+20,CAN,mark johnston,,Sydney 2000,Swimming,400m freestyle men
+21,BLR,dmitry koptur,,Sydney 2000,Swimming,400m freestyle men
+22,VEN,ricardo monasterio,,Sydney 2000,Swimming,400m freestyle men
+23,THA,torwai sethsothorn,,Sydney 2000,Swimming,400m freestyle men
+24,CHN,hao jin,,Sydney 2000,Swimming,400m freestyle men
+25,BAR,damian alleyne,,Sydney 2000,Swimming,400m freestyle men
+26,KOR,cheol woo,,Sydney 2000,Swimming,400m freestyle men
+27,MEX,jorge carral armella,,Sydney 2000,Swimming,400m freestyle men
+28,NZL,jonathon duncan,,Sydney 2000,Swimming,400m freestyle men
+29,HKG,mark kin ming kwok,,Sydney 2000,Swimming,400m freestyle men
+30,HUN,zoltan szilagyi,,Sydney 2000,Swimming,400m freestyle men
+31,ARG,agustin fiorilli,,Sydney 2000,Swimming,400m freestyle men
+32,UKR,igor chervynskiy,,Sydney 2000,Swimming,400m freestyle men
+33,BUL,petar stoychev,,Sydney 2000,Swimming,400m freestyle men
+34,SLO,jure bucar,,Sydney 2000,Swimming,400m freestyle men
+35,PHI,juan carlos miguel mendoza,,Sydney 2000,Swimming,400m freestyle men
+36,SGP,ju wei sng,,Sydney 2000,Swimming,400m freestyle men
+37,MDA,victor rogut,,Sydney 2000,Swimming,400m freestyle men
+38,TUR,aytekin mindan,,Sydney 2000,Swimming,400m freestyle men
+39,CHI,giancarlo zolezzi,,Sydney 2000,Swimming,400m freestyle men
+40,TPE,yun-lun li,,Sydney 2000,Swimming,400m freestyle men
+41,AUT,hannes kalteis,,Sydney 2000,Swimming,400m freestyle men
+42,MAS,dieung anak manggang,,Sydney 2000,Swimming,400m freestyle men
+43,EGY,hani el teir,,Sydney 2000,Swimming,400m freestyle men
+44,KGZ,ivan ivanov,,Sydney 2000,Swimming,400m freestyle men
+45,NCA,marcelino j lopez soza,,Sydney 2000,Swimming,400m freestyle men
+0,USA,brooke bennett,,Sydney 2000,Swimming,400m freestyle women
+1,USA,diana munz,,Sydney 2000,Swimming,400m freestyle women
+2,CRC,claudia poll ahrens,,Sydney 2000,Swimming,400m freestyle women
+3,JAM,janelle atkinson,,Sydney 2000,Swimming,400m freestyle women
+4,RUS,nadezhda chemezova,,Sydney 2000,Swimming,400m freestyle women
+5,GER,hannah stockbauer,,Sydney 2000,Swimming,400m freestyle women
+6,NED,carla louise geurts,,Sydney 2000,Swimming,400m freestyle women
+7,CHN,hua chen,,Sydney 2000,Swimming,400m freestyle women
+8,SUI,flavia rigamonti,,Sydney 2000,Swimming,400m freestyle women
+9,NED,kirsten vlieghuis,,Sydney 2000,Swimming,400m freestyle women
+10,ROU,camelia alina potec,,Sydney 2000,Swimming,400m freestyle women
+11,JPN,sachiko yamada,,Sydney 2000,Swimming,400m freestyle women
+12,BLR,natalia baranovskaya-khatziloizou,,Sydney 2000,Swimming,400m freestyle women
+13,FRA,leatitia choux,,Sydney 2000,Swimming,400m freestyle women
+14,GER,kerstin kielgass,,Sydney 2000,Swimming,400m freestyle women
+15,ROU,simona paduraru,,Sydney 2000,Swimming,400m freestyle women
+16,RUS,irina oufimtseva,,Sydney 2000,Swimming,400m freestyle women
+17,AUS,kasey giteau,,Sydney 2000,Swimming,400m freestyle women
+18,CAN,karine legault,,Sydney 2000,Swimming,400m freestyle women
+19,BEL,sofie goffin,,Sydney 2000,Swimming,400m freestyle women
+20,SUI,chantal strasser,,Sydney 2000,Swimming,400m freestyle women
+21,GRE,artemis dafni,,Sydney 2000,Swimming,400m freestyle women
+22,JPN,yasuko tajima,,Sydney 2000,Swimming,400m freestyle women
+23,ESP,angels bardina,,Sydney 2000,Swimming,400m freestyle women
+24,TPE,chi-chan lin,,Sydney 2000,Swimming,400m freestyle women
+25,CZE,hana cerna,,Sydney 2000,Swimming,400m freestyle women
+26,AUS,sarah d'arcy,,Sydney 2000,Swimming,400m freestyle women
+27,ITA,sara goffi,,Sydney 2000,Swimming,400m freestyle women
+28,HUN,eva risztov,,Sydney 2000,Swimming,400m freestyle women
+29,BUL,ivanka moralieva,,Sydney 2000,Swimming,400m freestyle women
+30,MKD,vesna stojanovska,,Sydney 2000,Swimming,400m freestyle women
+31,UKR,olena lapunova,,Sydney 2000,Swimming,400m freestyle women
+32,MEX,patricia villarreal vargas,,Sydney 2000,Swimming,400m freestyle women
+33,IRL,chantal gibney,,Sydney 2000,Swimming,400m freestyle women
+34,KGZ,nataliya korabelnikova,,Sydney 2000,Swimming,400m freestyle women
+35,SGP,christel bouvron,,Sydney 2000,Swimming,400m freestyle women
+36,KOR,ju-hui no,,Sydney 2000,Swimming,400m freestyle women
+37,ISR,adi-maia bichman,,Sydney 2000,Swimming,400m freestyle women
+38,THA,pilin tachakittiranan,,Sydney 2000,Swimming,400m freestyle women
+0,USA,tom dolan,,Sydney 2000,Swimming,400m individual medley men
+1,USA,erik vendt,,Sydney 2000,Swimming,400m individual medley men
+2,CAN,curtis allen myden,,Sydney 2000,Swimming,400m individual medley men
+3,ITA,alessio boggiatto,,Sydney 2000,Swimming,400m individual medley men
+4,RSA,terence parkin,,Sydney 2000,Swimming,400m individual medley men
+5,AUS,justin norris,,Sydney 2000,Swimming,400m individual medley men
+6,ROU,cezar alexandru badita,,Sydney 2000,Swimming,400m individual medley men
+7,JPN,shinya taniguchi,,Sydney 2000,Swimming,400m individual medley men
+8,GER,jirka letzin,,Sydney 2000,Swimming,400m individual medley men
+9,HUN,istvan bathazi,,Sydney 2000,Swimming,400m individual medley men
+10,ISR,michael halika,,Sydney 2000,Swimming,400m individual medley men
+11,AUS,matthew stephen dunn,,Sydney 2000,Swimming,400m individual medley men
+12,JPN,susumu tabuchi,,Sydney 2000,Swimming,400m individual medley men
+13,FRA,johan le bihan,,Sydney 2000,Swimming,400m individual medley men
+14,ESP,frederik hviid,,Sydney 2000,Swimming,400m individual medley men
+15,NZL,dean kent,,Sydney 2000,Swimming,400m individual medley men
+16,RUS,alexey kovrigin,,Sydney 2000,Swimming,400m individual medley men
+17,SUI,yves platel,,Sydney 2000,Swimming,400m individual medley men
+18,ITA,massimiliano eroli,,Sydney 2000,Swimming,400m individual medley men
+19,GRE,ioannis kokkodis,,Sydney 2000,Swimming,400m individual medley men
+20,CHN,xufeng xie,,Sydney 2000,Swimming,400m individual medley men
+21,MDA,serghei mariniuc,,Sydney 2000,Swimming,400m individual medley men
+22,CZE,jan vitazka,,Sydney 2000,Swimming,400m individual medley men
+23,GBR,simon militis,,Sydney 2000,Swimming,400m individual medley men
+24,CHN,hao jin,,Sydney 2000,Swimming,400m individual medley men
+25,AUT,michael windisch,,Sydney 2000,Swimming,400m individual medley men
+26,FIN,jani sievinen,,Sydney 2000,Swimming,400m individual medley men
+27,UKR,deniz nazar,,Sydney 2000,Swimming,400m individual medley men
+28,CAN,owen von richter,,Sydney 2000,Swimming,400m individual medley men
+29,SLO,marko milenkovic,,Sydney 2000,Swimming,400m individual medley men
+30,BAH,jeremy knowles,,Sydney 2000,Swimming,400m individual medley men
+31,THA,torwai sethsothorn,,Sydney 2000,Swimming,400m individual medley men
+32,KOR,bang-hyun kim,,Sydney 2000,Swimming,400m individual medley men
+33,HKG,lik sun fong,,Sydney 2000,Swimming,400m individual medley men
+34,COL,alejandro bermudez,,Sydney 2000,Swimming,400m individual medley men
+35,TTO,george bovell,,Sydney 2000,Swimming,400m individual medley men
+36,PHI,juan carlos antonio piccio,,Sydney 2000,Swimming,400m individual medley men
+37,MEX,juan jose veloz,,Sydney 2000,Swimming,400m individual medley men
+38,KAZ,grigoriy matuzkov,,Sydney 2000,Swimming,400m individual medley men
+39,BUL,georgi palazov,,Sydney 2000,Swimming,400m individual medley men
+40,MAS,wan azlan wan abdullah,,Sydney 2000,Swimming,400m individual medley men
+41,CRO,sandro tomas,,Sydney 2000,Swimming,400m individual medley men
+42,TUN,oussama mellouli,,Sydney 2000,Swimming,400m individual medley men
+43,TPE,kuo-tung hsu,,Sydney 2000,Swimming,400m individual medley men
+44,MLT,john tabone,,Sydney 2000,Swimming,400m individual medley men
+0,UKR,yana klochkova,,Sydney 2000,Swimming,400m individual medley women
+1,JPN,yasuko tajima,,Sydney 2000,Swimming,400m individual medley women
+2,ROU,beatrice caslaru,,Sydney 2000,Swimming,400m individual medley women
+3,USA,kaitlin sandeno,,Sydney 2000,Swimming,400m individual medley women
+4,GER,nicole hetzer,,Sydney 2000,Swimming,400m individual medley women
+5,USA,maddy crippen,,Sydney 2000,Swimming,400m individual medley women
+6,CAN,joanne susan malar,,Sydney 2000,Swimming,400m individual medley women
+7,AUS,jennifer reilly,,Sydney 2000,Swimming,400m individual medley women
+8,CZE,hana cerna,,Sydney 2000,Swimming,400m individual medley women
+9,RUS,oxana verevka,,Sydney 2000,Swimming,400m individual medley women
+10,CHN,yan chen,,Sydney 2000,Swimming,400m individual medley women
+11,AUS,rachel harris,,Sydney 2000,Swimming,400m individual medley women
+12,NZL,helen norfolk,,Sydney 2000,Swimming,400m individual medley women
+13,ESP,lourdes becerra,,Sydney 2000,Swimming,400m individual medley women
+14,ITA,federica biscia,,Sydney 2000,Swimming,400m individual medley women
+15,GER,sabine herbst,,Sydney 2000,Swimming,400m individual medley women
+16,MKD,mirjana bosevska,,Sydney 2000,Swimming,400m individual medley women
+17,BEL,yseult gervy,,Sydney 2000,Swimming,400m individual medley women
+18,CHN,yin liu,,Sydney 2000,Swimming,400m individual medley women
+19,GRE,artemis dafni,,Sydney 2000,Swimming,400m individual medley women
+20,ARG,georgina bardach,,Sydney 2000,Swimming,400m individual medley women
+21,SUR,carolyn adel,,Sydney 2000,Swimming,400m individual medley women
+22,KOR,ji-hyun lee,,Sydney 2000,Swimming,400m individual medley women
+23,SVK,jana korbasova,,Sydney 2000,Swimming,400m individual medley women
+24,MAS,wai yen sia,,Sydney 2000,Swimming,400m individual medley women
+25,ISR,adi-maia bichman,,Sydney 2000,Swimming,400m individual medley women
+26,KGZ,alexandra zertsalova,,Sydney 2000,Swimming,400m individual medley women
+27,VIE,thi huong nguyen,,Sydney 2000,Swimming,400m individual medley women
+0,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+1,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+2,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+3,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+4,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+5,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+6,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+7,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+8,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+9,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+10,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+11,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+12,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+13,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+14,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+15,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+16,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+17,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+18,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+19,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+20,,,,Sydney 2000,Swimming,4x100m freestyle relay men
+21,,,Disqualified,Sydney 2000,Swimming,4x100m freestyle relay men
+22,,,Disqualified,Sydney 2000,Swimming,4x100m freestyle relay men
+0,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+1,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+2,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+3,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+4,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+5,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+6,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+7,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+8,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+9,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+10,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+11,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+12,,,,Sydney 2000,Swimming,4x100m freestyle relay women
+0,,,,Sydney 2000,Swimming,4x100m medley relay men
+1,,,,Sydney 2000,Swimming,4x100m medley relay men
+2,,,,Sydney 2000,Swimming,4x100m medley relay men
+3,,,,Sydney 2000,Swimming,4x100m medley relay men
+4,,,,Sydney 2000,Swimming,4x100m medley relay men
+5,,,,Sydney 2000,Swimming,4x100m medley relay men
+6,,,,Sydney 2000,Swimming,4x100m medley relay men
+7,,,,Sydney 2000,Swimming,4x100m medley relay men
+8,,,,Sydney 2000,Swimming,4x100m medley relay men
+9,,,,Sydney 2000,Swimming,4x100m medley relay men
+10,,,,Sydney 2000,Swimming,4x100m medley relay men
+11,,,,Sydney 2000,Swimming,4x100m medley relay men
+12,,,,Sydney 2000,Swimming,4x100m medley relay men
+13,,,,Sydney 2000,Swimming,4x100m medley relay men
+14,,,,Sydney 2000,Swimming,4x100m medley relay men
+15,,,,Sydney 2000,Swimming,4x100m medley relay men
+16,,,,Sydney 2000,Swimming,4x100m medley relay men
+17,,,,Sydney 2000,Swimming,4x100m medley relay men
+18,,,,Sydney 2000,Swimming,4x100m medley relay men
+19,,,,Sydney 2000,Swimming,4x100m medley relay men
+20,,,,Sydney 2000,Swimming,4x100m medley relay men
+21,,,,Sydney 2000,Swimming,4x100m medley relay men
+22,,,Disqualified,Sydney 2000,Swimming,4x100m medley relay men
+23,,,Did not start,Sydney 2000,Swimming,4x100m medley relay men
+0,,,,Sydney 2000,Swimming,4x100m medley relay women
+1,,,,Sydney 2000,Swimming,4x100m medley relay women
+2,,,,Sydney 2000,Swimming,4x100m medley relay women
+3,,,,Sydney 2000,Swimming,4x100m medley relay women
+4,,,,Sydney 2000,Swimming,4x100m medley relay women
+5,,,,Sydney 2000,Swimming,4x100m medley relay women
+6,,,,Sydney 2000,Swimming,4x100m medley relay women
+7,,,,Sydney 2000,Swimming,4x100m medley relay women
+8,,,,Sydney 2000,Swimming,4x100m medley relay women
+9,,,,Sydney 2000,Swimming,4x100m medley relay women
+10,,,,Sydney 2000,Swimming,4x100m medley relay women
+11,,,,Sydney 2000,Swimming,4x100m medley relay women
+12,,,,Sydney 2000,Swimming,4x100m medley relay women
+13,,,,Sydney 2000,Swimming,4x100m medley relay women
+14,,,,Sydney 2000,Swimming,4x100m medley relay women
+15,,,,Sydney 2000,Swimming,4x100m medley relay women
+16,,,,Sydney 2000,Swimming,4x100m medley relay women
+17,,,,Sydney 2000,Swimming,4x100m medley relay women
+0,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+1,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+2,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+3,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+4,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+5,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+6,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+7,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+8,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+9,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+10,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+11,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+12,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+13,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+14,,,,Sydney 2000,Swimming,4x200m freestyle relay men
+15,,,Disqualified,Sydney 2000,Swimming,4x200m freestyle relay men
+0,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+1,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+2,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+3,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+4,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+5,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+6,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+7,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+8,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+9,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+10,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+11,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+12,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+13,,,,Sydney 2000,Swimming,4x200m freestyle relay women
+14,,,Disqualified,Sydney 2000,Swimming,4x200m freestyle relay women
+0,USA,"gary hall, jr.",21.980,Sydney 2000,Swimming,50m freestyle men
+1,USA,anthony ervin,21.980,Sydney 2000,Swimming,50m freestyle men
+2,NED,pieter van den hoogenband,22.030,Sydney 2000,Swimming,50m freestyle men
+3,ITA,lorenzo vismara,22.110,Sydney 2000,Swimming,50m freestyle men
+4,POL,bartosz kizierowski,22.220,Sydney 2000,Swimming,50m freestyle men
+5,RUS,alexander popov,22.240,Sydney 2000,Swimming,50m freestyle men
+6,GBR,mark andrew foster,22.410,Sydney 2000,Swimming,50m freestyle men
+7,UKR,oleksandr volynets,22.510,Sydney 2000,Swimming,50m freestyle men
+8,RSA,brendon dedekind,,Sydney 2000,Swimming,50m freestyle men
+9,AUS,christopher john fydler,,Sydney 2000,Swimming,50m freestyle men
+10,RSA,roland schoeman,,Sydney 2000,Swimming,50m freestyle men
+11,NED,johan kenkhuis,,Sydney 2000,Swimming,50m freestyle men
+12,AUS,brett hawke,,Sydney 2000,Swimming,50m freestyle men
+13,SWE,stefan nystrand,,Sydney 2000,Swimming,50m freestyle men
+14,PUR,ricardo busquets healy,,Sydney 2000,Swimming,50m freestyle men
+15,RUS,denis pimankov,,Sydney 2000,Swimming,50m freestyle men
+16,CHN,chengji jiang,,Sydney 2000,Swimming,50m freestyle men
+17,KOR,min-seok kim,,Sydney 2000,Swimming,50m freestyle men
+18,ECU,julio santos,,Sydney 2000,Swimming,50m freestyle men
+19,BRA,fernando scherer,,Sydney 2000,Swimming,50m freestyle men
+20,ARG,jose martin meolans,,Sydney 2000,Swimming,50m freestyle men
+21,ALG,salim iles,,Sydney 2000,Swimming,50m freestyle men
+22,BRA,edvaldo silva filho,,Sydney 2000,Swimming,50m freestyle men
+23,ESP,eduardo lorente,,Sydney 2000,Swimming,50m freestyle men
+24,SLO,peter mankoc,,Sydney 2000,Swimming,50m freestyle men
+25,HUN,attila zubor,,Sydney 2000,Swimming,50m freestyle men
+26,CYP,stavros mihaelides,,Sydney 2000,Swimming,50m freestyle men
+27,GER,stephan kunzelmann,,Sydney 2000,Swimming,50m freestyle men
+28,EST,indrek sei,,Sydney 2000,Swimming,50m freestyle men
+29,UZB,ravil nachayev,,Sydney 2000,Swimming,50m freestyle men
+30,SUI,christoph bühler,,Sydney 2000,Swimming,50m freestyle men
+31,CRO,marijan kanjer,,Sydney 2000,Swimming,50m freestyle men
+32,CUB,marcos hernandez,,Sydney 2000,Swimming,50m freestyle men
+33,BLR,dzmitry kalinovski,,Sydney 2000,Swimming,50m freestyle men
+34,ISR,yoav bruck,,Sydney 2000,Swimming,50m freestyle men
+35,POR,pedro silva,,Sydney 2000,Swimming,50m freestyle men
+36,BAH,allan murray,,Sydney 2000,Swimming,50m freestyle men
+37,LTU,rolandas gimbutis,,Sydney 2000,Swimming,50m freestyle men
+38,BEL,thierry wouters,,Sydney 2000,Swimming,50m freestyle men
+39,KAZ,sergey borisenko,,Sydney 2000,Swimming,50m freestyle men
+40,KGZ,sergey ashihmin,,Sydney 2000,Swimming,50m freestyle men
+41,INA,richard samuel bera,,Sydney 2000,Swimming,50m freestyle men
+42,SCG,nebojsa bikic,,Sydney 2000,Swimming,50m freestyle men
+43,COL,camilo becerra,,Sydney 2000,Swimming,50m freestyle men
+44,CRC,esteban blanco uhlenhaut,,Sydney 2000,Swimming,50m freestyle men
+45,EGY,tamer hamed,,Sydney 2000,Swimming,50m freestyle men
+46,MDA,serghei stolearenco,,Sydney 2000,Swimming,50m freestyle men
+47,URU,paul alexander kutscher,,Sydney 2000,Swimming,50m freestyle men
+48,PER,luis lopez hartinger,,Sydney 2000,Swimming,50m freestyle men
+49,SGP,ying wah leslie kwok,,Sydney 2000,Swimming,50m freestyle men
+50,TPE,chih-yung huang,,Sydney 2000,Swimming,50m freestyle men
+51,AHO,howard hinds,,Sydney 2000,Swimming,50m freestyle men
+52,HKG,wing harbeth fu,,Sydney 2000,Swimming,50m freestyle men
+53,GEO,zurab beridze,,Sydney 2000,Swimming,50m freestyle men
+54,CHI,rodrigo olivares,,Sydney 2000,Swimming,50m freestyle men
+55,UAE,ayoub almas,,Sydney 2000,Swimming,50m freestyle men
+56,GRN,omar hughes,,Sydney 2000,Swimming,50m freestyle men
+57,ARM,dmitri margaryan,,Sydney 2000,Swimming,50m freestyle men
+58,LCA,jamie allan peterkin,,Sydney 2000,Swimming,50m freestyle men
+59,AZE,emin quliyev,,Sydney 2000,Swimming,50m freestyle men
+60,QAT,wael ghassan f saeed,,Sydney 2000,Swimming,50m freestyle men
+61,ARU,davy bisslik,,Sydney 2000,Swimming,50m freestyle men
+62,ANG,joao aguiar,,Sydney 2000,Swimming,50m freestyle men
+63,IRQ,muhammad abdul elah ahmed,,Sydney 2000,Swimming,50m freestyle men
+64,MOZ,ilidio matusse,,Sydney 2000,Swimming,50m freestyle men
+65,CAM,kiry hem,,Sydney 2000,Swimming,50m freestyle men
+66,DMA,kenneth maronie,,Sydney 2000,Swimming,50m freestyle men
+67,OMA,khalid al kulaibi,,Sydney 2000,Swimming,50m freestyle men
+68,NEP,chitra bahadur gurung,,Sydney 2000,Swimming,50m freestyle men
+69,LAO,sikhounxay ounkhamphanyavong,,Sydney 2000,Swimming,50m freestyle men
+70,PLW,anlloyd samuel,,Sydney 2000,Swimming,50m freestyle men
+71,VIN,stephenson antonio wallace,,Sydney 2000,Swimming,50m freestyle men
+72,MDV,hassan mubah,,Sydney 2000,Swimming,50m freestyle men
+73,MLI,bakary sereme,,Sydney 2000,Swimming,50m freestyle men
+74,RWA,samson ndayishimiye,,Sydney 2000,Swimming,50m freestyle men
+75,CAN,craig hutchison,Disqualified,Sydney 2000,Swimming,50m freestyle men
+76,SUD,mohamed abdel hayin mohamed,Disqualified,Sydney 2000,Swimming,50m freestyle men
+77,FRA,romain barnier,Did not start,Sydney 2000,Swimming,50m freestyle men
+78,SWE,lars frolander,Did not start,Sydney 2000,Swimming,50m freestyle men
+79,VEN,francisco sanchez,Did not start,Sydney 2000,Swimming,50m freestyle men
+0,NED,inge de bruijn,24.320,Sydney 2000,Swimming,50m freestyle women
+1,SWE,therese alshammar,24.510,Sydney 2000,Swimming,50m freestyle women
+2,USA,dara torres,24.630,Sydney 2000,Swimming,50m freestyle women
+3,USA,amy van dyken,25.040,Sydney 2000,Swimming,50m freestyle women
+4,SVK,martina moravcova,25.240,Sydney 2000,Swimming,50m freestyle women
+5,GER,sandra voelker,25.270,Sydney 2000,Swimming,50m freestyle women
+6,GBR,alison sheppard,25.450,Sydney 2000,Swimming,50m freestyle women
+7,JPN,sumika minamoto,25.650,Sydney 2000,Swimming,50m freestyle women
+8,NZL,vivienne rignall,,Sydney 2000,Swimming,50m freestyle women
+9,SWE,anna-karin kammerling,,Sydney 2000,Swimming,50m freestyle women
+10,GER,katrin meissner,,Sydney 2000,Swimming,50m freestyle women
+11,AUS,susan o'neill,,Sydney 2000,Swimming,50m freestyle women
+12,NED,wilma van rijn,,Sydney 2000,Swimming,50m freestyle women
+13,UKR,olga mukomol,,Sydney 2000,Swimming,50m freestyle women
+14,EGY,rania elwani,,Sydney 2000,Swimming,50m freestyle women
+15,EST,jana kolukanova,,Sydney 2000,Swimming,50m freestyle women
+16,DEN,mette jacobsen,,Sydney 2000,Swimming,50m freestyle women
+17,ESP,ana belen palomo,,Sydney 2000,Swimming,50m freestyle women
+18,ITA,cristina chiuso,,Sydney 2000,Swimming,50m freestyle women
+19,GBR,susan rolph,,Sydney 2000,Swimming,50m freestyle women
+20,CHN,xue han,,Sydney 2000,Swimming,50m freestyle women
+21,CAN,nadine rolland,,Sydney 2000,Swimming,50m freestyle women
+22,AUS,sarah ryan,,Sydney 2000,Swimming,50m freestyle women
+23,BAR,leah martindale,,Sydney 2000,Swimming,50m freestyle women
+24,RSA,helene muller,,Sydney 2000,Swimming,50m freestyle women
+25,BLR,alena popchanka,,Sydney 2000,Swimming,50m freestyle women
+26,PAN,eileen marie coparropa aleman,,Sydney 2000,Swimming,50m freestyle women
+27,BEL,liesbet dreesen,,Sydney 2000,Swimming,50m freestyle women
+28,FIN,hanna-maria seppala,,Sydney 2000,Swimming,50m freestyle women
+29,SVK,ivana walterová,,Sydney 2000,Swimming,50m freestyle women
+30,AUT,judith draxler,,Sydney 2000,Swimming,50m freestyle women
+31,TTO,siobhan cropper,,Sydney 2000,Swimming,50m freestyle women
+32,RUS,ekaterina kibalo,,Sydney 2000,Swimming,50m freestyle women
+33,LUX,lara heinz,,Sydney 2000,Swimming,50m freestyle women
+34,FIJ,caroline pickering,,Sydney 2000,Swimming,50m freestyle women
+35,ZIM,kirsty leigh coventry,,Sydney 2000,Swimming,50m freestyle women
+36,SGP,joscelin yeo,,Sydney 2000,Swimming,50m freestyle women
+37,CAN,jenna gresdal,,Sydney 2000,Swimming,50m freestyle women
+38,MYA,thu aung moe,,Sydney 2000,Swimming,50m freestyle women
+39,TPE,tzu-ying chiang,,Sydney 2000,Swimming,50m freestyle women
+40,KGZ,ekaterina tochenaya,,Sydney 2000,Swimming,50m freestyle women
+41,KOR,hui-jin jang,,Sydney 2000,Swimming,50m freestyle women
+42,GRE,athina bokhori,,Sydney 2000,Swimming,50m freestyle women
+43,LAT,agnese ozolina,,Sydney 2000,Swimming,50m freestyle women
+44,THA,pilin tachakittiranan,,Sydney 2000,Swimming,50m freestyle women
+45,CRO,marijana šurković,,Sydney 2000,Swimming,50m freestyle women
+46,HKG,hiu wai sherry tsai,,Sydney 2000,Swimming,50m freestyle women
+47,IRL,chantal gibney,,Sydney 2000,Swimming,50m freestyle women
+48,JAM,angela chuck,,Sydney 2000,Swimming,50m freestyle women
+49,LTU,jurate ladaviciute,,Sydney 2000,Swimming,50m freestyle women
+50,ISL,elin sigurdardottir,,Sydney 2000,Swimming,50m freestyle women
+51,MAS,marilyn chua,,Sydney 2000,Swimming,50m freestyle women
+52,SCG,duska radan,,Sydney 2000,Swimming,50m freestyle women
+53,MDA,maria tregubova,,Sydney 2000,Swimming,50m freestyle women
+54,UZB,saida iskandarova,,Sydney 2000,Swimming,50m freestyle women
+55,PER,talía barrios,,Sydney 2000,Swimming,50m freestyle women
+56,NGR,ngozi monu,,Sydney 2000,Swimming,50m freestyle women
+57,MOZ,tanya anacleto,,Sydney 2000,Swimming,50m freestyle women
+58,AZE,alisa xalıyeva,,Sydney 2000,Swimming,50m freestyle women
+59,LCA,sherri henry,,Sydney 2000,Swimming,50m freestyle women
+60,MAD,mbolatiana ramanisa,,Sydney 2000,Swimming,50m freestyle women
+61,ARU,roshendra vrolijk,,Sydney 2000,Swimming,50m freestyle women
+62,ARM,yuliana mikheeva,,Sydney 2000,Swimming,50m freestyle women
+63,SRI,theekshana ratnasekera,,Sydney 2000,Swimming,50m freestyle women
+64,PLE,samar nassar,,Sydney 2000,Swimming,50m freestyle women
+65,NEP,runa pradhan,,Sydney 2000,Swimming,50m freestyle women
+66,VIN,teran natasha matthews,,Sydney 2000,Swimming,50m freestyle women
+67,DMA,francilla agar,,Sydney 2000,Swimming,50m freestyle women
+68,MDV,fariha fathimath,,Sydney 2000,Swimming,50m freestyle women
+69,CAM,reaksmey hem,,Sydney 2000,Swimming,50m freestyle women
+70,IRQ,noor haki,,Sydney 2000,Swimming,50m freestyle women
+71,GUI,aissatou barry,,Sydney 2000,Swimming,50m freestyle women
+72,GEQ,paula barila bolopa,,Sydney 2000,Swimming,50m freestyle women
+73,BRN,fatima abdul majeed,Disqualified,Sydney 2000,Swimming,50m freestyle women
+0,USA,brooke bennett,,Sydney 2000,Swimming,800m freestyle women
+1,UKR,yana klochkova,,Sydney 2000,Swimming,800m freestyle women
+2,USA,kaitlin sandeno,,Sydney 2000,Swimming,800m freestyle women
+3,SUI,flavia rigamonti,,Sydney 2000,Swimming,800m freestyle women
+4,GER,hannah stockbauer,,Sydney 2000,Swimming,800m freestyle women
+5,CHN,hua chen,,Sydney 2000,Swimming,800m freestyle women
+6,GER,jana henke,,Sydney 2000,Swimming,800m freestyle women
+7,JPN,sachiko yamada,,Sydney 2000,Swimming,800m freestyle women
+8,JAM,janelle atkinson,,Sydney 2000,Swimming,800m freestyle women
+9,NED,kirsten vlieghuis,,Sydney 2000,Swimming,800m freestyle women
+10,SUI,chantal strasser,,Sydney 2000,Swimming,800m freestyle women
+11,AUS,rachel harris,,Sydney 2000,Swimming,800m freestyle women
+12,AUS,hayley lewis,,Sydney 2000,Swimming,800m freestyle women
+13,HUN,eva risztov,,Sydney 2000,Swimming,800m freestyle women
+14,GBR,rebecca cooke,,Sydney 2000,Swimming,800m freestyle women
+15,CAN,karine legault,,Sydney 2000,Swimming,800m freestyle women
+16,RUS,irina oufimtseva,,Sydney 2000,Swimming,800m freestyle women
+17,MKD,mirjana bosevska,,Sydney 2000,Swimming,800m freestyle women
+18,CZE,hana cerna,,Sydney 2000,Swimming,800m freestyle women
+19,BUL,ivanka moralieva,,Sydney 2000,Swimming,800m freestyle women
+20,MEX,patricia villarreal vargas,,Sydney 2000,Swimming,800m freestyle women
+21,GRE,marianna lymperta,,Sydney 2000,Swimming,800m freestyle women
+22,UKR,olha beresnieva,,Sydney 2000,Swimming,800m freestyle women
+23,TPE,chi-chan lin,,Sydney 2000,Swimming,800m freestyle women
+24,ISR,adi-maia bichman,,Sydney 2000,Swimming,800m freestyle women
+25,ARG,cecilia elizabeth biagioli,,Sydney 2000,Swimming,800m freestyle women
+26,CAN,joanne susan malar,Did not start,Sydney 2000,Swimming,800m freestyle women
+27,CRC,claudia poll ahrens,Did not start,Sydney 2000,Swimming,800m freestyle women

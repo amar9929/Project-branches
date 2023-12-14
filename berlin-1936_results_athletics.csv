@@ -1,0 +1,704 @@
+,country,participant,result,olympic_game,discipline,event
+0,FIN,ilmari salminen,00:30:15.400,Berlin 1936,Athletics,10000m men
+1,FIN,arvo askola,00:30:15.600,Berlin 1936,Athletics,10000m men
+2,FIN,volmari iso-hollo,00:30:20.200,Berlin 1936,Athletics,10000m men
+3,JPN,kohei murakoso,00:30:25.000,Berlin 1936,Athletics,10000m men
+4,GBR,james alexander burns,00:30:58.200,Berlin 1936,Athletics,10000m men
+5,ARG,juan carlos zabala,00:31:22.000,Berlin 1936,Athletics,10000m men
+6,GER,max gebhardt,00:31:29.600,Berlin 1936,Athletics,10000m men
+7,USA,don lash,00:31:39.400,Berlin 1936,Athletics,10000m men
+8,NOR,odd rasdal,00:31:40.400,Berlin 1936,Athletics,10000m men
+9,DEN,harry johan carl siefert,00:31:52.600,Berlin 1936,Athletics,10000m men
+10,ITA,giuseppe beviacqua,00:31:57.000,Berlin 1936,Athletics,10000m men
+11,HUN,janos kelen,00:32:01.000,Berlin 1936,Athletics,10000m men
+12,SWE,henning sundesson,00:32:11.800,Berlin 1936,Athletics,10000m men
+13,POL,jozef noji,00:32:13.000,Berlin 1936,Athletics,10000m men
+14,AUT,rudolf wöber,00:32:22.000,Berlin 1936,Athletics,10000m men
+15,USA,eino isak walter pentti,00:32:23.000,Berlin 1936,Athletics,10000m men
+16,TCH,ludvik bombik,00:32:24.000,Berlin 1936,Athletics,10000m men
+17,FRA,lucien tostain,00:32:24.200,Berlin 1936,Athletics,10000m men
+18,FRA,andré sicard,00:32:25.000,Berlin 1936,Athletics,10000m men
+19,FRA,andré lonlas,00:32:58.000,Berlin 1936,Athletics,10000m men
+20,GER,walter schönrock,00:32:59.000,Berlin 1936,Athletics,10000m men
+21,GER,josef siegers,,Berlin 1936,Athletics,10000m men
+22,BEL,pierre bajart,,Berlin 1936,Athletics,10000m men
+23,CAN,robert scade rankine,,Berlin 1936,Athletics,10000m men
+24,CAN,milton wallace,,Berlin 1936,Athletics,10000m men
+25,GBR,william edward eaton,,Berlin 1936,Athletics,10000m men
+26,USA,stanley joseph wudyka,,Berlin 1936,Athletics,10000m men
+27,JPN,fusahige suzuki,,Berlin 1936,Athletics,10000m men
+28,IND,raunak singh gill,Did not finish,Berlin 1936,Athletics,10000m men
+29,GBR,john henry potts,Did not finish,Berlin 1936,Athletics,10000m men
+30,ARG,luis oliva,Did not start,Berlin 1936,Athletics,10000m men
+31,AUT,georg balaban,Did not start,Berlin 1936,Athletics,10000m men
+32,AUT,wilhelm friebe,Did not start,Berlin 1936,Athletics,10000m men
+33,CAN,harold webster,Did not start,Berlin 1936,Athletics,10000m men
+34,COL,jorge perry,Did not start,Berlin 1936,Athletics,10000m men
+35,ESP,isidoro unzueta,Did not start,Berlin 1936,Athletics,10000m men
+36,GRE,konstantin ghoutis,Did not start,Berlin 1936,Athletics,10000m men
+37,GRE,stelios kyriakidis,Did not start,Berlin 1936,Athletics,10000m men
+38,MEX,valentin gonzales avila,Did not start,Berlin 1936,Athletics,10000m men
+39,NZL,cecil henry matthews,Did not start,Berlin 1936,Athletics,10000m men
+40,SWE,erik pettersson,Did not start,Berlin 1936,Athletics,10000m men
+0,USA,jesse owens,10.3w,Berlin 1936,Athletics,100m men
+1,USA,ralph metcalfe,10.4w,Berlin 1936,Athletics,100m men
+2,NED,martinus osendarp,10.5w,Berlin 1936,Athletics,100m men
+3,USA,frank clifford wykoff,10.6w,Berlin 1936,Athletics,100m men
+4,GER,erich borchmeyer,10.7w,Berlin 1936,Athletics,100m men
+5,SWE,lennart strandberg,10.9w,Berlin 1936,Athletics,100m men
+6,AUT,alfred lechner,Did not start,Berlin 1936,Athletics,100m men
+7,AUT,ludwig berger,Did not start,Berlin 1936,Athletics,100m men
+8,MEX,pascual gutierrez maza,Did not start,Berlin 1936,Athletics,100m men
+9,SWE,irvin ternstrom,Did not start,Berlin 1936,Athletics,100m men
+10,YUG,alfonz kovačić,Did not start,Berlin 1936,Athletics,100m men
+11,YUG,darko dremil,Did not start,Berlin 1936,Athletics,100m men
+0,USA,helen herring stephens,11.5w,Berlin 1936,Athletics,100m women
+1,POL,stanislawa walasiewicz,11.7w,Berlin 1936,Athletics,100m women
+2,GER,käthe krauss,11.9w,Berlin 1936,Athletics,100m women
+3,GER,marie döllinger,12.0w,Berlin 1936,Athletics,100m women
+4,USA,annette joan rogers,12.2w,Berlin 1936,Athletics,100m women
+5,GER,emmy albus,12.3w,Berlin 1936,Athletics,100m women
+6,YUG,renata čabrijan,Did not start,Berlin 1936,Athletics,100m women
+0,USA,forrest grady towns,14.200,Berlin 1936,Athletics,110m hurdles men
+1,GBR,donald finlay,14.400,Berlin 1936,Athletics,110m hurdles men
+2,USA,frederick douglas jr. pollard,14.400,Berlin 1936,Athletics,110m hurdles men
+3,SWE,hakan lidman,14.400,Berlin 1936,Athletics,110m hurdles men
+4,GBR,john st.leger thornton,14.700,Berlin 1936,Athletics,110m hurdles men
+5,CAN,lawrence gerard o'connor,14.800,Berlin 1936,Athletics,110m hurdles men
+6,ESP,ignacio sánchez,Did not start,Berlin 1936,Athletics,110m hurdles men
+7,FRA,pierre bernard,Did not start,Berlin 1936,Athletics,110m hurdles men
+8,PHI,nino ramirez,Did not start,Berlin 1936,Athletics,110m hurdles men
+9,RSA,james gemmill,Did not start,Berlin 1936,Athletics,110m hurdles men
+10,YUG,ivo buratovic,Did not start,Berlin 1936,Athletics,110m hurdles men
+0,NZL,john lovelock,00:03:47.800,Berlin 1936,Athletics,1500m men
+1,USA,glenn cunningham,00:03:48.400,Berlin 1936,Athletics,1500m men
+2,ITA,luigi beccali,00:03:49.200,Berlin 1936,Athletics,1500m men
+3,USA,archibald j. san romani,00:03:50.000,Berlin 1936,Athletics,1500m men
+4,CAN,philip edwards,00:03:50.400,Berlin 1936,Athletics,1500m men
+5,GBR,john cornes,00:03:51.400,Berlin 1936,Athletics,1500m men
+6,HUN,miklós szabó,00:03:53.000,Berlin 1936,Athletics,1500m men
+7,FRA,robert goix,00:03:53.800,Berlin 1936,Athletics,1500m men
+8,USA,eugene george venzke,00:03:55.000,Berlin 1936,Athletics,1500m men
+9,GER,friedrich (fritz) schaumburg,00:03:56.200,Berlin 1936,Athletics,1500m men
+10,SWE,eric ny,00:03:57.600,Berlin 1936,Athletics,1500m men
+11,GER,werner böttcher,00:04:04.200,Berlin 1936,Athletics,1500m men
+12,FIN,martti matilainen,,Berlin 1936,Athletics,1500m men
+13,GBR,sydney charles wooderson,,Berlin 1936,Athletics,1500m men
+14,EGY,mohamed abu sobea,Did not start,Berlin 1936,Athletics,1500m men
+15,ESP,enrique piferrer,Did not start,Berlin 1936,Athletics,1500m men
+16,GRE,stavros velkopoulos,Did not start,Berlin 1936,Athletics,1500m men
+17,IND,raunak singh gill,Did not start,Berlin 1936,Athletics,1500m men
+18,JPN,kumao aochi,Did not start,Berlin 1936,Athletics,1500m men
+19,JPN,toshitaka tomie,Did not start,Berlin 1936,Athletics,1500m men
+20,NZL,vernon patrick boot,Did not start,Berlin 1936,Athletics,1500m men
+21,PER,carlos marcenaro,Did not start,Berlin 1936,Athletics,1500m men
+22,SWE,ingvar haglund,Did not start,Berlin 1936,Athletics,1500m men
+23,YUG,ivan krevs,Did not start,Berlin 1936,Athletics,1500m men
+0,USA,jesse owens,20.700,Berlin 1936,Athletics,200m men
+1,USA,matthew mackenzie robinson,21.100,Berlin 1936,Athletics,200m men
+2,NED,martinus osendarp,21.300,Berlin 1936,Athletics,200m men
+3,SUI,paul hänni,21.600,Berlin 1936,Athletics,200m men
+4,CAN,lee pearce orr,21.600,Berlin 1936,Athletics,200m men
+5,NED,wijnand van beveren,21.900,Berlin 1936,Athletics,200m men
+6,GER,albert steinmetz,,Berlin 1936,Athletics,200m men
+7,AUT,leopold quittan,Did not start,Berlin 1936,Athletics,200m men
+8,COL,elias gutierrez campo,Did not start,Berlin 1936,Athletics,200m men
+9,COL,jose domingo sanchez,Did not start,Berlin 1936,Athletics,200m men
+10,GBR,cyril butler holmes,Did not start,Berlin 1936,Athletics,200m men
+11,ITA,gianni caldana,Did not start,Berlin 1936,Athletics,200m men
+12,JPN,bunta suzuki,Did not start,Berlin 1936,Athletics,200m men
+13,PER,antonio cuba,Did not start,Berlin 1936,Athletics,200m men
+14,SWE,lennart strandberg,Did not start,Berlin 1936,Athletics,200m men
+15,YUG,julije bauer,Did not start,Berlin 1936,Athletics,200m men
+16,YUG,alfonz kovačić,Did not start,Berlin 1936,Athletics,200m men
+17,YUG,darko dremil,Did not start,Berlin 1936,Athletics,200m men
+0,FIN,volmari iso-hollo,00:09:03.800,Berlin 1936,Athletics,3000m steeplechase men
+1,FIN,kaarlo jalmari tuominen,00:09:06.800,Berlin 1936,Athletics,3000m steeplechase men
+2,GER,alfred dompert,00:09:07.200,Berlin 1936,Athletics,3000m steeplechase men
+3,FIN,martti matilainen,00:09:09.000,Berlin 1936,Athletics,3000m steeplechase men
+4,USA,harold william manning,00:09:11.200,Berlin 1936,Athletics,3000m steeplechase men
+5,SWE,lars larsson,00:09:16.600,Berlin 1936,Athletics,3000m steeplechase men
+6,LAT,voldemārs vītols,00:09:18.800,Berlin 1936,Athletics,3000m steeplechase men
+7,USA,glen wilson dawson,00:09:21.100,Berlin 1936,Athletics,3000m steeplechase men
+8,GER,wilhelm (willi) heyn,00:09:26.400,Berlin 1936,Athletics,3000m steeplechase men
+9,USA,joseph paul mccluskey,00:09:29.400,Berlin 1936,Athletics,3000m steeplechase men
+10,FRA,roger rerolle,00:09:40.800,Berlin 1936,Athletics,3000m steeplechase men
+11,SWE,harry holmqvist,Did not finish,Berlin 1936,Athletics,3000m steeplechase men
+12,GER,hans-heinrich raff,,Berlin 1936,Athletics,3000m steeplechase men
+13,AUT,ferdinand friebe,Did not start,Berlin 1936,Athletics,3000m steeplechase men
+14,BEL,rené geeraert,Did not start,Berlin 1936,Athletics,3000m steeplechase men
+15,GRE,konstantin ghoutis,Did not start,Berlin 1936,Athletics,3000m steeplechase men
+16,GRE,stavros velkopoulos,Did not start,Berlin 1936,Athletics,3000m steeplechase men
+17,IND,raunak singh gill,Did not start,Berlin 1936,Athletics,3000m steeplechase men
+0,USA,glenn foster hardin,52.400,Berlin 1936,Athletics,400m hurdles men
+1,CAN,john wilfred loaring,52.700,Berlin 1936,Athletics,400m hurdles men
+2,PHI,miguel s. white,52.800,Berlin 1936,Athletics,400m hurdles men
+3,USA,joseph hester patterson,53.000,Berlin 1936,Athletics,400m hurdles men
+4,BRA,sylvio de magalhaes padilha,54.000,Berlin 1936,Athletics,400m hurdles men
+5,GRE,khristos mantikas,54.200,Berlin 1936,Athletics,400m hurdles men
+6,AUT,bruno leu,Did not start,Berlin 1936,Athletics,400m hurdles men
+7,CAN,lawrence gerard o'connor,Did not start,Berlin 1936,Athletics,400m hurdles men
+8,DEN,svend aage thomsen,Did not start,Berlin 1936,Athletics,400m hurdles men
+9,EGY,abu al-yazid el-halawani,Did not start,Berlin 1936,Athletics,400m hurdles men
+10,RSA,andries becker,Did not start,Berlin 1936,Athletics,400m hurdles men
+11,SWE,pelle persson,Did not start,Berlin 1936,Athletics,400m hurdles men
+0,USA,archibald franklin williams,46.500,Berlin 1936,Athletics,400m men
+1,GBR,arthur godfrey kilner brown,46.700,Berlin 1936,Athletics,400m men
+2,USA,jimmy lu valle,46.800,Berlin 1936,Athletics,400m men
+3,GBR,william roberts,46.800,Berlin 1936,Athletics,400m men
+4,CAN,william duncan fritz,47.800,Berlin 1936,Athletics,400m men
+5,CAN,john wilfred loaring,48.200,Berlin 1936,Athletics,400m men
+6,YUG,janez gabršek,Did not start,Berlin 1936,Athletics,400m men
+7,MLT,paul pace,Did not start,Berlin 1936,Athletics,400m men
+8,ROU,eugen kappler,Did not start,Berlin 1936,Athletics,400m men
+9,ESP,luis pratmarso parera,Did not start,Berlin 1936,Athletics,400m men
+10,AUT,felix rinner,Did not start,Berlin 1936,Athletics,400m men
+11,COL,jose domingo sanchez,Did not start,Berlin 1936,Athletics,400m men
+12,ITA,marsilio rossi,Did not start,Berlin 1936,Athletics,400m men
+13,ITA,otello spampani,Did not start,Berlin 1936,Athletics,400m men
+14,PER,antonio cuba,Did not start,Berlin 1936,Athletics,400m men
+15,PHI,teodoro malasig,Did not start,Berlin 1936,Athletics,400m men
+16,POL,klemens biniakowski,Did not start,Berlin 1936,Athletics,400m men
+0,,,39.800,Berlin 1936,Athletics,4x100m relay men
+1,,,41.100,Berlin 1936,Athletics,4x100m relay men
+2,,,41.200,Berlin 1936,Athletics,4x100m relay men
+3,,,42.200,Berlin 1936,Athletics,4x100m relay men
+4,,,42.700,Berlin 1936,Athletics,4x100m relay men
+5,,,DSQ,Berlin 1936,Athletics,4x100m relay men
+6,,,,Berlin 1936,Athletics,4x100m relay men
+7,,,Did not start,Berlin 1936,Athletics,4x100m relay men
+8,,,Did not start,Berlin 1936,Athletics,4x100m relay men
+9,,,Did not start,Berlin 1936,Athletics,4x100m relay men
+0,,,46.900,Berlin 1936,Athletics,4x100m relay women
+1,,,47.600,Berlin 1936,Athletics,4x100m relay women
+2,,,47.800,Berlin 1936,Athletics,4x100m relay women
+3,,,48.700,Berlin 1936,Athletics,4x100m relay women
+4,,,48.800,Berlin 1936,Athletics,4x100m relay women
+5,,,DSQ,Berlin 1936,Athletics,4x100m relay women
+6,,,Did not start,Berlin 1936,Athletics,4x100m relay women
+7,,,Did not start,Berlin 1936,Athletics,4x100m relay women
+0,,,00:03:09.000,Berlin 1936,Athletics,4x400m relay men
+1,,,00:03:11.000,Berlin 1936,Athletics,4x400m relay men
+2,,,00:03:11.800,Berlin 1936,Athletics,4x400m relay men
+3,,,00:03:11.800,Berlin 1936,Athletics,4x400m relay men
+4,,,00:03:13.000,Berlin 1936,Athletics,4x400m relay men
+5,,,00:03:14.800,Berlin 1936,Athletics,4x400m relay men
+6,,,Did not start,Berlin 1936,Athletics,4x400m relay men
+7,,,Did not start,Berlin 1936,Athletics,4x400m relay men
+0,FIN,gunnar höckert,00:14:22.200,Berlin 1936,Athletics,5000m men
+1,FIN,lauri aleksanteri lehtinen,00:14:25.800,Berlin 1936,Athletics,5000m men
+2,SWE,henry jonsson-kälarne,00:14:29.000,Berlin 1936,Athletics,5000m men
+3,JPN,kohei murakoso,00:14:30.000,Berlin 1936,Athletics,5000m men
+4,POL,jozef noji,00:14:33.400,Berlin 1936,Athletics,5000m men
+5,FIN,ilmari salminen,00:14:39.800,Berlin 1936,Athletics,5000m men
+6,ITA,umberto cerati,00:14:44.400,Berlin 1936,Athletics,5000m men
+7,USA,louis silvie zamperini,00:14:46.800,Berlin 1936,Athletics,5000m men
+8,NOR,rolf hansen,00:14:48.000,Berlin 1936,Athletics,5000m men
+9,DEN,harry johan carl siefert,00:14:48.400,Berlin 1936,Athletics,5000m men
+10,GBR,peter hans dudley ward,00:14:57.200,Berlin 1936,Athletics,5000m men
+11,GBR,frank close,,Berlin 1936,Athletics,5000m men
+12,USA,don lash,,Berlin 1936,Athletics,5000m men
+13,SWE,bror hellström,,Berlin 1936,Athletics,5000m men
+14,GBR,aubrey vincent reeve,Did not finish,Berlin 1936,Athletics,5000m men
+15,ARG,luis oliva,Did not start,Berlin 1936,Athletics,5000m men
+16,AUT,ladislaus simacek,Did not start,Berlin 1936,Athletics,5000m men
+17,COL,hugo acosta,Did not start,Berlin 1936,Athletics,5000m men
+18,COL,emilio torres,Did not start,Berlin 1936,Athletics,5000m men
+19,ESP,isidoro unzueta,Did not start,Berlin 1936,Athletics,5000m men
+20,GRE,konstantin ghoutis,Did not start,Berlin 1936,Athletics,5000m men
+21,ITA,bruno betti,Did not start,Berlin 1936,Athletics,5000m men
+22,NZL,john lovelock,Did not start,Berlin 1936,Athletics,5000m men
+0,GBR,hector harold whitlock,04:30:41.400,Berlin 1936,Athletics,50km walk men
+1,SUI,arthur schwab,04:32:09.200,Berlin 1936,Athletics,50km walk men
+2,LAT,adalberts bubenko,04:32:42.200,Berlin 1936,Athletics,50km walk men
+3,TCH,jaroslav stork,04:34:00.200,Berlin 1936,Athletics,50km walk men
+4,NOR,edgar helge bruun,04:34:53.200,Berlin 1936,Athletics,50km walk men
+5,GER,fritz bleiweiss,04:36:48.400,Berlin 1936,Athletics,50km walk men
+6,SUI,karl reiniger,04:40:45.000,Berlin 1936,Athletics,50km walk men
+7,FRA,etienne laisne,04:41:40.000,Berlin 1936,Athletics,50km walk men
+8,POL,teodor bieregowoj-bieregowski,04:42:49.000,Berlin 1936,Athletics,50km walk men
+9,NED,antonius franciscus cornelis toscani,04:42:59.400,Berlin 1936,Athletics,50km walk men
+10,SWE,evald segerström,04:43:30.400,Berlin 1936,Athletics,50km walk men
+11,ITA,ettore rivolta,04:48:47.000,Berlin 1936,Athletics,50km walk men
+12,FRA,adrien courtois,04:49:07.000,Berlin 1936,Athletics,50km walk men
+13,ITA,giuseppe gobbato,04:49:51.000,Berlin 1936,Athletics,50km walk men
+14,SUI,adolf aebersold,04:51:14.000,Berlin 1936,Athletics,50km walk men
+15,GER,herbert dill,04:51:26.000,Berlin 1936,Athletics,50km walk men
+16,GBR,terence lloyd johnson,04:54:56.000,Berlin 1936,Athletics,50km walk men
+17,ITA,mario brignoli,04:58:12.000,Berlin 1936,Athletics,50km walk men
+18,JPN,ryoji naraoka,05:07:15.000,Berlin 1936,Athletics,50km walk men
+19,ROU,vasile firea,05:09:39.000,Berlin 1936,Athletics,50km walk men
+20,USA,albert j. mangan,05:12:00.200,Berlin 1936,Athletics,50km walk men
+21,CHN,zhengyi cai,05:16:02.400,Berlin 1936,Athletics,50km walk men
+22,USA,ernest koehler,05:20:18.200,Berlin 1936,Athletics,50km walk men
+23,CHN,yuyu zhou,05:25:01.000,Berlin 1936,Athletics,50km walk men
+24,CHN,chow-chu chang,05:26:54.200,Berlin 1936,Athletics,50km walk men
+25,USA,george william ernest crosbie,05:31:44.200,Berlin 1936,Athletics,50km walk men
+26,LAT,janis dalins,Did not finish,Berlin 1936,Athletics,50km walk men
+27,GBR,joseph hopkins,Did not finish,Berlin 1936,Athletics,50km walk men
+28,DEN,nils peter ejner bech,Did not finish,Berlin 1936,Athletics,50km walk men
+29,LAT,arnolds kruklins,Disqualified,Berlin 1936,Athletics,50km walk men
+30,SWE,dick lööf,Disqualified,Berlin 1936,Athletics,50km walk men
+31,GER,friedrich prehn,Disqualified,Berlin 1936,Athletics,50km walk men
+32,SWE,gösta grandin,Disqualified,Berlin 1936,Athletics,50km walk men
+33,ESP,román castelltort,Did not start,Berlin 1936,Athletics,50km walk men
+34,TCH,václav balšán,Did not start,Berlin 1936,Athletics,50km walk men
+35,TCH,františek jirásek,Did not start,Berlin 1936,Athletics,50km walk men
+0,USA,john youie woodruff,00:01:52.900,Berlin 1936,Athletics,800m men
+1,ITA,mario lanzi,00:01:53.300,Berlin 1936,Athletics,800m men
+2,CAN,philip edwards,00:01:53.600,Berlin 1936,Athletics,800m men
+3,POL,kazimierz kucharski,00:01:53.800,Berlin 1936,Athletics,800m men
+4,USA,chuck hornbostel,00:01:54.600,Berlin 1936,Athletics,800m men
+5,USA,harry webb williamson,00:01:55.800,Berlin 1936,Athletics,800m men
+6,ARG,juan carlos anderson,,Berlin 1936,Athletics,800m men
+7,AUS,gerald ian d'acres backhouse,,Berlin 1936,Athletics,800m men
+8,GBR,brian farmer mccabe,,Berlin 1936,Athletics,800m men
+9,CHI,miguel robles castro,Did not start,Berlin 1936,Athletics,800m men
+10,CHN,lianren jia,Did not start,Berlin 1936,Athletics,800m men
+11,EGY,abu al-yazid el-halawani,Did not start,Berlin 1936,Athletics,800m men
+12,ESP,enrique piferrer,Did not start,Berlin 1936,Athletics,800m men
+13,ESP,luis pratmarso parera,Did not start,Berlin 1936,Athletics,800m men
+14,FIN,ossian (ossi) hans teileri,Did not start,Berlin 1936,Athletics,800m men
+15,FRA,rene morel,Did not start,Berlin 1936,Athletics,800m men
+16,ROU,fransisc nemes,Did not start,Berlin 1936,Athletics,800m men
+17,SUI,fritz sollberger,Did not start,Berlin 1936,Athletics,800m men
+18,SWE,eric ny,Did not start,Berlin 1936,Athletics,800m men
+19,SWE,erik wennberg,Did not start,Berlin 1936,Athletics,800m men
+20,YUG,karlo nikhazi,Did not start,Berlin 1936,Athletics,800m men
+0,ITA,trebisonda valla,11.700,Berlin 1936,Athletics,80m hurdles women
+1,GER,anni steuer,11.700,Berlin 1936,Athletics,80m hurdles women
+2,CAN,betty taylor,11.700,Berlin 1936,Athletics,80m hurdles women
+3,ITA,claudia testoni,11.700,Berlin 1936,Athletics,80m hurdles women
+4,NED,catharina elizabeth ter braake,11.800,Berlin 1936,Athletics,80m hurdles women
+5,GER,doris eckert,12.000,Berlin 1936,Athletics,80m hurdles women
+6,CHI,raquel martinez,Did not start,Berlin 1936,Athletics,80m hurdles women
+0,USA,glenn edward morris,595,Berlin 1936,Athletics,decathlon men
+1,USA,robert hyatt clark,513,Berlin 1936,Athletics,decathlon men
+2,USA,john jack parker,371,Berlin 1936,Athletics,decathlon men
+3,GER,erwin huber,580,Berlin 1936,Athletics,decathlon men
+4,NED,jan brasser,381,Berlin 1936,Athletics,decathlon men
+5,SUI,armin guhl,481,Berlin 1936,Athletics,decathlon men
+6,SWE,olle bexell,541,Berlin 1936,Athletics,decathlon men
+7,GER,helmuth bonnet,450,Berlin 1936,Athletics,decathlon men
+8,POL,jerzy plawczyk,392,Berlin 1936,Athletics,decathlon men
+9,NOR,edvard natvig,386,Berlin 1936,Athletics,decathlon men
+10,FIN,ilmari jaakko reinikka,602,Berlin 1936,Athletics,decathlon men
+11,HUN,peter bacsalmasi,262,Berlin 1936,Athletics,decathlon men
+12,SUI,fritz dällenbach,489,Berlin 1936,Athletics,decathlon men
+13,BUL,lyuben doychev,247,Berlin 1936,Athletics,decathlon men
+14,CHI,osvaldo wenzel,584,Berlin 1936,Athletics,decathlon men
+15,TCH,josef klein,478,Berlin 1936,Athletics,decathlon men
+16,BEL,maurice boulanger,581,Berlin 1936,Athletics,decathlon men
+17,SWE,leif dahlgren,Did not finish,Berlin 1936,Athletics,decathlon men
+18,HUN,zoltan csanyi,Did not finish,Berlin 1936,Athletics,decathlon men
+19,SUI,willy bührer,Did not finish,Berlin 1936,Athletics,decathlon men
+20,AUT,franz sterzl,Did not finish,Berlin 1936,Athletics,decathlon men
+21,BEL,emile binet,Did not finish,Berlin 1936,Athletics,decathlon men
+22,FIN,martti lee topelius,Did not finish,Berlin 1936,Athletics,decathlon men
+23,FIN,akiles eero johannes järvinen,Did not finish,Berlin 1936,Athletics,decathlon men
+24,LAT,janis dimsa,Did not finish,Berlin 1936,Athletics,decathlon men
+25,CHI,erwin reimer,Did not finish,Berlin 1936,Athletics,decathlon men
+26,CHN,changxing zhou,Did not finish,Berlin 1936,Athletics,decathlon men
+27,ISL,karl vilmundarson,Did not finish,Berlin 1936,Athletics,decathlon men
+28,AUT,alfred bauer,Did not start,Berlin 1936,Athletics,decathlon men
+29,COL,pedro del vecchio,Did not start,Berlin 1936,Athletics,decathlon men
+30,FRA,hervé mahé,Did not start,Berlin 1936,Athletics,decathlon men
+31,GER,gerhard stöck,Did not start,Berlin 1936,Athletics,decathlon men
+32,JPN,yoshiro asakuma,Did not start,Berlin 1936,Athletics,decathlon men
+33,JPN,sueo oe,Did not start,Berlin 1936,Athletics,decathlon men
+34,SWE,sverker lindström,Did not start,Berlin 1936,Athletics,decathlon men
+0,USA,william kenneth carpenter,50.48,Berlin 1936,Athletics,discus throw men
+1,USA,gordon glover dunn,49.36,Berlin 1936,Athletics,discus throw men
+2,ITA,giorgio oberweger,49.23,Berlin 1936,Athletics,discus throw men
+3,NOR,reidar sörlie,48.77,Berlin 1936,Athletics,discus throw men
+4,GER,willy schröder,47.93,Berlin 1936,Athletics,discus throw men
+5,GRE,nikolaos syllas,47.75,Berlin 1936,Athletics,discus throw men
+6,SWE,gunnar bergh,47.22,Berlin 1936,Athletics,discus throw men
+7,SWE,ake hedvall,46.2,Berlin 1936,Athletics,discus throw men
+8,AUT,johann wotapek,46.05,Berlin 1936,Athletics,discus throw men
+9,NOR,helge sivertsen,45.89,Berlin 1936,Athletics,discus throw men
+10,GER,hans fritsch,45.1,Berlin 1936,Athletics,discus throw men
+11,FRA,jules noel,44.56,Berlin 1936,Athletics,discus throw men
+12,USA,walter donogan wood,43.83,Berlin 1936,Athletics,discus throw men
+13,AUT,emil janausch,,Berlin 1936,Athletics,discus throw men
+14,CHN,jie guo,,Berlin 1936,Athletics,discus throw men
+15,CHN,peigen leng,,Berlin 1936,Athletics,discus throw men
+16,FIN,kalevi kotkas,,Berlin 1936,Athletics,discus throw men
+17,FRA,paul winter,,Berlin 1936,Athletics,discus throw men
+18,GBR,bernard l. prendergast,,Berlin 1936,Athletics,discus throw men
+19,GBR,laurence reavell-carter,,Berlin 1936,Athletics,discus throw men
+20,GER,gerhard hilbrecht,,Berlin 1936,Athletics,discus throw men
+21,HUN,endre madarasz,,Berlin 1936,Athletics,discus throw men
+22,ITA,ruggero biancani,,Berlin 1936,Athletics,discus throw men
+23,LIE,oskar ospelt,,Berlin 1936,Athletics,discus throw men
+24,LUX,jean wagner,,Berlin 1936,Athletics,discus throw men
+25,ROU,petre havalet,,Berlin 1936,Athletics,discus throw men
+26,SWE,harold andersson,,Berlin 1936,Athletics,discus throw men
+27,TCH,miroslav vitek,,Berlin 1936,Athletics,discus throw men
+28,TCH,valter barac,,Berlin 1936,Athletics,discus throw men
+29,YUG,nicola kleut,,Berlin 1936,Athletics,discus throw men
+30,YUG,veljko narancic,,Berlin 1936,Athletics,discus throw men
+31,CHN,ball-chow chen,Did not start,Berlin 1936,Athletics,discus throw men
+32,ESP,felix erauzquin erauzquin,Did not start,Berlin 1936,Athletics,discus throw men
+33,FRA,andré fitte,Did not start,Berlin 1936,Athletics,discus throw men
+34,GRE,ioannis seraidaris,Did not start,Berlin 1936,Athletics,discus throw men
+35,HUN,istvan donogan,Did not start,Berlin 1936,Athletics,discus throw men
+36,JPN,eiichiro matsuno,Did not start,Berlin 1936,Athletics,discus throw men
+37,TCH,julius viktorý,Did not start,Berlin 1936,Athletics,discus throw men
+38,YUG,nikola vučević,Did not start,Berlin 1936,Athletics,discus throw men
+0,GER,gisela mauermayer,44.26,Berlin 1936,Athletics,discus throw women
+1,POL,jadwiga wajsourna,42.89,Berlin 1936,Athletics,discus throw women
+2,GER,paula mollenhauer,39.8,Berlin 1936,Athletics,discus throw women
+3,JPN,ko nakamura,37.87,Berlin 1936,Athletics,discus throw women
+4,JPN,hide mineshima,33.98,Berlin 1936,Athletics,discus throw women
+5,SWE,birgit lundström,34.42,Berlin 1936,Athletics,discus throw women
+6,NED,ans panhorst-niesink,,Berlin 1936,Athletics,discus throw women
+7,USA,gertrude f. wilhelmsen,,Berlin 1936,Athletics,discus throw women
+8,USA,helen herring stephens,,Berlin 1936,Athletics,discus throw women
+9,ITA,gabre gabric-calvesi,,Berlin 1936,Athletics,discus throw women
+10,AUT,margarete held,,Berlin 1936,Athletics,discus throw women
+11,TCH,marketa schieferova,,Berlin 1936,Athletics,discus throw women
+12,AUT,veronika kohlbach,,Berlin 1936,Athletics,discus throw women
+13,FRA,lucienne velu,,Berlin 1936,Athletics,discus throw women
+14,JPN,fumi kojima,,Berlin 1936,Athletics,discus throw women
+15,NED,jantina maria koopmans,,Berlin 1936,Athletics,discus throw women
+16,YUG,vera neferovic,,Berlin 1936,Athletics,discus throw women
+17,USA,evelyn lucy ferrara,,Berlin 1936,Athletics,discus throw women
+18,GER,anna (anne) hagemann,,Berlin 1936,Athletics,discus throw women
+0,GER,karl hein,56.49,Berlin 1936,Athletics,hammer throw men
+1,GER,erwin blask,55.04,Berlin 1936,Athletics,hammer throw men
+2,SWE,alfred warngard,54.83,Berlin 1936,Athletics,hammer throw men
+3,FIN,gustaf alfons koutonen,51.9,Berlin 1936,Athletics,hammer throw men
+4,USA,william john alfred rowe,51.66,Berlin 1936,Athletics,hammer throw men
+5,USA,donald emerson favor,51.01,Berlin 1936,Athletics,hammer throw men
+6,GER,bernhard greulich,50.61,Berlin 1936,Athletics,hammer throw men
+7,EST,koit annamaa,50.46,Berlin 1936,Athletics,hammer throw men
+8,USA,henry francis dreyer,50.42,Berlin 1936,Athletics,hammer throw men
+9,FIN,sulo heino,49.93,Berlin 1936,Athletics,hammer throw men
+10,FIN,frans wilhelmi pörhölä,49.89,Berlin 1936,Athletics,hammer throw men
+11,SWE,gunnar jansson,49.28,Berlin 1936,Athletics,hammer throw men
+12,JPN,isao abe,49.01,Berlin 1936,Athletics,hammer throw men
+13,SWE,evert linne,47.61,Berlin 1936,Athletics,hammer throw men
+14,ITA,giovanni cantagalli,47.42,Berlin 1936,Athletics,hammer throw men
+15,FRA,joseph wirtz,45.69,Berlin 1936,Athletics,hammer throw men
+16,CHI,antonio barticevic,45.23,Berlin 1936,Athletics,hammer throw men
+17,AUT,emil janausch,,Berlin 1936,Athletics,hammer throw men
+18,BRA,assis naban,,Berlin 1936,Athletics,hammer throw men
+19,GBR,norman hercy drake,,Berlin 1936,Athletics,hammer throw men
+20,GRE,khristos dimitropoulos,,Berlin 1936,Athletics,hammer throw men
+21,JPN,eiichiro matsuno,,Berlin 1936,Athletics,hammer throw men
+22,NED,johan frederik marie houtzager,,Berlin 1936,Athletics,hammer throw men
+23,TCH,jaroslav elias,,Berlin 1936,Athletics,hammer throw men
+24,TCH,jaroslav knotek,,Berlin 1936,Athletics,hammer throw men
+25,YUG,milan stepisnik,,Berlin 1936,Athletics,hammer throw men
+26,YUG,pedro goić,,Berlin 1936,Athletics,hammer throw men
+27,AUT,heinz pistor,Did not start,Berlin 1936,Athletics,hammer throw men
+28,FRA,robert saint-pe,Did not start,Berlin 1936,Athletics,hammer throw men
+29,SUI,walter grütter,Did not start,Berlin 1936,Athletics,hammer throw men
+30,SUI,rudolf wehrli,Did not start,Berlin 1936,Athletics,hammer throw men
+0,USA,cornelius cooper johnson,2.03,Berlin 1936,Athletics,high jump men
+1,USA,david donald albritton,2,Berlin 1936,Athletics,high jump men
+2,USA,delos packard thurber,2,Berlin 1936,Athletics,high jump men
+3,FIN,kalevi kotkas,2,Berlin 1936,Athletics,high jump men
+4,JPN,kimio yata,1.97,Berlin 1936,Athletics,high jump men
+5,FIN,lauri fredrik mikael kalima,1.94,Berlin 1936,Athletics,high jump men
+6,GER,gustav weinkötz,1.94,Berlin 1936,Athletics,high jump men
+7,JPN,hiroshi tanaka,1.94,Berlin 1936,Athletics,high jump men
+8,JPN,yoshiro asakuma,1.94,Berlin 1936,Athletics,high jump men
+9,EST,aksel kuuse,1.9,Berlin 1936,Athletics,high jump men
+10,GER,günther gehmert,1.9,Berlin 1936,Athletics,high jump men
+11,AUS,john patrick metcalfe,1.85,Berlin 1936,Athletics,high jump men
+12,CAN,joseph prennan haley,1.85,Berlin 1936,Athletics,high jump men
+13,DEN,poul emil otto,1.85,Berlin 1936,Athletics,high jump men
+14,FIN,veikko tuomas peräsalo,1.85,Berlin 1936,Athletics,high jump men
+15,HUN,mihaly bodosi,1.85,Berlin 1936,Athletics,high jump men
+16,NED,jan brasser,1.85,Berlin 1936,Athletics,high jump men
+17,PHI,simeon galvez toribio,1.85,Berlin 1936,Athletics,high jump men
+18,RSA,edwin thomas thacker,1.85,Berlin 1936,Athletics,high jump men
+19,SUI,rudolf eggenberg,1.85,Berlin 1936,Athletics,high jump men
+20,SWE,ake ödmark,1.85,Berlin 1936,Athletics,high jump men
+21,POL,jerzy plawczyk,1.8,Berlin 1936,Athletics,high jump men
+22,CHN,shih-lin wang,Did not start,Berlin 1936,Athletics,high jump men
+23,COL,pedro del vecchio,Did not start,Berlin 1936,Athletics,high jump men
+24,FRA,christian gillmann,Did not start,Berlin 1936,Athletics,high jump men
+25,FRA,rené poirier,Did not start,Berlin 1936,Athletics,high jump men
+26,FRA,louis thiebert,Did not start,Berlin 1936,Athletics,high jump men
+27,SWE,kurt lundqvist,Did not start,Berlin 1936,Athletics,high jump men
+28,TCH,vladimír galanda,Did not start,Berlin 1936,Athletics,high jump men
+29,YUG,fritz martini,Did not start,Berlin 1936,Athletics,high jump men
+30,YUG,nikola vučević,Did not start,Berlin 1936,Athletics,high jump men
+0,HUN,ibolya csak,1.6,Berlin 1936,Athletics,high jump women
+1,GBR,dorothy beatrice j. odam-tyler,1.6,Berlin 1936,Athletics,high jump women
+2,GER,elfriede kaun,1.6,Berlin 1936,Athletics,high jump women
+3,GER,dora ratjen,1.58,Berlin 1936,Athletics,high jump women
+4,FRA,marguerite nicolas,1.58,Berlin 1936,Athletics,high jump women
+5,NED,fanny blankers-koen,1.55,Berlin 1936,Athletics,high jump women
+6,USA,annette joan rogers,1.55,Berlin 1936,Athletics,high jump women
+7,AUS,doris jessie carter,1.55,Berlin 1936,Athletics,high jump women
+8,USA,alice jean arden,1.5,Berlin 1936,Athletics,high jump women
+9,USA,kathlyn kelly,1.5,Berlin 1936,Athletics,high jump women
+10,CAN,margaret mary bell-gibson,1.5,Berlin 1936,Athletics,high jump women
+11,AUT,wanda nowak,1.5,Berlin 1936,Athletics,high jump women
+12,GBR,helen (nellie) carrington,1.5,Berlin 1936,Athletics,high jump women
+13,BEL,catherine stevens,1.4,Berlin 1936,Athletics,high jump women
+14,NED,jantina maria koopmans,1.4,Berlin 1936,Athletics,high jump women
+15,JPN,junko nishida,1.4,Berlin 1936,Athletics,high jump women
+16,FIN,irja salli maria lipasti,1.3,Berlin 1936,Athletics,high jump women
+17,FRA,alice leissner,Did not start,Berlin 1936,Athletics,high jump women
+18,GRE,ismene lanitis,Did not start,Berlin 1936,Athletics,high jump women
+19,YUG,zulejca stefanini,Did not start,Berlin 1936,Athletics,high jump women
+0,GER,gerhard stöck,71.84,Berlin 1936,Athletics,javelin throw men
+1,FIN,yrjo jouko nikkanen,70.77,Berlin 1936,Athletics,javelin throw men
+2,FIN,kaarlo kalervo toivonen,70.72,Berlin 1936,Athletics,javelin throw men
+3,SWE,lennart atterwall,69.2,Berlin 1936,Athletics,javelin throw men
+4,FIN,matti henrik jarvinen,69.18,Berlin 1936,Athletics,javelin throw men
+5,USA,floy alton terry,67.15,Berlin 1936,Athletics,javelin throw men
+6,POL,eugeniusz (brok) lokajski,66.39,Berlin 1936,Athletics,javelin throw men
+7,HUN,jozsef varszegi,65.3,Berlin 1936,Athletics,javelin throw men
+8,GER,gottfried weimann,63.58,Berlin 1936,Athletics,javelin throw men
+9,POL,walter turczyk,63.36,Berlin 1936,Athletics,javelin throw men
+10,EST,gustav sule,63.26,Berlin 1936,Athletics,javelin throw men
+11,USA,lee marion bartlett,61.15,Berlin 1936,Athletics,javelin throw men
+12,LAT,otto jurgis,60.71,Berlin 1936,Athletics,javelin throw men
+13,CAN,jim courtright,60.54,Berlin 1936,Athletics,javelin throw men
+14,USA,malcolm ward metcalf,58.2,Berlin 1936,Athletics,javelin throw men
+15,NED,johan-frederik van der poll,56.25,Berlin 1936,Athletics,javelin throw men
+16,GER,friedrich gerdes,55.93,Berlin 1936,Athletics,javelin throw men
+17,AUT,franz bucher,Did not start,Berlin 1936,Athletics,javelin throw men
+18,FRA,roger frinot,Did not start,Berlin 1936,Athletics,javelin throw men
+19,JPN,saburo nagao,Did not start,Berlin 1936,Athletics,javelin throw men
+20,SUI,georges vuillermot,Did not start,Berlin 1936,Athletics,javelin throw men
+21,SWE,erik h. lundqvist,Did not start,Berlin 1936,Athletics,javelin throw men
+22,YUG,josip miloš,Did not start,Berlin 1936,Athletics,javelin throw men
+23,YUG,karol smejda,Did not start,Berlin 1936,Athletics,javelin throw men
+0,GER,mathilde (tilly) fleischer,42.19,Berlin 1936,Athletics,javelin throw women
+1,GER,luise krüger,42.96,Berlin 1936,Athletics,javelin throw women
+2,POL,marja jadwiga kwasniewska-maleszewska,37.77,Berlin 1936,Athletics,javelin throw women
+3,AUT,hermine (herma) bauma,39.73,Berlin 1936,Athletics,javelin throw women
+4,JPN,sadako yamamoto,41.45,Berlin 1936,Athletics,javelin throw women
+5,GER,lydia eberhardt,40.68,Berlin 1936,Athletics,javelin throw women
+6,USA,gertrude f. wilhelmsen,,Berlin 1936,Athletics,javelin throw women
+7,NED,clasina gerda de kock,,Berlin 1936,Athletics,javelin throw women
+8,USA,martha virginia worst,,Berlin 1936,Athletics,javelin throw women
+9,FIN,irja salli maria lipasti,,Berlin 1936,Athletics,javelin throw women
+10,BEL,jeanne van kesteren,,Berlin 1936,Athletics,javelin throw women
+11,YUG,jelena stanojevic,,Berlin 1936,Athletics,javelin throw women
+12,USA,elizabeth l. burch,,Berlin 1936,Athletics,javelin throw women
+13,GBR,katharine connal,,Berlin 1936,Athletics,javelin throw women
+14,TCH,štefánie pekarová,Did not start,Berlin 1936,Athletics,javelin throw women
+15,YUG,zulejca stefanini,Did not start,Berlin 1936,Athletics,javelin throw women
+0,USA,jesse owens,8.06w,Berlin 1936,Athletics,long jump men
+1,GER,carl ludwig luz long,7.87w,Berlin 1936,Athletics,long jump men
+2,JPN,naoto tajima,7.74w,Berlin 1936,Athletics,long jump men
+3,GER,wilhelm leichum,7.73w,Berlin 1936,Athletics,long jump men
+4,ITA,arturo maffei,7.73w,Berlin 1936,Athletics,long jump men
+5,USA,robert hyatt clark,7.67w,Berlin 1936,Athletics,long jump men
+6,USA,john william brooks,7.41w,Berlin 1936,Athletics,long jump men
+7,FRA,robert paul,7.34w,Berlin 1936,Athletics,long jump men
+8,GER,arthur bäumle,7.32w,Berlin 1936,Athletics,long jump men
+9,NOR,otto berg,7.30w,Berlin 1936,Athletics,long jump men
+10,SWE,ake stenqvist,7.30w,Berlin 1936,Athletics,long jump men
+11,ITA,gianni caldana,7.26w,Berlin 1936,Athletics,long jump men
+12,TCH,josef vosolobe,7.18w,Berlin 1936,Athletics,long jump men
+13,CAN,samuel richardson,7.13w,Berlin 1936,Athletics,long jump men
+14,BRA,marcio castellar de oliveira,7.05w,Berlin 1936,Athletics,long jump men
+15,JPN,kaneyuki togami,6.18w,Berlin 1936,Athletics,long jump men
+16,AFG,mohamad khan,,Berlin 1936,Athletics,long jump men
+17,BEL,emile binet,,Berlin 1936,Athletics,long jump men
+18,CHN,chia-gwe chang,,Berlin 1936,Athletics,long jump men
+19,CHN,chun-teh hoh,,Berlin 1936,Athletics,long jump men
+20,CHN,guang situ,,Berlin 1936,Athletics,long jump men
+21,DEN,willy rasmussen,,Berlin 1936,Athletics,long jump men
+22,EST,ruudi toomsalu,,Berlin 1936,Athletics,long jump men
+23,FIN,martti lee topelius,,Berlin 1936,Athletics,long jump men
+24,FIN,onni rafael rajasaari,,Berlin 1936,Athletics,long jump men
+25,FRA,claude heim,,Berlin 1936,Athletics,long jump men
+26,FRA,andre prebolin,,Berlin 1936,Athletics,long jump men
+27,GBR,edward boyce,,Berlin 1936,Athletics,long jump men
+28,GBR,george terence traynor,,Berlin 1936,Athletics,long jump men
+29,GRE,grigorios lambrakis,,Berlin 1936,Athletics,long jump men
+30,HUN,henrik koltai,,Berlin 1936,Athletics,long jump men
+31,JPN,masao harada,,Berlin 1936,Athletics,long jump men
+32,LUX,françois mersch,,Berlin 1936,Athletics,long jump men
+33,MEX,pascual gutierrez maza,,Berlin 1936,Athletics,long jump men
+34,NED,maarten klasema,,Berlin 1936,Athletics,long jump men
+35,PER,carlos de la guerra,,Berlin 1936,Athletics,long jump men
+36,PER,man berendson,,Berlin 1936,Athletics,long jump men
+37,PHI,nino ramirez,,Berlin 1936,Athletics,long jump men
+38,ROU,bondoc ionescu-crum,,Berlin 1936,Athletics,long jump men
+39,SUI,jean studer,,Berlin 1936,Athletics,long jump men
+40,TCH,jiri hoffmann,,Berlin 1936,Athletics,long jump men
+41,TCH,rudolf polame,,Berlin 1936,Athletics,long jump men
+42,YUG,ivo buratovic,,Berlin 1936,Athletics,long jump men
+43,AUS,john basil dickinson,Did not start,Berlin 1936,Athletics,long jump men
+44,AUS,john patrick metcalfe,Did not start,Berlin 1936,Athletics,long jump men
+45,COL,pedro del vecchio,Did not start,Berlin 1936,Athletics,long jump men
+46,DEN,ingvard andersen,Did not start,Berlin 1936,Athletics,long jump men
+47,ESP,ignacio sánchez,Did not start,Berlin 1936,Athletics,long jump men
+48,SUI,walter mäder,Did not start,Berlin 1936,Athletics,long jump men
+0,JPN,kitei son,02:29:19.200,Berlin 1936,Athletics,marathon men
+1,GBR,ernest harper,02:31:23.200,Berlin 1936,Athletics,marathon men
+2,JPN,shoryu nan,02:31:42.000,Berlin 1936,Athletics,marathon men
+3,FIN,erkki jaakko tamila,02:32:45.000,Berlin 1936,Athletics,marathon men
+4,FIN,väinö muinonen,02:33:46.000,Berlin 1936,Athletics,marathon men
+5,RSA,johannes lodewyk coleman,02:36:17.000,Berlin 1936,Athletics,marathon men
+6,GBR,donald mcnab robertson,02:37:06.200,Berlin 1936,Athletics,marathon men
+7,RSA,henry alfred gibson,02:38:04.000,Berlin 1936,Athletics,marathon men
+8,FIN,mauno asarias tarkiainen,02:39:33.000,Berlin 1936,Athletics,marathon men
+9,SWE,thore enochsson,02:43:12.000,Berlin 1936,Athletics,marathon men
+10,GRE,stelios kyriakidis,02:43:20.000,Berlin 1936,Athletics,marathon men
+11,FRA,nouba khaleb,02:45:34.000,Berlin 1936,Athletics,marathon men
+12,SWE,henry palme,02:46:08.400,Berlin 1936,Athletics,marathon men
+13,AUT,franz tuschek,02:46:29.000,Berlin 1936,Athletics,marathon men
+14,CAN,jimmy bartlett,02:48:21.400,Berlin 1936,Athletics,marathon men
+15,FRA,françois duval,02:48:39.800,Berlin 1936,Athletics,marathon men
+16,POR,manuel dias,02:49:00.000,Berlin 1936,Athletics,marathon men
+17,USA,john adelbert kelley,02:49:32.400,Berlin 1936,Athletics,marathon men
+18,TCH,miloslav lunak,02:50:26.000,Berlin 1936,Athletics,marathon men
+19,BEL,felix meekens,02:51:19.000,Berlin 1936,Athletics,marathon men
+20,TCH,jan takac,02:51:20.000,Berlin 1936,Athletics,marathon men
+21,AUT,rudolf wöber,02:51:28.000,Berlin 1936,Athletics,marathon men
+22,ROU,ludovic gall,02:55:02.000,Berlin 1936,Athletics,marathon men
+23,BEL,robert nevens,02:55:51.000,Berlin 1936,Athletics,marathon men
+24,DEN,anders hartington andersen,02:56:31.000,Berlin 1936,Athletics,marathon men
+25,PER,gabriel mendoza,02:57:17.800,Berlin 1936,Athletics,marathon men
+26,RSA,thomas forcer lalande,02:57:20.000,Berlin 1936,Athletics,marathon men
+27,LAT,arturs mottmillers,02:58:02.000,Berlin 1936,Athletics,marathon men
+28,GER,eduard brasecke,02:59:33.400,Berlin 1936,Athletics,marathon men
+29,CAN,percival wyer,03:00:11.000,Berlin 1936,Athletics,marathon men
+30,FRA,fernand leheurteur,03:01:11.000,Berlin 1936,Athletics,marathon men
+31,AUT,wilhelm rothmayer,03:02:32.000,Berlin 1936,Athletics,marathon men
+32,POL,bronislaw gancarz,03:03:11.000,Berlin 1936,Athletics,marathon men
+33,SUI,max beer,03:06:26.000,Berlin 1936,Athletics,marathon men
+34,PER,guillermo suarez,03:08:18.000,Berlin 1936,Athletics,marathon men
+35,BUL,boris haralampiev,03:08:53.800,Berlin 1936,Athletics,marathon men
+36,IND,arul c.s. swami,03:10:44.000,Berlin 1936,Athletics,marathon men
+37,TCH,josef sulc,03:11:47.400,Berlin 1936,Athletics,marathon men
+38,SUI,franz eha,03:18:17.000,Berlin 1936,Athletics,marathon men
+39,CHN,zhenglin wang,03:25:36.400,Berlin 1936,Athletics,marathon men
+40,YUG,stane sporn,03:30:47.000,Berlin 1936,Athletics,marathon men
+41,PER,josé farias rios,03:33:24.000,Berlin 1936,Athletics,marathon men
+42,CHI,juan acosta,Did not finish,Berlin 1936,Athletics,marathon men
+43,GER,franz barsicke,Did not finish,Berlin 1936,Athletics,marathon men
+44,USA,tarzan brown,Did not finish,Berlin 1936,Athletics,marathon men
+45,ITA,giannino bulzone,Did not finish,Berlin 1936,Athletics,marathon men
+46,GER,paul de bruyn,Did not finish,Berlin 1936,Athletics,marathon men
+47,POL,kazimierz fialka,Did not finish,Berlin 1936,Athletics,marathon men
+48,ITA,aurelio genghini,Did not finish,Berlin 1936,Athletics,marathon men
+49,USA,billy mcmahon,Did not finish,Berlin 1936,Athletics,marathon men
+50,POR,jaime mendes,Did not finish,Berlin 1936,Athletics,marathon men
+51,GBR,bert norris,Did not finish,Berlin 1936,Athletics,marathon men
+52,ARG,luis oliva,Did not finish,Berlin 1936,Athletics,marathon men
+53,JPN,tamao shiwaku,Did not finish,Berlin 1936,Athletics,marathon men
+54,CAN,harold webster,Did not finish,Berlin 1936,Athletics,marathon men
+55,ARG,juan carlos zabala,Did not finish,Berlin 1936,Athletics,marathon men
+56,BEL,jean chapelle,Did not start,Berlin 1936,Athletics,marathon men
+57,CAN,vincent callard,Did not start,Berlin 1936,Athletics,marathon men
+58,COL,jorge perry,Did not start,Berlin 1936,Athletics,marathon men
+59,SUI,ernst hirt,Did not start,Berlin 1936,Athletics,marathon men
+0,USA,earle elmer meadows,4.35,Berlin 1936,Athletics,pole vault men
+1,JPN,shuhei nishida,4.25,Berlin 1936,Athletics,pole vault men
+2,JPN,sueo oe,4.25,Berlin 1936,Athletics,pole vault men
+3,USA,william healy sefton,4.25,Berlin 1936,Athletics,pole vault men
+4,USA,william noe graber,4.15,Berlin 1936,Athletics,pole vault men
+5,JPN,kiyoshi adachi,4,Berlin 1936,Athletics,pole vault men
+6,CAN,charles j.sylvanus apps,4,Berlin 1936,Athletics,pole vault men
+7,HUN,peter bacsalmasi,4,Berlin 1936,Athletics,pole vault men
+8,AUT,josef haunzwickel,4,Berlin 1936,Athletics,pole vault men
+9,ITA,danilo innocenti,4,Berlin 1936,Athletics,pole vault men
+10,TCH,jan koreis,4,Berlin 1936,Athletics,pole vault men
+11,SWE,bo ljungberg,4,Berlin 1936,Athletics,pole vault men
+12,AUT,alfred proksch,4,Berlin 1936,Athletics,pole vault men
+13,POL,wilhelm schneider,4,Berlin 1936,Athletics,pole vault men
+14,GBR,frederick richard webster,4,Berlin 1936,Athletics,pole vault men
+15,HUN,viktor zsuffka,4,Berlin 1936,Athletics,pole vault men
+16,RSA,andries stephanus du plessis,3.8,Berlin 1936,Athletics,pole vault men
+17,DEN,martin ernst larsen,3.8,Berlin 1936,Athletics,pole vault men
+18,GER,julius müller,3.8,Berlin 1936,Athletics,pole vault men
+19,TCH,miroslav klasek,3.8,Berlin 1936,Athletics,pole vault men
+20,CHN,bao-loo fu,3.8,Berlin 1936,Athletics,pole vault men
+21,FRA,pierre ramadier,3.8,Berlin 1936,Athletics,pole vault men
+22,GER,siegfried schulz,3.8,Berlin 1936,Athletics,pole vault men
+23,CHI,adolfo schlegel,3.6,Berlin 1936,Athletics,pole vault men
+24,FRA,andre crepin,3.4,Berlin 1936,Athletics,pole vault men
+25,AUS,fred woodhouse,Did not start,Berlin 1936,Athletics,pole vault men
+26,AUT,hugo huber,Did not start,Berlin 1936,Athletics,pole vault men
+27,CHN,ho wang,Did not start,Berlin 1936,Athletics,pole vault men
+28,DEN,svend aage thomsen,Did not start,Berlin 1936,Athletics,pole vault men
+29,FRA,robert vintousky,Did not start,Berlin 1936,Athletics,pole vault men
+30,GRE,peter clentzos,Did not start,Berlin 1936,Athletics,pole vault men
+0,GER,hans woellke,16.2,Berlin 1936,Athletics,shot put men
+1,FIN,sulo bärlund,16.12,Berlin 1936,Athletics,shot put men
+2,GER,gerhard stöck,15.66,Berlin 1936,Athletics,shot put men
+3,USA,samuel harrison francis,15.45,Berlin 1936,Athletics,shot put men
+4,USA,johan torrance,15.38,Berlin 1936,Athletics,shot put men
+5,USA,dmitri nickitovitch zaitz,15.32,Berlin 1936,Athletics,shot put men
+6,TCH,frantisek douda,15.28,Berlin 1936,Athletics,shot put men
+7,EST,arnold viiding,15.23,Berlin 1936,Athletics,shot put men
+8,SWE,gunnar bergh,15.01,Berlin 1936,Athletics,shot put men
+9,GER,hans-heinrich sievert,14.79,Berlin 1936,Athletics,shot put men
+10,YUG,aleksa kovacevic,14.74,Berlin 1936,Athletics,shot put men
+11,HUN,jozsef daranyi,14.63,Berlin 1936,Athletics,shot put men
+12,FIN,risto kuntsi,14.61,Berlin 1936,Athletics,shot put men
+13,HUN,istvan horvath,14.32,Berlin 1936,Athletics,shot put men
+14,TCH,karel hoplicek,14.12,Berlin 1936,Athletics,shot put men
+15,AFG,abdul rahim,,Berlin 1936,Athletics,shot put men
+16,BRA,antonio pereira lyra,,Berlin 1936,Athletics,shot put men
+17,CHN,ball-chow chen,,Berlin 1936,Athletics,shot put men
+18,FRA,jules noel,,Berlin 1936,Athletics,shot put men
+19,JPN,shizuo takata,,Berlin 1936,Athletics,shot put men
+20,LUX,jean wagner,,Berlin 1936,Athletics,shot put men
+21,TCH,miroslav vitek,,Berlin 1936,Athletics,shot put men
+22,AUT,friedrich coufal,Did not start,Berlin 1936,Athletics,shot put men
+23,AUT,robert vetter,Did not start,Berlin 1936,Athletics,shot put men
+24,AUT,johann wotapek,Did not start,Berlin 1936,Athletics,shot put men
+25,CHI,hans conrads,Did not start,Berlin 1936,Athletics,shot put men
+26,CHN,jie guo,Did not start,Berlin 1936,Athletics,shot put men
+27,CHN,peigen leng,Did not start,Berlin 1936,Athletics,shot put men
+28,ESP,felix erauzquin erauzquin,Did not start,Berlin 1936,Athletics,shot put men
+29,FRA,paul bourron,Did not start,Berlin 1936,Athletics,shot put men
+30,FRA,horia pietraru,Did not start,Berlin 1936,Athletics,shot put men
+31,GRE,ioannis seraidaris,Did not start,Berlin 1936,Athletics,shot put men
+32,ISL,kristjan vattnes,Did not start,Berlin 1936,Athletics,shot put men
+33,JPN,eiichiro matsuno,Did not start,Berlin 1936,Athletics,shot put men
+34,POL,zygmunt heljasz,Did not start,Berlin 1936,Athletics,shot put men
+35,SWE,harold andersson,Did not start,Berlin 1936,Athletics,shot put men
+36,SWE,ake hedvall,Did not start,Berlin 1936,Athletics,shot put men
+37,YUG,nikola vučević,Did not start,Berlin 1936,Athletics,shot put men
+0,JPN,naoto tajima,16,Berlin 1936,Athletics,triple jump men
+1,JPN,masao harada,15.66,Berlin 1936,Athletics,triple jump men
+2,AUS,john patrick metcalfe,15.5,Berlin 1936,Athletics,triple jump men
+3,GER,heinz wöllner,15.27,Berlin 1936,Athletics,triple jump men
+4,USA,roland lee romero,15.08,Berlin 1936,Athletics,triple jump men
+5,JPN,kenkichi oshima,15.07,Berlin 1936,Athletics,triple jump men
+6,GER,erich joch,14.88,Berlin 1936,Athletics,triple jump men
+7,USA,dudley griffin wilkins,14.83,Berlin 1936,Athletics,triple jump men
+8,FIN,olavi akseli suomela,14.72,Berlin 1936,Athletics,triple jump men
+9,GER,carl ludwig luz long,14.62,Berlin 1936,Athletics,triple jump men
+10,POL,edward luckhaus,14.61,Berlin 1936,Athletics,triple jump men
+11,HUN,lajos somlo,14.6,Berlin 1936,Athletics,triple jump men
+12,FIN,onni rafael rajasaari,14.59,Berlin 1936,Athletics,triple jump men
+13,NOR,karl eugen haugland,14.56,Berlin 1936,Athletics,triple jump men
+14,NED,maarten klasema,14.55,Berlin 1936,Athletics,triple jump men
+15,AUS,john basil dickinson,14.48,Berlin 1936,Athletics,triple jump men
+16,USA,billy brown,14.36,Berlin 1936,Athletics,triple jump men
+17,SWE,bo ljungberg,14.35,Berlin 1936,Athletics,triple jump men
+18,SWE,lennart andersson-agnred,14.26,Berlin 1936,Athletics,triple jump men
+19,CAN,samuel richardson,14.21,Berlin 1936,Athletics,triple jump men
+20,YUG,jovan mikic,13.9,Berlin 1936,Athletics,triple jump men
+21,ISL,sigurður sigurðsson,13.58,Berlin 1936,Athletics,triple jump men
+22,AUT,karl kotratschek,13.15,Berlin 1936,Athletics,triple jump men
+23,CHI,hans reccius,,Berlin 1936,Athletics,triple jump men
+24,CHN,chia-gwe chang,,Berlin 1936,Athletics,triple jump men
+25,CHN,guang situ,,Berlin 1936,Athletics,triple jump men
+26,CHN,shih-lin wang,,Berlin 1936,Athletics,triple jump men
+27,COL,pedro del vecchio,,Berlin 1936,Athletics,triple jump men
+28,GBR,edward boyce,,Berlin 1936,Athletics,triple jump men
+29,GRE,grigorios lambrakis,,Berlin 1936,Athletics,triple jump men
+30,POL,karol hoffmann,,Berlin 1936,Athletics,triple jump men
+31,AUT,erich pultar,Did not start,Berlin 1936,Athletics,triple jump men
+32,DEN,ingvard andersen,Did not start,Berlin 1936,Athletics,triple jump men
+33,ESP,ignacio sánchez,Did not start,Berlin 1936,Athletics,triple jump men
+34,FIN,kalle ilovaara,Did not start,Berlin 1936,Athletics,triple jump men
+35,FRA,andré franquenelle,Did not start,Berlin 1936,Athletics,triple jump men
+36,YUG,stevan mioković,Did not start,Berlin 1936,Athletics,triple jump men

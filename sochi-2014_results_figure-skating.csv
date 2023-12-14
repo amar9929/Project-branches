@@ -1,0 +1,96 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,meryl davis,195.52,Sochi 2014,Figure skating,Ice dancing mixed
+1,CAN,scott moir,190.99,Sochi 2014,Figure skating,Ice dancing mixed
+2,RUS,nikita katsalapov,183.48,Sochi 2014,Figure skating,Ice dancing mixed
+3,FRA,nathalie pechalat,177.22,Sochi 2014,Figure skating,Ice dancing mixed
+4,RUS,dmitry solovyov,172.92,Sochi 2014,Figure skating,Ice dancing mixed
+5,ITA,anna cappellini,169.50,Sochi 2014,Figure skating,Ice dancing mixed
+6,CAN,andrew poje,169.11,Sochi 2014,Figure skating,Ice dancing mixed
+7,USA,madison chock,164.64,Sochi 2014,Figure skating,Ice dancing mixed
+8,USA,alex shibutani,155.17,Sochi 2014,Figure skating,Ice dancing mixed
+9,GBR,penny coomes,151.11,Sochi 2014,Figure skating,Ice dancing mixed
+10,GER,alexander gazsi,150.77,Sochi 2014,Figure skating,Ice dancing mixed
+11,AZE,alexei sitnikov,148.63,Sochi 2014,Figure skating,Ice dancing mixed
+12,ESP,adrian diaz,146.97,Sochi 2014,Figure skating,Ice dancing mixed
+13,ITA,charlene guignard,144.78,Sochi 2014,Figure skating,Ice dancing mixed
+14,FRA,pernelle carron,142.87,Sochi 2014,Figure skating,Ice dancing mixed
+15,RUS,victoria sinitsina,140.66,Sochi 2014,Figure skating,Ice dancing mixed
+16,LTU,isabella tobias,139.00,Sochi 2014,Figure skating,Ice dancing mixed
+17,CAN,alexandra paul,138.70,Sochi 2014,Figure skating,Ice dancing mixed
+18,GER,stefano caruso,130.56,Sochi 2014,Figure skating,Ice dancing mixed
+19,AUS,danielle obrien,128.53,Sochi 2014,Figure skating,Ice dancing mixed
+0,JPN,yuzuru hanyu,280.09,Sochi 2014,Figure skating,Individual men
+1,CAN,patrick chan,275.62,Sochi 2014,Figure skating,Individual men
+2,KAZ,denis ten,255.10,Sochi 2014,Figure skating,Individual men
+3,ESP,javier fernandez,253.92,Sochi 2014,Figure skating,Individual men
+4,JPN,tatsuki machida,253.42,Sochi 2014,Figure skating,Individual men
+5,JPN,daisuke takahashi,250.67,Sochi 2014,Figure skating,Individual men
+6,CHN,han yan,246.20,Sochi 2014,Figure skating,Individual men
+7,GER,peter liebers,239.87,Sochi 2014,Figure skating,Individual men
+8,USA,jason brown,238.37,Sochi 2014,Figure skating,Individual men
+9,CZE,michal brezina,233.62,Sochi 2014,Figure skating,Individual men
+10,CZE,tomas verner,232.99,Sochi 2014,Figure skating,Individual men
+11,USA,jeremy abbott,232.70,Sochi 2014,Figure skating,Individual men
+12,FRA,brian joubert,231.77,Sochi 2014,Figure skating,Individual men
+13,SWE,alexander majorov,224.86,Sochi 2014,Figure skating,Individual men
+14,CAN,kevin reynolds,222.23,Sochi 2014,Figure skating,Individual men
+15,BEL,jorik hendrickx,214.04,Sochi 2014,Figure skating,Individual men
+16,UZB,misha ge,203.26,Sochi 2014,Figure skating,Individual men
+17,FRA,florent amodio,198.64,Sochi 2014,Figure skating,Individual men
+18,PHI,michael christian martinez,184.25,Sochi 2014,Figure skating,Individual men
+19,UKR,yakiv hodorozha,182.19,Sochi 2014,Figure skating,Individual men
+20,ISR,alexei bychenko,177.06,Sochi 2014,Figure skating,Individual men
+21,KAZ,abzal rakimgaliyev,174.40,Sochi 2014,Figure skating,Individual men
+22,ROU,zoltan kelemen,158.76,Sochi 2014,Figure skating,Individual men
+23,EST,viktor romanenkov,139.99,Sochi 2014,Figure skating,Individual men
+24,RUS,evgeni viktorovich plushenko,Did not start,Sochi 2014,Figure skating,Individual men
+0,RUS,adelina sotnikova,224.59,Sochi 2014,Figure skating,Individual women
+1,KOR,yuna kim,219.11,Sochi 2014,Figure skating,Individual women
+2,ITA,carolina kostner,216.73,Sochi 2014,Figure skating,Individual women
+3,USA,gracie gold,205.53,Sochi 2014,Figure skating,Individual women
+4,RUS,yulia lipnitskaya,200.57,Sochi 2014,Figure skating,Individual women
+5,JPN,mao asada,198.22,Sochi 2014,Figure skating,Individual women
+6,USA,ashley wagner,193.20,Sochi 2014,Figure skating,Individual women
+7,JPN,akiko suzuki,186.32,Sochi 2014,Figure skating,Individual women
+8,USA,polina edmunds,183.25,Sochi 2014,Figure skating,Individual women
+9,FRA,mae berenice meite,174.53,Sochi 2014,Figure skating,Individual women
+10,ITA,valentina marchei,173.33,Sochi 2014,Figure skating,Individual women
+11,JPN,kanako murakami,170.98,Sochi 2014,Figure skating,Individual women
+12,CAN,kaetlyn osmond,168.98,Sochi 2014,Figure skating,Individual women
+13,CHN,zijun li,168.30,Sochi 2014,Figure skating,Individual women
+14,CHN,kexin zhang,154.21,Sochi 2014,Figure skating,Individual women
+15,KOR,haejin kim,149.48,Sochi 2014,Figure skating,Individual women
+16,CAN,gabrielle daleman,148.44,Sochi 2014,Figure skating,Individual women
+17,GER,nathalie weinzierl,147.36,Sochi 2014,Figure skating,Individual women
+18,GEO,elene gedevanishvili,147.15,Sochi 2014,Figure skating,Individual women
+19,AUS,brooklee han,143.84,Sochi 2014,Figure skating,Individual women
+20,KOR,soyoun park,142.97,Sochi 2014,Figure skating,Individual women
+21,CZE,elizaveta ukolova,136.42,Sochi 2014,Figure skating,Individual women
+22,NOR,anne line gjersem,134.54,Sochi 2014,Figure skating,Individual women
+23,SVK,nicole rajicova,125.00,Sochi 2014,Figure skating,Individual women
+0,RUS,maxim trankov,236.86,Sochi 2014,Figure skating,Pairs mixed
+1,RUS,fedor klimov,218.68,Sochi 2014,Figure skating,Pairs mixed
+2,GER,robin szolkowy,215.78,Sochi 2014,Figure skating,Pairs mixed
+3,CHN,qing pang,209.88,Sochi 2014,Figure skating,Pairs mixed
+4,CAN,dylan moscovitch,202.10,Sochi 2014,Figure skating,Pairs mixed
+5,RUS,vera bazarova,199.60,Sochi 2014,Figure skating,Pairs mixed
+6,CAN,meagan duhamel,199.53,Sochi 2014,Figure skating,Pairs mixed
+7,CHN,cheng peng,195.72,Sochi 2014,Figure skating,Pairs mixed
+8,USA,simon shnapir,187.82,Sochi 2014,Figure skating,Pairs mixed
+9,FRA,morgan cipres,179.43,Sochi 2014,Figure skating,Pairs mixed
+10,ITA,stefania berton,179.08,Sochi 2014,Figure skating,Pairs mixed
+11,USA,nathan bartholomay,167.21,Sochi 2014,Figure skating,Pairs mixed
+12,GER,maylin wende,166.25,Sochi 2014,Figure skating,Pairs mixed
+13,CAN,rudi swiegers,161.98,Sochi 2014,Figure skating,Pairs mixed
+14,ISR,evgeni krasnopolski,147.73,Sochi 2014,Figure skating,Pairs mixed
+15,ITA,matteo guarise,137.86,Sochi 2014,Figure skating,Pairs mixed
+0,,,75,Sochi 2014,Figure skating,team mixed
+1,,,65,Sochi 2014,Figure skating,team mixed
+2,,,60,Sochi 2014,Figure skating,team mixed
+3,,,52,Sochi 2014,Figure skating,team mixed
+4,,,51,Sochi 2014,Figure skating,team mixed
+5,,,22,Sochi 2014,Figure skating,team mixed
+6,,,20,Sochi 2014,Figure skating,team mixed
+7,,,17,Sochi 2014,Figure skating,team mixed
+8,,,10,Sochi 2014,Figure skating,team mixed
+9,,,8,Sochi 2014,Figure skating,team mixed

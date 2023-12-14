@@ -1,0 +1,148 @@
+,country,participant,result,olympic_game,discipline,event
+0,GBR,chris hoy,,London 2012,Cycling Track,Keirin men
+1,GER,maximilian levy,,London 2012,Cycling Track,Keirin men
+2,NZL,simon van velthooven,,London 2012,Cycling Track,Keirin men
+3,NED,teun mulder,,London 2012,Cycling Track,Keirin men
+4,AUS,shane perkins,,London 2012,Cycling Track,Keirin men
+5,MAS,azizulhasni awang,,London 2012,Cycling Track,Keirin men
+6,TTO,njisane phillip,10.818,London 2012,Cycling Track,Keirin men
+7,FRA,mickael bourgain,,London 2012,Cycling Track,Keirin men
+8,GRE,christos volikakis,,London 2012,Cycling Track,Keirin men
+9,ESP,juan peralta gascon,,London 2012,Cycling Track,Keirin men
+10,JPN,kazunari watanabe,,London 2012,Cycling Track,Keirin men
+11,VEN,hersony canelon,,London 2012,Cycling Track,Keirin men
+12,CAN,joseph veloce,,London 2012,Cycling Track,Keirin men
+13,POL,kamil kuczynski,,London 2012,Cycling Track,Keirin men
+14,RUS,sergey borisov,,London 2012,Cycling Track,Keirin men
+15,COL,fabian hernando puerta zapata,,London 2012,Cycling Track,Keirin men
+16,CHN,miao zhang,,London 2012,Cycling Track,Keirin men
+17,CZE,denis spicka,,London 2012,Cycling Track,Keirin men
+0,GBR,victoria pendleton,,London 2012,Cycling Track,Keirin women
+1,CHN,shuang guo,,London 2012,Cycling Track,Keirin women
+2,HKG,wai sze lee,,London 2012,Cycling Track,Keirin women
+3,FRA,clara sanchez,,London 2012,Cycling Track,Keirin women
+4,AUS,anna meares,,London 2012,Cycling Track,Keirin women
+5,CAN,monique sullivan,,London 2012,Cycling Track,Keirin women
+6,LTU,simona krupeckaite,11.456,London 2012,Cycling Track,Keirin women
+7,VEN,daniela greluis larreal chirinos,,London 2012,Cycling Track,Keirin women
+8,GER,kristina vogel,,London 2012,Cycling Track,Keirin women
+9,NZL,natasha hansen,,London 2012,Cycling Track,Keirin women
+10,NED,willy kanis,,London 2012,Cycling Track,Keirin women
+11,UKR,liubov basova,,London 2012,Cycling Track,Keirin women
+12,CUB,lisandra guerra,,London 2012,Cycling Track,Keirin women
+13,MAS,fatehah mustapa,,London 2012,Cycling Track,Keirin women
+14,BLR,olqa panarina-i̇smayılova,,London 2012,Cycling Track,Keirin women
+15,KOR,hyejin lee,,London 2012,Cycling Track,Keirin women
+16,COL,juliana gaviria rendon,,London 2012,Cycling Track,Keirin women
+17,RUS,ekaterina gnidenko,Disqualified,London 2012,Cycling Track,Keirin women
+0,DEN,lasse norman hansen,27,London 2012,Cycling Track,Omnium men
+1,FRA,bryan coquard,29,London 2012,Cycling Track,Omnium men
+2,GBR,edward clancy,30,London 2012,Cycling Track,Omnium men
+3,GER,roger kluge,33,London 2012,Cycling Track,Omnium men
+4,AUS,glenn oshea,34,London 2012,Cycling Track,Omnium men
+5,ITA,elia viviani,34,London 2012,Cycling Track,Omnium men
+6,NZL,shane archbold,48,London 2012,Cycling Track,Omnium men
+7,CAN,zachary bell,49,London 2012,Cycling Track,Omnium men
+8,ESP,eloy teruel rovira,59,London 2012,Cycling Track,Omnium men
+9,COL,juan esteban arango carvajal,60,London 2012,Cycling Track,Omnium men
+10,KOR,ho-seong jo,60,London 2012,Cycling Track,Omnium men
+11,USA,bobby lea,61,London 2012,Cycling Track,Omnium men
+12,IRL,martyn irvine,64,London 2012,Cycling Track,Omnium men
+13,ARG,walter fernando perez,72,London 2012,Cycling Track,Omnium men
+14,BEL,gijs van hoecke,77,London 2012,Cycling Track,Omnium men
+15,HKG,ki ho choi,89,London 2012,Cycling Track,Omnium men
+16,VEN,carlos daniel linarez zambrano,96,London 2012,Cycling Track,Omnium men
+17,CHI,luis mansilla,104,London 2012,Cycling Track,Omnium men
+0,GBR,laura kenny,18,London 2012,Cycling Track,Omnium women
+1,USA,sarah hammer,19,London 2012,Cycling Track,Omnium women
+2,AUS,annette edmondson,24,London 2012,Cycling Track,Omnium women
+3,CAN,tara whitten,37,London 2012,Cycling Track,Omnium women
+4,BEL,jolien d'hoore,45,London 2012,Cycling Track,Omnium women
+5,NED,kirsten wild,50,London 2012,Cycling Track,Omnium women
+6,NZL,joanne kiesanowski,55,London 2012,Cycling Track,Omnium women
+7,CUB,marlies mejias garcia,57,London 2012,Cycling Track,Omnium women
+8,BLR,tatsiana sharakova,59,London 2012,Cycling Track,Omnium women
+9,RUS,evgeniya romanyuta,61,London 2012,Cycling Track,Omnium women
+10,POL,malgorzata wojtyra,63,London 2012,Cycling Track,Omnium women
+11,CHN,li huang,67,London 2012,Cycling Track,Omnium women
+12,ESP,leire olaberria dorronsoro,69,London 2012,Cycling Track,Omnium women
+13,FRA,clara sanchez,72,London 2012,Cycling Track,Omnium women
+14,KOR,minhye lee,74,London 2012,Cycling Track,Omnium women
+15,COL,maria luisa calle williams,76,London 2012,Cycling Track,Omnium women
+16,TPE,mei yu hsiao,85,London 2012,Cycling Track,Omnium women
+17,VEN,angie sabrina gonzalez,95,London 2012,Cycling Track,Omnium women
+0,GBR,jason kenny,,London 2012,Cycling Track,Sprint men
+1,FRA,gregory bauge,,London 2012,Cycling Track,Sprint men
+2,AUS,shane perkins,,London 2012,Cycling Track,Sprint men
+3,TTO,njisane phillip,,London 2012,Cycling Track,Sprint men
+4,RUS,denis dmitriev,,London 2012,Cycling Track,Sprint men
+5,USA,jimmy watkins,,London 2012,Cycling Track,Sprint men
+6,GER,robert forstemann,,London 2012,Cycling Track,Sprint men
+7,MAS,azizulhasni awang,,London 2012,Cycling Track,Sprint men
+8,JPN,seiichiro nakagawa,10.950,London 2012,Cycling Track,Sprint men
+9,CZE,pavel kelemen,,London 2012,Cycling Track,Sprint men
+10,RSA,bernard esterhuizen,,London 2012,Cycling Track,Sprint men
+11,VEN,hersony canelon,,London 2012,Cycling Track,Sprint men
+12,CHN,miao zhang,,London 2012,Cycling Track,Sprint men
+13,NZL,edward dawkins,,London 2012,Cycling Track,Sprint men
+14,POL,damian zielinski,,London 2012,Cycling Track,Sprint men
+15,ESP,hodei mazquiaran uria,,London 2012,Cycling Track,Sprint men
+16,GRE,zafeirios volikakis,Disqualified,London 2012,Cycling Track,Sprint men
+0,AUS,anna meares,,London 2012,Cycling Track,sprint women
+1,GBR,victoria pendleton,,London 2012,Cycling Track,sprint women
+2,CHN,shuang guo,,London 2012,Cycling Track,sprint women
+3,GER,kristina vogel,,London 2012,Cycling Track,sprint women
+4,LTU,simona krupeckaite,,London 2012,Cycling Track,sprint women
+5,CUB,lisandra guerra,,London 2012,Cycling Track,sprint women
+6,UKR,liubov basova,,London 2012,Cycling Track,sprint women
+7,BLR,olqa panarina-i̇smayılova,,London 2012,Cycling Track,sprint women
+8,NED,willy kanis,11.852,London 2012,Cycling Track,sprint women
+9,HKG,wai sze lee,,London 2012,Cycling Track,sprint women
+10,CAN,monique sullivan,,London 2012,Cycling Track,sprint women
+11,NZL,natasha hansen,,London 2012,Cycling Track,sprint women
+12,COL,juliana gaviria rendon,,London 2012,Cycling Track,sprint women
+13,KOR,hyejin lee,,London 2012,Cycling Track,sprint women
+14,FRA,virginie cueff,,London 2012,Cycling Track,sprint women
+15,VEN,daniela greluis larreal chirinos,,London 2012,Cycling Track,sprint women
+16,JPN,kayono maeda,,London 2012,Cycling Track,sprint women
+17,RUS,ekaterina gnidenko,Disqualified,London 2012,Cycling Track,sprint women
+0,,,,London 2012,Cycling Track,Team Pursuit 3000m women
+1,,,,London 2012,Cycling Track,Team Pursuit 3000m women
+2,,,,London 2012,Cycling Track,Team Pursuit 3000m women
+3,,,,London 2012,Cycling Track,Team Pursuit 3000m women
+4,,,,London 2012,Cycling Track,Team Pursuit 3000m women
+5,,,,London 2012,Cycling Track,Team Pursuit 3000m women
+6,,,00:03:20.245,London 2012,Cycling Track,Team Pursuit 3000m women
+7,,,00:03:20.824,London 2012,Cycling Track,Team Pursuit 3000m women
+8,,,,London 2012,Cycling Track,Team Pursuit 3000m women
+9,,,,London 2012,Cycling Track,Team Pursuit 3000m women
+0,,,,London 2012,Cycling Track,Team Pursuit 4000m men
+1,,,,London 2012,Cycling Track,Team Pursuit 4000m men
+2,,,,London 2012,Cycling Track,Team Pursuit 4000m men
+3,,,,London 2012,Cycling Track,Team Pursuit 4000m men
+4,,,,London 2012,Cycling Track,Team Pursuit 4000m men
+5,,,,London 2012,Cycling Track,Team Pursuit 4000m men
+6,,,00:04:04.569,London 2012,Cycling Track,Team Pursuit 4000m men
+7,,,00:04:04.772,London 2012,Cycling Track,Team Pursuit 4000m men
+8,,,,London 2012,Cycling Track,Team Pursuit 4000m men
+9,,,,London 2012,Cycling Track,Team Pursuit 4000m men
+0,,,,London 2012,Cycling Track,Team sprint men
+1,,,,London 2012,Cycling Track,Team sprint men
+2,,,43.209,London 2012,Cycling Track,Team sprint men
+3,,,43.355,London 2012,Cycling Track,Team sprint men
+4,,,,London 2012,Cycling Track,Team sprint men
+5,,,,London 2012,Cycling Track,Team sprint men
+6,,,,London 2012,Cycling Track,Team sprint men
+7,,,,London 2012,Cycling Track,Team sprint men
+8,,,,London 2012,Cycling Track,Team sprint men
+9,,,,London 2012,Cycling Track,Team sprint men
+0,GER,miriam welte,,London 2012,Cycling Track,Team sprint women
+1,CHN,shuang guo,,London 2012,Cycling Track,Team sprint women
+2,AUS,anna meares,32.727,London 2012,Cycling Track,Team sprint women
+3,UKR,olena tsyos,33.491,London 2012,Cycling Track,Team sprint women
+4,NED,yvonne hijgenaar,,London 2012,Cycling Track,Team sprint women
+5,FRA,virginie cueff,,London 2012,Cycling Track,Team sprint women
+6,VEN,mariaesthela vilera,,London 2012,Cycling Track,Team sprint women
+7,GBR,victoria pendleton,,London 2012,Cycling Track,Team sprint women
+8,KOR,hyejin lee,,London 2012,Cycling Track,Team sprint women
+9,COL,juliana gaviria rendon,,London 2012,Cycling Track,Team sprint women

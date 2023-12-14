@@ -1,0 +1,75 @@
+,country,participant,result,olympic_game,discipline,event
+0,FRA,pierre trentin,00:01:03.910,Mexico City 1968,Cycling Track,1km time trial men
+1,DEN,niels christian fredborg,00:01:04.610,Mexico City 1968,Cycling Track,1km time trial men
+2,POL,janusz kierzkowski,00:01:04.630,Mexico City 1968,Cycling Track,1km time trial men
+3,ITA,gianni sartori,00:01:04.650,Mexico City 1968,Cycling Track,1km time trial men
+4,TTO,roger gibbon,00:01:04.660,Mexico City 1968,Cycling Track,1km time trial men
+5,NED,leijn loevesijn,00:01:04.840,Mexico City 1968,Cycling Track,1km time trial men
+6,CAN,jocelyn charles lovell,00:01:05.180,Mexico City 1968,Cycling Track,1km time trial men
+7,URS,sergei kravtsov,00:01:05.210,Mexico City 1968,Cycling Track,1km time trial men
+8,ARG,jose pittaro santalazzaro,00:01:05.570,Mexico City 1968,Cycling Track,1km time trial men
+9,GDR,heinz richter,00:01:05.610,Mexico City 1968,Cycling Track,1km time trial men
+10,FRG,herbert honz,00:01:05.610,Mexico City 1968,Cycling Track,1km time trial men
+11,USA,john weston iii simes,00:01:05.670,Mexico City 1968,Cycling Track,1km time trial men
+12,URU,luis a. barruffa,00:01:06.270,Mexico City 1968,Cycling Track,1km time trial men
+13,AUS,hilton clarke,00:01:06.450,Mexico City 1968,Cycling Track,1km time trial men
+14,TCH,milos jelinek,00:01:06.520,Mexico City 1968,Cycling Track,1km time trial men
+15,GBR,brendon patrick mckeown,00:01:06.560,Mexico City 1968,Cycling Track,1km time trial men
+16,HUN,tibor lendvai,00:01:06.650,Mexico City 1968,Cycling Track,1km time trial men
+17,BEL,dirk baert,00:01:07.340,Mexico City 1968,Cycling Track,1km time trial men
+18,JPN,sanji inoue,00:01:07.540,Mexico City 1968,Cycling Track,1km time trial men
+19,PUR,edwin torres,00:01:07.650,Mexico City 1968,Cycling Track,1km time trial men
+20,MEX,jose mercado escareno,00:01:07.970,Mexico City 1968,Cycling Track,1km time trial men
+21,SWE,josef (jupp) ripfel,00:01:08.650,Mexico City 1968,Cycling Track,1km time trial men
+22,FIN,raimo rainer suikkanen,00:01:08.920,Mexico City 1968,Cycling Track,1km time trial men
+23,CUB,raul vazquez,00:01:08.960,Mexico City 1968,Cycling Track,1km time trial men
+24,COL,jorge hernandez jimenez,00:01:09.240,Mexico City 1968,Cycling Track,1km time trial men
+25,KOR,gwang-seon kim,00:01:09.400,Mexico City 1968,Cycling Track,1km time trial men
+26,BAR,kensley reece,00:01:09.900,Mexico City 1968,Cycling Track,1km time trial men
+27,PHI,rolando guaves,00:01:10.020,Mexico City 1968,Cycling Track,1km time trial men
+28,THA,pakanit boriharnvanakhet,00:01:10.660,Mexico City 1968,Cycling Track,1km time trial men
+29,TPE,yue-tao fan,00:01:11.130,Mexico City 1968,Cycling Track,1km time trial men
+30,GUY,aubrey bryce,00:01:12.730,Mexico City 1968,Cycling Track,1km time trial men
+31,LBN,tarek abou zahab,00:01:16.180,Mexico City 1968,Cycling Track,1km time trial men
+0,FRA,pierre trentin,,Mexico City 1968,Cycling Track,2000m tandem men
+1,NED,johannes hendrikus jansen,,Mexico City 1968,Cycling Track,2000m tandem men
+2,BEL,daniel goens,2,Mexico City 1968,Cycling Track,2000m tandem men
+3,ITA,luigi borghetti,0,Mexico City 1968,Cycling Track,2000m tandem men
+4,FRG,klaus kobusch,,Mexico City 1968,Cycling Track,2000m tandem men
+5,GDR,hans-jürgen geschke,,Mexico City 1968,Cycling Track,2000m tandem men
+6,TCH,milos jelinek,,Mexico City 1968,Cycling Track,2000m tandem men
+7,URS,igor tselovalnikov,,Mexico City 1968,Cycling Track,2000m tandem men
+8,HUN,tibor lendvai,,Mexico City 1968,Cycling Track,2000m tandem men
+9,AUS,gordon johnson,,Mexico City 1968,Cycling Track,2000m tandem men
+0,FRA,daniel rebillard,,Mexico City 1968,Cycling Track,Individual Pursuit men
+1,DEN,mogens frey jensen,,Mexico City 1968,Cycling Track,Individual Pursuit men
+2,SUI,xaver kurmann,00:04:39.420,Mexico City 1968,Cycling Track,Individual Pursuit men
+3,AUS,john christopher bylsma,00:04:41.600,Mexico City 1968,Cycling Track,Individual Pursuit men
+4,ITA,cipriano chemello,,Mexico City 1968,Cycling Track,Individual Pursuit men
+5,BEL,paul crapez,,Mexico City 1968,Cycling Track,Individual Pursuit men
+6,FRG,rupert kratzer,,Mexico City 1968,Cycling Track,Individual Pursuit men
+7,MEX,radames trevino,,Mexico City 1968,Cycling Track,Individual Pursuit men
+8,COL,martín rodríguez,,Mexico City 1968,Cycling Track,Individual Pursuit men
+9,POL,rajmund zielinski,,Mexico City 1968,Cycling Track,Individual Pursuit men
+10,CUB,inocente lizano viciedo,overtaken,Mexico City 1968,Cycling Track,Individual Pursuit men
+11,NED,fedor den hertog,overtaken,Mexico City 1968,Cycling Track,Individual Pursuit men
+12,ROU,emil rusu,overtaken,Mexico City 1968,Cycling Track,Individual Pursuit men
+13,KOR,jung-hyeon gwon,overtaken,Mexico City 1968,Cycling Track,Individual Pursuit men
+14,THA,pakanit boriharnvanakhet,overtaken,Mexico City 1968,Cycling Track,Individual Pursuit men
+15,BIZ,denfield roosevelt mcnab,overtaken,Mexico City 1968,Cycling Track,Individual Pursuit men
+0,FRA,daniel morelon,,Mexico City 1968,Cycling Track,Sprint individual men
+1,ITA,giordano turrini,,Mexico City 1968,Cycling Track,Sprint individual men
+2,FRA,pierre trentin,2,Mexico City 1968,Cycling Track,Sprint individual men
+3,URS,omar pkhakadze,1,Mexico City 1968,Cycling Track,Sprint individual men
+4,FRG,jurgen barth,,Mexico City 1968,Cycling Track,Sprint individual men
+5,NED,johannes hendrikus jansen,,Mexico City 1968,Cycling Track,Sprint individual men
+6,NED,leijn loevesijn,,Mexico City 1968,Cycling Track,Sprint individual men
+7,ITA,dino verzini,,Mexico City 1968,Cycling Track,Sprint individual men
+0,,,,Mexico City 1968,Cycling Track,Team Pursuit 4000m men
+1,,,,Mexico City 1968,Cycling Track,Team Pursuit 4000m men
+2,,,00:04:18.350,Mexico City 1968,Cycling Track,Team Pursuit 4000m men
+3,,,00:04:33.390,Mexico City 1968,Cycling Track,Team Pursuit 4000m men
+4,,,,Mexico City 1968,Cycling Track,Team Pursuit 4000m men
+5,,,,Mexico City 1968,Cycling Track,Team Pursuit 4000m men
+6,,,,Mexico City 1968,Cycling Track,Team Pursuit 4000m men
+7,,,,Mexico City 1968,Cycling Track,Team Pursuit 4000m men

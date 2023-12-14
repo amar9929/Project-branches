@@ -1,0 +1,93 @@
+,country,participant,result,olympic_game,discipline,event
+0,RUS,roman kostomarov,200.64,Turin 2006,Figure skating,Ice dancing mixed
+1,USA,benjamin agosto,196.06,Turin 2006,Figure skating,Ice dancing mixed
+2,UKR,ruslan goncharov,195.85,Turin 2006,Figure skating,Ice dancing mixed
+3,FRA,isabelle delobel,194.28,Turin 2006,Figure skating,Ice dancing mixed
+4,BUL,albena denkova,189.53,Turin 2006,Figure skating,Ice dancing mixed
+5,ITA,barbara fusar poli,183.46,Turin 2006,Figure skating,Ice dancing mixed
+6,LTU,margarita drobiazko,183.21,Turin 2006,Figure skating,Ice dancing mixed
+7,ISR,galit chait,181.16,Turin 2006,Figure skating,Ice dancing mixed
+8,RUS,oksana domnina,173.76,Turin 2006,Figure skating,Ice dancing mixed
+9,GBR,john kerr,167.43,Turin 2006,Figure skating,Ice dancing mixed
+10,CAN,aaron lowe,166.40,Turin 2006,Figure skating,Ice dancing mixed
+11,RUS,jana khokhlova,164.48,Turin 2006,Figure skating,Ice dancing mixed
+12,ITA,federica faiella,164.37,Turin 2006,Figure skating,Ice dancing mixed
+13,USA,denis petukhov,159.15,Turin 2006,Figure skating,Ice dancing mixed
+14,JPN,akiyuki kido,153.41,Turin 2006,Figure skating,Ice dancing mixed
+15,USA,ryan o'meara,150.40,Turin 2006,Figure skating,Ice dancing mixed
+16,HUN,nora hoffmann,149.47,Turin 2006,Figure skating,Ice dancing mixed
+17,FRA,fabian bourzat,149.31,Turin 2006,Figure skating,Ice dancing mixed
+18,AZE,igor lukanin,148.24,Turin 2006,Figure skating,Ice dancing mixed
+19,ARM,vazgen azrojan,137.99,Turin 2006,Figure skating,Ice dancing mixed
+20,POL,michal zych,136.60,Turin 2006,Figure skating,Ice dancing mixed
+21,ISR,roman zaretski,135.80,Turin 2006,Figure skating,Ice dancing mixed
+22,UKR,oleg voiko,128.49,Turin 2006,Figure skating,Ice dancing mixed
+23,CAN,patrice lauzon,Did not finish,Turin 2006,Figure skating,Ice dancing mixed
+0,RUS,evgeni viktorovich plushenko,258.33,Turin 2006,Figure skating,Individual men
+1,SUI,stephane lambiel,231.21,Turin 2006,Figure skating,Individual men
+2,CAN,jeffrey buttle,227.59,Turin 2006,Figure skating,Individual men
+3,USA,evan lysacek,220.13,Turin 2006,Figure skating,Individual men
+4,USA,johnny weir,216.63,Turin 2006,Figure skating,Individual men
+5,FRA,brian joubert,212.89,Turin 2006,Figure skating,Individual men
+6,USA,matthew savoie,206.67,Turin 2006,Figure skating,Individual men
+7,JPN,daisuke takahashi,204.89,Turin 2006,Figure skating,Individual men
+8,BEL,kevin van der perren,197.39,Turin 2006,Figure skating,Individual men
+9,CHN,min zhang,196.27,Turin 2006,Figure skating,Individual men
+10,RUS,ilia klimkin,191.80,Turin 2006,Figure skating,Individual men
+11,CAN,shawn sawyer,190.83,Turin 2006,Figure skating,Individual men
+12,CAN,emanuel sandhu,190.24,Turin 2006,Figure skating,Individual men
+13,ROU,gheorghe chiper,186.19,Turin 2006,Figure skating,Individual men
+14,BLR,sergei davydov,184.59,Turin 2006,Figure skating,Individual men
+15,CHN,chengjiang li,182.21,Turin 2006,Figure skating,Individual men
+16,BUL,ivan dinev,180.11,Turin 2006,Figure skating,Individual men
+17,CZE,tomas verner,180.07,Turin 2006,Figure skating,Individual men
+18,FRA,frederic dambier,177.59,Turin 2006,Figure skating,Individual men
+19,UKR,anton kovalevski,172.84,Turin 2006,Figure skating,Individual men
+20,GER,stefan lindemann,172.57,Turin 2006,Figure skating,Individual men
+21,AUT,viktor pfeifer,163.87,Turin 2006,Figure skating,Individual men
+22,SWE,kristoffer berntsson,161.95,Turin 2006,Figure skating,Individual men
+23,HUN,zoltan toth,145.47,Turin 2006,Figure skating,Individual men
+0,JPN,shizuka arakawa,191.34,Turin 2006,Figure skating,Individual women
+1,USA,sasha cohen,183.36,Turin 2006,Figure skating,Individual women
+2,RUS,irina slutskaya,181.44,Turin 2006,Figure skating,Individual women
+3,JPN,fumie suguri,175.23,Turin 2006,Figure skating,Individual women
+4,CAN,joannie rochette,167.27,Turin 2006,Figure skating,Individual women
+5,USA,kimmie meissner,165.71,Turin 2006,Figure skating,Individual women
+6,USA,emily hughes,160.87,Turin 2006,Figure skating,Individual women
+7,SUI,sarah meier,156.13,Turin 2006,Figure skating,Individual women
+8,ITA,carolina kostner,153.50,Turin 2006,Figure skating,Individual women
+9,GEO,elene gedevanishvili,151.46,Turin 2006,Figure skating,Individual women
+10,CHN,yan liu,145.30,Turin 2006,Figure skating,Individual women
+11,CAN,mira leung,145.16,Turin 2006,Figure skating,Individual women
+12,FIN,susanna poykio,143.22,Turin 2006,Figure skating,Individual women
+13,RUS,elena sokolova,142.35,Turin 2006,Figure skating,Individual women
+14,JPN,miki ando,140.20,Turin 2006,Figure skating,Individual women
+15,FIN,kiira korpi,137.20,Turin 2006,Figure skating,Individual women
+16,UKR,elena liashenko,134.08,Turin 2006,Figure skating,Individual women
+17,HUN,julia sebestyen,129.26,Turin 2006,Figure skating,Individual women
+18,CRO,idora hegel,127.07,Turin 2006,Figure skating,Individual women
+19,UKR,halyna maniachenko-yefremenko,125.37,Turin 2006,Figure skating,Individual women
+20,TUR,tugba karademir,123.64,Turin 2006,Figure skating,Individual women
+21,ITA,silvia fontana,120.37,Turin 2006,Figure skating,Individual women
+22,HUN,viktoria pavuk,119.85,Turin 2006,Figure skating,Individual women
+23,LUX,fleur maxwell,109.57,Turin 2006,Figure skating,Individual women
+0,RUS,maxim marinin,204.48,Turin 2006,Figure skating,Pairs mixed
+1,CHN,hao zhang,189.73,Turin 2006,Figure skating,Pairs mixed
+2,CHN,xue shen,186.91,Turin 2006,Figure skating,Pairs mixed
+3,CHN,jian tong,186.67,Turin 2006,Figure skating,Pairs mixed
+4,RUS,alexei tikhonov,181.69,Turin 2006,Figure skating,Pairs mixed
+5,GER,aljona savchenko,180.15,Turin 2006,Figure skating,Pairs mixed
+6,USA,rena inoue,175.01,Turin 2006,Figure skating,Pairs mixed
+7,RUS,julia obertas,166.54,Turin 2006,Figure skating,Pairs mixed
+8,POL,dorota zagorska,165.95,Turin 2006,Figure skating,Pairs mixed
+9,CAN,bryce davison,159.71,Turin 2006,Figure skating,Pairs mixed
+10,CAN,craig buntin,158.21,Turin 2006,Figure skating,Pairs mixed
+11,UKR,tatiana volosozhar,148.38,Turin 2006,Figure skating,Pairs mixed
+12,USA,marcy hinzmann,147.05,Turin 2006,Figure skating,Pairs mixed
+13,FRA,marylin pla,132.84,Turin 2006,Figure skating,Pairs mixed
+14,GER,eva-maria fitze,120.23,Turin 2006,Figure skating,Pairs mixed
+15,UZB,marina aganina,119.55,Turin 2006,Figure skating,Pairs mixed
+16,EST,aleksei saks,118.13,Turin 2006,Figure skating,Pairs mixed
+17,UKR,andrei bekh,115.62,Turin 2006,Figure skating,Pairs mixed
+18,BUL,rumyana spasova,111.25,Turin 2006,Figure skating,Pairs mixed
+19,PRK,yong myong phyo,Did not finish,Turin 2006,Figure skating,Pairs mixed

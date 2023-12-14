@@ -1,0 +1,396 @@
+,country,participant,result,olympic_game,discipline,event
+0,FIN,marja-liisa kirvesniemi haemaelaeinen,00:31:44.200,Sarajevo 1984,Cross Country Skiing,10km women
+1,URS,raisa smetanina,00:32:02.900,Sarajevo 1984,Cross Country Skiing,10km women
+2,NOR,brit pettersen,00:32:12.700,Sarajevo 1984,Cross Country Skiing,10km women
+3,NOR,berit aunli,00:32:17.700,Sarajevo 1984,Cross Country Skiing,10km women
+4,NOR,anne jahren,00:32:26.200,Sarajevo 1984,Cross Country Skiing,10km women
+5,SWE,marie johansson-risby,00:32:34.600,Sarajevo 1984,Cross Country Skiing,10km women
+6,NOR,marit myrmael,00:32:35.300,Sarajevo 1984,Cross Country Skiing,10km women
+7,URS,yulia stepanova,00:32:45.700,Sarajevo 1984,Cross Country Skiing,10km women
+8,URS,nadejda burlakova,00:32:55.800,Sarajevo 1984,Cross Country Skiing,10km women
+9,TCH,kvetoslava jeriova,00:32:58.700,Sarajevo 1984,Cross Country Skiing,10km women
+10,SUI,evi kratzer,00:33:04.800,Sarajevo 1984,Cross Country Skiing,10km women
+11,URS,lyubov lyadova,00:33:05.800,Sarajevo 1984,Cross Country Skiing,10km women
+12,TCH,blanka paulu,00:33:07.800,Sarajevo 1984,Cross Country Skiing,10km women
+13,TCH,gabriela svobodova,00:33:29.100,Sarajevo 1984,Cross Country Skiing,10km women
+14,GDR,ute noack,00:33:37.500,Sarajevo 1984,Cross Country Skiing,10km women
+15,ITA,guidina dal sasso,00:33:48.200,Sarajevo 1984,Cross Country Skiing,10km women
+16,GDR,petra rohrmann,00:34:00.300,Sarajevo 1984,Cross Country Skiing,10km women
+17,SWE,karin ingrid lamberg,00:34:01.300,Sarajevo 1984,Cross Country Skiing,10km women
+18,FIN,pirkko määttä,00:34:13.400,Sarajevo 1984,Cross Country Skiing,10km women
+19,SUI,christina brügger,00:34:17.800,Sarajevo 1984,Cross Country Skiing,10km women
+20,SWE,ann janeth rosendahl,00:34:28.000,Sarajevo 1984,Cross Country Skiing,10km women
+21,CAN,shirley firth,00:34:31.300,Sarajevo 1984,Cross Country Skiing,10km women
+22,SUI,karin thomas,00:34:31.600,Sarajevo 1984,Cross Country Skiing,10km women
+23,GDR,carola anding,00:34:33.300,Sarajevo 1984,Cross Country Skiing,10km women
+24,FIN,eija hyytiainen,00:34:33.800,Sarajevo 1984,Cross Country Skiing,10km women
+25,USA,judy rabinowitz,00:34:35.100,Sarajevo 1984,Cross Country Skiing,10km women
+26,TCH,hana pasiarova,00:34:35.900,Sarajevo 1984,Cross Country Skiing,10km women
+27,ITA,manuela di centa,00:34:41.600,Sarajevo 1984,Cross Country Skiing,10km women
+28,CAN,sharon firth,00:34:47.000,Sarajevo 1984,Cross Country Skiing,10km women
+29,YUG,jana mlakar,00:34:52.200,Sarajevo 1984,Cross Country Skiing,10km women
+30,SWE,stina ulrika karlsson,00:34:52.400,Sarajevo 1984,Cross Country Skiing,10km women
+31,USA,susan long,00:34:58.900,Sarajevo 1984,Cross Country Skiing,10km women
+32,FRG,karin jäger,00:35:05.200,Sarajevo 1984,Cross Country Skiing,10km women
+33,ITA,paola pozzoni,00:35:30.800,Sarajevo 1984,Cross Country Skiing,10km women
+34,ITA,clara angerer,00:35:31.100,Sarajevo 1984,Cross Country Skiing,10km women
+35,CAN,angela e. schmidt,00:35:35.000,Sarajevo 1984,Cross Country Skiing,10km women
+36,FIN,erja kuivalainen,00:35:35.200,Sarajevo 1984,Cross Country Skiing,10km women
+37,SUI,monika germann,00:35:36.000,Sarajevo 1984,Cross Country Skiing,10km women
+38,USA,patricia ross,00:35:41.300,Sarajevo 1984,Cross Country Skiing,10km women
+39,USA,lynn margaret spencer,00:35:47.400,Sarajevo 1984,Cross Country Skiing,10km women
+40,YUG,andreja smrekar,00:36:10.400,Sarajevo 1984,Cross Country Skiing,10km women
+41,ROU,livia elena reit,00:36:20.900,Sarajevo 1984,Cross Country Skiing,10km women
+42,YUG,metka munih,00:37:18.400,Sarajevo 1984,Cross Country Skiing,10km women
+43,YUG,tatjana smolnikar,00:37:58.100,Sarajevo 1984,Cross Country Skiing,10km women
+44,GBR,ros coates,00:38:12.200,Sarajevo 1984,Cross Country Skiing,10km women
+45,GBR,nicola lavery,00:39:05.200,Sarajevo 1984,Cross Country Skiing,10km women
+46,GBR,doris trueman,00:39:28.400,Sarajevo 1984,Cross Country Skiing,10km women
+47,GBR,laureen jeffrey,00:40:11.200,Sarajevo 1984,Cross Country Skiing,10km women
+48,CHN,yu-feng chen,00:41:27.700,Sarajevo 1984,Cross Country Skiing,10km women
+49,CHN,ai-xia dou,00:41:35.700,Sarajevo 1984,Cross Country Skiing,10km women
+50,CHN,chang-yun zhang,00:42:26.600,Sarajevo 1984,Cross Country Skiing,10km women
+51,CHN,shi-ji song,00:42:28.100,Sarajevo 1984,Cross Country Skiing,10km women
+0,SWE,gunde anders svan,00:41:25.600,Sarajevo 1984,Cross Country Skiing,15km men
+1,FIN,aki karvonen,00:41:34.900,Sarajevo 1984,Cross Country Skiing,15km men
+2,FIN,harri kirvesniemi,00:41:45.600,Sarajevo 1984,Cross Country Skiing,15km men
+3,FIN,juha mieto,00:42:05.800,Sarajevo 1984,Cross Country Skiing,15km men
+4,URS,vladimir nikitine,00:42:31.600,Sarajevo 1984,Cross Country Skiing,15km men
+5,URS,nikolay zimyatov,00:42:34.500,Sarajevo 1984,Cross Country Skiing,15km men
+6,GDR,uwe bellman,00:42:35.800,Sarajevo 1984,Cross Country Skiing,15km men
+7,NOR,tor haakon holte,00:42:37.400,Sarajevo 1984,Cross Country Skiing,15km men
+8,ITA,maurilio de zolt,00:42:40.000,Sarajevo 1984,Cross Country Skiing,15km men
+9,URS,aleksandr batiuk,00:42:42.200,Sarajevo 1984,Cross Country Skiing,15km men
+10,SUI,andi grünenfelder,00:42:45.700,Sarajevo 1984,Cross Country Skiing,15km men
+11,SUI,giachem guidon,00:42:45.900,Sarajevo 1984,Cross Country Skiing,15km men
+12,FIN,kari härkönen,00:42:49.300,Sarajevo 1984,Cross Country Skiing,15km men
+13,ITA,giorgio vanzetta,00:42:54.900,Sarajevo 1984,Cross Country Skiing,15km men
+14,SWE,sven-erik danielsson,00:42:55.900,Sarajevo 1984,Cross Country Skiing,15km men
+15,URS,aleksandr zavyalov,00:42:59.000,Sarajevo 1984,Cross Country Skiing,15km men
+16,NOR,paal gunnar mikkelsplass,00:42:59.700,Sarajevo 1984,Cross Country Skiing,15km men
+17,USA,dan simoneau,00:43:03.400,Sarajevo 1984,Cross Country Skiing,15km men
+18,SWE,benny tord kohlberg,00:43:21.500,Sarajevo 1984,Cross Country Skiing,15km men
+19,NOR,geir holte,00:43:23.300,Sarajevo 1984,Cross Country Skiing,15km men
+20,CAN,pierre harvey,00:43:36.400,Sarajevo 1984,Cross Country Skiing,15km men
+21,SWE,torgny mogren,00:43:39.400,Sarajevo 1984,Cross Country Skiing,15km men
+22,GDR,uwe wünsch,00:43:49.900,Sarajevo 1984,Cross Country Skiing,15km men
+23,ITA,giulio capitanio,00:43:50.800,Sarajevo 1984,Cross Country Skiing,15km men
+24,AUT,alois stadlober,00:43:51.600,Sarajevo 1984,Cross Country Skiing,15km men
+25,GDR,frank schröder,00:43:52.100,Sarajevo 1984,Cross Country Skiing,15km men
+26,USA,william koch,00:43:53.700,Sarajevo 1984,Cross Country Skiing,15km men
+27,SUI,konrad hallenbarter,00:44:00.300,Sarajevo 1984,Cross Country Skiing,15km men
+28,TCH,milos becvar,00:44:00.800,Sarajevo 1984,Cross Country Skiing,15km men
+29,FRG,stefan dotzler,00:44:02.600,Sarajevo 1984,Cross Country Skiing,15km men
+30,FRA,dominique locatelli,00:44:07.500,Sarajevo 1984,Cross Country Skiing,15km men
+31,SUI,markus fähndrich,00:44:08.000,Sarajevo 1984,Cross Country Skiing,15km men
+32,FRG,franz schöbel,00:44:11.100,Sarajevo 1984,Cross Country Skiing,15km men
+33,ITA,gianfranco polvara,00:44:35.700,Sarajevo 1984,Cross Country Skiing,15km men
+34,YUG,ivo carman,00:45:04.000,Sarajevo 1984,Cross Country Skiing,15km men
+35,POL,jozef luszczek,00:45:04.800,Sarajevo 1984,Cross Country Skiing,15km men
+36,FRG,josef schneider,00:45:08.700,Sarajevo 1984,Cross Country Skiing,15km men
+37,BUL,atanas simitchiev,00:45:17.000,Sarajevo 1984,Cross Country Skiing,15km men
+38,USA,timothy caldwell,00:45:21.200,Sarajevo 1984,Cross Country Skiing,15km men
+39,YUG,dusan djuricic,00:45:24.600,Sarajevo 1984,Cross Country Skiing,15km men
+40,GDR,karsten brandt,00:45:40.100,Sarajevo 1984,Cross Country Skiing,15km men
+41,LIE,konstantin ritter,00:45:41.500,Sarajevo 1984,Cross Country Skiing,15km men
+42,JPN,hideaki yamada,00:45:42.300,Sarajevo 1984,Cross Country Skiing,15km men
+43,FRA,jean-denis jaussaud,00:45:44.400,Sarajevo 1984,Cross Country Skiing,15km men
+44,ESP,josé giro,00:45:50.300,Sarajevo 1984,Cross Country Skiing,15km men
+45,TCH,pavel benc,00:46:03.800,Sarajevo 1984,Cross Country Skiing,15km men
+46,JPN,kazunari sasaki,00:46:04.800,Sarajevo 1984,Cross Country Skiing,15km men
+47,YUG,saso grajf,00:46:21.100,Sarajevo 1984,Cross Country Skiing,15km men
+48,ISL,einar olafsson,00:46:21.700,Sarajevo 1984,Cross Country Skiing,15km men
+49,JPN,satoshi sato,00:46:25.500,Sarajevo 1984,Cross Country Skiing,15km men
+50,BUL,svetoslav atanassov,00:46:28.900,Sarajevo 1984,Cross Country Skiing,15km men
+51,BUL,milush ivanchev,00:46:30.100,Sarajevo 1984,Cross Country Skiing,15km men
+52,AUT,andreas gumpold,00:46:34.500,Sarajevo 1984,Cross Country Skiing,15km men
+53,USA,todd boonstra,00:46:36.500,Sarajevo 1984,Cross Country Skiing,15km men
+54,ISL,gottlieb konradsson,00:46:37.800,Sarajevo 1984,Cross Country Skiing,15km men
+55,JPN,yusei nakazava,00:46:38.600,Sarajevo 1984,Cross Country Skiing,15km men
+56,GBR,john spotswood,00:46:53.700,Sarajevo 1984,Cross Country Skiing,15km men
+57,GBR,mark moore,00:47:03.200,Sarajevo 1984,Cross Country Skiing,15km men
+58,AUS,david hislop,00:47:25.500,Sarajevo 1984,Cross Country Skiing,15km men
+59,GBR,michael dixon,00:48:18.600,Sarajevo 1984,Cross Country Skiing,15km men
+60,ESP,miguel prat sagales,00:48:30.600,Sarajevo 1984,Cross Country Skiing,15km men
+61,KOR,ki-ho park,00:48:55.600,Sarajevo 1984,Cross Country Skiing,15km men
+62,GBR,martin watkins,00:49:08.700,Sarajevo 1984,Cross Country Skiing,15km men
+63,AUS,chris allen,00:49:14.500,Sarajevo 1984,Cross Country Skiing,15km men
+64,MGL,dorj luvsandashiin,00:49:17.800,Sarajevo 1984,Cross Country Skiing,15km men
+65,CHN,shi song,00:49:42.100,Sarajevo 1984,Cross Country Skiing,15km men
+66,CHN,xiao-ming li,00:50:03.300,Sarajevo 1984,Cross Country Skiing,15km men
+67,CHN,guang-hao lin,00:50:26.100,Sarajevo 1984,Cross Country Skiing,15km men
+68,CHN,dian-fa zhu,00:50:42.300,Sarajevo 1984,Cross Country Skiing,15km men
+69,TUR,nihattin koca,00:51:58.700,Sarajevo 1984,Cross Country Skiing,15km men
+70,KOR,bo-nam kim,00:52:04.400,Sarajevo 1984,Cross Country Skiing,15km men
+71,ARG,norberto baumann,00:52:08.900,Sarajevo 1984,Cross Country Skiing,15km men
+72,ARG,julio c. moreschi,00:52:19.100,Sarajevo 1984,Cross Country Skiing,15km men
+73,TUR,erhan dursun,00:53:40.300,Sarajevo 1984,Cross Country Skiing,15km men
+74,ARG,ricardo holler,00:54:34.600,Sarajevo 1984,Cross Country Skiing,15km men
+75,ARG,martin n. pearson,00:54:50.000,Sarajevo 1984,Cross Country Skiing,15km men
+76,GRE,dimitrios biliouris,00:56:07.700,Sarajevo 1984,Cross Country Skiing,15km men
+77,GRE,lazaros tosounidis,00:57:09.700,Sarajevo 1984,Cross Country Skiing,15km men
+78,CRC,arturo kinch,00:58:42.900,Sarajevo 1984,Cross Country Skiing,15km men
+79,TPE,ming-yih ueng,01:00:10.600,Sarajevo 1984,Cross Country Skiing,15km men
+80,TPE,kun-shung chang,01:02:57.700,Sarajevo 1984,Cross Country Skiing,15km men
+81,SMR,andrea sammaritani,01:03:05.300,Sarajevo 1984,Cross Country Skiing,15km men
+82,TPE,chi thung wang,01:03:17.000,Sarajevo 1984,Cross Country Skiing,15km men
+83,TUR,muzaffer selcuk,Did not finish,Sarajevo 1984,Cross Country Skiing,15km men
+84,FRG,jochen behle,Did not finish,Sarajevo 1984,Cross Country Skiing,15km men
+85,MGL,gankhuyag dondogiin,Disqualified,Sarajevo 1984,Cross Country Skiing,15km men
+86,MGL,renchinkhorol vangansürengiin,Disqualified,Sarajevo 1984,Cross Country Skiing,15km men
+87,KOR,sung-hoon cho,Disqualified,Sarajevo 1984,Cross Country Skiing,15km men
+88,YUG,joze klemencic,Disqualified,Sarajevo 1984,Cross Country Skiing,15km men
+89,NOR,ove aunli,Disqualified,Sarajevo 1984,Cross Country Skiing,15km men
+90,MGL,batsükh pürevjavyn,Disqualified,Sarajevo 1984,Cross Country Skiing,15km men
+0,FIN,marja-liisa kirvesniemi haemaelaeinen,01:01:45.000,Sarajevo 1984,Cross Country Skiing,20km women
+1,URS,raisa smetanina,01:02:26.700,Sarajevo 1984,Cross Country Skiing,20km women
+2,NOR,anne jahren,01:03:13.600,Sarajevo 1984,Cross Country Skiing,20km women
+3,TCH,blanka paulu,01:03:16.900,Sarajevo 1984,Cross Country Skiing,20km women
+4,SWE,marie johansson-risby,01:03:31.800,Sarajevo 1984,Cross Country Skiing,20km women
+5,NOR,brit pettersen,01:03:49.000,Sarajevo 1984,Cross Country Skiing,20km women
+6,URS,lyubov lyadova,01:03:53.300,Sarajevo 1984,Cross Country Skiing,20km women
+7,SUI,evi kratzer,01:03:56.400,Sarajevo 1984,Cross Country Skiing,20km women
+8,FIN,pirkko määttä,01:04:37.600,Sarajevo 1984,Cross Country Skiing,20km women
+9,ITA,guidina dal sasso,01:04:44.100,Sarajevo 1984,Cross Country Skiing,20km women
+10,NOR,inger helene nybraaten,01:04:51.200,Sarajevo 1984,Cross Country Skiing,20km women
+11,TCH,kvetoslava jeriova,01:04:56.200,Sarajevo 1984,Cross Country Skiing,20km women
+12,URS,tamara markachanskaya,01:05:01.700,Sarajevo 1984,Cross Country Skiing,20km women
+13,NOR,marit myrmael,01:05:01.900,Sarajevo 1984,Cross Country Skiing,20km women
+14,URS,yulia stepanova,01:05:33.400,Sarajevo 1984,Cross Country Skiing,20km women
+15,TCH,hana pasiarova,01:05:35.700,Sarajevo 1984,Cross Country Skiing,20km women
+16,FIN,eija hyytiainen,01:05:38.800,Sarajevo 1984,Cross Country Skiing,20km women
+17,GDR,ute noack,01:05:43.500,Sarajevo 1984,Cross Country Skiing,20km women
+18,FRG,karin jäger,01:06:20.200,Sarajevo 1984,Cross Country Skiing,20km women
+19,GDR,petra rohrmann,01:06:30.000,Sarajevo 1984,Cross Country Skiing,20km women
+20,CAN,sharon firth,01:06:31.000,Sarajevo 1984,Cross Country Skiing,20km women
+21,SUI,karin thomas,01:06:36.100,Sarajevo 1984,Cross Country Skiing,20km women
+22,SWE,ann janeth rosendahl,01:06:47.800,Sarajevo 1984,Cross Country Skiing,20km women
+23,TCH,viera klimkova,01:06:59.900,Sarajevo 1984,Cross Country Skiing,20km women
+24,CAN,shirley firth,01:07:02.500,Sarajevo 1984,Cross Country Skiing,20km women
+25,ITA,manuela di centa,01:07:10.500,Sarajevo 1984,Cross Country Skiing,20km women
+26,USA,judy rabinowitz,01:07:11.400,Sarajevo 1984,Cross Country Skiing,20km women
+27,USA,susan long,01:07:25.900,Sarajevo 1984,Cross Country Skiing,20km women
+28,FIN,erja kuivalainen,01:07:26.400,Sarajevo 1984,Cross Country Skiing,20km women
+29,GDR,carola anding,01:07:27.800,Sarajevo 1984,Cross Country Skiing,20km women
+30,SWE,doris kristina hugosson,01:07:40.500,Sarajevo 1984,Cross Country Skiing,20km women
+31,SWE,stina ulrika karlsson,01:07:43.400,Sarajevo 1984,Cross Country Skiing,20km women
+32,USA,lynn margaret spencer,01:08:25.000,Sarajevo 1984,Cross Country Skiing,20km women
+33,SUI,monika germann,01:08:25.500,Sarajevo 1984,Cross Country Skiing,20km women
+34,ITA,germana sperotto,01:10:24.100,Sarajevo 1984,Cross Country Skiing,20km women
+35,GBR,ros coates,01:11:24.100,Sarajevo 1984,Cross Country Skiing,20km women
+36,USA,kelly milligan,01:11:50.400,Sarajevo 1984,Cross Country Skiing,20km women
+37,YUG,metka munih,01:13:35.800,Sarajevo 1984,Cross Country Skiing,20km women
+38,GBR,nicola lavery,01:16:24.000,Sarajevo 1984,Cross Country Skiing,20km women
+39,CAN,angela e. schmidt,Did not finish,Sarajevo 1984,Cross Country Skiing,20km women
+40,GBR,doris trueman,Did not start,Sarajevo 1984,Cross Country Skiing,20km women
+41,ROU,livia elena reit,Did not start,Sarajevo 1984,Cross Country Skiing,20km women
+42,SUI,christina brügger,Did not start,Sarajevo 1984,Cross Country Skiing,20km women
+0,URS,nikolay zimyatov,01:28:56.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+1,URS,aleksandr zavyalov,01:29:23.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+2,SWE,gunde anders svan,01:29:35.700,Sarajevo 1984,Cross Country Skiing,30km mass start men
+3,URS,vladimir sakhnov,01:30:30.400,Sarajevo 1984,Cross Country Skiing,30km mass start men
+4,FIN,aki karvonen,01:30:59.700,Sarajevo 1984,Cross Country Skiing,30km mass start men
+5,NOR,lars erik eriksen,01:31:24.800,Sarajevo 1984,Cross Country Skiing,30km mass start men
+6,FIN,harri kirvesniemi,01:31:37.400,Sarajevo 1984,Cross Country Skiing,30km mass start men
+7,FIN,juha mieto,01:31:48.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+8,ITA,maurilio de zolt,01:31:58.700,Sarajevo 1984,Cross Country Skiing,30km mass start men
+9,GDR,uwe bellman,01:31:59.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+10,URS,yuri burlakov,01:32:19.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+11,NOR,paal gunnar mikkelsplass,01:32:20.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+12,NOR,jan petter lindvall,01:32:23.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+13,SWE,thomas wassberg,01:32:25.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+14,FRG,jochen behle,01:32:58.700,Sarajevo 1984,Cross Country Skiing,30km mass start men
+15,SWE,jan ottosson,01:33:01.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+16,FIN,kari ristanen,01:33:02.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+17,FRA,dominique locatelli,01:33:25.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+18,SUI,andi grünenfelder,01:33:26.400,Sarajevo 1984,Cross Country Skiing,30km mass start men
+19,SUI,giachem guidon,01:33:28.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+20,CAN,pierre harvey,01:33:44.400,Sarajevo 1984,Cross Country Skiing,30km mass start men
+21,USA,william koch,01:33:44.400,Sarajevo 1984,Cross Country Skiing,30km mass start men
+22,SWE,torgny mogren,01:33:52.000,Sarajevo 1984,Cross Country Skiing,30km mass start men
+23,ITA,giorgio vanzetta,01:33:54.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+24,GDR,uwe wünsch,01:34:13.900,Sarajevo 1984,Cross Country Skiing,30km mass start men
+25,ITA,giulio capitanio,01:34:22.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+26,TCH,milos becvar,01:34:37.200,Sarajevo 1984,Cross Country Skiing,30km mass start men
+27,SUI,konrad hallenbarter,01:35:23.200,Sarajevo 1984,Cross Country Skiing,30km mass start men
+28,USA,dan simoneau,01:35:50.700,Sarajevo 1984,Cross Country Skiing,30km mass start men
+29,GDR,karsten brandt,01:35:54.800,Sarajevo 1984,Cross Country Skiing,30km mass start men
+30,AUT,franz gattermann,01:36:03.900,Sarajevo 1984,Cross Country Skiing,30km mass start men
+31,NOR,oddvar braa,01:36:23.400,Sarajevo 1984,Cross Country Skiing,30km mass start men
+32,FRG,peter zipfel,01:36:26.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+33,TCH,pavel benc,01:36:30.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+34,AUT,peter juric,01:37:06.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+35,USA,james galanes,01:37:21.200,Sarajevo 1984,Cross Country Skiing,30km mass start men
+36,FRG,stefan dotzler,01:37:39.900,Sarajevo 1984,Cross Country Skiing,30km mass start men
+37,YUG,joze klemencic,01:37:40.100,Sarajevo 1984,Cross Country Skiing,30km mass start men
+38,ISL,gottlieb konradsson,01:37:48.200,Sarajevo 1984,Cross Country Skiing,30km mass start men
+39,YUG,ivo carman,01:38:09.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+40,POL,jozef luszczek,01:38:11.700,Sarajevo 1984,Cross Country Skiing,30km mass start men
+41,FRA,jean-denis jaussaud,01:38:48.100,Sarajevo 1984,Cross Country Skiing,30km mass start men
+42,GDR,frank schröder,01:39:01.400,Sarajevo 1984,Cross Country Skiing,30km mass start men
+43,YUG,dusan djuricic,01:39:04.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+44,BUL,milush ivanchev,01:39:16.400,Sarajevo 1984,Cross Country Skiing,30km mass start men
+45,SUI,daniel sandoz,01:39:18.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+46,USA,kevin brochman,01:39:24.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+47,BUL,svetoslav atanassov,01:39:25.800,Sarajevo 1984,Cross Country Skiing,30km mass start men
+48,ISL,einar olafsson,01:39:32.200,Sarajevo 1984,Cross Country Skiing,30km mass start men
+49,GBR,mark moore,01:40:22.200,Sarajevo 1984,Cross Country Skiing,30km mass start men
+50,YUG,janez krsinar,01:40:45.500,Sarajevo 1984,Cross Country Skiing,30km mass start men
+51,GBR,andrew rawlin,01:41:33.900,Sarajevo 1984,Cross Country Skiing,30km mass start men
+52,BUL,christo barzanov,01:41:39.900,Sarajevo 1984,Cross Country Skiing,30km mass start men
+53,GBR,john spotswood,01:42:23.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+54,MGL,dorj luvsandashiin,01:43:03.100,Sarajevo 1984,Cross Country Skiing,30km mass start men
+55,ESP,josé giro,01:43:18.800,Sarajevo 1984,Cross Country Skiing,30km mass start men
+56,AUS,david hislop,01:43:46.200,Sarajevo 1984,Cross Country Skiing,30km mass start men
+57,GBR,stephen daglish,01:44:04.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+58,AUS,chris allen,01:45:07.700,Sarajevo 1984,Cross Country Skiing,30km mass start men
+59,KOR,ki-ho park,01:45:41.900,Sarajevo 1984,Cross Country Skiing,30km mass start men
+60,MGL,renchinkhorol vangansürengiin,01:47:04.000,Sarajevo 1984,Cross Country Skiing,30km mass start men
+61,CHN,shi song,01:47:13.500,Sarajevo 1984,Cross Country Skiing,30km mass start men
+62,MGL,gankhuyag dondogiin,01:47:32.500,Sarajevo 1984,Cross Country Skiing,30km mass start men
+63,CHN,xiao-ming li,01:47:32.600,Sarajevo 1984,Cross Country Skiing,30km mass start men
+64,ESP,miguel prat sagales,01:48:46.300,Sarajevo 1984,Cross Country Skiing,30km mass start men
+65,KOR,sung-hoon cho,01:50:32.100,Sarajevo 1984,Cross Country Skiing,30km mass start men
+66,ARG,ricardo holler,02:02:00.400,Sarajevo 1984,Cross Country Skiing,30km mass start men
+67,ARG,alejandro baratta,02:09:33.100,Sarajevo 1984,Cross Country Skiing,30km mass start men
+68,SMR,andrea sammaritani,02:26:55.900,Sarajevo 1984,Cross Country Skiing,30km mass start men
+69,ITA,alfred runggaldier,Disqualified,Sarajevo 1984,Cross Country Skiing,30km mass start men
+70,CRC,arturo kinch,Disqualified,Sarajevo 1984,Cross Country Skiing,30km mass start men
+71,MGL,batsükh pürevjavyn,Disqualified,Sarajevo 1984,Cross Country Skiing,30km mass start men
+0,SWE,thomas wassberg,02:15:55.800,Sarajevo 1984,Cross Country Skiing,50km men
+1,SWE,gunde anders svan,02:16:00.700,Sarajevo 1984,Cross Country Skiing,50km men
+2,FIN,aki karvonen,02:17:04.700,Sarajevo 1984,Cross Country Skiing,50km men
+3,FIN,harri kirvesniemi,02:18:34.100,Sarajevo 1984,Cross Country Skiing,50km men
+4,NOR,jan petter lindvall,02:19:27.100,Sarajevo 1984,Cross Country Skiing,50km men
+5,SUI,andi grünenfelder,02:19:46.200,Sarajevo 1984,Cross Country Skiing,50km men
+6,URS,aleksandr zavyalov,02:20:27.600,Sarajevo 1984,Cross Country Skiing,50km men
+7,URS,vladimir sakhnov,02:20:53.700,Sarajevo 1984,Cross Country Skiing,50km men
+8,SUI,konrad hallenbarter,02:21:11.600,Sarajevo 1984,Cross Country Skiing,50km men
+9,FIN,juha mieto,02:21:53.100,Sarajevo 1984,Cross Country Skiing,50km men
+10,NOR,lars erik eriksen,02:22:09.500,Sarajevo 1984,Cross Country Skiing,50km men
+11,NOR,tor haakon holte,02:22:12.700,Sarajevo 1984,Cross Country Skiing,50km men
+12,URS,nikolay zimyatov,02:22:15.000,Sarajevo 1984,Cross Country Skiing,50km men
+13,SWE,jan ottosson,02:22:24.000,Sarajevo 1984,Cross Country Skiing,50km men
+14,FIN,kari ristanen,02:23:10.600,Sarajevo 1984,Cross Country Skiing,50km men
+15,URS,aleksandr batiuk,02:23:17.000,Sarajevo 1984,Cross Country Skiing,50km men
+16,USA,william koch,02:24:02.300,Sarajevo 1984,Cross Country Skiing,50km men
+17,USA,audun endestad,02:24:14.400,Sarajevo 1984,Cross Country Skiing,50km men
+18,SUI,giachem guidon,02:24:25.900,Sarajevo 1984,Cross Country Skiing,50km men
+19,CAN,pierre harvey,02:25:04.100,Sarajevo 1984,Cross Country Skiing,50km men
+20,ITA,gianfranco polvara,02:25:07.500,Sarajevo 1984,Cross Country Skiing,50km men
+21,ITA,maurilio de zolt,02:25:14.900,Sarajevo 1984,Cross Country Skiing,50km men
+22,TCH,milos becvar,02:25:23.700,Sarajevo 1984,Cross Country Skiing,50km men
+23,AUT,alois stadlober,02:25:26.300,Sarajevo 1984,Cross Country Skiing,50km men
+24,SUI,markus fähndrich,02:25:26.400,Sarajevo 1984,Cross Country Skiing,50km men
+25,USA,dan simoneau,02:25:43.100,Sarajevo 1984,Cross Country Skiing,50km men
+26,POL,jozef luszczek,02:25:46.900,Sarajevo 1984,Cross Country Skiing,50km men
+27,FRA,dominique locatelli,02:26:21.300,Sarajevo 1984,Cross Country Skiing,50km men
+28,AUT,franz gattermann,02:26:40.800,Sarajevo 1984,Cross Country Skiing,50km men
+29,ITA,giorgio vanzetta,02:27:08.300,Sarajevo 1984,Cross Country Skiing,50km men
+30,USA,james galanes,02:28:00.700,Sarajevo 1984,Cross Country Skiing,50km men
+31,YUG,dusan djuricic,02:28:23.400,Sarajevo 1984,Cross Country Skiing,50km men
+32,AUT,peter juric,02:28:38.800,Sarajevo 1984,Cross Country Skiing,50km men
+33,ITA,giulio capitanio,02:28:51.700,Sarajevo 1984,Cross Country Skiing,50km men
+34,FRG,josef schneider,02:29:29.500,Sarajevo 1984,Cross Country Skiing,50km men
+35,YUG,janez krsinar,02:30:16.200,Sarajevo 1984,Cross Country Skiing,50km men
+36,FRG,franz schöbel,02:30:30.200,Sarajevo 1984,Cross Country Skiing,50km men
+37,FRG,peter zipfel,02:30:57.700,Sarajevo 1984,Cross Country Skiing,50km men
+38,SWE,nils anders larsson,02:31:43.600,Sarajevo 1984,Cross Country Skiing,50km men
+39,BUL,milush ivanchev,02:32:15.900,Sarajevo 1984,Cross Country Skiing,50km men
+40,ESP,josé giro,02:33:31.500,Sarajevo 1984,Cross Country Skiing,50km men
+41,YUG,joze klemencic,02:35:22.400,Sarajevo 1984,Cross Country Skiing,50km men
+42,GDR,uwe wünsch,02:35:48.900,Sarajevo 1984,Cross Country Skiing,50km men
+43,GBR,mark moore,02:36:32.800,Sarajevo 1984,Cross Country Skiing,50km men
+44,GBR,john spotswood,02:38:03.200,Sarajevo 1984,Cross Country Skiing,50km men
+45,ESP,miguel prat sagales,02:38:07.000,Sarajevo 1984,Cross Country Skiing,50km men
+46,JPN,satoshi sato,02:39:43.100,Sarajevo 1984,Cross Country Skiing,50km men
+47,AUS,david hislop,02:39:53.100,Sarajevo 1984,Cross Country Skiing,50km men
+48,AUS,chris allen,02:44:19.100,Sarajevo 1984,Cross Country Skiing,50km men
+49,ARG,ricardo holler,03:05:41.200,Sarajevo 1984,Cross Country Skiing,50km men
+50,GDR,uwe bellman,Did not finish,Sarajevo 1984,Cross Country Skiing,50km men
+51,NOR,ove aunli,Did not finish,Sarajevo 1984,Cross Country Skiing,50km men
+52,JPN,kazunari sasaki,Did not finish,Sarajevo 1984,Cross Country Skiing,50km men
+53,BUL,atanas simitchiev,Did not finish,Sarajevo 1984,Cross Country Skiing,50km men
+54,FRA,jean-denis jaussaud,Did not start,Sarajevo 1984,Cross Country Skiing,50km men
+55,FRG,jochen behle,Did not start,Sarajevo 1984,Cross Country Skiing,50km men
+0,FIN,marja-liisa kirvesniemi haemaelaeinen,00:17:04.000,Sarajevo 1984,Cross Country Skiing,5km women
+1,NOR,berit aunli,00:17:14.100,Sarajevo 1984,Cross Country Skiing,5km women
+2,TCH,kvetoslava jeriova,00:17:18.300,Sarajevo 1984,Cross Country Skiing,5km women
+3,SWE,marie johansson-risby,00:17:26.300,Sarajevo 1984,Cross Country Skiing,5km women
+4,NOR,inger helene nybraaten,00:17:28.200,Sarajevo 1984,Cross Country Skiing,5km women
+5,NOR,brit pettersen,00:17:33.600,Sarajevo 1984,Cross Country Skiing,5km women
+6,NOR,anne jahren,00:17:38.300,Sarajevo 1984,Cross Country Skiing,5km women
+7,GDR,ute noack,00:17:46.000,Sarajevo 1984,Cross Country Skiing,5km women
+8,SUI,evi kratzer,00:17:47.500,Sarajevo 1984,Cross Country Skiing,5km women
+9,FIN,pirkko määttä,00:17:48.000,Sarajevo 1984,Cross Country Skiing,5km women
+10,URS,raisa smetanina,00:17:52.000,Sarajevo 1984,Cross Country Skiing,5km women
+11,URS,yulia stepanova,00:17:53.500,Sarajevo 1984,Cross Country Skiing,5km women
+12,TCH,blanka paulu,00:17:56.600,Sarajevo 1984,Cross Country Skiing,5km women
+13,URS,nadejda burlakova,00:17:58.700,Sarajevo 1984,Cross Country Skiing,5km women
+14,TCH,gabriela svobodova,00:17:59.800,Sarajevo 1984,Cross Country Skiing,5km women
+15,SWE,karin ingrid lamberg,00:18:02.500,Sarajevo 1984,Cross Country Skiing,5km women
+16,URS,liliya vasilchenko,00:18:07.600,Sarajevo 1984,Cross Country Skiing,5km women
+17,GDR,petra rohrmann,00:18:09.400,Sarajevo 1984,Cross Country Skiing,5km women
+18,FIN,eija hyytiainen,00:18:11.600,Sarajevo 1984,Cross Country Skiing,5km women
+19,TCH,dagmar schvubova,00:18:15.300,Sarajevo 1984,Cross Country Skiing,5km women
+20,GDR,carola anding,00:18:17.700,Sarajevo 1984,Cross Country Skiing,5km women
+21,FIN,marjo matikainen,00:18:21.600,Sarajevo 1984,Cross Country Skiing,5km women
+22,SWE,ann janeth rosendahl,00:18:22.800,Sarajevo 1984,Cross Country Skiing,5km women
+23,ITA,manuela di centa,00:18:24.900,Sarajevo 1984,Cross Country Skiing,5km women
+24,ITA,guidina dal sasso,00:18:24.900,Sarajevo 1984,Cross Country Skiing,5km women
+25,SUI,karin thomas,00:18:30.400,Sarajevo 1984,Cross Country Skiing,5km women
+26,USA,lynn margaret spencer,00:18:30.800,Sarajevo 1984,Cross Country Skiing,5km women
+27,CAN,shirley firth,00:18:32.300,Sarajevo 1984,Cross Country Skiing,5km women
+28,CAN,sharon firth,00:18:37.500,Sarajevo 1984,Cross Country Skiing,5km women
+29,USA,judy rabinowitz,00:18:41.500,Sarajevo 1984,Cross Country Skiing,5km women
+30,ITA,clara angerer,00:18:47.900,Sarajevo 1984,Cross Country Skiing,5km women
+31,ROU,livia elena reit,00:18:51.600,Sarajevo 1984,Cross Country Skiing,5km women
+32,ITA,paola pozzoni,00:18:51.900,Sarajevo 1984,Cross Country Skiing,5km women
+33,YUG,jana mlakar,00:18:54.100,Sarajevo 1984,Cross Country Skiing,5km women
+34,SUI,christina brügger,00:18:56.200,Sarajevo 1984,Cross Country Skiing,5km women
+35,GDR,petra voge,00:19:16.600,Sarajevo 1984,Cross Country Skiing,5km women
+36,SWE,eva-lena lisbet karlsson,00:19:21.600,Sarajevo 1984,Cross Country Skiing,5km women
+37,USA,susan long,00:19:28.500,Sarajevo 1984,Cross Country Skiing,5km women
+38,CAN,angela e. schmidt,00:19:30.100,Sarajevo 1984,Cross Country Skiing,5km women
+39,USA,patricia ross,00:19:30.900,Sarajevo 1984,Cross Country Skiing,5km women
+40,YUG,andreja smrekar,00:19:41.700,Sarajevo 1984,Cross Country Skiing,5km women
+41,SUI,monika germann,00:19:42.000,Sarajevo 1984,Cross Country Skiing,5km women
+42,YUG,metka munih,00:20:12.000,Sarajevo 1984,Cross Country Skiing,5km women
+43,GBR,ros coates,00:20:16.700,Sarajevo 1984,Cross Country Skiing,5km women
+44,YUG,tatjana smolnikar,00:20:21.800,Sarajevo 1984,Cross Country Skiing,5km women
+45,GBR,doris trueman,00:21:05.600,Sarajevo 1984,Cross Country Skiing,5km women
+46,GBR,nicola lavery,00:21:08.500,Sarajevo 1984,Cross Country Skiing,5km women
+47,CHN,ai-xia dou,00:21:33.800,Sarajevo 1984,Cross Country Skiing,5km women
+48,CHN,yu-gin tang,00:21:41.500,Sarajevo 1984,Cross Country Skiing,5km women
+49,GBR,caroline susan brittan,00:21:44.300,Sarajevo 1984,Cross Country Skiing,5km women
+50,CHN,yu-feng chen,00:21:50.200,Sarajevo 1984,Cross Country Skiing,5km women
+51,CHN,shi-ji song,00:22:24.100,Sarajevo 1984,Cross Country Skiing,5km women
+0,,,01:55:06.300,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+1,,,01:55:16.500,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+2,,,01:56:31.400,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+3,,,01:57:27.600,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+4,,,01:58:06.000,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+5,,,01:59:30.200,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+6,,,01:59:30.300,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+7,,,01:59:52.300,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+8,,,02:02:13.900,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+9,,,02:03:17.600,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+10,,,02:04:39.000,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+11,,,02:04:42.800,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+12,,,02:06:42.500,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+13,,,02:10:09.900,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+14,,,02:16:52.400,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+15,,,02:27:07.100,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+16,,,Disqualified,Sarajevo 1984,Cross Country Skiing,Relay 4x10km men
+0,,,01:06:49.700,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+1,,,01:07:34.700,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+2,,,01:07:36.700,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+3,,,01:07:55.000,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+4,,,01:09:30.000,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+5,,,01:09:40.300,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+6,,,01:10:48.400,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+7,,,01:11:10.700,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+8,,,01:11:12.300,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+9,,,01:13:45.100,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+10,,,01:18:36.200,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women
+11,,,01:21:19.600,Sarajevo 1984,Cross Country Skiing,Relay 4x5km women

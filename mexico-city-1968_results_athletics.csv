@@ -1,0 +1,688 @@
+,country,participant,result,olympic_game,discipline,event
+0,KEN,nabiba naftali temu,00:29:27.400,Mexico City 1968,Athletics,10000m men
+1,ETH,mamo wolde,00:29:28.000,Mexico City 1968,Athletics,10000m men
+2,TUN,mohamed gammoudi,00:29:34.200,Mexico City 1968,Athletics,10000m men
+3,MEX,juan maximo martinez,00:29:35.000,Mexico City 1968,Athletics,10000m men
+4,URS,nikolai sviridov,00:29:43.200,Mexico City 1968,Athletics,10000m men
+5,AUS,ronald clarke,00:29:44.800,Mexico City 1968,Athletics,10000m men
+6,GBR,ronald hill,00:29:53.200,Mexico City 1968,Athletics,10000m men
+7,ETH,wohib masresha,00:29:57.000,Mexico City 1968,Athletics,10000m men
+8,YUG,nedo farcic,00:30:01.200,Mexico City 1968,Athletics,10000m men
+9,COL,alvaro mejia flores,00:30:10.600,Mexico City 1968,Athletics,10000m men
+10,USA,tracy evans smith,00:30:14.600,Mexico City 1968,Athletics,10000m men
+11,NZL,rex montague maddaford,00:30:17.200,Mexico City 1968,Athletics,10000m men
+12,GBR,mike tagg,00:30:18.000,Mexico City 1968,Athletics,10000m men
+13,ETH,fikru deguefu,00:30:19.400,Mexico City 1968,Athletics,10000m men
+14,GDR,jurgen haase,00:30:24.200,Mexico City 1968,Athletics,10000m men
+15,USA,thomas constantine laris,00:30:26.200,Mexico City 1968,Athletics,10000m men
+16,URS,leonid mikitenko,00:30:46.000,Mexico City 1968,Athletics,10000m men
+17,FRG,manfred letzerich,00:30:48.600,Mexico City 1968,Athletics,10000m men
+18,JPN,tsugumichi suzuki,00:30:52.000,Mexico City 1968,Athletics,10000m men
+19,HUN,janos szerenyi,00:30:53.600,Mexico City 1968,Athletics,10000m men
+20,UGA,mustafa musa,00:30:54.200,Mexico City 1968,Athletics,10000m men
+21,HUN,lajos mecser,00:30:54.800,Mexico City 1968,Athletics,10000m men
+22,FRG,lutz philipp,00:30:57.000,Mexico City 1968,Athletics,10000m men
+23,URS,vyacheslav alanov,00:31:01.000,Mexico City 1968,Athletics,10000m men
+24,CAN,david ellis,00:31:06.600,Mexico City 1968,Athletics,10000m men
+25,GBR,james joseph hogan,00:31:18.600,Mexico City 1968,Athletics,10000m men
+26,JPN,keisuke sawaki,00:31:25.200,Mexico City 1968,Athletics,10000m men
+27,USA,van arthur nelson,00:31:40.200,Mexico City 1968,Athletics,10000m men
+28,HUN,gyorgy kiss,00:32:03.200,Mexico City 1968,Athletics,10000m men
+29,CRC,juan rafael angel perez cordoba,00:32:14.600,Mexico City 1968,Athletics,10000m men
+30,PHI,benjamin silva-netto,00:32:35.200,Mexico City 1968,Athletics,10000m men
+31,KEN,kipchoge keino,Did not finish,Mexico City 1968,Athletics,10000m men
+32,HON,rodolfo erazo,Did not finish,Mexico City 1968,Athletics,10000m men
+33,NZL,evan maguire,Did not finish,Mexico City 1968,Athletics,10000m men
+34,SLE,albert massaquoi,Did not finish,Mexico City 1968,Athletics,10000m men
+35,BEL,willy polleunis,Did not finish,Mexico City 1968,Athletics,10000m men
+36,POL,edward stawiarz,Did not finish,Mexico City 1968,Athletics,10000m men
+0,USA,james ray hines,09.900,Mexico City 1968,Athletics,100m men
+1,JAM,lennox miller,10.000,Mexico City 1968,Athletics,100m men
+2,USA,charles edward greene,10.000,Mexico City 1968,Athletics,100m men
+3,CUB,pablo montes casanova,10.100,Mexico City 1968,Athletics,100m men
+4,FRA,roger bambuck,10.100,Mexico City 1968,Athletics,100m men
+5,USA,melvin jr. pender,10.100,Mexico City 1968,Athletics,100m men
+6,CAN,henry winston harry jerome,10.100,Mexico City 1968,Athletics,100m men
+7,MAD,jean-louis ravelomanantsoa,10.200,Mexico City 1968,Athletics,100m men
+8,BAH,thomas augustus robinson,Did not finish,Mexico City 1968,Athletics,100m men
+0,USA,wyomia tyus,11.000,Mexico City 1968,Athletics,100m women
+1,USA,barbara ann ferrell,11.100,Mexico City 1968,Athletics,100m women
+2,POL,irena szewińska,11.100,Mexico City 1968,Athletics,100m women
+3,AUS,raelene ann boyle,11.100,Mexico City 1968,Athletics,100m women
+4,USA,margaret johnson bailes,11.300,Mexico City 1968,Athletics,100m women
+5,AUS,dianne marie bowering,11.400,Mexico City 1968,Athletics,100m women
+6,TPE,cheng chi,11.500,Mexico City 1968,Athletics,100m women
+7,CUB,miguelina cobian hechevarria,11.600,Mexico City 1968,Athletics,100m women
+8,KEN,lydia stephens,,Mexico City 1968,Athletics,100m women
+0,USA,willie davenport,13.300,Mexico City 1968,Athletics,110m hurdles men
+1,USA,ervin hall,13.400,Mexico City 1968,Athletics,110m hurdles men
+2,ITA,eddy ottoz,13.400,Mexico City 1968,Athletics,110m hurdles men
+3,USA,leonard coleman,13.600,Mexico City 1968,Athletics,110m hurdles men
+4,FRG,werner trzmiel,13.600,Mexico City 1968,Athletics,110m hurdles men
+5,SWE,bo forssander,13.700,Mexico City 1968,Athletics,110m hurdles men
+6,FRA,marcel duriez,13.700,Mexico City 1968,Athletics,110m hurdles men
+7,FRA,pierre schoebel,14.000,Mexico City 1968,Athletics,110m hurdles men
+8,CHA,bernard kender,Did not start,Mexico City 1968,Athletics,110m hurdles men
+9,SUI,werner kuhn,Did not start,Mexico City 1968,Athletics,110m hurdles men
+0,KEN,kipchoge keino,00:03:34.900,Mexico City 1968,Athletics,1500m men
+1,USA,james ronald ryun,00:03:37.800,Mexico City 1968,Athletics,1500m men
+2,FRG,bodo tümmler,00:03:39.000,Mexico City 1968,Athletics,1500m men
+3,FRG,harald norpoth,00:03:42.500,Mexico City 1968,Athletics,1500m men
+4,GBR,john h. whetton,00:03:43.800,Mexico City 1968,Athletics,1500m men
+5,FRA,jacques boxberger,00:03:46.600,Mexico City 1968,Athletics,1500m men
+6,POL,henryk szordykowski,00:03:46.600,Mexico City 1968,Athletics,1500m men
+7,TCH,josef odlozil,00:03:48.600,Mexico City 1968,Athletics,1500m men
+8,USA,tom von ruden,00:03:49.200,Mexico City 1968,Athletics,1500m men
+9,KEN,benjamin wabura jipcho,00:03:51.200,Mexico City 1968,Athletics,1500m men
+10,BEL,andre de hertoghe,00:03:53.600,Mexico City 1968,Athletics,1500m men
+11,USA,martin william liquori,00:04:18.200,Mexico City 1968,Athletics,1500m men
+12,CHI,jorge grosser,,Mexico City 1968,Athletics,1500m men
+13,BUL,blagoi kostov,Did not start,Mexico City 1968,Athletics,1500m men
+14,FRA,jean wadoux,Did not start,Mexico City 1968,Athletics,1500m men
+15,ARG,guillermo cuello,Did not start,Mexico City 1968,Athletics,1500m men
+0,USA,thomas c. smith,19.800,Mexico City 1968,Athletics,200m men
+1,AUS,peter george norman,20.000,Mexico City 1968,Athletics,200m men
+2,USA,john wesley carlos,20.000,Mexico City 1968,Athletics,200m men
+3,TTO,edwin roberts,20.300,Mexico City 1968,Athletics,200m men
+4,FRA,roger bambuck,20.500,Mexico City 1968,Athletics,200m men
+5,USA,lawrence ronald questad,20.600,Mexico City 1968,Athletics,200m men
+6,JAM,mike fray,20.600,Mexico City 1968,Athletics,200m men
+7,FRG,joachim eigenherr,20.600,Mexico City 1968,Athletics,200m men
+8,PUR,juan franceschi,,Mexico City 1968,Athletics,200m men
+9,CUB,pablo montes casanova,Did not start,Mexico City 1968,Athletics,200m men
+10,ITA,ito giani,Did not start,Mexico City 1968,Athletics,200m men
+11,JAM,lennox miller,Did not start,Mexico City 1968,Athletics,200m men
+12,MAR,hassan el-mech,Did not start,Mexico City 1968,Athletics,200m men
+0,POL,irena szewińska,22.500,Mexico City 1968,Athletics,200m women
+1,AUS,raelene ann boyle,22.700,Mexico City 1968,Athletics,200m women
+2,AUS,jennifer lamy-frank,22.800,Mexico City 1968,Athletics,200m women
+3,USA,barbara ann ferrell,22.900,Mexico City 1968,Athletics,200m women
+4,FRA,nicole montandon-pani,23.000,Mexico City 1968,Athletics,200m women
+5,USA,wyomia tyus,23.000,Mexico City 1968,Athletics,200m women
+6,USA,margaret johnson bailes,23.100,Mexico City 1968,Athletics,200m women
+7,FRG,judith stöck,23.200,Mexico City 1968,Athletics,200m women
+8,CRC,jean robotham,Did not start,Mexico City 1968,Athletics,200m women
+9,NOR,berit berthelsen-toien,Did not start,Mexico City 1968,Athletics,200m women
+10,KEN,lydia stephens,Did not start,Mexico City 1968,Athletics,200m women
+0,URS,vladimir golubnichy,01:33:58.400,Mexico City 1968,Athletics,20km walk men
+1,MEX,jose pedraza zuniga,01:34:00.000,Mexico City 1968,Athletics,20km walk men
+2,URS,nikolay smaga,01:34:03.400,Mexico City 1968,Athletics,20km walk men
+3,USA,rudolph john haluza,01:35:00.200,Mexico City 1968,Athletics,20km walk men
+4,GDR,gerhard sperling,01:35:27.200,Mexico City 1968,Athletics,20km walk men
+5,URS,otto barch,01:36:16.800,Mexico City 1968,Athletics,20km walk men
+6,GDR,hans reimann,01:36:31.400,Mexico City 1968,Athletics,20km walk men
+7,SWE,stefan ingvarsson,01:36:43.400,Mexico City 1968,Athletics,20km walk men
+8,ROU,leonida caraiosifoglu,01:37:07.600,Mexico City 1968,Athletics,20km walk men
+9,GDR,peter frenkel,01:37:20.800,Mexico City 1968,Athletics,20km walk men
+10,GBR,arthur john jones,01:37:32.000,Mexico City 1968,Athletics,20km walk men
+11,ITA,pasquale busca,01:37:32.000,Mexico City 1968,Athletics,20km walk men
+12,MEX,jose oliveros de la torre,01:38:17.000,Mexico City 1968,Athletics,20km walk men
+13,HUN,antal kiss,01:38:24.000,Mexico City 1968,Athletics,20km walk men
+14,SWE,stig lindberg,01:40:03.000,Mexico City 1968,Athletics,20km walk men
+15,AUS,frank clark,01:40:06.000,Mexico City 1968,Athletics,20km walk men
+16,USA,thomas robert dooley,01:40:08.000,Mexico City 1968,Athletics,20km walk men
+17,CAN,karl-heinz merschenz,01:40:11.000,Mexico City 1968,Athletics,20km walk men
+18,LUX,charel sowa,01:40:17.000,Mexico City 1968,Athletics,20km walk men
+19,MEX,eladio campos aleman,01:41:52.000,Mexico City 1968,Athletics,20km walk men
+20,SWE,örjan andersson,01:41:58.000,Mexico City 1968,Athletics,20km walk men
+21,GBR,john albert webb,01:42:51.000,Mexico City 1968,Athletics,20km walk men
+22,SUI,rene pfister,01:43:36.000,Mexico City 1968,Athletics,20km walk men
+23,GBR,robert peter hughes,01:43:50.000,Mexico City 1968,Athletics,20km walk men
+24,USA,ronald owen laird,01:44:38.000,Mexico City 1968,Athletics,20km walk men
+25,POL,mieczyslaw rutyna,01:47:29.000,Mexico City 1968,Athletics,20km walk men
+26,CUB,euclides calzado lopez,01:49:27.000,Mexico City 1968,Athletics,20km walk men
+27,GUA,julio rodolfo ortiz figueroa,01:54:48.000,Mexico City 1968,Athletics,20km walk men
+28,ESA,roberto castellanos brana,01:58:48.000,Mexico City 1968,Athletics,20km walk men
+29,FRG,julius müller,Disqualified,Mexico City 1968,Athletics,20km walk men
+30,NCA,esteban valle,Did not finish,Mexico City 1968,Athletics,20km walk men
+31,NCA,carlos vanegas,Did not finish,Mexico City 1968,Athletics,20km walk men
+32,CAN,felix cappella,Did not finish,Mexico City 1968,Athletics,20km walk men
+33,JPN,kazuo saito,Did not finish,Mexico City 1968,Athletics,20km walk men
+0,KEN,amos kipwabok biwott,00:08:51.000,Mexico City 1968,Athletics,3000m steeplechase men
+1,KEN,benjamin kogo,00:08:51.600,Mexico City 1968,Athletics,3000m steeplechase men
+2,USA,george l. young,00:08:51.800,Mexico City 1968,Athletics,3000m steeplechase men
+3,AUS,kerry o'brien,00:08:52.000,Mexico City 1968,Athletics,3000m steeplechase men
+4,URS,aleksandr morozov,00:08:55.800,Mexico City 1968,Athletics,3000m steeplechase men
+5,BUL,mihail zhelev,00:08:58.400,Mexico City 1968,Athletics,3000m steeplechase men
+6,BEL,gaston roelants,00:08:59.400,Mexico City 1968,Athletics,3000m steeplechase men
+7,NOR,arne roald risa,00:09:09.000,Mexico City 1968,Athletics,3000m steeplechase men
+8,FRA,jean-paul villain,00:09:16.200,Mexico City 1968,Athletics,3000m steeplechase men
+9,SWE,bengt persson-widmark,00:09:20.600,Mexico City 1968,Athletics,3000m steeplechase men
+10,ESP,javier alvarez salgado,00:09:24.600,Mexico City 1968,Athletics,3000m steeplechase men
+11,URS,viktor kudinsky,Did not finish,Mexico City 1968,Athletics,3000m steeplechase men
+12,MAR,larbi oukada,,Mexico City 1968,Athletics,3000m steeplechase men
+13,FRA,guy texereau,,Mexico City 1968,Athletics,3000m steeplechase men
+14,ESP,mariano haro cisneros,,Mexico City 1968,Athletics,3000m steeplechase men
+0,GBR,david peter hemery,48.100,Mexico City 1968,Athletics,400m hurdles men
+1,FRG,gerhard hennige,49.000,Mexico City 1968,Athletics,400m hurdles men
+2,GBR,john sherwood,49.000,Mexico City 1968,Athletics,400m hurdles men
+3,USA,geoffrey peter vanderstock,49.000,Mexico City 1968,Athletics,400m hurdles men
+4,URS,vyacheslav skomorokhov,49.100,Mexico City 1968,Athletics,400m hurdles men
+5,USA,ronald howard whitney,49.200,Mexico City 1968,Athletics,400m hurdles men
+6,FRG,rainer schubert,49.200,Mexico City 1968,Athletics,400m hurdles men
+7,ITA,roberto frinolli,50.100,Mexico City 1968,Athletics,400m hurdles men
+0,USA,lee edward evans,43.800,Mexico City 1968,Athletics,400m men
+1,USA,george lawrence james,43.900,Mexico City 1968,Athletics,400m men
+2,USA,ronald john ii freeman,44.400,Mexico City 1968,Athletics,400m men
+3,SEN,amadou gakou,45.000,Mexico City 1968,Athletics,400m men
+4,FRG,martin jellinghaus,45.300,Mexico City 1968,Athletics,400m men
+5,ETH,tegegne bezabeh,45.400,Mexico City 1968,Athletics,400m men
+6,POL,andrzej badenski,45.400,Mexico City 1968,Athletics,400m men
+7,UGA,amos omolo,47.600,Mexico City 1968,Athletics,400m men
+0,FRA,colette besson,52.000,Mexico City 1968,Athletics,400m women
+1,GBR,lillian barbara board,52.100,Mexico City 1968,Athletics,400m women
+2,URS,nataliya pechonkina-chistyakova,52.200,Mexico City 1968,Athletics,400m women
+3,GBR,janet mary simpson,52.500,Mexico City 1968,Athletics,400m women
+4,CUB,aurelia catalina penton conde,52.700,Mexico City 1968,Athletics,400m women
+5,USA,jarvis scott,52.700,Mexico City 1968,Athletics,400m women
+6,FRG,helga henning,52.800,Mexico City 1968,Athletics,400m women
+7,NED,hermina johanna van der hoeven-jansen,53.000,Mexico City 1968,Athletics,400m women
+0,,,38.200,Mexico City 1968,Athletics,4x100m relay men
+1,,,38.300,Mexico City 1968,Athletics,4x100m relay men
+2,,,38.400,Mexico City 1968,Athletics,4x100m relay men
+3,,,38.400,Mexico City 1968,Athletics,4x100m relay men
+4,,,38.600,Mexico City 1968,Athletics,4x100m relay men
+5,,,38.700,Mexico City 1968,Athletics,4x100m relay men
+6,,,39.200,Mexico City 1968,Athletics,4x100m relay men
+7,,,39.200,Mexico City 1968,Athletics,4x100m relay men
+8,,,,Mexico City 1968,Athletics,4x100m relay men
+9,,,,Mexico City 1968,Athletics,4x100m relay men
+10,,,,Mexico City 1968,Athletics,4x100m relay men
+11,,,Did not start,Mexico City 1968,Athletics,4x100m relay men
+12,,,Did not start,Mexico City 1968,Athletics,4x100m relay men
+13,,,Did not start,Mexico City 1968,Athletics,4x100m relay men
+14,,,Did not start,Mexico City 1968,Athletics,4x100m relay men
+0,,,42.800,Mexico City 1968,Athletics,4x100m relay women
+1,,,43.300,Mexico City 1968,Athletics,4x100m relay women
+2,,,43.400,Mexico City 1968,Athletics,4x100m relay women
+3,,,43.400,Mexico City 1968,Athletics,4x100m relay women
+4,,,43.400,Mexico City 1968,Athletics,4x100m relay women
+5,,,43.600,Mexico City 1968,Athletics,4x100m relay women
+6,,,43.700,Mexico City 1968,Athletics,4x100m relay women
+7,,,44.200,Mexico City 1968,Athletics,4x100m relay women
+8,,,,Mexico City 1968,Athletics,4x100m relay women
+9,,,Did not start,Mexico City 1968,Athletics,4x100m relay women
+0,,,00:02:56.100,Mexico City 1968,Athletics,4x400m relay men
+1,,,00:02:59.600,Mexico City 1968,Athletics,4x400m relay men
+2,,,00:03:00.500,Mexico City 1968,Athletics,4x400m relay men
+3,,,00:03:00.500,Mexico City 1968,Athletics,4x400m relay men
+4,,,00:03:01.200,Mexico City 1968,Athletics,4x400m relay men
+5,,,00:03:04.500,Mexico City 1968,Athletics,4x400m relay men
+6,,,00:03:04.600,Mexico City 1968,Athletics,4x400m relay men
+7,,,00:03:07.500,Mexico City 1968,Athletics,4x400m relay men
+8,,,Did not start,Mexico City 1968,Athletics,4x400m relay men
+9,,,Did not start,Mexico City 1968,Athletics,4x400m relay men
+10,,,Did not start,Mexico City 1968,Athletics,4x400m relay men
+0,TUN,mohamed gammoudi,00:14:05.000,Mexico City 1968,Athletics,5000m men
+1,KEN,kipchoge keino,00:14:05.200,Mexico City 1968,Athletics,5000m men
+2,KEN,nabiba naftali temu,00:14:06.400,Mexico City 1968,Athletics,5000m men
+3,MEX,juan maximo martinez,00:14:10.800,Mexico City 1968,Athletics,5000m men
+4,AUS,ronald clarke,00:14:12.400,Mexico City 1968,Athletics,5000m men
+5,ETH,wohib masresha,00:14:17.600,Mexico City 1968,Athletics,5000m men
+6,URS,nikolai sviridov,00:14:18.400,Mexico City 1968,Athletics,5000m men
+7,ETH,fikru deguefu,00:14:19.000,Mexico City 1968,Athletics,5000m men
+8,FRA,jean wadoux,00:14:20.800,Mexico City 1968,Athletics,5000m men
+9,NZL,rex montague maddaford,00:14:39.800,Mexico City 1968,Athletics,5000m men
+10,CAN,robert finlay,00:14:45.000,Mexico City 1968,Athletics,5000m men
+11,BEL,emiel puttemans,00:14:59.600,Mexico City 1968,Athletics,5000m men
+12,FRG,harald norpoth,Did not finish,Mexico City 1968,Athletics,5000m men
+13,CAN,david ellis,,Mexico City 1968,Athletics,5000m men
+14,POL,roland brehmer,,Mexico City 1968,Athletics,5000m men
+15,MAR,larbi oukada,Did not start,Mexico City 1968,Athletics,5000m men
+16,BUL,mihail zhelev,Did not start,Mexico City 1968,Athletics,5000m men
+17,COL,alvaro mejia flores,Did not start,Mexico City 1968,Athletics,5000m men
+18,ESA,efrain cordero,Did not start,Mexico City 1968,Athletics,5000m men
+19,GHA,robert hackman,Did not start,Mexico City 1968,Athletics,5000m men
+20,HUN,lajos mecser,Did not start,Mexico City 1968,Athletics,5000m men
+21,NOR,arne roald risa,Did not start,Mexico City 1968,Athletics,5000m men
+22,POR,manuel de oliveira,Did not start,Mexico City 1968,Athletics,5000m men
+0,GDR,christoph höhne,04:20:13.600,Mexico City 1968,Athletics,50km walk men
+1,HUN,antal kiss,04:30:17.000,Mexico City 1968,Athletics,50km walk men
+2,USA,lawrence dean young,04:31:55.400,Mexico City 1968,Athletics,50km walk men
+3,GDR,peter selzer,04:33:09.800,Mexico City 1968,Athletics,50km walk men
+4,SWE,stig lindberg,04:34:05.000,Mexico City 1968,Athletics,50km walk men
+5,ITA,vittorio visini,04:36:33.200,Mexico City 1968,Athletics,50km walk men
+6,GBR,bryan eley,04:37:32.200,Mexico City 1968,Athletics,50km walk men
+7,MEX,jose pedraza zuniga,04:37:51.400,Mexico City 1968,Athletics,50km walk men
+8,CAN,karl-heinz merschenz,04:37:57.400,Mexico City 1968,Athletics,50km walk men
+9,USA,goetz heinrich klopfer,04:39:13.800,Mexico City 1968,Athletics,50km walk men
+10,FRG,horst-rüdiger magnor,04:39:43.200,Mexico City 1968,Athletics,50km walk men
+11,AUS,frank clark,04:40:13.800,Mexico City 1968,Athletics,50km walk men
+12,SWE,örjan andersson,04:40:42.600,Mexico City 1968,Athletics,50km walk men
+13,FRG,gerhard weidner,04:43:26.200,Mexico City 1968,Athletics,50km walk men
+14,URS,sergey grigoryev,04:44:39.200,Mexico City 1968,Athletics,50km walk men
+15,LUX,charel sowa,04:44:45.200,Mexico City 1968,Athletics,50km walk men
+16,JPN,kazuo saito,04:47:29.600,Mexico City 1968,Athletics,50km walk men
+17,GBR,shaun lightman,04:52:20.000,Mexico City 1968,Athletics,50km walk men
+18,AUS,robert charles gardiner,04:52:29.000,Mexico City 1968,Athletics,50km walk men
+19,SUI,erwin stutz,04:53:33.800,Mexico City 1968,Athletics,50km walk men
+20,FRA,henri delerue,04:57:40.200,Mexico City 1968,Athletics,50km walk men
+21,POL,mieczyslaw rutyna,04:58:03.800,Mexico City 1968,Athletics,50km walk men
+22,CAN,felix cappella,04:58:31.600,Mexico City 1968,Athletics,50km walk men
+23,ISR,shaul ladany,05:01:06.000,Mexico City 1968,Athletics,50km walk men
+24,MEX,pablo colin,05:01:30.000,Mexico City 1968,Athletics,50km walk men
+25,USA,david l. romansky,05:38:03.400,Mexico City 1968,Athletics,50km walk men
+26,MEX,ismael hernandez avila,05:56:09.200,Mexico City 1968,Athletics,50km walk men
+27,ESA,ricardo alberto cruz flores,05:56:22.000,Mexico City 1968,Athletics,50km walk men
+28,GBR,paul vincent nihill,Did not finish,Mexico City 1968,Athletics,50km walk men
+29,SWE,stefan ingvarsson,Did not finish,Mexico City 1968,Athletics,50km walk men
+30,FRG,bernhard nermerich,Disqualified,Mexico City 1968,Athletics,50km walk men
+31,URS,gennadi agapov,Did not finish,Mexico City 1968,Athletics,50km walk men
+32,ITA,abdon pamich,Did not finish,Mexico City 1968,Athletics,50km walk men
+33,GDR,burkhard leuschke,Did not finish,Mexico City 1968,Athletics,50km walk men
+34,URS,igor della-rossa,Did not finish,Mexico City 1968,Athletics,50km walk men
+35,IRL,john kelly,Did not finish,Mexico City 1968,Athletics,50km walk men
+36,HUN,jozsef csermak,Did not start,Mexico City 1968,Athletics,50km walk men
+37,CUB,euclides calzado lopez,Did not start,Mexico City 1968,Athletics,50km walk men
+38,JPN,katsuo nishida,Did not start,Mexico City 1968,Athletics,50km walk men
+39,NCA,carlos vanegas,Did not start,Mexico City 1968,Athletics,50km walk men
+0,AUS,ralph doubell,00:01:44.300,Mexico City 1968,Athletics,800m men
+1,KEN,wilson chuma kiprugut,00:01:44.500,Mexico City 1968,Athletics,800m men
+2,USA,thomas francis farrell,00:01:45.400,Mexico City 1968,Athletics,800m men
+3,FRG,walter adams,00:01:45.800,Mexico City 1968,Athletics,800m men
+4,TCH,jozef plachý,00:01:45.900,Mexico City 1968,Athletics,800m men
+5,GDR,dieter fromm,00:01:46.200,Mexico City 1968,Athletics,800m men
+6,KEN,thomas saisi,00:01:47.500,Mexico City 1968,Athletics,800m men
+7,TTO,benedict cayenne,00:01:54.300,Mexico City 1968,Athletics,800m men
+8,BEL,rudolf simon,,Mexico City 1968,Athletics,800m men
+9,ARG,guillermo cuello,,Mexico City 1968,Athletics,800m men
+10,JAM,neville f. myton,,Mexico City 1968,Athletics,800m men
+0,USA,madeline manning,00:02:00.900,Mexico City 1968,Athletics,800m women
+1,ROU,ileana silai,00:02:02.500,Mexico City 1968,Athletics,800m women
+2,NED,maria francisca p. gommers,00:02:02.600,Mexico City 1968,Athletics,800m women
+3,GBR,sheila janet taylor-carey,00:02:03.800,Mexico City 1968,Athletics,800m women
+4,USA,doris elaine brown,00:02:03.900,Mexico City 1968,Athletics,800m women
+5,GBR,patricia barbara lowe-cropper,00:02:04.200,Mexico City 1968,Athletics,800m women
+6,CAN,abby hoffman,00:02:06.800,Mexico City 1968,Athletics,800m women
+7,FRA,maryvonne dupureur,00:02:08.200,Mexico City 1968,Athletics,800m women
+8,YUG,vera nikolic,,Mexico City 1968,Athletics,800m women
+9,CUB,aurelia catalina penton conde,Did not start,Mexico City 1968,Athletics,800m women
+0,AUS,maureen caird,10.300,Mexico City 1968,Athletics,80m hurdles women
+1,AUS,pam kilborn-ryan,10.400,Mexico City 1968,Athletics,80m hurdles women
+2,TPE,cheng chi,10.400,Mexico City 1968,Athletics,80m hurdles women
+3,USA,patricia van wolvelaere-johnson,10.500,Mexico City 1968,Athletics,80m hurdles women
+4,GDR,karin richert-balzer,10.600,Mexico City 1968,Athletics,80m hurdles women
+5,POL,danuta straszynska,10.600,Mexico City 1968,Athletics,80m hurdles women
+6,POL,elzbieta zebrowska,10.600,Mexico City 1968,Athletics,80m hurdles women
+7,URS,tatyana talysheva,10.700,Mexico City 1968,Athletics,80m hurdles women
+8,GBR,pat pryce-nutting,,Mexico City 1968,Athletics,80m hurdles women
+9,FRG,karin reichert-frisch,Did not start,Mexico City 1968,Athletics,80m hurdles women
+10,FRG,heidemarie rosendahl,Did not start,Mexico City 1968,Athletics,80m hurdles women
+0,USA,bill toomey,424,Mexico City 1968,Athletics,decathlon men
+1,FRG,hans joachim walde,416,Mexico City 1968,Athletics,decathlon men
+2,FRG,kurt bendlin,356,Mexico City 1968,Athletics,decathlon men
+3,URS,nikolai avilov,404,Mexico City 1968,Athletics,decathlon men
+4,GDR,joachim kirst,305,Mexico City 1968,Athletics,decathlon men
+5,USA,thomas flubacher waddell,384,Mexico City 1968,Athletics,decathlon men
+6,USA,richard donald sloan,500,Mexico City 1968,Athletics,decathlon men
+7,DEN,steen smidt-jensen,517,Mexico City 1968,Athletics,decathlon men
+8,NED,eduard jan de noorlander,539,Mexico City 1968,Athletics,decathlon men
+9,GDR,manfred tiedtke,244,Mexico City 1968,Athletics,decathlon men
+10,SWE,lennart hedmark,350,Mexico City 1968,Athletics,decathlon men
+11,AUT,walter diessl,307,Mexico City 1968,Athletics,decathlon men
+12,GBR,clive citreon olaf longe,312,Mexico City 1968,Athletics,decathlon men
+13,URS,yanis lanka,,Mexico City 1968,Athletics,decathlon men
+14,TPE,ah-min wu,361,Mexico City 1968,Athletics,decathlon men
+15,BUL,spas dzhurov,328,Mexico City 1968,Athletics,decathlon men
+16,BEL,roger lespagnard,425,Mexico City 1968,Athletics,decathlon men
+17,SUI,urs trautmann,337,Mexico City 1968,Athletics,decathlon men
+18,LIE,franz biedermann,476,Mexico City 1968,Athletics,decathlon men
+19,NCA,donald velez,190,Mexico City 1968,Athletics,decathlon men
+20,AUT,gert herünter,Did not finish,Mexico City 1968,Athletics,decathlon men
+21,SUI,hans-rüdi kunz,Did not finish,Mexico City 1968,Athletics,decathlon men
+22,FRA,charlemagne anyamah,Did not finish,Mexico City 1968,Athletics,decathlon men
+23,MEX,roberto carmona botella,Did not finish,Mexico City 1968,Athletics,decathlon men
+24,ISL,valbjorn thorlaksson,Did not finish,Mexico City 1968,Athletics,decathlon men
+25,GDR,herbert wessel,Did not finish,Mexico City 1968,Athletics,decathlon men
+26,TPE,chuan-chow chen,Did not finish,Mexico City 1968,Athletics,decathlon men
+27,URS,rein aun,Did not finish,Mexico City 1968,Athletics,decathlon men
+28,VNM,henh phuoc ho,Did not finish,Mexico City 1968,Athletics,decathlon men
+29,AUT,hörst mandl,Did not finish,Mexico City 1968,Athletics,decathlon men
+30,MAD,dominique radutorahalahy,Did not finish,Mexico City 1968,Athletics,decathlon men
+31,FRG,werner von moltke,Did not finish,Mexico City 1968,Athletics,decathlon men
+32,SUI,werner duttweiler,Did not finish,Mexico City 1968,Athletics,decathlon men
+33,BEL,freddy herbrand,Did not start,Mexico City 1968,Athletics,decathlon men
+0,USA,alfred oerter,64.78,Mexico City 1968,Athletics,discus throw men
+1,GDR,lothar milde,63.08,Mexico City 1968,Athletics,discus throw men
+2,TCH,ludvik danek,62.92,Mexico City 1968,Athletics,discus throw men
+3,GDR,hartmut losch,62.12,Mexico City 1968,Athletics,discus throw men
+4,USA,l.jay silvester,61.78,Mexico City 1968,Athletics,discus throw men
+5,USA,gary david carlsen,59.46,Mexico City 1968,Athletics,discus throw men
+6,POL,edmund piatkowski,59.4,Mexico City 1968,Athletics,discus throw men
+7,SWE,rickard bruch,59.28,Mexico City 1968,Athletics,discus throw men
+8,FRG,hein-direk neu,58.66,Mexico City 1968,Athletics,discus throw men
+9,GDR,gunter schaumburg,58.62,Mexico City 1968,Athletics,discus throw men
+10,HUN,ferenc tegla,58.36,Mexico City 1968,Athletics,discus throw men
+11,NZL,robin douglas tait,57.68,Mexico City 1968,Athletics,discus throw men
+12,IND,praveen kumar,Did not start,Mexico City 1968,Athletics,discus throw men
+13,ITA,silvano simeon,Did not start,Mexico City 1968,Athletics,discus throw men
+14,MAR,lahcen samsam akka,Did not start,Mexico City 1968,Athletics,discus throw men
+15,MAS,nashatar singh sidhu,Did not start,Mexico City 1968,Athletics,discus throw men
+0,ROU,lia manoliu,x,Mexico City 1968,Athletics,discus throw women
+1,FRG,liselotte (liesel) westermann,x,Mexico City 1968,Athletics,discus throw women
+2,HUN,jolan kleiber-kontsek,x,Mexico City 1968,Athletics,discus throw women
+3,GDR,anita otto,52.34,Mexico City 1968,Athletics,discus throw women
+4,URS,antonina popova,x,Mexico City 1968,Athletics,discus throw women
+5,USA,olga fikotova-connolly,50.4,Mexico City 1968,Athletics,discus throw women
+6,GDR,christine spielberg,49.8,Mexico City 1968,Athletics,discus throw women
+7,FRG,brigitte berendonk,50.46,Mexico City 1968,Athletics,discus throw women
+8,URS,lyudmila muravyova,,Mexico City 1968,Athletics,discus throw women
+9,GDR,karin illgen,,Mexico City 1968,Athletics,discus throw women
+10,HUN,judit stugner,,Mexico City 1968,Athletics,discus throw women
+11,MGL,namjilmaa dasjzeveg,,Mexico City 1968,Athletics,discus throw women
+12,ROU,olimpia catarama,,Mexico City 1968,Athletics,discus throw women
+13,USA,carole jean moseke,,Mexico City 1968,Athletics,discus throw women
+14,PHI,josephine h. de la vina,,Mexico City 1968,Athletics,discus throw women
+15,AUS,jean roberts,,Mexico City 1968,Athletics,discus throw women
+16,JAM,mary mcneil,Did not start,Mexico City 1968,Athletics,discus throw women
+17,HUN,judit bognar-lendvai,Did not start,Mexico City 1968,Athletics,discus throw women
+0,HUN,gyula zsivotzky,73.36,Mexico City 1968,Athletics,hammer throw men
+1,URS,romuald klim,73.28,Mexico City 1968,Athletics,hammer throw men
+2,HUN,lazar lovasz,69.78,Mexico City 1968,Athletics,hammer throw men
+3,JPN,takeo sugawara,69.78,Mexico City 1968,Athletics,hammer throw men
+4,HUN,sándor eckschmiedt,69.46,Mexico City 1968,Athletics,hammer throw men
+5,URS,gennadi kondrashov,69.08,Mexico City 1968,Athletics,hammer throw men
+6,GDR,reinhard theimer,68.84,Mexico City 1968,Athletics,hammer throw men
+7,GDR,helmut baumann,68.26,Mexico City 1968,Athletics,hammer throw men
+8,URS,anatoli shchuplyakov,67.74,Mexico City 1968,Athletics,hammer throw men
+9,GBR,andrew howard payne,67.62,Mexico City 1968,Athletics,hammer throw men
+10,FRG,hans fahsl,66.36,Mexico City 1968,Athletics,hammer throw men
+11,USA,edward andrew burke,65.72,Mexico City 1968,Athletics,hammer throw men
+12,JPN,yoshihisa ishida,65.04,Mexico City 1968,Athletics,hammer throw men
+13,GRE,frangiskos politis,Did not start,Mexico City 1968,Athletics,hammer throw men
+0,USA,richard douglas fosbury,2.24,Mexico City 1968,Athletics,high jump men
+1,USA,edward j. jr. caruthers,2.22,Mexico City 1968,Athletics,high jump men
+2,URS,valentin gavrilov,2.2,Mexico City 1968,Athletics,high jump men
+3,URS,valeri skvortsov,2.16,Mexico City 1968,Athletics,high jump men
+4,USA,reynaldo ray brown,2.14,Mexico City 1968,Athletics,high jump men
+5,ITA,giacomo crosa,2.14,Mexico City 1968,Athletics,high jump men
+6,FRG,gunter spielvogel,2.14,Mexico City 1968,Athletics,high jump men
+7,AUS,lawrence william peckham,2.12,Mexico City 1968,Athletics,high jump men
+8,FRA,robert sainte-rose,2.09,Mexico City 1968,Athletics,high jump men
+9,FRG,ingomar sieghart,2.09,Mexico City 1968,Athletics,high jump men
+10,ESP,luis maria garriga ortiz,2.09,Mexico City 1968,Athletics,high jump men
+11,CHA,ahmed senoussi,2.09,Mexico City 1968,Athletics,high jump men
+12,YUG,miodrag todosijevic,2.06,Mexico City 1968,Athletics,high jump men
+13,SWE,bo jonsson,Did not start,Mexico City 1968,Athletics,high jump men
+14,SEN,ababacar ly,Did not start,Mexico City 1968,Athletics,high jump men
+15,BEL,freddy herbrand,Did not start,Mexico City 1968,Athletics,high jump men
+16,NGR,samuel igun,Did not start,Mexico City 1968,Athletics,high jump men
+17,SWE,jan dahlgren,Did not start,Mexico City 1968,Athletics,high jump men
+0,TCH,miloslava rezkova-hubner,1.82,Mexico City 1968,Athletics,high jump women
+1,URS,antonina okorokova-lazareva,1.8,Mexico City 1968,Athletics,high jump women
+2,URS,valentina kozyr,1.8,Mexico City 1968,Athletics,high jump women
+3,TCH,jaroslava valentova-kralova,1.78,Mexico City 1968,Athletics,high jump women
+4,GDR,rita schmidt-kirst,1.78,Mexico City 1968,Athletics,high jump women
+5,TCH,maria faithova-mracnova,1.78,Mexico City 1968,Athletics,high jump women
+6,GDR,karin ruger-schulze,1.76,Mexico City 1968,Athletics,high jump women
+7,AUT,ilona gusenbauer-majdan,1.76,Mexico City 1968,Athletics,high jump women
+8,FRA,ghislaine barnay,1.71,Mexico City 1968,Athletics,high jump women
+9,HUN,magdolna komka,1.71,Mexico City 1968,Athletics,high jump women
+10,BRA,maria cipriano,1.71,Mexico City 1968,Athletics,high jump women
+11,URS,vera grushkina,1.71,Mexico City 1968,Athletics,high jump women
+12,GBR,barbara jean inkpen,1.68,Mexico City 1968,Athletics,high jump women
+13,YUG,snezana hrepevnik,1.68,Mexico City 1968,Athletics,high jump women
+14,USA,estelle jean baskerville,,Mexico City 1968,Athletics,high jump women
+15,BAR,patsy calender,Did not start,Mexico City 1968,Athletics,high jump women
+16,CRC,sandra johnson,Did not start,Mexico City 1968,Athletics,high jump women
+17,PHI,lolita lagrosas,Did not start,Mexico City 1968,Athletics,high jump women
+0,URS,yanis lusis,90.1,Mexico City 1968,Athletics,javelin throw men
+1,FIN,jorma viljo palaavi kinnunen,88.58,Mexico City 1968,Athletics,javelin throw men
+2,HUN,gergely kulcsar,87.06,Mexico City 1968,Athletics,javelin throw men
+3,POL,wladyslaw nikiciuk,85.7,Mexico City 1968,Athletics,javelin throw men
+4,GDR,manfred stolle,84.42,Mexico City 1968,Athletics,javelin throw men
+5,SWE,ake nilsson,83.48,Mexico City 1968,Athletics,javelin throw men
+6,POL,janusz sidlo,80.58,Mexico City 1968,Athletics,javelin throw men
+7,SUI,urs von wartburg,80.56,Mexico City 1968,Athletics,javelin throw men
+8,USA,marcus paul murro,80.08,Mexico City 1968,Athletics,javelin throw men
+9,AUT,walter pektor,77.4,Mexico City 1968,Athletics,javelin throw men
+10,CUB,aurelio janet torres,74.88,Mexico City 1968,Athletics,javelin throw men
+11,FRG,hermann salomon,73.5,Mexico City 1968,Athletics,javelin throw men
+12,GRE,christos panayotis pierrakos,Did not start,Mexico City 1968,Athletics,javelin throw men
+13,MAR,lahcen samsam akka,Did not start,Mexico City 1968,Athletics,javelin throw men
+0,HUN,angela nemeth-ranky,53.3,Mexico City 1968,Athletics,javelin throw women
+1,ROU,mihaela penes,x,Mexico City 1968,Athletics,javelin throw women
+2,AUT,eva janko-egger,58.04,Mexico City 1968,Athletics,javelin throw women
+3,HUN,marta antal-rudas,52.68,Mexico City 1968,Athletics,javelin throw women
+4,POL,daniela jaworska,53.2,Mexico City 1968,Athletics,javelin throw women
+5,YUG,natasa urbancic,-,Mexico City 1968,Athletics,javelin throw women
+6,FRG,amelie koloska-isermeyer,x,Mexico City 1968,Athletics,javelin throw women
+7,FIN,kaisa launela,x,Mexico City 1968,Athletics,javelin throw women
+8,USA,barbara ann friedrich,,Mexico City 1968,Athletics,javelin throw women
+9,URS,lidiya tsimosh,,Mexico City 1968,Athletics,javelin throw women
+10,USA,ranae jean bair,,Mexico City 1968,Athletics,javelin throw women
+11,POL,lucyna krawcewicz,,Mexico City 1968,Athletics,javelin throw women
+12,CAN,jay dahlgren,,Mexico City 1968,Athletics,javelin throw women
+13,URS,valentina evert,,Mexico City 1968,Athletics,javelin throw women
+14,GBR,susan mary platt,,Mexico City 1968,Athletics,javelin throw women
+15,AUT,erika strasser,NM,Mexico City 1968,Athletics,javelin throw women
+0,USA,bob beamon,8.9,Mexico City 1968,Athletics,long jump men
+1,GDR,klaus beer,8.19,Mexico City 1968,Athletics,long jump men
+2,USA,ralph harold boston,8.16,Mexico City 1968,Athletics,long jump men
+3,URS,igor ter-ovanesyan,8.12,Mexico City 1968,Athletics,long jump men
+4,URS,tõnu lepik,8.09,Mexico City 1968,Athletics,long jump men
+5,AUS,allen crawley,8.02,Mexico City 1968,Athletics,long jump men
+6,FRA,jacques pani,7.97,Mexico City 1968,Athletics,long jump men
+7,POL,andrzej stalmach,7.94,Mexico City 1968,Athletics,long jump men
+8,GBR,lynn davies,7.94,Mexico City 1968,Athletics,long jump men
+9,JPN,hiroomi yamada,7.93w,Mexico City 1968,Athletics,long jump men
+10,URS,leonid barkovski,7.9,Mexico City 1968,Athletics,long jump men
+11,FRG,reinhold boschert,7.89,Mexico City 1968,Athletics,long jump men
+12,GHA,michael kofi ahey,7.71,Mexico City 1968,Athletics,long jump men
+13,SWE,lars-olof hook,7.66,Mexico City 1968,Athletics,long jump men
+14,JAM,victor brooks,7.51,Mexico City 1968,Athletics,long jump men
+15,FRA,gerard ugolini,7.44,Mexico City 1968,Athletics,long jump men
+16,USA,charles mays,,Mexico City 1968,Athletics,long jump men
+17,GBR,peter neville reed,,Mexico City 1968,Athletics,long jump men
+18,AUS,philip may,Did not start,Mexico City 1968,Athletics,long jump men
+19,GHA,johnson o. amoah,Did not start,Mexico City 1968,Athletics,long jump men
+20,HUN,zoltan cziffra,Did not start,Mexico City 1968,Athletics,long jump men
+21,HUN,henrik kalocsai,Did not start,Mexico City 1968,Athletics,long jump men
+22,IND,labh singh,Did not start,Mexico City 1968,Athletics,long jump men
+23,ITA,giuseppe gentile,Did not start,Mexico City 1968,Athletics,long jump men
+24,TPE,chuan-chow chen,Did not start,Mexico City 1968,Athletics,long jump men
+0,ROU,viorica viscopoleanu,6.82,Mexico City 1968,Athletics,long jump women
+1,GBR,sheila hilary parkin-sherwood,6.68,Mexico City 1968,Athletics,long jump women
+2,URS,tatyana talysheva,6.66,Mexico City 1968,Athletics,long jump women
+3,GDR,burghild wieczorek,6.48,Mexico City 1968,Athletics,long jump women
+4,POL,miroslawa sarna,6.47,Mexico City 1968,Athletics,long jump women
+5,FRG,ingrid becker-mickler,6.43,Mexico City 1968,Athletics,long jump women
+6,NOR,berit berthelsen-toien,6.4,Mexico City 1968,Athletics,long jump women
+7,FRG,heidemarie rosendahl,6.4,Mexico City 1968,Athletics,long jump women
+8,NGR,violet obiamaka odogwu,6.23,Mexico City 1968,Athletics,long jump women
+9,USA,martha rae watson,6.2,Mexico City 1968,Athletics,long jump women
+10,USA,willye white,6.08,Mexico City 1968,Athletics,long jump women
+11,GBR,maureen anne barton-chitty,5.95,Mexico City 1968,Athletics,long jump women
+12,GBR,ann shirley wilson,5.9,Mexico City 1968,Athletics,long jump women
+13,GDR,barbel lohnert,4.49,Mexico City 1968,Athletics,long jump women
+14,CAN,joan hendry,,Mexico City 1968,Athletics,long jump women
+15,ESA,cecilia noemi sosa vargas,,Mexico City 1968,Athletics,long jump women
+16,SUI,sieglinde ammann,,Mexico City 1968,Athletics,long jump women
+17,ARG,alicia adela kaufmanas,Did not start,Mexico City 1968,Athletics,long jump women
+18,DEN,nina ella damkjer hansen,Did not start,Mexico City 1968,Athletics,long jump women
+19,ITA,maria vittoria trio,Did not start,Mexico City 1968,Athletics,long jump women
+0,ETH,mamo wolde,02:20:26.400,Mexico City 1968,Athletics,marathon men
+1,JPN,kenji kimihara,02:23:31.000,Mexico City 1968,Athletics,marathon men
+2,NZL,michael robert ryan,02:23:45.000,Mexico City 1968,Athletics,marathon men
+3,TUR,ismail akcay,02:25:18.800,Mexico City 1968,Athletics,marathon men
+4,GBR,william arthur adcocks,02:25:33.000,Mexico City 1968,Athletics,marathon men
+5,ETH,gebru merawi,02:27:16.800,Mexico City 1968,Athletics,marathon men
+6,AUS,derek clayton,02:27:23.800,Mexico City 1968,Athletics,marathon men
+7,GBR,timothy frederick johnston,02:28:04.400,Mexico City 1968,Athletics,marathon men
+8,JPN,akio usami,02:28:06.200,Mexico City 1968,Athletics,marathon men
+9,CAN,andrew boychuk,02:28:40.200,Mexico City 1968,Athletics,marathon men
+10,BEL,gaston roelants,02:29:04.800,Mexico City 1968,Athletics,marathon men
+11,IRL,patrick joseph mcmahon,02:29:21.000,Mexico City 1968,Athletics,marathon men
+12,MEX,alfredo penaloza,02:29:48.800,Mexico City 1968,Athletics,marathon men
+13,USA,kenneth clark moore,02:29:49.400,Mexico City 1968,Athletics,marathon men
+14,GDR,jürgen busch,02:30:42.600,Mexico City 1968,Athletics,marathon men
+15,USA,george l. young,02:31:15.000,Mexico City 1968,Athletics,marathon men
+16,FRG,manfred steffny,02:31:23.800,Mexico City 1968,Athletics,marathon men
+17,MYA,sumbwegam thin,02:32:22.000,Mexico City 1968,Athletics,marathon men
+18,KEN,nabiba naftali temu,02:32:36.000,Mexico City 1968,Athletics,marathon men
+19,BEL,maurice peiren,02:32:49.000,Mexico City 1968,Athletics,marathon men
+20,ITA,antonio ambu,02:33:19.600,Mexico City 1968,Athletics,marathon men
+21,USA,ronald h. daws,02:33:53.000,Mexico City 1968,Athletics,marathon men
+22,FRG,karlheinz sievers,02:34:11.800,Mexico City 1968,Athletics,marathon men
+23,HUN,gyula toth,02:34:49.000,Mexico City 1968,Athletics,marathon men
+24,TUR,huseyin aktas,02:35:09.500,Mexico City 1968,Athletics,marathon men
+25,MEX,pablo garrido lugo,02:35:47.800,Mexico City 1968,Athletics,marathon men
+26,NED,adrianus johannes steylen,02:37:42.000,Mexico City 1968,Athletics,marathon men
+27,URS,anatoli sukharkov,02:38:07.400,Mexico City 1968,Athletics,marathon men
+28,KOR,myung-jung lee,02:38:52.200,Mexico City 1968,Athletics,marathon men
+29,BUL,ivaylo sharankov,02:39:49.600,Mexico City 1968,Athletics,marathon men
+30,ITA,gioacchino de palma,02:39:58.200,Mexico City 1968,Athletics,marathon men
+31,SUI,josef gwerder,02:40:16.000,Mexico City 1968,Athletics,marathon men
+32,FRG,hubert riesner,02:41:29.000,Mexico City 1968,Athletics,marathon men
+33,DEN,georg bruno meyer olsen,02:42:24.600,Mexico City 1968,Athletics,marathon men
+34,ZAM,douglas zinkala,02:42:51.000,Mexico City 1968,Athletics,marathon men
+35,CHI,ezequiel baeza,02:43:15.600,Mexico City 1968,Athletics,marathon men
+36,NZL,david closs mckenzie,02:43:36.600,Mexico City 1968,Athletics,marathon men
+37,KOR,bong-lee kim,02:43:56.000,Mexico City 1968,Athletics,marathon men
+38,GUA,carlos cuque,02:45:20.400,Mexico City 1968,Athletics,marathon men
+39,ZAM,godwin kalimbwe,02:45:26.800,Mexico City 1968,Athletics,marathon men
+40,IRL,michael molloy,02:48:13.600,Mexico City 1968,Athletics,marathon men
+41,BUL,nikolai simeonov,02:48:30.400,Mexico City 1968,Athletics,marathon men
+42,AUS,john farrington,02:50:16.800,Mexico City 1968,Athletics,marathon men
+43,SUI,helmut kunisch,02:50:58.200,Mexico City 1968,Athletics,marathon men
+44,SLE,albert massaquoi,02:52:28.000,Mexico City 1968,Athletics,marathon men
+45,KOR,sang-hoon lee,02:52:46.200,Mexico City 1968,Athletics,marathon men
+46,MYA,thein hla,02:54:03.600,Mexico City 1968,Athletics,marathon men
+47,KEN,paul mose,02:55:17.000,Mexico City 1968,Athletics,marathon men
+48,PHI,benjamin silva-netto,02:56:19.400,Mexico City 1968,Athletics,marathon men
+49,GUY,harry prowell,02:57:01.400,Mexico City 1968,Athletics,marathon men
+50,SRI,wimalasena perera,02:59:05.800,Mexico City 1968,Athletics,marathon men
+51,GUA,fulgencio hernandez car,03:00:40.200,Mexico City 1968,Athletics,marathon men
+52,ECU,gustavo gutierrez,03:03:07.000,Mexico City 1968,Athletics,marathon men
+53,NGR,martin ande,03:03:47.600,Mexico City 1968,Athletics,marathon men
+54,UGA,mustafa musa,03:04:53.800,Mexico City 1968,Athletics,marathon men
+55,ZAM,enoch muemba,03:06:16.000,Mexico City 1968,Athletics,marathon men
+56,TAN,john stephen akhwari,03:25:17.000,Mexico City 1968,Athletics,marathon men
+57,SUI,edgar friedl,Did not finish,Mexico City 1968,Athletics,marathon men
+58,KUW,mraljeb ayed mansoor,Did not finish,Mexico City 1968,Athletics,marathon men
+59,URS,mukhamed sadyk shakirov,Did not finish,Mexico City 1968,Athletics,marathon men
+60,KUW,saoud obaid daifallah,Did not finish,Mexico City 1968,Athletics,marathon men
+61,ESP,carlos perez alonso,Did not finish,Mexico City 1968,Athletics,marathon men
+62,GBR,james noel carroll alder,Did not finish,Mexico City 1968,Athletics,marathon men
+63,JPN,seiichiro sasaki,Did not finish,Mexico City 1968,Athletics,marathon men
+64,CAN,jerome drayton,Did not finish,Mexico City 1968,Athletics,marathon men
+65,FRA,guy texereau,Did not finish,Mexico City 1968,Athletics,marathon men
+66,YUG,nedo farcic,Did not finish,Mexico City 1968,Athletics,marathon men
+67,FRA,rene christian combes,Did not finish,Mexico City 1968,Athletics,marathon men
+68,URU,armando gonzalez iguini,Did not finish,Mexico City 1968,Athletics,marathon men
+69,ETH,abebe bikila,Did not finish,Mexico City 1968,Athletics,marathon men
+70,CRC,juan rafael angel perez cordoba,Did not finish,Mexico City 1968,Athletics,marathon men
+71,HUN,lajos mecser,Did not finish,Mexico City 1968,Athletics,marathon men
+72,HUN,jozsef suto,Did not finish,Mexico City 1968,Athletics,marathon men
+73,MEX,jose garcia caspar,Did not finish,Mexico City 1968,Athletics,marathon men
+74,FIN,pentti juhani rummakko,Did not finish,Mexico City 1968,Athletics,marathon men
+75,COL,hernan barreneche,Did not start,Mexico City 1968,Athletics,marathon men
+76,FIN,jouko kuha,Did not start,Mexico City 1968,Athletics,marathon men
+77,ITA,ettore milone,Did not start,Mexico City 1968,Athletics,marathon men
+78,URS,yury volkov,Did not start,Mexico City 1968,Athletics,marathon men
+79,NED,ton eykenboom,Did not start,Mexico City 1968,Athletics,marathon men
+80,GDR,jurgen haase,Did not start,Mexico City 1968,Athletics,marathon men
+81,POL,edward stawiarz,Did not start,Mexico City 1968,Athletics,marathon men
+82,TUN,mohamed gammoudi,Did not start,Mexico City 1968,Athletics,marathon men
+0,FRG,ingrid becker-mickler,1077,Mexico City 1968,Athletics,pentathlon women
+1,AUT,liese prokop-sykora,923,Mexico City 1968,Athletics,pentathlon women
+2,HUN,annamaria toth,1047,Mexico City 1968,Athletics,pentathlon women
+3,URS,valentina tikhomirova,941,Mexico City 1968,Athletics,pentathlon women
+4,FRG,manon bornholdt,950,Mexico City 1968,Athletics,pentathlon women
+5,USA,pat daniels-winslow,977,Mexico City 1968,Athletics,pentathlon women
+6,GDR,ingeborg bauer,977,Mexico City 1968,Athletics,pentathlon women
+7,SUI,meta antenen,941,Mexico City 1968,Athletics,pentathlon women
+8,GBR,mary peters,941,Mexico City 1968,Athletics,pentathlon women
+9,GBR,susan scott-reeve,997,Mexico City 1968,Athletics,pentathlon women
+10,CAN,jennifer anne wingerson-meldrum,950,Mexico City 1968,Athletics,pentathlon women
+11,YUG,marijana lubej,1037,Mexico City 1968,Athletics,pentathlon women
+12,DEN,nina ella damkjer hansen,932,Mexico City 1968,Athletics,pentathlon women
+13,BUL,snezhana yurukova,923,Mexico City 1968,Athletics,pentathlon women
+14,FRA,monique bantegny,905,Mexico City 1968,Athletics,pentathlon women
+15,GBR,ann shirley wilson,950,Mexico City 1968,Athletics,pentathlon women
+16,NED,marianne ackermans-thomas,887,Mexico City 1968,Athletics,pentathlon women
+17,NOR,berit berthelsen-toien,977,Mexico City 1968,Athletics,pentathlon women
+18,GDR,gerda uhlemann,932,Mexico City 1968,Athletics,pentathlon women
+19,BRA,aida dos santos menezes,941,Mexico City 1968,Athletics,pentathlon women
+20,ITA,magall vettorazzo,1007,Mexico City 1968,Athletics,pentathlon women
+21,ROU,cornelia popescu-popa,827,Mexico City 1968,Athletics,pentathlon women
+22,SUI,sieglinde ammann,869,Mexico City 1968,Athletics,pentathlon women
+23,USA,catherine louise hamblin,905,Mexico City 1968,Athletics,pentathlon women
+24,PHI,lolita lagrosas,763,Mexico City 1968,Athletics,pentathlon women
+25,TPE,chun-yu lin,803,Mexico City 1968,Athletics,pentathlon women
+26,TPE,ar-mei tien,914,Mexico City 1968,Athletics,pentathlon women
+27,URS,galina sofina,,Mexico City 1968,Athletics,pentathlon women
+28,YUG,djurdja focic,15,Mexico City 1968,Athletics,pentathlon women
+29,BEL,roswitha emonts-gast,869,Mexico City 1968,Athletics,pentathlon women
+30,MEX,mercedes roman casillas,968,Mexico City 1968,Athletics,pentathlon women
+31,CRC,jean robotham,896,Mexico City 1968,Athletics,pentathlon women
+32,SWE,eva cederström,Did not finish,Mexico City 1968,Athletics,pentathlon women
+33,GDR,barbel lohnert,Did not start,Mexico City 1968,Athletics,pentathlon women
+34,FRG,heidemarie rosendahl,Did not start,Mexico City 1968,Athletics,pentathlon women
+0,USA,bob seagren,5.4,Mexico City 1968,Athletics,pole vault men
+1,FRG,claus schiprowski,5.4,Mexico City 1968,Athletics,pole vault men
+2,GDR,wolfgang nordwig,5.4,Mexico City 1968,Athletics,pole vault men
+3,GRE,christos papanikolaou,5.35,Mexico City 1968,Athletics,pole vault men
+4,USA,john thomas pennell,5.35,Mexico City 1968,Athletics,pole vault men
+5,URS,gennady bliznetsov,5.3,Mexico City 1968,Athletics,pole vault men
+6,FRA,herve d'encausse,5.25,Mexico City 1968,Athletics,pole vault men
+7,FRG,heinfried engel,5.2,Mexico City 1968,Athletics,pole vault men
+8,ESP,ignacio sola cortabarria,5.2,Mexico City 1968,Athletics,pole vault men
+9,SWE,kjell isaksson,5.15,Mexico City 1968,Athletics,pole vault men
+10,JPN,kiyoshi niwa,5.15,Mexico City 1968,Athletics,pole vault men
+11,URS,aleksandr malyutin,5,Mexico City 1968,Athletics,pole vault men
+12,GBR,michael anthony bull,5,Mexico City 1968,Athletics,pole vault men
+13,FIN,altti alarotu,5,Mexico City 1968,Athletics,pole vault men
+14,FIN,erkki juhani mustakari,,Mexico City 1968,Athletics,pole vault men
+15,AUT,ingo peyker,,Mexico City 1968,Athletics,pole vault men
+16,ITA,aldo righi,Did not start,Mexico City 1968,Athletics,pole vault men
+17,DEN,steen smidt-jensen,Did not start,Mexico City 1968,Athletics,pole vault men
+18,ITA,renato dionisi,Did not start,Mexico City 1968,Athletics,pole vault men
+19,MAD,dominique radutorahalahy,Did not start,Mexico City 1968,Athletics,pole vault men
+0,USA,james randel matson,20.54,Mexico City 1968,Athletics,shot put men
+1,USA,george roger woods,20.12,Mexico City 1968,Athletics,shot put men
+2,URS,eduard gushchin,20.09,Mexico City 1968,Athletics,shot put men
+3,GDR,dieter hoffmann,20,Mexico City 1968,Athletics,shot put men
+4,USA,david l. maggard,19.43,Mexico City 1968,Athletics,shot put men
+5,POL,wladyslaw komar,19.28,Mexico City 1968,Athletics,shot put men
+6,GDR,uwe grabe,19.03,Mexico City 1968,Athletics,shot put men
+7,FRG,heinfried birlenbach,18.8,Mexico City 1968,Athletics,shot put men
+8,FRA,pierre colnard,18.79,Mexico City 1968,Athletics,shot put men
+9,GBR,jeffrey teale,18.65,Mexico City 1968,Athletics,shot put men
+10,NZL,leslie roy mills,18.18,Mexico City 1968,Athletics,shot put men
+11,FRG,traugott glöckler,18.14,Mexico City 1968,Athletics,shot put men
+12,GDR,dieter prollius,Did not start,Mexico City 1968,Athletics,shot put men
+13,CAN,george puce,Did not start,Mexico City 1968,Athletics,shot put men
+14,IRI,joe kashmiri,Did not start,Mexico City 1968,Athletics,shot put men
+15,MAR,lahcen samsam akka,Did not start,Mexico City 1968,Athletics,shot put men
+16,SWE,rickard bruch,Did not start,Mexico City 1968,Athletics,shot put men
+0,GDR,margitta helmbold-gummel,18.59,Mexico City 1968,Athletics,shot put women
+1,GDR,marita lange,18.26,Mexico City 1968,Athletics,shot put women
+2,URS,nadezhda chizhova,17.26,Mexico City 1968,Athletics,shot put women
+3,HUN,judit bognar-lendvai,16.83,Mexico City 1968,Athletics,shot put women
+4,GDR,renate garisch-culmberger-boy,17.69,Mexico City 1968,Athletics,shot put women
+5,BUL,ivanka mikailova christova-todorova,17.2,Mexico City 1968,Athletics,shot put women
+6,FRG,marlene fuchs-klein,16.19,Mexico City 1968,Athletics,shot put women
+7,NED,elsemia marianne h. van noorduyn,16.1,Mexico City 1968,Athletics,shot put women
+8,URS,irina solontsova,,Mexico City 1968,Athletics,shot put women
+9,FRG,gertrud schafer,,Mexico City 1968,Athletics,shot put women
+10,USA,maren elizabeth seidler,,Mexico City 1968,Athletics,shot put women
+11,CHI,rosa molina,,Mexico City 1968,Athletics,shot put women
+12,KOR,ok-ja baek,,Mexico City 1968,Athletics,shot put women
+13,ESA,rosario martinez blandin,,Mexico City 1968,Athletics,shot put women
+14,GBR,mary peters,Did not start,Mexico City 1968,Athletics,shot put women
+15,PHI,josephine h. de la vina,Did not start,Mexico City 1968,Athletics,shot put women
+0,URS,viktor saneev,17.39,Mexico City 1968,Athletics,triple jump men
+1,BRA,nelson prudencio,17.27,Mexico City 1968,Athletics,triple jump men
+2,ITA,giuseppe gentile,17.22,Mexico City 1968,Athletics,triple jump men
+3,USA,arthur franklin walker jr.,17.12w,Mexico City 1968,Athletics,triple jump men
+4,URS,nikolai dudkin,17.09w,Mexico City 1968,Athletics,triple jump men
+5,AUS,philip may,17.02,Mexico City 1968,Athletics,triple jump men
+6,POL,jozef schmidt,16.89,Mexico City 1968,Athletics,triple jump men
+7,SEN,mamsdou monsour dia,16.73w,Mexico City 1968,Athletics,triple jump men
+8,BUL,georgi ivanov stoykovski,16.46,Mexico City 1968,Athletics,triple jump men
+9,HUN,henrik kalocsai,16.45,Mexico City 1968,Athletics,triple jump men
+10,FRG,joachim kügler,15.9,Mexico City 1968,Athletics,triple jump men
+11,ESP,luis felipe areta samperiz,15.75,Mexico City 1968,Athletics,triple jump men
+12,ROU,serban ciochina,15.62,Mexico City 1968,Athletics,triple jump men
+13,IND,labh singh,Did not start,Mexico City 1968,Athletics,triple jump men

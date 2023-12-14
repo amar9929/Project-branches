@@ -1,0 +1,102 @@
+,country,participant,result,olympic_game,discipline,event
+0,GER,tobias wendl,1:56.554,Beijing 2022,Luge,Doubles
+1,GER,sascha benecken,1:56.653,Beijing 2022,Luge,Doubles
+2,AUT,thomas steu,1:57.065,Beijing 2022,Luge,Doubles
+3,LAT,martins bots,1:57.419,Beijing 2022,Luge,Doubles
+4,LAT,andris sics,1:57.437,Beijing 2022,Luge,Doubles
+5,ITA,simon kainzwaldner,1:57.597,Beijing 2022,Luge,Doubles
+6,CAN,justin snith,1:57.918,Beijing 2022,Luge,Doubles
+7,ROC,aleksandr denisev,1:57.993,Beijing 2022,Luge,Doubles
+8,POL,jakub kowalewski,1:58.065,Beijing 2022,Luge,Doubles
+9,ROC,andrei bogdanov,1:58.508,Beijing 2022,Luge,Doubles
+10,USA,zachary di gregorio,1:58.515,Beijing 2022,Luge,Doubles
+11,KOR,jinyong park,1:58.727,Beijing 2022,Luge,Doubles
+12,SVK,matej zmij,1:59.842,Beijing 2022,Luge,Doubles
+13,ROU,darius lucian serban,1:59.937,Beijing 2022,Luge,Doubles
+14,UKR,andrii lysetskyi,2:00.063,Beijing 2022,Luge,Doubles
+15,CZE,zdenek pekny,2:00.117,Beijing 2022,Luge,Doubles
+16,CHN,junyue peng,2:01.572,Beijing 2022,Luge,Doubles
+0,GER,johannes ludwig,3:48.735,Beijing 2022,Luge,Men's Singles
+1,AUT,wolfgang kindl,3:48.895,Beijing 2022,Luge,Men's Singles
+2,ITA,dominik fischnaller,3:49.686,Beijing 2022,Luge,Men's Singles
+3,GER,felix loch,3:49.878,Beijing 2022,Luge,Men's Singles
+4,LAT,kristers aparjods,3:50.053,Beijing 2022,Luge,Men's Singles
+5,GER,max langenhan,3:50.092,Beijing 2022,Luge,Men's Singles
+6,LAT,gints berzins,3:50.173,Beijing 2022,Luge,Men's Singles
+7,USA,chris mazdzer,3:51.377,Beijing 2022,Luge,Men's Singles
+8,ROC,roman repilov,3:51.634,Beijing 2022,Luge,Men's Singles
+9,ROC,semen pavlichenko,3:51.649,Beijing 2022,Luge,Men's Singles
+10,ITA,leon felderer,3:51.840,Beijing 2022,Luge,Men's Singles
+11,AUT,nico gleirscher,3:52.283,Beijing 2022,Luge,Men's Singles
+12,USA,tucker west,3:52.360,Beijing 2022,Luge,Men's Singles
+13,ROC,aleksandr gorbatcevich,3:52.601,Beijing 2022,Luge,Men's Singles
+14,AUT,david gleirscher,3:53.172,Beijing 2022,Luge,Men's Singles
+15,AUS,alex ferlazzo,3:53.219,Beijing 2022,Luge,Men's Singles
+16,CAN,reid watts,3:53.293,Beijing 2022,Luge,Men's Singles
+17,LAT,arturs darznieks,3:53.709,Beijing 2022,Luge,Men's Singles
+18,USA,jonathan gustafson,3:53.946,Beijing 2022,Luge,Men's Singles
+19,SWE,svante kohala,3:53.997,Beijing 2022,Luge,Men's Singles
+20,SVK,jozef ninis,2:55.825,Beijing 2022,Luge,Men's Singles
+21,UKR,anton dukach,2:56.007,Beijing 2022,Luge,Men's Singles
+22,GBR,rupert staudinger,2:56.313,Beijing 2022,Luge,Men's Singles
+23,CHN,duoyao fan,2:56.626,Beijing 2022,Luge,Men's Singles
+24,POL,mateusz sochowicz,2:56.926,Beijing 2022,Luge,Men's Singles
+25,SVK,marian skupek,2:56.983,Beijing 2022,Luge,Men's Singles
+26,UKR,andriy mandziy,2:58.134,Beijing 2022,Luge,Men's Singles
+27,BUL,pavel angelov,2:58.853,Beijing 2022,Luge,Men's Singles
+28,ROU,valentin cretu,2:58.934,Beijing 2022,Luge,Men's Singles
+29,CZE,michael lejsek,2:59.567,Beijing 2022,Luge,Men's Singles
+30,GEO,saba kumaritashvili,3:00.393,Beijing 2022,Luge,Men's Singles
+31,JPN,seiya kobayashi,3:01.634,Beijing 2022,Luge,Men's Singles
+32,KOR,namkyu lim,3:01.770,Beijing 2022,Luge,Men's Singles
+33,BIH,mirza nikolajev,3:05.349,Beijing 2022,Luge,Men's Singles
+34,ITA,kevin fischnaller,Did not start,Beijing 2022,Luge,Men's Singles
+0,,,3:03.406,Beijing 2022,Luge,Mixed Team Relay
+1,,,3:03.486,Beijing 2022,Luge,Mixed Team Relay
+2,,,3:04.354,Beijing 2022,Luge,Mixed Team Relay
+3,,,3:04.667,Beijing 2022,Luge,Mixed Team Relay
+4,,,3:04.852,Beijing 2022,Luge,Mixed Team Relay
+5,,,3:05.235,Beijing 2022,Luge,Mixed Team Relay
+6,,,3:05.741,Beijing 2022,Luge,Mixed Team Relay
+7,,,3:07.136,Beijing 2022,Luge,Mixed Team Relay
+8,,,3:07.692,Beijing 2022,Luge,Mixed Team Relay
+9,,,3:09.556,Beijing 2022,Luge,Mixed Team Relay
+10,,,3:09.604,Beijing 2022,Luge,Mixed Team Relay
+11,,,3:10.182,Beijing 2022,Luge,Mixed Team Relay
+12,,,3:11.238,Beijing 2022,Luge,Mixed Team Relay
+13,,,Did not finish,Beijing 2022,Luge,Mixed Team Relay
+0,GER,natalie geisenberger,3:53.454,Beijing 2022,Luge,Women's Singles
+1,GER,anna berreiter,3:53.947,Beijing 2022,Luge,Women's Singles
+2,ROC,tatyana ivanova,3:54.507,Beijing 2022,Luge,Women's Singles
+3,AUT,madeleine egle,3:54.809,Beijing 2022,Luge,Women's Singles
+4,AUT,hannah prock,3:54.824,Beijing 2022,Luge,Women's Singles
+5,AUT,lisa schulte,3:54.885,Beijing 2022,Luge,Women's Singles
+6,GER,julia taubitz,3:55.433,Beijing 2022,Luge,Women's Singles
+7,LAT,eliza tiruma,3:55.441,Beijing 2022,Luge,Women's Singles
+8,SUI,natalie maag,3:55.940,Beijing 2022,Luge,Women's Singles
+9,ITA,andrea voetter,3:55.977,Beijing 2022,Luge,Women's Singles
+10,LAT,kendija aparjode,3:56.139,Beijing 2022,Luge,Women's Singles
+11,USA,ashley farquharson,3:56.407,Beijing 2022,Luge,Women's Singles
+12,ITA,verena hofer,3:56.542,Beijing 2022,Luge,Women's Singles
+13,CAN,trinity ellis,3:56.864,Beijing 2022,Luge,Women's Singles
+14,ITA,nina zoeggeler,3:56.984,Beijing 2022,Luge,Women's Singles
+15,CAN,natalie corless,3:57.255,Beijing 2022,Luge,Women's Singles
+16,CAN,makena hodgson,3:57.536,Beijing 2022,Luge,Women's Singles
+17,LAT,elina vitola,3:58.151,Beijing 2022,Luge,Women's Singles
+18,KOR,aileen christina frisch,4:00.284,Beijing 2022,Luge,Women's Singles
+19,SWE,tove kohala,4:01.073,Beijing 2022,Luge,Women's Singles
+20,UKR,yulianna tunytska,2:59.105,Beijing 2022,Luge,Women's Singles
+21,UKR,olena stetskiv,2:59.212,Beijing 2022,Luge,Women's Singles
+22,USA,summer britcher,2:59.294,Beijing 2022,Luge,Women's Singles
+23,ARG,veronica maria ravenna,2:59.310,Beijing 2022,Luge,Women's Singles
+24,SVK,katarina simonakova,2:59.736,Beijing 2022,Luge,Women's Singles
+25,USA,emily sweeney,3:00.292,Beijing 2022,Luge,Women's Singles
+26,POL,klaudia domaradzka,3:01.076,Beijing 2022,Luge,Women's Singles
+27,ROC,victoria demchenko,3:01.173,Beijing 2022,Luge,Women's Singles
+28,CHN,peixuan wang,3:01.402,Beijing 2022,Luge,Women's Singles
+29,CZE,anna cezikova,3:01.662,Beijing 2022,Luge,Women's Singles
+30,TPE,sin-rong lin,3:03.611,Beijing 2022,Luge,Women's Singles
+31,MDA,doina descalui,3:06.294,Beijing 2022,Luge,Women's Singles
+32,IRL,elsa desmond,3:07.719,Beijing 2022,Luge,Women's Singles
+33,ROU,raluca stramaturaru,Did not finish,Beijing 2022,Luge,Women's Singles
+34,ROC,ekaterina katnikova,Did not finish,Beijing 2022,Luge,Women's Singles

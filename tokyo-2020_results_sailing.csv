@@ -1,0 +1,251 @@
+,country,participant,result,olympic_game,discipline,event
+0,AUS,mathew belcher,23,Tokyo 2020,Sailing,470 Men
+1,SWE,anton dahlberg,45,Tokyo 2020,Sailing,470 Men
+2,ESP,nicolas rodriguez garcia-paz,55,Tokyo 2020,Sailing,470 Men
+3,NZL,daniel willcox,57,Tokyo 2020,Sailing,470 Men
+4,GBR,chris grube,70,Tokyo 2020,Sailing,470 Men
+5,ITA,giulio calabro,81,Tokyo 2020,Sailing,470 Men
+6,JPN,keiju okada,82,Tokyo 2020,Sailing,470 Men
+7,GRE,panagiotis mantis,84,Tokyo 2020,Sailing,470 Men
+8,USA,stuart mcnay,86,Tokyo 2020,Sailing,470 Men
+9,TUR,ates cinar,93,Tokyo 2020,Sailing,470 Men
+10,FRA,jeremie mion,84,Tokyo 2020,Sailing,470 Men
+11,ROC,pavel sozykin,88,Tokyo 2020,Sailing,470 Men
+12,CHN,zangjun xu,95,Tokyo 2020,Sailing,470 Men
+13,KOR,gunwoo park,104,Tokyo 2020,Sailing,470 Men
+14,POR,pedro costa,104,Tokyo 2020,Sailing,470 Men
+15,BRA,henrique haddad,116,Tokyo 2020,Sailing,470 Men
+16,CAN,oliver bone,125,Tokyo 2020,Sailing,470 Men
+17,ASA,tyler justus paige,159,Tokyo 2020,Sailing,470 Men
+18,ANG,matias montinho,167,Tokyo 2020,Sailing,470 Men
+0,GBR,eilidh mcintyre,38,Tokyo 2020,Sailing,470 Women
+1,POL,agnieszka skrzypulec,54,Tokyo 2020,Sailing,470 Women
+2,FRA,aloise retornaz,54,Tokyo 2020,Sailing,470 Women
+3,SUI,linda fahrni,64,Tokyo 2020,Sailing,470 Women
+4,SLO,veronika macarol,69,Tokyo 2020,Sailing,470 Women
+5,GER,luise wanser,77,Tokyo 2020,Sailing,470 Women
+6,JPN,ai kondo yoshida,79,Tokyo 2020,Sailing,470 Women
+7,ISR,noya bar-am,80,Tokyo 2020,Sailing,470 Women
+8,BRA,fernanda oliveira,82,Tokyo 2020,Sailing,470 Women
+9,NED,afrodite zegers,91,Tokyo 2020,Sailing,470 Women
+10,ESP,patricia cantero reina,81,Tokyo 2020,Sailing,470 Women
+11,USA,lara dallman-weiss,98,Tokyo 2020,Sailing,470 Women
+12,ITA,bianca caruso,102,Tokyo 2020,Sailing,470 Women
+13,SWE,lovisa karlsson,111,Tokyo 2020,Sailing,470 Women
+14,GRE,aimilia tsoulfa,114,Tokyo 2020,Sailing,470 Women
+15,AUS,monique de vries,117,Tokyo 2020,Sailing,470 Women
+16,TUR,okyanus arikan,127.1,Tokyo 2020,Sailing,470 Women
+17,CHN,mengxi wei,129,Tokyo 2020,Sailing,470 Women
+18,MAS,juni karimah noor jamali,158,Tokyo 2020,Sailing,470 Women
+19,ARG,maria belen tavella,160,Tokyo 2020,Sailing,470 Women
+20,MOZ,denise parruque,182,Tokyo 2020,Sailing,470 Women
+0,BRA,martine grael,76,Tokyo 2020,Sailing,49er FX Women
+1,GER,tina lutz,83,Tokyo 2020,Sailing,49er FX Women
+2,NED,annemiek bekkering,88,Tokyo 2020,Sailing,49er FX Women
+3,ESP,tamara echegoyen dominguez,89,Tokyo 2020,Sailing,49er FX Women
+4,ARG,victoria travascio,90,Tokyo 2020,Sailing,49er FX Women
+5,GBR,charlotte dobson,95,Tokyo 2020,Sailing,49er FX Women
+6,NOR,marie roenningen,100,Tokyo 2020,Sailing,49er FX Women
+7,DEN,marie thusgaard olsen,106,Tokyo 2020,Sailing,49er FX Women
+8,FRA,albane dubois,111,Tokyo 2020,Sailing,49er FX Women
+9,SGP,cecilia low,117,Tokyo 2020,Sailing,49er FX Women
+10,USA,stephanie roble,101,Tokyo 2020,Sailing,49er FX Women
+11,NZL,molly meech,101,Tokyo 2020,Sailing,49er FX Women
+12,AUS,tess lloyd,109,Tokyo 2020,Sailing,49er FX Women
+13,BEL,isaura maenhaut van lemberge,121,Tokyo 2020,Sailing,49er FX Women
+14,POL,aleksandra melzacka,128,Tokyo 2020,Sailing,49er FX Women
+15,CAN,alexandra ten hove,138,Tokyo 2020,Sailing,49er FX Women
+16,AUT,lorena abicht,143,Tokyo 2020,Sailing,49er FX Women
+17,JPN,anna yamazaki,149,Tokyo 2020,Sailing,49er FX Women
+18,CHN,ye jin,171,Tokyo 2020,Sailing,49er FX Women
+19,PER,maria pia van oordt lopez,174,Tokyo 2020,Sailing,49er FX Women
+20,TUN,eya guezguez,234,Tokyo 2020,Sailing,49er FX Women
+0,GBR,dylan fletcher-scott,58,Tokyo 2020,Sailing,49er Men
+1,NZL,peter burling,58,Tokyo 2020,Sailing,49er Men
+2,GER,erik heil,70,Tokyo 2020,Sailing,49er Men
+3,ESP,diego botin le chever,70,Tokyo 2020,Sailing,49er Men
+4,DEN,jonas warrer,82,Tokyo 2020,Sailing,49er Men
+5,NED,bart lambriex,87,Tokyo 2020,Sailing,49er Men
+6,POR,jose costa,94,Tokyo 2020,Sailing,49er Men
+7,CRO,mihovil fantela,106,Tokyo 2020,Sailing,49er Men
+8,POL,pawel kolodzinski,108,Tokyo 2020,Sailing,49er Men
+9,AUT,david hussl,114,Tokyo 2020,Sailing,49er Men
+10,JPN,ibuki koizumi,108,Tokyo 2020,Sailing,49er Men
+11,AUS,sam phillips,111,Tokyo 2020,Sailing,49er Men
+12,IRL,robert dickson,112,Tokyo 2020,Sailing,49er Men
+13,SUI,lucien cujean,123,Tokyo 2020,Sailing,49er Men
+14,FRA,emile amoros,134,Tokyo 2020,Sailing,49er Men
+15,BRA,marco grael,147,Tokyo 2020,Sailing,49er Men
+16,IND,varun thakkar,154,Tokyo 2020,Sailing,49er Men
+17,RSA,alex burger,163,Tokyo 2020,Sailing,49er Men
+18,CAN,william jones,179,Tokyo 2020,Sailing,49er Men
+0,GBR,giles scott,36,Tokyo 2020,Sailing,Finn Men
+1,HUN,zsombor berecz,39,Tokyo 2020,Sailing,Finn Men
+2,ESP,joan cardona mendez,51,Tokyo 2020,Sailing,Finn Men
+3,NED,nicholas heiner,56,Tokyo 2020,Sailing,Finn Men
+4,NZL,josh junior,67,Tokyo 2020,Sailing,Finn Men
+5,ARG,facundo olezza bazan,68,Tokyo 2020,Sailing,Finn Men
+6,AUS,jake lilley,69,Tokyo 2020,Sailing,Finn Men
+7,TUR,alican kaynar,81,Tokyo 2020,Sailing,Finn Men
+8,SWE,max salminen,90,Tokyo 2020,Sailing,Finn Men
+9,CAN,tom ramshaw,94,Tokyo 2020,Sailing,Finn Men
+10,NOR,anders pedersen,82,Tokyo 2020,Sailing,Finn Men
+11,GRE,ioannis mitakis,92,Tokyo 2020,Sailing,Finn Men
+12,USA,luke muller,92,Tokyo 2020,Sailing,Finn Men
+13,BRA,jorge zarif,95,Tokyo 2020,Sailing,Finn Men
+14,CHN,he chen,124,Tokyo 2020,Sailing,Finn Men
+15,JPN,kazumasa segawa,128,Tokyo 2020,Sailing,Finn Men
+16,MEX,juan perez,145,Tokyo 2020,Sailing,Finn Men
+17,VEN,andres lage de armas,154,Tokyo 2020,Sailing,Finn Men
+18,RSA,leo davis,159,Tokyo 2020,Sailing,Finn Men
+0,AUS,matt wearn,53,Tokyo 2020,Sailing,Laser Men
+1,CRO,tonci stipanovic,82,Tokyo 2020,Sailing,Laser Men
+2,NOR,hermann tomasgaard,85,Tokyo 2020,Sailing,Laser Men
+3,CYP,pavlos kontides,88,Tokyo 2020,Sailing,Laser Men
+4,GER,philipp buhl,91,Tokyo 2020,Sailing,Laser Men
+5,FRA,jean baptiste bernaz,92,Tokyo 2020,Sailing,Laser Men
+6,KOR,jeemin ha,98,Tokyo 2020,Sailing,Laser Men
+7,BRA,robert scheidt,104,Tokyo 2020,Sailing,Laser Men
+8,FIN,kaarle tapper,109,Tokyo 2020,Sailing,Laser Men
+9,NZL,sam meech,109,Tokyo 2020,Sailing,Laser Men
+10,ROC,sergei komissarov,98,Tokyo 2020,Sailing,Laser Men
+11,GBR,elliot hanson,104,Tokyo 2020,Sailing,Laser Men
+12,USA,charlie buckingham,107,Tokyo 2020,Sailing,Laser Men
+13,SWE,jesper stalheim,108,Tokyo 2020,Sailing,Laser Men
+14,EST,karl-martin rammo,116,Tokyo 2020,Sailing,Laser Men
+15,ESP,joel rodriguez perez,135,Tokyo 2020,Sailing,Laser Men
+16,MNE,milivoj dukic,137,Tokyo 2020,Sailing,Laser Men
+17,HUN,benjamin vadnai,145,Tokyo 2020,Sailing,Laser Men
+18,GUA,juan ignacio maegli,149,Tokyo 2020,Sailing,Laser Men
+19,IND,vishnu saravanan,156,Tokyo 2020,Sailing,Laser Men
+20,SGP,ryan lo,158,Tokyo 2020,Sailing,Laser Men
+21,CHI,clemente seguel,165,Tokyo 2020,Sailing,Laser Men
+22,ESA,enrique jose arathoon pacas,165,Tokyo 2020,Sailing,Laser Men
+23,ARG,francisco guaragna rigonat,173,Tokyo 2020,Sailing,Laser Men
+24,PER,stefano peschiera,177,Tokyo 2020,Sailing,Laser Men
+25,SLO,zan luka zelko,178,Tokyo 2020,Sailing,Laser Men
+26,BEL,wannes van laer,180,Tokyo 2020,Sailing,Laser Men
+27,MAS,khairulnizam mohd afendy,196,Tokyo 2020,Sailing,Laser Men
+28,TTO,andrew lewis,203,Tokyo 2020,Sailing,Laser Men
+29,JPN,kenji nanri,219,Tokyo 2020,Sailing,Laser Men
+30,LCA,luc franck leo chevrier,261,Tokyo 2020,Sailing,Laser Men
+31,SAM,eroni leilua,268,Tokyo 2020,Sailing,Laser Men
+32,SEY,rodney govinden,278,Tokyo 2020,Sailing,Laser Men
+33,EGY,aly badawy,283,Tokyo 2020,Sailing,Laser Men
+34,PNG,teariki numa,306,Tokyo 2020,Sailing,Laser Men
+0,DEN,anne-marie rindom,78,Tokyo 2020,Sailing,Laser Radial Women
+1,SWE,josefin olsson,81,Tokyo 2020,Sailing,Laser Radial Women
+2,NED,marit bouwmeester,83,Tokyo 2020,Sailing,Laser Radial Women
+3,BEL,emma plasschaert,87,Tokyo 2020,Sailing,Laser Radial Women
+4,FIN,tuula tenkanen,95,Tokyo 2020,Sailing,Laser Radial Women
+5,CAN,sarah douglas,100,Tokyo 2020,Sailing,Laser Radial Women
+6,ITA,silvia zennaro,106,Tokyo 2020,Sailing,Laser Radial Women
+7,NOR,line høst,111,Tokyo 2020,Sailing,Laser Radial Women
+8,GRE,vasileia karachaliou,112,Tokyo 2020,Sailing,Laser Radial Women
+9,GBR,alison young,133,Tokyo 2020,Sailing,Laser Radial Women
+10,FRA,marie bolou,121,Tokyo 2020,Sailing,Laser Radial Women
+11,CRO,elena vorobeva,126,Tokyo 2020,Sailing,Laser Radial Women
+12,HUN,maria erdi,128,Tokyo 2020,Sailing,Laser Radial Women
+13,AUS,mara stransky,130,Tokyo 2020,Sailing,Laser Radial Women
+14,JPN,manami doi,130,Tokyo 2020,Sailing,Laser Radial Women
+15,GER,svenja weger,131,Tokyo 2020,Sailing,Laser Radial Women
+16,POL,magdalena kwasna,153,Tokyo 2020,Sailing,Laser Radial Women
+17,IRL,annalise murphy,160,Tokyo 2020,Sailing,Laser Radial Women
+18,SUI,maud jayet,163,Tokyo 2020,Sailing,Laser Radial Women
+19,TUR,ecem guzel,172,Tokyo 2020,Sailing,Laser Radial Women
+20,BLR,tatiana drozdovskaya,173,Tokyo 2020,Sailing,Laser Radial Women
+21,URU,dolores moreira fraschini,173,Tokyo 2020,Sailing,Laser Radial Women
+22,ESP,cristina pujol bajo,179,Tokyo 2020,Sailing,Laser Radial Women
+23,CHN,dongshuang zhang,188,Tokyo 2020,Sailing,Laser Radial Women
+24,LTU,viktorija andrulyte,194,Tokyo 2020,Sailing,Laser Radial Women
+25,MAS,nur shazrin mohamad latif,194,Tokyo 2020,Sailing,Laser Radial Women
+26,ROC,ekaterina zyuzina,198,Tokyo 2020,Sailing,Laser Radial Women
+27,LCA,stephanie lovell,216,Tokyo 2020,Sailing,Laser Radial Women
+28,GUA,isabella maegli aguero,218,Tokyo 2020,Sailing,Laser Radial Women
+29,ISR,shay kakon,220,Tokyo 2020,Sailing,Laser Radial Women
+30,ARG,lucia falasca,220,Tokyo 2020,Sailing,Laser Radial Women
+31,MEX,elena oetling,221,Tokyo 2020,Sailing,Laser Radial Women
+32,CYP,marilena makri,227,Tokyo 2020,Sailing,Laser Radial Women
+33,POR,carolina joao,229,Tokyo 2020,Sailing,Laser Radial Women
+34,IND,nethra kumanan,251,Tokyo 2020,Sailing,Laser Radial Women
+35,PER,paloma schmidt gutierrez,265,Tokyo 2020,Sailing,Laser Radial Women
+36,USA,paige railey,288,Tokyo 2020,Sailing,Laser Radial Women
+37,THA,kamolwan chanyim,298,Tokyo 2020,Sailing,Laser Radial Women
+38,HKG,stephanie norton,304,Tokyo 2020,Sailing,Laser Radial Women
+39,MOZ,deizy nhaquile,340,Tokyo 2020,Sailing,Laser Radial Women
+40,EGY,khouloud mansy,347,Tokyo 2020,Sailing,Laser Radial Women
+41,FIJ,sophia frances morgan,356,Tokyo 2020,Sailing,Laser Radial Women
+42,ANT,jalese gordon,368,Tokyo 2020,Sailing,Laser Radial Women
+43,PNG,rose-lee numa,373,Tokyo 2020,Sailing,Laser Radial Women
+0,ITA,ruggero tita,35,Tokyo 2020,Sailing,Nacra 17 Mixed
+1,GBR,john gimson,45,Tokyo 2020,Sailing,Nacra 17 Mixed
+2,GER,paul kohlhoff,63,Tokyo 2020,Sailing,Nacra 17 Mixed
+3,DEN,christian peter lubeck,70,Tokyo 2020,Sailing,Nacra 17 Mixed
+4,AUS,jason waterhouse,72,Tokyo 2020,Sailing,Nacra 17 Mixed
+5,ESP,tara pacheco van rijnsoever,76,Tokyo 2020,Sailing,Nacra 17 Mixed
+6,ARG,cecilia carranza saroli,77,Tokyo 2020,Sailing,Nacra 17 Mixed
+7,FRA,manon audinet,84,Tokyo 2020,Sailing,Nacra 17 Mixed
+8,USA,anna weis,99,Tokyo 2020,Sailing,Nacra 17 Mixed
+9,BRA,samuel albrecht,117,Tokyo 2020,Sailing,Nacra 17 Mixed
+10,AUT,barbara matz,100,Tokyo 2020,Sailing,Nacra 17 Mixed
+11,NZL,micah wilkinson,130,Tokyo 2020,Sailing,Nacra 17 Mixed
+12,FIN,sinem kurtbay,131,Tokyo 2020,Sailing,Nacra 17 Mixed
+13,SWE,emil jarudd,144,Tokyo 2020,Sailing,Nacra 17 Mixed
+14,JPN,eri hatayama,150,Tokyo 2020,Sailing,Nacra 17 Mixed
+15,CHN,xuezhe yang,167,Tokyo 2020,Sailing,Nacra 17 Mixed
+16,PUR,enrique figueroa suarez,174,Tokyo 2020,Sailing,Nacra 17 Mixed
+17,URU,dominique knuppel artagaveytia,179,Tokyo 2020,Sailing,Nacra 17 Mixed
+18,NOR,nicholas fadler martinsen,183,Tokyo 2020,Sailing,Nacra 17 Mixed
+19,TUN,mehdi gharbi,219,Tokyo 2020,Sailing,Nacra 17 Mixed
+0,NED,kiran badloe,37,Tokyo 2020,Sailing,RS:X Men
+1,FRA,thomas goyard,74,Tokyo 2020,Sailing,RS:X Men
+2,CHN,kun bi,75,Tokyo 2020,Sailing,RS:X Men
+3,ISR,yoav cohen,76,Tokyo 2020,Sailing,RS:X Men
+4,ITA,mattia camboni,76,Tokyo 2020,Sailing,RS:X Men
+5,POL,piotr myszka,79,Tokyo 2020,Sailing,RS:X Men
+6,GBR,tom squires,82,Tokyo 2020,Sailing,RS:X Men
+7,SUI,mateo sanz lanz,100,Tokyo 2020,Sailing,RS:X Men
+8,USA,pedro pascual,110,Tokyo 2020,Sailing,RS:X Men
+9,ESP,angel granda roque,118,Tokyo 2020,Sailing,RS:X Men
+10,GRE,vyron kokkalanis,110,Tokyo 2020,Sailing,RS:X Men
+11,CYP,andreas pheobus cariolou,118,Tokyo 2020,Sailing,RS:X Men
+12,HKG,chun leung michael cheng,119,Tokyo 2020,Sailing,RS:X Men
+13,NOR,endre funnemark,126,Tokyo 2020,Sailing,RS:X Men
+14,LTU,juozas bernotas,145,Tokyo 2020,Sailing,RS:X Men
+15,JPN,makoto tomizawa,149,Tokyo 2020,Sailing,RS:X Men
+16,KOR,wonwoo cho,167,Tokyo 2020,Sailing,RS:X Men
+17,BLR,mikita tsirkun,200,Tokyo 2020,Sailing,RS:X Men
+18,ROC,aleksandr askerov,208,Tokyo 2020,Sailing,RS:X Men
+19,TUR,onur biriz,210,Tokyo 2020,Sailing,RS:X Men
+20,ARG,francisco cruz saubidet birkner,212,Tokyo 2020,Sailing,RS:X Men
+21,CZE,karel lavicky,225,Tokyo 2020,Sailing,RS:X Men
+22,MEX,ignacio berenguer,232,Tokyo 2020,Sailing,RS:X Men
+23,THA,natthaphong phonoppharat,258,Tokyo 2020,Sailing,RS:X Men
+24,ALG,hamza bouras,260,Tokyo 2020,Sailing,RS:X Men
+0,CHN,yunxiu lu,36,Tokyo 2020,Sailing,RS:X Women
+1,FRA,charline picon,38,Tokyo 2020,Sailing,RS:X Women
+2,GBR,emma wilson,38,Tokyo 2020,Sailing,RS:X Women
+3,ITA,marta maggetti,66,Tokyo 2020,Sailing,RS:X Women
+4,NED,lilian de geus,72,Tokyo 2020,Sailing,RS:X Women
+5,ISR,katy spychakov,85,Tokyo 2020,Sailing,RS:X Women
+6,DEN,laerke buhl-hansen,93,Tokyo 2020,Sailing,RS:X Women
+7,HKG,hei man h v chan,95,Tokyo 2020,Sailing,RS:X Women
+8,POL,zofia klepacka,96,Tokyo 2020,Sailing,RS:X Women
+9,BRA,patricia freitas,133,Tokyo 2020,Sailing,RS:X Women
+10,ESP,blanca manchón,124,Tokyo 2020,Sailing,RS:X Women
+11,JPN,yuki sunaga,129,Tokyo 2020,Sailing,RS:X Women
+12,PER,maria belen bazo,130,Tokyo 2020,Sailing,RS:X Women
+13,FIN,tuuli petaja-siren,130,Tokyo 2020,Sailing,RS:X Women
+14,USA,farrah hall,163,Tokyo 2020,Sailing,RS:X Women
+15,EST,ingrid puusta,166,Tokyo 2020,Sailing,RS:X Women
+16,THA,siripon kaewduang-ngam,171,Tokyo 2020,Sailing,RS:X Women
+17,MEX,demita vega de lille,195,Tokyo 2020,Sailing,RS:X Women
+18,GRE,aikaterini divari,204,Tokyo 2020,Sailing,RS:X Women
+19,ARG,maria tejerina mackern,207,Tokyo 2020,Sailing,RS:X Women
+20,CYP,natasa lappa,218,Tokyo 2020,Sailing,RS:X Women
+21,ROC,anna khvorikova,224,Tokyo 2020,Sailing,RS:X Women
+22,CAN,nikola girke,244,Tokyo 2020,Sailing,RS:X Women
+23,TUR,dilara uralp,245,Tokyo 2020,Sailing,RS:X Women
+24,HUN,sara cholnoky,246,Tokyo 2020,Sailing,RS:X Women
+25,SGP,amanda ng,260,Tokyo 2020,Sailing,RS:X Women
+26,ALG,nadjet berrichi,289,Tokyo 2020,Sailing,RS:X Women

@@ -1,0 +1,692 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,bode miller,00:02:44.920,Vancouver 2010,Alpine Skiing,alpin combined men
+1,CRO,ivica kostelic,00:02:45.250,Vancouver 2010,Alpine Skiing,alpin combined men
+2,SUI,silvan zurbriggen,00:02:45.320,Vancouver 2010,Alpine Skiing,alpin combined men
+3,SUI,carlo janka,00:02:45.540,Vancouver 2010,Alpine Skiing,alpin combined men
+4,USA,ted ligety,00:02:45.820,Vancouver 2010,Alpine Skiing,alpin combined men
+5,AUT,benjamin raich,00:02:46.130,Vancouver 2010,Alpine Skiing,alpin combined men
+6,CZE,ondrej bank,00:02:46.190,Vancouver 2010,Alpine Skiing,alpin combined men
+7,ITA,christof innerhofer,00:02:46.450,Vancouver 2010,Alpine Skiing,alpin combined men
+8,NOR,kjetil jansrud,00:02:46.500,Vancouver 2010,Alpine Skiing,alpin combined men
+9,USA,will brandenburg,00:02:47.060,Vancouver 2010,Alpine Skiing,alpin combined men
+10,USA,andrew weibrecht,00:02:47.580,Vancouver 2010,Alpine Skiing,alpin combined men
+11,FRA,adrien theaux,00:02:47.970,Vancouver 2010,Alpine Skiing,alpin combined men
+12,ITA,dominik paris,00:02:47.990,Vancouver 2010,Alpine Skiing,alpin combined men
+13,SUI,sandro viletta,00:02:48.190,Vancouver 2010,Alpine Skiing,alpin combined men
+14,CAN,ryan semple,00:02:48.260,Vancouver 2010,Alpine Skiing,alpin combined men
+15,SWE,markus larsson,00:02:48.300,Vancouver 2010,Alpine Skiing,alpin combined men
+16,CZE,krystof kryzl,00:02:48.310,Vancouver 2010,Alpine Skiing,alpin combined men
+17,FRA,julien lizeroux,00:02:48.360,Vancouver 2010,Alpine Skiing,alpin combined men
+18,FRA,thomas mermillod-blondin,00:02:48.620,Vancouver 2010,Alpine Skiing,alpin combined men
+19,CRO,natko zrncic dim,00:02:48.860,Vancouver 2010,Alpine Skiing,alpin combined men
+20,RUS,alexander khoroshilov,00:02:49.280,Vancouver 2010,Alpine Skiing,alpin combined men
+21,NOR,truls ove karlsen,00:02:49.310,Vancouver 2010,Alpine Skiing,alpin combined men
+22,RUS,stepan zuev,00:02:49.750,Vancouver 2010,Alpine Skiing,alpin combined men
+23,GER,stephan keppler,00:02:49.790,Vancouver 2010,Alpine Skiing,alpin combined men
+24,AND,roger vidosa,00:02:50.330,Vancouver 2010,Alpine Skiing,alpin combined men
+25,CAN,michael janyk,00:02:50.770,Vancouver 2010,Alpine Skiing,alpin combined men
+26,SLO,andrej jerman,00:02:50.840,Vancouver 2010,Alpine Skiing,alpin combined men
+27,CZE,filip trejbal,00:02:50.850,Vancouver 2010,Alpine Skiing,alpin combined men
+28,GBR,edward drake,00:02:50.910,Vancouver 2010,Alpine Skiing,alpin combined men
+29,CAN,louis-pierre helie,00:02:51.580,Vancouver 2010,Alpine Skiing,alpin combined men
+30,CZE,martin vrablik,00:02:52.460,Vancouver 2010,Alpine Skiing,alpin combined men
+31,CAN,tyler nella,00:02:52.650,Vancouver 2010,Alpine Skiing,alpin combined men
+32,KAZ,igor zakurdayev,00:02:56.200,Vancouver 2010,Alpine Skiing,alpin combined men
+33,BUL,stefan georgiev,00:02:57.410,Vancouver 2010,Alpine Skiing,alpin combined men
+34,NOR,aksel lund svindal,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+35,SUI,didier defago,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+36,SWE,hans olsson,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+37,ITA,peter fill,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+38,SLO,andrej sporn,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+39,NOR,lars elton myhre,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+40,ESP,ferran terra,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+41,SLO,andrej krizaj,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+42,ITA,manfred moelgg,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+43,ARG,cristian javier simari birkner,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+44,FIN,andreas romar,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+45,AUT,georg streitberger,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+46,AND,kevin esteve rigail,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+47,AUT,romed baumann,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+48,CRO,ivan ratkic,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+49,FRA,johan clarey,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+50,LAT,roberts rode,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+51,SVK,jaroslav babusiak,Did not finish,Vancouver 2010,Alpine Skiing,alpin combined men
+0,GER,maria höfl-riesch,00:02:09.140,Vancouver 2010,Alpine Skiing,alpine combined women
+1,USA,julia mancuso,00:02:10.080,Vancouver 2010,Alpine Skiing,alpine combined women
+2,SWE,anja paerson,00:02:10.190,Vancouver 2010,Alpine Skiing,alpine combined women
+3,AUT,kathrin zettel,00:02:10.500,Vancouver 2010,Alpine Skiing,alpine combined women
+4,SLO,tina maze,00:02:10.530,Vancouver 2010,Alpine Skiing,alpine combined women
+5,SUI,fabienne suter,00:02:10.850,Vancouver 2010,Alpine Skiing,alpine combined women
+6,CZE,sarka zahrobska,00:02:11.020,Vancouver 2010,Alpine Skiing,alpine combined women
+7,ITA,johanna schnarf,00:02:11.290,Vancouver 2010,Alpine Skiing,alpine combined women
+8,AUT,michaela kirchgasser,00:02:11.350,Vancouver 2010,Alpine Skiing,alpine combined women
+9,FRA,marie marchand-arvier,00:02:11.820,Vancouver 2010,Alpine Skiing,alpine combined women
+10,GBR,chemmy alcott,00:02:12.510,Vancouver 2010,Alpine Skiing,alpine combined women
+11,CAN,shona rubens,00:02:12.580,Vancouver 2010,Alpine Skiing,alpine combined women
+12,NOR,mona loeseth,00:02:12.680,Vancouver 2010,Alpine Skiing,alpine combined women
+13,CAN,emily brydon,00:02:12.760,Vancouver 2010,Alpine Skiing,alpine combined women
+14,SLO,marusa ferk,00:02:12.980,Vancouver 2010,Alpine Skiing,alpine combined women
+15,AUT,anna veith,00:02:13.270,Vancouver 2010,Alpine Skiing,alpine combined women
+16,USA,kaylin richardson,00:02:13.400,Vancouver 2010,Alpine Skiing,alpine combined women
+17,AUT,elisabeth goergl,00:02:13.580,Vancouver 2010,Alpine Skiing,alpine combined women
+18,MON,alexandra coletti,00:02:13.810,Vancouver 2010,Alpine Skiing,alpine combined women
+19,FRA,sandrine aubert,00:02:13.960,Vancouver 2010,Alpine Skiing,alpine combined women
+20,USA,leanne smith,00:02:13.970,Vancouver 2010,Alpine Skiing,alpine combined women
+21,SWE,jessica lindell-vikarby,00:02:14.160,Vancouver 2010,Alpine Skiing,alpine combined women
+22,SUI,andrea dettling,00:02:14.440,Vancouver 2010,Alpine Skiing,alpine combined women
+23,AND,mireia gutierrez,00:02:15.670,Vancouver 2010,Alpine Skiing,alpine combined women
+24,POL,agnieszka gasienica daniel,00:02:16.240,Vancouver 2010,Alpine Skiing,alpine combined women
+25,ARG,macarena simari birkner,00:02:16.370,Vancouver 2010,Alpine Skiing,alpine combined women
+26,HUN,anna berecz,00:02:22.970,Vancouver 2010,Alpine Skiing,alpine combined women
+27,CHI,noelle barahona,00:02:24.250,Vancouver 2010,Alpine Skiing,alpine combined women
+28,USA,lindsey vonn,Did not finish,Vancouver 2010,Alpine Skiing,alpine combined women
+29,ARG,maria belen simari birkner,Did not finish,Vancouver 2010,Alpine Skiing,alpine combined women
+30,GER,gina stechert,Did not finish,Vancouver 2010,Alpine Skiing,alpine combined women
+31,SUI,nadja kamer,Did not finish,Vancouver 2010,Alpine Skiing,alpine combined women
+32,ITA,daniela merighetti,Did not finish,Vancouver 2010,Alpine Skiing,alpine combined women
+33,RUS,elena prosteva,Did not finish,Vancouver 2010,Alpine Skiing,alpine combined women
+34,CAN,georgia simmerling,Did not start,Vancouver 2010,Alpine Skiing,alpine combined women
+0,SUI,didier defago,00:01:54.310,Vancouver 2010,Alpine Skiing,downhill men
+1,NOR,aksel lund svindal,00:01:54.380,Vancouver 2010,Alpine Skiing,downhill men
+2,USA,bode miller,00:01:54.400,Vancouver 2010,Alpine Skiing,downhill men
+3,AUT,mario scheiber,00:01:54.520,Vancouver 2010,Alpine Skiing,downhill men
+4,CAN,erik guay,00:01:54.640,Vancouver 2010,Alpine Skiing,downhill men
+5,SUI,didier cuche,00:01:54.670,Vancouver 2010,Alpine Skiing,downhill men
+6,FRA,david poisson,00:01:54.820,Vancouver 2010,Alpine Skiing,downhill men
+7,LIE,marco buechel,00:01:54.840,Vancouver 2010,Alpine Skiing,downhill men
+8,AUT,klaus kroell,00:01:54.870,Vancouver 2010,Alpine Skiing,downhill men
+9,AUT,michael walchhofer,00:01:54.880,Vancouver 2010,Alpine Skiing,downhill men
+10,SUI,carlo janka,00:01:55.020,Vancouver 2010,Alpine Skiing,downhill men
+11,SWE,hans olsson,00:01:55.190,Vancouver 2010,Alpine Skiing,downhill men
+12,ITA,werner heel,00:01:55.190,Vancouver 2010,Alpine Skiing,downhill men
+13,SLO,rok perko,00:01:55.260,Vancouver 2010,Alpine Skiing,downhill men
+14,ITA,peter fill,00:01:55.290,Vancouver 2010,Alpine Skiing,downhill men
+15,FRA,adrien theaux,00:01:55.400,Vancouver 2010,Alpine Skiing,downhill men
+16,CAN,manuel osborne-paradis,00:01:55.440,Vancouver 2010,Alpine Skiing,downhill men
+17,CRO,ivica kostelic,00:01:55.490,Vancouver 2010,Alpine Skiing,downhill men
+18,ITA,christof innerhofer,00:01:55.580,Vancouver 2010,Alpine Skiing,downhill men
+19,USA,steven nyman,00:01:55.710,Vancouver 2010,Alpine Skiing,downhill men
+20,USA,andrew weibrecht,00:01:55.740,Vancouver 2010,Alpine Skiing,downhill men
+21,AUT,hans grugger,00:01:55.810,Vancouver 2010,Alpine Skiing,downhill men
+22,SUI,ambrosi hoffmann,00:01:56.040,Vancouver 2010,Alpine Skiing,downhill men
+23,GER,stephan keppler,00:01:56.110,Vancouver 2010,Alpine Skiing,downhill men
+24,CAN,jan hudec,00:01:56.190,Vancouver 2010,Alpine Skiing,downhill men
+25,FRA,guillermo fayed,00:01:56.200,Vancouver 2010,Alpine Skiing,downhill men
+26,FRA,johan clarey,00:01:56.290,Vancouver 2010,Alpine Skiing,downhill men
+27,SLO,andrej jerman,00:01:56.350,Vancouver 2010,Alpine Skiing,downhill men
+28,SWE,patrik jaerbyn,00:01:56.580,Vancouver 2010,Alpine Skiing,downhill men
+29,CZE,ondrej bank,00:01:56.660,Vancouver 2010,Alpine Skiing,downhill men
+30,NOR,lars elton myhre,00:01:56.690,Vancouver 2010,Alpine Skiing,downhill men
+31,NOR,kjetil jansrud,00:01:56.690,Vancouver 2010,Alpine Skiing,downhill men
+32,CRO,natko zrncic dim,00:01:57.020,Vancouver 2010,Alpine Skiing,downhill men
+33,AUS,craig branch,00:01:57.190,Vancouver 2010,Alpine Skiing,downhill men
+34,ITA,patrick staudacher,00:01:57.210,Vancouver 2010,Alpine Skiing,downhill men
+35,CZE,petr zahrobsky,00:01:57.440,Vancouver 2010,Alpine Skiing,downhill men
+36,SLO,andrej krizaj,00:01:57.720,Vancouver 2010,Alpine Skiing,downhill men
+37,GBR,edward drake,00:01:57.910,Vancouver 2010,Alpine Skiing,downhill men
+38,AUS,jonathon brauer,00:01:58.080,Vancouver 2010,Alpine Skiing,downhill men
+39,CZE,krystof kryzl,00:01:58.430,Vancouver 2010,Alpine Skiing,downhill men
+40,CRO,ivan ratkic,00:01:58.580,Vancouver 2010,Alpine Skiing,downhill men
+41,FIN,andreas romar,00:01:58.710,Vancouver 2010,Alpine Skiing,downhill men
+42,SWE,markus larsson,00:01:58.820,Vancouver 2010,Alpine Skiing,downhill men
+43,ESP,ferran terra,00:01:58.850,Vancouver 2010,Alpine Skiing,downhill men
+44,RUS,alexander khoroshilov,00:01:59.210,Vancouver 2010,Alpine Skiing,downhill men
+45,NOR,truls ove karlsen,00:01:59.520,Vancouver 2010,Alpine Skiing,downhill men
+46,AND,kevin esteve rigail,00:01:59.610,Vancouver 2010,Alpine Skiing,downhill men
+47,AND,roger vidosa,00:01:59.650,Vancouver 2010,Alpine Skiing,downhill men
+48,CHI,maui gayme,00:01:59.760,Vancouver 2010,Alpine Skiing,downhill men
+49,KAZ,igor zakurdayev,00:01:59.800,Vancouver 2010,Alpine Skiing,downhill men
+50,ESP,paul de la cuesta,00:01:59.840,Vancouver 2010,Alpine Skiing,downhill men
+51,SVK,jaroslav babusiak,00:01:59.990,Vancouver 2010,Alpine Skiing,downhill men
+52,DEN,johnny albertsen,00:02:00.120,Vancouver 2010,Alpine Skiing,downhill men
+53,RUS,stepan zuev,00:02:00.580,Vancouver 2010,Alpine Skiing,downhill men
+54,ARG,cristian javier simari birkner,00:02:01.670,Vancouver 2010,Alpine Skiing,downhill men
+55,CHI,jorge mandru,00:02:01.720,Vancouver 2010,Alpine Skiing,downhill men
+56,CZE,filip trejbal,00:02:02.570,Vancouver 2010,Alpine Skiing,downhill men
+57,LAT,roberts rode,00:02:03.360,Vancouver 2010,Alpine Skiing,downhill men
+58,TJK,andrei drygin,00:02:04.440,Vancouver 2010,Alpine Skiing,downhill men
+59,CAN,robbie dixon,Did not finish,Vancouver 2010,Alpine Skiing,downhill men
+60,SLO,andrej sporn,Did not finish,Vancouver 2010,Alpine Skiing,downhill men
+61,ROU,dragos staicu,Did not finish,Vancouver 2010,Alpine Skiing,downhill men
+62,BUL,stefan georgiev,Did not finish,Vancouver 2010,Alpine Skiing,downhill men
+63,USA,marco sullivan,Disqualified,Vancouver 2010,Alpine Skiing,downhill men
+0,USA,lindsey vonn,00:01:44.190,Vancouver 2010,Alpine Skiing,downhill women
+1,USA,julia mancuso,00:01:44.750,Vancouver 2010,Alpine Skiing,downhill women
+2,AUT,elisabeth goergl,00:01:45.650,Vancouver 2010,Alpine Skiing,downhill women
+3,AUT,andrea fischbacher,00:01:45.680,Vancouver 2010,Alpine Skiing,downhill women
+4,SUI,fabienne suter,00:01:46.170,Vancouver 2010,Alpine Skiing,downhill women
+5,CAN,britt janyk,00:01:46.210,Vancouver 2010,Alpine Skiing,downhill women
+6,FRA,marie marchand-arvier,00:01:46.220,Vancouver 2010,Alpine Skiing,downhill women
+7,GER,maria höfl-riesch,00:01:46.260,Vancouver 2010,Alpine Skiing,downhill women
+8,ITA,lucia recchia,00:01:46.500,Vancouver 2010,Alpine Skiing,downhill women
+9,GER,gina stechert,00:01:46.930,Vancouver 2010,Alpine Skiing,downhill women
+10,USA,stacey cook,00:01:46.980,Vancouver 2010,Alpine Skiing,downhill women
+11,SUI,nadia styger,00:01:47.220,Vancouver 2010,Alpine Skiing,downhill women
+12,GBR,chemmy alcott,00:01:47.310,Vancouver 2010,Alpine Skiing,downhill women
+13,AUT,regina sterz,00:01:47.530,Vancouver 2010,Alpine Skiing,downhill women
+14,ESP,carolina ruiz castillo,00:01:47.620,Vancouver 2010,Alpine Skiing,downhill women
+15,CAN,emily brydon,00:01:47.880,Vancouver 2010,Alpine Skiing,downhill women
+16,FRA,aurelie revillet,00:01:47.920,Vancouver 2010,Alpine Skiing,downhill women
+17,SLO,tina maze,00:01:47.940,Vancouver 2010,Alpine Skiing,downhill women
+18,SUI,nadja kamer,00:01:48.140,Vancouver 2010,Alpine Skiing,downhill women
+19,SLO,marusa ferk,00:01:48.240,Vancouver 2010,Alpine Skiing,downhill women
+20,CAN,shona rubens,00:01:48.530,Vancouver 2010,Alpine Skiing,downhill women
+21,ITA,johanna schnarf,00:01:48.770,Vancouver 2010,Alpine Skiing,downhill women
+22,FRA,ingrid jacquemod,00:01:48.850,Vancouver 2010,Alpine Skiing,downhill women
+23,MON,alexandra coletti,00:01:48.920,Vancouver 2010,Alpine Skiing,downhill women
+24,AUT,anna veith,00:01:49.950,Vancouver 2010,Alpine Skiing,downhill women
+25,RUS,elena prosteva,00:01:50.070,Vancouver 2010,Alpine Skiing,downhill women
+26,CZE,sarka zahrobska,00:01:50.680,Vancouver 2010,Alpine Skiing,downhill women
+27,AND,mireia gutierrez,00:01:52.870,Vancouver 2010,Alpine Skiing,downhill women
+28,ARG,maria belen simari birkner,00:01:53.620,Vancouver 2010,Alpine Skiing,downhill women
+29,SWE,jessica lindell-vikarby,00:01:53.760,Vancouver 2010,Alpine Skiing,downhill women
+30,ARG,macarena simari birkner,00:01:54.250,Vancouver 2010,Alpine Skiing,downhill women
+31,POL,agnieszka gasienica daniel,00:01:55.100,Vancouver 2010,Alpine Skiing,downhill women
+32,BUL,maria kirkova,00:01:56.800,Vancouver 2010,Alpine Skiing,downhill women
+33,CHI,noelle barahona,00:01:57.470,Vancouver 2010,Alpine Skiing,downhill women
+34,HUN,anna berecz,00:01:57.860,Vancouver 2010,Alpine Skiing,downhill women
+35,KAZ,lyudmila fedotova,00:02:01.580,Vancouver 2010,Alpine Skiing,downhill women
+36,CZE,klara krizova,00:02:09.270,Vancouver 2010,Alpine Skiing,downhill women
+37,SUI,dominique gisin,Did not finish,Vancouver 2010,Alpine Skiing,downhill women
+38,SWE,anja paerson,Did not finish,Vancouver 2010,Alpine Skiing,downhill women
+39,ITA,daniela merighetti,Did not finish,Vancouver 2010,Alpine Skiing,downhill women
+40,ROU,edit miklos,Did not finish,Vancouver 2010,Alpine Skiing,downhill women
+41,FRA,marion rolland,Did not finish,Vancouver 2010,Alpine Skiing,downhill women
+42,ITA,elena fanchini,Did not finish,Vancouver 2010,Alpine Skiing,downhill women
+43,USA,alice mckennis,Disqualified,Vancouver 2010,Alpine Skiing,downhill women
+44,CAN,georgia simmerling,Did not start,Vancouver 2010,Alpine Skiing,downhill women
+0,SUI,carlo janka,00:02:37.830,Vancouver 2010,Alpine Skiing,giant slalom men
+1,NOR,kjetil jansrud,00:02:38.220,Vancouver 2010,Alpine Skiing,giant slalom men
+2,NOR,aksel lund svindal,00:02:38.440,Vancouver 2010,Alpine Skiing,giant slalom men
+3,AUT,marcel hirscher,00:02:38.520,Vancouver 2010,Alpine Skiing,giant slalom men
+4,AUT,romed baumann,00:02:38.800,Vancouver 2010,Alpine Skiing,giant slalom men
+5,AUT,benjamin raich,00:02:38.830,Vancouver 2010,Alpine Skiing,giant slalom men
+6,CRO,ivica kostelic,00:02:38.880,Vancouver 2010,Alpine Skiing,giant slalom men
+7,GER,felix neureuther,00:02:39.060,Vancouver 2010,Alpine Skiing,giant slalom men
+8,USA,ted ligety,00:02:39.110,Vancouver 2010,Alpine Skiing,giant slalom men
+9,SLO,ales gorza,00:02:39.210,Vancouver 2010,Alpine Skiing,giant slalom men
+10,ITA,massimiliano blardone,00:02:39.350,Vancouver 2010,Alpine Skiing,giant slalom men
+11,AUT,philipp schoerghofer,00:02:39.370,Vancouver 2010,Alpine Skiing,giant slalom men
+12,FRA,steve missillier,00:02:39.430,Vancouver 2010,Alpine Skiing,giant slalom men
+13,SUI,didier cuche,00:02:39.450,Vancouver 2010,Alpine Skiing,giant slalom men
+14,SUI,sandro viletta,00:02:39.540,Vancouver 2010,Alpine Skiing,giant slalom men
+15,CAN,erik guay,00:02:39.630,Vancouver 2010,Alpine Skiing,giant slalom men
+16,CZE,ondrej bank,00:02:39.640,Vancouver 2010,Alpine Skiing,giant slalom men
+17,ITA,alexander ploner,00:02:39.770,Vancouver 2010,Alpine Skiing,giant slalom men
+18,SLO,janez jazbec,00:02:39.960,Vancouver 2010,Alpine Skiing,giant slalom men
+19,ITA,davide simoncelli,00:02:39.960,Vancouver 2010,Alpine Skiing,giant slalom men
+20,NOR,truls ove karlsen,00:02:40.200,Vancouver 2010,Alpine Skiing,giant slalom men
+21,ITA,manfred moelgg,00:02:40.510,Vancouver 2010,Alpine Skiing,giant slalom men
+22,CZE,krystof kryzl,00:02:40.730,Vancouver 2010,Alpine Skiing,giant slalom men
+23,CAN,robbie dixon,00:02:40.980,Vancouver 2010,Alpine Skiing,giant slalom men
+24,SLO,andrej sporn,00:02:41.050,Vancouver 2010,Alpine Skiing,giant slalom men
+25,USA,tommy ford,00:02:41.150,Vancouver 2010,Alpine Skiing,giant slalom men
+26,SWE,markus larsson,00:02:41.430,Vancouver 2010,Alpine Skiing,giant slalom men
+27,NOR,leif kristian nestvold-haugen,00:02:41.780,Vancouver 2010,Alpine Skiing,giant slalom men
+28,SUI,marc berthod,00:02:42.100,Vancouver 2010,Alpine Skiing,giant slalom men
+29,FIN,andreas romar,00:02:42.310,Vancouver 2010,Alpine Skiing,giant slalom men
+30,USA,jake zamansky,00:02:42.350,Vancouver 2010,Alpine Skiing,giant slalom men
+31,ESP,paul de la cuesta,00:02:43.220,Vancouver 2010,Alpine Skiing,giant slalom men
+32,SLO,andrej krizaj,00:02:44.220,Vancouver 2010,Alpine Skiing,giant slalom men
+33,ARG,cristian javier simari birkner,00:02:44.630,Vancouver 2010,Alpine Skiing,giant slalom men
+34,CAN,patrick biggs,00:02:44.830,Vancouver 2010,Alpine Skiing,giant slalom men
+35,GBR,andrew noble,00:02:44.850,Vancouver 2010,Alpine Skiing,giant slalom men
+36,GBR,edward drake,00:02:45.130,Vancouver 2010,Alpine Skiing,giant slalom men
+37,RUS,alexander khoroshilov,00:02:45.360,Vancouver 2010,Alpine Skiing,giant slalom men
+38,CZE,filip trejbal,00:02:45.410,Vancouver 2010,Alpine Skiing,giant slalom men
+39,RUS,sergey maytakov,00:02:45.660,Vancouver 2010,Alpine Skiing,giant slalom men
+40,CRO,natko zrncic dim,00:02:46.010,Vancouver 2010,Alpine Skiing,giant slalom men
+41,CAN,brad spence,00:02:46.240,Vancouver 2010,Alpine Skiing,giant slalom men
+42,ISL,björgvin björgvinsson,00:02:46.710,Vancouver 2010,Alpine Skiing,giant slalom men
+43,SVK,jaroslav babusiak,00:02:47.120,Vancouver 2010,Alpine Skiing,giant slalom men
+44,MDA,christophe roux,00:02:47.120,Vancouver 2010,Alpine Skiing,giant slalom men
+45,GEO,iason abramashvili,00:02:47.230,Vancouver 2010,Alpine Skiing,giant slalom men
+46,GBR,dave ryding,00:02:48.030,Vancouver 2010,Alpine Skiing,giant slalom men
+47,BUL,stefan georgiev,00:02:48.910,Vancouver 2010,Alpine Skiing,giant slalom men
+48,ROU,ioan-gabriel nan,00:02:50.010,Vancouver 2010,Alpine Skiing,giant slalom men
+49,GEO,jaba gelashvili,00:02:50.320,Vancouver 2010,Alpine Skiing,giant slalom men
+50,KAZ,igor zakurdayev,00:02:51.360,Vancouver 2010,Alpine Skiing,giant slalom men
+51,CHI,jorge mandru,00:02:51.550,Vancouver 2010,Alpine Skiing,giant slalom men
+52,MKD,antonio ristevski,00:02:51.900,Vancouver 2010,Alpine Skiing,giant slalom men
+53,ARG,agustin torres,00:02:53.260,Vancouver 2010,Alpine Skiing,giant slalom men
+54,ISR,mikail renzhin,00:02:53.810,Vancouver 2010,Alpine Skiing,giant slalom men
+55,BRA,jhonatan longhi,00:02:54.030,Vancouver 2010,Alpine Skiing,giant slalom men
+56,TJK,andrei drygin,00:02:55.290,Vancouver 2010,Alpine Skiing,giant slalom men
+57,BIH,marko rudic,00:02:56.360,Vancouver 2010,Alpine Skiing,giant slalom men
+58,LTU,vitalijus rumiancevas,00:02:56.790,Vancouver 2010,Alpine Skiing,giant slalom men
+59,IRI,porya saveh shemshaki,00:02:57.700,Vancouver 2010,Alpine Skiing,giant slalom men
+60,MNE,bojan kosic,00:02:58.030,Vancouver 2010,Alpine Skiing,giant slalom men
+61,LAT,kristaps zvejnieks,00:02:58.620,Vancouver 2010,Alpine Skiing,giant slalom men
+62,ALB,erjon tola,00:02:59.270,Vancouver 2010,Alpine Skiing,giant slalom men
+63,RUS,stepan zuev,00:02:59.730,Vancouver 2010,Alpine Skiing,giant slalom men
+64,GRE,stephanos tsimikalis,00:03:00.160,Vancouver 2010,Alpine Skiing,giant slalom men
+65,EST,deyvid oprja,00:03:00.780,Vancouver 2010,Alpine Skiing,giant slalom men
+66,PER,manfred oettl reyes,00:03:02.050,Vancouver 2010,Alpine Skiing,giant slalom men
+67,UKR,rostyslav feshchuk,00:03:02.530,Vancouver 2010,Alpine Skiing,giant slalom men
+68,CAY,dow travers,00:03:02.890,Vancouver 2010,Alpine Skiing,giant slalom men
+69,IRI,hossein saveh shemshaki,00:03:05.870,Vancouver 2010,Alpine Skiing,giant slalom men
+70,HUN,marton bene,00:03:05.970,Vancouver 2010,Alpine Skiing,giant slalom men
+71,AZE,cedric notz,00:03:05.980,Vancouver 2010,Alpine Skiing,giant slalom men
+72,SEN,leyti seck,00:03:06.140,Vancouver 2010,Alpine Skiing,giant slalom men
+73,MAR,samir azzimani,00:03:06.630,Vancouver 2010,Alpine Skiing,giant slalom men
+74,CHN,lei li,00:03:07.260,Vancouver 2010,Alpine Skiing,giant slalom men
+75,KGZ,dmitry trelevski,00:03:08.010,Vancouver 2010,Alpine Skiing,giant slalom men
+76,UZB,oleg shamaev,00:03:09.180,Vancouver 2010,Alpine Skiing,giant slalom men
+77,MEX,hubertus von hohenlohe,00:03:11.470,Vancouver 2010,Alpine Skiing,giant slalom men
+78,PAK,muhammad abbas,00:03:20.580,Vancouver 2010,Alpine Skiing,giant slalom men
+79,SMR,marino cardelli,00:03:25.760,Vancouver 2010,Alpine Skiing,giant slalom men
+80,IND,jamyang namgial,00:03:34.920,Vancouver 2010,Alpine Skiing,giant slalom men
+81,FRA,cyprien richard,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+82,FIN,marcus sandell,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+83,AND,roger vidosa,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+84,SWE,andre myhrer,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+85,GRE,vassilis dimitriadis,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+86,LBN,ghassan achi,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+87,CYP,christopher papamichalopoulos,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+88,FRA,gauthier de tessieres,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+89,USA,bode miller,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+90,CZE,martin vrablik,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+91,CRO,dalibor samsal,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+92,ARM,arsen nersisyan,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+93,ESP,ferran terra,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+94,NZL,benjamin griffin,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+95,FRA,thomas mermillod-blondin,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+96,TUR,erdinc turksever,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+97,RSA,peter scott,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom men
+98,KOR,woo-sung kim,Disqualified,Vancouver 2010,Alpine Skiing,giant slalom men
+99,CRO,danko marinelli,Disqualified,Vancouver 2010,Alpine Skiing,giant slalom men
+100,DEN,markus kilsgaard,Disqualified,Vancouver 2010,Alpine Skiing,giant slalom men
+101,SWE,hans olsson,Did not start,Vancouver 2010,Alpine Skiing,giant slalom men
+102,BUL,kilian albrecht,Did not start,Vancouver 2010,Alpine Skiing,giant slalom men
+0,GER,viktoria rebensburg,00:02:27.110,Vancouver 2010,Alpine Skiing,giant slalom women
+1,SLO,tina maze,00:02:27.150,Vancouver 2010,Alpine Skiing,giant slalom women
+2,AUT,elisabeth goergl,00:02:27.250,Vancouver 2010,Alpine Skiing,giant slalom women
+3,SUI,fabienne suter,00:02:27.520,Vancouver 2010,Alpine Skiing,giant slalom women
+4,AUT,kathrin zettel,00:02:27.530,Vancouver 2010,Alpine Skiing,giant slalom women
+5,GER,kathrin hoelzl,00:02:27.580,Vancouver 2010,Alpine Skiing,giant slalom women
+6,AUT,eva-maria brem,00:02:27.620,Vancouver 2010,Alpine Skiing,giant slalom women
+7,USA,julia mancuso,00:02:27.660,Vancouver 2010,Alpine Skiing,giant slalom women
+8,FRA,taina barioz,00:02:27.790,Vancouver 2010,Alpine Skiing,giant slalom women
+9,GER,maria höfl-riesch,00:02:27.970,Vancouver 2010,Alpine Skiing,giant slalom women
+10,FRA,anemone marmottan,00:02:28.000,Vancouver 2010,Alpine Skiing,giant slalom women
+11,FRA,olivia bertrand,00:02:28.130,Vancouver 2010,Alpine Skiing,giant slalom women
+12,FIN,tanja poutiainen,00:02:28.170,Vancouver 2010,Alpine Skiing,giant slalom women
+13,USA,sarah schleper,00:02:28.360,Vancouver 2010,Alpine Skiing,giant slalom women
+14,AUT,michaela kirchgasser,00:02:28.400,Vancouver 2010,Alpine Skiing,giant slalom women
+15,FRA,tessa worley,00:02:28.540,Vancouver 2010,Alpine Skiing,giant slalom women
+16,ITA,manuela moelgg,00:02:28.660,Vancouver 2010,Alpine Skiing,giant slalom women
+17,ITA,federica brignone,00:02:28.680,Vancouver 2010,Alpine Skiing,giant slalom women
+18,SLO,ana drev,00:02:28.830,Vancouver 2010,Alpine Skiing,giant slalom women
+19,ITA,nicole gius,00:02:28.870,Vancouver 2010,Alpine Skiing,giant slalom women
+20,CAN,marie-michele gagnon,00:02:28.890,Vancouver 2010,Alpine Skiing,giant slalom women
+21,SWE,anja paerson,00:02:28.900,Vancouver 2010,Alpine Skiing,giant slalom women
+22,ITA,denise karbon,00:02:29.370,Vancouver 2010,Alpine Skiing,giant slalom women
+23,SWE,maria pietilae holmner,00:02:29.630,Vancouver 2010,Alpine Skiing,giant slalom women
+24,CAN,britt janyk,00:02:29.790,Vancouver 2010,Alpine Skiing,giant slalom women
+25,SWE,kajsa kling,00:02:29.930,Vancouver 2010,Alpine Skiing,giant slalom women
+26,GBR,chemmy alcott,00:02:29.940,Vancouver 2010,Alpine Skiing,giant slalom women
+27,CAN,shona rubens,00:02:30.250,Vancouver 2010,Alpine Skiing,giant slalom women
+28,CAN,marie-pier prefontaine,00:02:30.510,Vancouver 2010,Alpine Skiing,giant slalom women
+29,FIN,sanni leinonen,00:02:32.440,Vancouver 2010,Alpine Skiing,giant slalom women
+30,SWE,jessica lindell-vikarby,00:02:32.710,Vancouver 2010,Alpine Skiing,giant slalom women
+31,USA,megan mcjames,00:02:32.980,Vancouver 2010,Alpine Skiing,giant slalom women
+32,SRB,jelena lolovic,00:02:34.540,Vancouver 2010,Alpine Skiing,giant slalom women
+33,ESP,carolina ruiz castillo,00:02:35.070,Vancouver 2010,Alpine Skiing,giant slalom women
+34,SVK,jana gantnerova,00:02:35.730,Vancouver 2010,Alpine Skiing,giant slalom women
+35,CRO,tea palic,00:02:36.120,Vancouver 2010,Alpine Skiing,giant slalom women
+36,RUS,lyaysan rayanova,00:02:36.950,Vancouver 2010,Alpine Skiing,giant slalom women
+37,ESP,maria jose rienda,00:02:37.450,Vancouver 2010,Alpine Skiing,giant slalom women
+38,SRB,nevena ignjatovic,00:02:37.510,Vancouver 2010,Alpine Skiing,giant slalom women
+39,BLR,maria shkanova,00:02:40.380,Vancouver 2010,Alpine Skiing,giant slalom women
+40,BIH,zana novakovic,00:02:40.790,Vancouver 2010,Alpine Skiing,giant slalom women
+41,HUN,anna berecz,00:02:40.870,Vancouver 2010,Alpine Skiing,giant slalom women
+42,LBN,chirine njeim,00:02:41.610,Vancouver 2010,Alpine Skiing,giant slalom women
+43,UKR,bogdana matsotska,00:02:41.980,Vancouver 2010,Alpine Skiing,giant slalom women
+44,ARG,macarena simari birkner,00:02:42.020,Vancouver 2010,Alpine Skiing,giant slalom women
+45,ARG,maria belen simari birkner,00:02:42.380,Vancouver 2010,Alpine Skiing,giant slalom women
+46,DEN,yina moe-lange,00:02:43.670,Vancouver 2010,Alpine Skiing,giant slalom women
+47,ARG,nicol gastaldi,00:02:43.780,Vancouver 2010,Alpine Skiing,giant slalom women
+48,KOR,sun joo kim,00:02:44.580,Vancouver 2010,Alpine Skiing,giant slalom women
+49,IRL,kirsty mcgarry,00:02:45.200,Vancouver 2010,Alpine Skiing,giant slalom women
+50,LAT,liene fimbauere,00:02:46.930,Vancouver 2010,Alpine Skiing,giant slalom women
+51,BIH,maja klepic,00:02:50.340,Vancouver 2010,Alpine Skiing,giant slalom women
+52,GRE,sophia ralli,00:02:50.610,Vancouver 2010,Alpine Skiing,giant slalom women
+53,BLR,lizaveta kuzmenka,00:02:50.890,Vancouver 2010,Alpine Skiing,giant slalom women
+54,CYP,sophia papamichalopoulou,00:02:51.860,Vancouver 2010,Alpine Skiing,giant slalom women
+55,TUR,tugba dasdemir,00:02:53.470,Vancouver 2010,Alpine Skiing,giant slalom women
+56,AZE,gaia bassani antivari,00:02:56.870,Vancouver 2010,Alpine Skiing,giant slalom women
+57,UZB,kseniya grigoreva,00:02:57.220,Vancouver 2010,Alpine Skiing,giant slalom women
+58,CHN,lina xia,00:02:58.890,Vancouver 2010,Alpine Skiing,giant slalom women
+59,IRI,marjan kalhor,00:03:05.390,Vancouver 2010,Alpine Skiing,giant slalom women
+60,ESP,andrea jardi,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+61,AND,mireia gutierrez,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+62,CHI,noelle barahona,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+63,PER,ornella oettl reyes,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+64,CZE,sarka zahrobska,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+65,SVK,veronika velez zuzulova,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+66,CRO,nika fleiss,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+67,CRO,ana jelusic,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+68,USA,lindsey vonn,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+69,SUI,andrea dettling,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+70,MON,alexandra coletti,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+71,HUN,zsofia doeme,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+72,BUL,maria kirkova,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+73,POL,agnieszka gasienica daniel,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+74,RUS,elena prosteva,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+75,GEO,nino tsiklauri,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+76,NOR,mona loeseth,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+77,BRA,maya harrisson,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+78,AND,sofie juarez,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+79,CRO,matea ferk,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+80,CZE,petra zakourilova,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+81,ARM,ani-matilda serebrakian,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+82,COL,cynthia denzler,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+83,KAZ,lyudmila fedotova,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+84,EST,tiiu nurmberg,Did not finish,Vancouver 2010,Alpine Skiing,giant slalom women
+85,UKR,anastasiya skryabina,Disqualified,Vancouver 2010,Alpine Skiing,giant slalom women
+0,ITA,giuliano razzoli,00:01:39.320,Vancouver 2010,Alpine Skiing,slalom men
+1,CRO,ivica kostelic,00:01:39.480,Vancouver 2010,Alpine Skiing,slalom men
+2,SWE,andre myhrer,00:01:39.760,Vancouver 2010,Alpine Skiing,slalom men
+3,AUT,benjamin raich,00:01:39.810,Vancouver 2010,Alpine Skiing,slalom men
+4,AUT,marcel hirscher,00:01:40.200,Vancouver 2010,Alpine Skiing,slalom men
+5,SLO,mitja valencic,00:01:40.350,Vancouver 2010,Alpine Skiing,slalom men
+6,ITA,manfred moelgg,00:01:40.450,Vancouver 2010,Alpine Skiing,slalom men
+7,CAN,julien cousineau,00:01:40.660,Vancouver 2010,Alpine Skiing,slalom men
+8,FRA,julien lizeroux,00:01:40.720,Vancouver 2010,Alpine Skiing,slalom men
+9,AUT,reinfried herbst,00:01:40.780,Vancouver 2010,Alpine Skiing,slalom men
+10,CZE,ondrej bank,00:01:40.810,Vancouver 2010,Alpine Skiing,slalom men
+11,SUI,silvan zurbriggen,00:01:40.830,Vancouver 2010,Alpine Skiing,slalom men
+12,CAN,michael janyk,00:01:41.090,Vancouver 2010,Alpine Skiing,slalom men
+13,SWE,mattias hargin,00:01:41.250,Vancouver 2010,Alpine Skiing,slalom men
+14,SUI,marc gini,00:01:41.350,Vancouver 2010,Alpine Skiing,slalom men
+15,FRA,maxime tissot,00:01:41.540,Vancouver 2010,Alpine Skiing,slalom men
+16,NOR,kjetil jansrud,00:01:41.570,Vancouver 2010,Alpine Skiing,slalom men
+17,JPN,akira sasaki,00:01:41.760,Vancouver 2010,Alpine Skiing,slalom men
+18,CRO,natko zrncic dim,00:01:41.990,Vancouver 2010,Alpine Skiing,slalom men
+19,BUL,kilian albrecht,00:01:42.360,Vancouver 2010,Alpine Skiing,slalom men
+20,FRA,thomas mermillod-blondin,00:01:42.480,Vancouver 2010,Alpine Skiing,slalom men
+21,SWE,jens byggmark,00:01:42.530,Vancouver 2010,Alpine Skiing,slalom men
+22,RUS,alexander khoroshilov,00:01:42.820,Vancouver 2010,Alpine Skiing,slalom men
+23,USA,nolan kasper,00:01:43.170,Vancouver 2010,Alpine Skiing,slalom men
+24,BUL,stefan georgiev,00:01:43.920,Vancouver 2010,Alpine Skiing,slalom men
+25,ARG,cristian javier simari birkner,00:01:44.720,Vancouver 2010,Alpine Skiing,slalom men
+26,GBR,dave ryding,00:01:45.130,Vancouver 2010,Alpine Skiing,slalom men
+27,MDA,christophe roux,00:01:45.750,Vancouver 2010,Alpine Skiing,slalom men
+28,GBR,andrew noble,00:01:46.130,Vancouver 2010,Alpine Skiing,slalom men
+29,SVK,jaroslav babusiak,00:01:46.860,Vancouver 2010,Alpine Skiing,slalom men
+30,CAN,trevor white,00:01:47.170,Vancouver 2010,Alpine Skiing,slalom men
+31,CRO,danko marinelli,00:01:47.330,Vancouver 2010,Alpine Skiing,slalom men
+32,GRE,vassilis dimitriadis,00:01:48.160,Vancouver 2010,Alpine Skiing,slalom men
+33,BEL,jeroen van den bogaert,00:01:48.560,Vancouver 2010,Alpine Skiing,slalom men
+34,ISR,mikail renzhin,00:01:48.910,Vancouver 2010,Alpine Skiing,slalom men
+35,BIH,marko rudic,00:01:49.160,Vancouver 2010,Alpine Skiing,slalom men
+36,LAT,kristaps zvejnieks,00:01:51.290,Vancouver 2010,Alpine Skiing,slalom men
+37,KAZ,igor zakurdayev,00:01:52.810,Vancouver 2010,Alpine Skiing,slalom men
+38,UKR,rostyslav feshchuk,00:01:53.790,Vancouver 2010,Alpine Skiing,slalom men
+39,MNE,bojan kosic,00:01:55.320,Vancouver 2010,Alpine Skiing,slalom men
+40,IRI,hossein saveh shemshaki,00:01:56.390,Vancouver 2010,Alpine Skiing,slalom men
+41,UZB,oleg shamaev,00:01:58.050,Vancouver 2010,Alpine Skiing,slalom men
+42,CHN,lei li,00:02:00.860,Vancouver 2010,Alpine Skiing,slalom men
+43,MAR,samir azzimani,00:02:02.430,Vancouver 2010,Alpine Skiing,slalom men
+44,IRL,shane o connor,00:02:05.140,Vancouver 2010,Alpine Skiing,slalom men
+45,MEX,hubertus von hohenlohe,00:02:07.780,Vancouver 2010,Alpine Skiing,slalom men
+46,GHA,kwame nkrumah-acheampong,00:02:22.600,Vancouver 2010,Alpine Skiing,slalom men
+47,ALB,erjon tola,00:02:43.880,Vancouver 2010,Alpine Skiing,slalom men
+48,ITA,patrick thaler,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+49,FRA,steve missillier,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+50,USA,james cochran,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+51,SWE,axel baeck,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+52,SUI,sandro viletta,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+53,GEO,iason abramashvili,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+54,NOR,lars elton myhre,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+55,EST,deyvid oprja,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+56,TUR,erdinc turksever,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+57,AUT,manfred pranger,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+58,SUI,marc berthod,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+59,GER,felix neureuther,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+60,NOR,truls ove karlsen,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+61,MDA,urs imboden,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+62,FIN,andreas romar,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+63,ITA,cristian deville,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+64,CZE,filip trejbal,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+65,CRO,dalibor samsal,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+66,SLO,matic skube,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+67,CAN,brad spence,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+68,ISL,björgvin björgvinsson,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+69,SLO,bernard vajdic,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+70,USA,ted ligety,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+71,MKD,antonio ristevski,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+72,CZE,martin vrablik,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+73,ROU,ioan-gabriel nan,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+74,BRA,jhonatan longhi,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+75,GEO,jaba gelashvili,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+76,TJK,andrei drygin,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+77,IRI,porya saveh shemshaki,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+78,SEN,leyti seck,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+79,USA,bode miller,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+80,JPN,kentaro minagawa,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+81,NOR,leif kristian nestvold-haugen,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+82,SLO,mitja dragsic,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+83,KOR,donghyun jung,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+84,RUS,sergey maytakov,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+85,KOR,woo-sung kim,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+86,BEL,bart mollin,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+87,ISL,stefan jon sigurgeirsson,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+88,RUS,stepan zuev,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+89,AND,roger vidosa,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+90,GRE,stephanos tsimikalis,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+91,ARG,agustin torres,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+92,HUN,marton bene,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+93,LTU,vitalijus rumiancevas,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+94,CYP,christopher papamichalopoulos,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+95,AZE,cedric notz,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+96,KGZ,dmitry trelevski,Did not finish,Vancouver 2010,Alpine Skiing,slalom men
+97,CZE,krystof kryzl,Disqualified,Vancouver 2010,Alpine Skiing,slalom men
+98,LBN,ghassan achi,Disqualified,Vancouver 2010,Alpine Skiing,slalom men
+99,ARM,arsen nersisyan,Disqualified,Vancouver 2010,Alpine Skiing,slalom men
+100,PER,manfred oettl reyes,Disqualified,Vancouver 2010,Alpine Skiing,slalom men
+101,DEN,markus kilsgaard,Did not start,Vancouver 2010,Alpine Skiing,slalom men
+0,GER,maria höfl-riesch,00:01:42.890,Vancouver 2010,Alpine Skiing,slalom women
+1,AUT,marlies schild,00:01:43.320,Vancouver 2010,Alpine Skiing,slalom women
+2,CZE,sarka zahrobska,00:01:43.900,Vancouver 2010,Alpine Skiing,slalom women
+3,SWE,maria pietilae holmner,00:01:44.220,Vancouver 2010,Alpine Skiing,slalom women
+4,FRA,sandrine aubert,00:01:44.460,Vancouver 2010,Alpine Skiing,slalom women
+5,FIN,tanja poutiainen,00:01:44.930,Vancouver 2010,Alpine Skiing,slalom women
+6,AUT,elisabeth goergl,00:01:44.970,Vancouver 2010,Alpine Skiing,slalom women
+7,ITA,nicole gius,00:01:45.010,Vancouver 2010,Alpine Skiing,slalom women
+8,SLO,tina maze,00:01:45.090,Vancouver 2010,Alpine Skiing,slalom women
+9,SVK,veronika velez zuzulova,00:01:45.140,Vancouver 2010,Alpine Skiing,slalom women
+10,ITA,manuela moelgg,00:01:45.310,Vancouver 2010,Alpine Skiing,slalom women
+11,CRO,ana jelusic,00:01:45.430,Vancouver 2010,Alpine Skiing,slalom women
+12,AUT,kathrin zettel,00:01:45.590,Vancouver 2010,Alpine Skiing,slalom women
+13,GER,christina geiger,00:01:45.620,Vancouver 2010,Alpine Skiing,slalom women
+14,SWE,frida hansdotter,00:01:45.670,Vancouver 2010,Alpine Skiing,slalom women
+15,USA,sarah schleper,00:01:45.880,Vancouver 2010,Alpine Skiing,slalom women
+16,CAN,brigitte acton,00:01:45.930,Vancouver 2010,Alpine Skiing,slalom women
+17,ITA,denise karbon,00:01:45.940,Vancouver 2010,Alpine Skiing,slalom women
+18,CAN,anna goodman,00:01:46.040,Vancouver 2010,Alpine Skiing,slalom women
+19,CAN,erin mielzynski,00:01:46.090,Vancouver 2010,Alpine Skiing,slalom women
+20,SWE,therese borssen,00:01:46.710,Vancouver 2010,Alpine Skiing,slalom women
+21,LIE,marina nigg,00:01:46.830,Vancouver 2010,Alpine Skiing,slalom women
+22,SLO,marusa ferk,00:01:47.030,Vancouver 2010,Alpine Skiing,slalom women
+23,SVK,jana gantnerova,00:01:47.460,Vancouver 2010,Alpine Skiing,slalom women
+24,CRO,nika fleiss,00:01:47.590,Vancouver 2010,Alpine Skiing,slalom women
+25,FRA,anne-sophie barthet,00:01:47.830,Vancouver 2010,Alpine Skiing,slalom women
+26,BEL,karen persyn,00:01:47.960,Vancouver 2010,Alpine Skiing,slalom women
+27,RUS,elena prosteva,00:01:48.340,Vancouver 2010,Alpine Skiing,slalom women
+28,FRA,nastasia noens,00:01:48.570,Vancouver 2010,Alpine Skiing,slalom women
+29,USA,hailey duke,00:01:48.690,Vancouver 2010,Alpine Skiing,slalom women
+30,CAN,marie-michele gagnon,00:01:49.510,Vancouver 2010,Alpine Skiing,slalom women
+31,SRB,nevena ignjatovic,00:01:50.480,Vancouver 2010,Alpine Skiing,slalom women
+32,RUS,lyaysan rayanova,00:01:50.820,Vancouver 2010,Alpine Skiing,slalom women
+33,CRO,matea ferk,00:01:50.930,Vancouver 2010,Alpine Skiing,slalom women
+34,POL,agnieszka gasienica daniel,00:01:52.190,Vancouver 2010,Alpine Skiing,slalom women
+35,ARG,macarena simari birkner,00:01:52.350,Vancouver 2010,Alpine Skiing,slalom women
+36,UKR,bogdana matsotska,00:01:53.000,Vancouver 2010,Alpine Skiing,slalom women
+37,BLR,maria shkanova,00:01:54.500,Vancouver 2010,Alpine Skiing,slalom women
+38,CRO,sofija novoselic,00:01:54.910,Vancouver 2010,Alpine Skiing,slalom women
+39,BIH,zana novakovic,00:01:55.950,Vancouver 2010,Alpine Skiing,slalom women
+40,CHI,noelle barahona,00:01:57.820,Vancouver 2010,Alpine Skiing,slalom women
+41,EST,tiiu nurmberg,00:01:57.990,Vancouver 2010,Alpine Skiing,slalom women
+42,LBN,chirine njeim,00:01:58.200,Vancouver 2010,Alpine Skiing,slalom women
+43,HUN,zsofia doeme,00:01:58.320,Vancouver 2010,Alpine Skiing,slalom women
+44,HUN,anna berecz,00:01:59.630,Vancouver 2010,Alpine Skiing,slalom women
+45,KOR,sun joo kim,00:02:00.030,Vancouver 2010,Alpine Skiing,slalom women
+46,GRE,sophia ralli,00:02:00.410,Vancouver 2010,Alpine Skiing,slalom women
+47,BRA,maya harrisson,00:02:01.670,Vancouver 2010,Alpine Skiing,slalom women
+48,LAT,liene fimbauere,00:02:02.110,Vancouver 2010,Alpine Skiing,slalom women
+49,GEO,nino tsiklauri,00:02:02.320,Vancouver 2010,Alpine Skiing,slalom women
+50,COL,cynthia denzler,00:02:02.390,Vancouver 2010,Alpine Skiing,slalom women
+51,DEN,yina moe-lange,00:02:04.700,Vancouver 2010,Alpine Skiing,slalom women
+52,CYP,sophia papamichalopoulou,00:02:05.180,Vancouver 2010,Alpine Skiing,slalom women
+53,LBN,jackie chamoun,00:02:18.030,Vancouver 2010,Alpine Skiing,slalom women
+54,IRI,marjan kalhor,00:02:18.600,Vancouver 2010,Alpine Skiing,slalom women
+55,GER,susanne riesch,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+56,GER,fanny chmelar,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+57,AUT,michaela kirchgasser,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+58,SWE,anja paerson,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+59,ITA,chiara costazza,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+60,USA,megan mcjames,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+61,NOR,mona loeseth,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+62,AND,mireia gutierrez,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+63,UKR,anastasiya skryabina,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+64,ARG,maria belen simari birkner,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+65,BIH,maja klepic,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+66,PER,ornella oettl reyes,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+67,BLR,lizaveta kuzmenka,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+68,SRB,jelena lolovic,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+69,CHN,lina xia,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+70,FIN,sanni leinonen,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+71,FRA,claire dautherives,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+72,ESP,andrea jardi,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+73,SRB,marija trmcic,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+74,GBR,chemmy alcott,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+75,USA,lindsey vonn,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+76,BUL,maria kirkova,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+77,ISL,iris gudmundsdottir,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+78,AND,sofie juarez,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+79,SLO,ana drev,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+80,CZE,petra zakourilova,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+81,TUR,tugba dasdemir,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+82,AZE,gaia bassani antivari,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+83,ARG,nicol gastaldi,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+84,UZB,kseniya grigoreva,Did not finish,Vancouver 2010,Alpine Skiing,slalom women
+85,ARM,ani-matilda serebrakian,Disqualified,Vancouver 2010,Alpine Skiing,slalom women
+86,IRL,kirsty mcgarry,Disqualified,Vancouver 2010,Alpine Skiing,slalom women
+0,NOR,aksel lund svindal,00:01:30.340,Vancouver 2010,Alpine Skiing,super-G men
+1,USA,bode miller,00:01:30.620,Vancouver 2010,Alpine Skiing,super-G men
+2,USA,andrew weibrecht,00:01:30.650,Vancouver 2010,Alpine Skiing,super-G men
+3,ITA,werner heel,00:01:30.670,Vancouver 2010,Alpine Skiing,super-G men
+4,CAN,erik guay,00:01:30.680,Vancouver 2010,Alpine Skiing,super-G men
+5,ITA,christof innerhofer,00:01:30.730,Vancouver 2010,Alpine Skiing,super-G men
+6,ITA,patrick staudacher,00:01:30.740,Vancouver 2010,Alpine Skiing,super-G men
+7,SUI,carlo janka,00:01:30.830,Vancouver 2010,Alpine Skiing,super-G men
+8,SUI,tobias gruenenfelder,00:01:30.900,Vancouver 2010,Alpine Skiing,super-G men
+9,SUI,didier cuche,00:01:31.060,Vancouver 2010,Alpine Skiing,super-G men
+10,SLO,ales gorza,00:01:31.070,Vancouver 2010,Alpine Skiing,super-G men
+11,NOR,kjetil jansrud,00:01:31.210,Vancouver 2010,Alpine Skiing,super-G men
+12,FRA,adrien theaux,00:01:31.240,Vancouver 2010,Alpine Skiing,super-G men
+13,AUT,benjamin raich,00:01:31.350,Vancouver 2010,Alpine Skiing,super-G men
+14,SUI,didier defago,00:01:31.430,Vancouver 2010,Alpine Skiing,super-G men
+15,CRO,ivica kostelic,00:01:31.470,Vancouver 2010,Alpine Skiing,super-G men
+16,AUT,georg streitberger,00:01:31.490,Vancouver 2010,Alpine Skiing,super-G men
+17,SLO,andrej sporn,00:01:31.580,Vancouver 2010,Alpine Skiing,super-G men
+18,USA,ted ligety,00:01:31.700,Vancouver 2010,Alpine Skiing,super-G men
+19,AUT,mario scheiber,00:01:31.930,Vancouver 2010,Alpine Skiing,super-G men
+20,AUT,michael walchhofer,00:01:32.000,Vancouver 2010,Alpine Skiing,super-G men
+21,FRA,guillermo fayed,00:01:32.030,Vancouver 2010,Alpine Skiing,super-G men
+22,USA,marco sullivan,00:01:32.090,Vancouver 2010,Alpine Skiing,super-G men
+23,CAN,jan hudec,00:01:32.090,Vancouver 2010,Alpine Skiing,super-G men
+24,NOR,lars elton myhre,00:01:32.360,Vancouver 2010,Alpine Skiing,super-G men
+25,CRO,ivan ratkic,00:01:32.670,Vancouver 2010,Alpine Skiing,super-G men
+26,ESP,ferran terra,00:01:32.750,Vancouver 2010,Alpine Skiing,super-G men
+27,RUS,alexander khoroshilov,00:01:32.840,Vancouver 2010,Alpine Skiing,super-G men
+28,AUS,craig branch,00:01:32.890,Vancouver 2010,Alpine Skiing,super-G men
+29,AUS,jonathon brauer,00:01:32.920,Vancouver 2010,Alpine Skiing,super-G men
+30,FRA,gauthier de tessieres,00:01:33.170,Vancouver 2010,Alpine Skiing,super-G men
+31,GBR,edward drake,00:01:33.200,Vancouver 2010,Alpine Skiing,super-G men
+32,AND,roger vidosa,00:01:33.650,Vancouver 2010,Alpine Skiing,super-G men
+33,CZE,petr zahrobsky,00:01:33.830,Vancouver 2010,Alpine Skiing,super-G men
+34,ESP,paul de la cuesta,00:01:34.030,Vancouver 2010,Alpine Skiing,super-G men
+35,RUS,stepan zuev,00:01:34.130,Vancouver 2010,Alpine Skiing,super-G men
+36,SVK,jaroslav babusiak,00:01:35.250,Vancouver 2010,Alpine Skiing,super-G men
+37,NZL,tim cafe,00:01:35.550,Vancouver 2010,Alpine Skiing,super-G men
+38,AND,kevin esteve rigail,00:01:35.670,Vancouver 2010,Alpine Skiing,super-G men
+39,DEN,johnny albertsen,00:01:35.690,Vancouver 2010,Alpine Skiing,super-G men
+40,BUL,stefan georgiev,00:01:36.320,Vancouver 2010,Alpine Skiing,super-G men
+41,CHI,maui gayme,00:01:36.560,Vancouver 2010,Alpine Skiing,super-G men
+42,KAZ,igor zakurdayev,00:01:36.970,Vancouver 2010,Alpine Skiing,super-G men
+43,TJK,andrei drygin,00:01:38.030,Vancouver 2010,Alpine Skiing,super-G men
+44,ISL,stefan jon sigurgeirsson,00:01:39.120,Vancouver 2010,Alpine Skiing,super-G men
+45,SWE,patrik jaerbyn,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+46,GER,stephan keppler,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+47,FRA,david poisson,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+48,LIE,marco buechel,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+49,CRO,natko zrncic dim,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+50,NZL,benjamin griffin,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+51,CAN,robbie dixon,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+52,FIN,andreas romar,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+53,ISL,arni thorvaldsson,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+54,CHI,jorge mandru,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+55,CAN,manuel osborne-paradis,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+56,NOR,truls ove karlsen,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+57,RUS,sergey maytakov,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+58,SLO,andrej jerman,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+59,SWE,hans olsson,Did not finish,Vancouver 2010,Alpine Skiing,super-G men
+60,ITA,peter fill,Disqualified,Vancouver 2010,Alpine Skiing,super-G men
+61,SLO,andrej krizaj,Disqualified,Vancouver 2010,Alpine Skiing,super-G men
+62,CZE,martin vrablik,Disqualified,Vancouver 2010,Alpine Skiing,super-G men
+63,ARG,cristian javier simari birkner,Did not start,Vancouver 2010,Alpine Skiing,super-G men
+0,AUT,andrea fischbacher,00:01:20.140,Vancouver 2010,Alpine Skiing,super-G women
+1,SLO,tina maze,00:01:20.630,Vancouver 2010,Alpine Skiing,super-G women
+2,USA,lindsey vonn,00:01:20.880,Vancouver 2010,Alpine Skiing,super-G women
+3,ITA,johanna schnarf,00:01:20.990,Vancouver 2010,Alpine Skiing,super-G women
+4,AUT,elisabeth goergl,00:01:21.140,Vancouver 2010,Alpine Skiing,super-G women
+5,SUI,nadia styger,00:01:21.250,Vancouver 2010,Alpine Skiing,super-G women
+6,ITA,lucia recchia,00:01:21.430,Vancouver 2010,Alpine Skiing,super-G women
+7,GER,maria höfl-riesch,00:01:21.460,Vancouver 2010,Alpine Skiing,super-G women
+8,USA,julia mancuso,00:01:21.500,Vancouver 2010,Alpine Skiing,super-G women
+9,FRA,ingrid jacquemod,00:01:21.770,Vancouver 2010,Alpine Skiing,super-G women
+10,SWE,anja paerson,00:01:21.980,Vancouver 2010,Alpine Skiing,super-G women
+11,SUI,andrea dettling,00:01:22.030,Vancouver 2010,Alpine Skiing,super-G women
+12,SUI,fabienne suter,00:01:22.160,Vancouver 2010,Alpine Skiing,super-G women
+13,ITA,elena fanchini,00:01:22.170,Vancouver 2010,Alpine Skiing,super-G women
+14,GER,gina stechert,00:01:22.210,Vancouver 2010,Alpine Skiing,super-G women
+15,AUT,anna veith,00:01:22.300,Vancouver 2010,Alpine Skiing,super-G women
+16,CAN,britt janyk,00:01:22.890,Vancouver 2010,Alpine Skiing,super-G women
+17,ESP,carolina ruiz castillo,00:01:23.050,Vancouver 2010,Alpine Skiing,super-G women
+18,USA,leanne smith,00:01:23.050,Vancouver 2010,Alpine Skiing,super-G women
+19,GBR,chemmy alcott,00:01:23.460,Vancouver 2010,Alpine Skiing,super-G women
+20,NOR,mona loeseth,00:01:23.970,Vancouver 2010,Alpine Skiing,super-G women
+21,FRA,aurelie revillet,00:01:24.080,Vancouver 2010,Alpine Skiing,super-G women
+22,POL,agnieszka gasienica daniel,00:01:24.310,Vancouver 2010,Alpine Skiing,super-G women
+23,RUS,elena prosteva,00:01:24.430,Vancouver 2010,Alpine Skiing,super-G women
+24,MON,alexandra coletti,00:01:24.560,Vancouver 2010,Alpine Skiing,super-G women
+25,SWE,jessica lindell-vikarby,00:01:24.830,Vancouver 2010,Alpine Skiing,super-G women
+26,CAN,georgia simmerling,00:01:25.210,Vancouver 2010,Alpine Skiing,super-G women
+27,GER,viktoria rebensburg,00:01:25.230,Vancouver 2010,Alpine Skiing,super-G women
+28,CZE,klara krizova,00:01:26.460,Vancouver 2010,Alpine Skiing,super-G women
+29,SRB,jelena lolovic,00:01:26.670,Vancouver 2010,Alpine Skiing,super-G women
+30,ARG,maria belen simari birkner,00:01:27.240,Vancouver 2010,Alpine Skiing,super-G women
+31,ARG,macarena simari birkner,00:01:27.480,Vancouver 2010,Alpine Skiing,super-G women
+32,BLR,maria shkanova,00:01:27.840,Vancouver 2010,Alpine Skiing,super-G women
+33,UKR,anastasiya skryabina,00:01:28.600,Vancouver 2010,Alpine Skiing,super-G women
+34,CHI,noelle barahona,00:01:28.660,Vancouver 2010,Alpine Skiing,super-G women
+35,HUN,zsofia doeme,00:01:29.090,Vancouver 2010,Alpine Skiing,super-G women
+36,LBN,chirine njeim,00:01:29.590,Vancouver 2010,Alpine Skiing,super-G women
+37,KAZ,lyudmila fedotova,00:01:31.430,Vancouver 2010,Alpine Skiing,super-G women
+38,CAN,emily brydon,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+39,USA,chelsea marshall,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+40,CAN,shona rubens,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+41,SUI,nadja kamer,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+42,SLO,marusa ferk,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+43,FRA,marie marchand-arvier,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+44,ITA,daniela merighetti,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+45,AUT,nicole schmidhofer,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+46,ESP,andrea jardi,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+47,RUS,lyaysan rayanova,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+48,AND,mireia gutierrez,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+49,SRB,nevena ignjatovic,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+50,HUN,anna berecz,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+51,BUL,maria kirkova,Did not finish,Vancouver 2010,Alpine Skiing,super-G women
+52,ISL,iris gudmundsdottir,Did not finish,Vancouver 2010,Alpine Skiing,super-G women

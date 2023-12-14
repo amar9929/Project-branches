@@ -1,0 +1,89 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,marshall wayne,113.58,Berlin 1936,Diving,10m platform men
+1,USA,elbert alonzo root,110.60,Berlin 1936,Diving,10m platform men
+2,GER,hermann stork,110.31,Berlin 1936,Diving,10m platform men
+3,GER,johnny weiß,110.15,Berlin 1936,Diving,10m platform men
+4,USA,frank allen kurtz,108.61,Berlin 1936,Diving,10m platform men
+5,JPN,tsuneo shibahara,107.40,Berlin 1936,Diving,10m platform men
+6,GER,siegfried viebahn,105.00,Berlin 1936,Diving,10m platform men
+7,JPN,hideko koyanagi,94.54,Berlin 1936,Diving,10m platform men
+8,GBR,charles douglas tomalin,94.14,Berlin 1936,Diving,10m platform men
+9,ITA,carlo dibiasi,90.66,Berlin 1936,Diving,10m platform men
+10,HUN,laszlo hodi,89.25,Berlin 1936,Diving,10m platform men
+11,EGY,rauf aboul seoud,88.78,Berlin 1936,Diving,10m platform men
+12,EGY,ayad ibrahim khalil ibrahim,88.08,Berlin 1936,Diving,10m platform men
+13,FIN,heikki ilmari niemeläinen,87.60,Berlin 1936,Diving,10m platform men
+14,AUS,ronald masters,86.95,Berlin 1936,Diving,10m platform men
+15,TCH,frantisek leikert,86.72,Berlin 1936,Diving,10m platform men
+16,ITA,ferrero marianetti,82.78,Berlin 1936,Diving,10m platform men
+17,HUN,laszlo hidvegi,80.14,Berlin 1936,Diving,10m platform men
+18,TCH,vaclav kacl,80.04,Berlin 1936,Diving,10m platform men
+19,YUG,branko ziherl,78.28,Berlin 1936,Diving,10m platform men
+20,NOR,sam melberg,77.76,Berlin 1936,Diving,10m platform men
+21,ITA,franco ferraris,77.60,Berlin 1936,Diving,10m platform men
+22,SWE,gösta ölander,76.84,Berlin 1936,Diving,10m platform men
+23,MEX,jesus flores albo,73.28,Berlin 1936,Diving,10m platform men
+24,CAN,george james athans,70.06,Berlin 1936,Diving,10m platform men
+25,TCH,josef nesvadba,60.02,Berlin 1936,Diving,10m platform men
+0,USA,dorothy poynton-hill,33.93,Berlin 1936,Diving,10m platform women
+1,USA,velma clancy dunn ploessel,33.63,Berlin 1936,Diving,10m platform women
+2,GER,käthe köhler,33.43,Berlin 1936,Diving,10m platform women
+3,JPN,reiko osawa,32.53,Berlin 1936,Diving,10m platform women
+4,USA,cornelia gilissen,30.47,Berlin 1936,Diving,10m platform women
+5,JPN,fusako kono,30.24,Berlin 1936,Diving,10m platform women
+6,GBR,jean gilbert,30.16,Berlin 1936,Diving,10m platform women
+7,GER,anne ehscheidt,29.90,Berlin 1936,Diving,10m platform women
+8,SWE,ingeborg sjöqvist,29.67,Berlin 1936,Diving,10m platform women
+9,SWE,ann-margret nirling,29.20,Berlin 1936,Diving,10m platform women
+10,GER,anne-liese kapp,28.66,Berlin 1936,Diving,10m platform women
+11,NOR,inger nordbö-kragh,28.62,Berlin 1936,Diving,10m platform women
+12,NOR,julie augusta helsing-jacobsen,28.40,Berlin 1936,Diving,10m platform women
+13,JPN,masayo osawa,28.10,Berlin 1936,Diving,10m platform women
+14,DEN,mette gudrun gregaard,27.54,Berlin 1936,Diving,10m platform women
+15,AUT,therese rampel,27.16,Berlin 1936,Diving,10m platform women
+16,DEN,karen margrethe friis andersen,27.08,Berlin 1936,Diving,10m platform women
+17,GBR,madge moulton,26.62,Berlin 1936,Diving,10m platform women
+18,CAN,lynda riley adams-hunt,26.52,Berlin 1936,Diving,10m platform women
+19,FRA,cecile lesprit-poirier,25.56,Berlin 1936,Diving,10m platform women
+20,AUT,magdalene epply-staudinger,25.04,Berlin 1936,Diving,10m platform women
+21,CAN,thelma boughner,24.30,Berlin 1936,Diving,10m platform women
+0,USA,richard kempster degener,163.57,Berlin 1936,Diving,3m springboard men
+1,USA,marshall wayne,159.56,Berlin 1936,Diving,3m springboard men
+2,USA,alan greene,146.29,Berlin 1936,Diving,3m springboard men
+3,JPN,tsuneo shibahara,144.92,Berlin 1936,Diving,3m springboard men
+4,GER,johnny weiß,141.24,Berlin 1936,Diving,3m springboard men
+5,GER,leo esser,137.99,Berlin 1936,Diving,3m springboard men
+6,GER,winfried mahraun,134.61,Berlin 1936,Diving,3m springboard men
+7,JPN,hideko koyanagi,133.07,Berlin 1936,Diving,3m springboard men
+8,TCH,frantisek leikert,131.98,Berlin 1936,Diving,3m springboard men
+9,YUG,branko ziherl,125.26,Berlin 1936,Diving,3m springboard men
+10,EGY,ismail ahmed ramzi,121.67,Berlin 1936,Diving,3m springboard men
+11,FRA,roger heinkele,117.72,Berlin 1936,Diving,3m springboard men
+12,FIN,heikki ilmari niemeläinen,116.80,Berlin 1936,Diving,3m springboard men
+13,AUS,ronald masters,115.72,Berlin 1936,Diving,3m springboard men
+14,TCH,josef nesvadba,111.44,Berlin 1936,Diving,3m springboard men
+15,NED,hans leopold haasman,111.44,Berlin 1936,Diving,3m springboard men
+16,AUT,karl steiner,109.54,Berlin 1936,Diving,3m springboard men
+17,HUN,laszlo hidvegi,107.49,Berlin 1936,Diving,3m springboard men
+18,EGY,ahmed ibrahim kamel,105.02,Berlin 1936,Diving,3m springboard men
+19,GBR,frederick george hodges,102.98,Berlin 1936,Diving,3m springboard men
+20,SUI,frederic boeni,95.84,Berlin 1936,Diving,3m springboard men
+21,HUN,laszlo hodi,85.42,Berlin 1936,Diving,3m springboard men
+22,SUI,max happle,80.24,Berlin 1936,Diving,3m springboard men
+23,PER,alfredo alvarez calderon,Did not finish,Berlin 1936,Diving,3m springboard men
+0,USA,marjorie gestring,89.27,Berlin 1936,Diving,3m springboard women
+1,USA,katherine louise rawls,88.35,Berlin 1936,Diving,3m springboard women
+2,USA,dorothy poynton-hill,82.36,Berlin 1936,Diving,3m springboard women
+3,GER,gerda daumerlang,78.27,Berlin 1936,Diving,3m springboard women
+4,GER,olga jordan-jensch,77.98,Berlin 1936,Diving,3m springboard women
+5,JPN,masayo osawa,73.94,Berlin 1936,Diving,3m springboard women
+6,GER,susanne (susi) heinze,71.49,Berlin 1936,Diving,3m springboard women
+7,JPN,fusako kono,70.27,Berlin 1936,Diving,3m springboard women
+8,GBR,elizabeth joyce slade,69.95,Berlin 1936,Diving,3m springboard women
+9,CAN,lynda riley adams-hunt,67.44,Berlin 1936,Diving,3m springboard women
+10,NOR,inger nordbö-kragh,65.94,Berlin 1936,Diving,3m springboard women
+11,AUT,magdalene epply-staudinger,65.76,Berlin 1936,Diving,3m springboard women
+12,GBR,katinka larsen,64.00,Berlin 1936,Diving,3m springboard women
+13,SUI,annie villiger,62.38,Berlin 1936,Diving,3m springboard women
+14,CAN,thelma boughner,60.04,Berlin 1936,Diving,3m springboard women
+15,FRA,cecile lesprit-poirier,58.86,Berlin 1936,Diving,3m springboard women

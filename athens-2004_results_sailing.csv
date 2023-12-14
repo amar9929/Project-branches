@@ -1,0 +1,269 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,kevin burnham,71.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+1,GBR,nicholas rogers,74.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+2,JPN,kazuto seki,90.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+3,SWE,martin andersson,94.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+4,FRA,nicolas le berre,97.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+5,NED,kalle coster,101.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+6,POR,miguel nunes,103.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+7,BRA,bernardo muller carioba arndt,104.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+8,UKR,evhen braslavets,106.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+9,ITA,andrea trani,109.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+10,GER,felix krabbe,114.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+11,AUS,malcolm page,119.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+12,ARG,javier conte,121.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+13,SLO,tomaz copi,126.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+14,ISR,gideon kliger,128.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+15,IRL,ger owens,129.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+16,RUS,mikhail krutikov,132.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+17,GRE,kostas tringonis,132.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+18,CRO,petar cupac,136.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+19,ESP,gustavo martinez,138.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+20,POL,tomasz jakubiak,157.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+21,SUI,simon bruegger,163.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+22,KOR,seong-an jeong,171.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+23,TUR,hasan kaan ozgonenc,174.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+24,DEN,kristian skjødt kjærgaard,191.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+25,NZL,jamie hunt,200.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+26,HUN,csaba cserep,228.0,Athens 2004,Sailing,470 - Two Person Dinghy men
+0,GRE,aimilia tsoulfa,38.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+1,ESP,natalia via dufresne,62.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+2,SWE,therese torgersson,63.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+3,SLO,vesna dekleva,65.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+4,USA,katie mcdowell,84.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+5,DEN,lise michaela ward,89.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+6,GBR,christina bassadone,91.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+7,RUS,vlada ilienko,94.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+8,NED,margriet matthijsse,100.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+9,FRA,ingrid petitjean,100.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+10,JPN,yuka yoshisako,101.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+11,ARG,maria fernanda sesto,102.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+12,CAN,nikola girke,103.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+13,AUS,jennifer margaret armstrong,108.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+14,GER,monika leu,109.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+15,NZL,linda dickson,118.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+16,BRA,fernanda oliveira,119.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+17,ISR,vered bouskila,122.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+18,HUN,marta weores,128.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+19,ITA,elisabetta saccheggiani,141.0,Athens 2004,Sailing,470 - Two Person Dinghy women
+0,ESP,xabier fernandez gaztanaga,67.0,Athens 2004,Sailing,49er - Skiff mixed
+1,UKR,rodion luka,72.0,Athens 2004,Sailing,49er - Skiff mixed
+2,GBR,chris draper,77.0,Athens 2004,Sailing,49er - Skiff mixed
+3,NOR,frode bovim,88.0,Athens 2004,Sailing,49er - Skiff mixed
+4,USA,pete spaulding,92.0,Athens 2004,Sailing,49er - Skiff mixed
+5,BRA,rodrigo duarte,104.0,Athens 2004,Sailing,49er - Skiff mixed
+6,AUS,chris nicholson,105.0,Athens 2004,Sailing,49er - Skiff mixed
+7,FIN,thomas johanson,111.0,Athens 2004,Sailing,49er - Skiff mixed
+8,GER,marcus baur,116.0,Athens 2004,Sailing,49er - Skiff mixed
+9,AUT,nico luca marc delle karth,122.0,Athens 2004,Sailing,49er - Skiff mixed
+10,FRA,stephane christidis,130.0,Athens 2004,Sailing,49er - Skiff mixed
+11,SUI,christian steiger,137.0,Athens 2004,Sailing,49er - Skiff mixed
+12,DEN,dennis dengsoe andersen,138.0,Athens 2004,Sailing,49er - Skiff mixed
+13,ITA,gianfranco sibello,138.0,Athens 2004,Sailing,49er - Skiff mixed
+14,JPN,kenji nakamura,146.0,Athens 2004,Sailing,49er - Skiff mixed
+15,IRL,tom fitzpatrick,152.0,Athens 2004,Sailing,49er - Skiff mixed
+16,GRE,vasileios portosalte,181.4,Athens 2004,Sailing,49er - Skiff mixed
+17,POL,krzysztof kierkowski,190.0,Athens 2004,Sailing,49er - Skiff mixed
+18,IND,malav shroff,253.0,Athens 2004,Sailing,49er - Skiff mixed
+0,FRA,faustine merret,31.0,Athens 2004,Sailing,board Mistral women
+1,CHN,jian yin,33.0,Athens 2004,Sailing,board Mistral women
+2,ITA,alessandra sensini,34.0,Athens 2004,Sailing,board Mistral women
+3,HKG,lai shan lee,42.0,Athens 2004,Sailing,board Mistral women
+4,NZL,barbara kendall,58.0,Athens 2004,Sailing,board Mistral women
+5,AUS,jessica crisp,74.0,Athens 2004,Sailing,board Mistral women
+6,GER,amelie lux,87.0,Athens 2004,Sailing,board Mistral women
+7,ESP,blanca manchón,95.0,Athens 2004,Sailing,board Mistral women
+8,GBR,natasha sturges,103.0,Athens 2004,Sailing,board Mistral women
+9,UKR,olha maslivets,103.0,Athens 2004,Sailing,board Mistral women
+10,NOR,jannicke staalstrom,107.0,Athens 2004,Sailing,board Mistral women
+11,POL,zofia noceti-klepacka,113.0,Athens 2004,Sailing,board Mistral women
+12,ISR,lee korzits,117.0,Athens 2004,Sailing,board Mistral women
+13,SUI,anja kaeser,121.0,Athens 2004,Sailing,board Mistral women
+14,GRE,athina frai,123.0,Athens 2004,Sailing,board Mistral women
+15,USA,carrie butler-beashel,126.0,Athens 2004,Sailing,board Mistral women
+16,JPN,masako imai,135.0,Athens 2004,Sailing,board Mistral women
+17,BEL,sigrid rondelez,148.0,Athens 2004,Sailing,board Mistral women
+18,BUL,irina konstantinova-bontemps,152.0,Athens 2004,Sailing,board Mistral women
+19,LAT,vita matise,193.0,Athens 2004,Sailing,board Mistral women
+20,CYP,gabriela khatzidamianou,195.0,Athens 2004,Sailing,board Mistral women
+21,ARG,catalina walther,208.0,Athens 2004,Sailing,board Mistral women
+22,MEX,rosa irene campos perez,220.0,Athens 2004,Sailing,board Mistral women
+23,HUN,livia gyorbiro,227.0,Athens 2004,Sailing,board Mistral women
+24,BRA,carol borges-mendelblatt,229.0,Athens 2004,Sailing,board Mistral women
+25,PUR,karla barrera,250.0,Athens 2004,Sailing,board Mistral women
+0,GBR,ben ainslie,38.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+1,ESP,rafael trujillo,51.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+2,POL,mateusz kusznierewicz,53.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+3,CRO,karlo kuret,61.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+4,GRE,emilios papathanasiou,72.4,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+5,AUS,anthony nossiter,93.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+6,BEL,sebastien godefroid,96.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+7,FRA,guillaume florent,96.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+8,DEN,jonas hoegh-christensen,105.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+9,BRA,joao signorini,113.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+10,USA,kevin hall,115.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+11,IRL,david burrows,116.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+12,NZL,dean barker,117.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+13,SWE,daniel birgmark,118.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+14,CZE,michael maier,120.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+15,TUR,ali enver adakan,124.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+16,GER,michael fellmann,127.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+17,CAN,richard clarke,134.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+18,NED,jaap zielhuis,136.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+19,SLO,gasper vincec,151.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+20,RUS,vladimir krutskikh,173.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+21,ARG,alejandro colla,174.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+22,HUN,balazs hajdu,183.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+23,ITA,michele marchesini,201.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+24,EST,imre taveter,221.0,Athens 2004,Sailing,Finn - One Person Dinghy (Heavyweight) men
+0,ISR,gal fridman,42.0,Athens 2004,Sailing,Mistral - Windsurfer men
+1,GRE,nikolaos kaklamanakis,52.0,Athens 2004,Sailing,Mistral - Windsurfer men
+2,GBR,nick dempsey,53.0,Athens 2004,Sailing,Mistral - Windsurfer men
+3,BRA,bimba bimba,54.0,Athens 2004,Sailing,Mistral - Windsurfer men
+4,POL,przemyslaw miarczynski,73.0,Athens 2004,Sailing,Mistral - Windsurfer men
+5,POR,joao rodrigues,78.0,Athens 2004,Sailing,Mistral - Windsurfer men
+6,CHN,yuanguo zhou,84.0,Athens 2004,Sailing,Mistral - Windsurfer men
+7,AUS,lars detlef kleppich,84.0,Athens 2004,Sailing,Mistral - Windsurfer men
+8,FRA,julien bontemps,89.0,Athens 2004,Sailing,Mistral - Windsurfer men
+9,NZL,tom ashley,98.0,Athens 2004,Sailing,Mistral - Windsurfer men
+10,TUR,ertugrul icingir,105.0,Athens 2004,Sailing,Mistral - Windsurfer men
+11,ESP,ivan pastor,112.0,Athens 2004,Sailing,Mistral - Windsurfer men
+12,CYP,andreas pheobus cariolou,136.0,Athens 2004,Sailing,Mistral - Windsurfer men
+13,HKG,chi ho ho,138.0,Athens 2004,Sailing,Mistral - Windsurfer men
+14,ARG,mariano daniel reutemann,140.0,Athens 2004,Sailing,Mistral - Windsurfer men
+15,MEX,david mauricio mier y teran cuevas,142.0,Athens 2004,Sailing,Mistral - Windsurfer men
+16,UKR,maksim oberemko,146.0,Athens 2004,Sailing,Mistral - Windsurfer men
+17,INA,i gusti made oka sulaksana,167.0,Athens 2004,Sailing,Mistral - Windsurfer men
+18,JPN,motokazu kenjo,170.0,Athens 2004,Sailing,Mistral - Windsurfer men
+19,NED,joeri van dijk,177.0,Athens 2004,Sailing,Mistral - Windsurfer men
+20,THA,arun homraruen,189.0,Athens 2004,Sailing,Mistral - Windsurfer men
+21,HUN,aron gadorfalvi,192.0,Athens 2004,Sailing,Mistral - Windsurfer men
+22,TUN,foued ourabi,211.0,Athens 2004,Sailing,Mistral - Windsurfer men
+23,SUI,richard stauffacher,222.0,Athens 2004,Sailing,Mistral - Windsurfer men
+24,VEN,carlos julio flores perez,232.0,Athens 2004,Sailing,Mistral - Windsurfer men
+25,ITA,riccardo giordano,234.0,Athens 2004,Sailing,Mistral - Windsurfer men
+26,KOR,duck-pil ok,236.0,Athens 2004,Sailing,Mistral - Windsurfer men
+27,USA,peter wells,241.0,Athens 2004,Sailing,Mistral - Windsurfer men
+28,RUS,vladimir moiseev,252.0,Athens 2004,Sailing,Mistral - Windsurfer men
+29,GER,toni wilhelm,260.0,Athens 2004,Sailing,Mistral - Windsurfer men
+30,CZE,tom malina,285.0,Athens 2004,Sailing,Mistral - Windsurfer men
+31,URU,angel segura,294.0,Athens 2004,Sailing,Mistral - Windsurfer men
+32,BUL,veselin nanev,305.0,Athens 2004,Sailing,Mistral - Windsurfer men
+33,SVK,martin lapos,309.0,Athens 2004,Sailing,Mistral - Windsurfer men
+0,BRA,robert scheidt,55.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+1,AUT,andreas geritzer,68.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+2,SLO,vasilij zbogar,76.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+3,GBR,paul goodison,81.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+4,POR,gustavo lima,88.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+5,SWE,karl suneson,104.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+6,NZL,hamish pepper,108.3,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+7,USA,mark mendelblatt,111.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+8,AUS,michael blackburn,112.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+9,ESP,luis martinez,120.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+10,POL,maciej grabowski,125.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+11,ARG,diego emilio romero,134.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+12,ITA,diego negri,139.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+13,CRO,mate arapov,139.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+14,FRA,felix pruvot,143.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+15,GRE,evangelos cheimonas,155.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+16,RSA,gareth blanckenberg,156.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+17,BEL,philippe bergmans,159.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+18,FIN,roope suomalainen,160.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+19,SEY,allen julie,166.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+20,NOR,peer moberg,198.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+21,DEN,anders nyholm,203.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+22,CHI,matias del solar,216.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+23,MAS,leong keat kevin lim,220.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+24,CZE,martin trcka,231.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+25,RUS,maxim semerkhanov,235.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+26,LTU,giedrius guzys,239.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+27,CYP,haris papadopoulos,244.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+28,CAN,bernard luttmer,245.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+29,IRL,rory fitzpatrick,248.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+30,CHN,qiang chi,251.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+31,KOR,ho-kon kim,255.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+32,TUR,kemal muslubas,256.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+33,URU,alejandro foglia,277.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+34,JPN,kunio suzuki,281.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+35,UKR,yuriy orlov,314.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+36,SGP,kheng siong tan,322.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+37,PER,augusto nicolini,329.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+38,MLT,mario aquilina,339.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+39,ISL,hafsteinn geirsson,344.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+40,ISV,timothy pitts,381.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+41,BRN,sami kooheji,384.0,Athens 2004,Sailing,single-handed dinghy open (Laser) mixed
+0,NOR,siren sundby,47.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+1,CZE,lenka smidova,65.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+2,DEN,signe livbjerg,74.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+3,AUS,sarah blanck,75.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+4,FIN,sari multala,85.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+5,ARG,serena amato,86.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+6,CHN,xiaoying shen,88.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+7,NZL,sarah macky,91.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+8,GRE,virginia kravarioti,94.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+9,GER,petra niemann,96.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+10,FRA,blandine rouille,97.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+11,MEX,tania elias calles wolf,98.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+12,ESP,neus garriga,108.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+13,USA,meg galliard,113.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+14,BEL,min dezillie,133.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+15,ITA,larissa nevierov,144.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+16,SLO,teja cerne,145.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+17,IRL,maria coleman,147.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+18,NED,carolijn brouwer,151.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+19,BLR,tatiana drozdovskaya,152.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+20,POL,monika bronicka,162.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+21,POR,joana pratas,169.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+22,GBR,laura baldwin,178.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+23,JPN,maiko sato,192.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+24,RUS,natalia ivanova,204.0,Athens 2004,Sailing,singlehanded dinghy Europe women
+0,BRA,marcelo ferreira,42.0,Athens 2004,Sailing,Star - Keelboat men
+1,CAN,ross macdonald,51.2,Athens 2004,Sailing,Star - Keelboat men
+2,FRA,xavier rohart,54.0,Athens 2004,Sailing,Star - Keelboat men
+3,SUI,flavio marazzi,70.0,Athens 2004,Sailing,Star - Keelboat men
+4,USA,phil trinter,71.0,Athens 2004,Sailing,Star - Keelboat men
+5,GBR,iain percy,73.0,Athens 2004,Sailing,Star - Keelboat men
+6,ITA,francesco bruni,75.0,Athens 2004,Sailing,Star - Keelboat men
+7,BER,lee white,82.0,Athens 2004,Sailing,Star - Keelboat men
+8,DEN,nicklas holm,83.0,Athens 2004,Sailing,Star - Keelboat men
+9,ESP,pablo arrarte,85.0,Athens 2004,Sailing,Star - Keelboat men
+10,GRE,georgios kontogouris,86.0,Athens 2004,Sailing,Star - Keelboat men
+11,SWE,fredrik loof,96.0,Athens 2004,Sailing,Star - Keelboat men
+12,AUT,andreas hanakamp,97.0,Athens 2004,Sailing,Star - Keelboat men
+13,NED,peter van niekerk,98.0,Athens 2004,Sailing,Star - Keelboat men
+14,AUS,david giles,98.0,Athens 2004,Sailing,Star - Keelboat men
+15,GER,alexander hagen,110.0,Athens 2004,Sailing,Star - Keelboat men
+16,IRL,mark mansfield,125.0,Athens 2004,Sailing,Star - Keelboat men
+0,,,34.0,Athens 2004,Sailing,Tornado - Multihull mixed
+1,,,45.0,Athens 2004,Sailing,Tornado - Multihull mixed
+2,,,54.0,Athens 2004,Sailing,Tornado - Multihull mixed
+3,,,57.0,Athens 2004,Sailing,Tornado - Multihull mixed
+4,,,61.0,Athens 2004,Sailing,Tornado - Multihull mixed
+5,,,62.0,Athens 2004,Sailing,Tornado - Multihull mixed
+6,,,72.0,Athens 2004,Sailing,Tornado - Multihull mixed
+7,,,74.8,Athens 2004,Sailing,Tornado - Multihull mixed
+8,,,76.0,Athens 2004,Sailing,Tornado - Multihull mixed
+9,,,78.0,Athens 2004,Sailing,Tornado - Multihull mixed
+10,,,94.0,Athens 2004,Sailing,Tornado - Multihull mixed
+11,,,95.0,Athens 2004,Sailing,Tornado - Multihull mixed
+12,,,112.0,Athens 2004,Sailing,Tornado - Multihull mixed
+13,,,113.0,Athens 2004,Sailing,Tornado - Multihull mixed
+14,,,114.0,Athens 2004,Sailing,Tornado - Multihull mixed
+15,,,122.0,Athens 2004,Sailing,Tornado - Multihull mixed
+16,,,155.0,Athens 2004,Sailing,Tornado - Multihull mixed
+0,,,39.0,Athens 2004,Sailing,Yngling - Keelboat women
+1,,,50.0,Athens 2004,Sailing,Yngling - Keelboat women
+2,,,54.0,Athens 2004,Sailing,Yngling - Keelboat women
+3,,,56.0,Athens 2004,Sailing,Yngling - Keelboat women
+4,,,57.0,Athens 2004,Sailing,Yngling - Keelboat women
+5,,,76.0,Athens 2004,Sailing,Yngling - Keelboat women
+6,,,77.0,Athens 2004,Sailing,Yngling - Keelboat women
+7,,,79.0,Athens 2004,Sailing,Yngling - Keelboat women
+8,,,85.0,Athens 2004,Sailing,Yngling - Keelboat women
+9,,,86.0,Athens 2004,Sailing,Yngling - Keelboat women
+10,,,86.0,Athens 2004,Sailing,Yngling - Keelboat women
+11,,,86.0,Athens 2004,Sailing,Yngling - Keelboat women
+12,,,92.0,Athens 2004,Sailing,Yngling - Keelboat women
+13,,,106.0,Athens 2004,Sailing,Yngling - Keelboat women
+14,,,108.0,Athens 2004,Sailing,Yngling - Keelboat women
+15,,,116.0,Athens 2004,Sailing,Yngling - Keelboat women

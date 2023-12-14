@@ -1,0 +1,94 @@
+,country,participant,result,olympic_game,discipline,event
+0,FRA,marina anissina,2.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+1,RUS,ilia averbukh,4.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+2,ITA,barbara fusar poli,6.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+3,CAN,shae-lynn bourne,8.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+4,LTU,margarita drobiazko,10.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+5,ISR,sergey sakhnovsky,12.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+6,BUL,maksim stavisky,14.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+7,GER,rene lohse,16.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+8,UKR,ruslan goncharov,19.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+9,RUS,roman kostomarov,19.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+10,USA,peter tchernyshev,22.2,Salt Lake City 2002,Figure skating,Ice dancing mixed
+11,CAN,patrice lauzon,23.8,Salt Lake City 2002,Figure skating,Ice dancing mixed
+12,POL,sebastian kolasinski,26.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+13,SUI,eliane hugentobler,28.4,Salt Lake City 2002,Figure skating,Ice dancing mixed
+14,GBR,marika humphreys,30.4,Salt Lake City 2002,Figure skating,Ice dancing mixed
+15,FRA,isabelle delobel,31.2,Salt Lake City 2002,Figure skating,Ice dancing mixed
+16,AZE,igor lukanin,34.6,Salt Lake City 2002,Figure skating,Ice dancing mixed
+17,ITA,massimo scali,35.4,Salt Lake City 2002,Figure skating,Ice dancing mixed
+18,ISR,natalia gudina,38.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+19,CZE,david szurman,40.4,Salt Lake City 2002,Figure skating,Ice dancing mixed
+20,UKR,yuliya holovina,43.4,Salt Lake City 2002,Figure skating,Ice dancing mixed
+21,CHN,weina zhang,44.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+22,USA,beata handra,44.2,Salt Lake City 2002,Figure skating,Ice dancing mixed
+23,KOR,tae-hwa yang,48.0,Salt Lake City 2002,Figure skating,Ice dancing mixed
+0,RUS,alexei yagudin,1.5,Salt Lake City 2002,Figure skating,Individual men
+1,RUS,evgeni viktorovich plushenko,4.0,Salt Lake City 2002,Figure skating,Individual men
+2,USA,timothy goebel,4.5,Salt Lake City 2002,Figure skating,Individual men
+3,JPN,takeshi honda,5.0,Salt Lake City 2002,Figure skating,Individual men
+4,RUS,alexander abt,7.5,Salt Lake City 2002,Figure skating,Individual men
+5,USA,todd eldredge,10.5,Salt Lake City 2002,Figure skating,Individual men
+6,USA,michael weiss,11.0,Salt Lake City 2002,Figure skating,Individual men
+7,CAN,elvis stojko,11.5,Salt Lake City 2002,Figure skating,Individual men
+8,CHN,chengjiang li,12.0,Salt Lake City 2002,Figure skating,Individual men
+9,AUS,anthony liu,15.0,Salt Lake City 2002,Figure skating,Individual men
+10,FRA,frederic dambier,16.5,Salt Lake City 2002,Figure skating,Individual men
+11,BEL,kevin van der perren,19.5,Salt Lake City 2002,Figure skating,Individual men
+12,BUL,ivan dinev,20.0,Salt Lake City 2002,Figure skating,Individual men
+13,FRA,brian joubert,20.5,Salt Lake City 2002,Figure skating,Individual men
+14,SUI,stephane lambiel,24.0,Salt Lake City 2002,Figure skating,Individual men
+15,CHN,min zhang,24.5,Salt Lake City 2002,Figure skating,Individual men
+16,GEO,vakhtang murvanidze,26.0,Salt Lake City 2002,Figure skating,Individual men
+17,UKR,dmytro dmytrenko,28.5,Salt Lake City 2002,Figure skating,Individual men
+18,UZB,roman skorniakov,29.0,Salt Lake City 2002,Figure skating,Individual men
+19,CHN,yunfei li,30.0,Salt Lake City 2002,Figure skating,Individual men
+20,BLR,sergei davydov,31.5,Salt Lake City 2002,Figure skating,Individual men
+21,JPN,yosuke takeuchi,32.0,Salt Lake City 2002,Figure skating,Individual men
+22,ROU,gheorghe chiper,32.5,Salt Lake City 2002,Figure skating,Individual men
+23,AZE,sergei rylov,33.0,Salt Lake City 2002,Figure skating,Individual men
+24,CAN,emanuel sandhu,Did not start,Salt Lake City 2002,Figure skating,Individual men
+0,USA,sarah hughes,3.0,Salt Lake City 2002,Figure skating,Individual women
+1,RUS,irina slutskaya,3.0,Salt Lake City 2002,Figure skating,Individual women
+2,USA,michelle kwan,3.5,Salt Lake City 2002,Figure skating,Individual women
+3,USA,sasha cohen,5.5,Salt Lake City 2002,Figure skating,Individual women
+4,JPN,fumie suguri,8.5,Salt Lake City 2002,Figure skating,Individual women
+5,RUS,maria butyrskaya,8.5,Salt Lake City 2002,Figure skating,Individual women
+6,CAN,jennifer robinson,11.0,Salt Lake City 2002,Figure skating,Individual women
+7,HUN,julia sebestyen,11.0,Salt Lake City 2002,Figure skating,Individual women
+8,RUS,viktoria volchkova,16.0,Salt Lake City 2002,Figure skating,Individual women
+9,ITA,silvia fontana,17.5,Salt Lake City 2002,Figure skating,Individual women
+10,FIN,elina kettunen,18.0,Salt Lake City 2002,Figure skating,Individual women
+11,UKR,halyna maniachenko-yefremenko,18.5,Salt Lake City 2002,Figure skating,Individual women
+12,SUI,sarah meier,20.5,Salt Lake City 2002,Figure skating,Individual women
+13,UKR,elena liashenko,21.0,Salt Lake City 2002,Figure skating,Individual women
+14,FRA,laetitia hubert,22.0,Salt Lake City 2002,Figure skating,Individual women
+15,FRA,vanessa gusmeroli,22.0,Salt Lake City 2002,Figure skating,Individual women
+16,JPN,yoshie onda,22.5,Salt Lake City 2002,Figure skating,Individual women
+17,BLR,julia soldatova,29.0,Salt Lake City 2002,Figure skating,Individual women
+18,CRO,idora hegel,30.5,Salt Lake City 2002,Figure skating,Individual women
+19,ITA,vanessa giunchi,30.5,Salt Lake City 2002,Figure skating,Individual women
+20,SVK,zuzana babiakova,31.0,Salt Lake City 2002,Figure skating,Individual women
+21,SLO,mojca kopac,31.5,Salt Lake City 2002,Figure skating,Individual women
+22,ROU,roxana luca,35.0,Salt Lake City 2002,Figure skating,Individual women
+0,RUS,elena berezhnaya,1.5,Salt Lake City 2002,Figure skating,Pairs mixed
+1,CAN,david pelletier,2.0,Salt Lake City 2002,Figure skating,Pairs mixed
+2,CHN,xue shen,4.5,Salt Lake City 2002,Figure skating,Pairs mixed
+3,RUS,tatyana totmyanina,6.0,Salt Lake City 2002,Figure skating,Pairs mixed
+4,USA,john zimmerman,7.5,Salt Lake City 2002,Figure skating,Pairs mixed
+5,RUS,alexei tikhonov,9.0,Salt Lake City 2002,Figure skating,Pairs mixed
+6,POL,dorota zagorska,11.0,Salt Lake City 2002,Figure skating,Pairs mixed
+7,CZE,katerina berankova,11.5,Salt Lake City 2002,Figure skating,Pairs mixed
+8,CHN,jian tong,14.0,Salt Lake City 2002,Figure skating,Pairs mixed
+9,CAN,lenny faustino,16.5,Salt Lake City 2002,Figure skating,Pairs mixed
+10,CHN,dan zhang,16.5,Salt Lake City 2002,Figure skating,Pairs mixed
+11,CAN,patrice archetto,18.0,Salt Lake City 2002,Figure skating,Pairs mixed
+12,USA,philip dulebohn,18.5,Salt Lake City 2002,Figure skating,Pairs mixed
+13,GER,mariana kautz,21.0,Salt Lake City 2002,Figure skating,Pairs mixed
+14,UKR,aljona savchenko,22.0,Salt Lake City 2002,Figure skating,Pairs mixed
+15,UKR,tetiana chuvaieva,23.5,Salt Lake City 2002,Figure skating,Pairs mixed
+16,SVK,jozef bestandig,25.5,Salt Lake City 2002,Figure skating,Pairs mixed
+17,UZB,nataliya ponomaryova,27.0,Salt Lake City 2002,Figure skating,Pairs mixed
+18,ITA,michela cobisi,28.5,Salt Lake City 2002,Figure skating,Pairs mixed
+19,ARM,maria krasiltseva,30.0,Salt Lake City 2002,Figure skating,Pairs mixed
+20,PRK,yong myong phyo,Did not start,Salt Lake City 2002,Figure skating,Pairs mixed

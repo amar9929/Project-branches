@@ -1,0 +1,590 @@
+,country,participant,result,olympic_game,discipline,event
+0,GER,sven fischer,00:26:11.600,Turin 2006,Biathlon,10km men
+1,NOR,halvard hanevold,00:26:19.800,Turin 2006,Biathlon,10km men
+2,NOR,frode andresen,00:26:31.300,Turin 2006,Biathlon,10km men
+3,FRA,vincent defrasne,00:26:54.200,Turin 2006,Biathlon,10km men
+4,RUS,ivan cherezov,00:27:09.000,Turin 2006,Biathlon,10km men
+5,GER,ricco gross,00:27:15.100,Turin 2006,Biathlon,10km men
+6,SWE,mattias jr. nilsson,00:27:18.500,Turin 2006,Biathlon,10km men
+7,FRA,raphael poiree,00:27:19.000,Turin 2006,Biathlon,10km men
+8,RUS,maksim chudov,00:27:20.500,Turin 2006,Biathlon,10km men
+9,CZE,zdenek vitek,00:27:24.400,Turin 2006,Biathlon,10km men
+10,NOR,ole einar bjørndalen,00:27:25.500,Turin 2006,Biathlon,10km men
+11,LAT,ilmars bricis,00:27:26.900,Turin 2006,Biathlon,10km men
+12,SWE,bjorn ferry,00:27:31.100,Turin 2006,Biathlon,10km men
+13,GER,alexander wolf,00:27:34.500,Turin 2006,Biathlon,10km men
+14,AUT,christoph sumann,00:27:42.300,Turin 2006,Biathlon,10km men
+15,NOR,stian eckhoff,00:27:48.000,Turin 2006,Biathlon,10km men
+16,CHN,chengye zhang,00:27:50.900,Turin 2006,Biathlon,10km men
+17,FRA,julien robert,00:27:54.100,Turin 2006,Biathlon,10km men
+18,POL,tomasz sikora,00:27:54.300,Turin 2006,Biathlon,10km men
+19,BUL,vitaliy rudenchik,00:27:59.100,Turin 2006,Biathlon,10km men
+20,RUS,nikolay kruglov,00:28:05.200,Turin 2006,Biathlon,10km men
+21,ITA,wilfried pallhuber,00:28:05.600,Turin 2006,Biathlon,10km men
+22,RUS,sergey chepikov,00:28:08.100,Turin 2006,Biathlon,10km men
+23,BLR,rustam valiullin,00:28:08.400,Turin 2006,Biathlon,10km men
+24,POL,wieslaw ziemianin,00:28:10.100,Turin 2006,Biathlon,10km men
+25,ITA,christian de lorenzi,00:28:14.500,Turin 2006,Biathlon,10km men
+26,UKR,andriy deryzemlya,00:28:15.200,Turin 2006,Biathlon,10km men
+27,BLR,oleg ryzhenkov,00:28:15.900,Turin 2006,Biathlon,10km men
+28,SVK,pavol hurajt,00:28:17.800,Turin 2006,Biathlon,10km men
+29,BLR,sergey novikov,00:28:18.500,Turin 2006,Biathlon,10km men
+30,FRA,ferreol cannard,00:28:19.700,Turin 2006,Biathlon,10km men
+31,CZE,ondrej moravec,00:28:20.300,Turin 2006,Biathlon,10km men
+32,GER,michael greis,00:28:22.900,Turin 2006,Biathlon,10km men
+33,UKR,oleksander bilanenko,00:28:26.600,Turin 2006,Biathlon,10km men
+34,USA,tim burke,00:28:27.800,Turin 2006,Biathlon,10km men
+35,SLO,janez maric,00:28:28.600,Turin 2006,Biathlon,10km men
+36,SWE,david ekholm,00:28:33.300,Turin 2006,Biathlon,10km men
+37,JPN,hidenori isa,00:28:37.100,Turin 2006,Biathlon,10km men
+38,ITA,rene laurent vuillermoz,00:28:46.700,Turin 2006,Biathlon,10km men
+39,EST,indrek tobreluts,00:28:47.500,Turin 2006,Biathlon,10km men
+40,CAN,david leoni,00:28:50.400,Turin 2006,Biathlon,10km men
+41,CZE,roman dostal,00:28:50.600,Turin 2006,Biathlon,10km men
+42,SUI,matthias simmen,00:28:56.300,Turin 2006,Biathlon,10km men
+43,UKR,ruslan lysenko,00:28:56.600,Turin 2006,Biathlon,10km men
+44,FIN,paavo puurunen,00:28:57.300,Turin 2006,Biathlon,10km men
+45,USA,lowell bailey,00:29:02.000,Turin 2006,Biathlon,10km men
+46,JPN,tatsumi kasahara,00:29:07.000,Turin 2006,Biathlon,10km men
+47,LAT,janis berzins,00:29:09.900,Turin 2006,Biathlon,10km men
+48,LAT,raivis zimelis,00:29:11.400,Turin 2006,Biathlon,10km men
+49,CAN,robin clegg,00:29:12.400,Turin 2006,Biathlon,10km men
+50,SVK,miroslav matiasko,00:29:13.000,Turin 2006,Biathlon,10km men
+51,AUT,ludwig gredler,00:29:17.600,Turin 2006,Biathlon,10km men
+52,SWE,carl johan bergman,00:29:21.500,Turin 2006,Biathlon,10km men
+53,LAT,kristaps libietis,00:29:21.900,Turin 2006,Biathlon,10km men
+54,CZE,michal slesingr,00:29:22.900,Turin 2006,Biathlon,10km men
+55,KAZ,aleksandr chervyakov,00:29:27.100,Turin 2006,Biathlon,10km men
+56,SVK,matej kazar,00:29:29.400,Turin 2006,Biathlon,10km men
+57,EST,roland lessing,00:29:30.700,Turin 2006,Biathlon,10km men
+58,CAN,jean-philippe le guellec,00:29:32.300,Turin 2006,Biathlon,10km men
+59,USA,jeremy teela,00:29:32.700,Turin 2006,Biathlon,10km men
+60,BLR,vladimir drachev,00:29:48.300,Turin 2006,Biathlon,10km men
+61,JPN,daisuke ebisawa,00:29:49.700,Turin 2006,Biathlon,10km men
+62,SLO,matjaz poklukar,00:30:00.600,Turin 2006,Biathlon,10km men
+63,POL,michal piecha,00:30:01.600,Turin 2006,Biathlon,10km men
+64,SUI,simon hallenbarter,00:30:05.700,Turin 2006,Biathlon,10km men
+65,ITA,sergio bonaldi,00:30:06.700,Turin 2006,Biathlon,10km men
+66,POL,grzegorz bodziana,00:30:08.400,Turin 2006,Biathlon,10km men
+67,SLO,janez ozbolt,00:30:08.800,Turin 2006,Biathlon,10km men
+68,SLO,klemen bauer,00:30:09.300,Turin 2006,Biathlon,10km men
+69,JPN,kyoji suga,00:30:10.600,Turin 2006,Biathlon,10km men
+70,SVK,marek matiasko,00:30:11.000,Turin 2006,Biathlon,10km men
+71,UKR,vyacheslav derkach,00:30:15.800,Turin 2006,Biathlon,10km men
+72,EST,dimitri borovik,00:30:31.600,Turin 2006,Biathlon,10km men
+73,HUN,imre tagscherer,00:30:38.100,Turin 2006,Biathlon,10km men
+74,EST,janno prants,00:30:41.000,Turin 2006,Biathlon,10km men
+75,ROU,marian blaj,00:30:44.400,Turin 2006,Biathlon,10km men
+76,GBR,tom clemens,00:31:05.000,Turin 2006,Biathlon,10km men
+77,USA,jay hakkinen,00:31:22.200,Turin 2006,Biathlon,10km men
+78,KOR,yoon-bae park,00:31:29.500,Turin 2006,Biathlon,10km men
+79,AUS,cameron morton,00:32:07.400,Turin 2006,Biathlon,10km men
+80,MDA,mihail gribusencov,00:32:17.600,Turin 2006,Biathlon,10km men
+81,ESP,luis alberto hernando,00:32:26.000,Turin 2006,Biathlon,10km men
+82,GRE,stavros cristoforidis,00:32:48.300,Turin 2006,Biathlon,10km men
+83,BIH,miro cosic,00:32:56.100,Turin 2006,Biathlon,10km men
+84,SCG,aleksandar milenkovic,00:33:17.700,Turin 2006,Biathlon,10km men
+85,ARG,sebastian beltrame,00:33:32.400,Turin 2006,Biathlon,10km men
+86,CHI,marco zuniga,00:33:38.100,Turin 2006,Biathlon,10km men
+87,LTU,karolis zlatkauskas,00:34:33.800,Turin 2006,Biathlon,10km men
+88,AUT,wolfgang perner,Disqualified,Turin 2006,Biathlon,10km men
+89,AUT,wolfgang rottmann,Disqualified,Turin 2006,Biathlon,10km men
+0,GER,sven fischer,00:26:11.600,Turin 2006,Biathlon,10km pursuit women
+1,NOR,halvard hanevold,00:26:19.800,Turin 2006,Biathlon,10km pursuit women
+2,NOR,frode andresen,00:26:31.300,Turin 2006,Biathlon,10km pursuit women
+3,FRA,vincent defrasne,00:26:54.200,Turin 2006,Biathlon,10km pursuit women
+4,RUS,ivan cherezov,00:27:09.000,Turin 2006,Biathlon,10km pursuit women
+5,GER,ricco gross,00:27:15.100,Turin 2006,Biathlon,10km pursuit women
+6,SWE,mattias jr. nilsson,00:27:18.500,Turin 2006,Biathlon,10km pursuit women
+7,FRA,raphael poiree,00:27:19.000,Turin 2006,Biathlon,10km pursuit women
+8,RUS,maksim chudov,00:27:20.500,Turin 2006,Biathlon,10km pursuit women
+9,CZE,zdenek vitek,00:27:24.400,Turin 2006,Biathlon,10km pursuit women
+10,NOR,ole einar bjørndalen,00:27:25.500,Turin 2006,Biathlon,10km pursuit women
+11,LAT,ilmars bricis,00:27:26.900,Turin 2006,Biathlon,10km pursuit women
+12,SWE,bjorn ferry,00:27:31.100,Turin 2006,Biathlon,10km pursuit women
+13,GER,alexander wolf,00:27:34.500,Turin 2006,Biathlon,10km pursuit women
+14,AUT,christoph sumann,00:27:42.300,Turin 2006,Biathlon,10km pursuit women
+15,NOR,stian eckhoff,00:27:48.000,Turin 2006,Biathlon,10km pursuit women
+16,CHN,chengye zhang,00:27:50.900,Turin 2006,Biathlon,10km pursuit women
+17,FRA,julien robert,00:27:54.100,Turin 2006,Biathlon,10km pursuit women
+18,POL,tomasz sikora,00:27:54.300,Turin 2006,Biathlon,10km pursuit women
+19,BUL,vitaliy rudenchik,00:27:59.100,Turin 2006,Biathlon,10km pursuit women
+20,RUS,nikolay kruglov,00:28:05.200,Turin 2006,Biathlon,10km pursuit women
+21,ITA,wilfried pallhuber,00:28:05.600,Turin 2006,Biathlon,10km pursuit women
+22,RUS,sergey chepikov,00:28:08.100,Turin 2006,Biathlon,10km pursuit women
+23,BLR,rustam valiullin,00:28:08.400,Turin 2006,Biathlon,10km pursuit women
+24,POL,wieslaw ziemianin,00:28:10.100,Turin 2006,Biathlon,10km pursuit women
+25,ITA,christian de lorenzi,00:28:14.500,Turin 2006,Biathlon,10km pursuit women
+26,UKR,andriy deryzemlya,00:28:15.200,Turin 2006,Biathlon,10km pursuit women
+27,BLR,oleg ryzhenkov,00:28:15.900,Turin 2006,Biathlon,10km pursuit women
+28,SVK,pavol hurajt,00:28:17.800,Turin 2006,Biathlon,10km pursuit women
+29,BLR,sergey novikov,00:28:18.500,Turin 2006,Biathlon,10km pursuit women
+30,FRA,ferreol cannard,00:28:19.700,Turin 2006,Biathlon,10km pursuit women
+31,CZE,ondrej moravec,00:28:20.300,Turin 2006,Biathlon,10km pursuit women
+32,GER,michael greis,00:28:22.900,Turin 2006,Biathlon,10km pursuit women
+33,UKR,oleksander bilanenko,00:28:26.600,Turin 2006,Biathlon,10km pursuit women
+34,USA,tim burke,00:28:27.800,Turin 2006,Biathlon,10km pursuit women
+35,SLO,janez maric,00:28:28.600,Turin 2006,Biathlon,10km pursuit women
+36,SWE,david ekholm,00:28:33.300,Turin 2006,Biathlon,10km pursuit women
+37,JPN,hidenori isa,00:28:37.100,Turin 2006,Biathlon,10km pursuit women
+38,ITA,rene laurent vuillermoz,00:28:46.700,Turin 2006,Biathlon,10km pursuit women
+39,EST,indrek tobreluts,00:28:47.500,Turin 2006,Biathlon,10km pursuit women
+40,CAN,david leoni,00:28:50.400,Turin 2006,Biathlon,10km pursuit women
+41,CZE,roman dostal,00:28:50.600,Turin 2006,Biathlon,10km pursuit women
+42,SUI,matthias simmen,00:28:56.300,Turin 2006,Biathlon,10km pursuit women
+43,UKR,ruslan lysenko,00:28:56.600,Turin 2006,Biathlon,10km pursuit women
+44,FIN,paavo puurunen,00:28:57.300,Turin 2006,Biathlon,10km pursuit women
+45,USA,lowell bailey,00:29:02.000,Turin 2006,Biathlon,10km pursuit women
+46,JPN,tatsumi kasahara,00:29:07.000,Turin 2006,Biathlon,10km pursuit women
+47,LAT,janis berzins,00:29:09.900,Turin 2006,Biathlon,10km pursuit women
+48,LAT,raivis zimelis,00:29:11.400,Turin 2006,Biathlon,10km pursuit women
+49,CAN,robin clegg,00:29:12.400,Turin 2006,Biathlon,10km pursuit women
+50,SVK,miroslav matiasko,00:29:13.000,Turin 2006,Biathlon,10km pursuit women
+51,AUT,ludwig gredler,00:29:17.600,Turin 2006,Biathlon,10km pursuit women
+52,SWE,carl johan bergman,00:29:21.500,Turin 2006,Biathlon,10km pursuit women
+53,LAT,kristaps libietis,00:29:21.900,Turin 2006,Biathlon,10km pursuit women
+54,CZE,michal slesingr,00:29:22.900,Turin 2006,Biathlon,10km pursuit women
+55,KAZ,aleksandr chervyakov,00:29:27.100,Turin 2006,Biathlon,10km pursuit women
+56,SVK,matej kazar,00:29:29.400,Turin 2006,Biathlon,10km pursuit women
+57,EST,roland lessing,00:29:30.700,Turin 2006,Biathlon,10km pursuit women
+58,CAN,jean-philippe le guellec,00:29:32.300,Turin 2006,Biathlon,10km pursuit women
+59,USA,jeremy teela,00:29:32.700,Turin 2006,Biathlon,10km pursuit women
+60,BLR,vladimir drachev,00:29:48.300,Turin 2006,Biathlon,10km pursuit women
+61,JPN,daisuke ebisawa,00:29:49.700,Turin 2006,Biathlon,10km pursuit women
+62,SLO,matjaz poklukar,00:30:00.600,Turin 2006,Biathlon,10km pursuit women
+63,POL,michal piecha,00:30:01.600,Turin 2006,Biathlon,10km pursuit women
+64,SUI,simon hallenbarter,00:30:05.700,Turin 2006,Biathlon,10km pursuit women
+65,ITA,sergio bonaldi,00:30:06.700,Turin 2006,Biathlon,10km pursuit women
+66,POL,grzegorz bodziana,00:30:08.400,Turin 2006,Biathlon,10km pursuit women
+67,SLO,janez ozbolt,00:30:08.800,Turin 2006,Biathlon,10km pursuit women
+68,SLO,klemen bauer,00:30:09.300,Turin 2006,Biathlon,10km pursuit women
+69,JPN,kyoji suga,00:30:10.600,Turin 2006,Biathlon,10km pursuit women
+70,SVK,marek matiasko,00:30:11.000,Turin 2006,Biathlon,10km pursuit women
+71,UKR,vyacheslav derkach,00:30:15.800,Turin 2006,Biathlon,10km pursuit women
+72,EST,dimitri borovik,00:30:31.600,Turin 2006,Biathlon,10km pursuit women
+73,HUN,imre tagscherer,00:30:38.100,Turin 2006,Biathlon,10km pursuit women
+74,EST,janno prants,00:30:41.000,Turin 2006,Biathlon,10km pursuit women
+75,ROU,marian blaj,00:30:44.400,Turin 2006,Biathlon,10km pursuit women
+76,GBR,tom clemens,00:31:05.000,Turin 2006,Biathlon,10km pursuit women
+77,USA,jay hakkinen,00:31:22.200,Turin 2006,Biathlon,10km pursuit women
+78,KOR,yoon-bae park,00:31:29.500,Turin 2006,Biathlon,10km pursuit women
+79,AUS,cameron morton,00:32:07.400,Turin 2006,Biathlon,10km pursuit women
+80,MDA,mihail gribusencov,00:32:17.600,Turin 2006,Biathlon,10km pursuit women
+81,ESP,luis alberto hernando,00:32:26.000,Turin 2006,Biathlon,10km pursuit women
+82,GRE,stavros cristoforidis,00:32:48.300,Turin 2006,Biathlon,10km pursuit women
+83,BIH,miro cosic,00:32:56.100,Turin 2006,Biathlon,10km pursuit women
+84,SCG,aleksandar milenkovic,00:33:17.700,Turin 2006,Biathlon,10km pursuit women
+85,ARG,sebastian beltrame,00:33:32.400,Turin 2006,Biathlon,10km pursuit women
+86,CHI,marco zuniga,00:33:38.100,Turin 2006,Biathlon,10km pursuit women
+87,LTU,karolis zlatkauskas,00:34:33.800,Turin 2006,Biathlon,10km pursuit women
+88,AUT,wolfgang perner,Disqualified,Turin 2006,Biathlon,10km pursuit women
+89,AUT,wolfgang rottmann,Disqualified,Turin 2006,Biathlon,10km pursuit women
+0,SWE,anna-carin olofsson,00:40:36.500,Turin 2006,Biathlon,12.5km mass start women
+1,GER,kati wilhelm,00:40:55.300,Turin 2006,Biathlon,12.5km mass start women
+2,GER,uschi disl,00:41:18.400,Turin 2006,Biathlon,12.5km mass start women
+3,GER,martina glagow,00:41:33.600,Turin 2006,Biathlon,12.5km mass start women
+4,FRA,florence baverel-robert,00:41:40.500,Turin 2006,Biathlon,12.5km mass start women
+5,BLR,olga nazarova,00:41:50.500,Turin 2006,Biathlon,12.5km mass start women
+6,CHN,xianying liu,00:41:57.200,Turin 2006,Biathlon,12.5km mass start women
+7,BUL,ekaterina dafovska,00:42:09.400,Turin 2006,Biathlon,12.5km mass start women
+8,RUS,albina akhatova,00:42:19.500,Turin 2006,Biathlon,12.5km mass start women
+9,FRA,sandrine bailly,00:42:21.500,Turin 2006,Biathlon,12.5km mass start women
+10,ITA,michela ponza,00:42:21.600,Turin 2006,Biathlon,12.5km mass start women
+11,RUS,svetlana ishmouratova,00:42:33.500,Turin 2006,Biathlon,12.5km mass start women
+12,GER,andrea henkel,00:42:41.500,Turin 2006,Biathlon,12.5km mass start women
+13,NOR,linda tjoerhom,00:42:46.500,Turin 2006,Biathlon,12.5km mass start women
+14,RUS,olga zaytseva,00:42:58.300,Turin 2006,Biathlon,12.5km mass start women
+15,BLR,alena ohurtsana-zubrilava,00:43:12.300,Turin 2006,Biathlon,12.5km mass start women
+16,UKR,liliya yefremova,00:43:21.000,Turin 2006,Biathlon,12.5km mass start women
+17,NOR,liv grete poiree,00:43:43.800,Turin 2006,Biathlon,12.5km mass start women
+18,SLO,teja gregorin,00:43:51.400,Turin 2006,Biathlon,12.5km mass start women
+19,LAT,madara liduma,00:43:52.700,Turin 2006,Biathlon,12.5km mass start women
+20,MDA,natalia levtchenkova,00:44:21.800,Turin 2006,Biathlon,12.5km mass start women
+21,CHN,ribo sun,00:44:29.300,Turin 2006,Biathlon,12.5km mass start women
+22,CHN,yingchao kong,00:44:45.000,Turin 2006,Biathlon,12.5km mass start women
+23,RUS,natalia guseva,00:44:55.100,Turin 2006,Biathlon,12.5km mass start women
+24,NOR,tora berger,00:45:23.200,Turin 2006,Biathlon,12.5km mass start women
+25,FRA,sylvie becaert,00:45:38.400,Turin 2006,Biathlon,12.5km mass start women
+26,FRA,delphyne peretto,00:45:39.900,Turin 2006,Biathlon,12.5km mass start women
+27,CHN,yuxia hou,00:45:40.100,Turin 2006,Biathlon,12.5km mass start women
+28,POL,magdalena gwizdon,00:45:59.500,Turin 2006,Biathlon,12.5km mass start women
+29,POL,krystyna guzik,00:46:31.500,Turin 2006,Biathlon,12.5km mass start women
+0,FRA,vincent defrasne,00:35:20.200,Turin 2006,Biathlon,12.5km pursuit men
+1,NOR,ole einar bjørndalen,00:35:22.900,Turin 2006,Biathlon,12.5km pursuit men
+2,GER,sven fischer,00:35:35.800,Turin 2006,Biathlon,12.5km pursuit men
+3,LAT,ilmars bricis,00:35:46.900,Turin 2006,Biathlon,12.5km pursuit men
+4,NOR,halvard hanevold,00:35:57.700,Turin 2006,Biathlon,12.5km pursuit men
+5,NOR,frode andresen,00:36:16.900,Turin 2006,Biathlon,12.5km pursuit men
+6,AUT,christoph sumann,00:36:39.700,Turin 2006,Biathlon,12.5km pursuit men
+7,GER,michael greis,00:36:39.900,Turin 2006,Biathlon,12.5km pursuit men
+8,RUS,maksim chudov,00:36:41.400,Turin 2006,Biathlon,12.5km pursuit men
+9,FRA,julien robert,00:37:15.900,Turin 2006,Biathlon,12.5km pursuit men
+10,RUS,nikolay kruglov,00:37:18.900,Turin 2006,Biathlon,12.5km pursuit men
+11,GER,ricco gross,00:37:23.500,Turin 2006,Biathlon,12.5km pursuit men
+12,ITA,rene laurent vuillermoz,00:37:27.300,Turin 2006,Biathlon,12.5km pursuit men
+13,ITA,christian de lorenzi,00:37:28.500,Turin 2006,Biathlon,12.5km pursuit men
+14,RUS,ivan cherezov,00:37:29.700,Turin 2006,Biathlon,12.5km pursuit men
+15,CZE,zdenek vitek,00:37:30.200,Turin 2006,Biathlon,12.5km pursuit men
+16,ITA,wilfried pallhuber,00:37:30.300,Turin 2006,Biathlon,12.5km pursuit men
+17,POL,tomasz sikora,00:37:31.600,Turin 2006,Biathlon,12.5km pursuit men
+18,GER,alexander wolf,00:37:35.400,Turin 2006,Biathlon,12.5km pursuit men
+19,SWE,mattias jr. nilsson,00:37:47.400,Turin 2006,Biathlon,12.5km pursuit men
+20,NOR,stian eckhoff,00:38:00.200,Turin 2006,Biathlon,12.5km pursuit men
+21,FIN,paavo puurunen,00:38:01.200,Turin 2006,Biathlon,12.5km pursuit men
+22,SUI,matthias simmen,00:38:08.800,Turin 2006,Biathlon,12.5km pursuit men
+23,SVK,pavol hurajt,00:38:20.600,Turin 2006,Biathlon,12.5km pursuit men
+24,SWE,bjorn ferry,00:38:25.500,Turin 2006,Biathlon,12.5km pursuit men
+25,BLR,rustam valiullin,00:38:32.700,Turin 2006,Biathlon,12.5km pursuit men
+26,BLR,oleg ryzhenkov,00:38:37.800,Turin 2006,Biathlon,12.5km pursuit men
+27,POL,wieslaw ziemianin,00:38:42.300,Turin 2006,Biathlon,12.5km pursuit men
+28,CZE,roman dostal,00:38:48.000,Turin 2006,Biathlon,12.5km pursuit men
+29,BLR,sergey novikov,00:38:49.600,Turin 2006,Biathlon,12.5km pursuit men
+30,UKR,andriy deryzemlya,00:38:54.300,Turin 2006,Biathlon,12.5km pursuit men
+31,CZE,michal slesingr,00:39:03.700,Turin 2006,Biathlon,12.5km pursuit men
+32,BUL,vitaliy rudenchik,00:39:04.700,Turin 2006,Biathlon,12.5km pursuit men
+33,CHN,chengye zhang,00:39:04.700,Turin 2006,Biathlon,12.5km pursuit men
+34,JPN,hidenori isa,00:39:11.200,Turin 2006,Biathlon,12.5km pursuit men
+35,USA,tim burke,00:39:17.600,Turin 2006,Biathlon,12.5km pursuit men
+36,SLO,janez maric,00:39:42.400,Turin 2006,Biathlon,12.5km pursuit men
+37,SWE,david ekholm,00:39:43.800,Turin 2006,Biathlon,12.5km pursuit men
+38,CZE,ondrej moravec,00:39:52.300,Turin 2006,Biathlon,12.5km pursuit men
+39,FRA,ferreol cannard,00:40:07.700,Turin 2006,Biathlon,12.5km pursuit men
+40,UKR,ruslan lysenko,00:40:16.400,Turin 2006,Biathlon,12.5km pursuit men
+41,LAT,janis berzins,00:40:22.800,Turin 2006,Biathlon,12.5km pursuit men
+42,EST,indrek tobreluts,00:40:25.800,Turin 2006,Biathlon,12.5km pursuit men
+43,CAN,robin clegg,00:40:30.300,Turin 2006,Biathlon,12.5km pursuit men
+44,AUT,ludwig gredler,00:40:57.500,Turin 2006,Biathlon,12.5km pursuit men
+45,LAT,raivis zimelis,00:40:58.000,Turin 2006,Biathlon,12.5km pursuit men
+46,CAN,david leoni,00:41:07.400,Turin 2006,Biathlon,12.5km pursuit men
+47,USA,lowell bailey,00:41:31.300,Turin 2006,Biathlon,12.5km pursuit men
+48,SVK,miroslav matiasko,00:41:32.500,Turin 2006,Biathlon,12.5km pursuit men
+49,JPN,tatsumi kasahara,00:41:42.000,Turin 2006,Biathlon,12.5km pursuit men
+50,EST,roland lessing,00:41:53.400,Turin 2006,Biathlon,12.5km pursuit men
+51,SVK,matej kazar,00:42:46.600,Turin 2006,Biathlon,12.5km pursuit men
+52,KAZ,aleksandr chervyakov,00:43:28.400,Turin 2006,Biathlon,12.5km pursuit men
+53,LAT,kristaps libietis,00:43:51.200,Turin 2006,Biathlon,12.5km pursuit men
+54,FRA,raphael poiree,Did not finish,Turin 2006,Biathlon,12.5km pursuit men
+55,AUT,wolfgang rottmann,(doping positive),Turin 2006,Biathlon,12.5km pursuit men
+56,AUT,wolfgang perner,(doping positive),Turin 2006,Biathlon,12.5km pursuit men
+57,RUS,sergey chepikov,Did not start,Turin 2006,Biathlon,12.5km pursuit men
+58,UKR,oleksander bilanenko,Did not start,Turin 2006,Biathlon,12.5km pursuit men
+59,SWE,carl johan bergman,Did not start,Turin 2006,Biathlon,12.5km pursuit men
+0,GER,michael greis,00:47:20.000,Turin 2006,Biathlon,15km mass start men
+1,POL,tomasz sikora,00:47:26.300,Turin 2006,Biathlon,15km mass start men
+2,NOR,ole einar bjørndalen,00:47:32.300,Turin 2006,Biathlon,15km mass start men
+3,FIN,paavo puurunen,00:47:43.700,Turin 2006,Biathlon,15km mass start men
+4,RUS,sergey chepikov,00:47:59.100,Turin 2006,Biathlon,15km mass start men
+5,NOR,emil hegle svendsen,00:48:13.800,Turin 2006,Biathlon,15km mass start men
+6,NOR,halvard hanevold,00:48:14.900,Turin 2006,Biathlon,15km mass start men
+7,GER,alexander wolf,00:48:15.300,Turin 2006,Biathlon,15km mass start men
+8,AUT,christoph sumann,00:48:17.400,Turin 2006,Biathlon,15km mass start men
+9,GER,michael roesch,00:48:19.900,Turin 2006,Biathlon,15km mass start men
+10,FRA,vincent defrasne,00:48:20.700,Turin 2006,Biathlon,15km mass start men
+11,FRA,raphael poiree,00:48:24.900,Turin 2006,Biathlon,15km mass start men
+12,USA,jay hakkinen,00:48:29.600,Turin 2006,Biathlon,15km mass start men
+13,SWE,mattias jr. nilsson,00:48:37.700,Turin 2006,Biathlon,15km mass start men
+14,RUS,maksim chudov,00:48:40.200,Turin 2006,Biathlon,15km mass start men
+15,FRA,julien robert,00:48:51.800,Turin 2006,Biathlon,15km mass start men
+16,GER,sven fischer,00:48:53.700,Turin 2006,Biathlon,15km mass start men
+17,SWE,bjorn ferry,00:48:56.400,Turin 2006,Biathlon,15km mass start men
+18,NOR,frode andresen,00:49:03.600,Turin 2006,Biathlon,15km mass start men
+19,RUS,sergei rozhkov,00:49:09.700,Turin 2006,Biathlon,15km mass start men
+20,RUS,nikolay kruglov,00:49:20.100,Turin 2006,Biathlon,15km mass start men
+21,CZE,zdenek vitek,00:49:21.300,Turin 2006,Biathlon,15km mass start men
+22,CZE,roman dostal,00:49:29.900,Turin 2006,Biathlon,15km mass start men
+23,ITA,wilfried pallhuber,00:49:41.500,Turin 2006,Biathlon,15km mass start men
+24,ITA,rene laurent vuillermoz,00:49:53.100,Turin 2006,Biathlon,15km mass start men
+25,ITA,christian de lorenzi,00:49:59.600,Turin 2006,Biathlon,15km mass start men
+26,SVK,marek matiasko,00:50:11.100,Turin 2006,Biathlon,15km mass start men
+27,LAT,ilmars bricis,00:50:27.600,Turin 2006,Biathlon,15km mass start men
+28,SWE,carl johan bergman,00:50:54.400,Turin 2006,Biathlon,15km mass start men
+29,JPN,kyoji suga,00:52:01.600,Turin 2006,Biathlon,15km mass start men
+0,RUS,svetlana ishmouratova,00:49:24.100,Turin 2006,Biathlon,15km women
+1,GER,martina glagow,00:50:34.900,Turin 2006,Biathlon,15km women
+2,RUS,albina akhatova,00:50:55.000,Turin 2006,Biathlon,15km women
+3,GER,andrea henkel,00:51:46.300,Turin 2006,Biathlon,15km women
+4,POL,krystyna guzik,00:51:50.700,Turin 2006,Biathlon,15km women
+5,FRA,sandrine bailly,00:51:58.200,Turin 2006,Biathlon,15km women
+6,BLR,olga nazarova,00:51:59.600,Turin 2006,Biathlon,15km women
+7,MDA,natalia levtchenkova,00:52:11.700,Turin 2006,Biathlon,15km women
+8,NOR,liv grete poiree,00:52:22.000,Turin 2006,Biathlon,15km women
+9,LAT,madara liduma,00:52:27.200,Turin 2006,Biathlon,15km women
+10,BUL,ekaterina dafovska,00:52:45.100,Turin 2006,Biathlon,15km women
+11,GER,uschi disl,00:52:49.700,Turin 2006,Biathlon,15km women
+12,NOR,tora berger,00:52:53.400,Turin 2006,Biathlon,15km women
+13,BLR,alena ohurtsana-zubrilava,00:52:55.600,Turin 2006,Biathlon,15km women
+14,SWE,anna-carin olofsson,00:52:55.800,Turin 2006,Biathlon,15km women
+15,GER,kati wilhelm,00:52:59.000,Turin 2006,Biathlon,15km women
+16,ITA,michela ponza,00:53:01.400,Turin 2006,Biathlon,15km women
+17,SLO,teja gregorin,00:53:03.700,Turin 2006,Biathlon,15km women
+18,ROU,eva tofalvi,00:53:04.300,Turin 2006,Biathlon,15km women
+19,UKR,oksana khvostenko,00:53:22.500,Turin 2006,Biathlon,15km women
+20,SLO,andreja mali,00:53:46.000,Turin 2006,Biathlon,15km women
+21,SVK,marcela pavkovcekova,00:53:52.800,Turin 2006,Biathlon,15km women
+22,CHN,xianying liu,00:53:55.600,Turin 2006,Biathlon,15km women
+23,FRA,sylvie becaert,00:53:59.000,Turin 2006,Biathlon,15km women
+24,CHN,yingchao kong,00:54:03.500,Turin 2006,Biathlon,15km women
+25,FRA,florence baverel-robert,00:54:14.100,Turin 2006,Biathlon,15km women
+26,CAN,zina kocher,00:54:18.800,Turin 2006,Biathlon,15km women
+27,BUL,irina nikoultchina,00:54:29.300,Turin 2006,Biathlon,15km women
+28,UKR,olena petrova,00:54:35.600,Turin 2006,Biathlon,15km women
+29,SLO,dijana grudicek-ravnikar,00:55:01.300,Turin 2006,Biathlon,15km women
+30,CHN,qiao yin,00:55:06.200,Turin 2006,Biathlon,15km women
+31,JPN,tamami tanaka,00:55:10.500,Turin 2006,Biathlon,15km women
+32,POL,magdalena gwizdon,00:55:17.500,Turin 2006,Biathlon,15km women
+33,SVK,martina halinarova,00:55:17.700,Turin 2006,Biathlon,15km women
+34,RUS,anna bogali,00:55:18.400,Turin 2006,Biathlon,15km women
+35,UKR,liliya yefremova,00:55:28.000,Turin 2006,Biathlon,15km women
+36,JPN,kanae meguro,00:55:28.400,Turin 2006,Biathlon,15km women
+37,ITA,barbara ertl,00:55:30.000,Turin 2006,Biathlon,15km women
+38,SLO,tadeja brankovic,00:55:38.900,Turin 2006,Biathlon,15km women
+39,FRA,delphyne peretto,00:55:40.500,Turin 2006,Biathlon,15km women
+40,USA,rachel steer,00:55:48.300,Turin 2006,Biathlon,15km women
+41,CAN,sandra keith,00:55:56.300,Turin 2006,Biathlon,15km women
+42,BUL,pavlina filipova,00:56:07.700,Turin 2006,Biathlon,15km women
+43,BLR,ekaterina ivanova,00:56:09.700,Turin 2006,Biathlon,15km women
+44,CZE,katerina holubcova,00:56:17.900,Turin 2006,Biathlon,15km women
+45,UKR,valj semerenko,00:56:22.600,Turin 2006,Biathlon,15km women
+46,SVK,sona mihokova,00:56:29.500,Turin 2006,Biathlon,15km women
+47,LAT,anzela brice,00:56:30.500,Turin 2006,Biathlon,15km women
+48,KAZ,anna lebedeva,00:56:46.500,Turin 2006,Biathlon,15km women
+49,NOR,linda tjoerhom,00:56:47.800,Turin 2006,Biathlon,15km women
+50,ITA,saskia santer,00:56:52.100,Turin 2006,Biathlon,15km women
+51,ITA,nathalie santer,00:57:08.400,Turin 2006,Biathlon,15km women
+52,CZE,zdenka vejnarova,00:57:14.300,Turin 2006,Biathlon,15km women
+53,BUL,nina kadeva,00:57:15.000,Turin 2006,Biathlon,15km women
+54,JPN,ikuyo tsukidate,00:57:20.400,Turin 2006,Biathlon,15km women
+55,POL,katarzyna ponikwia,00:57:32.700,Turin 2006,Biathlon,15km women
+56,USA,tracy barnes,00:57:58.000,Turin 2006,Biathlon,15km women
+57,CHN,yuxia hou,00:58:35.700,Turin 2006,Biathlon,15km women
+58,SVK,jana gerekova,00:58:37.200,Turin 2006,Biathlon,15km women
+59,NOR,gunn margit andreassen,00:59:04.300,Turin 2006,Biathlon,15km women
+60,CZE,magda rezlerova,00:59:18.000,Turin 2006,Biathlon,15km women
+61,USA,sarah konrad,00:59:33.100,Turin 2006,Biathlon,15km women
+62,LAT,linda savlaka,00:59:44.300,Turin 2006,Biathlon,15km women
+63,USA,lanny barnes,00:59:46.200,Turin 2006,Biathlon,15km women
+64,CAN,martine albert,00:59:52.100,Turin 2006,Biathlon,15km women
+65,LTU,diana rasimoviciute,01:00:04.400,Turin 2006,Biathlon,15km women
+66,CZE,irena cesnekova,01:00:08.000,Turin 2006,Biathlon,15km women
+67,ROU,alexandra rusu,01:00:13.700,Turin 2006,Biathlon,15km women
+68,JPN,tomomi otaka,01:00:22.200,Turin 2006,Biathlon,15km women
+69,LAT,gerda krumina,01:00:26.100,Turin 2006,Biathlon,15km women
+70,POL,magdalena grzywa,01:00:41.300,Turin 2006,Biathlon,15km women
+71,ROU,dana cojocea,01:00:45.500,Turin 2006,Biathlon,15km women
+72,EST,eveli saue,01:00:53.600,Turin 2006,Biathlon,15km women
+73,BIH,aleksandra vasiljevic,01:01:11.800,Turin 2006,Biathlon,15km women
+74,ROU,mihaela purdea,01:02:11.500,Turin 2006,Biathlon,15km women
+75,BLR,kseniya zikunkova,01:02:17.500,Turin 2006,Biathlon,15km women
+76,CAN,marie pierre parent,01:02:57.100,Turin 2006,Biathlon,15km women
+77,GBR,emma fowler,01:03:38.900,Turin 2006,Biathlon,15km women
+78,CRO,petra starcevic,01:06:49.600,Turin 2006,Biathlon,15km women
+79,HUN,zsófia gottschall,01:08:17.300,Turin 2006,Biathlon,15km women
+80,CHI,veronica isbej,01:14:55.300,Turin 2006,Biathlon,15km women
+81,RUS,olga pyleva,Disqualified,Turin 2006,Biathlon,15km women
+0,GER,michael greis,00:54:23.000,Turin 2006,Biathlon,20km men
+1,NOR,ole einar bjørndalen,00:54:39.000,Turin 2006,Biathlon,20km men
+2,NOR,halvard hanevold,00:55:31.900,Turin 2006,Biathlon,20km men
+3,RUS,sergey chepikov,00:55:32.700,Turin 2006,Biathlon,20km men
+4,SVK,marek matiasko,00:55:48.600,Turin 2006,Biathlon,20km men
+5,FRA,julien robert,00:55:59.400,Turin 2006,Biathlon,20km men
+6,ITA,christian de lorenzi,00:56:04.000,Turin 2006,Biathlon,20km men
+7,RUS,ivan cherezov,00:56:05.700,Turin 2006,Biathlon,20km men
+8,ITA,wilfried pallhuber,00:56:08.400,Turin 2006,Biathlon,20km men
+9,USA,jay hakkinen,00:56:10.900,Turin 2006,Biathlon,20km men
+10,GER,ricco gross,00:56:14.300,Turin 2006,Biathlon,20km men
+11,FIN,paavo puurunen,00:56:38.900,Turin 2006,Biathlon,20km men
+12,RUS,pavel rostovtsev,00:56:47.200,Turin 2006,Biathlon,20km men
+13,JPN,kyoji suga,00:56:57.700,Turin 2006,Biathlon,20km men
+14,NOR,frode andresen,00:57:10.200,Turin 2006,Biathlon,20km men
+15,NOR,stian eckhoff,00:57:11.800,Turin 2006,Biathlon,20km men
+16,GER,sven fischer,00:57:14.300,Turin 2006,Biathlon,20km men
+17,UKR,ruslan lysenko,00:57:16.600,Turin 2006,Biathlon,20km men
+18,LAT,ilmars bricis,00:57:19.200,Turin 2006,Biathlon,20km men
+19,FRA,raphael poiree,00:57:21.100,Turin 2006,Biathlon,20km men
+20,POL,tomasz sikora,00:57:22.100,Turin 2006,Biathlon,20km men
+21,CZE,zdenek vitek,00:57:26.800,Turin 2006,Biathlon,20km men
+22,SWE,carl johan bergman,00:57:30.900,Turin 2006,Biathlon,20km men
+23,BLR,sergey novikov,00:58:02.600,Turin 2006,Biathlon,20km men
+24,ITA,rene laurent vuillermoz,00:58:17.900,Turin 2006,Biathlon,20km men
+25,AUT,friedrich pinter,00:58:25.700,Turin 2006,Biathlon,20km men
+26,USA,lowell bailey,00:58:45.100,Turin 2006,Biathlon,20km men
+27,SWE,bjorn ferry,00:58:49.000,Turin 2006,Biathlon,20km men
+28,SVK,pavol hurajt,00:58:49.600,Turin 2006,Biathlon,20km men
+29,CZE,roman dostal,00:58:53.500,Turin 2006,Biathlon,20km men
+30,FRA,simon fourcade,00:59:01.700,Turin 2006,Biathlon,20km men
+31,RUS,maksim chudov,00:59:12.000,Turin 2006,Biathlon,20km men
+32,CZE,tomas holubec,00:59:13.100,Turin 2006,Biathlon,20km men
+33,FRA,vincent defrasne,00:59:16.100,Turin 2006,Biathlon,20km men
+34,SWE,david ekholm,00:59:18.200,Turin 2006,Biathlon,20km men
+35,CAN,robin clegg,00:59:21.500,Turin 2006,Biathlon,20km men
+36,LAT,janis berzins,00:59:24.300,Turin 2006,Biathlon,20km men
+37,SVK,miroslav matiasko,00:59:43.800,Turin 2006,Biathlon,20km men
+38,UKR,andriy deryzemlya,00:59:47.200,Turin 2006,Biathlon,20km men
+39,SLO,janez maric,00:59:53.000,Turin 2006,Biathlon,20km men
+40,AUT,ludwig gredler,00:59:55.100,Turin 2006,Biathlon,20km men
+41,GER,michael roesch,00:59:56.600,Turin 2006,Biathlon,20km men
+42,BLR,vladimir drachev,00:59:59.500,Turin 2006,Biathlon,20km men
+43,SWE,mattias jr. nilsson,01:00:01.100,Turin 2006,Biathlon,20km men
+44,CZE,michal slesingr,01:00:03.800,Turin 2006,Biathlon,20km men
+45,BLR,rustam valiullin,01:00:04.100,Turin 2006,Biathlon,20km men
+46,SLO,matjaz poklukar,01:00:07.600,Turin 2006,Biathlon,20km men
+47,CAN,jean-philippe le guellec,01:00:28.000,Turin 2006,Biathlon,20km men
+48,UKR,oleksander bilanenko,01:00:28.600,Turin 2006,Biathlon,20km men
+49,CHN,chengye zhang,01:00:49.100,Turin 2006,Biathlon,20km men
+50,USA,jeremy teela,01:01:03.300,Turin 2006,Biathlon,20km men
+51,SUI,matthias simmen,01:01:04.900,Turin 2006,Biathlon,20km men
+52,POL,wieslaw ziemianin,01:01:16.000,Turin 2006,Biathlon,20km men
+53,UKR,oleksiy korobeinikov,01:01:17.800,Turin 2006,Biathlon,20km men
+54,ITA,paolo longo,01:01:27.900,Turin 2006,Biathlon,20km men
+55,SVK,dusan simocko,01:01:37.800,Turin 2006,Biathlon,20km men
+56,GBR,tom clemens,01:01:43.900,Turin 2006,Biathlon,20km men
+57,USA,tim burke,01:01:55.000,Turin 2006,Biathlon,20km men
+58,AUT,daniel mesotitsch,01:01:59.700,Turin 2006,Biathlon,20km men
+59,SLO,klemen bauer,01:02:25.500,Turin 2006,Biathlon,20km men
+60,BUL,vitaliy rudenchik,01:02:30.000,Turin 2006,Biathlon,20km men
+61,EST,roland lessing,01:02:31.200,Turin 2006,Biathlon,20km men
+62,JPN,hidenori isa,01:02:33.200,Turin 2006,Biathlon,20km men
+63,CAN,david leoni,01:02:37.800,Turin 2006,Biathlon,20km men
+64,ROU,marian blaj,01:02:38.800,Turin 2006,Biathlon,20km men
+65,EST,indrek tobreluts,01:02:43.600,Turin 2006,Biathlon,20km men
+66,JPN,tatsumi kasahara,01:02:44.600,Turin 2006,Biathlon,20km men
+67,LAT,kristaps libietis,01:03:13.400,Turin 2006,Biathlon,20km men
+68,SLO,janez ozbolt,01:03:18.500,Turin 2006,Biathlon,20km men
+69,EST,dimitri borovik,01:03:25.800,Turin 2006,Biathlon,20km men
+70,BLR,aleksandr syman,01:03:31.400,Turin 2006,Biathlon,20km men
+71,POL,grzegorz bodziana,01:03:39.600,Turin 2006,Biathlon,20km men
+72,KAZ,aleksandr chervyakov,01:03:56.400,Turin 2006,Biathlon,20km men
+73,EST,priit viks,01:04:08.100,Turin 2006,Biathlon,20km men
+74,POL,krzysztof plywaczyk,01:04:12.900,Turin 2006,Biathlon,20km men
+75,SUI,simon hallenbarter,01:04:37.000,Turin 2006,Biathlon,20km men
+76,HUN,imre tagscherer,01:05:11.100,Turin 2006,Biathlon,20km men
+77,JPN,shinya saito,01:05:29.400,Turin 2006,Biathlon,20km men
+78,LAT,edgars piksons,01:06:12.500,Turin 2006,Biathlon,20km men
+79,ESP,luis alberto hernando,01:06:54.400,Turin 2006,Biathlon,20km men
+80,KOR,yoon-bae park,01:07:03.400,Turin 2006,Biathlon,20km men
+81,AUS,cameron morton,01:07:03.700,Turin 2006,Biathlon,20km men
+82,BIH,miro cosic,01:08:32.700,Turin 2006,Biathlon,20km men
+83,ARG,sebastian beltrame,01:09:24.300,Turin 2006,Biathlon,20km men
+84,SCG,aleksandar milenkovic,01:10:36.300,Turin 2006,Biathlon,20km men
+85,CHI,marco zuniga,01:11:02.500,Turin 2006,Biathlon,20km men
+86,GRE,stavros cristoforidis,01:13:13.300,Turin 2006,Biathlon,20km men
+87,AUT,wolfgang perner,Disqualified,Turin 2006,Biathlon,20km men
+88,MDA,mihail gribusencov,Did not start,Turin 2006,Biathlon,20km men
+0,,,01:16:12.500,Turin 2006,Biathlon,4x6km relay women
+1,,,01:17:03.200,Turin 2006,Biathlon,4x6km relay women
+2,,,01:18:38.700,Turin 2006,Biathlon,4x6km relay women
+3,,,01:19:19.600,Turin 2006,Biathlon,4x6km relay women
+4,,,01:19:34.400,Turin 2006,Biathlon,4x6km relay women
+5,,,01:19:55.700,Turin 2006,Biathlon,4x6km relay women
+6,,,01:20:29.300,Turin 2006,Biathlon,4x6km relay women
+7,,,01:20:38.700,Turin 2006,Biathlon,4x6km relay women
+8,,,01:21:43.700,Turin 2006,Biathlon,4x6km relay women
+9,,,01:21:55.500,Turin 2006,Biathlon,4x6km relay women
+10,,,01:21:55.500,Turin 2006,Biathlon,4x6km relay women
+11,,,01:22:42.700,Turin 2006,Biathlon,4x6km relay women
+12,,,01:24:14.800,Turin 2006,Biathlon,4x6km relay women
+13,,,01:25:13.300,Turin 2006,Biathlon,4x6km relay women
+14,,,01:25:20.300,Turin 2006,Biathlon,4x6km relay women
+15,,,01:26:09.000,Turin 2006,Biathlon,4x6km relay women
+16,,,01:26:09.700,Turin 2006,Biathlon,4x6km relay women
+17,,,01:26:21.300,Turin 2006,Biathlon,4x6km relay women
+0,,,01:21:51.500,Turin 2006,Biathlon,4x7.5km relay men
+1,,,01:22:12.400,Turin 2006,Biathlon,4x7.5km relay men
+2,,,01:22:35.100,Turin 2006,Biathlon,4x7.5km relay men
+3,,,01:22:35.100,Turin 2006,Biathlon,4x7.5km relay men
+4,,,01:23:03.600,Turin 2006,Biathlon,4x7.5km relay men
+5,,,01:23:04.000,Turin 2006,Biathlon,4x7.5km relay men
+6,,,01:23:40.400,Turin 2006,Biathlon,4x7.5km relay men
+7,,,01:23:40.900,Turin 2006,Biathlon,4x7.5km relay men
+8,,,01:24:23.400,Turin 2006,Biathlon,4x7.5km relay men
+9,,,01:25:01.400,Turin 2006,Biathlon,4x7.5km relay men
+10,,,01:25:04.100,Turin 2006,Biathlon,4x7.5km relay men
+11,,,01:25:15.600,Turin 2006,Biathlon,4x7.5km relay men
+12,,,01:26:57.000,Turin 2006,Biathlon,4x7.5km relay men
+13,,,01:27:44.900,Turin 2006,Biathlon,4x7.5km relay men
+14,,,01:27:48.900,Turin 2006,Biathlon,4x7.5km relay men
+15,,,01:28:10.600,Turin 2006,Biathlon,4x7.5km relay men
+16,,,01:28:26.400,Turin 2006,Biathlon,4x7.5km relay men
+0,FRA,florence baverel-robert,00:22:31.400,Turin 2006,Biathlon,7.5km women
+1,SWE,anna-carin olofsson,00:22:33.800,Turin 2006,Biathlon,7.5km women
+2,UKR,liliya yefremova,00:22:38.000,Turin 2006,Biathlon,7.5km women
+3,RUS,albina akhatova,00:22:40.200,Turin 2006,Biathlon,7.5km women
+4,BLR,alena ohurtsana-zubrilava,00:22:40.500,Turin 2006,Biathlon,7.5km women
+5,FRA,sandrine bailly,00:22:43.000,Turin 2006,Biathlon,7.5km women
+6,GER,kati wilhelm,00:22:49.800,Turin 2006,Biathlon,7.5km women
+7,BLR,olga nazarova,00:22:53.200,Turin 2006,Biathlon,7.5km women
+8,RUS,olga zaytseva,00:23:05.800,Turin 2006,Biathlon,7.5km women
+9,RUS,svetlana ishmouratova,00:23:10.300,Turin 2006,Biathlon,7.5km women
+10,CHN,xianying liu,00:23:17.500,Turin 2006,Biathlon,7.5km women
+11,NOR,liv grete poiree,00:23:20.000,Turin 2006,Biathlon,7.5km women
+12,ITA,michela ponza,00:23:27.200,Turin 2006,Biathlon,7.5km women
+13,FRA,delphyne peretto,00:23:31.200,Turin 2006,Biathlon,7.5km women
+14,SLO,teja gregorin,00:23:31.200,Turin 2006,Biathlon,7.5km women
+15,SVK,martina halinarova,00:23:32.800,Turin 2006,Biathlon,7.5km women
+16,GER,martina glagow,00:23:35.900,Turin 2006,Biathlon,7.5km women
+17,LTU,diana rasimoviciute,00:23:48.100,Turin 2006,Biathlon,7.5km women
+18,NOR,linda tjoerhom,00:23:48.500,Turin 2006,Biathlon,7.5km women
+19,POL,magdalena gwizdon,00:23:54.700,Turin 2006,Biathlon,7.5km women
+20,CHN,ribo sun,00:23:57.600,Turin 2006,Biathlon,7.5km women
+21,GER,katrin apel,00:24:04.900,Turin 2006,Biathlon,7.5km women
+22,NOR,tora berger,00:24:05.800,Turin 2006,Biathlon,7.5km women
+23,CHN,yingchao kong,00:24:07.000,Turin 2006,Biathlon,7.5km women
+24,POL,krystyna guzik,00:24:07.300,Turin 2006,Biathlon,7.5km women
+25,ITA,nathalie santer,00:24:09.500,Turin 2006,Biathlon,7.5km women
+26,SVK,sona mihokova,00:24:09.900,Turin 2006,Biathlon,7.5km women
+27,LAT,madara liduma,00:24:11.000,Turin 2006,Biathlon,7.5km women
+28,SVK,marcela pavkovcekova,00:24:11.100,Turin 2006,Biathlon,7.5km women
+29,FRA,sylvie becaert,00:24:12.900,Turin 2006,Biathlon,7.5km women
+30,SLO,tadeja brankovic,00:24:14.100,Turin 2006,Biathlon,7.5km women
+31,CZE,lenka faltusova,00:24:16.900,Turin 2006,Biathlon,7.5km women
+32,BUL,ekaterina dafovska,00:24:23.200,Turin 2006,Biathlon,7.5km women
+33,GER,uschi disl,00:24:29.100,Turin 2006,Biathlon,7.5km women
+34,USA,rachel steer,00:24:29.600,Turin 2006,Biathlon,7.5km women
+35,BUL,irina nikoultchina,00:24:30.000,Turin 2006,Biathlon,7.5km women
+36,BLR,ekaterina ivanova,00:24:30.800,Turin 2006,Biathlon,7.5km women
+37,SVK,anna murinova,00:24:32.100,Turin 2006,Biathlon,7.5km women
+38,CZE,katerina holubcova,00:24:33.300,Turin 2006,Biathlon,7.5km women
+39,NOR,gro kristiansen,00:24:34.000,Turin 2006,Biathlon,7.5km women
+40,MDA,natalia levtchenkova,00:24:34.200,Turin 2006,Biathlon,7.5km women
+41,BLR,lyudmila ananko,00:24:36.100,Turin 2006,Biathlon,7.5km women
+42,CZE,zdenka vejnarova,00:24:46.400,Turin 2006,Biathlon,7.5km women
+43,UKR,olena petrova,00:24:52.200,Turin 2006,Biathlon,7.5km women
+44,ROU,alexandra rusu,00:24:52.500,Turin 2006,Biathlon,7.5km women
+45,BUL,pavlina filipova,00:24:53.300,Turin 2006,Biathlon,7.5km women
+46,EST,eveli saue,00:24:55.400,Turin 2006,Biathlon,7.5km women
+47,ROU,dana cojocea,00:25:01.700,Turin 2006,Biathlon,7.5km women
+48,UKR,oksana khvostenko,00:25:10.100,Turin 2006,Biathlon,7.5km women
+49,UKR,nina lemesh,00:25:13.500,Turin 2006,Biathlon,7.5km women
+50,JPN,ikuyo tsukidate,00:25:17.000,Turin 2006,Biathlon,7.5km women
+51,KAZ,anna lebedeva,00:25:21.800,Turin 2006,Biathlon,7.5km women
+52,ITA,katja haller,00:25:22.600,Turin 2006,Biathlon,7.5km women
+53,CHN,yuxia hou,00:25:25.800,Turin 2006,Biathlon,7.5km women
+54,SLO,dijana grudicek-ravnikar,00:25:28.600,Turin 2006,Biathlon,7.5km women
+55,POL,magdalena nykiel,00:25:32.200,Turin 2006,Biathlon,7.5km women
+56,ITA,saskia santer,00:25:42.600,Turin 2006,Biathlon,7.5km women
+57,BUL,radka popova,00:26:01.100,Turin 2006,Biathlon,7.5km women
+58,SLO,andreja mali,00:26:02.500,Turin 2006,Biathlon,7.5km women
+59,LAT,anzela brice,00:26:03.100,Turin 2006,Biathlon,7.5km women
+60,CZE,magda rezlerova,00:26:06.700,Turin 2006,Biathlon,7.5km women
+61,CAN,zina kocher,00:26:11.100,Turin 2006,Biathlon,7.5km women
+62,POL,katarzyna ponikwia,00:26:17.300,Turin 2006,Biathlon,7.5km women
+63,JPN,kanae meguro,00:26:19.900,Turin 2006,Biathlon,7.5km women
+64,JPN,tamami tanaka,00:26:20.600,Turin 2006,Biathlon,7.5km women
+65,CAN,sandra keith,00:26:20.700,Turin 2006,Biathlon,7.5km women
+66,GBR,emma fowler,00:26:22.900,Turin 2006,Biathlon,7.5km women
+67,MDA,elena gorohova,00:26:23.900,Turin 2006,Biathlon,7.5km women
+68,JPN,tomomi otaka,00:26:28.700,Turin 2006,Biathlon,7.5km women
+69,ROU,eva tofalvi,00:26:38.300,Turin 2006,Biathlon,7.5km women
+70,USA,tracy barnes,00:26:47.900,Turin 2006,Biathlon,7.5km women
+71,LAT,linda savlaka,00:26:54.600,Turin 2006,Biathlon,7.5km women
+72,CAN,martine albert,00:27:04.400,Turin 2006,Biathlon,7.5km women
+73,LAT,gerda krumina,00:27:30.500,Turin 2006,Biathlon,7.5km women
+74,USA,sarah konrad,00:27:30.600,Turin 2006,Biathlon,7.5km women
+75,CAN,marie pierre parent,00:27:31.100,Turin 2006,Biathlon,7.5km women
+76,ROU,mihaela purdea,00:27:32.700,Turin 2006,Biathlon,7.5km women
+77,BIH,aleksandra vasiljevic,00:28:10.900,Turin 2006,Biathlon,7.5km women
+78,CRO,petra starcevic,00:28:11.900,Turin 2006,Biathlon,7.5km women
+79,USA,carolyn treacy,00:28:18.700,Turin 2006,Biathlon,7.5km women
+80,MDA,valentina ciurina,00:30:04.200,Turin 2006,Biathlon,7.5km women
+81,HUN,zsófia gottschall,00:31:09.100,Turin 2006,Biathlon,7.5km women
+82,CHI,veronica isbej,00:33:52.000,Turin 2006,Biathlon,7.5km women

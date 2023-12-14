@@ -1,0 +1,143 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,adolph gustav kiefer,00:01:05.900,Berlin 1936,Swimming,100m backstroke men
+1,USA,al vande weghe,00:01:07.700,Berlin 1936,Swimming,100m backstroke men
+2,JPN,masaji kiyokawa,00:01:08.400,Berlin 1936,Swimming,100m backstroke men
+3,USA,taylor drysdale,00:01:09.400,Berlin 1936,Swimming,100m backstroke men
+4,JPN,kiichi yoshida,00:01:09.700,Berlin 1936,Swimming,100m backstroke men
+5,JPN,yasuhiko kojima,00:01:10.400,Berlin 1936,Swimming,100m backstroke men
+6,AUS,percival cole oliver,00:01:10.700,Berlin 1936,Swimming,100m backstroke men
+7,AUT,kurt patuzzi,Did not start,Berlin 1936,Swimming,100m backstroke men
+8,BER,edmund cooper,Did not start,Berlin 1936,Swimming,100m backstroke men
+9,BER,ross doe,Did not start,Berlin 1936,Swimming,100m backstroke men
+10,FIN,heikki ilmari niemeläinen,Did not start,Berlin 1936,Swimming,100m backstroke men
+11,HUN,ferenc csik,Did not start,Berlin 1936,Swimming,100m backstroke men
+12,HUN,sándor barócsy,Did not start,Berlin 1936,Swimming,100m backstroke men
+13,PER,daniel carpio,Did not start,Berlin 1936,Swimming,100m backstroke men
+14,YUG,boris praunsperger,Did not start,Berlin 1936,Swimming,100m backstroke men
+0,NED,dina willemina jacoba senff,00:01:18.900,Berlin 1936,Swimming,100m backstroke women
+1,NED,hendrika mastenbroek,00:01:19.200,Berlin 1936,Swimming,100m backstroke women
+2,USA,alice w. bridges,00:01:19.400,Berlin 1936,Swimming,100m backstroke women
+3,USA,edith motridge,00:01:19.600,Berlin 1936,Swimming,100m backstroke women
+4,DEN,tove brunnstrom madsen,00:01:20.400,Berlin 1936,Swimming,100m backstroke women
+5,GBR,lorna frampton,00:01:20.600,Berlin 1936,Swimming,100m backstroke women
+6,GBR,phyllis harding,00:01:21.500,Berlin 1936,Swimming,100m backstroke women
+7,CAN,irene pirie-milton,Did not start,Berlin 1936,Swimming,100m backstroke women
+0,HUN,ferenc csik,57.600,Berlin 1936,Swimming,100m freestyle men
+1,JPN,masanori yusa,57.900,Berlin 1936,Swimming,100m freestyle men
+2,JPN,shigeo arai,58.000,Berlin 1936,Swimming,100m freestyle men
+3,JPN,masaharu taguchi,58.100,Berlin 1936,Swimming,100m freestyle men
+4,GER,helmuth fischer,59.300,Berlin 1936,Swimming,100m freestyle men
+5,USA,peter joseph fick,59.700,Berlin 1936,Swimming,100m freestyle men
+6,USA,arthur lindegren,59.900,Berlin 1936,Swimming,100m freestyle men
+7,BEL,jan guillini,Did not start,Berlin 1936,Swimming,100m freestyle men
+8,FRA,alfred nakache,Did not start,Berlin 1936,Swimming,100m freestyle men
+9,PER,walter ledgard,Did not start,Berlin 1936,Swimming,100m freestyle men
+10,SUI,alfred doria,Did not start,Berlin 1936,Swimming,100m freestyle men
+11,SUI,victor dunand,Did not start,Berlin 1936,Swimming,100m freestyle men
+12,YUG,darko prvan,Did not start,Berlin 1936,Swimming,100m freestyle men
+13,BRA,manoel rocha villar,Did not start,Berlin 1936,Swimming,100m freestyle men
+0,NED,hendrika mastenbroek,00:01:05.900,Berlin 1936,Swimming,100m freestyle women
+1,ARG,jeanette morven campbell,00:01:06.400,Berlin 1936,Swimming,100m freestyle women
+2,GER,gisela arendt-jacobs,00:01:06.600,Berlin 1936,Swimming,100m freestyle women
+3,NED,willemyntje (willy) den ouden,00:01:07.600,Berlin 1936,Swimming,100m freestyle women
+4,NED,catharina (tini) willemina wagner,00:01:08.100,Berlin 1936,Swimming,100m freestyle women
+5,USA,mary olive mckean,00:01:08.400,Berlin 1936,Swimming,100m freestyle women
+6,USA,katherine louise rawls,00:01:08.700,Berlin 1936,Swimming,100m freestyle women
+7,BEL,jeanne de rademaecker-eyckmans,Did not start,Berlin 1936,Swimming,100m freestyle women
+8,BRA,sieglinde lenk-zigler,Did not start,Berlin 1936,Swimming,100m freestyle women
+9,SUI,annie villiger,Did not start,Berlin 1936,Swimming,100m freestyle women
+10,TCH,vera klatovska,Did not start,Berlin 1936,Swimming,100m freestyle women
+0,JPN,noboru terada,00:19:13.700,Berlin 1936,Swimming,1500m freestyle men
+1,USA,jack c. medica,00:19:34.000,Berlin 1936,Swimming,1500m freestyle men
+2,JPN,shunpei uto,00:19:34.500,Berlin 1936,Swimming,1500m freestyle men
+3,JPN,sunao ishiharada,00:19:48.500,Berlin 1936,Swimming,1500m freestyle men
+4,USA,ralph drew flanagan,00:19:54.800,Berlin 1936,Swimming,1500m freestyle men
+5,GBR,robert hanford joachim leivers,00:19:57.400,Berlin 1936,Swimming,1500m freestyle men
+6,GER,heinz arendt,00:19:59.000,Berlin 1936,Swimming,1500m freestyle men
+7,AUT,kurt patuzzi,Did not start,Berlin 1936,Swimming,1500m freestyle men
+8,CHI,jorge berroeta,Did not start,Berlin 1936,Swimming,1500m freestyle men
+9,CHI,washington guzman,Did not start,Berlin 1936,Swimming,1500m freestyle men
+10,EGY,mahmoud kadri,Did not start,Berlin 1936,Swimming,1500m freestyle men
+11,HUN,ödön grof,Did not start,Berlin 1936,Swimming,1500m freestyle men
+12,HUN,arpad lengyel,Did not start,Berlin 1936,Swimming,1500m freestyle men
+13,URU,maximino garcia,Did not start,Berlin 1936,Swimming,1500m freestyle men
+0,JPN,tetsuo hamuro,00:02:41.500,Berlin 1936,Swimming,200m breaststroke men
+1,GER,erwin sietas,00:02:42.900,Berlin 1936,Swimming,200m breaststroke men
+2,JPN,reizo koike,00:02:44.200,Berlin 1936,Swimming,200m breaststroke men
+3,USA,john herbert higgins,00:02:45.200,Berlin 1936,Swimming,200m breaststroke men
+4,JPN,saburo ito,00:02:47.600,Berlin 1936,Swimming,200m breaststroke men
+5,GER,joachim (jochen) balke,00:02:47.800,Berlin 1936,Swimming,200m breaststroke men
+6,PHI,teofilo yldefonso,00:02:51.100,Berlin 1936,Swimming,200m breaststroke men
+7,BER,leonard spence,Disqualified,Berlin 1936,Swimming,200m breaststroke men
+8,CHI,jorge berroeta,Disqualified,Berlin 1936,Swimming,200m breaststroke men
+9,CHI,carlos reed,Disqualified,Berlin 1936,Swimming,200m breaststroke men
+10,AUT,karl schäfer,Did not start,Berlin 1936,Swimming,200m breaststroke men
+11,AUT,hans girg,Did not start,Berlin 1936,Swimming,200m breaststroke men
+12,HUN,sándor barócsy,Did not start,Berlin 1936,Swimming,200m breaststroke men
+13,MLT,fortune pippo schembri,Did not start,Berlin 1936,Swimming,200m breaststroke men
+14,PER,conrado kuhn,Did not start,Berlin 1936,Swimming,200m breaststroke men
+15,SUI,auguste keel,Did not start,Berlin 1936,Swimming,200m breaststroke men
+16,SUI,paul schütz,Did not start,Berlin 1936,Swimming,200m breaststroke men
+17,SUI,kurt zimmermann,Did not start,Berlin 1936,Swimming,200m breaststroke men
+18,HUN,ferenc csik,Did not start,Berlin 1936,Swimming,200m breaststroke men
+0,JPN,hideko maehata,00:03:03.600,Berlin 1936,Swimming,200m breaststroke women
+1,GER,martha genenger,00:03:04.200,Berlin 1936,Swimming,200m breaststroke women
+2,DEN,inge sörensen,00:03:07.800,Berlin 1936,Swimming,200m breaststroke women
+3,GER,hanni hölzner,00:03:09.500,Berlin 1936,Swimming,200m breaststroke women
+4,NED,johanna maria elizabeth waalberg,00:03:09.500,Berlin 1936,Swimming,200m breaststroke women
+5,GBR,doris storey,00:03:09.700,Berlin 1936,Swimming,200m breaststroke women
+6,NED,jeanette hermine kastein,00:03:12.800,Berlin 1936,Swimming,200m breaststroke women
+7,AUT,elfriede freudenreich,Did not start,Berlin 1936,Swimming,200m breaststroke women
+8,AUT,josefine steiner,Did not start,Berlin 1936,Swimming,200m breaststroke women
+9,USA,dorothea dickinson,Did not start,Berlin 1936,Swimming,200m breaststroke women
+0,USA,jack c. medica,00:04:44.500,Berlin 1936,Swimming,400m freestyle men
+1,JPN,shunpei uto,00:04:45.600,Berlin 1936,Swimming,400m freestyle men
+2,JPN,shozo makino,00:04:48.100,Berlin 1936,Swimming,400m freestyle men
+3,USA,ralph drew flanagan,00:04:52.700,Berlin 1936,Swimming,400m freestyle men
+4,JPN,hiroshi negami,00:04:53.600,Berlin 1936,Swimming,400m freestyle men
+5,FRA,jean taris,00:04:53.800,Berlin 1936,Swimming,400m freestyle men
+6,GBR,robert hanford joachim leivers,00:05:00.900,Berlin 1936,Swimming,400m freestyle men
+7,AUT,günther zobernig,Did not start,Berlin 1936,Swimming,400m freestyle men
+8,BER,dudley spurling,Did not start,Berlin 1936,Swimming,400m freestyle men
+9,CHN,charlie chan,Did not start,Berlin 1936,Swimming,400m freestyle men
+10,EGY,mahmoud kadri,Did not start,Berlin 1936,Swimming,400m freestyle men
+11,EST,egon roolaid,Did not start,Berlin 1936,Swimming,400m freestyle men
+12,GRE,panagiotis provatopoulos,Did not start,Berlin 1936,Swimming,400m freestyle men
+13,SUI,roger zirilli,Did not start,Berlin 1936,Swimming,400m freestyle men
+0,NED,hendrika mastenbroek,00:05:26.400,Berlin 1936,Swimming,400m freestyle women
+1,DEN,ragnild tove hveger,00:05:27.500,Berlin 1936,Swimming,400m freestyle women
+2,USA,lenore kight-wingard,00:05:29.000,Berlin 1936,Swimming,400m freestyle women
+3,USA,mary lou petty,00:05:32.200,Berlin 1936,Swimming,400m freestyle women
+4,BRA,piedade de azevedo coutinho,00:05:35.200,Berlin 1936,Swimming,400m freestyle women
+5,JPN,kazue kojima,00:05:43.100,Berlin 1936,Swimming,400m freestyle women
+6,DEN,grethe ortved frederiksen,00:05:45.000,Berlin 1936,Swimming,400m freestyle women
+7,NED,catharina (tini) willemina wagner,00:05:46.000,Berlin 1936,Swimming,400m freestyle women
+8,ARG,jeanette morven campbell,Did not start,Berlin 1936,Swimming,400m freestyle women
+9,AUT,ruth langer,Did not start,Berlin 1936,Swimming,400m freestyle women
+10,BRA,helena de moraes salles,Did not start,Berlin 1936,Swimming,400m freestyle women
+11,BRA,sieglinde lenk-zigler,Did not start,Berlin 1936,Swimming,400m freestyle women
+12,CAN,phyllis dewar,Did not start,Berlin 1936,Swimming,400m freestyle women
+13,CAN,irene pirie-milton,Did not start,Berlin 1936,Swimming,400m freestyle women
+14,CAN,margaret anne stone,Did not start,Berlin 1936,Swimming,400m freestyle women
+15,CHN,sau-king yeung,Did not start,Berlin 1936,Swimming,400m freestyle women
+16,GBR,margery hinton,Did not start,Berlin 1936,Swimming,400m freestyle women
+17,SUI,annie villiger,Did not start,Berlin 1936,Swimming,400m freestyle women
+18,USA,dorothea dickinson,Did not start,Berlin 1936,Swimming,400m freestyle women
+0,,,00:04:36.000,Berlin 1936,Swimming,4x100m freestyle relay women
+1,,,00:04:36.800,Berlin 1936,Swimming,4x100m freestyle relay women
+2,,,00:04:40.200,Berlin 1936,Swimming,4x100m freestyle relay women
+3,,,00:04:48.000,Berlin 1936,Swimming,4x100m freestyle relay women
+4,,,00:04:48.000,Berlin 1936,Swimming,4x100m freestyle relay women
+5,,,00:04:51.000,Berlin 1936,Swimming,4x100m freestyle relay women
+6,,,00:04:51.400,Berlin 1936,Swimming,4x100m freestyle relay women
+0,,,00:08:51.500,Berlin 1936,Swimming,4x200m freestyle relay men
+1,,,00:09:03.000,Berlin 1936,Swimming,4x200m freestyle relay men
+2,,,00:09:12.300,Berlin 1936,Swimming,4x200m freestyle relay men
+3,,,00:09:18.200,Berlin 1936,Swimming,4x200m freestyle relay men
+4,,,00:09:19.000,Berlin 1936,Swimming,4x200m freestyle relay men
+5,,,00:09:21.500,Berlin 1936,Swimming,4x200m freestyle relay men
+6,,,00:09:27.500,Berlin 1936,Swimming,4x200m freestyle relay men
+7,,,00:09:37.500,Berlin 1936,Swimming,4x200m freestyle relay men
+8,,,Disqualified,Berlin 1936,Swimming,4x200m freestyle relay men
+9,,,Did not start,Berlin 1936,Swimming,4x200m freestyle relay men
+10,,,Did not start,Berlin 1936,Swimming,4x200m freestyle relay men

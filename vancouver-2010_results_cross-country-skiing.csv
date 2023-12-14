@@ -1,0 +1,585 @@
+,country,participant,result,olympic_game,discipline,event
+0,SWE,charlotte kalla,00:24:58.400,Vancouver 2010,Cross Country Skiing,10km women
+1,EST,kristina smigun-vaehi,00:25:05.000,Vancouver 2010,Cross Country Skiing,10km women
+2,NOR,marit bjoergen,00:25:14.300,Vancouver 2010,Cross Country Skiing,10km women
+3,SWE,anna haag,00:25:19.300,Vancouver 2010,Cross Country Skiing,10km women
+4,POL,justyna kowalczyk,00:25:20.100,Vancouver 2010,Cross Country Skiing,10km women
+5,FIN,riitta-liisa roponen,00:25:24.300,Vancouver 2010,Cross Country Skiing,10km women
+6,RUS,evgenia medvedeva,00:25:26.500,Vancouver 2010,Cross Country Skiing,10km women
+7,NOR,kristin stoermer steira,00:25:50.500,Vancouver 2010,Cross Country Skiing,10km women
+8,UKR,valentina shevchenko,00:25:51.100,Vancouver 2010,Cross Country Skiing,10km women
+9,KAZ,svetlana malahova-shishkina,00:25:53.900,Vancouver 2010,Cross Country Skiing,10km women
+10,ITA,arianna follis,00:25:54.100,Vancouver 2010,Cross Country Skiing,10km women
+11,GER,evi sachenbacher-stehle,00:25:57.700,Vancouver 2010,Cross Country Skiing,10km women
+12,RUS,olga savialova,00:25:57.700,Vancouver 2010,Cross Country Skiing,10km women
+13,ITA,silvia rupil,00:25:58.500,Vancouver 2010,Cross Country Skiing,10km women
+14,FIN,aino-kaisa saarinen,00:25:59.500,Vancouver 2010,Cross Country Skiing,10km women
+15,GER,claudia nystad,00:25:59.800,Vancouver 2010,Cross Country Skiing,10km women
+16,ITA,sabina valbusa,00:26:05.800,Vancouver 2010,Cross Country Skiing,10km women
+17,ITA,marianna longa,00:26:06.200,Vancouver 2010,Cross Country Skiing,10km women
+18,RUS,nataliya korostelyova,00:26:07.000,Vancouver 2010,Cross Country Skiing,10km women
+19,RUS,irina khazova,00:26:08.700,Vancouver 2010,Cross Country Skiing,10km women
+20,GER,miriam goessner,00:26:14.800,Vancouver 2010,Cross Country Skiing,10km women
+21,NOR,vibeke skofterud,00:26:16.300,Vancouver 2010,Cross Country Skiing,10km women
+22,GER,stefanie boehler,00:26:19.200,Vancouver 2010,Cross Country Skiing,10km women
+23,SWE,anna dahlberg-olsson,00:26:23.100,Vancouver 2010,Cross Country Skiing,10km women
+24,CZE,kamila rajdlova,00:26:26.200,Vancouver 2010,Cross Country Skiing,10km women
+25,FRA,karine philippot,00:26:27.900,Vancouver 2010,Cross Country Skiing,10km women
+26,KAZ,yelena kolomina,00:26:35.600,Vancouver 2010,Cross Country Skiing,10km women
+27,POL,sylwia jaskowiec,00:26:37.200,Vancouver 2010,Cross Country Skiing,10km women
+28,SWE,britta johansson norgren,00:26:48.100,Vancouver 2010,Cross Country Skiing,10km women
+29,USA,caitlin gregg,00:26:49.100,Vancouver 2010,Cross Country Skiing,10km women
+30,FIN,riikka sarasoja,00:26:50.200,Vancouver 2010,Cross Country Skiing,10km women
+31,CZE,ivana janeckova,00:26:51.300,Vancouver 2010,Cross Country Skiing,10km women
+32,SLO,vesna fabjan,00:26:51.600,Vancouver 2010,Cross Country Skiing,10km women
+33,USA,morgan arritola,00:27:04.400,Vancouver 2010,Cross Country Skiing,10km women
+34,CHN,hongxue li,00:27:05.700,Vancouver 2010,Cross Country Skiing,10km women
+35,KAZ,tatyana ossipova,00:27:06.600,Vancouver 2010,Cross Country Skiing,10km women
+36,UKR,maryna antsybor,00:27:07.400,Vancouver 2010,Cross Country Skiing,10km women
+37,ESP,laura orgue,00:27:09.400,Vancouver 2010,Cross Country Skiing,10km women
+38,KAZ,oksana yatskaya,00:27:16.300,Vancouver 2010,Cross Country Skiing,10km women
+39,SLO,barbara jezersek,00:27:17.300,Vancouver 2010,Cross Country Skiing,10km women
+40,USA,holly brooks,00:27:17.600,Vancouver 2010,Cross Country Skiing,10km women
+41,ROU,monika gyorgy,00:27:19.500,Vancouver 2010,Cross Country Skiing,10km women
+42,BLR,alena sannikova,00:27:21.300,Vancouver 2010,Cross Country Skiing,10km women
+43,POL,paulina maciuszek,00:27:22.100,Vancouver 2010,Cross Country Skiing,10km women
+44,UKR,kateryna grygorenko,00:27:29.700,Vancouver 2010,Cross Country Skiing,10km women
+45,FRA,aurore jean,00:27:30.200,Vancouver 2010,Cross Country Skiing,10km women
+46,FRA,celia bourgeois,00:27:31.400,Vancouver 2010,Cross Country Skiing,10km women
+47,NOR,marthe kristoffersen,00:27:38.400,Vancouver 2010,Cross Country Skiing,10km women
+48,USA,elizabeth stephen,00:27:41.100,Vancouver 2010,Cross Country Skiing,10km women
+49,CAN,madeleine williams,00:27:43.600,Vancouver 2010,Cross Country Skiing,10km women
+50,JPN,nobuko fukuda,00:27:47.700,Vancouver 2010,Cross Country Skiing,10km women
+51,FIN,krista parmakoski,00:27:49.400,Vancouver 2010,Cross Country Skiing,10km women
+52,KOR,chaewon lee,00:27:56.000,Vancouver 2010,Cross Country Skiing,10km women
+53,CZE,eva vrabcova - nyvltova,00:28:04.100,Vancouver 2010,Cross Country Skiing,10km women
+54,BLR,olga vasiljonok,00:28:06.200,Vancouver 2010,Cross Country Skiing,10km women
+55,UKR,lada nesterenko,00:28:06.400,Vancouver 2010,Cross Country Skiing,10km women
+56,EST,tatjana mannima,00:28:13.000,Vancouver 2010,Cross Country Skiing,10km women
+57,BLR,katsiaryna rudakova-bulavka,00:28:16.100,Vancouver 2010,Cross Country Skiing,10km women
+58,BUL,antoniya grigorova,00:28:27.700,Vancouver 2010,Cross Country Skiing,10km women
+59,JPN,michiko kashiwabara,00:28:32.000,Vancouver 2010,Cross Country Skiing,10km women
+60,FRA,laure barthelemy,00:28:43.900,Vancouver 2010,Cross Country Skiing,10km women
+61,NZL,katherine calder,00:28:50.900,Vancouver 2010,Cross Country Skiing,10km women
+62,LTU,irina terentjeva,00:28:52.200,Vancouver 2010,Cross Country Skiing,10km women
+63,CHN,xin li,00:29:38.500,Vancouver 2010,Cross Country Skiing,10km women
+64,BUL,teodora malcheva,00:29:52.400,Vancouver 2010,Cross Country Skiing,10km women
+65,BRA,jaqueline mourao,00:30:22.200,Vancouver 2010,Cross Country Skiing,10km women
+66,GBR,fiona-elizabeth hughes,00:30:29.800,Vancouver 2010,Cross Country Skiing,10km women
+67,TUR,kelime cetinkaya,00:30:48.000,Vancouver 2010,Cross Country Skiing,10km women
+68,LAT,anete brice,00:30:51.800,Vancouver 2010,Cross Country Skiing,10km women
+69,MDA,alexandra camenscic,00:31:01.000,Vancouver 2010,Cross Country Skiing,10km women
+70,BIH,tanja karisik-kosarac,00:31:30.400,Vancouver 2010,Cross Country Skiing,10km women
+71,GRE,maria ntanou,00:32:14.600,Vancouver 2010,Cross Country Skiing,10km women
+72,MGL,ochirsuren erdene ochir,00:32:56.100,Vancouver 2010,Cross Country Skiing,10km women
+73,HUN,vera viczian,00:33:45.800,Vancouver 2010,Cross Country Skiing,10km women
+74,ARM,qristine khachatryan,00:34:17.500,Vancouver 2010,Cross Country Skiing,10km women
+75,MKD,rosana kiroska,00:34:45.800,Vancouver 2010,Cross Country Skiing,10km women
+76,SRB,belma smrkovic,00:35:47.400,Vancouver 2010,Cross Country Skiing,10km women
+77,POL,kornelia kubinska,Disqualified,Vancouver 2010,Cross Country Skiing,10km women
+0,SWE,charlotte kalla,00:24:58.400,Vancouver 2010,Cross Country Skiing,15km men
+1,EST,kristina smigun-vaehi,00:25:05.000,Vancouver 2010,Cross Country Skiing,15km men
+2,NOR,marit bjoergen,00:25:14.300,Vancouver 2010,Cross Country Skiing,15km men
+3,SWE,anna haag,00:25:19.300,Vancouver 2010,Cross Country Skiing,15km men
+4,POL,justyna kowalczyk,00:25:20.100,Vancouver 2010,Cross Country Skiing,15km men
+5,FIN,riitta-liisa roponen,00:25:24.300,Vancouver 2010,Cross Country Skiing,15km men
+6,RUS,evgenia medvedeva,00:25:26.500,Vancouver 2010,Cross Country Skiing,15km men
+7,NOR,kristin stoermer steira,00:25:50.500,Vancouver 2010,Cross Country Skiing,15km men
+8,UKR,valentina shevchenko,00:25:51.100,Vancouver 2010,Cross Country Skiing,15km men
+9,KAZ,svetlana malahova-shishkina,00:25:53.900,Vancouver 2010,Cross Country Skiing,15km men
+10,ITA,arianna follis,00:25:54.100,Vancouver 2010,Cross Country Skiing,15km men
+11,GER,evi sachenbacher-stehle,00:25:57.700,Vancouver 2010,Cross Country Skiing,15km men
+12,RUS,olga savialova,00:25:57.700,Vancouver 2010,Cross Country Skiing,15km men
+13,ITA,silvia rupil,00:25:58.500,Vancouver 2010,Cross Country Skiing,15km men
+14,FIN,aino-kaisa saarinen,00:25:59.500,Vancouver 2010,Cross Country Skiing,15km men
+15,GER,claudia nystad,00:25:59.800,Vancouver 2010,Cross Country Skiing,15km men
+16,ITA,sabina valbusa,00:26:05.800,Vancouver 2010,Cross Country Skiing,15km men
+17,ITA,marianna longa,00:26:06.200,Vancouver 2010,Cross Country Skiing,15km men
+18,RUS,nataliya korostelyova,00:26:07.000,Vancouver 2010,Cross Country Skiing,15km men
+19,RUS,irina khazova,00:26:08.700,Vancouver 2010,Cross Country Skiing,15km men
+20,GER,miriam goessner,00:26:14.800,Vancouver 2010,Cross Country Skiing,15km men
+21,NOR,vibeke skofterud,00:26:16.300,Vancouver 2010,Cross Country Skiing,15km men
+22,GER,stefanie boehler,00:26:19.200,Vancouver 2010,Cross Country Skiing,15km men
+23,SWE,anna dahlberg-olsson,00:26:23.100,Vancouver 2010,Cross Country Skiing,15km men
+24,CZE,kamila rajdlova,00:26:26.200,Vancouver 2010,Cross Country Skiing,15km men
+25,FRA,karine philippot,00:26:27.900,Vancouver 2010,Cross Country Skiing,15km men
+26,KAZ,yelena kolomina,00:26:35.600,Vancouver 2010,Cross Country Skiing,15km men
+27,POL,sylwia jaskowiec,00:26:37.200,Vancouver 2010,Cross Country Skiing,15km men
+28,SWE,britta johansson norgren,00:26:48.100,Vancouver 2010,Cross Country Skiing,15km men
+29,USA,caitlin gregg,00:26:49.100,Vancouver 2010,Cross Country Skiing,15km men
+30,FIN,riikka sarasoja,00:26:50.200,Vancouver 2010,Cross Country Skiing,15km men
+31,CZE,ivana janeckova,00:26:51.300,Vancouver 2010,Cross Country Skiing,15km men
+32,SLO,vesna fabjan,00:26:51.600,Vancouver 2010,Cross Country Skiing,15km men
+33,USA,morgan arritola,00:27:04.400,Vancouver 2010,Cross Country Skiing,15km men
+34,CHN,hongxue li,00:27:05.700,Vancouver 2010,Cross Country Skiing,15km men
+35,KAZ,tatyana ossipova,00:27:06.600,Vancouver 2010,Cross Country Skiing,15km men
+36,UKR,maryna antsybor,00:27:07.400,Vancouver 2010,Cross Country Skiing,15km men
+37,ESP,laura orgue,00:27:09.400,Vancouver 2010,Cross Country Skiing,15km men
+38,KAZ,oksana yatskaya,00:27:16.300,Vancouver 2010,Cross Country Skiing,15km men
+39,SLO,barbara jezersek,00:27:17.300,Vancouver 2010,Cross Country Skiing,15km men
+40,USA,holly brooks,00:27:17.600,Vancouver 2010,Cross Country Skiing,15km men
+41,ROU,monika gyorgy,00:27:19.500,Vancouver 2010,Cross Country Skiing,15km men
+42,BLR,alena sannikova,00:27:21.300,Vancouver 2010,Cross Country Skiing,15km men
+43,POL,paulina maciuszek,00:27:22.100,Vancouver 2010,Cross Country Skiing,15km men
+44,UKR,kateryna grygorenko,00:27:29.700,Vancouver 2010,Cross Country Skiing,15km men
+45,FRA,aurore jean,00:27:30.200,Vancouver 2010,Cross Country Skiing,15km men
+46,FRA,celia bourgeois,00:27:31.400,Vancouver 2010,Cross Country Skiing,15km men
+47,NOR,marthe kristoffersen,00:27:38.400,Vancouver 2010,Cross Country Skiing,15km men
+48,USA,elizabeth stephen,00:27:41.100,Vancouver 2010,Cross Country Skiing,15km men
+49,CAN,madeleine williams,00:27:43.600,Vancouver 2010,Cross Country Skiing,15km men
+50,JPN,nobuko fukuda,00:27:47.700,Vancouver 2010,Cross Country Skiing,15km men
+51,FIN,krista parmakoski,00:27:49.400,Vancouver 2010,Cross Country Skiing,15km men
+52,KOR,chaewon lee,00:27:56.000,Vancouver 2010,Cross Country Skiing,15km men
+53,CZE,eva vrabcova - nyvltova,00:28:04.100,Vancouver 2010,Cross Country Skiing,15km men
+54,BLR,olga vasiljonok,00:28:06.200,Vancouver 2010,Cross Country Skiing,15km men
+55,UKR,lada nesterenko,00:28:06.400,Vancouver 2010,Cross Country Skiing,15km men
+56,EST,tatjana mannima,00:28:13.000,Vancouver 2010,Cross Country Skiing,15km men
+57,BLR,katsiaryna rudakova-bulavka,00:28:16.100,Vancouver 2010,Cross Country Skiing,15km men
+58,BUL,antoniya grigorova,00:28:27.700,Vancouver 2010,Cross Country Skiing,15km men
+59,JPN,michiko kashiwabara,00:28:32.000,Vancouver 2010,Cross Country Skiing,15km men
+60,FRA,laure barthelemy,00:28:43.900,Vancouver 2010,Cross Country Skiing,15km men
+61,NZL,katherine calder,00:28:50.900,Vancouver 2010,Cross Country Skiing,15km men
+62,LTU,irina terentjeva,00:28:52.200,Vancouver 2010,Cross Country Skiing,15km men
+63,CHN,xin li,00:29:38.500,Vancouver 2010,Cross Country Skiing,15km men
+64,BUL,teodora malcheva,00:29:52.400,Vancouver 2010,Cross Country Skiing,15km men
+65,BRA,jaqueline mourao,00:30:22.200,Vancouver 2010,Cross Country Skiing,15km men
+66,GBR,fiona-elizabeth hughes,00:30:29.800,Vancouver 2010,Cross Country Skiing,15km men
+67,TUR,kelime cetinkaya,00:30:48.000,Vancouver 2010,Cross Country Skiing,15km men
+68,LAT,anete brice,00:30:51.800,Vancouver 2010,Cross Country Skiing,15km men
+69,MDA,alexandra camenscic,00:31:01.000,Vancouver 2010,Cross Country Skiing,15km men
+70,BIH,tanja karisik-kosarac,00:31:30.400,Vancouver 2010,Cross Country Skiing,15km men
+71,GRE,maria ntanou,00:32:14.600,Vancouver 2010,Cross Country Skiing,15km men
+72,MGL,ochirsuren erdene ochir,00:32:56.100,Vancouver 2010,Cross Country Skiing,15km men
+73,HUN,vera viczian,00:33:45.800,Vancouver 2010,Cross Country Skiing,15km men
+74,ARM,qristine khachatryan,00:34:17.500,Vancouver 2010,Cross Country Skiing,15km men
+75,MKD,rosana kiroska,00:34:45.800,Vancouver 2010,Cross Country Skiing,15km men
+76,SRB,belma smrkovic,00:35:47.400,Vancouver 2010,Cross Country Skiing,15km men
+77,POL,kornelia kubinska,Disqualified,Vancouver 2010,Cross Country Skiing,15km men
+0,POL,justyna kowalczyk,01:30:33.700,Vancouver 2010,Cross Country Skiing,30km women
+1,NOR,marit bjoergen,01:30:34.000,Vancouver 2010,Cross Country Skiing,30km women
+2,FIN,aino-kaisa saarinen,01:31:38.700,Vancouver 2010,Cross Country Skiing,30km women
+3,GER,evi sachenbacher-stehle,01:31:52.900,Vancouver 2010,Cross Country Skiing,30km women
+4,JPN,masako ishida,01:31:56.500,Vancouver 2010,Cross Country Skiing,30km women
+5,SWE,charlotte kalla,01:31:57.600,Vancouver 2010,Cross Country Skiing,30km women
+6,NOR,therese johaug,01:32:01.300,Vancouver 2010,Cross Country Skiing,30km women
+7,NOR,kristin stoermer steira,01:32:04.400,Vancouver 2010,Cross Country Skiing,30km women
+8,SWE,anna dahlberg-olsson,01:33:00.300,Vancouver 2010,Cross Country Skiing,30km women
+9,FRA,karine philippot,01:33:11.400,Vancouver 2010,Cross Country Skiing,30km women
+10,ITA,marianna longa,01:33:19.900,Vancouver 2010,Cross Country Skiing,30km women
+11,FIN,riikka sarasoja,01:33:33.200,Vancouver 2010,Cross Country Skiing,30km women
+12,FIN,virpi kuitunen,01:33:36.700,Vancouver 2010,Cross Country Skiing,30km women
+13,FRA,aurore jean,01:33:58.300,Vancouver 2010,Cross Country Skiing,30km women
+14,CAN,sara renner,01:34:04.200,Vancouver 2010,Cross Country Skiing,30km women
+15,ITA,antonella confortola wyatt,01:34:07.700,Vancouver 2010,Cross Country Skiing,30km women
+16,GER,stefanie boehler,01:34:08.700,Vancouver 2010,Cross Country Skiing,30km women
+17,KAZ,oksana yatskaya,01:34:11.000,Vancouver 2010,Cross Country Skiing,30km women
+18,GER,katrin zeller,01:34:18.100,Vancouver 2010,Cross Country Skiing,30km women
+19,NOR,marthe kristoffersen,01:34:31.500,Vancouver 2010,Cross Country Skiing,30km women
+20,UKR,tetiana antypenko,01:34:32.300,Vancouver 2010,Cross Country Skiing,30km women
+21,RUS,olga savialova,01:34:46.300,Vancouver 2010,Cross Country Skiing,30km women
+22,USA,kikkan randall,01:34:59.000,Vancouver 2010,Cross Country Skiing,30km women
+23,POL,sylwia jaskowiec,01:34:59.100,Vancouver 2010,Cross Country Skiing,30km women
+24,FIN,krista parmakoski,01:35:08.400,Vancouver 2010,Cross Country Skiing,30km women
+25,UKR,kateryna grygorenko,01:35:11.400,Vancouver 2010,Cross Country Skiing,30km women
+26,EST,kristina smigun-vaehi,01:35:27.200,Vancouver 2010,Cross Country Skiing,30km women
+27,POL,paulina maciuszek,01:36:31.700,Vancouver 2010,Cross Country Skiing,30km women
+28,RUS,olga moskalenko,01:37:15.500,Vancouver 2010,Cross Country Skiing,30km women
+29,JPN,madoka natsumi,01:37:35.400,Vancouver 2010,Cross Country Skiing,30km women
+30,CHN,hongxue li,01:37:50.400,Vancouver 2010,Cross Country Skiing,30km women
+31,AUT,katerina smutna,01:37:51.300,Vancouver 2010,Cross Country Skiing,30km women
+32,KAZ,yelena kolomina,01:37:53.000,Vancouver 2010,Cross Country Skiing,30km women
+33,KAZ,marina matrossova,01:38:00.600,Vancouver 2010,Cross Country Skiing,30km women
+34,USA,holly brooks,01:38:14.500,Vancouver 2010,Cross Country Skiing,30km women
+35,ESP,laura orgue,01:38:18.300,Vancouver 2010,Cross Country Skiing,30km women
+36,RUS,olga schuchkina,01:38:30.300,Vancouver 2010,Cross Country Skiing,30km women
+37,BLR,alena sannikova,01:38:31.300,Vancouver 2010,Cross Country Skiing,30km women
+38,CZE,eva vrabcova - nyvltova,01:38:40.100,Vancouver 2010,Cross Country Skiing,30km women
+39,CZE,ivana janeckova,01:40:13.600,Vancouver 2010,Cross Country Skiing,30km women
+40,EST,tatjana mannima,01:40:51.300,Vancouver 2010,Cross Country Skiing,30km women
+41,KAZ,svetlana malahova-shishkina,01:41:01.600,Vancouver 2010,Cross Country Skiing,30km women
+42,UKR,lada nesterenko,01:41:40.100,Vancouver 2010,Cross Country Skiing,30km women
+43,BLR,nastassia dubarezava,01:42:28.100,Vancouver 2010,Cross Country Skiing,30km women
+44,CAN,madeleine williams,01:42:33.700,Vancouver 2010,Cross Country Skiing,30km women
+45,ROU,monika gyorgy,01:44:03.500,Vancouver 2010,Cross Country Skiing,30km women
+46,CZE,eva skalnikova,01:44:47.800,Vancouver 2010,Cross Country Skiing,30km women
+47,POL,kornelia kubinska,Disqualified,Vancouver 2010,Cross Country Skiing,30km women
+48,UKR,valentina shevchenko,Did not finish,Vancouver 2010,Cross Country Skiing,30km women
+49,SWE,ida ingemarsdotter,Did not finish,Vancouver 2010,Cross Country Skiing,30km women
+50,FRA,cecile storti,Did not finish,Vancouver 2010,Cross Country Skiing,30km women
+51,USA,morgan arritola,Did not finish,Vancouver 2010,Cross Country Skiing,30km women
+52,SUI,laurence rochat,Did not finish,Vancouver 2010,Cross Country Skiing,30km women
+53,CZE,kamila rajdlova,Did not start,Vancouver 2010,Cross Country Skiing,30km women
+54,ITA,sabina valbusa,Did not start,Vancouver 2010,Cross Country Skiing,30km women
+0,NOR,petter northug jr.,02:05:35.500,Vancouver 2010,Cross Country Skiing,50km men
+1,GER,axel teichmann,02:05:35.800,Vancouver 2010,Cross Country Skiing,50km men
+2,SWE,johan olsson,02:05:36.500,Vancouver 2010,Cross Country Skiing,50km men
+3,GER,tobias angerer,02:05:37.000,Vancouver 2010,Cross Country Skiing,50km men
+4,CAN,devon kershaw,02:05:37.100,Vancouver 2010,Cross Country Skiing,50km men
+5,EST,andrus veerpalu,02:05:41.600,Vancouver 2010,Cross Country Skiing,50km men
+6,SWE,daniel rickardsson,02:05:45.200,Vancouver 2010,Cross Country Skiing,50km men
+7,RUS,maxim vylegzhanin,02:05:46.400,Vancouver 2010,Cross Country Skiing,50km men
+8,SWE,anders soedergren,02:05:47.100,Vancouver 2010,Cross Country Skiing,50km men
+9,SUI,dario cologna,02:05:47.500,Vancouver 2010,Cross Country Skiing,50km men
+10,ITA,giorgio di centa,02:05:49.000,Vancouver 2010,Cross Country Skiing,50km men
+11,CZE,lukas bauer,02:05:49.400,Vancouver 2010,Cross Country Skiing,50km men
+12,FRA,vincent vittoz,02:05:49.600,Vancouver 2010,Cross Country Skiing,50km men
+13,RUS,alexander legkov,02:05:53.300,Vancouver 2010,Cross Country Skiing,50km men
+14,NOR,martin johnsrud sundby,02:05:57.700,Vancouver 2010,Cross Country Skiing,50km men
+15,GER,jens filbrich,02:06:07.800,Vancouver 2010,Cross Country Skiing,50km men
+16,NOR,odd-bjoern hjelmeset,02:06:08.300,Vancouver 2010,Cross Country Skiing,50km men
+17,CAN,george grey,02:06:18.100,Vancouver 2010,Cross Country Skiing,50km men
+18,FRA,jean marc gaillard,02:06:38.000,Vancouver 2010,Cross Country Skiing,50km men
+19,FIN,sami jauhojaervi,02:06:43.200,Vancouver 2010,Cross Country Skiing,50km men
+20,GER,rene sommerfeldt,02:06:52.500,Vancouver 2010,Cross Country Skiing,50km men
+21,SWE,marcus hellner,02:07:03.200,Vancouver 2010,Cross Country Skiing,50km men
+22,NOR,jens arne svartedal,02:07:32.500,Vancouver 2010,Cross Country Skiing,50km men
+23,RUS,pyotr sedov,02:07:35.400,Vancouver 2010,Cross Country Skiing,50km men
+24,BLR,sergei dolidovich,02:07:47.600,Vancouver 2010,Cross Country Skiing,50km men
+25,ITA,pietro piller cottrer,02:08:21.600,Vancouver 2010,Cross Country Skiing,50km men
+26,KAZ,alexey poltoranin,02:09:29.600,Vancouver 2010,Cross Country Skiing,50km men
+27,USA,james southam,02:10:08.300,Vancouver 2010,Cross Country Skiing,50km men
+28,CZE,jiri magal,02:10:22.700,Vancouver 2010,Cross Country Skiing,50km men
+29,EST,jaak mae,02:10:41.300,Vancouver 2010,Cross Country Skiing,50km men
+30,ITA,valerio checchi,02:10:49.700,Vancouver 2010,Cross Country Skiing,50km men
+31,CAN,alex harvey,02:10:49.900,Vancouver 2010,Cross Country Skiing,50km men
+32,CAN,ivan babikov,02:10:50.200,Vancouver 2010,Cross Country Skiing,50km men
+33,EST,aivar rehemaa,02:10:57.600,Vancouver 2010,Cross Country Skiing,50km men
+34,JPN,nobu naruse,02:10:59.200,Vancouver 2010,Cross Country Skiing,50km men
+35,ITA,roland clara,02:11:00.800,Vancouver 2010,Cross Country Skiing,50km men
+36,FIN,ville nousiainen,02:11:38.000,Vancouver 2010,Cross Country Skiing,50km men
+37,FRA,cyril miranda,02:11:56.900,Vancouver 2010,Cross Country Skiing,50km men
+38,KAZ,yevgeniy velichko,02:13:01.500,Vancouver 2010,Cross Country Skiing,50km men
+39,ESP,vicenc vilarrubla,02:13:33.800,Vancouver 2010,Cross Country Skiing,50km men
+40,EST,algo karp,02:13:49.600,Vancouver 2010,Cross Country Skiing,50km men
+41,UKR,roman leybyuk,02:15:19.900,Vancouver 2010,Cross Country Skiing,50km men
+42,FIN,lari lehtonen,02:16:26.200,Vancouver 2010,Cross Country Skiing,50km men
+43,ESP,diego ruiz,02:17:49.800,Vancouver 2010,Cross Country Skiing,50km men
+44,BLR,aliaksei ivanou,02:17:59.200,Vancouver 2010,Cross Country Skiing,50km men
+45,NZL,benjamin koons,02:21:53.900,Vancouver 2010,Cross Country Skiing,50km men
+46,AND,françois soulie,02:25:00.800,Vancouver 2010,Cross Country Skiing,50km men
+47,DEN,jonas thor olsen,02:25:00.900,Vancouver 2010,Cross Country Skiing,50km men
+48,SVK,martin bajcicak,Did not finish,Vancouver 2010,Cross Country Skiing,50km men
+49,RUS,sergey shiriaev,Did not finish,Vancouver 2010,Cross Country Skiing,50km men
+50,USA,kris freeman,Did not finish,Vancouver 2010,Cross Country Skiing,50km men
+51,SVK,ivan batory,Did not finish,Vancouver 2010,Cross Country Skiing,50km men
+52,ESP,javier gutierrez,Did not finish,Vancouver 2010,Cross Country Skiing,50km men
+53,KAZ,sergey cherepanov,Did not start,Vancouver 2010,Cross Country Skiing,50km men
+54,ROU,paul constantin pepene,Did not start,Vancouver 2010,Cross Country Skiing,50km men
+0,NOR,marit bjoergen,00:39:58.100,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+1,SWE,anna haag,00:40:07.000,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+2,POL,justyna kowalczyk,00:40:07.400,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+3,NOR,kristin stoermer steira,00:40:07.500,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+4,FIN,aino-kaisa saarinen,00:40:40.600,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+5,NOR,therese johaug,00:40:50.000,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+6,ITA,marianna longa,00:41:02.200,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+7,SWE,charlotte kalla,00:41:18.500,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+8,ITA,arianna follis,00:41:21.600,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+9,CAN,sara renner,00:41:37.900,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+10,GER,evi sachenbacher-stehle,00:41:37.900,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+11,RUS,olga savialova,00:41:38.300,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+12,RUS,irina khazova,00:41:56.100,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+13,UKR,valentina shevchenko,00:41:58.700,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+14,FIN,riitta-liisa roponen,00:42:00.200,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+15,ITA,silvia rupil,00:42:01.600,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+16,SLO,barbara jezersek,00:42:17.000,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+17,ITA,sabina valbusa,00:42:19.400,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+18,FRA,karine philippot,00:42:21.200,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+19,JPN,masako ishida,00:42:24.300,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+20,FIN,riikka sarasoja,00:42:24.400,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+21,GER,nicole fessel,00:42:25.100,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+22,CZE,kamila rajdlova,00:42:26.500,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+23,GER,katrin zeller,00:42:26.900,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+24,KAZ,svetlana malahova-shishkina,00:42:27.100,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+25,RUS,olga moskalenko,00:42:30.500,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+26,ESP,laura orgue,00:42:38.300,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+27,KAZ,yelena kolomina,00:42:48.400,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+28,AUT,katerina smutna,00:42:50.300,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+29,FIN,pirjo muranen,00:42:50.500,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+30,UKR,tetiana antypenko,00:42:50.700,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+31,FRA,aurore jean,00:42:51.700,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+32,KAZ,oksana yatskaya,00:42:53.000,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+33,POL,sylwia jaskowiec,00:42:54.800,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+34,GER,stefanie boehler,00:43:17.900,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+35,CHN,hongxue li,00:43:24.300,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+36,USA,morgan arritola,00:43:25.900,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+37,BLR,alena sannikova,00:43:33.700,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+38,RUS,evgenia medvedeva,00:43:59.600,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+39,CAN,madeleine williams,00:44:11.200,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+40,SWE,ida ingemarsdotter,00:44:16.500,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+41,USA,caitlin gregg,00:44:23.300,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+42,EST,tatjana mannima,00:44:24.200,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+43,FRA,cecile storti,00:44:24.300,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+44,UKR,vita jakimchuk,00:44:24.800,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+45,CAN,daria gaiazova,00:44:35.900,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+46,KAZ,marina matrossova,00:44:36.200,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+47,FRA,emilie vina,00:44:45.000,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+48,BLR,katsiaryna rudakova-bulavka,00:44:50.500,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+49,CZE,eva vrabcova - nyvltova,00:44:52.800,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+50,POL,paulina maciuszek,00:44:56.600,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+51,SWE,britta johansson norgren,00:45:25.700,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+52,BLR,nastassia dubarezava,00:45:27.900,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+53,ROU,monika gyorgy,00:45:37.500,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+54,USA,holly brooks,00:45:38.800,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+55,CAN,perianne jones,00:45:48.700,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+56,USA,elizabeth stephen,00:45:53.800,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+57,KOR,chaewon lee,00:47:34.600,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+58,SLO,anja erzen,00:48:22.900,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+59,TUR,kelime cetinkaya,00:48:46.000,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+60,BUL,antoniya grigorova,00:49:31.500,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+61,POL,kornelia kubinska,Disqualified,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+62,UKR,maryna antsybor,Did not finish,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+63,NOR,vibeke skofterud,Did not finish,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+64,EST,kristina smigun-vaehi,Did not finish,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+65,EST,kaija udras,Did not finish,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+66,CZE,ivana janeckova,Did not start,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+67,NZL,katherine calder,Did not start,Vancouver 2010,Cross Country Skiing,Combined 7.5 + 7.5km mass start women
+0,,,01:45:05.400,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+1,,,01:45:21.300,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+2,,,01:45:21.900,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+3,,,01:45:26.300,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+4,,,01:45:30.300,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+5,,,01:45:49.400,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+6,,,01:47:03.200,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+7,,,01:47:04.700,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+8,,,01:47:16.600,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+9,,,01:47:57.200,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+10,,,01:49:49.100,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+11,,,01:49:52.000,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+12,,,01:51:27.700,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+13,,,01:51:41.200,Vancouver 2010,Cross Country Skiing,Relay 4x10km men
+0,,,00:55:19.500,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+1,,,00:55:44.100,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+2,,,00:55:49.900,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+3,,,00:56:04.900,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+4,,,00:56:18.900,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+5,,,00:56:30.600,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+6,,,00:57:00.900,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+7,,,00:57:40.400,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+8,,,00:58:23.300,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+9,,,00:58:28.400,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+10,,,00:58:57.500,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+11,,,00:59:11.200,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+12,,,00:59:25.700,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+13,,,00:59:47.500,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+14,,,01:00:05.000,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+15,,,Disqualified,Vancouver 2010,Cross Country Skiing,Relay 4x5km women
+0,SWE,marcus hellner,01:15:11.400,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+1,GER,tobias angerer,01:15:13.500,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+2,SWE,johan olsson,01:15:14.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+3,RUS,alexander legkov,01:15:15.400,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+4,CAN,ivan babikov,01:15:20.500,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+5,GER,jens filbrich,01:15:25.000,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+6,CZE,lukas bauer,01:15:25.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+7,CAN,george grey,01:15:32.000,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+8,CAN,alex harvey,01:15:43.000,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+9,SWE,anders soedergren,01:15:47.000,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+10,NOR,petter northug jr.,01:15:53.100,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+11,ITA,giorgio di centa,01:16:05.100,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+12,SUI,dario cologna,01:16:12.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+13,ITA,pietro piller cottrer,01:16:19.900,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+14,FRA,vincent vittoz,01:16:23.400,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+15,CAN,devon kershaw,01:16:23.600,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+16,RUS,maxim vylegzhanin,01:17:04.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+17,NOR,martin johnsrud sundby,01:17:04.500,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+18,NOR,tord asle gjerdalen,01:17:04.500,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+19,SUI,curdin perl,01:17:05.000,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+20,GER,rene sommerfeldt,01:17:11.900,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+21,SUI,toni livers,01:17:26.000,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+22,SWE,daniel rickardsson,01:17:34.000,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+23,ITA,thomas moriggl,01:17:40.900,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+24,SVK,martin bajcicak,01:17:58.100,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+25,FRA,maurice manificat,01:17:58.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+26,CZE,martin jaks,01:17:58.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+27,KAZ,yevgeniy velichko,01:18:00.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+28,ROU,paul constantin pepene,01:19:34.100,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+29,FRA,jean marc gaillard,01:19:48.100,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+30,ESP,vicenc vilarrubla,01:19:48.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+31,RUS,nikolay pankratov,01:19:48.900,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+32,FIN,lari lehtonen,01:20:34.500,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+33,USA,james southam,01:20:46.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+34,GER,tom reichelt,01:21:13.200,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+35,NOR,eldar ronning,01:21:14.100,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+36,EST,aivar rehemaa,01:21:15.800,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+37,CZE,jiri magal,01:21:39.000,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+38,JPN,nobu naruse,01:22:11.100,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+39,ESP,javier gutierrez,01:22:20.400,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+40,UKR,roman leybyuk,01:22:32.000,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+41,EST,kaspar kokk,01:22:40.300,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+42,RUS,sergey novikov,01:22:44.300,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+43,SUI,remo fischer,01:22:52.100,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+44,USA,kris freeman,01:23:02.600,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+45,EST,karel tammjarv,01:23:02.900,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+46,AUS,ben sim,01:23:25.800,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+47,BLR,aliaksei ivanou,01:23:37.700,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+48,KAZ,sergey cherepanov,01:23:43.700,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+49,FRA,robin duvillard,01:23:57.600,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+50,GBR,andrew musgrave,01:24:07.900,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+51,UKR,oleksandr putsko,01:24:47.100,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+52,ITA,david hofer,01:25:02.600,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+53,LAT,janis paipals,lapped,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+54,DEN,jonas thor olsen,lapped,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+55,NZL,benjamin koons,lapped,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+56,FIN,ville nousiainen,Did not finish,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+57,AND,françois soulie,Did not finish,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+58,BLR,sergei dolidovich,Did not finish,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+59,BUL,veselin tsinzov,Did not finish,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+60,CZE,martin koukal,Did not finish,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+61,FIN,matti heikkinen,Did not finish,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+62,FIN,sami jauhojaervi,Did not finish,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+63,ROU,petrica hogiu,Did not finish,Vancouver 2010,Cross Country Skiing,Skiathlon 15km  15km men
+0,RUS,nikita kriukov,00:03:36.300,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+1,RUS,aleksandr panzhinsky,00:03:36.300,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+2,NOR,petter northug jr.,00:03:45.500,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+3,NOR,ola vigen hattestad,00:03:50.000,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+4,KAZ,alexey poltoranin,00:03:54.400,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+5,NOR,oeystein pettersen,00:04:56.200,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+6,SWE,emil joensson,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+7,RUS,mikhail devyatyarov,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+8,NOR,johan kjoelstad,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+9,FIN,kalle lassila,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+10,SWE,teodor peterson,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+11,FIN,sami jauhojaervi,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+12,KAZ,nikolay chebotko,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+13,EST,peeter kummel,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+14,CAN,stefan kuhn,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+15,FRA,cyril miranda,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+16,JPN,yuichi onda,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+17,SWE,jesper modin,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+18,SWE,bjoern lind,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+19,ITA,renato pasini,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+20,CHN,qinghai sun,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+21,FIN,jesse vaeaenaenen,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+22,CAN,devon kershaw,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+23,ITA,fabio pasini,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+24,POL,maciej kreczmer,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+25,RUS,nikolay morilov,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+26,EST,timo simonlatser,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+27,POL,janusz krezelok,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+28,USA,simeon hamilton,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+29,ITA,loris frasnelli,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+30,GER,josef wenzl,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+31,FRA,roddy darragon,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+32,GER,tim tscharnke,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+33,SUI,christoph eigenmann,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+34,CZE,dusan kozisek,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+35,USA,torin koos,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+36,FIN,matias strandvall,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+37,SUI,valerio leccardi,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+38,ITA,david hofer,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+39,CAN,drew goldsack,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+40,CAN,brent mcmurtry,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+41,EST,anti saarepuu,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+42,SUI,peter von allmen,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+43,CZE,ales razym,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+44,USA,andrew newell,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+45,LTU,mantas strolia,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+46,USA,garrott kuzzy,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+47,KAZ,sergey cherepanov,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+48,SUI,eligius tambornino,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+49,GRE,lefteris fafalis,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+50,BLR,leanid karneyenka,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+51,KAZ,yevgeniy koshevoy,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+52,LTU,aleksejus novoselskis,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+53,LTU,modestas vaiciulis,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+54,AUS,paul murray,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+55,AND,françois soulie,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+56,SVK,peter mlynar,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+57,GBR,andrew musgrave,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+58,EST,kein einaste,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+59,GBR,andrew young,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+60,RSA,oliver kraas,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+61,LAT,janis paipals,,Vancouver 2010,Cross Country Skiing,Sprint 15km men
+0,NOR,marit bjoergen,00:03:39.200,Vancouver 2010,Cross Country Skiing,sprint 15km women
+1,POL,justyna kowalczyk,00:03:40.300,Vancouver 2010,Cross Country Skiing,sprint 15km women
+2,SLO,petra majdic,00:03:41.000,Vancouver 2010,Cross Country Skiing,sprint 15km women
+3,SWE,anna dahlberg-olsson,00:03:41.700,Vancouver 2010,Cross Country Skiing,sprint 15km women
+4,ITA,magda genuin,00:03:49.100,Vancouver 2010,Cross Country Skiing,sprint 15km women
+5,NOR,celine brun-lie,00:03:51.500,Vancouver 2010,Cross Country Skiing,sprint 15km women
+6,NOR,astrid uhrenholdt jacobsen,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+7,USA,kikkan randall,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+8,FIN,virpi kuitunen,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+9,SWE,magdalena pajala,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+10,AUT,katerina smutna,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+11,RUS,nataliya korostelyova,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+12,FIN,aino-kaisa saarinen,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+13,GER,katrin zeller,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+14,SWE,ida ingemarsdotter,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+15,SLO,katja visnar,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+16,GER,nicole fessel,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+17,SVK,alena prochazkova,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+18,FIN,kirsi peraelae,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+19,NOR,maiken caspersen falla,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+20,FIN,pirjo muranen,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+21,CAN,daria gaiazova,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+22,SLO,vesna fabjan,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+23,FRA,aurore jean,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+24,GER,hanna kolb,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+25,CAN,chandra crawford,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+26,JPN,madoka natsumi,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+27,RUS,evgenia shapovalova,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+28,SWE,hanna falk,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+29,SUI,doris trachsel,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+30,EST,kaija udras,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+31,KAZ,oksana yatskaya,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+32,CZE,eva vrabcova - nyvltova,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+33,CAN,sara renner,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+34,RUS,elena turysheva,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+35,KAZ,yelena kolomina,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+36,EST,triin ojaste,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+37,USA,holly brooks,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+38,ITA,karin moroder,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+39,RUS,olga moskalenko,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+40,CAN,perianne jones,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+41,BLR,nastassia dubarezava,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+42,ITA,elisa brocard,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+43,ROU,monika gyorgy,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+44,KAZ,yelena volodina-antonova,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+45,BLR,olga vasiljonok,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+46,NZL,katherine calder,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+47,KAZ,marina matrossova,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+48,LTU,irina terentjeva,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+49,AUS,esther bottomley,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+50,CHN,dandan man,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+51,CRO,nina broznic,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+52,TUR,kelime cetinkaya,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+53,KGZ,olga reshetkova,,Vancouver 2010,Cross Country Skiing,sprint 15km women
+0,NOR,oeystein pettersen,,Vancouver 2010,Cross Country Skiing,Team sprint men
+1,GER,tim tscharnke,,Vancouver 2010,Cross Country Skiing,Team sprint men
+2,RUS,nikolay morilov,,Vancouver 2010,Cross Country Skiing,Team sprint men
+3,CAN,alex harvey,,Vancouver 2010,Cross Country Skiing,Team sprint men
+4,KAZ,nikolay chebotko,,Vancouver 2010,Cross Country Skiing,Team sprint men
+5,CZE,martin koukal,,Vancouver 2010,Cross Country Skiing,Team sprint men
+6,FRA,vincent vittoz,,Vancouver 2010,Cross Country Skiing,Team sprint men
+7,ITA,cristian zorzi,,Vancouver 2010,Cross Country Skiing,Team sprint men
+8,USA,andrew newell,,Vancouver 2010,Cross Country Skiing,Team sprint men
+9,FIN,lasse paakkonen,,Vancouver 2010,Cross Country Skiing,Team sprint men
+10,SUI,eligius tambornino,,Vancouver 2010,Cross Country Skiing,Team sprint men
+11,POL,maciej kreczmer,,Vancouver 2010,Cross Country Skiing,Team sprint men
+12,JPN,nobu naruse,,Vancouver 2010,Cross Country Skiing,Team sprint men
+13,SVK,ivan batory,,Vancouver 2010,Cross Country Skiing,Team sprint men
+14,SWE,teodor peterson,,Vancouver 2010,Cross Country Skiing,Team sprint men
+15,EST,anti saarepuu,,Vancouver 2010,Cross Country Skiing,Team sprint men
+16,ROU,petrica hogiu,,Vancouver 2010,Cross Country Skiing,Team sprint men
+17,LTU,mantas strolia,,Vancouver 2010,Cross Country Skiing,Team sprint men
+18,CHN,wenlong xu,,Vancouver 2010,Cross Country Skiing,Team sprint men
+19,AUS,ben sim,,Vancouver 2010,Cross Country Skiing,Team sprint men
+20,GBR,andrew musgrave,Did not finish,Vancouver 2010,Cross Country Skiing,Team sprint men
+21,BLR,sergei dolidovich,Did not finish,Vancouver 2010,Cross Country Skiing,Team sprint men
+0,GER,evi sachenbacher-stehle,,Vancouver 2010,Cross Country Skiing,Team sprint women
+1,SWE,anna haag,,Vancouver 2010,Cross Country Skiing,Team sprint women
+2,RUS,irina khazova,,Vancouver 2010,Cross Country Skiing,Team sprint women
+3,ITA,arianna follis,,Vancouver 2010,Cross Country Skiing,Team sprint women
+4,NOR,astrid uhrenholdt jacobsen,,Vancouver 2010,Cross Country Skiing,Team sprint women
+5,USA,caitlin gregg,,Vancouver 2010,Cross Country Skiing,Team sprint women
+6,CAN,sara renner,,Vancouver 2010,Cross Country Skiing,Team sprint women
+7,FIN,riitta-liisa roponen,,Vancouver 2010,Cross Country Skiing,Team sprint women
+8,FRA,laure barthelemy,,Vancouver 2010,Cross Country Skiing,Team sprint women
+9,SLO,vesna fabjan,,Vancouver 2010,Cross Country Skiing,Team sprint women
+10,KAZ,yelena kolomina,,Vancouver 2010,Cross Country Skiing,Team sprint women
+11,JPN,madoka natsumi,,Vancouver 2010,Cross Country Skiing,Team sprint women
+12,BLR,olga vasiljonok,,Vancouver 2010,Cross Country Skiing,Team sprint women
+13,UKR,maryna antsybor,,Vancouver 2010,Cross Country Skiing,Team sprint women
+14,EST,triin ojaste,,Vancouver 2010,Cross Country Skiing,Team sprint women
+15,CHN,hongxue li,,Vancouver 2010,Cross Country Skiing,Team sprint women
+16,SUI,bettina gruber,,Vancouver 2010,Cross Country Skiing,Team sprint women
+17,POL,kornelia kubinska,Disqualified,Vancouver 2010,Cross Country Skiing,Team sprint women

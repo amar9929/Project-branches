@@ -1,0 +1,683 @@
+,country,participant,result,olympic_game,discipline,event
+0,NOR,ragnhild gløersen haga,00:25:00.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+1,SWE,charlotte kalla,00:25:20.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+2,NOR,marit bjoergen,00:25:32.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+3,FIN,krista parmakoski,00:25:32.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+4,USA,jessica diggins,00:25:35.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+5,SUI,nathalie von siebenthal,00:25:50.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+6,NOR,ingvild flugstad oestberg,00:26:06.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+7,ROC,anastasia sedova,00:26:07.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+8,AUT,teresa stadlober,00:26:16.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+9,ROC,anna nechaevskaya,00:26:24.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+10,NOR,heidi weng,00:26:25.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+11,SLO,alenka cebasek,00:26:30.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+12,SWE,ebba andersson,00:26:32.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+13,FRA,coraline thomas hugue,00:26:37.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+14,USA,sadie bjornsen,00:26:42.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+15,USA,kikkan randall,00:26:50.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+16,ROC,alisa zhambalova,00:26:57.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+17,JPN,masako ishida,00:27:03.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+18,GER,victoria carl,00:27:04.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+19,FIN,riitta-liisa roponen,00:27:04.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+20,SWE,hanna falk,00:27:08.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+21,FRA,aurore jean,00:27:12.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+22,FIN,laura mononen,00:27:15.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+23,POL,sylwia jaskowiec,00:27:21.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+24,GER,stefanie boehler,00:27:21.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+25,GER,sandra ringwald,00:27:24.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+26,SLO,anamarija lampic,00:27:26.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+27,CZE,petra novakova,00:27:33.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+28,ITA,elisa brocard,00:27:34.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+29,USA,elizabeth stephen,00:27:35.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+30,ITA,ilaria debertolis,00:27:41.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+31,CAN,emily nishikawa,00:27:41.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+32,AUS,barbara jezersek,00:27:42.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+33,SWE,ida ingemarsdotter,00:27:42.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+34,FRA,anouk faivre picon,00:27:42.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+35,CHN,xin li,00:27:44.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+36,CAN,dahria beatty,00:27:48.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+37,ITA,sara pellegrini,00:28:01.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+38,ITA,lucia scardoni,00:28:04.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+39,BLR,yulia tikhonova,00:28:07.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+40,AUS,jessica yeaton,00:28:09.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+41,POL,ewelina marcisz,00:28:10.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+42,CAN,cendrine browne,00:28:12.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+43,LAT,patricija eiduka,00:28:13.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+44,CZE,katerina berouskova,00:28:14.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+45,UKR,maryna antsybor,00:28:18.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+46,KAZ,valeriya tyuleneva,00:28:20.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+47,BLR,polina seronosova,00:28:22.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+48,SUI,lydia hiernickel,00:28:33.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+49,EST,tatjana mannima,00:28:37.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+50,KOR,chaewon lee,00:28:37.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+51,UKR,tetiana antypenko,00:28:38.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+52,ROU,timea lorincz,00:28:40.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+53,SLO,manca slabanja,00:28:47.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+54,CHN,chunxue chi,00:28:49.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+55,KAZ,anna shevchenko,00:28:56.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+56,FRA,delphine claudel,00:28:58.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+57,SVK,alena prochazkova,00:28:59.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+58,CZE,barbora havlickova,00:29:00.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+59,CZE,petra hyncicova,00:29:09.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+60,AUT,anna roswitha seebacher,00:29:11.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+61,CAN,anne-marie comeau,00:29:11.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+62,KAZ,yelena kolomina,00:29:13.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+63,POL,martyna galewicz,00:29:23.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+64,BIH,tanja karisik-kosarac,00:29:24.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+65,BUL,antoniya grigorova,00:29:32.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+66,AUT,lisa unterweger,00:29:35.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+67,AUS,aimee watson,00:29:41.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+68,SLO,nika razinger,00:29:45.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+69,BLR,valiantsina kaminskaya,00:30:01.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+70,CRO,vedrana malec,00:30:20.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+71,ARM,katya galstyan,00:30:25.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+72,LTU,marija kaznacenko,00:30:44.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+73,BRA,jaqueline mourao,00:30:50.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+74,GBR,annika taylor,00:30:52.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+75,GRE,maria ntanou,00:31:04.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+76,HUN,emoke szocs,00:31:04.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+77,ISL,elsa gudrun jonsdottir,00:31:12.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+78,KOR,hyeri ju,00:31:27.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+79,LAT,inga pashkovska,00:31:34.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+80,AUS,casey wright,00:31:56.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+81,THA,karen chanloung,00:32:30.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+82,TOG,mathilde amivi petitjean,00:32:35.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+83,MGL,otgontsetseg chinbat,00:32:52.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+84,MKD,viktorija todorovska,00:32:57.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+85,TUR,aysenur duman,00:33:06.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+86,ARG,maria cecilia dominguez,00:34:16.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+87,MNE,marija bulatovic,00:35:24.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+88,PRK,yong gum ri,00:36:40.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+89,CHI,claudia salcedo,00:37:19.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 10km Free
+0,NOR,marit bjoergen,01:22:17.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+1,FIN,krista parmakoski,01:24:07.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+2,SWE,stina nilsson,01:24:16.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+3,NOR,ingvild flugstad oestberg,01:24:18.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+4,SWE,charlotte kalla,01:25:14.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+5,FIN,kerttu niskanen,01:25:19.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+6,USA,jessica diggins,01:25:54.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+7,NOR,heidi weng,01:26:25.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+8,AUT,teresa stadlober,01:26:31.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+9,JPN,masako ishida,01:26:38.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+10,ROC,anastasia sedova,01:26:46.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+11,NOR,ragnhild gløersen haga,01:27:11.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+12,SWE,ebba andersson,01:27:14.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+13,POL,justyna kowalczyk,01:27:21.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+14,ROC,alisa zhambalova,01:27:27.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+15,GER,stefanie boehler,01:28:42.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+16,USA,sadie bjornsen,01:28:50.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+17,FIN,johanna matintalo,01:28:58.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+18,GER,katharina hennig,01:29:48.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+19,FIN,aino-kaisa saarinen,01:30:32.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+20,USA,rosie frankowski,01:31:11.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+21,SUI,nathalie von siebenthal,01:31:27.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+22,CZE,katerina berouskova,01:31:41.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+23,ROC,nataliya nepryayeva,01:32:10.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+24,GER,victoria carl,01:32:42.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+25,USA,caitlin patterson,01:32:43.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+26,ITA,elisa brocard,01:33:33.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+27,EST,tatjana mannima,01:34:27.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+28,SWE,anna haag,01:34:31.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+29,CAN,emily nishikawa,01:34:31.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+30,KAZ,anna shevchenko,01:35:36.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+31,KAZ,valeriya tyuleneva,01:35:38.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+32,KAZ,yelena kolomina,01:35:38.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+33,ITA,anna comarella,01:35:48.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+34,ITA,sara pellegrini,01:36:07.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+35,SVK,alena prochazkova,01:36:50.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+36,CHN,xin li,01:38:04.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+37,UKR,tetiana antypenko,01:38:17.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+38,CZE,petra hyncicova,01:39:14.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+39,BLR,polina seronosova,01:39:36.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+40,ITA,lucia scardoni,01:40:26.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+41,AUS,jessica yeaton,01:40:54.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+42,CAN,cendrine browne,01:41:23.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+43,CHN,chunxue chi,01:42:03.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+44,BLR,valiantsina kaminskaya,01:42:27.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+45,CAN,anne-marie comeau,Did not finish,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+46,BLR,yulia tikhonova,Did not finish,PyeongChang 2018,Cross Country Skiing,Ladies’ 30km Mass Start Classic
+0,,,00:51:24.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+1,,,00:51:26.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+2,,,00:52:07.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+3,,,00:52:26.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+4,,,00:52:44.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+5,,,00:53:13.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+6,,,00:53:15.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+7,,,00:53:55.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+8,,,00:54:22.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+9,,,00:54:30.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+10,,,00:55:17.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+11,,,00:55:50.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+12,,,00:56:14.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+13,,,00:57:56.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 4x5km Relay
+0,SWE,charlotte kalla,00:40:44.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+1,NOR,marit bjoergen,00:40:52.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+2,FIN,krista parmakoski,00:40:55.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+3,SWE,ebba andersson,00:40:55.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+4,USA,jessica diggins,00:40:59.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+5,SUI,nathalie von siebenthal,00:41:02.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+6,AUT,teresa stadlober,00:41:11.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+7,ROC,nataliya nepryayeva,00:41:17.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+8,NOR,heidi weng,00:41:25.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+9,SWE,stina nilsson,00:41:33.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+10,NOR,ingvild flugstad oestberg,00:41:43.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+11,ROC,anastasia sedova,00:41:57.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+12,FRA,anouk faivre picon,00:42:03.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+13,JPN,masako ishida,00:42:04.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+14,NOR,ragnhild gløersen haga,00:42:07.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+15,FIN,kerttu niskanen,00:42:15.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+16,POL,justyna kowalczyk,00:42:30.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+17,ROC,yulia stupak,00:42:51.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+18,FIN,laura mononen,00:42:53.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+19,GER,victoria carl,00:42:54.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+20,ROC,alisa zhambalova,00:42:59.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+21,GER,katharina hennig,00:43:00.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+22,FRA,aurore jean,00:43:00.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+23,FIN,johanna matintalo,00:43:02.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+24,GER,stefanie boehler,00:43:02.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+25,ITA,elisa brocard,00:43:17.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+26,SUI,nadine faehndrich,00:43:50.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+27,CZE,petra novakova,00:43:55.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+28,FRA,coraline thomas hugue,00:43:56.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+29,POL,sylwia jaskowiec,00:43:56.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+30,POL,ewelina marcisz,00:43:56.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+31,SWE,anna haag,00:44:01.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+32,CAN,cendrine browne,00:44:01.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+33,USA,caitlin patterson,00:44:14.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+34,ITA,sara pellegrini,00:44:16.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+35,KAZ,anna shevchenko,00:44:25.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+36,ITA,anna comarella,00:44:25.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+37,CZE,katerina berouskova,00:44:32.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+38,AUS,barbara jezersek,00:44:39.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+39,USA,kikkan randall,00:44:47.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+40,POL,martyna galewicz,00:44:51.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+41,BLR,yulia tikhonova,00:44:57.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+42,CZE,barbora havlickova,00:45:12.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+43,CAN,emily nishikawa,00:45:16.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+44,UKR,tetiana antypenko,00:45:31.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+45,BLR,polina seronosova,00:45:34.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+46,CZE,petra hyncicova,00:45:42.400,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+47,CAN,anne-marie comeau,00:45:42.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+48,ITA,ilaria debertolis,00:45:44.600,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+49,AUS,jessica yeaton,00:45:44.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+50,CHN,xin li,00:46:01.900,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+51,CAN,dahria beatty,00:46:17.300,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+52,UKR,maryna antsybor,00:46:18.200,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+53,KAZ,yelena kolomina,00:46:28.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+54,CHN,chunxue chi,00:46:39.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+55,EST,tatjana mannima,00:46:41.700,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+56,KOR,chaewon lee,00:46:44.500,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+57,USA,rosie brennan,00:47:36.000,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+58,SLO,manca slabanja,00:47:57.800,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+59,GBR,annika taylor,00:48:09.100,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+60,KAZ,valeriya tyuleneva,Did not finish,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+61,GER,nicole fessel,Did not start,PyeongChang 2018,Cross Country Skiing,Ladies’ 7.5km+7.5km Skiathlon
+0,SWE,stina nilsson,00:03:03.840,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+1,NOR,maiken caspersen falla,00:03:06.870,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+2,ROC,yulia stupak,00:03:07.210,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+3,ROC,nataliya nepryayeva,00:03:12.980,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+4,SWE,hanna falk,00:03:15.000,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+5,USA,jessica diggins,00:03:15.070,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+6,SLO,anamarija lampic,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+7,USA,sophie caldwell,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+8,FIN,krista parmakoski,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+9,SUI,laurien van der graaff,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+10,NOR,heidi weng,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+11,SWE,anna dyvik,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+12,SWE,ida ingemarsdotter,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+13,USA,sadie bjornsen,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+14,GER,sandra ringwald,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+15,SLO,katja visnar,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+16,NOR,ingvild flugstad oestberg,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+17,NOR,kathrine rolsted harsem,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+18,FIN,johanna matintalo,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+19,SUI,nadine faehndrich,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+20,ITA,gaia vuerich,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+21,POL,justyna kowalczyk,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+22,FIN,kerttu niskanen,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+23,ITA,lucia scardoni,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+24,FIN,aino-kaisa saarinen,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+25,CZE,katerina berouskova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+26,GER,katharina hennig,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+27,GER,elisabeth schicho,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+28,KAZ,anna shevchenko,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+29,SLO,alenka cebasek,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+30,SVK,alena prochazkova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+31,ITA,greta laurent,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+32,USA,ida sargent,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+33,CAN,emily nishikawa,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+34,BLR,yulia tikhonova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+35,GER,hanna kolb,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+36,POL,sylwia jaskowiec,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+37,POL,ewelina marcisz,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+38,EST,tatjana mannima,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+39,BLR,anastasia kirillova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+40,BLR,polina seronosova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+41,CAN,dahria beatty,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+42,CZE,karolina grohova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+43,ROC,alisa zhambalova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+44,CZE,petra hyncicova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+45,FRA,aurore jean,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+46,BLR,valiantsina kaminskaya,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+47,AUS,jessica yeaton,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+48,CHN,xin li,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+49,AUT,lisa unterweger,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+50,CAN,cendrine browne,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+51,SLO,nika razinger,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+52,SVK,barbora klementova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+53,UKR,tetiana antypenko,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+54,KAZ,yelena kolomina,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+55,UKR,maryna antsybor,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+56,CHN,chunxue chi,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+57,AUS,aimee watson,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+58,TOG,mathilde amivi petitjean,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+59,KAZ,valeriya tyuleneva,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+60,ROU,timea lorincz,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+61,LAT,patricija eiduka,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+62,AUS,casey wright,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+63,CRO,vedrana malec,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+64,CRO,gabrijela skender,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+65,BUL,antoniya grigorova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+66,KOR,hyeri ju,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+67,IRI,samaneh beyrami baher,,PyeongChang 2018,Cross Country Skiing,Ladies’ Sprint Classic
+0,USA,jessica diggins,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+1,SWE,stina nilsson,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+2,NOR,maiken caspersen falla,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+3,SUI,nadine faehndrich,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+4,FIN,mari laukkanen,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+5,SLO,alenka cebasek,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+6,POL,sylwia jaskowiec,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+7,FRA,aurore jean,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+8,ROC,yulia stupak,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+9,GER,nicole fessel,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+10,CZE,katerina berouskova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+11,AUS,jessica yeaton,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+12,CAN,dahria beatty,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+13,AUT,teresa stadlober,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+14,ITA,elisa brocard,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+15,BLR,polina seronosova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+16,CHN,xin li,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+17,SVK,barbora klementova,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+18,UKR,tetiana antypenko,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+19,KAZ,valeriya tyuleneva,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+20,KOR,chaewon lee,,PyeongChang 2018,Cross Country Skiing,Ladies’ Team Sprint Free
+0,SUI,dario cologna,00:33:43.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+1,NOR,simen hegstad krueger,00:34:02.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+2,ROC,denis spitsov,00:34:06.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+3,NOR,martin johnsrud sundby,00:34:08.800,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+4,FRA,maurice manificat,00:34:10.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+5,NOR,hans christer holund,00:34:18.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+6,CAN,alex harvey,00:34:19.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+7,SWE,marcus hellner,00:34:22.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+8,SWE,calle halfvarsson,00:34:44.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+9,FIN,matti heikkinen,00:34:45.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+10,SWE,daniel rickardsson,00:34:55.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+11,SUI,roman furger,00:34:56.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+12,JPN,keishin yoshida,00:34:59.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+13,ROC,andrey melnichenko,00:35:02.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+14,GER,lucas boegl,00:35:04.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+15,CZE,martin jaks,00:35:05.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+16,FRA,adrien backscheider,00:35:12.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+17,NOR,finn haagen krogh,00:35:14.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+18,SWE,jens burman,00:35:15.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+19,ROC,andrey larkov,00:35:25.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+20,USA,scott patterson,00:35:28.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+21,FRA,jean marc gaillard,00:35:35.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+22,CZE,petr knop,00:35:35.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+23,GER,andreas katz,00:35:38.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+24,FRA,clement parisse,00:35:39.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+25,AND,irineu esteve altimiras,00:35:40.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+26,GBR,andrew musgrave,00:35:51.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+27,CZE,ales razym,00:35:59.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+28,FIN,lari lehtonen,00:36:01.800,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+29,GER,sebastian eisenlauer,00:36:03.800,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+30,POL,dominik bury,00:36:11.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+31,SUI,toni livers,00:36:14.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+32,FIN,perttu hyvarinen,00:36:17.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+33,BUL,veselin tsinzov,00:36:17.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+34,ROU,paul constantin pepene,00:36:19.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+35,CAN,graeme killick,00:36:23.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+36,AUT,bernhard tritscher,00:36:24.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+37,BLR,mikhail siamionau,00:36:25.800,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+38,USA,erik bjornsen,00:36:28.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+39,ROU,alin florin cioanca,00:36:31.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+40,ITA,mirco bertolina,00:36:33.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+41,KOR,magnus kim,00:36:39.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+42,CZE,michal novak,00:36:42.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+43,CRO,kresimir crnkovic,00:36:44.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+44,USA,noah hoffman,00:36:45.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+45,ROC,alexey vitsenko,00:36:46.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+46,SUI,candide pralong,00:36:47.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+47,FIN,anssi pentsinen,00:36:54.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+48,LIE,martin voegeli,00:36:57.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+49,CRO,edi dadic,00:36:57.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+50,KAZ,vitaliy pukhkalo,00:36:57.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+51,BLR,yury astapenka,00:37:04.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+52,ISL,snorri eythor einarsson,00:37:05.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+53,GBR,andrew young,00:37:13.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+54,EST,raido raenkel,00:37:21.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+55,ITA,stefan zelger,00:37:27.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+56,KAZ,yevgeniy velichko,00:37:28.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+57,ESP,imanol rojo,00:37:35.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+58,IRL,thomas maloney westgaard,00:37:36.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+59,KAZ,denis volotka,00:37:39.800,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+60,LAT,indulis bikse,00:37:44.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+61,BEL,thierry langer,00:37:45.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+62,SVK,peter mlynar,00:37:46.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+63,SRB,damir rastic,00:37:47.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+64,CAN,knute johnsgaard,00:37:48.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+65,AUS,callum watson,00:37:53.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+66,CAN,devon kershaw,00:38:01.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+67,ITA,sergio rigoni,00:38:03.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+68,BLR,aliaksandr voranau,00:38:05.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+69,USA,tyler kornfield,00:38:17.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+70,GBR,callum smith,00:38:20.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+71,BIH,mladen plakalovic,00:38:27.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+72,AUS,phillip bellingham,00:38:36.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+73,POL,kamil bury,00:38:38.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+74,THA,mark chanloung,00:38:40.800,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+75,SVK,miroslav sulek,00:38:44.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+76,GRE,apostolos angelis,00:38:56.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+77,POL,maciej starega,00:38:58.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+78,ARM,mikayel mikayelyan,00:39:01.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+79,UKR,oleksii krasovskyi,00:39:05.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+80,KOR,eunho kim,00:39:07.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+81,UKR,andrii orlyk,00:39:11.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+82,SVK,andrej segec,00:39:13.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+83,SLO,miha simenc,00:39:16.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+84,HUN,adam konya,00:39:27.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+85,DEN,martin moeller,00:39:35.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+86,IRI,seyed sattar seyd,00:39:39.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+87,TUR,hamza dursun,00:40:05.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+88,TUR,omer aycicek,00:40:28.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+89,LTU,mantas strolia,00:40:31.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+90,BUL,yordan chuchuganov,00:40:39.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+91,LTU,modestas vaiciulis,00:40:53.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+92,MGL,achbadrakh batmunkh,00:41:40.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+93,CHN,qinghai sun,00:41:55.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+94,MKD,stavre jada,00:42:14.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+95,ARG,matias zuloaga,00:42:27.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+96,PRK,chun gyong han,00:42:29.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+97,CHI,yonathan jesus fernandez,00:42:49.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+98,IND,jagdish singh,00:43:00.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+99,BER,tucker murphy,00:43:05.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+100,BOL,timo juhani gronlund,00:43:18.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+101,MDA,nicolae gaiduc,00:43:43.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+102,PRK,il chol pak,00:43:43.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+103,PAK,syed human,00:45:19.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+104,LBN,samer tawk,00:47:03.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+105,BRA,victor cesar da cunha santos,00:47:09.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+106,MAR,samir azzimani,00:47:39.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+107,ECU,klaus jungbluth rodriguez,00:53:30.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+108,POR,kequyen lam,00:54:34.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+109,TGA,pita nikolas taufatofua,00:56:41.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+110,COL,sebastian uprimny,00:58:08.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+111,MEX,german madrazo,00:59:35.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+112,ESP,marti vigo del arco,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+113,ITA,dietmar noeckler,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+114,EST,karel tammjarv,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+115,AUT,max hauke,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+116,AUT,dominik baldauf,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+117,EST,andreas veerpalu,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+118,CHN,qiang wang,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 15km Free
+0,NOR,simen hegstad krueger,01:16:20.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+1,NOR,martin johnsrud sundby,01:16:28.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+2,NOR,hans christer holund,01:16:29.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+3,ROC,denis spitsov,01:16:32.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+4,FRA,maurice manificat,01:16:34.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+5,SUI,dario cologna,01:16:45.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+6,GBR,andrew musgrave,01:16:45.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+7,CAN,alex harvey,01:16:53.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+8,CZE,martin jaks,01:16:53.800,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+9,NOR,johannes hoesflot klaebo,01:17:03.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+10,GER,thomas bing,01:17:03.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+11,SWE,marcus hellner,01:17:04.800,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+12,FRA,clement parisse,01:17:08.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+13,SWE,daniel rickardsson,01:17:12.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+14,FRA,jules lapierre,01:17:19.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+15,GER,lucas boegl,01:17:19.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+16,SWE,jens burman,01:17:23.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+17,USA,scott patterson,01:17:27.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+18,FIN,iivo niskanen,01:17:34.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+19,ITA,francesco de fabiani,01:17:54.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+20,FIN,matti heikkinen,01:17:55.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+21,GER,jonas dobler,01:17:56.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+22,ROC,alexey vitsenko,01:18:02.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+23,ROU,paul constantin pepene,01:18:20.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+24,JPN,keishin yoshida,01:18:23.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+25,ITA,giandomenico salvadori,01:18:36.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+26,FRA,jean marc gaillard,01:18:48.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+27,ROC,andrey melnichenko,01:18:50.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+28,ROC,andrey larkov,01:18:50.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+29,SUI,candide pralong,01:19:15.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+30,FIN,lari lehtonen,01:19:26.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+31,KAZ,vitaliy pukhkalo,01:19:46.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+32,GER,andreas katz,01:19:49.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+33,CAN,devon kershaw,01:19:55.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+34,ITA,dietmar noeckler,01:19:55.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+35,CZE,petr knop,01:20:12.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+36,SUI,jonas baumann,01:20:13.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+37,SUI,toni livers,01:20:13.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+38,FIN,perttu hyvarinen,01:20:28.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+39,USA,erik bjornsen,01:20:54.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+40,KAZ,yevgeniy velichko,01:21:03.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+41,BLR,mikhail siamionau,01:21:12.000,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+42,CAN,graeme killick,01:21:39.600,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+43,AND,irineu esteve altimiras,01:21:47.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+44,ITA,sergio rigoni,01:22:54.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+45,ESP,imanol rojo,01:23:06.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+46,BLR,yury astapenka,01:23:12.500,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+47,USA,patrick caldwell,01:23:18.100,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+48,POL,dominik bury,01:23:20.300,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+49,CRO,kresimir crnkovic,01:23:26.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+50,USA,noah hoffman,01:23:28.700,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+51,CZE,ales razym,01:23:33.800,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+52,ISL,snorri eythor einarsson,01:23:33.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+53,GBR,callum smith,01:23:49.900,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+54,AUS,callum watson,01:25:15.400,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+55,LIE,martin voegeli,01:26:08.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+56,IRL,thomas maloney westgaard,01:32:34.200,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+57,UKR,oleksii krasovskyi,lapped,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+58,CAN,knute johnsgaard,lapped,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+59,LTU,mantas strolia,lapped,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+60,CHN,qiang wang,lapped,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+61,KOR,eunho kim,lapped,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+62,CRO,edi dadic,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+63,SWE,calle halfvarsson,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+64,BLR,sergei dolidovich,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+65,AUT,max hauke,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+66,EST,karel tammjarv,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+67,EST,andreas veerpalu,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 15km+15km Skiathlon
+0,,,01:33:04.900,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+1,,,01:33:14.300,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+2,,,01:33:41.800,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+3,,,01:34:45.400,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+4,,,01:35:10.500,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+5,,,01:35:13.100,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+6,,,01:35:40.100,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+7,,,01:36:45.900,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+8,,,01:37:23.000,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+9,,,01:38:01.400,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+10,,,01:42:29.100,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+11,,,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+12,,,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+13,,,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 4x10km Relay
+0,FIN,iivo niskanen,02:08:22.100,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+1,ROC,alexander bolshunov,02:08:40.800,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+2,ROC,andrey larkov,02:10:59.600,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+3,CAN,alex harvey,02:11:05.700,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+4,NOR,martin johnsrud sundby,02:11:05.800,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+5,NOR,hans christer holund,02:11:12.200,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+6,SWE,daniel rickardsson,02:12:12.500,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+7,CZE,martin jaks,02:12:32.600,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+8,SUI,dario cologna,02:12:43.200,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+9,NOR,emil iversen,02:12:59.000,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+10,USA,scott patterson,02:13:14.200,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+11,ROC,alexey chervotkin,02:13:19.000,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+12,NOR,niklas dyrhaug,02:13:20.500,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+13,GER,andreas katz,02:13:32.300,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+14,ITA,giandomenico salvadori,02:13:45.400,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+15,FRA,jean marc gaillard,02:14:31.400,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+16,ITA,maicol rastelli,02:15:10.000,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+17,ROC,denis spitsov,02:16:24.600,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+18,ITA,dietmar noeckler,02:16:29.200,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+19,ITA,francesco de fabiani,02:17:14.300,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+20,JPN,keishin yoshida,02:17:21.900,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+21,FRA,clement parisse,02:17:25.400,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+22,FIN,matti heikkinen,02:17:34.800,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+23,CAN,devon kershaw,02:17:49.400,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+24,CAN,graeme killick,02:18:28.800,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+25,SWE,jens burman,02:18:34.500,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+26,FIN,perttu hyvarinen,02:18:38.500,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+27,GER,thomas bing,02:18:41.100,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+28,SUI,candide pralong,02:18:41.500,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+29,ROU,paul constantin pepene,02:18:44.000,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+30,USA,noah hoffman,02:19:04.100,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+31,AND,irineu esteve altimiras,02:19:08.300,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+32,ESP,imanol rojo,02:19:10.100,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+33,GBR,andrew musgrave,02:20:57.900,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+34,KAZ,yevgeniy velichko,02:21:43.200,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+35,SWE,viktor thorn,02:21:53.800,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+36,CZE,ales razym,02:22:06.800,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+37,AUT,bernhard tritscher,02:22:47.700,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+38,FIN,ristomatti hakola,02:22:50.100,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+39,BLR,mikhail siamionau,02:22:51.200,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+40,SUI,ueli schnider,02:23:17.300,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+41,GER,lucas boegl,02:23:42.800,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+42,KOR,magnus kim,02:24:14.000,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+43,USA,tyler kornfield,02:24:36.500,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+44,CAN,russell kennedy,02:25:16.600,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+45,UKR,oleksii krasovskyi,02:25:36.400,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+46,SVK,peter mlynar,02:26:14.700,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+47,KAZ,vitaliy pukhkalo,02:27:10.600,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+48,SVK,andrej segec,02:27:44.300,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+49,GBR,callum smith,02:27:56.300,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+50,CZE,petr knop,02:29:20.900,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+51,AUS,phillip bellingham,02:30:39.700,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+52,LAT,indulis bikse,02:31:07.500,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+53,AUS,callum watson,02:33:28.600,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+54,CHN,qiang wang,02:34:43.000,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+55,DEN,martin moeller,02:36:10.800,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+56,LTU,mantas strolia,lapped,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+57,KAZ,denis volotka,Did not start,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+58,THA,mark chanloung,lapped,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+59,KOR,eunho kim,lapped,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+60,GER,jonas dobler,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+61,CZE,miroslav rypl,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+62,BUL,veselin tsinzov,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+63,SVK,miroslav sulek,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+64,SWE,calle halfvarsson,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+65,ISL,snorri eythor einarsson,Did not finish,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+66,KAZ,alexey poltoranin,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+67,AUT,max hauke,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+68,EST,andreas veerpalu,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+69,EST,algo karp,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+70,IRL,thomas maloney westgaard,Did not start,PyeongChang 2018,Cross Country Skiing,Men’s 50km Mass Start Classic
+0,NOR,johannes hoesflot klaebo,00:03:05.750,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+1,ITA,federico pellegrino,00:03:07.090,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+2,ROC,alexander bolshunov,00:03:07.110,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+3,NOR,paal golberg,00:03:09.560,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+4,SWE,oskar svensson,00:03:13.480,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+5,FIN,ristomatti hakola,00:03:26.470,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+6,CAN,len valjas,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+7,NOR,emil iversen,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+8,SWE,teodor peterson,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+9,FIN,martti jylhae,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+10,ROC,aleksandr panzhinsky,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+11,FRA,baptiste gros,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+12,SWE,calle halfvarsson,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+13,FIN,iivo niskanen,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+14,GER,thomas bing,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+15,FRA,richard jouve,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+16,EST,marko kilp,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+17,SUI,jovian hediger,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+18,USA,simeon hamilton,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+19,ROC,alexey vitsenko,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+20,NOR,eirik brandsdal,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+21,SVK,peter mlynar,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+22,BLR,aliaksandr voranau,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+23,USA,erik bjornsen,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+24,ITA,maicol rastelli,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+25,SWE,viktor thorn,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+26,GER,sebastian eisenlauer,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+27,FIN,lauri vuorinen,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+28,POL,kamil bury,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+29,EST,raido raenkel,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+30,CAN,alex harvey,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+31,SLO,miha simenc,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+32,FRA,lucas chanavat,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+33,CAN,jesse cockney,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+34,USA,andrew newell,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+35,POL,maciej starega,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+36,SUI,ueli schnider,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+37,ITA,mirco bertolina,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+38,ITA,stefan zelger,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+39,USA,logan hanneman,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+40,CZE,ales razym,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+41,LTU,modestas vaiciulis,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+42,GBR,andrew young,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+43,SLO,janez lampic,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+44,ROU,alin florin cioanca,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+45,ROC,andrey melnichenko,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+46,KOR,magnus kim,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+47,SUI,erwan kaeser,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+48,KAZ,denis volotka,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+49,AUT,luis stadlober,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+50,CAN,russell kennedy,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+51,ISL,isak stianson pedersen,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+52,SVK,andrej segec,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+53,THA,mark chanloung,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+54,CZE,miroslav rypl,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+55,BUL,veselin tsinzov,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+56,CZE,michal novak,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+57,SVK,miroslav sulek,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+58,IRL,thomas maloney westgaard,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+59,LAT,indulis bikse,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+60,LTU,mantas strolia,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+61,AUS,phillip bellingham,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+62,CHN,qiang wang,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+63,HUN,adam konya,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+64,BUL,yordan chuchuganov,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+65,CRO,edi dadic,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+66,UKR,oleksii krasovskyi,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+67,TUR,hamza dursun,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+68,ARM,mikayel mikayelyan,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+69,UKR,andrii orlyk,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+70,GRE,apostolos angelis,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+71,SRB,damir rastic,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+72,IRI,seyed sattar seyd,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+73,TUR,omer aycicek,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+74,KGZ,tariel zharkymbaev,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+75,MKD,stavre jada,,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+76,CHN,qinghai sun,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+77,KAZ,alexey poltoranin,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+78,AUT,dominik baldauf,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+79,EST,karel tammjarv,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s Sprint Classic
+0,NOR,johannes hoesflot klaebo,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+1,ROC,alexander bolshunov,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+2,FRA,richard jouve,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+3,SWE,marcus hellner,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+4,ITA,dietmar noeckler,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+5,USA,erik bjornsen,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+6,CZE,ales razym,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+7,CAN,alex harvey,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+8,FIN,ristomatti hakola,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+9,GER,sebastian eisenlauer,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+10,SUI,roman furger,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+11,GBR,andrew musgrave,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+12,POL,maciej starega,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+13,BLR,mikhail siamionau,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+14,ROU,alin florin cioanca,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+15,ESP,marti vigo del arco,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+16,UKR,andrii orlyk,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+17,SLO,janez lampic,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+18,SVK,peter mlynar,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+19,BUL,veselin tsinzov,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+20,LTU,mantas strolia,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+21,AUS,phillip bellingham,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+22,KOR,magnus kim,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+23,CHN,qinghai sun,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+24,TUR,omer aycicek,,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+25,AUT,bernhard tritscher,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+26,KAZ,alexey poltoranin,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free
+27,EST,marko kilp,Disqualified,PyeongChang 2018,Cross Country Skiing,Men’s Team Sprint Free

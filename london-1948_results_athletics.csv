@@ -1,0 +1,609 @@
+,country,participant,result,olympic_game,discipline,event
+0,TCH,emil zatopek,00:29:59.600,London 1948,Athletics,10000m men
+1,FRA,alain mimoun,00:30:47.400,London 1948,Athletics,10000m men
+2,SWE,bertil albertsson,00:30:53.600,London 1948,Athletics,10000m men
+3,NOR,martin stokken,00:30:58.600,London 1948,Athletics,10000m men
+4,SWE,severt dennolf,00:31:05.000,London 1948,Athletics,10000m men
+5,FRA,abdallah ben said,00:31:07.800,London 1948,Athletics,10000m men
+6,GBR,stanley ernest walter cox,00:31:08.000,London 1948,Athletics,10000m men
+7,GBR,james henry peters,00:31:16.000,London 1948,Athletics,10000m men
+8,FIN,salomon könönen,,London 1948,Athletics,10000m men
+9,USA,edward david o'toole,,London 1948,Athletics,10000m men
+10,USA,frederick loren wilt,,London 1948,Athletics,10000m men
+11,ARG,ricardo r. bralo,TNK,London 1948,Athletics,10000m men
+12,ARG,eusebio c. guinez,TNK,London 1948,Athletics,10000m men
+13,NOR,jacob kjersem,TNK,London 1948,Athletics,10000m men
+14,NED,josef lataster,TNK,London 1948,Athletics,10000m men
+15,CHN,wenao luo,TNK,London 1948,Athletics,10000m men
+16,GBR,steven h. mccooke,TNK,London 1948,Athletics,10000m men
+17,ESP,constantino miranda justo,TNK,London 1948,Athletics,10000m men
+18,NZL,william harold nelson,TNK,London 1948,Athletics,10000m men
+19,FRA,andre paris,TNK,London 1948,Athletics,10000m men
+20,TTO,manny ramjohn,TNK,London 1948,Athletics,10000m men
+21,ESP,gregorio rojo sagredo,TNK,London 1948,Athletics,10000m men
+22,IRL,paddy fahey,Did not finish,London 1948,Athletics,10000m men
+23,FIN,viljo heino,Did not finish,London 1948,Athletics,10000m men
+24,FIN,evert heinström,Did not finish,London 1948,Athletics,10000m men
+25,BEL,robert everaert,Did not finish,London 1948,Athletics,10000m men
+26,USA,herman goffberg,Did not finish,London 1948,Athletics,10000m men
+27,KOR,kee-yong ham,Did not start,London 1948,Athletics,10000m men
+28,ARG,delfo cabrera,Did not start,London 1948,Athletics,10000m men
+29,GRE,vasilios mavrapostolos,Did not start,London 1948,Athletics,10000m men
+30,HUN,jenö szilagyi,Did not start,London 1948,Athletics,10000m men
+31,KOR,bok-seok sim,Did not start,London 1948,Athletics,10000m men
+0,SWE,john mikaelsson,00:45:13.200,London 1948,Athletics,10000m walk men
+1,SWE,ingemar johansson,00:45:43.800,London 1948,Athletics,10000m walk men
+2,SUI,erich arthur fritz schwab,00:46:00.200,London 1948,Athletics,10000m walk men
+3,GBR,charles james morris,00:46:04.000,London 1948,Athletics,10000m walk men
+4,GBR,harold george churcher,00:47:28.000,London 1948,Athletics,10000m walk men
+5,FRA,emile maggi,00:47:02.800,London 1948,Athletics,10000m walk men
+6,GBR,richard a. west,,London 1948,Athletics,10000m walk men
+7,ITA,giovanni corsaro,,London 1948,Athletics,10000m walk men
+8,ITA,giuseppe dordoni,,London 1948,Athletics,10000m walk men
+9,SWE,werner hardmo,Disqualified,London 1948,Athletics,10000m walk men
+10,RSA,jacobus karel chr. reyneke,,London 1948,Athletics,10000m walk men
+11,USA,ernest weber,,London 1948,Athletics,10000m walk men
+12,USA,frederick sharaga,,London 1948,Athletics,10000m walk men
+13,FRA,louis françois chevalier,,London 1948,Athletics,10000m walk men
+14,IND,sadhu singh,,London 1948,Athletics,10000m walk men
+15,USA,henry helmut laskau,,London 1948,Athletics,10000m walk men
+0,USA,harrison dillard,10.300,London 1948,Athletics,100m men
+1,USA,harold norwood ewell,10.400,London 1948,Athletics,100m men
+2,PAN,lloyd labeach,10.600,London 1948,Athletics,100m men
+3,GBR,alastair mccorquodale,,London 1948,Athletics,100m men
+4,USA,melvin emery patton,,London 1948,Athletics,100m men
+5,GBR,emmanuel mcdonald bailey,,London 1948,Athletics,100m men
+6,BER,perry johnson,,London 1948,Athletics,100m men
+7,FRA,etienne marcel bally,,London 1948,Athletics,100m men
+8,POL,bogdan lipski,Did not start,London 1948,Athletics,100m men
+9,ESP,ricardo sáenz,Did not start,London 1948,Athletics,100m men
+10,IRL,john o'donnell,Did not start,London 1948,Athletics,100m men
+11,CAN,jack parry,Did not start,London 1948,Athletics,100m men
+12,IRL,joe kelly,Did not start,London 1948,Athletics,100m men
+13,FRA,joseph stephan,Did not start,London 1948,Athletics,100m men
+14,GRE,kyros marinis,Did not start,London 1948,Athletics,100m men
+15,JAM,vincent george rhoden,Did not start,London 1948,Athletics,100m men
+16,POR,tomas paquete,Did not start,London 1948,Athletics,100m men
+17,RSA,dennis victor shore,Did not start,London 1948,Athletics,100m men
+18,SRI,john de saram,Did not start,London 1948,Athletics,100m men
+19,SRI,duncan white,Did not start,London 1948,Athletics,100m men
+0,NED,fanny blankers-koen,11.900,London 1948,Athletics,100m women
+1,GBR,dorothy gladys manley,12.200,London 1948,Athletics,100m women
+2,AUS,shirley strickland-de la hunty,12.200,London 1948,Athletics,100m women
+3,CAN,viola myers,12.3est,London 1948,Athletics,100m women
+4,CAN,patricia jones,12.4est,London 1948,Athletics,100m women
+5,JAM,cynthia thompson,12.6est,London 1948,Athletics,100m women
+6,HUN,jolán mertin,Did not start,London 1948,Athletics,100m women
+7,FRA,léa caurla,Did not start,London 1948,Athletics,100m women
+8,JAM,mavis evelyn,Did not start,London 1948,Athletics,100m women
+9,HUN,l. f. eirand,Did not start,London 1948,Athletics,100m women
+10,HUN,zsilvia varga,Did not start,London 1948,Athletics,100m women
+11,AUT,elfriede steurer,Did not start,London 1948,Athletics,100m women
+12,FRA,liliane sprecher,Did not start,London 1948,Athletics,100m women
+13,JAM,carmen phipps,Did not start,London 1948,Athletics,100m women
+0,USA,william franklin iii porter,13.900,London 1948,Athletics,110m hurdles men
+1,USA,clyde scott,14.100,London 1948,Athletics,110m hurdles men
+2,USA,craig dixon,14.100,London 1948,Athletics,110m hurdles men
+3,ARG,alberto ubaldo triulzi,14.600,London 1948,Athletics,110m hurdles men
+4,AUS,peter john gardner,14.7est,London 1948,Athletics,110m hurdles men
+5,SWE,hakan lidman,14.8est,London 1948,Athletics,110m hurdles men
+6,FRA,andre jacques marie,,London 1948,Athletics,110m hurdles men
+7,GBR,donald finlay,,London 1948,Athletics,110m hurdles men
+8,TUR,mustapha batman,Did not start,London 1948,Athletics,110m hurdles men
+9,PER,santiago ferrando dietz,Did not start,London 1948,Athletics,110m hurdles men
+0,SWE,henry eriksson,00:03:49.800,London 1948,Athletics,1500m men
+1,SWE,lennart strand,00:03:50.400,London 1948,Athletics,1500m men
+2,NED,willem slijkhuis,00:03:50.400,London 1948,Athletics,1500m men
+3,TCH,vaclav cevona,00:03:51.200,London 1948,Athletics,1500m men
+4,SWE,gösta bergkvist,00:03:52.200,London 1948,Athletics,1500m men
+5,GBR,george william nankeville,00:03:52.600,London 1948,Athletics,1500m men
+6,HUN,sandor garai,00:03:54.400,London 1948,Athletics,1500m men
+7,USA,don gehrmann,00:03:54.500,London 1948,Athletics,1500m men
+8,DEN,erik arne jörgensen,00:03:56.100,London 1948,Athletics,1500m men
+9,LUX,joseph barthel,00:03:56.900,London 1948,Athletics,1500m men
+10,FRA,marcel hansenne,00:04:02.000,London 1948,Athletics,1500m men
+11,FIN,denis severus johansson,,London 1948,Athletics,1500m men
+12,PER,antero mongrut munoz,,London 1948,Athletics,1500m men
+13,TTO,wilfred tull,,London 1948,Athletics,1500m men
+14,CAN,comer william parnell,,London 1948,Athletics,1500m men
+15,AUT,bruno schneider,Did not start,London 1948,Athletics,1500m men
+16,ESP,daniel poyán,Did not start,London 1948,Athletics,1500m men
+17,ARG,adan mario torres,Did not start,London 1948,Athletics,1500m men
+18,BEL,gaston etienne reiff,Did not start,London 1948,Athletics,1500m men
+19,BEL,raymond rosier,Did not start,London 1948,Athletics,1500m men
+20,SUI,hans a. streuli,Did not start,London 1948,Athletics,1500m men
+0,USA,melvin emery patton,21.100,London 1948,Athletics,200m men
+1,USA,harold norwood ewell,21.100,London 1948,Athletics,200m men
+2,PAN,lloyd labeach,21.200,London 1948,Athletics,200m men
+3,JAM,herbert mckenley,21.3est,London 1948,Athletics,200m men
+4,USA,clifford frederick bourland,21.3est,London 1948,Athletics,200m men
+5,JAM,les laing,21.8est,London 1948,Athletics,200m men
+6,POL,bogdan lipski,Did not start,London 1948,Athletics,200m men
+7,IND,eric prabhakar,Did not start,London 1948,Athletics,200m men
+8,ESP,ricardo sáenz,Did not start,London 1948,Athletics,200m men
+9,IRL,john o'donnell,Did not start,London 1948,Athletics,200m men
+10,CAN,jack parry,Did not start,London 1948,Athletics,200m men
+11,ARG,alberto c. biedermann,Did not start,London 1948,Athletics,200m men
+12,AUS,john bartram,Did not start,London 1948,Athletics,200m men
+13,AUS,morris joseph curotta,Did not start,London 1948,Athletics,200m men
+14,HUN,ferenc tima,Did not start,London 1948,Athletics,200m men
+15,POR,tomas paquete,Did not start,London 1948,Athletics,200m men
+0,NED,fanny blankers-koen,24.400,London 1948,Athletics,200m women
+1,GBR,audrey doreen swayne williamson,25.100,London 1948,Athletics,200m women
+2,AUS,shirley strickland-de la hunty,25.3est,London 1948,Athletics,200m women
+3,USA,audrey mickey patterson,25.200,London 1948,Athletics,200m women
+4,GBR,margaret walker,25.6est,London 1948,Athletics,200m women
+5,RSA,daphne lilian evelyn robb-hasenjäger,25.7est,London 1948,Athletics,200m women
+6,TCH,olga siknerova,,London 1948,Athletics,200m women
+7,CHI,annegret weller schneider,,London 1948,Athletics,200m women
+8,AUT,elisabeth ranftl,Did not start,London 1948,Athletics,200m women
+9,FRA,léa caurla,Did not start,London 1948,Athletics,200m women
+10,AUT,grete jenny,Did not start,London 1948,Athletics,200m women
+11,CHI,adriana millard pacheco,Did not start,London 1948,Athletics,200m women
+12,JAM,carmen phipps,Did not start,London 1948,Athletics,200m women
+0,SWE,tore sjöstrand,00:09:04.600,London 1948,Athletics,3000m steeplechase men
+1,SWE,erik elmsater,00:09:08.200,London 1948,Athletics,3000m steeplechase men
+2,SWE,göte hagström,00:09:11.800,London 1948,Athletics,3000m steeplechase men
+3,FRA,alexandre guyodo,00:09:13.600,London 1948,Athletics,3000m steeplechase men
+4,FIN,pentti siltaloppi,00:09:19.600,London 1948,Athletics,3000m steeplechase men
+5,YUG,petar segedin,00:09:20.400,London 1948,Athletics,3000m steeplechase men
+6,USA,harris browning ross,00:09:24.100,London 1948,Athletics,3000m steeplechase men
+7,ESP,constantino miranda justo,00:09:26.600,London 1948,Athletics,3000m steeplechase men
+8,BEL,robert everaert,00:09:28.200,London 1948,Athletics,3000m steeplechase men
+9,FIN,aarne kainlauri,00:09:29.000,London 1948,Athletics,3000m steeplechase men
+10,FRA,roger chesneau,00:09:30.200,London 1948,Athletics,3000m steeplechase men
+11,FRA,raphael pujazon,Did not finish,London 1948,Athletics,3000m steeplechase men
+12,HUN,laszlo jeszenszki,Did not start,London 1948,Athletics,3000m steeplechase men
+13,HUN,jenö szilagyi,Did not start,London 1948,Athletics,3000m steeplechase men
+14,NED,willem slijkhuis,Did not start,London 1948,Athletics,3000m steeplechase men
+0,USA,roy braxton cochran,51.100,London 1948,Athletics,400m hurdles men
+1,SRI,duncan white,51.800,London 1948,Athletics,400m hurdles men
+2,SWE,rune larsson,52.200,London 1948,Athletics,400m hurdles men
+3,USA,richard francis ault,52.400,London 1948,Athletics,400m hurdles men
+4,FRA,yves cros,53.300,London 1948,Athletics,400m hurdles men
+5,ITA,ottavio missoni,54.000,London 1948,Athletics,400m hurdles men
+6,ESP,josé luis rubio,Did not start,London 1948,Athletics,400m hurdles men
+7,PHI,bernabe o. lovina,Did not start,London 1948,Athletics,400m hurdles men
+8,POR,fernando alex fernandes,Did not start,London 1948,Athletics,400m hurdles men
+9,PUR,julio sabater,Did not start,London 1948,Athletics,400m hurdles men
+0,JAM,arthur wint,46.200,London 1948,Athletics,400m men
+1,JAM,herbert mckenley,46.400,London 1948,Athletics,400m men
+2,USA,malvin groston whitfield,46.900,London 1948,Athletics,400m men
+3,USA,david benjamin bolen,47.200,London 1948,Athletics,400m men
+4,AUS,morris joseph curotta,47.900,London 1948,Athletics,400m men
+5,USA,george james guida,50.200,London 1948,Athletics,400m men
+6,ARG,rodolfo carrera,Did not start,London 1948,Athletics,400m men
+7,DEN,herluf eigil christensen,Did not start,London 1948,Athletics,400m men
+8,DEN,niels holst-sörensen,Did not start,London 1948,Athletics,400m men
+9,NZL,doug harris,Did not start,London 1948,Athletics,400m men
+10,PER,santiago ferrando dietz,Did not start,London 1948,Athletics,400m men
+11,SRI,duncan white,Did not start,London 1948,Athletics,400m men
+12,URU,mario fayos,Did not start,London 1948,Athletics,400m men
+13,YUG,jerko bulic,Did not start,London 1948,Athletics,400m men
+0,,,40.600,London 1948,Athletics,4x100m relay men
+1,,,41.300,London 1948,Athletics,4x100m relay men
+2,,,41.500,London 1948,Athletics,4x100m relay men
+3,,,41.600,London 1948,Athletics,4x100m relay men
+4,,,41.900,London 1948,Athletics,4x100m relay men
+5,,,41.900,London 1948,Athletics,4x100m relay men
+6,,,,London 1948,Athletics,4x100m relay men
+7,,,,London 1948,Athletics,4x100m relay men
+8,,,,London 1948,Athletics,4x100m relay men
+9,,,Did not start,London 1948,Athletics,4x100m relay men
+0,,,47.500,London 1948,Athletics,4x100m relay women
+1,,,47.600,London 1948,Athletics,4x100m relay women
+2,,,47.800,London 1948,Athletics,4x100m relay women
+3,,,48.000,London 1948,Athletics,4x100m relay women
+4,,,48.200,London 1948,Athletics,4x100m relay women
+5,,,49.200,London 1948,Athletics,4x100m relay women
+6,,,,London 1948,Athletics,4x100m relay women
+7,,,Did not start,London 1948,Athletics,4x100m relay women
+8,,,Did not start,London 1948,Athletics,4x100m relay women
+0,,,00:03:10.400,London 1948,Athletics,4x400m relay men
+1,,,00:03:14.800,London 1948,Athletics,4x400m relay men
+2,,,00:03:16.000,London 1948,Athletics,4x400m relay men
+3,,,00:03:24.800,London 1948,Athletics,4x400m relay men
+4,,,DNF,London 1948,Athletics,4x400m relay men
+5,,,DNF,London 1948,Athletics,4x400m relay men
+6,,,,London 1948,Athletics,4x400m relay men
+7,,,Did not start,London 1948,Athletics,4x400m relay men
+8,,,Did not start,London 1948,Athletics,4x400m relay men
+0,BEL,gaston etienne reiff,00:14:17.600,London 1948,Athletics,5000m men
+1,TCH,emil zatopek,00:14:17.800,London 1948,Athletics,5000m men
+2,NED,willem slijkhuis,00:14:26.800,London 1948,Athletics,5000m men
+3,SWE,erik ahlden,00:14:28.600,London 1948,Athletics,5000m men
+4,SWE,bertil albertsson,00:14:39.000,London 1948,Athletics,5000m men
+5,USA,curtis charles stone,00:14:39.400,London 1948,Athletics,5000m men
+6,FIN,väinö koskela,00:14:41.000,London 1948,Athletics,5000m men
+7,FIN,väinö mäkela,00:14:43.000,London 1948,Athletics,5000m men
+8,BEL,marcel eugene van de wattyne,,London 1948,Athletics,5000m men
+9,NOR,martin stokken,,London 1948,Athletics,5000m men
+10,FIN,helge perälä,,London 1948,Athletics,5000m men
+11,SWE,evert nyberg,Did not finish,London 1948,Athletics,5000m men
+12,DEN,aage börge poulsen,,London 1948,Athletics,5000m men
+13,IRL,john joe barry,,London 1948,Athletics,5000m men
+14,TUR,mustafa özcan,,London 1948,Athletics,5000m men
+15,USA,clarence robison,,London 1948,Athletics,5000m men
+16,IRL,martin egan,Did not start,London 1948,Athletics,5000m men
+17,ARG,ricardo r. bralo,Did not start,London 1948,Athletics,5000m men
+18,ESP,constantino miranda justo,Did not start,London 1948,Athletics,5000m men
+19,NOR,jacob kjersem,Did not start,London 1948,Athletics,5000m men
+0,SWE,john artur ljunggren,04:41:52.000,London 1948,Athletics,50km walk men
+1,SUI,gaston godel,04:48:17.000,London 1948,Athletics,50km walk men
+2,GBR,terence lloyd johnson,04:48:31.000,London 1948,Athletics,50km walk men
+3,NOR,edgar helge bruun,04:53:18.000,London 1948,Athletics,50km walk men
+4,GBR,harold albert martineau,04:53:58.000,London 1948,Athletics,50km walk men
+5,SWE,rune bjurström,04:56:43.000,London 1948,Athletics,50km walk men
+6,FRA,pierre mazille,05:01:40.000,London 1948,Athletics,50km walk men
+7,FRA,claude hubert,05:03:12.000,London 1948,Athletics,50km walk men
+8,ESP,enrique villaplana vargas,05:03:31.000,London 1948,Athletics,50km walk men
+9,SWE,tage jönsson,05:05:08.000,London 1948,Athletics,50km walk men
+10,FRA,henri e. caron,05:08:15.000,London 1948,Athletics,50km walk men
+11,USA,george william ernest crosbie,05:15:16.000,London 1948,Athletics,50km walk men
+12,HUN,sandor laszlo,05:16:30.000,London 1948,Athletics,50km walk men
+13,ITA,salvatore cascino,05:20:03.000,London 1948,Athletics,50km walk men
+14,USA,john michael deni,05:28:33.000,London 1948,Athletics,50km walk men
+15,USA,adolph j. weinacker,05:30:14.000,London 1948,Athletics,50km walk men
+16,NOR,gerhard ditlev winther,Did not finish,London 1948,Athletics,50km walk men
+17,GBR,george bernard rex whitlock,Did not finish,London 1948,Athletics,50km walk men
+18,ITA,francesco pretti,Did not finish,London 1948,Athletics,50km walk men
+19,NOR,per olav baarnaas,Did not finish,London 1948,Athletics,50km walk men
+20,ITA,valentino bertolini,Did not finish,London 1948,Athletics,50km walk men
+21,IND,sadhu singh,Did not finish,London 1948,Athletics,50km walk men
+22,ARG,sixto ibanez,Did not finish,London 1948,Athletics,50km walk men
+0,USA,malvin groston whitfield,00:01:49.200,London 1948,Athletics,800m men
+1,JAM,arthur wint,00:01:49.500,London 1948,Athletics,800m men
+2,FRA,marcel hansenne,00:01:49.800,London 1948,Athletics,800m men
+3,USA,herbert otto barten,00:01:50.100,London 1948,Athletics,800m men
+4,SWE,ingvar bengtsson,00:01:50.500,London 1948,Athletics,800m men
+5,USA,robert david chambers,00:01:52.100,London 1948,Athletics,800m men
+6,FRA,robert chef d'hotel,00:01:53.000,London 1948,Athletics,800m men
+7,GBR,harold john parlett,00:01:53.400,London 1948,Athletics,800m men
+8,DEN,niels holst-sörensen,00:01:54.000,London 1948,Athletics,800m men
+9,SUI,karl volkmer,,London 1948,Athletics,800m men
+10,GBR,harry tarraway,,London 1948,Athletics,800m men
+11,NZL,doug harris,,London 1948,Athletics,800m men
+12,SUI,hans a. streuli,,London 1948,Athletics,800m men
+13,DEN,herluf eigil christensen,,London 1948,Athletics,800m men
+14,IRL,seamus kelly,Did not start,London 1948,Athletics,800m men
+15,AUT,bruno schneider,Did not start,London 1948,Athletics,800m men
+16,IRL,dermot mcdermott,Did not start,London 1948,Athletics,800m men
+0,NED,fanny blankers-koen,11.200,London 1948,Athletics,80m hurdles women
+1,GBR,maureen angela jane gardner,11.200,London 1948,Athletics,80m hurdles women
+2,AUS,shirley strickland-de la hunty,11.400,London 1948,Athletics,80m hurdles women
+3,FRA,yvette monginou,11.8est,London 1948,Athletics,80m hurdles women
+4,AUT,maria oberbreyer-trösch,11.8est,London 1948,Athletics,80m hurdles women
+5,TCH,libuse lomska-geislerova,11.9est,London 1948,Athletics,80m hurdles women
+0,USA,robert mathias,354,London 1948,Athletics,decathlon men
+1,FRA,ignace heinrich,517,London 1948,Athletics,decathlon men
+2,USA,floyd macon jr. simmons,426,London 1948,Athletics,decathlon men
+3,ARG,enrique kistenmacher,478,London 1948,Athletics,decathlon men
+4,SWE,erik p. andersson,589,London 1948,Athletics,decathlon men
+5,AUS,peter mullins,321,London 1948,Athletics,decathlon men
+6,SWE,per eriksson,575,London 1948,Athletics,decathlon men
+7,USA,igving mondschein,477,London 1948,Athletics,decathlon men
+8,POL,edward adamczyk,406,London 1948,Athletics,decathlon men
+9,NOR,godtfred holmvang,633,London 1948,Athletics,decathlon men
+10,NOR,per stavem,373,London 1948,Athletics,decathlon men
+11,ISL,örn clausen,375,London 1948,Athletics,decathlon men
+12,FIN,yrjö mäkelä,426,London 1948,Athletics,decathlon men
+13,FRA,paul sprecher,589,London 1948,Athletics,decathlon men
+14,SWE,kjell tannander,387,London 1948,Athletics,decathlon men
+15,POL,waclaw kuzmicki,531,London 1948,Athletics,decathlon men
+16,FIN,hannes sonck,404,London 1948,Athletics,decathlon men
+17,YUG,davorin marcelja,443,London 1948,Athletics,decathlon men
+18,POL,witold gerutto,320,London 1948,Athletics,decathlon men
+19,CHI,hernan figueroa,378,London 1948,Athletics,decathlon men
+20,URU,hercules ascune,364,London 1948,Athletics,decathlon men
+21,FRA,jacques cretaine,306,London 1948,Athletics,decathlon men
+22,SUI,fritz nussbaum,399,London 1948,Athletics,decathlon men
+23,CHI,mario recordon burnier,445,London 1948,Athletics,decathlon men
+24,CAN,lionel joseph fournier,347,London 1948,Athletics,decathlon men
+25,BEL,albert dayer,407,London 1948,Athletics,decathlon men
+26,SUI,oskar gerber,355,London 1948,Athletics,decathlon men
+27,EGY,sayed ezz el din moukhtar,368,London 1948,Athletics,decathlon men
+28,IND,baldev singh,Did not finish,London 1948,Athletics,decathlon men
+29,LIE,josef seger,Did not finish,London 1948,Athletics,decathlon men
+30,YUG,oto rebula,Did not finish,London 1948,Athletics,decathlon men
+31,PER,eduardo julve ciriaco,Did not finish,London 1948,Athletics,decathlon men
+32,LUX,rené kremer,Did not finish,London 1948,Athletics,decathlon men
+33,LIE,gebhard büchel,Did not finish,London 1948,Athletics,decathlon men
+34,SUI,armin scheurer,Did not finish,London 1948,Athletics,decathlon men
+35,EGY,rashad khadr,Did not start,London 1948,Athletics,decathlon men
+36,POR,fernando alex fernandes,Did not start,London 1948,Athletics,decathlon men
+0,ITA,adolfo consolini,52.78,London 1948,Athletics,discus throw men
+1,ITA,giuseppe tosi,51.78,London 1948,Athletics,discus throw men
+2,USA,fortune edward gordien,50.77,London 1948,Athletics,discus throw men
+3,NOR,ivar ramstad,49.21,London 1948,Athletics,discus throw men
+4,HUN,ferenc klics,48.21,London 1948,Athletics,discus throw men
+5,FIN,karl veikko valdemar nyqvist,47.33,London 1948,Athletics,discus throw men
+6,GRE,nikolaos syllas,47.25,London 1948,Athletics,discus throw men
+7,NOR,stein jean johnson,46.54,London 1948,Athletics,discus throw men
+8,FIN,arvo armas huutoniemi,45.28,London 1948,Athletics,discus throw men
+9,SWE,uno fransson,45.25,London 1948,Athletics,discus throw men
+10,AUT,hermann tunner,44.43,London 1948,Athletics,discus throw men
+11,PER,eduardo julve ciriaco,44.05,London 1948,Athletics,discus throw men
+12,KOR,yung-han an,,London 1948,Athletics,discus throw men
+13,NED,aad de bruyn,Did not start,London 1948,Athletics,discus throw men
+14,ESP,josé carvajal,Did not start,London 1948,Athletics,discus throw men
+15,FRA,raymond kirstetter,Did not start,London 1948,Athletics,discus throw men
+16,ESP,josé luis torres,Did not start,London 1948,Athletics,discus throw men
+17,FRA,ignace heinrich,Did not start,London 1948,Athletics,discus throw men
+18,KOR,gang-hwan gin,Did not start,London 1948,Athletics,discus throw men
+19,POL,mieczyslaw lomowski,Did not start,London 1948,Athletics,discus throw men
+0,FRA,micheline ostermeyer,,London 1948,Athletics,discus throw women
+1,ITA,edera cordiale-gentile,,London 1948,Athletics,discus throw women
+2,FRA,jacqueline mazeas,,London 1948,Athletics,discus throw women
+3,POL,jadwiga wajsourna,,London 1948,Athletics,discus throw women
+4,AUT,charlotte elisabeth haidegger,,London 1948,Athletics,discus throw women
+5,NED,ans panhorst-niesink,,London 1948,Athletics,discus throw women
+6,SWE,majken aberg,,London 1948,Athletics,discus throw women
+7,ARG,ingeborg mello de preiss,,London 1948,Athletics,discus throw women
+8,AUT,frieda tiltsch,,London 1948,Athletics,discus throw women
+9,FRA,paulette veste,,London 1948,Athletics,discus throw women
+10,USA,frances theresa kaszubski,,London 1948,Athletics,discus throw women
+11,SWE,gudrun arenander,,London 1948,Athletics,discus throw women
+12,NED,petronella geraldina roos-lodder,,London 1948,Athletics,discus throw women
+13,GBR,bevis anael reid,,London 1948,Athletics,discus throw women
+14,AUT,marianne schläger,,London 1948,Athletics,discus throw women
+15,USA,dorothy lucille dodson,,London 1948,Athletics,discus throw women
+16,ITA,gabre gabric-calvesi,,London 1948,Athletics,discus throw women
+17,KOR,bong-sik park,,London 1948,Athletics,discus throw women
+18,GBR,margaret j. birtwistle,,London 1948,Athletics,discus throw women
+19,GBR,elspeth a. whyte,,London 1948,Athletics,discus throw women
+20,YUG,julija matej,,London 1948,Athletics,discus throw women
+0,HUN,imre nemeth,56.07,London 1948,Athletics,hammer throw men
+1,YUG,ivan gubijan,54.27,London 1948,Athletics,hammer throw men
+2,USA,robert howard bennett,53.73,London 1948,Athletics,hammer throw men
+3,USA,samuel morse jr. felton,53.66,London 1948,Athletics,hammer throw men
+4,FIN,lauri esko olavi tamminen,53.08,London 1948,Athletics,hammer throw men
+5,SWE,bo ericsson,52.98,London 1948,Athletics,hammer throw men
+6,ITA,teseo taddia,51.74,London 1948,Athletics,hammer throw men
+7,SWE,einar söderqvist,51.48,London 1948,Athletics,hammer throw men
+8,USA,henry francis dreyer,51.37,London 1948,Athletics,hammer throw men
+9,DEN,svend aage frederiksen,50.07,London 1948,Athletics,hammer throw men
+10,GBR,duncan mcdougall clark,48.35,London 1948,Athletics,hammer throw men
+11,NED,johan frederik marie houtzager,45.69,London 1948,Athletics,hammer throw men
+12,KOR,gang-hwan gin,43.93,London 1948,Athletics,hammer throw men
+13,NED,aad de bruyn,Did not start,London 1948,Athletics,hammer throw men
+14,HUN,lajos petiko,Did not start,London 1948,Athletics,hammer throw men
+15,TUR,toma balci,Did not start,London 1948,Athletics,hammer throw men
+0,AUS,john winter,1.98,London 1948,Athletics,high jump men
+1,NOR,bjorn andreas paulson,1.95,London 1948,Athletics,high jump men
+2,USA,george anthony stanich,1.95,London 1948,Athletics,high jump men
+3,USA,dike eddleman,1.95,London 1948,Athletics,high jump men
+4,FRA,geogres etienne damitio,1.95,London 1948,Athletics,high jump men
+5,CAN,arthur m. jackes,1.9,London 1948,Athletics,high jump men
+6,GBR,alan sinclair paterson,1.9,London 1948,Athletics,high jump men
+7,SUI,hans wahli,1.9,London 1948,Athletics,high jump men
+8,CHI,alfredo jadresic vargas,1.9,London 1948,Athletics,high jump men
+9,FRA,pierre lacaze,1.9,London 1948,Athletics,high jump men
+10,SWE,göran widenfelt,1.9,London 1948,Athletics,high jump men
+11,GBR,prince adegboyega adedoyin,1.9,London 1948,Athletics,high jump men
+12,NOR,birger leirud,1.9,London 1948,Athletics,high jump men
+13,SGP,lloyd valberg,1.8,London 1948,Athletics,high jump men
+14,URU,hercules ascune,1.8,London 1948,Athletics,high jump men
+15,USA,verne voorhees jr. mcgrew,1.8,London 1948,Athletics,high jump men
+16,FIN,kuuno ola honkonen,1.8,London 1948,Athletics,high jump men
+17,IND,s. gurnam singh,1.8,London 1948,Athletics,high jump men
+18,FIN,nils ole nicklen,,London 1948,Athletics,high jump men
+19,NOR,bjørn gundersen,,London 1948,Athletics,high jump men
+20,AUS,thomas theodore bruce,Did not start,London 1948,Athletics,high jump men
+21,AUS,peter mullins,Did not start,London 1948,Athletics,high jump men
+22,MEX,jorge aguirre,Did not start,London 1948,Athletics,high jump men
+0,USA,alice marie coachman,1.68,London 1948,Athletics,high jump women
+1,GBR,dorothy beatrice j. odam-tyler,1.68,London 1948,Athletics,high jump women
+2,FRA,micheline ostermeyer,1.61,London 1948,Athletics,high jump women
+3,JAM,vinton beckett,1.58,London 1948,Athletics,high jump women
+4,CAN,doreen m. dredge,1.58,London 1948,Athletics,high jump women
+5,GBR,bertha crowther,1.58,London 1948,Athletics,high jump women
+6,AUT,ilse steinegger,1.55,London 1948,Athletics,high jump women
+7,GBR,dora kathleen gardner,1.55,London 1948,Athletics,high jump women
+8,DEN,annemarie rönnov iversen,1.5,London 1948,Athletics,high jump women
+9,FRA,simone ruas-peirone,1.5,London 1948,Athletics,high jump women
+10,JAM,carmen phipps,1.5,London 1948,Athletics,high jump women
+11,USA,cynthia bernice robinson,1.5,London 1948,Athletics,high jump women
+12,CAN,shirley gordon,1.5,London 1948,Athletics,high jump women
+13,FRA,anne-marie colchen,1.4,London 1948,Athletics,high jump women
+14,USA,emma reed,1.4,London 1948,Athletics,high jump women
+15,LUX,catherine bourkel,1.4,London 1948,Athletics,high jump women
+16,BRA,elisabeth clara müller,1.4,London 1948,Athletics,high jump women
+17,HUN,olga gyarmati,1.4,London 1948,Athletics,high jump women
+18,CAN,elaine silburn,1.4,London 1948,Athletics,high jump women
+19,ARG,noemi simonetto de portela,Did not start,London 1948,Athletics,high jump women
+20,LUX,milena ludwig,Did not start,London 1948,Athletics,high jump women
+21,NED,fanny blankers-koen,Did not start,London 1948,Athletics,high jump women
+0,FIN,kaj tapio rautavaara,69.77,London 1948,Athletics,javelin throw men
+1,USA,stephen andrew seymour,67.56,London 1948,Athletics,javelin throw men
+2,HUN,jozsef varszegi,67.03,London 1948,Athletics,javelin throw men
+3,FIN,pauli vesterinen,65.89,London 1948,Athletics,javelin throw men
+4,NOR,odd maehlum,65.32,London 1948,Athletics,javelin throw men
+5,USA,martin broomall biles,65.17,London 1948,Athletics,javelin throw men
+6,YUG,marko vujacic,64.89,London 1948,Athletics,javelin throw men
+7,USA,bob likins,64.51,London 1948,Athletics,javelin throw men
+8,SWE,gunnar pettersson,62.8,London 1948,Athletics,javelin throw men
+9,SWE,per-arne berglund,62.62,London 1948,Athletics,javelin throw men
+10,TCH,ladislav (lubomir) kiesewetter,60.25,London 1948,Athletics,javelin throw men
+11,FIN,soini mikael nikkinen,58.05,London 1948,Athletics,javelin throw men
+12,SWE,sven daleflod,Did not start,London 1948,Athletics,javelin throw men
+13,AUT,erwin pektor,Did not start,London 1948,Athletics,javelin throw men
+14,PER,luis ganoza,Did not start,London 1948,Athletics,javelin throw men
+15,PER,jaime piqueras sanchez,Did not start,London 1948,Athletics,javelin throw men
+0,AUT,hermine (herma) bauma,OR,London 1948,Athletics,javelin throw women
+1,FIN,kaisa parviainen,,London 1948,Athletics,javelin throw women
+2,DEN,lily marie louise carlstedt-kelsby,,London 1948,Athletics,javelin throw women
+3,USA,dorothy lucille dodson,,London 1948,Athletics,javelin throw women
+4,NED,johanna elisabeth teunissen-waalboer,,London 1948,Athletics,javelin throw women
+5,NED,johanna koning,,London 1948,Athletics,javelin throw women
+6,TCH,dana ingrova-zatopkova,,London 1948,Athletics,javelin throw women
+7,NED,elly dammers,,London 1948,Athletics,javelin throw women
+8,AUT,gerda schilling-staniek,,London 1948,Athletics,javelin throw women
+9,SWE,ingrid almqvist,,London 1948,Athletics,javelin throw women
+10,POL,melania sinoracka,,London 1948,Athletics,javelin throw women
+11,USA,theresa altaneze manuel,,London 1948,Athletics,javelin throw women
+12,BEL,nicolle adrienne saeys,,London 1948,Athletics,javelin throw women
+13,GBR,marian katherine long,,London 1948,Athletics,javelin throw women
+14,GBR,gladys m. clarke,,London 1948,Athletics,javelin throw women
+15,AUT,ine schäffer-mayer,Did not start,London 1948,Athletics,javelin throw women
+16,ARG,ingeborg mello de preiss,Did not start,London 1948,Athletics,javelin throw women
+0,USA,william samuel steele,7.825,London 1948,Athletics,long jump men
+1,AUS,thomas theodore bruce,7.555,London 1948,Athletics,long jump men
+2,USA,herbert paul jr. douglas,7.545,London 1948,Athletics,long jump men
+3,USA,lorenzo christopher wright,7.45,London 1948,Athletics,long jump men
+4,GBR,prince adegboyega adedoyin,7.27,London 1948,Athletics,long jump men
+5,FRA,geogres etienne damitio,7.07,London 1948,Athletics,long jump men
+6,GBR,harold whittle,7.03,London 1948,Athletics,long jump men
+7,AUT,felix würth,7,London 1948,Athletics,long jump men
+8,GBR,henry edward askew,6.935,London 1948,Athletics,long jump men
+9,ARG,enrique kistenmacher,6.8,London 1948,Athletics,long jump men
+10,POL,edward adamczyk,6.735,London 1948,Athletics,long jump men
+11,SRI,gallage peiris,,London 1948,Athletics,long jump men
+12,CAN,jack parry,Did not start,London 1948,Athletics,long jump men
+13,AUS,george gordon avery,Did not start,London 1948,Athletics,long jump men
+14,AUS,peter mullins,Did not start,London 1948,Athletics,long jump men
+15,BRA,geraldo de oliveira,Did not start,London 1948,Athletics,long jump men
+16,CAN,lionel joseph fournier,Did not start,London 1948,Athletics,long jump men
+17,FRA,rene valmy,Did not start,London 1948,Athletics,long jump men
+0,HUN,olga gyarmati,5.695,London 1948,Athletics,long jump women
+1,ARG,noemi simonetto de portela,5.6,London 1948,Athletics,long jump women
+2,SWE,ann-britt leyman,5.575,London 1948,Athletics,long jump women
+3,NED,gerda johanna marie van der kade-koudijs,5.57,London 1948,Athletics,long jump women
+4,NED,neeltje jannetje karelse,5.545,London 1948,Athletics,long jump women
+5,JAM,kathleen may russell,5.495,London 1948,Athletics,long jump women
+6,AUS,judy canty,5.38,London 1948,Athletics,long jump women
+7,FRA,yvonne alice curtet-chabot,5.35,London 1948,Athletics,long jump women
+8,AUT,maria oberbreyer-trösch,5.24,London 1948,Athletics,long jump women
+9,AUT,ilse steinegger,5.195,London 1948,Athletics,long jump women
+10,JAM,vinton beckett,5.145,London 1948,Athletics,long jump women
+11,USA,emma reed,4.845,London 1948,Athletics,long jump women
+12,YUG,spomenka koledin,Did not start,London 1948,Athletics,long jump women
+13,HUN,ilona tolnai-rákhely,Did not start,London 1948,Athletics,long jump women
+14,NED,fanny blankers-koen,Did not start,London 1948,Athletics,long jump women
+15,JAM,carmen phipps,Did not start,London 1948,Athletics,long jump women
+0,ARG,delfo cabrera,02:34:51.600,London 1948,Athletics,marathon men
+1,GBR,thomas john henry richards,02:35:07.600,London 1948,Athletics,marathon men
+2,BEL,etienne gailly,02:35:33.600,London 1948,Athletics,marathon men
+3,RSA,johannes lodewyk coleman,02:36:06.000,London 1948,Athletics,marathon men
+4,ARG,eusebio c. guinez,02:36:36.000,London 1948,Athletics,marathon men
+5,RSA,thomas sidney andrew luyt,02:38:11.000,London 1948,Athletics,marathon men
+6,SWE,gustav östling,02:38:40.600,London 1948,Athletics,marathon men
+7,NOR,john systad,02:38:41.000,London 1948,Athletics,marathon men
+8,ARG,alberto sensini,02:39:30.000,London 1948,Athletics,marathon men
+9,DEN,henning karl larsen,02:41:22.000,London 1948,Athletics,marathon men
+10,FIN,viljo heino,02:41:32.000,London 1948,Athletics,marathon men
+11,SWE,anders melin,02:42:20.000,London 1948,Athletics,marathon men
+12,FIN,jussi kurikkala,02:42:48.000,London 1948,Athletics,marathon men
+13,USA,theodore john vogel,02:45:27.000,London 1948,Athletics,marathon men
+14,CHI,enrique inostroza,02:47:48.000,London 1948,Athletics,marathon men
+15,CAN,lloyd evans,02:48:07.000,London 1948,Athletics,marathon men
+16,CAN,gerard cote,02:48:31.000,London 1948,Athletics,marathon men
+17,GRE,stelios kyriakidis,02:49:00.000,London 1948,Athletics,marathon men
+18,HUN,jozsef kiss,02:50:20.000,London 1948,Athletics,marathon men
+19,TUR,şevki koru,02:51:07.000,London 1948,Athletics,marathon men
+20,USA,john adelbert kelley,02:51:56.000,London 1948,Athletics,marathon men
+21,SUI,kaspar schiesser,02:52:09.000,London 1948,Athletics,marathon men
+22,CAN,walter a. fedorick,02:52:12.000,London 1948,Athletics,marathon men
+23,USA,aulis olavi manninen,02:56:49.000,London 1948,Athletics,marathon men
+24,KOR,chong-oh hong,02:56:54.000,London 1948,Athletics,marathon men
+25,IRL,frank mulvihill,02:57:35.000,London 1948,Athletics,marathon men
+26,KOR,yun-bok su,02:59:36.000,London 1948,Athletics,marathon men
+27,SWE,sven hakansson,03:00:09.000,London 1948,Athletics,marathon men
+28,SUI,jakob jutz,03:03:55.000,London 1948,Athletics,marathon men
+29,GBR,stanley f. jones,03:09:16.000,London 1948,Athletics,marathon men
+30,KOR,yoon-chil choi,Did not finish,London 1948,Athletics,marathon men
+31,FRA,arsene piesset,Did not finish,London 1948,Athletics,marathon men
+32,GRE,athanasios ragazos,Did not finish,London 1948,Athletics,marathon men
+33,CHN,wenao luo,Did not finish,London 1948,Athletics,marathon men
+34,GBR,john thomas holden,Did not finish,London 1948,Athletics,marathon men
+35,SUI,hans frischknecht,Did not finish,London 1948,Athletics,marathon men
+36,IND,chhota singh,Did not finish,London 1948,Athletics,marathon men
+37,FRA,rene josset,Did not finish,London 1948,Athletics,marathon men
+38,FIN,mikko hietanen,Did not finish,London 1948,Athletics,marathon men
+39,ITA,salvatore constantino,Did not finish,London 1948,Athletics,marathon men
+40,FRA,pierre cousin,Did not finish,London 1948,Athletics,marathon men
+41,ESP,josé maría blay,Did not start,London 1948,Athletics,marathon men
+42,LUX,charles heirendt,Did not start,London 1948,Athletics,marathon men
+43,HUN,istvan simon,Did not start,London 1948,Athletics,marathon men
+0,USA,owen guinn smith,4.3,London 1948,Athletics,pole vault men
+1,FIN,erkki olavi kataja,4.2,London 1948,Athletics,pole vault men
+2,USA,bob richards,4.2,London 1948,Athletics,pole vault men
+3,NOR,erling kaas,4.1,London 1948,Athletics,pole vault men
+4,SWE,ragnar lundberg,4.1,London 1948,Athletics,pole vault men
+5,USA,albert richmond morcom,3.95,London 1948,Athletics,pole vault men
+6,FIN,valto rudolf olenius,3.95,London 1948,Athletics,pole vault men
+7,SWE,hugo göllors,3.95,London 1948,Athletics,pole vault men
+8,FRA,victor sillon,3.95,London 1948,Athletics,pole vault men
+9,PUR,joe barbosa,3.95,London 1948,Athletics,pole vault men
+10,PUR,josé vicente,3.95,London 1948,Athletics,pole vault men
+11,SWE,allan lindberg,3.8,London 1948,Athletics,pole vault men
+12,TUR,muhittin akin,Did not start,London 1948,Athletics,pole vault men
+13,SUI,armin scheurer,Did not start,London 1948,Athletics,pole vault men
+0,USA,wilbur marvin thompson,17.12,London 1948,Athletics,shot put men
+1,USA,francis james delaney,16.68,London 1948,Athletics,shot put men
+2,USA,james emanuel fuchs,16.42,London 1948,Athletics,shot put men
+3,POL,mieczyslaw lomowski,15.43,London 1948,Athletics,shot put men
+4,SWE,gösta arvidsson,15.37,London 1948,Athletics,shot put men
+5,FIN,yrjö lehtilä,15.05,London 1948,Athletics,shot put men
+6,FIN,jaakko jouppila-jaska,14.59,London 1948,Athletics,shot put men
+7,TCH,karel (cestmir) kalina,14.55,London 1948,Athletics,shot put men
+8,GRE,konstantinos giataganas,14.54,London 1948,Athletics,shot put men
+9,POL,witold gerutto,14.37,London 1948,Athletics,shot put men
+10,GBR,john alfred giles,13.73,London 1948,Athletics,shot put men
+11,ISL,sigfus sigurdsson,13.66,London 1948,Athletics,shot put men
+12,SUI,willy senn,,London 1948,Athletics,shot put men
+13,SWE,roland nilsson,,London 1948,Athletics,shot put men
+14,CAN,eric e. coy,,London 1948,Athletics,shot put men
+15,IRL,david guiney,,London 1948,Athletics,shot put men
+16,ISL,vilhjalmur vilmundarsson,,London 1948,Athletics,shot put men
+17,BEL,roger verhas,,London 1948,Athletics,shot put men
+18,GBR,harold ernest a. moody,,London 1948,Athletics,shot put men
+19,ARG,emilio victor malchiodi,,London 1948,Athletics,shot put men
+20,ARG,juan kahnert,,London 1948,Athletics,shot put men
+21,PER,leonello patino,,London 1948,Athletics,shot put men
+22,PAK,nazar muhammad khan malik,,London 1948,Athletics,shot put men
+23,PAK,ahmed zahur khan,,London 1948,Athletics,shot put men
+24,NED,aad de bruyn,Did not start,London 1948,Athletics,shot put men
+25,FRA,françois lapicque,Did not start,London 1948,Athletics,shot put men
+26,GRE,k. meraklis,Did not start,London 1948,Athletics,shot put men
+27,ESP,josé luis torres,Did not start,London 1948,Athletics,shot put men
+28,CAN,leo j. roininen,Did not start,London 1948,Athletics,shot put men
+29,PER,eduardo julve ciriaco,Did not start,London 1948,Athletics,shot put men
+0,FRA,micheline ostermeyer,13.75,London 1948,Athletics,shot put women
+1,ITA,amelia piccinini,13.095,London 1948,Athletics,shot put women
+2,AUT,ine schäffer-mayer,13.08,London 1948,Athletics,shot put women
+3,FRA,paulette veste,12.985,London 1948,Athletics,shot put women
+4,TCH,jaroslava komarkova-kritkova,12.92,London 1948,Athletics,shot put women
+5,AUT,anni bruk,12.5,London 1948,Athletics,shot put women
+6,YUG,marija radosavljevic,12.355,London 1948,Athletics,shot put women
+7,GBR,bevis anael reid,12.17,London 1948,Athletics,shot put women
+8,ARG,ingeborg mello de preiss,12.085,London 1948,Athletics,shot put women
+9,FRA,paulette laurent,12.03,London 1948,Athletics,shot put women
+10,SWE,eivor olsson,11.84,London 1948,Athletics,shot put women
+11,AUT,marianne schläger,11.775,London 1948,Athletics,shot put women
+12,BRA,elisabeth clara müller,,London 1948,Athletics,shot put women
+13,GBR,elspeth a. whyte,,London 1948,Athletics,shot put women
+14,GBR,margaret j. birtwistle,,London 1948,Athletics,shot put women
+15,NED,ans panhorst-niesink,,London 1948,Athletics,shot put women
+16,NOR,liv olaug paulsen,,London 1948,Athletics,shot put women
+17,USA,frances theresa kaszubski,,London 1948,Athletics,shot put women
+18,USA,dorothy lucille dodson,,London 1948,Athletics,shot put women
+19,YUG,julija matej,Did not start,London 1948,Athletics,shot put women
+0,SWE,arne ahman,15.4,London 1948,Athletics,triple jump men
+1,AUS,george gordon avery,15.365,London 1948,Athletics,triple jump men
+2,TUR,ruhi sarialp,15.025,London 1948,Athletics,triple jump men
+3,DEN,preben kaj larsen,14.83,London 1948,Athletics,triple jump men
+4,BRA,geraldo de oliveira,14.825,London 1948,Athletics,triple jump men
+5,FIN,karl johan valdemar rautio,14.7,London 1948,Athletics,triple jump men
+6,AUS,les mckeand,14.53,London 1948,Athletics,triple jump men
+7,BRA,adhemar ferreira da silva,14.49,London 1948,Athletics,triple jump men
+8,SWE,ake hallgren,14.485,London 1948,Athletics,triple jump men
+9,USA,william everett albans,14.33,London 1948,Athletics,triple jump men
+10,BRA,helio coutinho da silva,14.31,London 1948,Athletics,triple jump men
+11,KOR,won-gwon kim,14.25,London 1948,Athletics,triple jump men
+12,SWE,lennart moberg,14.215,London 1948,Athletics,triple jump men
+13,IND,henry rebello,,London 1948,Athletics,triple jump men
+14,GBR,robert l. hawkey,,London 1948,Athletics,triple jump men
+15,MEX,jorge aguirre,,London 1948,Athletics,triple jump men
+16,SRI,gallage peiris,,London 1948,Athletics,triple jump men
+17,ISL,stefán sörensson,,London 1948,Athletics,triple jump men
+18,GUY,charles thompson,Did not start,London 1948,Athletics,triple jump men
