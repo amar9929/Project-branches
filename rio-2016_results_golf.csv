@@ -1,0 +1,121 @@
+,country,participant,result,olympic_game,discipline,event
+0,GBR,justin rose,268,Rio 2016,Golf,Individual men
+1,SWE,henrik stenson,270,Rio 2016,Golf,Individual men
+2,USA,matt kuchar,271,Rio 2016,Golf,Individual men
+3,BEL,thomas pieters,275,Rio 2016,Golf,Individual men
+4,ESP,rafael cabrera,276,Rio 2016,Golf,Individual men
+5,THA,kiradech aphibarnrat,276,Rio 2016,Golf,Individual men
+6,AUS,marcus fraser,276,Rio 2016,Golf,Individual men
+7,ESP,sergio garcía,277,Rio 2016,Golf,Individual men
+8,USA,bubba watson,277,Rio 2016,Golf,Individual men
+9,ARG,emiliano grillo,277,Rio 2016,Golf,Individual men
+10,USA,patrick reed,278,Rio 2016,Golf,Individual men
+11,AUT,bernd wiesberger,278,Rio 2016,Golf,Individual men
+12,KOR,byeong hun an,278,Rio 2016,Golf,Individual men
+13,SWE,david lingmerth,278,Rio 2016,Golf,Individual men
+14,GER,martin kaymer,279,Rio 2016,Golf,Individual men
+15,IRL,seamus power,279,Rio 2016,Golf,Individual men
+16,THA,thongchai jaidee,279,Rio 2016,Golf,Individual men
+17,PAR,fabrizio zanotti,279,Rio 2016,Golf,Individual men
+18,ARG,fabian gomez,279,Rio 2016,Golf,Individual men
+19,CAN,graham delaet,280,Rio 2016,Golf,Individual men
+20,GER,alex cejka,281,Rio 2016,Golf,Individual men
+21,JPN,yuta ikeda,281,Rio 2016,Golf,Individual men
+22,DEN,soren kjeldsen,281,Rio 2016,Golf,Individual men
+23,FRA,gregory bourdy,281,Rio 2016,Golf,Individual men
+24,FIN,mikko ilonen,281,Rio 2016,Golf,Individual men
+25,IRL,padraig harrington,281,Rio 2016,Golf,Individual men
+26,NZL,danny lee,282,Rio 2016,Golf,Individual men
+27,ITA,matteo manassero,282,Rio 2016,Golf,Individual men
+28,NED,joost luiten,282,Rio 2016,Golf,Individual men
+29,CAN,david hearn,283,Rio 2016,Golf,Individual men
+30,CHN,ashun wu,283,Rio 2016,Golf,Individual men
+31,ITA,nino bertasio,283,Rio 2016,Golf,Individual men
+32,DEN,thorbjorn olesen,283,Rio 2016,Golf,Individual men
+33,BEL,nicolas colsaerts,283,Rio 2016,Golf,Individual men
+34,TPE,c.t. pan,283,Rio 2016,Golf,Individual men
+35,MEX,rodolfo cazaubon,283,Rio 2016,Golf,Individual men
+36,GBR,danny willett,284,Rio 2016,Golf,Individual men
+37,USA,rickie fowler,284,Rio 2016,Golf,Individual men
+38,CHI,felipe aguilar,285,Rio 2016,Golf,Individual men
+39,BRA,adilson da silva,285,Rio 2016,Golf,Individual men
+40,NZL,ryan fox,285,Rio 2016,Golf,Individual men
+41,AUS,scott hend,285,Rio 2016,Golf,Individual men
+42,KOR,jeunghun wang,286,Rio 2016,Golf,Individual men
+43,NOR,espen kofstad,286,Rio 2016,Golf,Individual men
+44,FIN,roope kakko,286,Rio 2016,Golf,Individual men
+45,RSA,jaco van zyl,286,Rio 2016,Golf,Individual men
+46,MAS,gavin green,287,Rio 2016,Golf,Individual men
+47,MAS,danny chia,288,Rio 2016,Golf,Individual men
+48,POR,jose-filipe lima,288,Rio 2016,Golf,Individual men
+49,VEN,jhonattan vegas,289,Rio 2016,Golf,Individual men
+50,CHN,haotong li,289,Rio 2016,Golf,Individual men
+51,IND,s.s.p. chawrasia,289,Rio 2016,Golf,Individual men
+52,PHI,miguel luis tabuena,291,Rio 2016,Golf,Individual men
+53,JPN,shingo katayama,292,Rio 2016,Golf,Individual men
+54,FRA,julien quesne,293,Rio 2016,Golf,Individual men
+55,RSA,brandon stone,293,Rio 2016,Golf,Individual men
+56,IND,anirban lahiri,294,Rio 2016,Golf,Individual men
+57,BAN,siddikur rahman,295,Rio 2016,Golf,Individual men
+58,POR,ricardo gouveia,297,Rio 2016,Golf,Individual men
+59,TPE,wen-tang lin,Did not finish,Rio 2016,Golf,Individual men
+0,KOR,inbee park,268,Rio 2016,Golf,Individual women
+1,NZL,lydia ko,273,Rio 2016,Golf,Individual women
+2,CHN,shanshan feng,274,Rio 2016,Golf,Individual women
+3,JPN,harukyo nomura,275,Rio 2016,Golf,Individual women
+4,USA,stacy lewis,275,Rio 2016,Golf,Individual women
+5,KOR,hee young yang,275,Rio 2016,Golf,Individual women
+6,CAN,brooke henderson,276,Rio 2016,Golf,Individual women
+7,AUS,minjee lee,276,Rio 2016,Golf,Individual women
+8,GBR,charley hull,276,Rio 2016,Golf,Individual women
+9,NOR,suzann pettersen,277,Rio 2016,Golf,Individual women
+10,SWE,anna nordqvist,278,Rio 2016,Golf,Individual women
+11,USA,gerina piller,278,Rio 2016,Golf,Individual women
+12,DEN,nanna koerstz madsen,279,Rio 2016,Golf,Individual women
+13,AUS,su-hyun oh,279,Rio 2016,Golf,Individual women
+14,KOR,in gee chun,279,Rio 2016,Golf,Individual women
+15,RUS,maria verchenova,280,Rio 2016,Golf,Individual women
+16,TPE,teresa lu,280,Rio 2016,Golf,Individual women
+17,RSA,paula reto,280,Rio 2016,Golf,Individual women
+18,COL,mariajo uribe,281,Rio 2016,Golf,Individual women
+19,USA,lexi thompson,281,Rio 2016,Golf,Individual women
+20,GER,caroline masson,282,Rio 2016,Golf,Individual women
+21,IRL,leona maguire,282,Rio 2016,Golf,Individual women
+22,SUI,albane valenzuela,282,Rio 2016,Golf,Individual women
+23,ESP,azahara munoz,282,Rio 2016,Golf,Individual women
+24,GER,sandra gal,283,Rio 2016,Golf,Individual women
+25,THA,pornanong phatlum,283,Rio 2016,Golf,Individual women
+26,KOR,seiyoung kim,283,Rio 2016,Golf,Individual women
+27,NOR,marianne skarpnord,283,Rio 2016,Golf,Individual women
+28,GBR,catriona matthew,284,Rio 2016,Golf,Individual women
+29,CAN,alena sharp,285,Rio 2016,Golf,Individual women
+30,MEX,gaby lopez,286,Rio 2016,Golf,Individual women
+31,SWE,pernilla lindberg,286,Rio 2016,Golf,Individual women
+32,ISR,laetitia beck,286,Rio 2016,Golf,Individual women
+33,IRL,stephanie meadow,286,Rio 2016,Golf,Individual women
+34,TPE,candie kung,286,Rio 2016,Golf,Individual women
+35,DEN,nicole broch larsen,287,Rio 2016,Golf,Individual women
+36,HKG,tiffany chan,288,Rio 2016,Golf,Individual women
+37,CHN,xiyu lin,289,Rio 2016,Golf,Individual women
+38,ESP,carlota ciganda,290,Rio 2016,Golf,Individual women
+39,FRA,gwladys nocera pucet,290,Rio 2016,Golf,Individual women
+40,IND,aditi ashok,291,Rio 2016,Golf,Individual women
+41,JPN,shiho oyama,292,Rio 2016,Golf,Individual women
+42,AUT,christine wolf,293,Rio 2016,Golf,Individual women
+43,MEX,alejandra llaneza,294,Rio 2016,Golf,Individual women
+44,PAR,julieta granada,294,Rio 2016,Golf,Individual women
+45,FRA,karine icher,294,Rio 2016,Golf,Individual women
+46,FIN,ursula wikstrom,294,Rio 2016,Golf,Individual women
+47,CZE,klara spilkova,295,Rio 2016,Golf,Individual women
+48,FIN,noora tamminen,295,Rio 2016,Golf,Individual women
+49,RSA,ashleigh simon,296,Rio 2016,Golf,Individual women
+50,MAS,kelly tan,297,Rio 2016,Golf,Individual women
+51,BRA,miriam nagl,298,Rio 2016,Golf,Individual women
+52,ITA,giulia molinaro,300,Rio 2016,Golf,Individual women
+53,BRA,victoria lovelady,300,Rio 2016,Golf,Individual women
+54,ITA,giulia sergas,302,Rio 2016,Golf,Individual women
+55,BEL,chloe leurquin,303,Rio 2016,Golf,Individual women
+56,SUI,fabienne in-albon,306,Rio 2016,Golf,Individual women
+57,MAS,michelle koh,308,Rio 2016,Golf,Individual women
+58,MAR,maha haddioui,315,Rio 2016,Golf,Individual women
+59,THA,ariya jutanugarn,Did not finish,Rio 2016,Golf,Individual women

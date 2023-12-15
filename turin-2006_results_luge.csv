@@ -1,0 +1,89 @@
+,country,participant,result,olympic_game,discipline,event
+0,AUT,andreas linger,00:01:34.497,Turin 2006,Luge,Doubles mixed
+1,GER,andre florschutz,00:01:34.807,Turin 2006,Luge,Doubles mixed
+2,ITA,oswald haselrieder,00:01:34.930,Turin 2006,Luge,Doubles mixed
+3,AUT,markus schiegl,00:01:34.951,Turin 2006,Luge,Doubles mixed
+4,ITA,christian oberstolz,00:01:34.956,Turin 2006,Luge,Doubles mixed
+5,GER,alexander resch,00:01:34.960,Turin 2006,Luge,Doubles mixed
+6,LAT,juris sics,00:01:35.114,Turin 2006,Luge,Doubles mixed
+7,USA,preston griffal,00:01:35.410,Turin 2006,Luge,Doubles mixed
+8,CAN,chris moffat,00:01:35.541,Turin 2006,Luge,Doubles mixed
+9,CAN,eric pothier,00:01:35.561,Turin 2006,Luge,Doubles mixed
+10,RUS,michail kuzmich,00:01:35.650,Turin 2006,Luge,Doubles mixed
+11,JPN,masaki toshiro,00:01:35.860,Turin 2006,Luge,Doubles mixed
+12,SVK,lubomir mick,00:01:36.269,Turin 2006,Luge,Doubles mixed
+13,UKR,andriy kis,00:01:37.177,Turin 2006,Luge,Doubles mixed
+14,ROU,eugen radu,00:01:37.883,Turin 2006,Luge,Doubles mixed
+15,CZE,antonin broz,00:01:38.112,Turin 2006,Luge,Doubles mixed
+16,POL,marcin piekarski,00:01:38.445,Turin 2006,Luge,Doubles mixed
+17,ROU,cosmin chetroiu,00:01:39.593,Turin 2006,Luge,Doubles mixed
+18,UKR,roman yazvinskyy,Did not finish,Turin 2006,Luge,Doubles mixed
+19,USA,mark grimmette,Did not finish,Turin 2006,Luge,Doubles mixed
+20,RUS,vladimir boitsov,Did not finish,Turin 2006,Luge,Doubles mixed
+0,ITA,armin zoeggeler,00:03:26.088,Turin 2006,Luge,Singles men
+1,RUS,albert demchenko,00:03:26.198,Turin 2006,Luge,Singles men
+2,LAT,martins rubenis,00:03:26.445,Turin 2006,Luge,Singles men
+3,USA,tony benshoof,00:03:26.598,Turin 2006,Luge,Singles men
+4,GER,david moller,00:03:26.711,Turin 2006,Luge,Singles men
+5,GER,jan eichhorn,00:03:26.743,Turin 2006,Luge,Singles men
+6,GER,georg hackl,00:03:26.919,Turin 2006,Luge,Singles men
+7,ITA,reinhold rainer,00:03:27.002,Turin 2006,Luge,Singles men
+8,AUT,markus kleinheinz,00:03:27.587,Turin 2006,Luge,Singles men
+9,ITA,wilfried huber,00:03:27.675,Turin 2006,Luge,Singles men
+10,RUS,viktor kneib,00:03:28.065,Turin 2006,Luge,Singles men
+11,AUT,rainer margreiter,00:03:28.114,Turin 2006,Luge,Singles men
+12,AUT,daniel pfister,00:03:28.360,Turin 2006,Luge,Singles men
+13,CAN,jeff christie,00:03:28.361,Turin 2006,Luge,Singles men
+14,SUI,stefan hoehener,00:03:28.784,Turin 2006,Luge,Singles men
+15,GBR,adam rosen,00:03:28.983,Turin 2006,Luge,Singles men
+16,LAT,kaspars dumpis,00:03:29.288,Turin 2006,Luge,Singles men
+17,USA,jonathan myles,00:03:29.408,Turin 2006,Luge,Singles men
+18,CAN,sam edney,00:03:29.857,Turin 2006,Luge,Singles men
+19,JPN,takahisa oguchi,00:03:30.108,Turin 2006,Luge,Singles men
+20,LAT,guntis rekis,00:03:30.156,Turin 2006,Luge,Singles men
+21,SVK,jozef ninis,00:03:30.197,Turin 2006,Luge,Singles men
+22,USA,christian niccum,00:03:31.189,Turin 2006,Luge,Singles men
+23,RUS,kirill serikov,00:03:31.895,Turin 2006,Luge,Singles men
+24,IND,shiva keshavan,00:03:31.937,Turin 2006,Luge,Singles men
+25,SLO,domen pociecha,00:03:32.325,Turin 2006,Luge,Singles men
+26,CZE,jakub hyman,00:03:32.823,Turin 2006,Luge,Singles men
+27,TPE,chih-hung ma,00:03:35.141,Turin 2006,Luge,Singles men
+28,KOR,min-kyu kim,00:03:35.581,Turin 2006,Luge,Singles men
+29,MDA,bogdan macovei,00:03:38.386,Turin 2006,Luge,Singles men
+30,BUL,peter iliev,00:03:39.683,Turin 2006,Luge,Singles men
+31,VEN,werner hoeger,00:03:43.590,Turin 2006,Luge,Singles men
+32,SVK,jaroslav slavik,00:03:50.885,Turin 2006,Luge,Singles men
+33,JPN,shigeaki ushijima,00:04:07.348,Turin 2006,Luge,Singles men
+34,GBR,mark hatton,00:04:12.899,Turin 2006,Luge,Singles men
+35,CAN,ian cockerline,Did not finish,Turin 2006,Luge,Singles men
+0,GER,sylke otto,00:03:07.979,Turin 2006,Luge,Singles women
+1,GER,silke kraushaar,00:03:08.115,Turin 2006,Luge,Singles women
+2,GER,tatjana huefner,00:03:08.460,Turin 2006,Luge,Singles women
+3,USA,courtney zablocki,00:03:08.852,Turin 2006,Luge,Singles women
+4,AUT,veronika halder,00:03:09.087,Turin 2006,Luge,Singles women
+5,UKR,liliya ludan,00:03:09.275,Turin 2006,Luge,Singles women
+6,LAT,anna orlova,00:03:09.483,Turin 2006,Luge,Singles women
+7,AUT,nina reithmayer,00:03:09.573,Turin 2006,Luge,Singles women
+8,SUI,martina kocher,00:03:09.591,Turin 2006,Luge,Singles women
+9,CAN,regan lauscher,00:03:09.643,Turin 2006,Luge,Singles women
+10,ITA,sarah podorieszach,00:03:10.874,Turin 2006,Luge,Singles women
+11,USA,erin hamlin,00:03:11.290,Turin 2006,Luge,Singles women
+12,JPN,madoka harada,00:03:11.650,Turin 2006,Luge,Singles women
+13,RUS,aleksandra rodionova,00:03:12.167,Turin 2006,Luge,Singles women
+14,POL,ewelina staszulonek,00:03:12.179,Turin 2006,Luge,Singles women
+15,RUS,yuliya anashkina,00:03:12.409,Turin 2006,Luge,Singles women
+16,LAT,maija tiruma,00:03:13.044,Turin 2006,Luge,Singles women
+17,LAT,aiva aparjode,00:03:13.065,Turin 2006,Luge,Singles women
+18,SVK,veronika sabolova,00:03:14.061,Turin 2006,Luge,Singles women
+19,CAN,alex gough,00:03:14.155,Turin 2006,Luge,Singles women
+20,RUS,anastasija skulkina,00:03:15.368,Turin 2006,Luge,Singles women
+21,SVK,jana sisajova,00:03:16.993,Turin 2006,Luge,Singles women
+22,AUS,hannah campbell-pegg,00:03:17.539,Turin 2006,Luge,Singles women
+23,ARG,michelle despain,00:03:27.141,Turin 2006,Luge,Singles women
+24,AUT,sonja manzenreiter,Did not finish,Turin 2006,Luge,Singles women
+25,CAN,meaghan simister,Did not finish,Turin 2006,Luge,Singles women
+26,USA,samantha retrosi,Did not finish,Turin 2006,Luge,Singles women
+27,UKR,natalia yakushenko,Did not finish,Turin 2006,Luge,Singles women
+28,ITA,anastasia oberstolz-antonova,Did not finish,Turin 2006,Luge,Singles women
+29,CZE,marketa jeriova,Did not finish,Turin 2006,Luge,Singles women
+30,ISV,anne abernathy,,Turin 2006,Luge,Singles women

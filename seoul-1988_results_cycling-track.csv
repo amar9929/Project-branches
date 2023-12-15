@@ -1,0 +1,99 @@
+,country,participant,result,olympic_game,discipline,event
+0,URS,aleksandr kirichenko,00:01:04.499,Seoul 1988,Cycling Track,1km time trial men
+1,AUS,martin vinnicombe,00:01:04.784,Seoul 1988,Cycling Track,1km time trial men
+2,FRG,robert lechner,00:01:05.114,Seoul 1988,Cycling Track,1km time trial men
+3,DEN,kurt kenneth ropke,00:01:05.168,Seoul 1988,Cycling Track,1km time trial men
+4,ESP,bernardo gonzalez minano,00:01:05.281,Seoul 1988,Cycling Track,1km time trial men
+5,GDR,maic malchow,00:01:05.393,Seoul 1988,Cycling Track,1km time trial men
+6,NZL,anthony graham,00:01:05.744,Seoul 1988,Cycling Track,1km time trial men
+7,FRA,frederic magne,00:01:06.142,Seoul 1988,Cycling Track,1km time trial men
+8,SUI,rocco travella,00:01:06.209,Seoul 1988,Cycling Track,1km time trial men
+9,BRA,clovis anderson,00:01:06.282,Seoul 1988,Cycling Track,1km time trial men
+10,CAN,curtis harnett,00:01:06.291,Seoul 1988,Cycling Track,1km time trial men
+11,TTO,gene samuel,00:01:06.560,Seoul 1988,Cycling Track,1km time trial men
+12,ARG,marcelo alexandre,00:01:06.925,Seoul 1988,Cycling Track,1km time trial men
+13,USA,robert w. livingston,00:01:06.926,Seoul 1988,Cycling Track,1km time trial men
+14,KOR,yeong-seop eom,00:01:07.000,Seoul 1988,Cycling Track,1km time trial men
+15,JPN,hiroshi toyoka,00:01:07.240,Seoul 1988,Cycling Track,1km time trial men
+16,FIN,mika ilkka hamalainen,00:01:07.384,Seoul 1988,Cycling Track,1km time trial men
+17,NED,thierry detant,00:01:07.555,Seoul 1988,Cycling Track,1km time trial men
+18,ECU,mario pons,00:01:08.351,Seoul 1988,Cycling Track,1km time trial men
+19,ZIM,gary mandy,00:01:08.474,Seoul 1988,Cycling Track,1km time trial men
+20,LIE,peter herrmann,00:01:08.999,Seoul 1988,Cycling Track,1km time trial men
+21,TPE,fu-hsiang lee,00:01:09.024,Seoul 1988,Cycling Track,1km time trial men
+22,GUA,max eduardo leiva buhler,00:01:09.214,Seoul 1988,Cycling Track,1km time trial men
+23,BAR,roderick chase,00:01:09.994,Seoul 1988,Cycling Track,1km time trial men
+24,MAS,rosman alwi,00:01:10.446,Seoul 1988,Cycling Track,1km time trial men
+25,PHI,bernardo rimarim,00:01:11.647,Seoul 1988,Cycling Track,1km time trial men
+26,IRI,jalil eftekhari,00:01:11.683,Seoul 1988,Cycling Track,1km time trial men
+27,CAY,michele orlanda smith,00:01:11.820,Seoul 1988,Cycling Track,1km time trial men
+28,BOL,bailon becerra,00:01:13.513,Seoul 1988,Cycling Track,1km time trial men
+29,ANT,neil lloyd,00:01:18.324,Seoul 1988,Cycling Track,1km time trial men
+0,URS,gintautas umaras,,Seoul 1988,Cycling Track,Individual Pursuit men
+1,AUS,dean woods,,Seoul 1988,Cycling Track,Individual Pursuit men
+2,GDR,bernd dittert,00:04:34.170,Seoul 1988,Cycling Track,Individual Pursuit men
+3,GBR,colin sturgess,00:04:34.900,Seoul 1988,Cycling Track,Individual Pursuit men
+4,POL,ryszard dawidowicz,,Seoul 1988,Cycling Track,Individual Pursuit men
+5,DEN,peter clausen,,Seoul 1988,Cycling Track,Individual Pursuit men
+6,NZL,gary john anderson,,Seoul 1988,Cycling Track,Individual Pursuit men
+7,ITA,ivan beltrami,,Seoul 1988,Cycling Track,Individual Pursuit men
+8,TCH,roman cermak,overtaken,Seoul 1988,Cycling Track,Individual Pursuit men
+9,HUN,miklos somogyi,overtaken,Seoul 1988,Cycling Track,Individual Pursuit men
+10,NED,erik cent,overtaken,Seoul 1988,Cycling Track,Individual Pursuit men
+11,SUR,realdo kenneth jessurun,overtaken,Seoul 1988,Cycling Track,Individual Pursuit men
+12,IRI,moustafa chichi,overtaken,Seoul 1988,Cycling Track,Individual Pursuit men
+0,DEN,dan frost,38,Seoul 1988,Cycling Track,Points Race men
+1,NED,leo peelen,26,Seoul 1988,Cycling Track,Points Race men
+2,URS,marat ganeev,46,Seoul 1988,Cycling Track,Points Race men
+3,AUS,robert burns,20,Seoul 1988,Cycling Track,Points Race men
+4,ARG,juan esteban curuchet,18,Seoul 1988,Cycling Track,Points Race men
+5,FRG,uwe messerschmidt,28,Seoul 1988,Cycling Track,Points Race men
+6,FRA,pascal lino,21,Seoul 1988,Cycling Track,Points Race men
+7,USA,frankie andreu,21,Seoul 1988,Cycling Track,Points Race men
+8,MEX,jose manuel youshimatz,21,Seoul 1988,Cycling Track,Points Race men
+9,HUN,miklos somogyi,13,Seoul 1988,Cycling Track,Points Race men
+10,ITA,giovanni lombardi,13,Seoul 1988,Cycling Track,Points Race men
+11,AUT,roland konigshofer,11,Seoul 1988,Cycling Track,Points Race men
+12,VEN,alexis omar mendez,8,Seoul 1988,Cycling Track,Points Race men
+13,GDR,olaf ludwig,19,Seoul 1988,Cycling Track,Points Race men
+14,TTO,gene samuel,10,Seoul 1988,Cycling Track,Points Race men
+15,POL,wojciech pawlak,8,Seoul 1988,Cycling Track,Points Race men
+16,CAN,gianni vignaduzzi,7,Seoul 1988,Cycling Track,Points Race men
+17,ESP,antonio salvador barrado,5,Seoul 1988,Cycling Track,Points Race men
+18,KOR,eun-chul do,4,Seoul 1988,Cycling Track,Points Race men
+19,SUI,philippe grivel,4,Seoul 1988,Cycling Track,Points Race men
+20,TPE,yui-te hsu,4,Seoul 1988,Cycling Track,Points Race men
+21,JAM,peter aldridge,4,Seoul 1988,Cycling Track,Points Race men
+22,TCH,lubos lom,3,Seoul 1988,Cycling Track,Points Race men
+23,BRA,fernando almeida louro,0,Seoul 1988,Cycling Track,Points Race men
+24,BAR,roderick chase,Did not finish,Seoul 1988,Cycling Track,Points Race men
+25,PHI,bernardo rimarim,Did not finish,Seoul 1988,Cycling Track,Points Race men
+26,ANT,neil lloyd,Did not finish,Seoul 1988,Cycling Track,Points Race men
+27,BOL,bailon becerra,Did not finish,Seoul 1988,Cycling Track,Points Race men
+28,URU,federico a. moreira wuilman,Did not finish,Seoul 1988,Cycling Track,Points Race men
+0,GDR,lutz hesslich,,Seoul 1988,Cycling Track,Sprint individual men
+1,URS,nikolay kovsh,,Seoul 1988,Cycling Track,Sprint individual men
+2,AUS,garry malcolm neiwand,,Seoul 1988,Cycling Track,Sprint individual men
+3,GBR,edward alexander,,Seoul 1988,Cycling Track,Sprint individual men
+4,TCH,vratislav suster,11.340,Seoul 1988,Cycling Track,Sprint individual men
+5,BEL,eric schoefs,,Seoul 1988,Cycling Track,Sprint individual men
+6,FRG,frank weber,,Seoul 1988,Cycling Track,Sprint individual men
+7,TTO,maxwell cheesman,,Seoul 1988,Cycling Track,Sprint individual men
+0,URS,erika salumae,,Seoul 1988,Cycling Track,sprint women
+1,GDR,christa luding-rothenburger,,Seoul 1988,Cycling Track,sprint women
+2,USA,connie paraskevin-young,,Seoul 1988,Cycling Track,sprint women
+3,FRA,isabelle gautheron,,Seoul 1988,Cycling Track,sprint women
+4,AUS,julie speight,12.560,Seoul 1988,Cycling Track,sprint women
+5,CHN,su-ying zhou,,Seoul 1988,Cycling Track,sprint women
+6,GBR,louise christine jones,,Seoul 1988,Cycling Track,sprint women
+7,TPE,hsiu-chen yang,,Seoul 1988,Cycling Track,sprint women
+0,,,,Seoul 1988,Cycling Track,Team Pursuit 4000m men
+1,,,,Seoul 1988,Cycling Track,Team Pursuit 4000m men
+2,,,00:04:16.020,Seoul 1988,Cycling Track,Team Pursuit 4000m men
+3,,,00:04:22.230,Seoul 1988,Cycling Track,Team Pursuit 4000m men
+4,,,,Seoul 1988,Cycling Track,Team Pursuit 4000m men
+5,,,,Seoul 1988,Cycling Track,Team Pursuit 4000m men
+6,,,,Seoul 1988,Cycling Track,Team Pursuit 4000m men
+7,,,,Seoul 1988,Cycling Track,Team Pursuit 4000m men
+8,,,,Seoul 1988,Cycling Track,Team Pursuit 4000m men
+9,,,,Seoul 1988,Cycling Track,Team Pursuit 4000m men

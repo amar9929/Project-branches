@@ -1,0 +1,447 @@
+,country,participant,result,olympic_game,discipline,event
+0,AUS,david egmont theile,00:01:01.900,Rome 1960,Swimming,100m backstroke men
+1,USA,frank edward jr. mckinney,00:01:02.100,Rome 1960,Swimming,100m backstroke men
+2,USA,robert earl bennett,00:01:02.300,Rome 1960,Swimming,100m backstroke men
+3,FRA,robert christophe,00:01:03.200,Rome 1960,Swimming,100m backstroke men
+4,URS,leonid barbier,00:01:03.500,Rome 1960,Swimming,100m backstroke men
+5,GER,wolfgang wagner,00:01:03.500,Rome 1960,Swimming,100m backstroke men
+6,AUS,john james monckton,00:01:04.100,Rome 1960,Swimming,100m backstroke men
+7,URS,veiko siimar,00:01:04.600,Rome 1960,Swimming,100m backstroke men
+8,GBR,graham sykes,,Rome 1960,Swimming,100m backstroke men
+9,GER,jürgen dietze,,Rome 1960,Swimming,100m backstroke men
+10,ARG,pedro diz espeleta,,Rome 1960,Swimming,100m backstroke men
+11,FIN,stig-olof grenner,,Rome 1960,Swimming,100m backstroke men
+12,HUN,jozsef csikany,,Rome 1960,Swimming,100m backstroke men
+13,JPN,kazuo tomita,,Rome 1960,Swimming,100m backstroke men
+14,BEL,herman verbauwen,,Rome 1960,Swimming,100m backstroke men
+15,ITA,giuseppe avellano,,Rome 1960,Swimming,100m backstroke men
+16,CAN,robert wheaton,,Rome 1960,Swimming,100m backstroke men
+17,FRA,claude raffy,,Rome 1960,Swimming,100m backstroke men
+18,ITA,gilberto elsa,,Rome 1960,Swimming,100m backstroke men
+19,MEX,alejandro gaxiola robles,,Rome 1960,Swimming,100m backstroke men
+20,NED,johannes (jan) jiskoot,,Rome 1960,Swimming,100m backstroke men
+21,SWE,bengt-olov almstedt,,Rome 1960,Swimming,100m backstroke men
+22,AUT,friedrich suda,,Rome 1960,Swimming,100m backstroke men
+23,YUG,mihovil dorcic,,Rome 1960,Swimming,100m backstroke men
+24,GBR,hadyn rigby,,Rome 1960,Swimming,100m backstroke men
+25,ESP,julio cabrera balsa,,Rome 1960,Swimming,100m backstroke men
+26,POR,raul cerqueira,,Rome 1960,Swimming,100m backstroke men
+27,BRA,athos p. de oliveira,,Rome 1960,Swimming,100m backstroke men
+28,MEX,enrique rabell,,Rome 1960,Swimming,100m backstroke men
+29,JPN,kazuo watanabe,,Rome 1960,Swimming,100m backstroke men
+30,PHI,lorenzo cortez,,Rome 1960,Swimming,100m backstroke men
+31,SUI,rolf burggraf,,Rome 1960,Swimming,100m backstroke men
+32,ISR,joram shnider,,Rome 1960,Swimming,100m backstroke men
+33,LUX,rudolf muller,,Rome 1960,Swimming,100m backstroke men
+34,GRE,dimitrios kolovos,,Rome 1960,Swimming,100m backstroke men
+35,TUR,unsal fikirci,,Rome 1960,Swimming,100m backstroke men
+36,HUN,janos konrad,,Rome 1960,Swimming,100m backstroke men
+0,USA,lynn edythe burke,00:01:09.300,Rome 1960,Swimming,100m backstroke women
+1,GBR,natalie alwyne steward,00:01:10.800,Rome 1960,Swimming,100m backstroke women
+2,JPN,satoko tanaka,00:01:11.400,Rome 1960,Swimming,100m backstroke women
+3,RSA,laura ranwell,00:01:11.400,Rome 1960,Swimming,100m backstroke women
+4,FRA,rose piacentini,00:01:11.400,Rome 1960,Swimming,100m backstroke women
+5,GBR,sylvia anne lewis,00:01:11.800,Rome 1960,Swimming,100m backstroke women
+6,NED,maria (ria) martina van velsen,00:01:12.100,Rome 1960,Swimming,100m backstroke women
+7,FRA,nadine delache,00:01:12.400,Rome 1960,Swimming,100m backstroke women
+8,DEN,ethel ward petersen,,Rome 1960,Swimming,100m backstroke women
+9,URS,larisa viktorova,,Rome 1960,Swimming,100m backstroke women
+10,GER,ingrid schmidt,,Rome 1960,Swimming,100m backstroke women
+11,GER,helga schmidt-neuber,,Rome 1960,Swimming,100m backstroke women
+12,CAN,sara barber-jenkins,,Rome 1960,Swimming,100m backstroke women
+13,AUS,gerganiya beckitt,,Rome 1960,Swimming,100m backstroke women
+14,AUS,maryleen joy wilson,,Rome 1960,Swimming,100m backstroke women
+15,USA,nina adams harmer,,Rome 1960,Swimming,100m backstroke women
+16,NED,catharina clasina dobber,,Rome 1960,Swimming,100m backstroke women
+17,DEN,kirsten michaelsen,,Rome 1960,Swimming,100m backstroke women
+18,URS,lyudmila klipova,,Rome 1960,Swimming,100m backstroke women
+19,RHO,dorothy sutcliffe,,Rome 1960,Swimming,100m backstroke women
+20,HUN,magdolna david,,Rome 1960,Swimming,100m backstroke women
+21,RHO,lynette cooper,,Rome 1960,Swimming,100m backstroke women
+22,ITA,arletta faidiga,,Rome 1960,Swimming,100m backstroke women
+23,VEN,anneliese rockembach,,Rome 1960,Swimming,100m backstroke women
+24,SUI,doris gontersweiler-vetterli,,Rome 1960,Swimming,100m backstroke women
+25,ITA,daniela serpilli,,Rome 1960,Swimming,100m backstroke women
+26,BEL,anne van parijs,,Rome 1960,Swimming,100m backstroke women
+27,AUT,eleonore (lore) trittner,,Rome 1960,Swimming,100m backstroke women
+28,HUN,anna temesvári,,Rome 1960,Swimming,100m backstroke women
+29,LUX,simone theis,,Rome 1960,Swimming,100m backstroke women
+0,USA,carolyn jane schuler,00:01:09.500,Rome 1960,Swimming,100m butterfly women
+1,NED,marianne yvonne heemskerk,00:01:10.400,Rome 1960,Swimming,100m butterfly women
+2,AUS,janice andrew,00:01:12.200,Rome 1960,Swimming,100m butterfly women
+3,GBR,sheila watt,00:01:13.300,Rome 1960,Swimming,100m butterfly women
+4,NED,aartje johanna voorbij,00:01:13.300,Rome 1960,Swimming,100m butterfly women
+5,URS,zinaida belovetskaya,00:01:13.300,Rome 1960,Swimming,100m butterfly women
+6,SWE,kristina larsson,00:01:13.600,Rome 1960,Swimming,100m butterfly women
+7,URS,valentina poznyak,,Rome 1960,Swimming,100m butterfly women
+8,GER,bärbel fuhrmann,,Rome 1960,Swimming,100m butterfly women
+9,GBR,jean oldroyd,,Rome 1960,Swimming,100m butterfly women
+10,CAN,margaret iwasaki,,Rome 1960,Swimming,100m butterfly women
+11,GER,heidi eisenschmidt,,Rome 1960,Swimming,100m butterfly women
+12,SWE,karin larsson,,Rome 1960,Swimming,100m butterfly women
+13,JPN,shizue miyabe,,Rome 1960,Swimming,100m butterfly women
+14,PHI,sandra von giese,,Rome 1960,Swimming,100m butterfly women
+15,MEX,silvia belmar bohigas,,Rome 1960,Swimming,100m butterfly women
+16,FRA,anne caron,,Rome 1960,Swimming,100m butterfly women
+17,MEX,eulalia martinez de castro,,Rome 1960,Swimming,100m butterfly women
+18,AUT,hannellore janele,,Rome 1960,Swimming,100m butterfly women
+19,ITA,anna beneck,,Rome 1960,Swimming,100m butterfly women
+20,HUN,marta egervary,,Rome 1960,Swimming,100m butterfly women
+21,ITA,anna maria cecchi,,Rome 1960,Swimming,100m butterfly women
+22,FRA,colette libourel,,Rome 1960,Swimming,100m butterfly women
+23,RHO,hillary wilson,,Rome 1960,Swimming,100m butterfly women
+24,USA,carolyn virginia wood,Did not finish,Rome 1960,Swimming,100m butterfly women
+25,CAN,judith mchale,Did not start,Rome 1960,Swimming,100m butterfly women
+26,AUS,dawn fraser,Did not start,Rome 1960,Swimming,100m butterfly women
+27,PHI,gertrudes lozada,Did not start,Rome 1960,Swimming,100m butterfly women
+0,AUS,john devitt,55.200,Rome 1960,Swimming,100m freestyle men
+1,USA,lance melvin larson,55.100,Rome 1960,Swimming,100m freestyle men
+2,BRA,manuel dos santos,55.400,Rome 1960,Swimming,100m freestyle men
+3,USA,richard bruce hunter,55.600,Rome 1960,Swimming,100m freestyle men
+4,HUN,gyula dobai,56.300,Rome 1960,Swimming,100m freestyle men
+5,CAN,richard w. pound,56.300,Rome 1960,Swimming,100m freestyle men
+6,RSA,aubrey burer,56.300,Rome 1960,Swimming,100m freestyle men
+7,SWE,per-ola lindberg,57.100,Rome 1960,Swimming,100m freestyle men
+8,FIN,karri kalervo kayhko,,Rome 1960,Swimming,100m freestyle men
+9,POL,andrzej salamon,,Rome 1960,Swimming,100m freestyle men
+10,JPN,keigo shimizu,,Rome 1960,Swimming,100m freestyle men
+11,AUS,jon malcolm henricks,,Rome 1960,Swimming,100m freestyle men
+12,GER,uwe jacobsen,,Rome 1960,Swimming,100m freestyle men
+13,URS,igor luzhkovsky,,Rome 1960,Swimming,100m freestyle men
+14,JPN,katsuki ishihara,,Rome 1960,Swimming,100m freestyle men
+15,POL,bernard aluchna,,Rome 1960,Swimming,100m freestyle men
+16,NED,ronald (ron) kroon,,Rome 1960,Swimming,100m freestyle men
+17,CAN,cameron grout,,Rome 1960,Swimming,100m freestyle men
+18,HUN,laszlo lantos,,Rome 1960,Swimming,100m freestyle men
+19,GER,paul voell,,Rome 1960,Swimming,100m freestyle men
+20,ITA,ezio della savia,,Rome 1960,Swimming,100m freestyle men
+21,FRA,alain gottvalles,,Rome 1960,Swimming,100m freestyle men
+22,URS,vitali sorokin,,Rome 1960,Swimming,100m freestyle men
+23,MEX,jorge escalante,,Rome 1960,Swimming,100m freestyle men
+24,AUT,gert kolli,,Rome 1960,Swimming,100m freestyle men
+25,CUB,ruben alejandro roca rosillo,,Rome 1960,Swimming,100m freestyle men
+26,SWE,bengt nordwall,,Rome 1960,Swimming,100m freestyle men
+27,YUG,janez kocmur,,Rome 1960,Swimming,100m freestyle men
+28,NED,jan bouwman,,Rome 1960,Swimming,100m freestyle men
+29,ITA,giorgio perondini,,Rome 1960,Swimming,100m freestyle men
+30,GBR,stanley richard clarke,,Rome 1960,Swimming,100m freestyle men
+31,INA,achmad dimyati,,Rome 1960,Swimming,100m freestyle men
+32,GBR,william o'donnell,,Rome 1960,Swimming,100m freestyle men
+33,FRA,gerard gropaiz,,Rome 1960,Swimming,100m freestyle men
+34,ISR,amiram trauber,,Rome 1960,Swimming,100m freestyle men
+35,BRA,fernando nabuco de abreu,,Rome 1960,Swimming,100m freestyle men
+36,ARG,luis alberto nicolao yanuzzi,,Rome 1960,Swimming,100m freestyle men
+37,POR,herlander felga ribeiro,,Rome 1960,Swimming,100m freestyle men
+38,YUG,gojko arneri,,Rome 1960,Swimming,100m freestyle men
+39,ESP,leopoldo rodes pares,,Rome 1960,Swimming,100m freestyle men
+40,ISL,gudmunður gíslason,,Rome 1960,Swimming,100m freestyle men
+41,ISR,itzhak luria,,Rome 1960,Swimming,100m freestyle men
+42,HKG,kin-man cheung,,Rome 1960,Swimming,100m freestyle men
+43,VNM,phan huu dong,,Rome 1960,Swimming,100m freestyle men
+44,SUI,peter bartschi,,Rome 1960,Swimming,100m freestyle men
+45,PHI,frederico elizalde,,Rome 1960,Swimming,100m freestyle men
+46,TUR,unsal fikirci,,Rome 1960,Swimming,100m freestyle men
+47,MAL,seow jit fong,,Rome 1960,Swimming,100m freestyle men
+48,LUX,rene wagner,,Rome 1960,Swimming,100m freestyle men
+49,MLT,alfred grixti,,Rome 1960,Swimming,100m freestyle men
+50,MLT,christopher dowling,,Rome 1960,Swimming,100m freestyle men
+51,RSA,murray mclachlan,Did not start,Rome 1960,Swimming,100m freestyle men
+0,AUS,dawn fraser,00:01:01.200,Rome 1960,Swimming,100m freestyle women
+1,USA,chris von saltza,00:01:02.800,Rome 1960,Swimming,100m freestyle women
+2,GBR,natalie alwyne steward,00:01:03.100,Rome 1960,Swimming,100m freestyle women
+3,USA,carolyn virginia wood,00:01:03.400,Rome 1960,Swimming,100m freestyle women
+4,HUN,csilla madarasz-bajnogel-dobai,00:01:03.600,Rome 1960,Swimming,100m freestyle women
+5,NED,erica georgine terpstra,00:01:04.300,Rome 1960,Swimming,100m freestyle women
+6,NED,cocki van engelsdorp gastelaars,00:01:04.700,Rome 1960,Swimming,100m freestyle women
+7,CAN,mary pauline stewart,00:01:05.500,Rome 1960,Swimming,100m freestyle women
+8,AUS,ilsa konrads,,Rome 1960,Swimming,100m freestyle women
+9,GER,ursula brunner,,Rome 1960,Swimming,100m freestyle women
+10,FRA,heda frost,,Rome 1960,Swimming,100m freestyle women
+11,ITA,paola saini,,Rome 1960,Swimming,100m freestyle women
+12,GER,heidi pechstein,,Rome 1960,Swimming,100m freestyle women
+13,SWE,inger thorngren,,Rome 1960,Swimming,100m freestyle women
+14,HUN,katalin boros,,Rome 1960,Swimming,100m freestyle women
+15,SWE,karin larsson,,Rome 1960,Swimming,100m freestyle women
+16,JPN,yoshiko sato,,Rome 1960,Swimming,100m freestyle women
+17,URS,marina shamal,,Rome 1960,Swimming,100m freestyle women
+18,URS,ulvi voog,,Rome 1960,Swimming,100m freestyle women
+19,ITA,maria cristina pacifici,,Rome 1960,Swimming,100m freestyle women
+20,AUT,nora novotny,,Rome 1960,Swimming,100m freestyle women
+21,GBR,diane elizabeth wilkinson,,Rome 1960,Swimming,100m freestyle women
+22,ISL,agusta thorsteinsdottir,,Rome 1960,Swimming,100m freestyle women
+23,CAN,margaret iwasaki,,Rome 1960,Swimming,100m freestyle women
+24,PHI,haydee coloso espino,,Rome 1960,Swimming,100m freestyle women
+25,MEX,blanca luz barron serrano,,Rome 1960,Swimming,100m freestyle women
+26,FRA,marie laure gaillot,,Rome 1960,Swimming,100m freestyle women
+27,MEX,maria luisa souza,,Rome 1960,Swimming,100m freestyle women
+28,VEN,anneliese rockembach,,Rome 1960,Swimming,100m freestyle women
+29,RHO,dorothy sutcliffe,,Rome 1960,Swimming,100m freestyle women
+30,JPN,hitomi jinno,,Rome 1960,Swimming,100m freestyle women
+31,ESP,rita pulido castro,,Rome 1960,Swimming,100m freestyle women
+0,AUS,john (jon) konrads,00:17:19.600,Rome 1960,Swimming,1500m freestyle men
+1,AUS,murray rose,00:17:21.700,Rome 1960,Swimming,1500m freestyle men
+2,USA,george thomas breen,00:17:30.600,Rome 1960,Swimming,1500m freestyle men
+3,JPN,tsuyoshi yamanaka,00:17:34.700,Rome 1960,Swimming,1500m freestyle men
+4,HUN,jozsef katona,00:17:43.700,Rome 1960,Swimming,1500m freestyle men
+5,RSA,murray mclachlan,00:17:44.900,Rome 1960,Swimming,1500m freestyle men
+6,USA,alan brounell somers,00:18:02.800,Rome 1960,Swimming,1500m freestyle men
+7,GBR,richard campion,00:18:22.700,Rome 1960,Swimming,1500m freestyle men
+8,RSA,aubrey burer,,Rome 1960,Swimming,1500m freestyle men
+9,PHI,bana sailani,,Rome 1960,Swimming,1500m freestyle men
+10,SWE,lars-erik bengtsson,,Rome 1960,Swimming,1500m freestyle men
+11,GER,hans-ullrich millow,,Rome 1960,Swimming,1500m freestyle men
+12,MEX,mauricio ocampo,,Rome 1960,Swimming,1500m freestyle men
+13,JPN,masami nakabo,,Rome 1960,Swimming,1500m freestyle men
+14,GER,gerhard hetz,,Rome 1960,Swimming,1500m freestyle men
+15,URS,gennadi androsov,,Rome 1960,Swimming,1500m freestyle men
+16,FIN,ilkka suvanto,,Rome 1960,Swimming,1500m freestyle men
+17,YUG,veljko rogusic,,Rome 1960,Swimming,1500m freestyle men
+18,GBR,robert christie sreenan,,Rome 1960,Swimming,1500m freestyle men
+19,MYA,maung ni tin,,Rome 1960,Swimming,1500m freestyle men
+20,MEX,alfredo guzman torres,,Rome 1960,Swimming,1500m freestyle men
+21,INA,zakaria nasution,,Rome 1960,Swimming,1500m freestyle men
+22,ESP,miguel torres bernades,,Rome 1960,Swimming,1500m freestyle men
+23,SUI,hans-ulrich durst,,Rome 1960,Swimming,1500m freestyle men
+24,POR,eduardo jose de sousa,,Rome 1960,Swimming,1500m freestyle men
+25,ITA,massimo rosi,,Rome 1960,Swimming,1500m freestyle men
+26,HUN,andras bodnar,,Rome 1960,Swimming,1500m freestyle men
+27,ITA,paolo galletti,,Rome 1960,Swimming,1500m freestyle men
+28,YUG,slobodan kicovic,,Rome 1960,Swimming,1500m freestyle men
+29,SUI,rainer goltzsche,,Rome 1960,Swimming,1500m freestyle men
+30,PUR,robert chenaux,Did not start,Rome 1960,Swimming,1500m freestyle men
+31,ISR,amiram trauber,Did not start,Rome 1960,Swimming,1500m freestyle men
+32,SWE,bengt-olov almstedt,Did not start,Rome 1960,Swimming,1500m freestyle men
+0,USA,william danforth mulliken,,Rome 1960,Swimming,200m breaststroke men
+1,JPN,yoshihiko osaki,,Rome 1960,Swimming,200m breaststroke men
+2,NED,wieger emile mensonides,,Rome 1960,Swimming,200m breaststroke men
+3,GER,egon henninger,,Rome 1960,Swimming,200m breaststroke men
+4,ITA,roberto lazzari,,Rome 1960,Swimming,200m breaststroke men
+5,AUS,terence gathercole,,Rome 1960,Swimming,200m breaststroke men
+6,POL,andrzej klopotowski,,Rome 1960,Swimming,200m breaststroke men
+7,USA,paul william hait,,Rome 1960,Swimming,200m breaststroke men
+8,URS,arkady golovchenko,,Rome 1960,Swimming,200m breaststroke men
+9,URS,georgi prokopenko,,Rome 1960,Swimming,200m breaststroke men
+10,ROU,mihai mitrofan,,Rome 1960,Swimming,200m breaststroke men
+11,GBR,christopher charles walkden,,Rome 1960,Swimming,200m breaststroke men
+12,BEL,gilbert desmit,,Rome 1960,Swimming,200m breaststroke men
+13,JPN,isao masuda,,Rome 1960,Swimming,200m breaststroke men
+14,HUN,gyorgy kunsagi,,Rome 1960,Swimming,200m breaststroke men
+15,YUG,djordje perisic,,Rome 1960,Swimming,200m breaststroke men
+16,TCH,vitezslav svozil,,Rome 1960,Swimming,200m breaststroke men
+17,SWE,tommie lindstrom,,Rome 1960,Swimming,200m breaststroke men
+18,FIN,pekka lairola,,Rome 1960,Swimming,200m breaststroke men
+19,AUS,william burton,,Rome 1960,Swimming,200m breaststroke men
+20,GER,konrad enke,,Rome 1960,Swimming,200m breaststroke men
+21,GBR,gerard rowlinson,,Rome 1960,Swimming,200m breaststroke men
+22,SWE,bernt nilsson,,Rome 1960,Swimming,200m breaststroke men
+23,FRA,richard audoly,,Rome 1960,Swimming,200m breaststroke men
+24,CAN,stephen rabinovitch,,Rome 1960,Swimming,200m breaststroke men
+25,BRA,farid zablith filho,,Rome 1960,Swimming,200m breaststroke men
+26,TUR,engin unal,,Rome 1960,Swimming,200m breaststroke men
+27,ESP,guillermo alsina soto,,Rome 1960,Swimming,200m breaststroke men
+28,ISR,gershon shefa,,Rome 1960,Swimming,200m breaststroke men
+29,TPE,laurel lee,,Rome 1960,Swimming,200m breaststroke men
+30,ESP,emilio diaz miranda,,Rome 1960,Swimming,200m breaststroke men
+31,VNM,ke nhon truong,,Rome 1960,Swimming,200m breaststroke men
+32,PHI,antonio saloso,,Rome 1960,Swimming,200m breaststroke men
+33,ITA,pierpaolo spangaro,,Rome 1960,Swimming,200m breaststroke men
+34,FRA,roland boulanger,,Rome 1960,Swimming,200m breaststroke men
+35,GRE,nikolaos zakharopoulos,,Rome 1960,Swimming,200m breaststroke men
+36,SUI,werner risi,,Rome 1960,Swimming,200m breaststroke men
+37,SUI,nicolas wildhaber,,Rome 1960,Swimming,200m breaststroke men
+38,SRI,malcolm anthony williams,,Rome 1960,Swimming,200m breaststroke men
+39,AUT,gerald brauner,Disqualified,Rome 1960,Swimming,200m breaststroke men
+40,LUX,ernest schweitzer,Disqualified,Rome 1960,Swimming,200m breaststroke men
+41,HUN,laszlo felkai,Disqualified,Rome 1960,Swimming,200m breaststroke men
+42,INA,otman siregar,Did not start,Rome 1960,Swimming,200m breaststroke men
+43,ROU,adrian oanta,Did not start,Rome 1960,Swimming,200m breaststroke men
+0,GBR,anita lonsbrough,,Rome 1960,Swimming,200m breaststroke women
+1,GER,wiltrud urselmann,,Rome 1960,Swimming,200m breaststroke women
+2,GER,barbara göbel,,Rome 1960,Swimming,200m breaststroke women
+3,NED,adelaide henriette (ada) den haan,,Rome 1960,Swimming,200m breaststroke women
+4,NED,margretta (gretta) kok,,Rome 1960,Swimming,200m breaststroke women
+5,USA,anna kindel warner,,Rome 1960,Swimming,200m breaststroke women
+6,USA,patricia kempner,,Rome 1960,Swimming,200m breaststroke women
+7,DEN,dorrit gosmer kristensen,,Rome 1960,Swimming,200m breaststroke women
+8,GBR,christine loraine gosden,,Rome 1960,Swimming,200m breaststroke women
+9,ITA,elena zennaro,,Rome 1960,Swimming,200m breaststroke women
+10,AUS,rosemary lassig,,Rome 1960,Swimming,200m breaststroke women
+11,JPN,yoshiko takamatsu,,Rome 1960,Swimming,200m breaststroke women
+12,HUN,klara killerman bartos,,Rome 1960,Swimming,200m breaststroke women
+13,SWE,barbro eriksson,,Rome 1960,Swimming,200m breaststroke women
+14,DEN,inge andersen,,Rome 1960,Swimming,200m breaststroke women
+15,AUS,janet hogan,,Rome 1960,Swimming,200m breaststroke women
+16,FRA,amelie mirkovitch,,Rome 1960,Swimming,200m breaststroke women
+17,TCH,marta kadelkova,,Rome 1960,Swimming,200m breaststroke women
+18,FRA,michele pialat,,Rome 1960,Swimming,200m breaststroke women
+19,AUT,christine (christol) filippovits,,Rome 1960,Swimming,200m breaststroke women
+20,URS,lyudmila korobova,,Rome 1960,Swimming,200m breaststroke women
+21,URS,evi maurer,,Rome 1960,Swimming,200m breaststroke women
+22,RHO,margaret miners,,Rome 1960,Swimming,200m breaststroke women
+23,CAN,judith mchale,,Rome 1960,Swimming,200m breaststroke women
+24,AUT,christine (christl) wober,,Rome 1960,Swimming,200m breaststroke women
+25,ITA,luciana marcellini,,Rome 1960,Swimming,200m breaststroke women
+26,SUI,maya hungerbuhler,,Rome 1960,Swimming,200m breaststroke women
+27,ESP,isabel castane lopez,,Rome 1960,Swimming,200m breaststroke women
+28,POR,regina veloso,,Rome 1960,Swimming,200m breaststroke women
+29,SUI,suzette schmidlin,Did not start,Rome 1960,Swimming,200m breaststroke women
+0,USA,michael francis troy,,Rome 1960,Swimming,200m butterfly men
+1,AUS,neville hayes,,Rome 1960,Swimming,200m butterfly men
+2,USA,john david gillanders,,Rome 1960,Swimming,200m butterfly men
+3,ITA,federico dennerlein,,Rome 1960,Swimming,200m butterfly men
+4,JPN,haruo yoshimuta,,Rome 1960,Swimming,200m butterfly men
+5,AUS,kevin john berry,,Rome 1960,Swimming,200m butterfly men
+6,URS,valentin kuzmin,,Rome 1960,Swimming,200m butterfly men
+7,JPN,kenzo izutsu,,Rome 1960,Swimming,200m butterfly men
+8,TCH,pavel pazdirek,,Rome 1960,Swimming,200m butterfly men
+9,MEX,eulalio rios aleman,,Rome 1960,Swimming,200m butterfly men
+10,URS,grigory kiselyov,,Rome 1960,Swimming,200m butterfly men
+11,ARG,luis alberto nicolao yanuzzi,,Rome 1960,Swimming,200m butterfly men
+12,GBR,ian blyth,,Rome 1960,Swimming,200m butterfly men
+13,GER,jurgen bachmann,,Rome 1960,Swimming,200m butterfly men
+14,ROU,alexandru popescu,,Rome 1960,Swimming,200m butterfly men
+15,SWE,hakan bengtsson,,Rome 1960,Swimming,200m butterfly men
+16,ARG,fernando fanjul,,Rome 1960,Swimming,200m butterfly men
+17,GER,wolfgang sieber,,Rome 1960,Swimming,200m butterfly men
+18,NED,gerrit jacobus korteweg,,Rome 1960,Swimming,200m butterfly men
+19,CAN,cameron grout,,Rome 1960,Swimming,200m butterfly men
+20,PHI,amirhussin hamsain,,Rome 1960,Swimming,200m butterfly men
+21,POR,luis vaz jorge,,Rome 1960,Swimming,200m butterfly men
+22,HUN,laszlo kiss,,Rome 1960,Swimming,200m butterfly men
+23,ESP,jose vicente leon peston,,Rome 1960,Swimming,200m butterfly men
+24,ITA,giampiero fossati,,Rome 1960,Swimming,200m butterfly men
+25,YUG,veljko rogusic,,Rome 1960,Swimming,200m butterfly men
+26,FRA,henri vidil,,Rome 1960,Swimming,200m butterfly men
+27,NED,bertus (bert) sitters,,Rome 1960,Swimming,200m butterfly men
+28,ESP,heriberto de la fe torres,,Rome 1960,Swimming,200m butterfly men
+29,PHI,ahiron radjae,,Rome 1960,Swimming,200m butterfly men
+30,BRA,aldo perseke,,Rome 1960,Swimming,200m butterfly men
+31,MAL,seow-hoo fong,,Rome 1960,Swimming,200m butterfly men
+32,YUG,lovro radonic,,Rome 1960,Swimming,200m butterfly men
+33,FIN,ilkka suvanto,Did not finish,Rome 1960,Swimming,200m butterfly men
+34,GBR,ian macintosh black,Did not start,Rome 1960,Swimming,200m butterfly men
+35,HUN,miklos ambrus,Did not start,Rome 1960,Swimming,200m butterfly men
+36,INA,habib nasution,Did not start,Rome 1960,Swimming,200m butterfly men
+37,ISR,gershon shefa,Did not start,Rome 1960,Swimming,200m butterfly men
+38,VNM,phan huu dong,Did not start,Rome 1960,Swimming,200m butterfly men
+0,AUS,murray rose,,Rome 1960,Swimming,400m freestyle men
+1,JPN,tsuyoshi yamanaka,,Rome 1960,Swimming,400m freestyle men
+2,AUS,john (jon) konrads,,Rome 1960,Swimming,400m freestyle men
+3,GBR,ian macintosh black,,Rome 1960,Swimming,400m freestyle men
+4,USA,alan brounell somers,,Rome 1960,Swimming,400m freestyle men
+5,RSA,murray mclachlan,,Rome 1960,Swimming,400m freestyle men
+6,USA,eugene carl lenz,,Rome 1960,Swimming,400m freestyle men
+7,JPN,makoto fukui,,Rome 1960,Swimming,400m freestyle men
+8,HUN,jozsef katona,,Rome 1960,Swimming,400m freestyle men
+9,GER,hans-joachim klein,,Rome 1960,Swimming,400m freestyle men
+10,RSA,aubrey burer,,Rome 1960,Swimming,400m freestyle men
+11,GBR,richard campion,,Rome 1960,Swimming,400m freestyle men
+12,MEX,mauricio ocampo,,Rome 1960,Swimming,400m freestyle men
+13,SWE,sven-goran johansson,,Rome 1960,Swimming,400m freestyle men
+14,FIN,kari haavisto,,Rome 1960,Swimming,400m freestyle men
+15,FRA,jean pasqual curtillet,,Rome 1960,Swimming,400m freestyle men
+16,ITA,paolo galletti,,Rome 1960,Swimming,400m freestyle men
+17,GER,gerhard hetz,,Rome 1960,Swimming,400m freestyle men
+18,POL,jerzy tracz,,Rome 1960,Swimming,400m freestyle men
+19,YUG,veljko rogusic,,Rome 1960,Swimming,400m freestyle men
+20,PHI,bana sailani,,Rome 1960,Swimming,400m freestyle men
+21,SWE,per-olof ericsson,,Rome 1960,Swimming,400m freestyle men
+22,CUB,ruben alejandro roca rosillo,,Rome 1960,Swimming,400m freestyle men
+23,YUG,milan jeger,,Rome 1960,Swimming,400m freestyle men
+24,FIN,ilkka suvanto,,Rome 1960,Swimming,400m freestyle men
+25,MEX,raul guzman torres,,Rome 1960,Swimming,400m freestyle men
+26,POL,jan walenty lutomski,,Rome 1960,Swimming,400m freestyle men
+27,ITA,massimo rosi,,Rome 1960,Swimming,400m freestyle men
+28,HUN,tamas hornianszky,,Rome 1960,Swimming,400m freestyle men
+29,FRA,jean pommat,,Rome 1960,Swimming,400m freestyle men
+30,ESP,jose manuel cossio martinon,,Rome 1960,Swimming,400m freestyle men
+31,POR,eduardo jose de sousa,,Rome 1960,Swimming,400m freestyle men
+32,SUI,hans-ulrich durst,,Rome 1960,Swimming,400m freestyle men
+33,INA,zakaria nasution,,Rome 1960,Swimming,400m freestyle men
+34,AUT,helmut ilk,,Rome 1960,Swimming,400m freestyle men
+35,ISR,amiram trauber,,Rome 1960,Swimming,400m freestyle men
+36,SUI,karl fridlin,,Rome 1960,Swimming,400m freestyle men
+37,MAL,seow jit fong,,Rome 1960,Swimming,400m freestyle men
+38,PUR,robert chenaux,,Rome 1960,Swimming,400m freestyle men
+39,URS,leonid kolesnikov,Did not finish,Rome 1960,Swimming,400m freestyle men
+40,ARG,fernando fanjul,Did not start,Rome 1960,Swimming,400m freestyle men
+0,USA,chris von saltza,,Rome 1960,Swimming,400m freestyle women
+1,SWE,jane cederqvist,,Rome 1960,Swimming,400m freestyle women
+2,NED,catharina (tineke) lagerberg,,Rome 1960,Swimming,400m freestyle women
+3,AUS,ilsa konrads,,Rome 1960,Swimming,400m freestyle women
+4,AUS,dawn fraser,,Rome 1960,Swimming,400m freestyle women
+5,GBR,nancy rae,,Rome 1960,Swimming,400m freestyle women
+6,NED,cornelia hendrika schimmel,,Rome 1960,Swimming,400m freestyle women
+7,SWE,birgitta segerstrom,,Rome 1960,Swimming,400m freestyle women
+8,FRA,heda frost,,Rome 1960,Swimming,400m freestyle women
+9,USA,carolyn house,,Rome 1960,Swimming,400m freestyle women
+10,GER,ursula brunner,,Rome 1960,Swimming,400m freestyle women
+11,GER,gisela weiss,,Rome 1960,Swimming,400m freestyle women
+12,GBR,judith v. samuel,,Rome 1960,Swimming,400m freestyle women
+13,ITA,paola saini,,Rome 1960,Swimming,400m freestyle women
+14,RHO,hillary wilson,,Rome 1960,Swimming,400m freestyle women
+15,ITA,welleda veschi,,Rome 1960,Swimming,400m freestyle women
+16,MEX,maria luisa souza,,Rome 1960,Swimming,400m freestyle women
+17,HUN,maria frank,,Rome 1960,Swimming,400m freestyle women
+18,AUT,sigrid muller,,Rome 1960,Swimming,400m freestyle women
+19,MEX,blanca luz barron serrano,,Rome 1960,Swimming,400m freestyle women
+20,JPN,kimiko ezaka,,Rome 1960,Swimming,400m freestyle women
+21,JPN,eiko wada,,Rome 1960,Swimming,400m freestyle women
+22,CAN,margaret iwasaki,Did not start,Rome 1960,Swimming,400m freestyle women
+0,,,,Rome 1960,Swimming,4x100m freestyle relay women
+1,,,,Rome 1960,Swimming,4x100m freestyle relay women
+2,,,,Rome 1960,Swimming,4x100m freestyle relay women
+3,,,,Rome 1960,Swimming,4x100m freestyle relay women
+4,,,,Rome 1960,Swimming,4x100m freestyle relay women
+5,,,,Rome 1960,Swimming,4x100m freestyle relay women
+6,,,,Rome 1960,Swimming,4x100m freestyle relay women
+7,,,,Rome 1960,Swimming,4x100m freestyle relay women
+8,,,,Rome 1960,Swimming,4x100m freestyle relay women
+9,,,,Rome 1960,Swimming,4x100m freestyle relay women
+10,,,,Rome 1960,Swimming,4x100m freestyle relay women
+11,,,Disqualified,Rome 1960,Swimming,4x100m freestyle relay women
+0,,,,Rome 1960,Swimming,4x100m medley relay men
+1,,,,Rome 1960,Swimming,4x100m medley relay men
+2,,,,Rome 1960,Swimming,4x100m medley relay men
+3,,,,Rome 1960,Swimming,4x100m medley relay men
+4,,,,Rome 1960,Swimming,4x100m medley relay men
+5,,,,Rome 1960,Swimming,4x100m medley relay men
+6,,,,Rome 1960,Swimming,4x100m medley relay men
+7,,,,Rome 1960,Swimming,4x100m medley relay men
+8,,,,Rome 1960,Swimming,4x100m medley relay men
+9,,,,Rome 1960,Swimming,4x100m medley relay men
+10,,,,Rome 1960,Swimming,4x100m medley relay men
+11,,,,Rome 1960,Swimming,4x100m medley relay men
+12,,,,Rome 1960,Swimming,4x100m medley relay men
+13,,,,Rome 1960,Swimming,4x100m medley relay men
+14,,,,Rome 1960,Swimming,4x100m medley relay men
+15,,,,Rome 1960,Swimming,4x100m medley relay men
+16,,,,Rome 1960,Swimming,4x100m medley relay men
+17,,,,Rome 1960,Swimming,4x100m medley relay men
+0,,,,Rome 1960,Swimming,4x100m medley relay women
+1,,,,Rome 1960,Swimming,4x100m medley relay women
+2,,,,Rome 1960,Swimming,4x100m medley relay women
+3,,,,Rome 1960,Swimming,4x100m medley relay women
+4,,,,Rome 1960,Swimming,4x100m medley relay women
+5,,,,Rome 1960,Swimming,4x100m medley relay women
+6,,,,Rome 1960,Swimming,4x100m medley relay women
+7,,,,Rome 1960,Swimming,4x100m medley relay women
+8,,,,Rome 1960,Swimming,4x100m medley relay women
+9,,,,Rome 1960,Swimming,4x100m medley relay women
+10,,,,Rome 1960,Swimming,4x100m medley relay women
+11,,,,Rome 1960,Swimming,4x100m medley relay women
+0,,,,Rome 1960,Swimming,4x200m freestyle relay men
+1,,,,Rome 1960,Swimming,4x200m freestyle relay men
+2,,,,Rome 1960,Swimming,4x200m freestyle relay men
+3,,,,Rome 1960,Swimming,4x200m freestyle relay men
+4,,,,Rome 1960,Swimming,4x200m freestyle relay men
+5,,,,Rome 1960,Swimming,4x200m freestyle relay men
+6,,,,Rome 1960,Swimming,4x200m freestyle relay men
+7,,,,Rome 1960,Swimming,4x200m freestyle relay men
+8,,,,Rome 1960,Swimming,4x200m freestyle relay men
+9,,,,Rome 1960,Swimming,4x200m freestyle relay men
+10,,,,Rome 1960,Swimming,4x200m freestyle relay men
+11,,,,Rome 1960,Swimming,4x200m freestyle relay men
+12,,,,Rome 1960,Swimming,4x200m freestyle relay men
+13,,,,Rome 1960,Swimming,4x200m freestyle relay men
+14,,,,Rome 1960,Swimming,4x200m freestyle relay men

@@ -1,0 +1,768 @@
+,country,participant,result,olympic_game,discipline,event
+0,ITA,josef polig,14.58,Albertville 1992,Alpine Skiing,alpine combined men
+1,ITA,gianfranco martin,14.90,Albertville 1992,Alpine Skiing,alpine combined men
+2,SUI,steve locher,18.16,Albertville 1992,Alpine Skiing,alpine combined men
+3,FRA,jean-luc cretier,18.97,Albertville 1992,Alpine Skiing,alpine combined men
+4,GER,markus wasmeier,32.77,Albertville 1992,Alpine Skiing,alpine combined men
+5,ITA,kristian ghedina,38.96,Albertville 1992,Alpine Skiing,alpine combined men
+6,NOR,ole christian furuseth,40.47,Albertville 1992,Alpine Skiing,alpine combined men
+7,SUI,xavier gigandet,41.21,Albertville 1992,Alpine Skiing,alpine combined men
+8,JPN,takuya ishioka,51.83,Albertville 1992,Alpine Skiing,alpine combined men
+9,NOR,lasse arnesen,51.93,Albertville 1992,Alpine Skiing,alpine combined men
+10,NOR,jan einar thorsen,52.75,Albertville 1992,Alpine Skiing,alpine combined men
+11,CAN,robert crossan,57.27,Albertville 1992,Alpine Skiing,alpine combined men
+12,SLO,jure kosir,59.78,Albertville 1992,Alpine Skiing,alpine combined men
+13,CAN,cary mullen,62.37,Albertville 1992,Alpine Skiing,alpine combined men
+14,JPN,kiminobu kimura,64.14,Albertville 1992,Alpine Skiing,alpine combined men
+15,USA,kyle rasmussen,66.70,Albertville 1992,Alpine Skiing,alpine combined men
+16,ESP,jorge pujol-planella,72.07,Albertville 1992,Alpine Skiing,alpine combined men
+17,USA,tommy moe,82.15,Albertville 1992,Alpine Skiing,alpine combined men
+18,AUS,steven john lee,85.05,Albertville 1992,Alpine Skiing,alpine combined men
+19,EUN,vitaly andreyev,85.07,Albertville 1992,Alpine Skiing,alpine combined men
+20,SUI,paul accola,90.96,Albertville 1992,Alpine Skiing,alpine combined men
+21,BUL,petar ditschev,101.59,Albertville 1992,Alpine Skiing,alpine combined men
+22,ESP,ricardo campo-galindo,104.61,Albertville 1992,Alpine Skiing,alpine combined men
+23,LIE,daniel vogt,112.92,Albertville 1992,Alpine Skiing,alpine combined men
+24,GBR,martin bell,121.83,Albertville 1992,Alpine Skiing,alpine combined men
+25,POL,marcin szafranski,133.04,Albertville 1992,Alpine Skiing,alpine combined men
+26,GBR,graham bell,134.03,Albertville 1992,Alpine Skiing,alpine combined men
+27,GBR,sean langmuir,142.32,Albertville 1992,Alpine Skiing,alpine combined men
+28,LIE,markus foser,146.89,Albertville 1992,Alpine Skiing,alpine combined men
+29,LIE,achim vogt,172.91,Albertville 1992,Alpine Skiing,alpine combined men
+30,ITA,franco colturi,176.69,Albertville 1992,Alpine Skiing,alpine combined men
+31,KOR,yong-hee choi,221.60,Albertville 1992,Alpine Skiing,alpine combined men
+32,HUN,pierre köszali,226.57,Albertville 1992,Alpine Skiing,alpine combined men
+33,CHI,alexis racloz,235.31,Albertville 1992,Alpine Skiing,alpine combined men
+34,ROU,emilian focseneanu,249.41,Albertville 1992,Alpine Skiing,alpine combined men
+35,MEX,hubertus von hohenlohe,259.10,Albertville 1992,Alpine Skiing,alpine combined men
+36,HUN,peter kristaly,265.18,Albertville 1992,Alpine Skiing,alpine combined men
+37,BUL,lubomir popov,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+38,BRA,lothar munder,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+39,USA,alva kitt,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+40,SUI,william besse,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+41,AUT,stephan eberharter,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+42,AUT,rainer salzgeber,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+43,EUN,konstantin chistyakov,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+44,USA,jeff olson,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+45,EUN,aleksei maslov,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+46,TCH,marian bires,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+47,CHI,mauricio rotella,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+48,KOR,seung wook hur,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+49,TCH,peter jurko,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+50,YUG,igor latinovic,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+51,YUG,edin terzic,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+52,SEN,alphonse gomis,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+53,SEN,lamine gueye,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+54,YUG,zoran perusina,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+55,LUX,marc girardelli,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+56,AUT,günther mader,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+57,GBR,ronald duncan,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+58,NOR,tom stiansen,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+59,ESP,abraham fernandez-martinez,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+60,CAN,felix belczyk,Did not finish,Albertville 1992,Alpine Skiing,alpine combined men
+61,AUT,hubert strolz,Disqualified,Albertville 1992,Alpine Skiing,alpine combined men
+62,CHI,paulo oppliger,Disqualified,Albertville 1992,Alpine Skiing,alpine combined men
+63,ROU,aurel foiciuc,Disqualified,Albertville 1992,Alpine Skiing,alpine combined men
+64,FRA,denis rey,Disqualified,Albertville 1992,Alpine Skiing,alpine combined men
+65,FRA,adrien duvillard,Disqualified,Albertville 1992,Alpine Skiing,alpine combined men
+66,CAN,roman torn,Did not start,Albertville 1992,Alpine Skiing,alpine combined men
+0,AUT,petra kronberger,2.55,Albertville 1992,Alpine Skiing,alpine combined women
+1,AUT,anita wachter,19.39,Albertville 1992,Alpine Skiing,alpine combined women
+2,FRA,florence masnada,21.38,Albertville 1992,Alpine Skiing,alpine combined women
+3,SUI,chantal bournissen,24.98,Albertville 1992,Alpine Skiing,alpine combined women
+4,NOR,anne berge,35.28,Albertville 1992,Alpine Skiing,alpine combined women
+5,CAN,michelle ruthven,39.02,Albertville 1992,Alpine Skiing,alpine combined women
+6,SLO,natasa bokal,42.60,Albertville 1992,Alpine Skiing,alpine combined women
+7,TCH,lucia medzihradska,47.43,Albertville 1992,Alpine Skiing,alpine combined women
+8,GER,miriam vogt,48.52,Albertville 1992,Alpine Skiing,alpine combined women
+9,FRA,régine cavagnoud,51.13,Albertville 1992,Alpine Skiing,alpine combined women
+10,USA,krista schmidinger,51.56,Albertville 1992,Alpine Skiing,alpine combined women
+11,EUN,svetlana gladisheva,61.25,Albertville 1992,Alpine Skiing,alpine combined women
+12,JPN,emi kawabata,66.10,Albertville 1992,Alpine Skiing,alpine combined women
+13,SUI,heidi zeller-baehler,69.07,Albertville 1992,Alpine Skiing,alpine combined women
+14,TCH,ludmila milanova,76.28,Albertville 1992,Alpine Skiing,alpine combined women
+15,ITA,morena gallizio,93.21,Albertville 1992,Alpine Skiing,alpine combined women
+16,GBR,emma carrick-anderson,107.61,Albertville 1992,Alpine Skiing,alpine combined women
+17,EUN,tatiana lebedeva,111.34,Albertville 1992,Alpine Skiing,alpine combined women
+18,EUN,svetlana novikova,122.48,Albertville 1992,Alpine Skiing,alpine combined women
+19,LIE,birgit heeb-batliner,164.25,Albertville 1992,Alpine Skiing,alpine combined women
+20,ARG,carolina eiras,184.96,Albertville 1992,Alpine Skiing,alpine combined women
+21,NOR,astrid lödemel,210.94,Albertville 1992,Alpine Skiing,alpine combined women
+22,GER,katja seizinger,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+23,AUT,ulrike maier,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+24,FRA,béatrice filliol,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+25,JPN,sachiko yamamoto,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+26,ROU,mihaela fera,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+27,ARG,astrid steverlynck,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+28,GBR,valerie scott,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+29,AUS,zali steggall,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+30,GBR,claire de pourtales,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+31,YUG,marina vidovic,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+32,USA,kristin krone,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+33,EUN,varvara zelenskaia,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+34,YUG,ariana boras,Did not finish,Albertville 1992,Alpine Skiing,alpine combined women
+35,NOR,merete fjeldavlie,Disqualified,Albertville 1992,Alpine Skiing,alpine combined women
+36,CAN,kerrin lee-gartner,Disqualified,Albertville 1992,Alpine Skiing,alpine combined women
+37,GER,michaela gerg-leitner,Disqualified,Albertville 1992,Alpine Skiing,alpine combined women
+38,GER,regina häusl,Disqualified,Albertville 1992,Alpine Skiing,alpine combined women
+39,SUI,heidi zurbriggen,Disqualified,Albertville 1992,Alpine Skiing,alpine combined women
+40,AUT,sabine ginther,Did not start,Albertville 1992,Alpine Skiing,alpine combined women
+41,GBR,debra pratt,Did not start,Albertville 1992,Alpine Skiing,alpine combined women
+0,AUT,patrick ortlieb,00:01:50.370,Albertville 1992,Alpine Skiing,downhill men
+1,FRA,franck piccard,00:01:50.420,Albertville 1992,Alpine Skiing,downhill men
+2,AUT,günther mader,00:01:50.470,Albertville 1992,Alpine Skiing,downhill men
+3,GER,markus wasmeier,00:01:50.620,Albertville 1992,Alpine Skiing,downhill men
+4,NOR,jan einar thorsen,00:01:50.790,Albertville 1992,Alpine Skiing,downhill men
+5,SUI,franz heinzer,00:01:51.390,Albertville 1992,Alpine Skiing,downhill men
+6,GER,hansjörg tauscher,00:01:51.490,Albertville 1992,Alpine Skiing,downhill men
+7,NOR,lasse arnesen,00:01:51.630,Albertville 1992,Alpine Skiing,downhill men
+8,USA,alva kitt,00:01:51.980,Albertville 1992,Alpine Skiing,downhill men
+9,ITA,franco colturi,00:01:52.070,Albertville 1992,Alpine Skiing,downhill men
+10,ITA,kristian ghedina,00:01:52.280,Albertville 1992,Alpine Skiing,downhill men
+11,FRA,luc alphand,00:01:52.340,Albertville 1992,Alpine Skiing,downhill men
+12,SUI,daniel mahrer,00:01:52.390,Albertville 1992,Alpine Skiing,downhill men
+13,ITA,gianfranco martin,00:01:52.480,Albertville 1992,Alpine Skiing,downhill men
+14,SUI,xavier gigandet,00:01:52.500,Albertville 1992,Alpine Skiing,downhill men
+15,USA,kyle rasmussen,00:01:52.710,Albertville 1992,Alpine Skiing,downhill men
+16,AUT,helmut höflehner,00:01:53.100,Albertville 1992,Alpine Skiing,downhill men
+17,CAN,felix belczyk,00:01:53.370,Albertville 1992,Alpine Skiing,downhill men
+18,GER,bernhard huber,00:01:53.380,Albertville 1992,Alpine Skiing,downhill men
+19,USA,tommy moe,00:01:53.400,Albertville 1992,Alpine Skiing,downhill men
+20,EUN,vitaly andreyev,00:01:53.520,Albertville 1992,Alpine Skiing,downhill men
+21,EUN,aleksei maslov,00:01:53.680,Albertville 1992,Alpine Skiing,downhill men
+22,CAN,brian stemmle,00:01:53.770,Albertville 1992,Alpine Skiing,downhill men
+23,EUN,konstantin chistyakov,00:01:53.930,Albertville 1992,Alpine Skiing,downhill men
+24,JPN,tsuyoshi tomii,00:01:54.230,Albertville 1992,Alpine Skiing,downhill men
+25,NOR,kjetil andre aamodt,00:01:54.240,Albertville 1992,Alpine Skiing,downhill men
+26,FRA,denis rey,00:01:54.280,Albertville 1992,Alpine Skiing,downhill men
+27,USA,reggie crist,00:01:54.540,Albertville 1992,Alpine Skiing,downhill men
+28,GBR,martin bell,00:01:54.830,Albertville 1992,Alpine Skiing,downhill men
+29,ESP,ricardo campo-galindo,00:01:54.890,Albertville 1992,Alpine Skiing,downhill men
+30,GBR,ronald duncan,00:01:54.950,Albertville 1992,Alpine Skiing,downhill men
+31,NOR,tom stiansen,00:01:55.620,Albertville 1992,Alpine Skiing,downhill men
+32,GBR,graham bell,00:01:55.820,Albertville 1992,Alpine Skiing,downhill men
+33,TCH,marian bires,00:01:56.210,Albertville 1992,Alpine Skiing,downhill men
+34,CHI,paulo oppliger,00:01:56.300,Albertville 1992,Alpine Skiing,downhill men
+35,AUS,steven john lee,00:01:58.550,Albertville 1992,Alpine Skiing,downhill men
+36,BUL,petar ditschev,00:02:01.210,Albertville 1992,Alpine Skiing,downhill men
+37,MEX,hubertus von hohenlohe,00:02:02.980,Albertville 1992,Alpine Skiing,downhill men
+38,KOR,yong-hee choi,00:02:04.850,Albertville 1992,Alpine Skiing,downhill men
+39,CHI,alexis racloz,00:02:05.610,Albertville 1992,Alpine Skiing,downhill men
+40,BRA,lothar munder,00:02:07.340,Albertville 1992,Alpine Skiing,downhill men
+41,ROU,emilian focseneanu,00:02:08.810,Albertville 1992,Alpine Skiing,downhill men
+42,HUN,peter kristaly,00:02:09.880,Albertville 1992,Alpine Skiing,downhill men
+43,ROU,aurel foiciuc,00:02:09.940,Albertville 1992,Alpine Skiing,downhill men
+44,SEN,lamine gueye,00:02:12.840,Albertville 1992,Alpine Skiing,downhill men
+45,AUT,leonhard stock,Did not finish,Albertville 1992,Alpine Skiing,downhill men
+46,ITA,danilo sbardellotto,Did not finish,Albertville 1992,Alpine Skiing,downhill men
+47,LUX,marc girardelli,Did not finish,Albertville 1992,Alpine Skiing,downhill men
+48,FRA,adrien duvillard,Did not finish,Albertville 1992,Alpine Skiing,downhill men
+49,SUI,paul accola,Did not finish,Albertville 1992,Alpine Skiing,downhill men
+50,CAN,roman torn,Did not finish,Albertville 1992,Alpine Skiing,downhill men
+51,LIE,markus foser,Did not finish,Albertville 1992,Alpine Skiing,downhill men
+52,CHI,nils linneberg,Did not finish,Albertville 1992,Alpine Skiing,downhill men
+53,SEN,alphonse gomis,Did not finish,Albertville 1992,Alpine Skiing,downhill men
+54,CAN,cary mullen,Disqualified,Albertville 1992,Alpine Skiing,downhill men
+55,HUN,pierre köszali,Did not start,Albertville 1992,Alpine Skiing,downhill men
+0,CAN,kerrin lee-gartner,00:01:52.550,Albertville 1992,Alpine Skiing,downhill women
+1,USA,hilary lindh,00:01:52.610,Albertville 1992,Alpine Skiing,downhill women
+2,AUT,veronika stallmaier,00:01:52.640,Albertville 1992,Alpine Skiing,downhill women
+3,GER,katja seizinger,00:01:52.670,Albertville 1992,Alpine Skiing,downhill women
+4,AUT,petra kronberger,00:01:52.730,Albertville 1992,Alpine Skiing,downhill women
+5,GER,katharina gutensohn,00:01:53.710,Albertville 1992,Alpine Skiing,downhill women
+6,AUT,barbara sadleder,00:01:53.810,Albertville 1992,Alpine Skiing,downhill women
+7,EUN,svetlana gladisheva,00:01:53.850,Albertville 1992,Alpine Skiing,downhill women
+8,GER,miriam vogt,00:01:53.890,Albertville 1992,Alpine Skiing,downhill women
+9,SUI,heidi zurbriggen,00:01:54.040,Albertville 1992,Alpine Skiing,downhill women
+10,JPN,emi kawabata,00:01:54.520,Albertville 1992,Alpine Skiing,downhill women
+11,USA,krista schmidinger,00:01:54.590,Albertville 1992,Alpine Skiing,downhill women
+12,SUI,heidi zeller-baehler,00:01:54.730,Albertville 1992,Alpine Skiing,downhill women
+13,FRA,carole merle,00:01:54.730,Albertville 1992,Alpine Skiing,downhill women
+14,NOR,astrid lödemel,00:01:54.760,Albertville 1992,Alpine Skiing,downhill women
+15,TCH,lucia medzihradska,00:01:54.780,Albertville 1992,Alpine Skiing,downhill women
+16,FRA,régine cavagnoud,00:01:54.940,Albertville 1992,Alpine Skiing,downhill women
+17,GER,michaela gerg-leitner,00:01:54.990,Albertville 1992,Alpine Skiing,downhill women
+18,EUN,tatiana lebedeva,00:01:55.150,Albertville 1992,Alpine Skiing,downhill women
+19,CAN,michelle ruthven,00:01:55.610,Albertville 1992,Alpine Skiing,downhill women
+20,SUI,marlis spescha,00:01:55.830,Albertville 1992,Alpine Skiing,downhill women
+21,FRA,kathy chedal,00:01:55.910,Albertville 1992,Alpine Skiing,downhill women
+22,FRA,marie-pierre gatel,00:01:56.250,Albertville 1992,Alpine Skiing,downhill women
+23,TCH,ludmila milanova,00:01:57.850,Albertville 1992,Alpine Skiing,downhill women
+24,USA,edith thys,00:01:58.130,Albertville 1992,Alpine Skiing,downhill women
+25,JPN,sachiko yamamoto,00:01:58.520,Albertville 1992,Alpine Skiing,downhill women
+26,EUN,svetlana novikova,00:01:59.180,Albertville 1992,Alpine Skiing,downhill women
+27,ROU,mihaela fera,00:02:01.270,Albertville 1992,Alpine Skiing,downhill women
+28,ARG,carolina eiras,00:02:02.810,Albertville 1992,Alpine Skiing,downhill women
+29,SUI,chantal bournissen,Did not finish,Albertville 1992,Alpine Skiing,downhill women
+30,EUN,varvara zelenskaia,Did not start,Albertville 1992,Alpine Skiing,downhill women
+0,ITA,alberto tomba,00:02:06.980,Albertville 1992,Alpine Skiing,giant slalom men
+1,LUX,marc girardelli,00:02:07.300,Albertville 1992,Alpine Skiing,giant slalom men
+2,NOR,kjetil andre aamodt,00:02:07.820,Albertville 1992,Alpine Skiing,giant slalom men
+3,SUI,paul accola,00:02:08.020,Albertville 1992,Alpine Skiing,giant slalom men
+4,NOR,ole christian furuseth,00:02:08.160,Albertville 1992,Alpine Skiing,giant slalom men
+5,AUT,günther mader,00:02:08.800,Albertville 1992,Alpine Skiing,giant slalom men
+6,AUT,rainer salzgeber,00:02:08.830,Albertville 1992,Alpine Skiing,giant slalom men
+7,SWE,fredrik nyberg,00:02:09.000,Albertville 1992,Alpine Skiing,giant slalom men
+8,AUT,hubert strolz,00:02:09.450,Albertville 1992,Alpine Skiing,giant slalom men
+9,ITA,josef polig,00:02:09.450,Albertville 1992,Alpine Skiing,giant slalom men
+10,SUI,hans pieren,00:02:09.570,Albertville 1992,Alpine Skiing,giant slalom men
+11,AUT,christian mayer,00:02:10.060,Albertville 1992,Alpine Skiing,giant slalom men
+12,FRA,stéphane exartier,00:02:10.670,Albertville 1992,Alpine Skiing,giant slalom men
+13,SUI,michael von gruenigen,00:02:10.670,Albertville 1992,Alpine Skiing,giant slalom men
+14,LIE,günther marxer,00:02:11.150,Albertville 1992,Alpine Skiing,giant slalom men
+15,SLO,gregor grilc,00:02:11.500,Albertville 1992,Alpine Skiing,giant slalom men
+16,ITA,sergio bergamelli,00:02:11.750,Albertville 1992,Alpine Skiing,giant slalom men
+17,FRA,franck piccard,00:02:11.930,Albertville 1992,Alpine Skiing,giant slalom men
+18,FRA,alain feutrier,00:02:12.000,Albertville 1992,Alpine Skiing,giant slalom men
+19,USA,robert parisien,00:02:12.030,Albertville 1992,Alpine Skiing,giant slalom men
+20,JPN,kiminobu kimura,00:02:12.100,Albertville 1992,Alpine Skiing,giant slalom men
+21,SLO,jure kosir,00:02:12.230,Albertville 1992,Alpine Skiing,giant slalom men
+22,SLO,mitja kunc,00:02:12.880,Albertville 1992,Alpine Skiing,giant slalom men
+23,SLO,andrej miklavc,00:02:12.950,Albertville 1992,Alpine Skiing,giant slalom men
+24,USA,casey puckett,00:02:13.250,Albertville 1992,Alpine Skiing,giant slalom men
+25,LIE,achim vogt,00:02:14.700,Albertville 1992,Alpine Skiing,giant slalom men
+26,ESP,vicente tomas-hernandez,00:02:15.550,Albertville 1992,Alpine Skiing,giant slalom men
+27,NZL,simon wi rutene,00:02:15.610,Albertville 1992,Alpine Skiing,giant slalom men
+28,JPN,takuya ishioka,00:02:15.920,Albertville 1992,Alpine Skiing,giant slalom men
+29,BUL,petar ditschev,00:02:16.380,Albertville 1992,Alpine Skiing,giant slalom men
+30,ESP,xavier ubeira,00:02:17.060,Albertville 1992,Alpine Skiing,giant slalom men
+31,ESP,ricardo campo-galindo,00:02:17.770,Albertville 1992,Alpine Skiing,giant slalom men
+32,BUL,lubomir popov,00:02:18.010,Albertville 1992,Alpine Skiing,giant slalom men
+33,TCH,marian bires,00:02:18.110,Albertville 1992,Alpine Skiing,giant slalom men
+34,CAN,robert crossan,00:02:18.570,Albertville 1992,Alpine Skiing,giant slalom men
+35,AND,gérard escoda,00:02:18.690,Albertville 1992,Alpine Skiing,giant slalom men
+36,TCH,peter jurko,00:02:19.150,Albertville 1992,Alpine Skiing,giant slalom men
+37,AND,nahum orobitg-perez,00:02:19.300,Albertville 1992,Alpine Skiing,giant slalom men
+38,CAN,william raine,00:02:20.060,Albertville 1992,Alpine Skiing,giant slalom men
+39,GBR,william gaylord,00:02:20.660,Albertville 1992,Alpine Skiing,giant slalom men
+40,BUL,borislav dimitratchkov,00:02:21.650,Albertville 1992,Alpine Skiing,giant slalom men
+41,HUN,pierre köszali,00:02:23.360,Albertville 1992,Alpine Skiing,giant slalom men
+42,GBR,gavin forsythe,00:02:24.230,Albertville 1992,Alpine Skiing,giant slalom men
+43,ISL,örnolfur valdimarsson,00:02:25.020,Albertville 1992,Alpine Skiing,giant slalom men
+44,DEN,niels gelbjerg-hansen,00:02:26.490,Albertville 1992,Alpine Skiing,giant slalom men
+45,POL,marcin szafranski,00:02:27.400,Albertville 1992,Alpine Skiing,giant slalom men
+46,ARG,agustin neiman,00:02:28.310,Albertville 1992,Alpine Skiing,giant slalom men
+47,ROU,emilian focseneanu,00:02:29.000,Albertville 1992,Alpine Skiing,giant slalom men
+48,CHI,alexis racloz,00:02:29.270,Albertville 1992,Alpine Skiing,giant slalom men
+49,HUN,balazs tornay,00:02:29.710,Albertville 1992,Alpine Skiing,giant slalom men
+50,CHI,mauricio rotella,00:02:30.440,Albertville 1992,Alpine Skiing,giant slalom men
+51,POL,jakub malczewski,00:02:30.670,Albertville 1992,Alpine Skiing,giant slalom men
+52,ROU,aurel foiciuc,00:02:30.820,Albertville 1992,Alpine Skiing,giant slalom men
+53,ARG,gaston begue,00:02:31.160,Albertville 1992,Alpine Skiing,giant slalom men
+54,CHI,diego margozzini,00:02:33.320,Albertville 1992,Alpine Skiing,giant slalom men
+55,HUN,peter kristaly,00:02:34.380,Albertville 1992,Alpine Skiing,giant slalom men
+56,LBN,elias majdalani,00:02:35.770,Albertville 1992,Alpine Skiing,giant slalom men
+57,YUG,zoran perusina,00:02:36.020,Albertville 1992,Alpine Skiing,giant slalom men
+58,SMR,jason gasperoni,00:02:38.350,Albertville 1992,Alpine Skiing,giant slalom men
+59,TUR,taner ustundag,00:02:38.950,Albertville 1992,Alpine Skiing,giant slalom men
+60,CYP,alekhis fotiadis,00:02:39.990,Albertville 1992,Alpine Skiing,giant slalom men
+61,ISV,john campbell,00:02:40.030,Albertville 1992,Alpine Skiing,giant slalom men
+62,SWZ,keith fraser,00:02:41.760,Albertville 1992,Alpine Skiing,giant slalom men
+63,BRA,sergio schuler,00:02:42.610,Albertville 1992,Alpine Skiing,giant slalom men
+64,MEX,carlos mier-y-teran,00:02:44.730,Albertville 1992,Alpine Skiing,giant slalom men
+65,SEN,lamine gueye,00:02:44.980,Albertville 1992,Alpine Skiing,giant slalom men
+66,PRK,chol ryong kim,00:02:45.260,Albertville 1992,Alpine Skiing,giant slalom men
+67,TUR,ahmet demir,00:02:45.260,Albertville 1992,Alpine Skiing,giant slalom men
+68,CYP,andreas vassili,00:02:46.260,Albertville 1992,Alpine Skiing,giant slalom men
+69,TUR,cevdet can,00:02:46.400,Albertville 1992,Alpine Skiing,giant slalom men
+70,PHI,michael d. teruel,00:02:46.840,Albertville 1992,Alpine Skiing,giant slalom men
+71,MEX,eduardo ampudia,00:02:47.600,Albertville 1992,Alpine Skiing,giant slalom men
+72,BRA,marcelo apovian,00:02:48.040,Albertville 1992,Alpine Skiing,giant slalom men
+73,SEN,alphonse gomis,00:02:48.080,Albertville 1992,Alpine Skiing,giant slalom men
+74,TUR,yakup kadri birinci,00:02:48.120,Albertville 1992,Alpine Skiing,giant slalom men
+75,CYP,socrates aristodimou,00:02:48.160,Albertville 1992,Alpine Skiing,giant slalom men
+76,BOL,guillermo avila paz,00:02:50.770,Albertville 1992,Alpine Skiing,giant slalom men
+77,MAR,ait brahim si brahim,00:02:54.220,Albertville 1992,Alpine Skiing,giant slalom men
+78,MEX,german sanchez,00:02:56.710,Albertville 1992,Alpine Skiing,giant slalom men
+79,ALG,kamel guerri,00:03:03.770,Albertville 1992,Alpine Skiing,giant slalom men
+80,TPE,tong-jong chen,00:03:05.990,Albertville 1992,Alpine Skiing,giant slalom men
+81,IND,nanak chand thakur,00:03:09.030,Albertville 1992,Alpine Skiing,giant slalom men
+82,BOL,daniel stahlie,00:03:12.360,Albertville 1992,Alpine Skiing,giant slalom men
+83,MAR,mustapha naitlhou,00:03:17.320,Albertville 1992,Alpine Skiing,giant slalom men
+84,ALG,mourad guerri,00:03:20.330,Albertville 1992,Alpine Skiing,giant slalom men
+85,MAR,noureddine bouchaal,00:03:22.300,Albertville 1992,Alpine Skiing,giant slalom men
+86,BOL,carlos aramayo,00:03:24.290,Albertville 1992,Alpine Skiing,giant slalom men
+87,LBN,dany abounaoum,00:03:24.390,Albertville 1992,Alpine Skiing,giant slalom men
+88,BOL,josé-manuel bejarano,00:03:27.350,Albertville 1992,Alpine Skiing,giant slalom men
+89,CRC,julian daniel munoz,00:03:46.510,Albertville 1992,Alpine Skiing,giant slalom men
+90,CRC,alejandro preinfalk-lavagni,00:04:49.060,Albertville 1992,Alpine Skiing,giant slalom men
+91,SWE,johan wallner,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+92,SUI,steve locher,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+93,USA,matthew grosjean,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+94,GER,armin bittner,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+95,ESP,jorge pujol-planella,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+96,AND,ramon rossell-mas,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+97,AND,victor gomez,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+98,GBR,sean langmuir,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+99,JPN,tsuyoshi tomii,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+100,HUN,attila bonis,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+101,ARG,carlos espiasse,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+102,GRE,thomas lefousi,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+103,KOR,yong-hee choi,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+104,BRA,hans egger,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+105,BRA,fabio igel,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+106,TPE,ching-ming ong,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+107,IND,lal chuni,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+108,CRC,gabriel chernacov-selvin,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+109,NOR,lasse kjus,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+110,ITA,patrick holzer,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+111,NOR,didrik marksten,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+112,GER,markus wasmeier,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+113,USA,christopher puckett,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+114,LIE,marco buechel,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+115,LIE,daniel vogt,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+116,ISL,kristinn bjornsson,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+117,CRO,vedran pavlek,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+118,ARG,federico van ditmar,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+119,GRE,ioannis kapraras,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+120,SMR,nicola ercolani,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+121,MEX,jorge eduardo ballesteros,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+122,YUG,rejmon horo,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+123,YUG,enis becirbegovic,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+124,CRC,martin chernacov-selvin,Did not finish,Albertville 1992,Alpine Skiing,giant slalom men
+125,GER,peter roth,Disqualified,Albertville 1992,Alpine Skiing,giant slalom men
+126,KOR,seung wook hur,Disqualified,Albertville 1992,Alpine Skiing,giant slalom men
+127,LBN,jean khalil,Disqualified,Albertville 1992,Alpine Skiing,giant slalom men
+128,YUG,igor latinovic,Disqualified,Albertville 1992,Alpine Skiing,giant slalom men
+129,MAR,el hassan mahta,Disqualified,Albertville 1992,Alpine Skiing,giant slalom men
+130,LBN,raymond kayrouz,Disqualified,Albertville 1992,Alpine Skiing,giant slalom men
+131,GRE,stergios pappos,Did not start,Albertville 1992,Alpine Skiing,giant slalom men
+132,TPE,wei-tsu tang,Did not start,Albertville 1992,Alpine Skiing,giant slalom men
+0,SWE,pernilla wiberg,00:02:12.740,Albertville 1992,Alpine Skiing,giant slalom women
+1,USA,diann roffe,00:02:13.710,Albertville 1992,Alpine Skiing,giant slalom women
+2,AUT,anita wachter,00:02:13.710,Albertville 1992,Alpine Skiing,giant slalom women
+3,AUT,ulrike maier,00:02:13.770,Albertville 1992,Alpine Skiing,giant slalom women
+4,USA,julie parisien,00:02:14.100,Albertville 1992,Alpine Skiing,giant slalom women
+5,FRA,carole merle,00:02:14.240,Albertville 1992,Alpine Skiing,giant slalom women
+6,USA,eva twardokens,00:02:14.470,Albertville 1992,Alpine Skiing,giant slalom women
+7,GER,katja seizinger,00:02:14.960,Albertville 1992,Alpine Skiing,giant slalom women
+8,AUT,sylvia eder,00:02:15.050,Albertville 1992,Alpine Skiing,giant slalom women
+9,SWE,kristina andersson,00:02:15.230,Albertville 1992,Alpine Skiing,giant slalom women
+10,GER,christina meier-hoeck,00:02:15.330,Albertville 1992,Alpine Skiing,giant slalom women
+11,ESP,blanca fernandez ochoa,00:02:15.410,Albertville 1992,Alpine Skiing,giant slalom women
+12,SLO,natasa bokal,00:02:15.640,Albertville 1992,Alpine Skiing,giant slalom women
+13,GER,traudl hächer-gavet,00:02:16.130,Albertville 1992,Alpine Skiing,giant slalom women
+14,NOR,merete fjeldavlie,00:02:17.230,Albertville 1992,Alpine Skiing,giant slalom women
+15,ITA,barbara merlin,00:02:17.320,Albertville 1992,Alpine Skiing,giant slalom women
+16,SUI,corinne rey bellet,00:02:17.590,Albertville 1992,Alpine Skiing,giant slalom women
+17,SUI,zoe haas,00:02:17.890,Albertville 1992,Alpine Skiing,giant slalom women
+18,FRA,sophie lefranc-duvillard,00:02:18.670,Albertville 1992,Alpine Skiing,giant slalom women
+19,TCH,lucia medzihradska,00:02:19.270,Albertville 1992,Alpine Skiing,giant slalom women
+20,NOR,anne berge,00:02:19.510,Albertville 1992,Alpine Skiing,giant slalom women
+21,GBR,emma carrick-anderson,00:02:21.760,Albertville 1992,Alpine Skiing,giant slalom women
+22,AUS,zali steggall,00:02:22.200,Albertville 1992,Alpine Skiing,giant slalom women
+23,ESP,emma bosch,00:02:22.820,Albertville 1992,Alpine Skiing,giant slalom women
+24,ESP,ainhoa ibarra astelarra,00:02:22.820,Albertville 1992,Alpine Skiing,giant slalom women
+25,ESP,silvia rincon,00:02:23.200,Albertville 1992,Alpine Skiing,giant slalom women
+26,ARG,carolina eiras,00:02:25.910,Albertville 1992,Alpine Skiing,giant slalom women
+27,ROU,mihaela fera,00:02:28.580,Albertville 1992,Alpine Skiing,giant slalom women
+28,POL,ewa zagata,00:02:29.420,Albertville 1992,Alpine Skiing,giant slalom women
+29,ISL,asta halldorsdottir,00:02:30.030,Albertville 1992,Alpine Skiing,giant slalom women
+30,DEN,tine kongsholm,00:02:31.000,Albertville 1992,Alpine Skiing,giant slalom women
+31,ARG,astrid steverlynck,00:02:31.160,Albertville 1992,Alpine Skiing,giant slalom women
+32,YUG,marina vidovic,00:02:33.180,Albertville 1992,Alpine Skiing,giant slalom women
+33,HUN,annamaria bonis,00:02:37.000,Albertville 1992,Alpine Skiing,giant slalom women
+34,CHN,xue-qin li,00:02:45.790,Albertville 1992,Alpine Skiing,giant slalom women
+35,MEX,chus cortina,00:02:47.040,Albertville 1992,Alpine Skiing,giant slalom women
+36,ISV,seba johnson,00:02:50.670,Albertville 1992,Alpine Skiing,giant slalom women
+37,CHN,ya-li liu,00:02:51.120,Albertville 1992,Alpine Skiing,giant slalom women
+38,CYP,karolina fotiadou,00:02:57.140,Albertville 1992,Alpine Skiing,giant slalom women
+39,BRA,evelyn schuler,00:02:58.320,Albertville 1992,Alpine Skiing,giant slalom women
+40,MEX,sammantha teuscher,00:03:02.680,Albertville 1992,Alpine Skiing,giant slalom women
+41,ALG,nacera boukamoum,00:03:04.460,Albertville 1992,Alpine Skiing,giant slalom women
+42,MAR,ghalia sebti,00:03:07.660,Albertville 1992,Alpine Skiing,giant slalom women
+43,MEX,veronica ampudia,00:03:15.250,Albertville 1992,Alpine Skiing,giant slalom women
+44,FRA,christelle guignard,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+45,SWE,ylva nowen,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+46,GER,michaela gerg-leitner,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+47,SLO,katjusa pusnik,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+48,ITA,lara magoni,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+49,SLO,barbara brlec,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+50,USA,edith thys,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+51,HUN,veronika gönczi,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+52,AUT,petra kronberger,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+53,SUI,vreni schneider,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+54,ITA,deborah compagnoni,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+55,ITA,bibiana perez,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+56,NOR,astrid lödemel,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+57,LIE,birgit heeb-batliner,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+58,TCH,ludmila milanova,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+59,AND,vicky grau,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+60,GBR,debra pratt,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+61,GRE,thomai lefoussi,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+62,PRK,mi ok choi,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+63,MAR,nawal slaoui,Did not finish,Albertville 1992,Alpine Skiing,giant slalom women
+64,JPN,emi kawabata,Disqualified,Albertville 1992,Alpine Skiing,giant slalom women
+65,YUG,vesna dunimagloska,Disqualified,Albertville 1992,Alpine Skiing,giant slalom women
+66,SUI,heidi zurbriggen,Disqualified,Albertville 1992,Alpine Skiing,giant slalom women
+67,FRA,kathy chedal,Disqualified,Albertville 1992,Alpine Skiing,giant slalom women
+68,SLO,spela pretnar,Disqualified,Albertville 1992,Alpine Skiing,giant slalom women
+69,FIN,minna norema,Did not start,Albertville 1992,Alpine Skiing,giant slalom women
+70,GBR,valerie scott,Did not start,Albertville 1992,Alpine Skiing,giant slalom women
+0,NOR,finn christian jagge,00:01:44.390,Albertville 1992,Alpine Skiing,slalom men
+1,ITA,alberto tomba,00:01:44.670,Albertville 1992,Alpine Skiing,slalom men
+2,AUT,michael tritscher,00:01:44.850,Albertville 1992,Alpine Skiing,slalom men
+3,SUI,patrick francis jr. manning,00:01:45.440,Albertville 1992,Alpine Skiing,slalom men
+4,SWE,tomas fogdö,00:01:45.480,Albertville 1992,Alpine Skiing,slalom men
+5,SUI,paul accola,00:01:45.620,Albertville 1992,Alpine Skiing,slalom men
+6,SUI,michael von gruenigen,00:01:46.420,Albertville 1992,Alpine Skiing,slalom men
+7,SWE,jonas lars nilsson,00:01:46.570,Albertville 1992,Alpine Skiing,slalom men
+8,AUT,thomas stangassinger,00:01:46.650,Albertville 1992,Alpine Skiing,slalom men
+9,USA,matthew grosjean,00:01:46.940,Albertville 1992,Alpine Skiing,slalom men
+10,ITA,carlo gerosa,00:01:47.100,Albertville 1992,Alpine Skiing,slalom men
+11,FRA,françois simond,00:01:47.490,Albertville 1992,Alpine Skiing,slalom men
+12,AUT,hubert strolz,00:01:47.790,Albertville 1992,Alpine Skiing,slalom men
+13,SWE,mats ericson,00:01:48.010,Albertville 1992,Alpine Skiing,slalom men
+14,AUT,bernhard gstrein,00:01:48.260,Albertville 1992,Alpine Skiing,slalom men
+15,GER,peter roth,00:01:48.750,Albertville 1992,Alpine Skiing,slalom men
+16,SLO,andrej miklavc,00:01:49.470,Albertville 1992,Alpine Skiing,slalom men
+17,JPN,tetsuya okabe,00:01:49.480,Albertville 1992,Alpine Skiing,slalom men
+18,SLO,jure kosir,00:01:49.490,Albertville 1992,Alpine Skiing,slalom men
+19,CAN,robert crossan,00:01:49.860,Albertville 1992,Alpine Skiing,slalom men
+20,ITA,kurt-konrad ladstätter,00:01:49.870,Albertville 1992,Alpine Skiing,slalom men
+21,SLO,gregor grilc,00:01:49.950,Albertville 1992,Alpine Skiing,slalom men
+22,USA,robert wieche,00:01:51.120,Albertville 1992,Alpine Skiing,slalom men
+23,SLO,klemen bergant,00:01:52.520,Albertville 1992,Alpine Skiing,slalom men
+24,TCH,peter jurko,00:01:52.800,Albertville 1992,Alpine Skiing,slalom men
+25,BUL,petar ditschev,00:01:52.910,Albertville 1992,Alpine Skiing,slalom men
+26,ESP,abraham fernandez-martinez,00:01:52.970,Albertville 1992,Alpine Skiing,slalom men
+27,ESP,jorge pujol-planella,00:01:53.010,Albertville 1992,Alpine Skiing,slalom men
+28,CAN,william raine,00:01:53.320,Albertville 1992,Alpine Skiing,slalom men
+29,FRA,stéphane exartier,00:01:53.900,Albertville 1992,Alpine Skiing,slalom men
+30,ESP,ricardo campo-galindo,00:01:54.520,Albertville 1992,Alpine Skiing,slalom men
+31,AND,gérard escoda,00:01:54.710,Albertville 1992,Alpine Skiing,slalom men
+32,BUL,borislav dimitratchkov,00:01:55.150,Albertville 1992,Alpine Skiing,slalom men
+33,GBR,sean langmuir,00:01:55.730,Albertville 1992,Alpine Skiing,slalom men
+34,ISL,örnolfur valdimarsson,00:01:56.480,Albertville 1992,Alpine Skiing,slalom men
+35,CRO,vedran pavlek,00:01:57.280,Albertville 1992,Alpine Skiing,slalom men
+36,HUN,attila bonis,00:01:59.020,Albertville 1992,Alpine Skiing,slalom men
+37,HUN,balazs tornay,00:02:00.520,Albertville 1992,Alpine Skiing,slalom men
+38,ARG,federico van ditmar,00:02:01.490,Albertville 1992,Alpine Skiing,slalom men
+39,KOR,yong-hee choi,00:02:03.050,Albertville 1992,Alpine Skiing,slalom men
+40,ROU,aurel foiciuc,00:02:04.340,Albertville 1992,Alpine Skiing,slalom men
+41,YUG,zoran perusina,00:02:04.540,Albertville 1992,Alpine Skiing,slalom men
+42,HUN,peter kristaly,00:02:08.060,Albertville 1992,Alpine Skiing,slalom men
+43,CYP,alekhis fotiadis,00:02:14.760,Albertville 1992,Alpine Skiing,slalom men
+44,TUR,taner ustundag,00:02:17.780,Albertville 1992,Alpine Skiing,slalom men
+45,YUG,sladjan ilic,00:02:20.070,Albertville 1992,Alpine Skiing,slalom men
+46,CYP,socrates aristodimou,00:02:23.890,Albertville 1992,Alpine Skiing,slalom men
+47,BRA,hans egger,00:02:24.510,Albertville 1992,Alpine Skiing,slalom men
+48,PHI,michael d. teruel,00:02:27.490,Albertville 1992,Alpine Skiing,slalom men
+49,BOL,guillermo avila paz,00:02:28.250,Albertville 1992,Alpine Skiing,slalom men
+50,TUR,cevdet can,00:02:28.450,Albertville 1992,Alpine Skiing,slalom men
+51,MAR,ait brahim si brahim,00:02:30.000,Albertville 1992,Alpine Skiing,slalom men
+52,LBN,jean khalil,00:02:33.130,Albertville 1992,Alpine Skiing,slalom men
+53,MEX,juan-carlos elizondo,00:02:41.790,Albertville 1992,Alpine Skiing,slalom men
+54,CYP,andreas vassili,00:02:46.670,Albertville 1992,Alpine Skiing,slalom men
+55,BOL,daniel stahlie,00:02:48.420,Albertville 1992,Alpine Skiing,slalom men
+56,BOL,manuel aramayo,00:02:52.560,Albertville 1992,Alpine Skiing,slalom men
+57,IND,nanak chand thakur,00:02:53.910,Albertville 1992,Alpine Skiing,slalom men
+58,BOL,josé-manuel bejarano,00:02:54.680,Albertville 1992,Alpine Skiing,slalom men
+59,MAR,el hassan mahta,00:02:57.460,Albertville 1992,Alpine Skiing,slalom men
+60,IND,lal chuni,00:03:03.050,Albertville 1992,Alpine Skiing,slalom men
+61,LBN,dany abounaoum,00:03:03.760,Albertville 1992,Alpine Skiing,slalom men
+62,BRA,robert scott detlof,00:03:18.580,Albertville 1992,Alpine Skiing,slalom men
+63,CRC,julian daniel munoz,00:03:44.110,Albertville 1992,Alpine Skiing,slalom men
+64,CRC,alejandro preinfalk-lavagni,00:04:29.130,Albertville 1992,Alpine Skiing,slalom men
+65,NOR,ole christian furuseth,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+66,GER,armin bittner,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+67,NOR,kjetil andre aamodt,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+68,FRA,alain feutrier,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+69,SWE,johan wallner,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+70,TCH,marian bires,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+71,CAN,bradley king,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+72,GBR,william gaylord,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+73,POL,jakub malczewski,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+74,HUN,pierre köszali,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+75,KOR,seung wook hur,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+76,MEX,jorge eduardo ballesteros,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+77,MEX,carlos mier-y-teran,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+78,SEN,lamine gueye,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+79,MAR,hicham diddou,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+80,FRA,patrice bianchi,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+81,SUI,steve locher,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+82,USA,frank levins,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+83,NOR,didrik marksten,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+84,JPN,kiminobu kimura,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+85,JPN,takuya ishioka,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+86,USA,casey puckett,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+87,BUL,lubomir popov,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+88,ESP,ovidio garcia-martinez,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+89,NZL,simon wi rutene,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+90,ISL,kristinn bjornsson,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+91,AND,nahum orobitg-perez,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+92,GBR,stephen edwards,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+93,GBR,christopher blagden,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+94,POL,marcin szafranski,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+95,AND,ramon rossell-mas,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+96,DEN,niels gelbjerg-hansen,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+97,ROU,emilian focseneanu,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+98,ARG,gaston begue,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+99,GRE,thomas lefousi,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+100,SMR,nicola ercolani,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+101,ISV,john campbell,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+102,GRE,ioannis kapraras,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+103,SWZ,keith fraser,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+104,SMR,jason gasperoni,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+105,YUG,rejmon horo,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+106,TUR,ahmet demir,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+107,BRA,sergio schuler,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+108,MEX,german sanchez,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+109,BRA,marcelo apovian,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+110,TPE,tong-jong chen,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+111,LBN,raymond kayrouz,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+112,YUG,enis becirbegovic,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+113,ALG,mourad guerri,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+114,MAR,brahim izdag,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+115,ALG,allaoua latef,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+116,SEN,alphonse gomis,Did not finish,Albertville 1992,Alpine Skiing,slalom men
+117,ITA,fabio de crignis,Disqualified,Albertville 1992,Alpine Skiing,slalom men
+118,LUX,marc girardelli,Disqualified,Albertville 1992,Alpine Skiing,slalom men
+119,CYP,charis parachalambous,Did not start,Albertville 1992,Alpine Skiing,slalom men
+120,GRE,stergios pappos,Did not start,Albertville 1992,Alpine Skiing,slalom men
+121,LBN,elias majdalani,Did not start,Albertville 1992,Alpine Skiing,slalom men
+122,TUR,yakup kadri birinci,Did not start,Albertville 1992,Alpine Skiing,slalom men
+0,AUT,petra kronberger,00:01:32.680,Albertville 1992,Alpine Skiing,slalom women
+1,NZL,annelise coberger,00:01:33.100,Albertville 1992,Alpine Skiing,slalom women
+2,ESP,blanca fernandez ochoa,00:01:33.350,Albertville 1992,Alpine Skiing,slalom women
+3,USA,julie parisien,00:01:33.400,Albertville 1992,Alpine Skiing,slalom women
+4,AUT,karin buder,00:01:33.680,Albertville 1992,Alpine Skiing,slalom women
+5,FRA,patricia chauvet,00:01:33.720,Albertville 1992,Alpine Skiing,slalom women
+6,SUI,vreni schneider,00:01:33.960,Albertville 1992,Alpine Skiing,slalom women
+7,NOR,anne berge,00:01:34.220,Albertville 1992,Alpine Skiing,slalom women
+8,SUI,katrin neuenschwander,00:01:34.280,Albertville 1992,Alpine Skiing,slalom women
+9,SLO,urska hrovat,00:01:34.500,Albertville 1992,Alpine Skiing,slalom women
+10,SWE,kristina andersson,00:01:34.950,Albertville 1992,Alpine Skiing,slalom women
+11,ITA,lara magoni,00:01:35.000,Albertville 1992,Alpine Skiing,slalom women
+12,SUI,christine von grüningen,00:01:35.730,Albertville 1992,Alpine Skiing,slalom women
+13,FRA,christelle guignard,00:01:36.310,Albertville 1992,Alpine Skiing,slalom women
+14,GER,martina ertl-renz,00:01:36.410,Albertville 1992,Alpine Skiing,slalom women
+15,TCH,lucia medzihradska,00:01:36.450,Albertville 1992,Alpine Skiing,slalom women
+16,SLO,katjusa pusnik,00:01:36.450,Albertville 1992,Alpine Skiing,slalom women
+17,USA,monique pelletier,00:01:36.630,Albertville 1992,Alpine Skiing,slalom women
+18,GBR,emma carrick-anderson,00:01:37.580,Albertville 1992,Alpine Skiing,slalom women
+19,USA,heidi voelker,00:01:37.690,Albertville 1992,Alpine Skiing,slalom women
+20,SWE,ylva nowen,00:01:37.840,Albertville 1992,Alpine Skiing,slalom women
+21,NOR,merete fjeldavlie,00:01:38.670,Albertville 1992,Alpine Skiing,slalom women
+22,ESP,silvia rincon,00:01:39.220,Albertville 1992,Alpine Skiing,slalom women
+23,TCH,ludmila milanova,00:01:39.780,Albertville 1992,Alpine Skiing,slalom women
+24,CAN,annie laurendeau,00:01:40.030,Albertville 1992,Alpine Skiing,slalom women
+25,ESP,ainhoa ibarra astelarra,00:01:41.190,Albertville 1992,Alpine Skiing,slalom women
+26,ISL,asta halldorsdottir,00:01:42.740,Albertville 1992,Alpine Skiing,slalom women
+27,DEN,tine kongsholm,00:01:44.030,Albertville 1992,Alpine Skiing,slalom women
+28,ROU,mihaela fera,00:01:44.850,Albertville 1992,Alpine Skiing,slalom women
+29,ARG,astrid steverlynck,00:01:45.530,Albertville 1992,Alpine Skiing,slalom women
+30,YUG,marina vidovic,00:01:51.460,Albertville 1992,Alpine Skiing,slalom women
+31,HUN,veronika gönczi,00:01:55.330,Albertville 1992,Alpine Skiing,slalom women
+32,CHN,ya-li liu,00:02:01.440,Albertville 1992,Alpine Skiing,slalom women
+33,YUG,vesna dunimagloska,00:02:03.780,Albertville 1992,Alpine Skiing,slalom women
+34,CYP,karolina fotiadou,00:02:04.190,Albertville 1992,Alpine Skiing,slalom women
+35,MEX,chus cortina,00:02:07.130,Albertville 1992,Alpine Skiing,slalom women
+36,ISV,seba johnson,00:02:09.760,Albertville 1992,Alpine Skiing,slalom women
+37,PRK,mi ok choi,00:02:11.050,Albertville 1992,Alpine Skiing,slalom women
+38,CHN,xue-qin li,00:02:12.550,Albertville 1992,Alpine Skiing,slalom women
+39,MEX,sammantha teuscher,00:02:14.870,Albertville 1992,Alpine Skiing,slalom women
+40,MAR,nawal slaoui,00:02:17.070,Albertville 1992,Alpine Skiing,slalom women
+41,MEX,veronica ampudia,00:02:24.850,Albertville 1992,Alpine Skiing,slalom women
+42,SLO,natasa bokal,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+43,AUT,monika maierhofer,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+44,AUT,claudia strobl,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+45,SUI,annick bonzon,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+46,GBR,claire de pourtales,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+47,GBR,valerie scott,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+48,GRE,thomai lefoussi,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+49,SLO,veronika sarec,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+50,FRA,florence masnada,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+51,SWE,pernilla wiberg,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+52,USA,eva twardokens,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+53,ITA,bibiana perez,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+54,ITA,astrid plank,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+55,FRA,béatrice filliol,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+56,JPN,sachiko yamamoto,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+57,AUS,zali steggall,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+58,AND,vicky grau,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+59,POL,ewa zagata,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+60,ARG,carolina eiras,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+61,HUN,annamaria bonis,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+62,MAR,ghalia sebti,Did not finish,Albertville 1992,Alpine Skiing,slalom women
+63,FIN,minna norema,Did not start,Albertville 1992,Alpine Skiing,slalom women
+64,JPN,emi kawabata,Did not start,Albertville 1992,Alpine Skiing,slalom women
+0,NOR,kjetil andre aamodt,00:01:13.040,Albertville 1992,Alpine Skiing,super-G men
+1,LUX,marc girardelli,00:01:13.770,Albertville 1992,Alpine Skiing,super-G men
+2,NOR,jan einar thorsen,00:01:13.830,Albertville 1992,Alpine Skiing,super-G men
+3,NOR,ole christian furuseth,00:01:13.870,Albertville 1992,Alpine Skiing,super-G men
+4,ITA,josef polig,00:01:13.880,Albertville 1992,Alpine Skiing,super-G men
+5,SUI,marco hangl,00:01:13.900,Albertville 1992,Alpine Skiing,super-G men
+6,AUT,günther mader,00:01:14.080,Albertville 1992,Alpine Skiing,super-G men
+7,NOR,tom stiansen,00:01:14.510,Albertville 1992,Alpine Skiing,super-G men
+8,GER,markus wasmeier,00:01:14.580,Albertville 1992,Alpine Skiing,super-G men
+9,SUI,paul accola,00:01:14.600,Albertville 1992,Alpine Skiing,super-G men
+10,SWE,fredrik nyberg,00:01:14.610,Albertville 1992,Alpine Skiing,super-G men
+11,ITA,gianfranco martin,00:01:14.810,Albertville 1992,Alpine Skiing,super-G men
+12,USA,jeff olson,00:01:15.060,Albertville 1992,Alpine Skiing,super-G men
+13,SUI,urs kaelin,00:01:15.220,Albertville 1992,Alpine Skiing,super-G men
+14,AUT,rainer salzgeber,00:01:15.310,Albertville 1992,Alpine Skiing,super-G men
+15,FRA,luc alphand,00:01:15.390,Albertville 1992,Alpine Skiing,super-G men
+16,USA,kyle rasmussen,00:01:15.580,Albertville 1992,Alpine Skiing,super-G men
+17,AUT,patrick ortlieb,00:01:15.660,Albertville 1992,Alpine Skiing,super-G men
+18,ITA,alberto senegagliesi,00:01:15.700,Albertville 1992,Alpine Skiing,super-G men
+19,SLO,gregor grilc,00:01:15.710,Albertville 1992,Alpine Skiing,super-G men
+20,GER,hansjörg tauscher,00:01:15.980,Albertville 1992,Alpine Skiing,super-G men
+21,EUN,konstantin chistyakov,00:01:16.140,Albertville 1992,Alpine Skiing,super-G men
+22,USA,alva kitt,00:01:16.310,Albertville 1992,Alpine Skiing,super-G men
+23,AUT,hubert strolz,00:01:16.360,Albertville 1992,Alpine Skiing,super-G men
+24,FRA,jean-luc cretier,00:01:16.360,Albertville 1992,Alpine Skiing,super-G men
+25,LIE,günther marxer,00:01:16.480,Albertville 1992,Alpine Skiing,super-G men
+26,SLO,mitja kunc,00:01:16.490,Albertville 1992,Alpine Skiing,super-G men
+27,USA,tommy moe,00:01:16.540,Albertville 1992,Alpine Skiing,super-G men
+28,SLO,jure kosir,00:01:16.560,Albertville 1992,Alpine Skiing,super-G men
+29,AUS,steven john lee,00:01:16.580,Albertville 1992,Alpine Skiing,super-G men
+30,GER,bernhard huber,00:01:16.780,Albertville 1992,Alpine Skiing,super-G men
+31,CHI,paulo oppliger,00:01:16.810,Albertville 1992,Alpine Skiing,super-G men
+32,JPN,kiminobu kimura,00:01:17.060,Albertville 1992,Alpine Skiing,super-G men
+33,ESP,ricardo campo-galindo,00:01:17.110,Albertville 1992,Alpine Skiing,super-G men
+34,ESP,jorge pujol-planella,00:01:17.150,Albertville 1992,Alpine Skiing,super-G men
+35,LIE,marco buechel,00:01:17.250,Albertville 1992,Alpine Skiing,super-G men
+36,TCH,marian bires,00:01:17.470,Albertville 1992,Alpine Skiing,super-G men
+37,ESP,vicente tomas-hernandez,00:01:17.540,Albertville 1992,Alpine Skiing,super-G men
+38,TCH,peter jurko,00:01:17.680,Albertville 1992,Alpine Skiing,super-G men
+39,GBR,ronald duncan,00:01:17.760,Albertville 1992,Alpine Skiing,super-G men
+40,JPN,takuya ishioka,00:01:17.810,Albertville 1992,Alpine Skiing,super-G men
+41,NZL,simon wi rutene,00:01:17.860,Albertville 1992,Alpine Skiing,super-G men
+42,ISL,kristinn bjornsson,00:01:17.890,Albertville 1992,Alpine Skiing,super-G men
+43,GBR,gavin forsythe,00:01:17.910,Albertville 1992,Alpine Skiing,super-G men
+44,BUL,petar ditschev,00:01:18.870,Albertville 1992,Alpine Skiing,super-G men
+45,ARG,federico van ditmar,00:01:19.070,Albertville 1992,Alpine Skiing,super-G men
+46,AND,ramon rossell-mas,00:01:19.100,Albertville 1992,Alpine Skiing,super-G men
+47,CAN,william raine,00:01:19.120,Albertville 1992,Alpine Skiing,super-G men
+48,EUN,aleksei maslov,00:01:19.710,Albertville 1992,Alpine Skiing,super-G men
+49,GBR,martin bell,00:01:19.740,Albertville 1992,Alpine Skiing,super-G men
+50,ISL,örnolfur valdimarsson,00:01:20.640,Albertville 1992,Alpine Skiing,super-G men
+51,BUL,borislav dimitratchkov,00:01:20.670,Albertville 1992,Alpine Skiing,super-G men
+52,GBR,graham bell,00:01:20.870,Albertville 1992,Alpine Skiing,super-G men
+53,KOR,seung wook hur,00:01:20.960,Albertville 1992,Alpine Skiing,super-G men
+54,BRA,lothar munder,00:01:21.070,Albertville 1992,Alpine Skiing,super-G men
+55,HUN,attila bonis,00:01:21.100,Albertville 1992,Alpine Skiing,super-G men
+56,HUN,pierre köszali,00:01:21.450,Albertville 1992,Alpine Skiing,super-G men
+57,LBN,elias majdalani,00:01:22.130,Albertville 1992,Alpine Skiing,super-G men
+58,CHI,mauricio rotella,00:01:22.300,Albertville 1992,Alpine Skiing,super-G men
+59,ARG,agustin neiman,00:01:22.470,Albertville 1992,Alpine Skiing,super-G men
+60,ARG,gaston begue,00:01:22.520,Albertville 1992,Alpine Skiing,super-G men
+61,ARG,carlos espiasse,00:01:22.680,Albertville 1992,Alpine Skiing,super-G men
+62,KOR,yong-hee choi,00:01:22.750,Albertville 1992,Alpine Skiing,super-G men
+63,CHI,alexis racloz,00:01:23.260,Albertville 1992,Alpine Skiing,super-G men
+64,HUN,peter kristaly,00:01:23.470,Albertville 1992,Alpine Skiing,super-G men
+65,SMR,nicola ercolani,00:01:23.720,Albertville 1992,Alpine Skiing,super-G men
+66,YUG,enis becirbegovic,00:01:24.150,Albertville 1992,Alpine Skiing,super-G men
+67,ROU,aurel foiciuc,00:01:24.620,Albertville 1992,Alpine Skiing,super-G men
+68,YUG,edin terzic,00:01:24.700,Albertville 1992,Alpine Skiing,super-G men
+69,MEX,hubertus von hohenlohe,00:01:24.790,Albertville 1992,Alpine Skiing,super-G men
+70,GRE,thomas lefousi,00:01:25.010,Albertville 1992,Alpine Skiing,super-G men
+71,YUG,zoran perusina,00:01:25.230,Albertville 1992,Alpine Skiing,super-G men
+72,GRE,ioannis kapraras,00:01:26.470,Albertville 1992,Alpine Skiing,super-G men
+73,ISV,john campbell,00:01:26.830,Albertville 1992,Alpine Skiing,super-G men
+74,BRA,sergio schuler,00:01:27.410,Albertville 1992,Alpine Skiing,super-G men
+75,BRA,marcelo apovian,00:01:27.870,Albertville 1992,Alpine Skiing,super-G men
+76,TUR,taner ustundag,00:01:28.240,Albertville 1992,Alpine Skiing,super-G men
+77,SEN,lamine gueye,00:01:29.180,Albertville 1992,Alpine Skiing,super-G men
+78,SWZ,keith fraser,00:01:29.390,Albertville 1992,Alpine Skiing,super-G men
+79,CYP,socrates aristodimou,00:01:30.130,Albertville 1992,Alpine Skiing,super-G men
+80,CYP,alekhis fotiadis,00:01:30.310,Albertville 1992,Alpine Skiing,super-G men
+81,TUR,yakup kadri birinci,00:01:30.400,Albertville 1992,Alpine Skiing,super-G men
+82,ALG,mourad guerri,00:01:32.760,Albertville 1992,Alpine Skiing,super-G men
+83,CYP,andreas vassili,00:01:32.780,Albertville 1992,Alpine Skiing,super-G men
+84,MEX,inigo domenech,00:01:35.290,Albertville 1992,Alpine Skiing,super-G men
+85,BRA,hans egger,00:01:35.880,Albertville 1992,Alpine Skiing,super-G men
+86,MEX,eduardo ampudia,00:01:36.860,Albertville 1992,Alpine Skiing,super-G men
+87,TUR,cevdet can,00:01:37.970,Albertville 1992,Alpine Skiing,super-G men
+88,MAR,ait brahim si brahim,00:01:38.600,Albertville 1992,Alpine Skiing,super-G men
+89,ALG,kamel guerri,00:01:38.940,Albertville 1992,Alpine Skiing,super-G men
+90,MAR,el hassan mahta,00:01:41.060,Albertville 1992,Alpine Skiing,super-G men
+91,MAR,brahim id abdellah,00:01:49.650,Albertville 1992,Alpine Skiing,super-G men
+92,MAR,brahim izdag,00:02:08.310,Albertville 1992,Alpine Skiing,super-G men
+93,SUI,franz heinzer,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+94,FRA,franck piccard,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+95,ITA,patrick holzer,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+96,FRA,armand schiele,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+97,CAN,robert crossan,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+98,LIE,achim vogt,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+99,LIE,daniel vogt,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+100,JPN,tsuyoshi tomii,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+101,EUN,vitaly andreyev,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+102,CRO,vedran pavlek,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+103,POL,marcin szafranski,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+104,SEN,alphonse gomis,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+105,MEX,carlos mier-y-teran,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+106,ROU,emilian focseneanu,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+107,SMR,jason gasperoni,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+108,HUN,balazs tornay,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+109,TPE,wei-tsu tang,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+110,TUR,ahmet demir,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+111,YUG,igor latinovic,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+112,POL,jakub malczewski,Did not finish,Albertville 1992,Alpine Skiing,super-G men
+113,ESP,xavier ubeira,Disqualified,Albertville 1992,Alpine Skiing,super-G men
+114,AND,gérard escoda,Disqualified,Albertville 1992,Alpine Skiing,super-G men
+115,AND,nahum orobitg-perez,Disqualified,Albertville 1992,Alpine Skiing,super-G men
+116,BUL,lubomir popov,Disqualified,Albertville 1992,Alpine Skiing,super-G men
+117,AND,victor gomez,Disqualified,Albertville 1992,Alpine Skiing,super-G men
+118,GRE,stergios pappos,Did not start,Albertville 1992,Alpine Skiing,super-G men
+0,ITA,deborah compagnoni,00:01:21.220,Albertville 1992,Alpine Skiing,super-G women
+1,FRA,carole merle,00:01:22.630,Albertville 1992,Alpine Skiing,super-G women
+2,GER,katja seizinger,00:01:23.190,Albertville 1992,Alpine Skiing,super-G women
+3,AUT,petra kronberger,00:01:23.200,Albertville 1992,Alpine Skiing,super-G women
+4,AUT,ulrike maier,00:01:23.350,Albertville 1992,Alpine Skiing,super-G women
+5,CAN,kerrin lee-gartner,00:01:23.760,Albertville 1992,Alpine Skiing,super-G women
+6,GER,michaela gerg-leitner,00:01:23.770,Albertville 1992,Alpine Skiing,super-G women
+7,USA,eva twardokens,00:01:24.190,Albertville 1992,Alpine Skiing,super-G women
+8,AUT,anita wachter,00:01:24.200,Albertville 1992,Alpine Skiing,super-G women
+9,SUI,zoe haas,00:01:24.310,Albertville 1992,Alpine Skiing,super-G women
+10,SUI,heidi zeller-baehler,00:01:24.510,Albertville 1992,Alpine Skiing,super-G women
+11,SWE,pernilla wiberg,00:01:24.580,Albertville 1992,Alpine Skiing,super-G women
+12,ITA,bibiana perez,00:01:24.690,Albertville 1992,Alpine Skiing,super-G women
+13,GER,regina mösenlechner,00:01:24.850,Albertville 1992,Alpine Skiing,super-G women
+14,AUT,barbara sadleder,00:01:24.910,Albertville 1992,Alpine Skiing,super-G women
+15,ITA,barbara merlin,00:01:25.130,Albertville 1992,Alpine Skiing,super-G women
+16,USA,hilary lindh,00:01:25.370,Albertville 1992,Alpine Skiing,super-G women
+17,GER,miriam vogt,00:01:25.400,Albertville 1992,Alpine Skiing,super-G women
+18,FRA,florence masnada,00:01:25.420,Albertville 1992,Alpine Skiing,super-G women
+19,CAN,michelle ruthven,00:01:25.430,Albertville 1992,Alpine Skiing,super-G women
+20,NOR,anne berge,00:01:25.650,Albertville 1992,Alpine Skiing,super-G women
+21,FRA,kathy chedal,00:01:25.660,Albertville 1992,Alpine Skiing,super-G women
+22,ITA,morena gallizio,00:01:26.190,Albertville 1992,Alpine Skiing,super-G women
+23,EUN,varvara zelenskaia,00:01:26.390,Albertville 1992,Alpine Skiing,super-G women
+24,EUN,svetlana gladisheva,00:01:26.510,Albertville 1992,Alpine Skiing,super-G women
+25,FRA,régine cavagnoud,00:01:26.690,Albertville 1992,Alpine Skiing,super-G women
+26,TCH,lucia medzihradska,00:01:26.760,Albertville 1992,Alpine Skiing,super-G women
+27,EUN,tatiana lebedeva,00:01:26.920,Albertville 1992,Alpine Skiing,super-G women
+28,ESP,ainhoa ibarra astelarra,00:01:26.960,Albertville 1992,Alpine Skiing,super-G women
+29,LIE,birgit heeb-batliner,00:01:27.220,Albertville 1992,Alpine Skiing,super-G women
+30,JPN,emi kawabata,00:01:27.310,Albertville 1992,Alpine Skiing,super-G women
+31,SLO,natasa bokal,00:01:27.420,Albertville 1992,Alpine Skiing,super-G women
+32,JPN,sachiko yamamoto,00:01:27.540,Albertville 1992,Alpine Skiing,super-G women
+33,TCH,ludmila milanova,00:01:27.610,Albertville 1992,Alpine Skiing,super-G women
+34,ESP,emma bosch,00:01:28.450,Albertville 1992,Alpine Skiing,super-G women
+35,GBR,valerie scott,00:01:29.740,Albertville 1992,Alpine Skiing,super-G women
+36,AND,vicky grau,00:01:30.070,Albertville 1992,Alpine Skiing,super-G women
+37,ROU,mihaela fera,00:01:31.780,Albertville 1992,Alpine Skiing,super-G women
+38,ARG,carolina eiras,00:01:32.330,Albertville 1992,Alpine Skiing,super-G women
+39,ARG,astrid steverlynck,00:01:33.480,Albertville 1992,Alpine Skiing,super-G women
+40,YUG,marina vidovic,00:01:34.350,Albertville 1992,Alpine Skiing,super-G women
+41,GRE,thomai lefoussi,00:01:37.610,Albertville 1992,Alpine Skiing,super-G women
+42,HUN,annamaria bonis,00:01:37.680,Albertville 1992,Alpine Skiing,super-G women
+43,HUN,veronika gönczi,00:01:37.900,Albertville 1992,Alpine Skiing,super-G women
+44,CHN,ya-li liu,00:01:43.500,Albertville 1992,Alpine Skiing,super-G women
+45,BRA,evelyn schuler,00:01:48.740,Albertville 1992,Alpine Skiing,super-G women
+46,CHN,xue-qin li,00:01:48.860,Albertville 1992,Alpine Skiing,super-G women
+47,ALG,nacera boukamoum,00:01:56.070,Albertville 1992,Alpine Skiing,super-G women
+48,USA,diann roffe,Did not finish,Albertville 1992,Alpine Skiing,super-G women
+49,NOR,merete fjeldavlie,Did not finish,Albertville 1992,Alpine Skiing,super-G women
+50,SUI,chantal bournissen,Did not finish,Albertville 1992,Alpine Skiing,super-G women
+51,SUI,heidi zurbriggen,Did not finish,Albertville 1992,Alpine Skiing,super-G women
+52,NOR,astrid lödemel,Did not finish,Albertville 1992,Alpine Skiing,super-G women
+53,SLO,spela pretnar,Did not finish,Albertville 1992,Alpine Skiing,super-G women
+54,SLO,barbara brlec,Did not finish,Albertville 1992,Alpine Skiing,super-G women
+55,GBR,debra pratt,Did not finish,Albertville 1992,Alpine Skiing,super-G women
+56,USA,julie parisien,Disqualified,Albertville 1992,Alpine Skiing,super-G women
+57,SLO,urska hrovat,Disqualified,Albertville 1992,Alpine Skiing,super-G women
+58,MAR,nawal slaoui,Disqualified,Albertville 1992,Alpine Skiing,super-G women
+59,CYP,karolina fotiadou,Did not start,Albertville 1992,Alpine Skiing,super-G women

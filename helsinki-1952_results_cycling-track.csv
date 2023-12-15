@@ -1,0 +1,53 @@
+,country,participant,result,olympic_game,discipline,event
+0,AUS,russell mockridge,00:01:11.100,Helsinki 1952,Cycling Track,1km time trial men
+1,ITA,marino morettini,00:01:12.700,Helsinki 1952,Cycling Track,1km time trial men
+2,RSA,raymond leonard robinson,00:01:13.000,Helsinki 1952,Cycling Track,1km time trial men
+3,ARG,clodoromo cortoni,00:01:13.200,Helsinki 1952,Cycling Track,1km time trial men
+4,GBR,donald arthur mckellow,00:01:13.300,Helsinki 1952,Cycling Track,1km time trial men
+5,DEN,ib vagn hansen,00:01:14.400,Helsinki 1952,Cycling Track,1km time trial men
+6,ROU,ion ionita,00:01:14.400,Helsinki 1952,Cycling Track,1km time trial men
+7,NED,johannes antonius hijzelendoorn,00:01:14.500,Helsinki 1952,Cycling Track,1km time trial men
+8,FRA,henri andrieux,00:01:14.700,Helsinki 1952,Cycling Track,1km time trial men
+9,BEL,joseph anna de bakker,00:01:14.700,Helsinki 1952,Cycling Track,1km time trial men
+10,NZL,clarence malcolm simpson,00:01:15.100,Helsinki 1952,Cycling Track,1km time trial men
+11,URS,lev tsipursky,00:01:15.200,Helsinki 1952,Cycling Track,1km time trial men
+12,TCH,ladislav fousek,00:01:15.200,Helsinki 1952,Cycling Track,1km time trial men
+13,FIN,onni olavi kasslin,00:01:15.300,Helsinki 1952,Cycling Track,1km time trial men
+14,SUI,fredy arber,00:01:15.400,Helsinki 1952,Cycling Track,1km time trial men
+15,VEN,andoni ituarte,00:01:15.400,Helsinki 1952,Cycling Track,1km time trial men
+16,CHI,hernan masanez gimeno,00:01:15.900,Helsinki 1952,Cycling Track,1km time trial men
+17,HUN,istvan lang,00:01:16.900,Helsinki 1952,Cycling Track,1km time trial men
+18,URU,luis angel de los santos,00:01:17.000,Helsinki 1952,Cycling Track,1km time trial men
+19,JAM,kenneth aubrey farnum,00:01:17.200,Helsinki 1952,Cycling Track,1km time trial men
+20,AUT,kurt nemetz,00:01:17.500,Helsinki 1952,Cycling Track,1km time trial men
+21,CAN,frederick charles henry,00:01:17.600,Helsinki 1952,Cycling Track,1km time trial men
+22,USA,frank peter brilando,00:01:17.800,Helsinki 1952,Cycling Track,1km time trial men
+23,GUA,gustavo martinez,00:01:18.900,Helsinki 1952,Cycling Track,1km time trial men
+24,PAK,imtiaz ahmed bhatti,00:01:21.200,Helsinki 1952,Cycling Track,1km time trial men
+25,JPN,tadashi kato,00:01:23.200,Helsinki 1952,Cycling Track,1km time trial men
+26,IND,suprovat chakravarty,00:01:26.000,Helsinki 1952,Cycling Track,1km time trial men
+0,AUS,russell mockridge,,Helsinki 1952,Cycling Track,2000m tandem men
+1,RSA,tommy shardelow,,Helsinki 1952,Cycling Track,2000m tandem men
+2,ITA,cesare pinarello,,Helsinki 1952,Cycling Track,2000m tandem men
+3,FRA,franck le normand,DNF,Helsinki 1952,Cycling Track,2000m tandem men
+4,DEN,jens juul eriksen,,Helsinki 1952,Cycling Track,2000m tandem men
+5,GBR,leslie wilson,,Helsinki 1952,Cycling Track,2000m tandem men
+6,HUN,istván schillerwein,,Helsinki 1952,Cycling Track,2000m tandem men
+7,NZL,colin healeay dickinson,,Helsinki 1952,Cycling Track,2000m tandem men
+8,SUI,fritz siegenthaler,,Helsinki 1952,Cycling Track,2000m tandem men
+9,BEL,gabriel hector glorieux,,Helsinki 1952,Cycling Track,2000m tandem men
+0,ITA,enzo sacchi,12.000,Helsinki 1952,Cycling Track,Sprint individual men
+1,AUS,lionel cox,,Helsinki 1952,Cycling Track,Sprint individual men
+2,GER,werner potzernheim,,Helsinki 1952,Cycling Track,Sprint individual men
+3,GBR,cyril frank peacock,,Helsinki 1952,Cycling Track,Sprint individual men
+4,RSA,raymond leonard robinson,,Helsinki 1952,Cycling Track,Sprint individual men
+5,HUN,béla szekeres,,Helsinki 1952,Cycling Track,Sprint individual men
+6,FRA,franck le normand,Did not finish,Helsinki 1952,Cycling Track,Sprint individual men
+0,,,,Helsinki 1952,Cycling Track,Team Pursuit 4000m men
+1,,,,Helsinki 1952,Cycling Track,Team Pursuit 4000m men
+2,,,00:04:51.500,Helsinki 1952,Cycling Track,Team Pursuit 4000m men
+3,,,00:04:51.900,Helsinki 1952,Cycling Track,Team Pursuit 4000m men
+4,,,,Helsinki 1952,Cycling Track,Team Pursuit 4000m men
+5,,,,Helsinki 1952,Cycling Track,Team Pursuit 4000m men
+6,,,,Helsinki 1952,Cycling Track,Team Pursuit 4000m men
+7,,,,Helsinki 1952,Cycling Track,Team Pursuit 4000m men

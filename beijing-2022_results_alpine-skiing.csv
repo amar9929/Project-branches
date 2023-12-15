@@ -1,0 +1,586 @@
+,country,participant,result,olympic_game,discipline,event
+0,AUT,johannes strolz,2:31.43,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+1,NOR,aleksander aamodt kilde,2:32.02,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+2,CAN,james crawford,2:32.11,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+3,SUI,justin murisier,2:32.29,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+4,AUT,marco schwarz,2:32.71,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+5,ISR,barnabas szollos,2:33.18,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+6,AUT,raphael haaser,2:33.27,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+7,CAN,broderick thompson,2:34.20,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+8,CAN,brodie seger,2:35.03,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+9,ITA,christof innerhofer,2:35.80,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+10,LIE,marco pfiffner,2:36.40,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+11,IRL,jack gower,2:37.74,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+12,MON,arnaud alessandria,2:44.20,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+13,UKR,ivan kovbasnyuk,2:44.43,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+14,KOS,albin tahiri,2:48.29,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+15,CHN,yangming zhang,2:49.72,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+16,CHN,mingfu xu,3:00.40,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+17,CZE,jan zabystran,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+18,FRA,alexis pinturault,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+19,SUI,loic meillard,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+20,SUI,luca aerni,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+21,GER,simon jocher,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+22,CAN,trevor philp,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+23,CHI,henrik von appen,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+24,SLO,miha hrobat,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+25,SLO,nejc naralocnik,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+26,SUI,yannick chabloz,Did not finish,Beijing 2022,Alpine Skiing,Men's Alpine Combined
+0,SUI,beat feuz,1:42.69,Beijing 2022,Alpine Skiing,Men's Downhill
+1,FRA,johan clarey,1:42.79,Beijing 2022,Alpine Skiing,Men's Downhill
+2,AUT,matthias mayer,1:42.85,Beijing 2022,Alpine Skiing,Men's Downhill
+3,CAN,james crawford,1:42.92,Beijing 2022,Alpine Skiing,Men's Downhill
+4,NOR,aleksander aamodt kilde,1:43.20,Beijing 2022,Alpine Skiing,Men's Downhill
+5,ITA,dominik paris,1:43.21,Beijing 2022,Alpine Skiing,Men's Downhill
+6,SUI,marco odermatt,1:43.40,Beijing 2022,Alpine Skiing,Men's Downhill
+7,AUT,vincent kriechmayr,1:43.45,Beijing 2022,Alpine Skiing,Men's Downhill
+8,AUT,max franz,1:43.52,Beijing 2022,Alpine Skiing,Men's Downhill
+9,SLO,bostjan kline,1:43.75,Beijing 2022,Alpine Skiing,Men's Downhill
+10,FRA,maxence muzaton,1:43.82,Beijing 2022,Alpine Skiing,Men's Downhill
+11,NOR,adrian smiseth sejersted,1:43.82,Beijing 2022,Alpine Skiing,Men's Downhill
+12,GER,romed baumann,1:43.84,Beijing 2022,Alpine Skiing,Men's Downhill
+13,USA,ryan cochran-siegle,1:43.91,Beijing 2022,Alpine Skiing,Men's Downhill
+14,ITA,matteo marsaglia,1:44.06,Beijing 2022,Alpine Skiing,Men's Downhill
+15,SUI,niels hintermann,1:44.08,Beijing 2022,Alpine Skiing,Men's Downhill
+16,ESP,adur etxezarreta,1:44.12,Beijing 2022,Alpine Skiing,Men's Downhill
+17,GER,andreas sander,1:44.12,Beijing 2022,Alpine Skiing,Men's Downhill
+18,USA,bryce bennett,1:44.25,Beijing 2022,Alpine Skiing,Men's Downhill
+19,USA,travis ganong,1:44.39,Beijing 2022,Alpine Skiing,Men's Downhill
+20,AUT,daniel hemetsberger,1:44.59,Beijing 2022,Alpine Skiing,Men's Downhill
+21,CAN,brodie seger,1:44.68,Beijing 2022,Alpine Skiing,Men's Downhill
+22,GER,josef ferstl,1:44.69,Beijing 2022,Alpine Skiing,Men's Downhill
+23,SLO,miha hrobat,1:44.71,Beijing 2022,Alpine Skiing,Men's Downhill
+24,SUI,stefan rogentin,1:44.95,Beijing 2022,Alpine Skiing,Men's Downhill
+25,FRA,blaise giezendanner,1:45.00,Beijing 2022,Alpine Skiing,Men's Downhill
+26,FRA,matthieu bailet,1:45.23,Beijing 2022,Alpine Skiing,Men's Downhill
+27,LIE,marco pfiffner,1:45.79,Beijing 2022,Alpine Skiing,Men's Downhill
+28,MON,arnaud alessandria,1:46.25,Beijing 2022,Alpine Skiing,Men's Downhill
+29,ISR,barnabas szollos,1:46.88,Beijing 2022,Alpine Skiing,Men's Downhill
+30,IRL,jack gower,1:47.61,Beijing 2022,Alpine Skiing,Men's Downhill
+31,CHI,henrik von appen,1:47.69,Beijing 2022,Alpine Skiing,Men's Downhill
+32,UKR,ivan kovbasnyuk,1:48.09,Beijing 2022,Alpine Skiing,Men's Downhill
+33,BOL,simon breitfuss kammerlander,1:48.26,Beijing 2022,Alpine Skiing,Men's Downhill
+34,KOS,albin tahiri,1:52.44,Beijing 2022,Alpine Skiing,Men's Downhill
+35,CHN,mingfu xu,1:56.93,Beijing 2022,Alpine Skiing,Men's Downhill
+36,GER,dominik schwaiger,Did not finish,Beijing 2022,Alpine Skiing,Men's Downhill
+37,ITA,christof innerhofer,Did not finish,Beijing 2022,Alpine Skiing,Men's Downhill
+38,CAN,broderick thompson,Did not finish,Beijing 2022,Alpine Skiing,Men's Downhill
+39,SRB,marko vukicevic,Did not finish,Beijing 2022,Alpine Skiing,Men's Downhill
+40,SLO,nejc naralocnik,Did not finish,Beijing 2022,Alpine Skiing,Men's Downhill
+41,CHN,yangming zhang,Did not finish,Beijing 2022,Alpine Skiing,Men's Downhill
+42,NOR,kjetil jansrud,Did not start,Beijing 2022,Alpine Skiing,Men's Downhill
+0,SUI,marco odermatt,2:09.35,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+1,SLO,zan kranjec,2:09.54,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+2,FRA,mathieu faivre,2:10.69,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+3,USA,river radamus,2:10.95,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+4,FRA,thibaut favrot,2:11.04,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+5,FRA,alexis pinturault,2:11.04,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+6,SUI,gino caviezel,2:11.20,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+7,NOR,henrik kristoffersen,2:11.25,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+8,AND,joan verdu,2:11.28,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+9,CRO,filip zubcic,2:12.09,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+10,AUT,raphael haaser,2:12.39,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+11,USA,tommy ford,2:12.41,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+12,CAN,erik read,2:12.44,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+13,AUT,marco schwarz,2:12.47,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+14,SVK,adam zampa,2:13.91,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+15,SVK,andreas zampa,2:14.31,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+16,BUL,albert popov,2:14.94,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+17,NED,maarten meiners,2:15.48,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+18,CZE,krystof kryzl,2:15.56,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+19,GER,julian rauchfuss,2:16.22,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+20,CRO,samuel kolega,2:17.28,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+21,ISR,barnabas szollos,2:17.93,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+22,AUS,louis muhlen-schulte,2:18.48,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+23,CAN,trevor philp,2:19.08,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+24,IRL,jack gower,2:20.56,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+25,LAT,miks edgars zvejnieks,2:22.63,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+26,AUT,stefan brennsteiner,2:24.98,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+27,LUX,matthieu osch,2:26.54,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+28,UZB,komiljon tukhtaev,2:27.49,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+29,KOS,albin tahiri,2:29.85,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+30,COL,michael poettoz,2:30.02,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+31,ROU,alexandru stefan stefanescu ,2:33.21,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+32,CHN,mingfu xu,2:33.22,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+33,HUN,marton kekesi,2:33.54,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+34,MEX,rodolfo roberto dickson sommers,2:34.59,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+35,CHN,yangming zhang,2:35.17,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+36,POR,ricardo brancal,2:37.40,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+37,THA,nicola zanon,2:38.36,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+38,ERI,shannon abeda,2:40.45,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+39,PUR,william c. flaherty,2:41.42,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+40,MNE,eldar salihovic,2:41.54,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+41,CYP,yianno kouyoumdjian,2:42.51,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+42,TUR,berkin usta,2:42.72,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+43,KSA,fayik abdi,2:46.85,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+44,IND,arif mohd khan,2:47.24,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+45,JAM,benjamin alexander,3:18.52,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+46,ITA,luca de aliprandini,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+47,AUT,manuel feller,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+48,NOR,lucas braathen,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+49,SWE,mattias roenngren,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+50,LTU,andrej drukarov,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+51,BIH,emir lokmic,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+52,TLS,yohan goncalves goutt,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+53,SMR,matteo gatti,Disqualified,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+54,GER,alexander schmid,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+55,SUI,justin murisier,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+56,SUI,loic meillard,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+57,NOR,rasmus windingstad,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+58,NOR,atle lie mcgrath,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+59,FRA,cyprien sarrazin,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+60,USA,ryan cochran-siegle,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+61,ROC,aleksander andrienko,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+62,ROC,ivan kuznetsov,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+63,BEL,sam maes,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+64,FIN,samu torsti,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+65,KOR,donghyun jung,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+66,ITA,tommaso sala,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+67,CZE,jan zabystran,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+68,BEL,dries van den broecke,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+69,USA,luke winters,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+70,ITA,alex vinatzer,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+71,POL,michal jasiczek,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+72,EST,tormis laine,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+73,GER,linus strasser,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+74,ARG,tomas birkner de miguel,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+75,POL,pawel pyjas,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+76,GEO,soso japharidze,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+77,ALB,denni xhepa,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+78,HKG,hau tsuen adrian yung,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+79,PHI,asa miller,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+80,GRE,ioannis antoniou,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+81,KAZ,zakhar kuchin,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+82,HAI,richardson viano,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+83,LBN,cesar arnouk,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+84,GHA,carlos maeder,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+85,MAR,yassine aouich,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+86,MAD,mathieu neumuller,Did not finish,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+87,BRA,michel macedo,Did not start,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+88,ARM,harutyun harutyunyan,Did not start,Beijing 2022,Alpine Skiing,Men's Giant Slalom
+0,FRA,clement noel,1:44.09,Beijing 2022,Alpine Skiing,Men's Slalom
+1,AUT,johannes strolz,1:44.70,Beijing 2022,Alpine Skiing,Men's Slalom
+2,NOR,sebastian foss-solevaag,1:44.79,Beijing 2022,Alpine Skiing,Men's Slalom
+3,NOR,henrik kristoffersen,1:44.88,Beijing 2022,Alpine Skiing,Men's Slalom
+4,SUI,loic meillard,1:44.89,Beijing 2022,Alpine Skiing,Men's Slalom
+5,SUI,daniel yule,1:44.95,Beijing 2022,Alpine Skiing,Men's Slalom
+6,GER,linus strasser,1:45.02,Beijing 2022,Alpine Skiing,Men's Slalom
+7,ITA,giuliano razzoli,1:45.05,Beijing 2022,Alpine Skiing,Men's Slalom
+8,BUL,albert popov,1:45.15,Beijing 2022,Alpine Skiing,Men's Slalom
+9,ROC,alexander khoroshilov,1:45.17,Beijing 2022,Alpine Skiing,Men's Slalom
+10,ITA,tommaso sala,1:45.37,Beijing 2022,Alpine Skiing,Men's Slalom
+11,SUI,ramon zenhaeusern,1:45.47,Beijing 2022,Alpine Skiing,Men's Slalom
+12,GBR,dave ryding,1:45.57,Beijing 2022,Alpine Skiing,Men's Slalom
+13,SUI,luca aerni,1:45.83,Beijing 2022,Alpine Skiing,Men's Slalom
+14,CRO,samuel kolega,1:45.96,Beijing 2022,Alpine Skiing,Men's Slalom
+15,FRA,alexis pinturault,1:46.15,Beijing 2022,Alpine Skiing,Men's Slalom
+16,AUT,marco schwarz,1:46.61,Beijing 2022,Alpine Skiing,Men's Slalom
+17,CRO,filip zubcic,1:46.68,Beijing 2022,Alpine Skiing,Men's Slalom
+18,GER,alexander schmid,1:47.03,Beijing 2022,Alpine Skiing,Men's Slalom
+19,CRO,matej vidovic,1:47.36,Beijing 2022,Alpine Skiing,Men's Slalom
+20,KOR,donghyun jung,1:47.69,Beijing 2022,Alpine Skiing,Men's Slalom
+21,BEL,armand marchant,1:47.85,Beijing 2022,Alpine Skiing,Men's Slalom
+22,ISR,barnabas szollos,1:48.71,Beijing 2022,Alpine Skiing,Men's Slalom
+23,CAN,erik read,1:49.10,Beijing 2022,Alpine Skiing,Men's Slalom
+24,SVK,adam zampa,1:51.01,Beijing 2022,Alpine Skiing,Men's Slalom
+25,ROC,aleksander andrienko,1:51.17,Beijing 2022,Alpine Skiing,Men's Slalom
+26,BIH,emir lokmic,1:52.80,Beijing 2022,Alpine Skiing,Men's Slalom
+27,ALB,denni xhepa,1:53.28,Beijing 2022,Alpine Skiing,Men's Slalom
+28,GRE,ioannis antoniou,1:54.29,Beijing 2022,Alpine Skiing,Men's Slalom
+29,DEN,casper dyrbye naested,1:57.27,Beijing 2022,Alpine Skiing,Men's Slalom
+30,NOR,atle lie mcgrath,1:57.35,Beijing 2022,Alpine Skiing,Men's Slalom
+31,GEO,soso japharidze,1:57.89,Beijing 2022,Alpine Skiing,Men's Slalom
+32,HUN,marton kekesi,1:57.97,Beijing 2022,Alpine Skiing,Men's Slalom
+33,HAI,richardson viano,1:59.99,Beijing 2022,Alpine Skiing,Men's Slalom
+34,ROU,alexandru stefan stefanescu ,2:00.42,Beijing 2022,Alpine Skiing,Men's Slalom
+35,KAZ,zakhar kuchin,2:02.66,Beijing 2022,Alpine Skiing,Men's Slalom
+36,KOS,albin tahiri,2:02.94,Beijing 2022,Alpine Skiing,Men's Slalom
+37,LBN,cesar arnouk,2:05.42,Beijing 2022,Alpine Skiing,Men's Slalom
+38,POR,ricardo brancal,2:06.31,Beijing 2022,Alpine Skiing,Men's Slalom
+39,THA,nicola zanon,2:07.95,Beijing 2022,Alpine Skiing,Men's Slalom
+40,MAD,mathieu neumuller,2:10.78,Beijing 2022,Alpine Skiing,Men's Slalom
+41,MNE,eldar salihovic,2:11.82,Beijing 2022,Alpine Skiing,Men's Slalom
+42,SMR,matteo gatti,2:11.93,Beijing 2022,Alpine Skiing,Men's Slalom
+43,PUR,william c. flaherty,2:12.43,Beijing 2022,Alpine Skiing,Men's Slalom
+44,TLS,yohan goncalves goutt,2:24.67,Beijing 2022,Alpine Skiing,Men's Slalom
+45,AUT,michael matt,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+46,ITA,alex vinatzer,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+47,BUL,kamen zlatkov,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+48,BEL,dries van den broecke,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+49,SVK,andreas zampa,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+50,BRA,michel macedo,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+51,POL,michal jasiczek,Disqualified,Beijing 2022,Alpine Skiing,Men's Slalom
+52,AUT,manuel feller,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+53,SWE,kristoffer jakobsen,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+54,NOR,lucas braathen,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+55,USA,luke winters,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+56,JPN,yohei koyama,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+57,ESP,joaquim salarich,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+58,SLO,zan kranjec,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+59,GBR,billy major,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+60,CZE,jan zabystran,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+61,CAN,trevor philp,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+62,CZE,krystof kryzl,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+63,GER,julian rauchfuss,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+64,ROC,ivan kuznetsov,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+65,EST,tormis laine,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+66,BEL,sam maes,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+67,AUS,louis muhlen-schulte,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+68,ISL,sturla snaer snorrason,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+69,LAT,miks edgars zvejnieks,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+70,POL,pawel pyjas,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+71,ARG,tomas birkner de miguel,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+72,LUX,matthieu osch,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+73,COL,michael poettoz,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+74,PHI,asa miller,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+75,UKR,ivan kovbasnyuk,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+76,HKG,hau tsuen adrian yung,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+77,CYP,yianno kouyoumdjian,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+78,TPE,ping-jui ho,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+79,TUR,berkin usta,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+80,MAS,jeffrey webb,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+81,IND,arif mohd khan,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+82,KGZ,maksim gordeev,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+83,CHN,mingfu xu,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+84,CHN,yangming zhang,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+85,PAK,muhammad karim,Did not finish,Beijing 2022,Alpine Skiing,Men's Slalom
+86,UZB,komiljon tukhtaev,Disqualified,Beijing 2022,Alpine Skiing,Men's Slalom
+87,LTU,andrej drukarov,Did not start,Beijing 2022,Alpine Skiing,Men's Slalom
+0,AUT,matthias mayer,1:19.94,Beijing 2022,Alpine Skiing,Men's Super-G
+1,USA,ryan cochran-siegle,1:19.98,Beijing 2022,Alpine Skiing,Men's Super-G
+2,NOR,aleksander aamodt kilde,1:20.36,Beijing 2022,Alpine Skiing,Men's Super-G
+3,NOR,adrian smiseth sejersted,1:20.68,Beijing 2022,Alpine Skiing,Men's Super-G
+4,AUT,vincent kriechmayr,1:20.70,Beijing 2022,Alpine Skiing,Men's Super-G
+5,CAN,james crawford,1:20.79,Beijing 2022,Alpine Skiing,Men's Super-G
+6,GER,romed baumann,1:21.10,Beijing 2022,Alpine Skiing,Men's Super-G
+7,GER,andreas sander,1:21.21,Beijing 2022,Alpine Skiing,Men's Super-G
+8,FRA,blaise giezendanner,1:21.26,Beijing 2022,Alpine Skiing,Men's Super-G
+9,CAN,trevor philp,1:21.34,Beijing 2022,Alpine Skiing,Men's Super-G
+10,FRA,alexis pinturault,1:21.36,Beijing 2022,Alpine Skiing,Men's Super-G
+11,USA,travis ganong,1:21.37,Beijing 2022,Alpine Skiing,Men's Super-G
+12,GER,simon jocher,1:21.52,Beijing 2022,Alpine Skiing,Men's Super-G
+13,SUI,stefan rogentin,1:21.57,Beijing 2022,Alpine Skiing,Men's Super-G
+14,USA,river radamus,1:21.63,Beijing 2022,Alpine Skiing,Men's Super-G
+15,SUI,gino caviezel,1:21.76,Beijing 2022,Alpine Skiing,Men's Super-G
+16,USA,bryce bennett,1:21.80,Beijing 2022,Alpine Skiing,Men's Super-G
+17,ITA,matteo marsaglia,1:22.16,Beijing 2022,Alpine Skiing,Men's Super-G
+18,GER,josef ferstl,1:22.16,Beijing 2022,Alpine Skiing,Men's Super-G
+19,SLO,bostjan kline,1:22.55,Beijing 2022,Alpine Skiing,Men's Super-G
+20,ITA,dominik paris,1:22.62,Beijing 2022,Alpine Skiing,Men's Super-G
+21,AND,joan verdu,1:22.92,Beijing 2022,Alpine Skiing,Men's Super-G
+22,NOR,kjetil jansrud,1:23.00,Beijing 2022,Alpine Skiing,Men's Super-G
+23,SLO,nejc naralocnik,1:23.08,Beijing 2022,Alpine Skiing,Men's Super-G
+24,CZE,jan zabystran,1:23.09,Beijing 2022,Alpine Skiing,Men's Super-G
+25,FRA,nils allegre,1:23.24,Beijing 2022,Alpine Skiing,Men's Super-G
+26,CHI,henrik von appen,1:23.55,Beijing 2022,Alpine Skiing,Men's Super-G
+27,LIE,marco pfiffner,1:23.66,Beijing 2022,Alpine Skiing,Men's Super-G
+28,NOR,rasmus windingstad,1:24.15,Beijing 2022,Alpine Skiing,Men's Super-G
+29,ISR,barnabas szollos,1:24.28,Beijing 2022,Alpine Skiing,Men's Super-G
+30,MON,arnaud alessandria,1:24.68,Beijing 2022,Alpine Skiing,Men's Super-G
+31,UKR,ivan kovbasnyuk,1:25.56,Beijing 2022,Alpine Skiing,Men's Super-G
+32,CHN,yangming zhang,1:29.39,Beijing 2022,Alpine Skiing,Men's Super-G
+33,SRB,marko vukicevic,1:29.45,Beijing 2022,Alpine Skiing,Men's Super-G
+34,FRA,matthieu bailet,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+35,SUI,marco odermatt,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+36,SUI,beat feuz,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+37,ITA,christof innerhofer,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+38,AUT,raphael haaser,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+39,AUT,max franz,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+40,CAN,broderick thompson,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+41,CAN,brodie seger,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+42,SLO,miha hrobat,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+43,IRL,jack gower,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+44,ESP,adur etxezarreta,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+45,BOL,simon breitfuss kammerlander,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+46,CHN,mingfu xu,Did not finish,Beijing 2022,Alpine Skiing,Men's Super-G
+0,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+1,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+2,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+3,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+4,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+5,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+6,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+7,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+8,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+9,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+10,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+11,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+12,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+13,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+14,,,,Beijing 2022,Alpine Skiing,Mixed Team Parallel
+0,SUI,michelle gisin,2:25.67,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+1,SUI,wendy holdener,2:26.72,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+2,ITA,federica brignone,2:27.52,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+3,CZE,ester ledecka,2:28.32,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+4,AUT,katharina huber,2:28.80,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+5,AUT,christine scheyer,2:29.25,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+6,AUT,ramona siebenhofer,2:29.69,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+7,FRA,laura gauche,2:30.04,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+8,SLO,marusa ferk,2:30.12,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+9,ROC,julia pleshkova,2:30.70,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+10,USA,patricia mangan,2:32.94,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+11,AND,cande moreno becerra,2:34.34,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+12,AUS,greta small,2:34.55,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+13,CZE,tereza nova,2:35.46,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+14,CHN,fanying kong,2:47.68,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+15,USA,isabella wright,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+16,ITA,nicol delago,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+17,USA,keely cashman,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+18,USA,mikaela shiffrin,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+19,FRA,romane miradoli,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+20,ITA,marta bassino,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+21,SUI,priska nufer,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+22,BIH,elvedina muzaferija,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+23,SRB,nevena ignjatovic,Disqualified,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+24,ITA,elena curtoni,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+25,CAN,roni remme,Did not finish,Beijing 2022,Alpine Skiing,Women's Alpine Combined
+0,SUI,corinne suter,1:31.87,Beijing 2022,Alpine Skiing,Women's Downhill
+1,ITA,sofia goggia,1:32.03,Beijing 2022,Alpine Skiing,Women's Downhill
+2,ITA,nadia delago,1:32.44,Beijing 2022,Alpine Skiing,Women's Downhill
+3,GER,kira weidle,1:32.58,Beijing 2022,Alpine Skiing,Women's Downhill
+4,ITA,elena curtoni,1:32.87,Beijing 2022,Alpine Skiing,Women's Downhill
+5,SUI,joana haehlen,1:33.16,Beijing 2022,Alpine Skiing,Women's Downhill
+6,AUT,cornelia huetter,1:33.35,Beijing 2022,Alpine Skiing,Women's Downhill
+7,AUT,mirjam puchner,1:33.45,Beijing 2022,Alpine Skiing,Women's Downhill
+8,CAN,marie-michele gagnon,1:33.45,Beijing 2022,Alpine Skiing,Women's Downhill
+9,FRA,laura gauche,1:33.47,Beijing 2022,Alpine Skiing,Women's Downhill
+10,ITA,nicol delago,1:33.69,Beijing 2022,Alpine Skiing,Women's Downhill
+11,AUT,ramona siebenhofer,1:33.81,Beijing 2022,Alpine Skiing,Women's Downhill
+12,FRA,romane miradoli,1:33.93,Beijing 2022,Alpine Skiing,Women's Downhill
+13,NOR,ragnhild mowinckel,1:33.97,Beijing 2022,Alpine Skiing,Women's Downhill
+14,SUI,jasmine flury,1:34.00,Beijing 2022,Alpine Skiing,Women's Downhill
+15,SUI,lara gut - behrami,1:34.03,Beijing 2022,Alpine Skiing,Women's Downhill
+16,USA,keely cashman,1:34.13,Beijing 2022,Alpine Skiing,Women's Downhill
+17,USA,mikaela shiffrin,1:34.36,Beijing 2022,Alpine Skiing,Women's Downhill
+18,AUT,tamara tippler,1:34.39,Beijing 2022,Alpine Skiing,Women's Downhill
+19,ROC,julia pleshkova,1:34.48,Beijing 2022,Alpine Skiing,Women's Downhill
+20,USA,jacqueline wiles,1:34.60,Beijing 2022,Alpine Skiing,Women's Downhill
+21,SLO,ilka stuhec,1:34.88,Beijing 2022,Alpine Skiing,Women's Downhill
+22,SLO,marusa ferk,1:34.99,Beijing 2022,Alpine Skiing,Women's Downhill
+23,CAN,roni remme,1:35.36,Beijing 2022,Alpine Skiing,Women's Downhill
+24,NZL,alice robinson,1:35.57,Beijing 2022,Alpine Skiing,Women's Downhill
+25,AUS,greta small,1:36.53,Beijing 2022,Alpine Skiing,Women's Downhill
+26,CZE,ester ledecka,1:38.18,Beijing 2022,Alpine Skiing,Women's Downhill
+27,CZE,tereza nova,1:39.38,Beijing 2022,Alpine Skiing,Women's Downhill
+28,CZE,barbora novakova,1:39.50,Beijing 2022,Alpine Skiing,Women's Downhill
+29,SRB,nevena ignjatovic,1:40.73,Beijing 2022,Alpine Skiing,Women's Downhill
+30,CHN,fanying kong,1:44.53,Beijing 2022,Alpine Skiing,Women's Downhill
+31,USA,alix wilkinson,Did not finish,Beijing 2022,Alpine Skiing,Women's Downhill
+32,FRA,tiffany gauthier,Did not finish,Beijing 2022,Alpine Skiing,Women's Downhill
+33,BIH,elvedina muzaferija,Did not finish,Beijing 2022,Alpine Skiing,Women's Downhill
+34,FRA,camille cerutti,Did not finish,Beijing 2022,Alpine Skiing,Women's Downhill
+35,AND,cande moreno becerra,Did not finish,Beijing 2022,Alpine Skiing,Women's Downhill
+0,SWE,sara hector,1:55.69,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+1,ITA,federica brignone,1:55.97,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+2,SUI,lara gut - behrami,1:56.41,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+3,AUT,katharina truppe,1:56.49,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+4,NOR,ragnhild mowinckel,1:56.65,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+5,NOR,thea louise stjernesund,1:56.89,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+6,SLO,meta hrovat,1:57.04,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+7,POL,maryna gasienica-daniel,1:57.11,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+8,SUI,wendy holdener,1:57.32,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+9,SUI,michelle gisin,1:57.55,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+10,SLO,ana bucik,1:57.89,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+11,USA,paula moltzan,1:58.07,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+12,NOR,maria therese tviberg,1:58.07,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+13,SVK,petra vlhova,1:58.15,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+14,AUT,katharina liensberger,1:58.24,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+15,SUI,camille rast,1:58.43,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+16,FRA,coralie frasse sombet,1:58.60,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+17,SLO,tina robnik,1:58.90,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+18,FRA,clara direz,1:59.33,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+19,ITA,elena curtoni,1:59.91,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+20,GER,emma aicher,2:00.52,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+21,GBR,alex tilley,2:00.82,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+22,NZL,alice robinson,2:00.82,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+23,JPN,asa ando,2:00.99,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+24,ROC,ekaterina tkachenko,2:02.41,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+25,POL,magdalena luczak,2:02.85,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+26,ROC,julia pleshkova,2:03.32,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+27,CRO,zrinka ljutic,2:03.77,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+28,ARG,francesca baruzzi farriol,2:04.00,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+29,POL,zuzanna czapska,2:05.15,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+30,JPN,sakurako mukogawa,2:06.77,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+31,ROC,polina melnikova,2:07.20,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+32,KOR,sohui gim,2:07.22,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+33,GEO,nino tsiklauri,2:09.87,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+34,EST,kaitlyn vesterstein,2:10.44,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+35,BUL,eva vukadinova,2:11.46,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+36,MEX,sarah schleper,2:11.95,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+37,MAS,aruwin salehhuddin,2:12.28,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+38,UKR,anastasiya shepilenko,2:12.33,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+39,CHN,fanying kong,2:15.42,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+40,MAD,mialitiana clerc,2:16.02,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+41,CHI,emilia aramburo,2:16.32,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+42,POR,vanina guerillot,2:16.92,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+43,CHN,yueming ni,2:17.06,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+44,ROU,maria ioana constantin,2:18.50,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+45,PER,ornella oettl reyes,2:24.05,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+46,SMR,anna torsani,2:29.26,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+47,TUR,ozlem carikcioglu,2:30.73,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+48,KOS,kiana kryeziu,2:42.19,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+49,FRA,tessa worley,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+50,AUT,ramona siebenhofer,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+51,SLO,andreja slokar,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+52,SWE,hilma loevblom,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+53,SWE,hanna aronsson elfman,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+54,ESP,nuria pau,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+55,ISR,noa szollos,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+56,SVK,rebeka jancova,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+57,LBN,manon ouaiss,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+58,ECU,sarah escobar,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+59,USA,nina o brien,Disqualified,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+60,ITA,marta bassino,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+61,USA,mikaela shiffrin,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+62,NOR,mina fuerst holtmann,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+63,CAN,valerie grenier,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+64,AUT,stephanie brunner,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+65,USA,a j hurt,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+66,NED,adriana jelinkova,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+67,FIN,riikka honkanen,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+68,FIN,erika pykalainen,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+69,CAN,cassidy gray,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+70,KOR,youngseo kang,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+71,CZE,elese sommerova,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+72,HUN,zita toth,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+73,ISL,holmfridur dora fridgeirsdottir,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+74,LUX,gwyneth ten raa,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+75,IRL,tess arbez,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+76,GRE,maria-eleni tsiovolou,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+77,THA,mida fah jaiman,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+78,MNE,jelena vujicic,Did not finish,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+79,BIH,esma alic,Disqualified,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+80,CRO,andrea komsic,Did not start,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+81,POL,hanna zieba,Did not start,Beijing 2022,Alpine Skiing,Women's Giant Slalom
+0,SVK,petra vlhova,1:44.98,Beijing 2022,Alpine Skiing,Women's Slalom
+1,AUT,katharina liensberger,1:45.06,Beijing 2022,Alpine Skiing,Women's Slalom
+2,SUI,wendy holdener,1:45.10,Beijing 2022,Alpine Skiing,Women's Slalom
+3,GER,lena duerr,1:45.17,Beijing 2022,Alpine Skiing,Women's Slalom
+4,SLO,andreja slokar,1:45.20,Beijing 2022,Alpine Skiing,Women's Slalom
+5,SUI,michelle gisin,1:45.58,Beijing 2022,Alpine Skiing,Women's Slalom
+6,SUI,camille rast,1:45.75,Beijing 2022,Alpine Skiing,Women's Slalom
+7,USA,paula moltzan,1:46.18,Beijing 2022,Alpine Skiing,Women's Slalom
+8,SWE,anna swenn larsson,1:46.31,Beijing 2022,Alpine Skiing,Women's Slalom
+9,SUI,aline danioth,1:46.64,Beijing 2022,Alpine Skiing,Women's Slalom
+10,SLO,ana bucik,1:46.67,Beijing 2022,Alpine Skiing,Women's Slalom
+11,AUT,katharina huber,1:46.92,Beijing 2022,Alpine Skiing,Women's Slalom
+12,CZE,martina dubovska,1:47.03,Beijing 2022,Alpine Skiing,Women's Slalom
+13,AUT,katharina gallhuber,1:47.33,Beijing 2022,Alpine Skiing,Women's Slalom
+14,NOR,thea louise stjernesund,1:47.48,Beijing 2022,Alpine Skiing,Women's Slalom
+15,CAN,erin mielzynski,1:47.52,Beijing 2022,Alpine Skiing,Women's Slalom
+16,CAN,laurence st-germain,1:47.57,Beijing 2022,Alpine Skiing,Women's Slalom
+17,GER,emma aicher,1:47.59,Beijing 2022,Alpine Skiing,Women's Slalom
+18,FRA,nastasia noens,1:47.86,Beijing 2022,Alpine Skiing,Women's Slalom
+19,BLR,maria shkanova,1:47.89,Beijing 2022,Alpine Skiing,Women's Slalom
+20,GBR,charlie guest,1:47.96,Beijing 2022,Alpine Skiing,Women's Slalom
+21,CAN,ali nullmeyer,1:47.96,Beijing 2022,Alpine Skiing,Women's Slalom
+22,CRO,leona popovic,1:48.42,Beijing 2022,Alpine Skiing,Women's Slalom
+23,SWE,charlotta saefvenberg,1:48.70,Beijing 2022,Alpine Skiing,Women's Slalom
+24,CRO,zrinka ljutic,1:48.91,Beijing 2022,Alpine Skiing,Women's Slalom
+25,USA,katie hensien,1:49.31,Beijing 2022,Alpine Skiing,Women's Slalom
+26,CAN,amelia smart,1:49.32,Beijing 2022,Alpine Skiing,Women's Slalom
+27,SWE,elsa fermbaeck,1:49.33,Beijing 2022,Alpine Skiing,Women's Slalom
+28,ITA,anita gulli,1:49.78,Beijing 2022,Alpine Skiing,Women's Slalom
+29,ITA,lara della mea,1:50.53,Beijing 2022,Alpine Skiing,Women's Slalom
+30,ROC,ekaterina tkachenko,1:50.68,Beijing 2022,Alpine Skiing,Women's Slalom
+31,CZE,gabriela capova,1:51.24,Beijing 2022,Alpine Skiing,Women's Slalom
+32,ROC,anastasia gornostaeva,1:51.50,Beijing 2022,Alpine Skiing,Women's Slalom
+33,USA,a j hurt,1:52.19,Beijing 2022,Alpine Skiing,Women's Slalom
+34,JPN,sakurako mukogawa,1:52.73,Beijing 2022,Alpine Skiing,Women's Slalom
+35,ROC,polina melnikova,1:52.74,Beijing 2022,Alpine Skiing,Women's Slalom
+36,FIN,riikka honkanen,1:52.97,Beijing 2022,Alpine Skiing,Women's Slalom
+37,ISL,holmfridur dora fridgeirsdottir,1:53.87,Beijing 2022,Alpine Skiing,Women's Slalom
+38,KOR,sohui gim,1:54.11,Beijing 2022,Alpine Skiing,Women's Slalom
+39,HUN,zita toth,1:55.86,Beijing 2022,Alpine Skiing,Women's Slalom
+40,ISR,noa szollos,1:57.34,Beijing 2022,Alpine Skiing,Women's Slalom
+41,GEO,nino tsiklauri,2:00.48,Beijing 2022,Alpine Skiing,Women's Slalom
+42,MAD,mialitiana clerc,2:02.88,Beijing 2022,Alpine Skiing,Women's Slalom
+43,PER,ornella oettl reyes,2:04.59,Beijing 2022,Alpine Skiing,Women's Slalom
+44,BIH,esma alic,2:04.65,Beijing 2022,Alpine Skiing,Women's Slalom
+45,LBN,manon ouaiss,2:05.65,Beijing 2022,Alpine Skiing,Women's Slalom
+46,CHN,fanying kong,2:11.95,Beijing 2022,Alpine Skiing,Women's Slalom
+47,IRL,tess arbez,2:14.61,Beijing 2022,Alpine Skiing,Women's Slalom
+48,TUR,ozlem carikcioglu,2:18.92,Beijing 2022,Alpine Skiing,Women's Slalom
+49,TPE,wen-yi lee,2:46.04,Beijing 2022,Alpine Skiing,Women's Slalom
+50,SWE,sara hector,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+51,NOR,mina fuerst holtmann,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+52,ITA,federica brignone,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+53,CZE,elese sommerova,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+54,POR,vanina guerillot,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+55,BUL,eva vukadinova,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+56,LAT,liene bondare,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+57,IRI,atefeh ahmadi,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+58,USA,mikaela shiffrin,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+59,AUT,katharina truppe,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+60,NOR,maria therese tviberg,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+61,SLO,neja dvornik,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+62,SLO,meta hrovat,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+63,JPN,asa ando,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+64,FIN,rosa pohjolainen,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+65,GBR,alex tilley,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+66,CRO,andrea komsic,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+67,EST,kaitlyn vesterstein,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+68,POL,magdalena luczak,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+69,AUS,kathryn parker,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+70,KOR,youngseo kang,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+71,FIN,erika pykalainen,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+72,ARG,francesca baruzzi farriol,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+73,POL,zuzanna czapska,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+74,SVK,rebeka jancova,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+75,LUX,gwyneth ten raa,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+76,GRE,maria-eleni tsiovolou,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+77,THA,mida fah jaiman,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+78,MAS,aruwin salehhuddin,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+79,CHI,emilia aramburo,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+80,UKR,anastasiya shepilenko,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+81,CHN,yueming ni,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+82,MNE,jelena vujicic,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+83,ROU,maria ioana constantin,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+84,LTU,gabija sinkunaite,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+85,KAZ,alexandra troitskaya,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+86,HKG,audrey alice king,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+87,SMR,anna torsani,Did not finish,Beijing 2022,Alpine Skiing,Women's Slalom
+0,SUI,lara gut - behrami,1:13.51,Beijing 2022,Alpine Skiing,Women's Super-G
+1,AUT,mirjam puchner,1:13.73,Beijing 2022,Alpine Skiing,Women's Super-G
+2,SUI,michelle gisin,1:13.81,Beijing 2022,Alpine Skiing,Women's Super-G
+3,AUT,tamara tippler,1:13.84,Beijing 2022,Alpine Skiing,Women's Super-G
+4,CZE,ester ledecka,1:13.94,Beijing 2022,Alpine Skiing,Women's Super-G
+5,NOR,ragnhild mowinckel,1:14.09,Beijing 2022,Alpine Skiing,Women's Super-G
+6,ITA,federica brignone,1:14.17,Beijing 2022,Alpine Skiing,Women's Super-G
+7,AUT,cornelia huetter,1:14.19,Beijing 2022,Alpine Skiing,Women's Super-G
+8,USA,mikaela shiffrin,1:14.30,Beijing 2022,Alpine Skiing,Women's Super-G
+9,ITA,elena curtoni,1:14.34,Beijing 2022,Alpine Skiing,Women's Super-G
+10,FRA,romane miradoli,1:14.41,Beijing 2022,Alpine Skiing,Women's Super-G
+11,SUI,jasmine flury,1:14.43,Beijing 2022,Alpine Skiing,Women's Super-G
+12,SUI,corinne suter,1:14.49,Beijing 2022,Alpine Skiing,Women's Super-G
+13,CAN,marie-michele gagnon,1:14.65,Beijing 2022,Alpine Skiing,Women's Super-G
+14,GER,kira weidle,1:14.66,Beijing 2022,Alpine Skiing,Women's Super-G
+15,FRA,laura gauche,1:14.87,Beijing 2022,Alpine Skiing,Women's Super-G
+16,ITA,marta bassino,1:15.08,Beijing 2022,Alpine Skiing,Women's Super-G
+17,ROC,julia pleshkova,1:15.26,Beijing 2022,Alpine Skiing,Women's Super-G
+18,FRA,tessa worley,1:15.30,Beijing 2022,Alpine Skiing,Women's Super-G
+19,AUT,ariane raedler,1:15.33,Beijing 2022,Alpine Skiing,Women's Super-G
+20,USA,isabella wright,1:15.37,Beijing 2022,Alpine Skiing,Women's Super-G
+21,ITA,francesca marsaglia,1:15.61,Beijing 2022,Alpine Skiing,Women's Super-G
+22,SLO,marusa ferk,1:15.72,Beijing 2022,Alpine Skiing,Women's Super-G
+23,CAN,roni remme,1:15.78,Beijing 2022,Alpine Skiing,Women's Super-G
+24,BIH,elvedina muzaferija,1:15.79,Beijing 2022,Alpine Skiing,Women's Super-G
+25,POL,maryna gasienica-daniel,1:15.81,Beijing 2022,Alpine Skiing,Women's Super-G
+26,USA,keely cashman,1:15.99,Beijing 2022,Alpine Skiing,Women's Super-G
+27,FRA,tiffany gauthier,1:16.20,Beijing 2022,Alpine Skiing,Women's Super-G
+28,ARG,francesca baruzzi farriol,1:16.65,Beijing 2022,Alpine Skiing,Women's Super-G
+29,AND,cande moreno becerra,1:16.72,Beijing 2022,Alpine Skiing,Women's Super-G
+30,AUS,greta small,1:16.97,Beijing 2022,Alpine Skiing,Women's Super-G
+31,ISL,holmfridur dora fridgeirsdottir,1:17.41,Beijing 2022,Alpine Skiing,Women's Super-G
+32,CZE,tereza nova,1:17.88,Beijing 2022,Alpine Skiing,Women's Super-G
+33,ISR,noa szollos,1:17.94,Beijing 2022,Alpine Skiing,Women's Super-G
+34,MEX,sarah schleper,1:18.17,Beijing 2022,Alpine Skiing,Women's Super-G
+35,CZE,barbora novakova,1:18.26,Beijing 2022,Alpine Skiing,Women's Super-G
+36,UKR,anastasiya shepilenko,1:19.60,Beijing 2022,Alpine Skiing,Women's Super-G
+37,SVK,petra hromcova,1:20.11,Beijing 2022,Alpine Skiing,Women's Super-G
+38,SVK,rebeka jancova,1:20.18,Beijing 2022,Alpine Skiing,Women's Super-G
+39,CHN,yueming ni,1:22.59,Beijing 2022,Alpine Skiing,Women's Super-G
+40,CHN,fanying kong,1:23.51,Beijing 2022,Alpine Skiing,Women's Super-G
+41,IRL,tess arbez,1:25.18,Beijing 2022,Alpine Skiing,Women's Super-G
+42,NZL,alice robinson,Did not finish,Beijing 2022,Alpine Skiing,Women's Super-G
+43,USA,alix wilkinson,Did not finish,Beijing 2022,Alpine Skiing,Women's Super-G

@@ -1,0 +1,569 @@
+,country,participant,result,olympic_game,discipline,event
+0,NOR,kjetil andre aamodt,00:03:17.560,Salt Lake City 2002,Alpine Skiing,alpine combined men
+1,USA,bode miller,00:03:17.840,Salt Lake City 2002,Alpine Skiing,alpine combined men
+2,AUT,benjamin raich,00:03:18.260,Salt Lake City 2002,Alpine Skiing,alpine combined men
+3,AUT,rainer schoenfelder,00:03:18.670,Salt Lake City 2002,Alpine Skiing,alpine combined men
+4,NOR,lasse kjus,00:03:19.800,Salt Lake City 2002,Alpine Skiing,alpine combined men
+5,SUI,paul accola,00:03:22.260,Salt Lake City 2002,Alpine Skiing,alpine combined men
+6,ITA,patrick staudacher,00:03:22.470,Salt Lake City 2002,Alpine Skiing,alpine combined men
+7,CAN,jean-philippe roy,00:03:22.680,Salt Lake City 2002,Alpine Skiing,alpine combined men
+8,SLO,jernej koblar,00:03:23.470,Salt Lake City 2002,Alpine Skiing,alpine combined men
+9,CZE,stanley hayer,00:03:24.440,Salt Lake City 2002,Alpine Skiing,alpine combined men
+10,AUT,kilian albrecht,00:03:24.950,Salt Lake City 2002,Alpine Skiing,alpine combined men
+11,CZE,borek zakouril,00:03:25.200,Salt Lake City 2002,Alpine Skiing,alpine combined men
+12,ITA,alessandro fattori,00:03:25.570,Salt Lake City 2002,Alpine Skiing,alpine combined men
+13,RUS,andrey filichkin,00:03:28.140,Salt Lake City 2002,Alpine Skiing,alpine combined men
+14,GBR,ross green,00:03:29.110,Salt Lake City 2002,Alpine Skiing,alpine combined men
+15,BUL,stefan georgiev,00:03:29.390,Salt Lake City 2002,Alpine Skiing,alpine combined men
+16,CAN,darin mc beath,00:03:29.570,Salt Lake City 2002,Alpine Skiing,alpine combined men
+17,RUS,pavel chestakov,00:03:30.180,Salt Lake City 2002,Alpine Skiing,alpine combined men
+18,USA,jakub fiala,00:03:30.430,Salt Lake City 2002,Alpine Skiing,alpine combined men
+19,CZE,jan holicky,00:03:31.150,Salt Lake City 2002,Alpine Skiing,alpine combined men
+20,FRA,antoine deneriaz,00:03:31.970,Salt Lake City 2002,Alpine Skiing,alpine combined men
+21,RUS,sergeij komarov,00:03:32.030,Salt Lake City 2002,Alpine Skiing,alpine combined men
+22,ARG,nicolas arsel,00:03:36.580,Salt Lake City 2002,Alpine Skiing,alpine combined men
+23,SVK,ivan heimschild,00:03:36.780,Salt Lake City 2002,Alpine Skiing,alpine combined men
+24,UKR,nikolay skriabin,00:03:41.060,Salt Lake City 2002,Alpine Skiing,alpine combined men
+25,CZE,ondrej bank,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+26,AUT,michael walchhofer,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+27,SUI,didier defago,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+28,SUI,bruno kernen,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+29,SLO,gregor sparovec,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+30,FRA,gaetan llorach,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+31,CAN,ed podivinsky,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+32,USA,casey puckett,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+33,NOR,truls ove karlsen,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+34,SLO,andrej jerman,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+35,RSA,alexander heath,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+36,BIH,tahir bisic,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+37,AUS,aj bear,Disqualified,Salt Lake City 2002,Alpine Skiing,alpine combined men
+38,ITA,kurt sulzenbacher,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+39,RUS,maxim kedrin,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+40,ARG,agustin garcia jurjo,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined men
+41,IRL,paul patrick schwarzacher-joyce,Disqualified,Salt Lake City 2002,Alpine Skiing,alpine combined men
+42,SLO,mitja dragsic,Disqualified,Salt Lake City 2002,Alpine Skiing,alpine combined men
+43,ARG,cristian javier simari birkner,Disqualified,Salt Lake City 2002,Alpine Skiing,alpine combined men
+44,AUS,craig branch,Disqualified,Salt Lake City 2002,Alpine Skiing,alpine combined men
+45,SVK,michal rajcan,Disqualified,Salt Lake City 2002,Alpine Skiing,alpine combined men
+46,BUL,angel pumpalov,Disqualified,Salt Lake City 2002,Alpine Skiing,alpine combined men
+0,CRO,janica kostelic,00:02:43.280,Salt Lake City 2002,Alpine Skiing,alpine combined women
+1,AUT,renate goetschl,00:02:44.770,Salt Lake City 2002,Alpine Skiing,alpine combined women
+2,GER,martina ertl-renz,00:02:45.160,Salt Lake City 2002,Alpine Skiing,alpine combined women
+3,SUI,marlies oester,00:02:46.610,Salt Lake City 2002,Alpine Skiing,alpine combined women
+4,AUT,michaela dorfmeister,00:02:46.850,Salt Lake City 2002,Alpine Skiing,alpine combined women
+5,USA,lindsey vonn,00:02:48.050,Salt Lake City 2002,Alpine Skiing,alpine combined women
+6,CAN,genevieve simard,00:02:48.140,Salt Lake City 2002,Alpine Skiing,alpine combined women
+7,SUI,catherine borghi,00:02:48.790,Salt Lake City 2002,Alpine Skiing,alpine combined women
+8,AUS,jenny owens,00:02:49.310,Salt Lake City 2002,Alpine Skiing,alpine combined women
+9,CAN,sara-maude boucher,00:02:49.370,Salt Lake City 2002,Alpine Skiing,alpine combined women
+10,AUT,selina heregger,00:02:49.690,Salt Lake City 2002,Alpine Skiing,alpine combined women
+11,AUS,alice jones,00:02:50.220,Salt Lake City 2002,Alpine Skiing,alpine combined women
+12,USA,julia mancuso,00:02:51.330,Salt Lake City 2002,Alpine Skiing,alpine combined women
+13,GBR,chemmy alcott,00:02:51.340,Salt Lake City 2002,Alpine Skiing,alpine combined women
+14,ITA,daniela ceccarelli,00:02:51.810,Salt Lake City 2002,Alpine Skiing,alpine combined women
+15,CZE,petra zakourilova,00:02:51.830,Salt Lake City 2002,Alpine Skiing,alpine combined women
+16,ARG,macarena simari birkner,00:02:52.900,Salt Lake City 2002,Alpine Skiing,alpine combined women
+17,ITA,lucia recchia,00:02:53.100,Salt Lake City 2002,Alpine Skiing,alpine combined women
+18,ITA,elena tagliabue,00:02:53.960,Salt Lake City 2002,Alpine Skiing,alpine combined women
+19,ARG,maria belen simari birkner,00:02:55.920,Salt Lake City 2002,Alpine Skiing,alpine combined women
+20,ITA,patrizia bassis,00:02:58.080,Salt Lake City 2002,Alpine Skiing,alpine combined women
+21,ROU,alexandra munteanu,00:02:58.530,Salt Lake City 2002,Alpine Skiing,alpine combined women
+22,CZE,gabriela martinovova,00:02:58.660,Salt Lake City 2002,Alpine Skiing,alpine combined women
+23,AUS,rowena bright,00:03:10.680,Salt Lake City 2002,Alpine Skiing,alpine combined women
+24,SWE,janette hargin,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined women
+25,GER,petra haltmayr,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined women
+26,GER,hilde gerg,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined women
+27,ISL,dagny l. kristjansdottir,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined women
+28,USA,caroline lalive,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined women
+29,AUT,christine sponring,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined women
+30,CZE,lucie hrstkova,Did not finish,Salt Lake City 2002,Alpine Skiing,alpine combined women
+0,AUT,fritz strobl,00:01:39.130,Salt Lake City 2002,Alpine Skiing,downhill men
+1,NOR,lasse kjus,00:01:39.350,Salt Lake City 2002,Alpine Skiing,downhill men
+2,AUT,stephan eberharter,00:01:39.410,Salt Lake City 2002,Alpine Skiing,downhill men
+3,NOR,kjetil andre aamodt,00:01:39.780,Salt Lake City 2002,Alpine Skiing,downhill men
+4,FRA,claude cretier,00:01:39.960,Salt Lake City 2002,Alpine Skiing,downhill men
+5,AUT,christian greber,00:01:40.000,Salt Lake City 2002,Alpine Skiing,downhill men
+6,SWE,fredrik nyberg,00:01:40.300,Salt Lake City 2002,Alpine Skiing,downhill men
+7,SUI,ambrosi hoffmann,00:01:40.310,Salt Lake City 2002,Alpine Skiing,downhill men
+8,USA,marco sullivan,00:01:40.370,Salt Lake City 2002,Alpine Skiing,downhill men
+9,FRA,sebastien fournier,00:01:40.390,Salt Lake City 2002,Alpine Skiing,downhill men
+10,FRA,pierre-emmanuel dalcin,00:01:40.580,Salt Lake City 2002,Alpine Skiing,downhill men
+11,NOR,bjarne solbakken,00:01:40.740,Salt Lake City 2002,Alpine Skiing,downhill men
+12,FRA,antoine deneriaz,00:01:40.740,Salt Lake City 2002,Alpine Skiing,downhill men
+13,SUI,didier cuche,00:01:40.760,Salt Lake City 2002,Alpine Skiing,downhill men
+14,SUI,franco cavegn,00:01:40.810,Salt Lake City 2002,Alpine Skiing,downhill men
+15,USA,daron rahlves,00:01:40.840,Salt Lake City 2002,Alpine Skiing,downhill men
+16,ITA,roland fischnaller,00:01:40.850,Salt Lake City 2002,Alpine Skiing,downhill men
+17,SWE,patrik jaerbyn,00:01:41.050,Salt Lake City 2002,Alpine Skiing,downhill men
+18,ITA,alessandro fattori,00:01:41.240,Salt Lake City 2002,Alpine Skiing,downhill men
+19,AUT,christoph gruber,00:01:41.250,Salt Lake City 2002,Alpine Skiing,downhill men
+20,SUI,didier defago,00:01:41.270,Salt Lake City 2002,Alpine Skiing,downhill men
+21,ITA,kurt sulzenbacher,00:01:41.560,Salt Lake City 2002,Alpine Skiing,downhill men
+22,SLO,peter pen,00:01:41.660,Salt Lake City 2002,Alpine Skiing,downhill men
+23,CAN,ed podivinsky,00:01:41.690,Salt Lake City 2002,Alpine Skiing,downhill men
+24,NOR,kenneth sivertsen,00:01:41.700,Salt Lake City 2002,Alpine Skiing,downhill men
+25,LIE,juergen hasler,00:01:41.760,Salt Lake City 2002,Alpine Skiing,downhill men
+26,USA,jakub fiala,00:01:41.840,Salt Lake City 2002,Alpine Skiing,downhill men
+27,SLO,andrej jerman,00:01:41.850,Salt Lake City 2002,Alpine Skiing,downhill men
+28,LIE,marco buechel,00:01:41.860,Salt Lake City 2002,Alpine Skiing,downhill men
+29,USA,scott macartney,00:01:41.860,Salt Lake City 2002,Alpine Skiing,downhill men
+30,SLO,gregor sparovec,00:01:41.880,Salt Lake City 2002,Alpine Skiing,downhill men
+31,CAN,darin mc beath,00:01:42.150,Salt Lake City 2002,Alpine Skiing,downhill men
+32,SLO,jernej koblar,00:01:42.310,Salt Lake City 2002,Alpine Skiing,downhill men
+33,GER,max rauffer,00:01:42.520,Salt Lake City 2002,Alpine Skiing,downhill men
+34,ITA,kristian ghedina,00:01:42.540,Salt Lake City 2002,Alpine Skiing,downhill men
+35,RUS,maxim kedrin,00:01:43.040,Salt Lake City 2002,Alpine Skiing,downhill men
+36,AUS,aj bear,00:01:43.190,Salt Lake City 2002,Alpine Skiing,downhill men
+37,CAN,david anderson,00:01:43.200,Salt Lake City 2002,Alpine Skiing,downhill men
+38,CZE,ondrej bank,00:01:43.330,Salt Lake City 2002,Alpine Skiing,downhill men
+39,CZE,borek zakouril,00:01:43.630,Salt Lake City 2002,Alpine Skiing,downhill men
+40,RUS,andrey filichkin,00:01:43.730,Salt Lake City 2002,Alpine Skiing,downhill men
+41,JPN,yasuyuki takishita,00:01:43.750,Salt Lake City 2002,Alpine Skiing,downhill men
+42,RUS,pavel chestakov,00:01:44.350,Salt Lake City 2002,Alpine Skiing,downhill men
+43,RUS,sergeij komarov,00:01:45.250,Salt Lake City 2002,Alpine Skiing,downhill men
+44,AUS,craig branch,00:01:45.340,Salt Lake City 2002,Alpine Skiing,downhill men
+45,CZE,jan holicky,00:01:45.490,Salt Lake City 2002,Alpine Skiing,downhill men
+46,SVK,ivan heimschild,00:01:46.360,Salt Lake City 2002,Alpine Skiing,downhill men
+47,CHI,maui gayme,00:01:47.630,Salt Lake City 2002,Alpine Skiing,downhill men
+48,UKR,nikolay skriabin,00:01:47.650,Salt Lake City 2002,Alpine Skiing,downhill men
+49,CHI,mikael gayme,00:01:48.370,Salt Lake City 2002,Alpine Skiing,downhill men
+50,RSA,alexander heath,00:01:48.840,Salt Lake City 2002,Alpine Skiing,downhill men
+51,ARG,nicolas arsel,00:01:49.750,Salt Lake City 2002,Alpine Skiing,downhill men
+52,IRL,paul patrick schwarzacher-joyce,00:01:54.420,Salt Lake City 2002,Alpine Skiing,downhill men
+53,ARG,cristian javier simari birkner,Disqualified,Salt Lake City 2002,Alpine Skiing,downhill men
+54,GBR,ross green,Did not start,Salt Lake City 2002,Alpine Skiing,downhill men
+0,FRA,carole montillet-carles,00:01:39.560,Salt Lake City 2002,Alpine Skiing,downhill women
+1,ITA,isolde kostner,00:01:40.010,Salt Lake City 2002,Alpine Skiing,downhill women
+2,AUT,renate goetschl,00:01:40.390,Salt Lake City 2002,Alpine Skiing,downhill women
+3,GER,hilde gerg,00:01:40.490,Salt Lake City 2002,Alpine Skiing,downhill women
+4,SUI,corinne rey bellet,00:01:40.540,Salt Lake City 2002,Alpine Skiing,downhill women
+5,AUT,selina heregger,00:01:40.560,Salt Lake City 2002,Alpine Skiing,downhill women
+6,SUI,sylviane berthod,00:01:40.670,Salt Lake City 2002,Alpine Skiing,downhill women
+7,CAN,melanie turgeon,00:01:40.710,Salt Lake City 2002,Alpine Skiing,downhill women
+8,AUT,michaela dorfmeister,00:01:40.830,Salt Lake City 2002,Alpine Skiing,downhill women
+9,GER,regina häusl,00:01:40.840,Salt Lake City 2002,Alpine Skiing,downhill women
+10,USA,jonna mendes,00:01:40.970,Salt Lake City 2002,Alpine Skiing,downhill women
+11,USA,kirsten l clark,00:01:41.030,Salt Lake City 2002,Alpine Skiing,downhill women
+12,NOR,ingeborg helen marken,00:01:41.080,Salt Lake City 2002,Alpine Skiing,downhill women
+13,SWE,pernilla wiberg,00:01:41.090,Salt Lake City 2002,Alpine Skiing,downhill women
+14,FRA,melanie suchet,00:01:41.150,Salt Lake City 2002,Alpine Skiing,downhill women
+15,USA,picabo street,00:01:41.170,Salt Lake City 2002,Alpine Skiing,downhill women
+16,ITA,patrizia bassis,00:01:41.560,Salt Lake City 2002,Alpine Skiing,downhill women
+17,AUT,brigitte obermoser,00:01:41.640,Salt Lake City 2002,Alpine Skiing,downhill women
+18,SUI,catherine borghi,00:01:41.880,Salt Lake City 2002,Alpine Skiing,downhill women
+19,ITA,daniela ceccarelli,00:01:42.030,Salt Lake City 2002,Alpine Skiing,downhill women
+20,RUS,varvara zelenskaia,00:01:42.430,Salt Lake City 2002,Alpine Skiing,downhill women
+21,SLO,spela bracun,00:01:42.480,Salt Lake City 2002,Alpine Skiing,downhill women
+22,FRA,ingrid jacquemod,00:01:42.700,Salt Lake City 2002,Alpine Skiing,downhill women
+23,ITA,lucia recchia,00:01:42.800,Salt Lake City 2002,Alpine Skiing,downhill women
+24,SWE,janette hargin,00:01:42.830,Salt Lake City 2002,Alpine Skiing,downhill women
+25,GER,sibylle brauner,00:01:42.970,Salt Lake City 2002,Alpine Skiing,downhill women
+26,AUS,alice jones,00:01:43.070,Salt Lake City 2002,Alpine Skiing,downhill women
+27,SLO,mojca suhadolc,00:01:43.100,Salt Lake City 2002,Alpine Skiing,downhill women
+28,AUS,jenny owens,00:01:44.150,Salt Lake City 2002,Alpine Skiing,downhill women
+29,CZE,gabriela martinovova,00:01:44.250,Salt Lake City 2002,Alpine Skiing,downhill women
+30,ISL,dagny l. kristjansdottir,00:01:44.720,Salt Lake City 2002,Alpine Skiing,downhill women
+31,GBR,chemmy alcott,00:01:45.980,Salt Lake City 2002,Alpine Skiing,downhill women
+32,ROU,alexandra munteanu,00:01:46.290,Salt Lake City 2002,Alpine Skiing,downhill women
+33,ARG,macarena simari birkner,00:01:46.770,Salt Lake City 2002,Alpine Skiing,downhill women
+34,ARG,maria belen simari birkner,00:01:46.970,Salt Lake City 2002,Alpine Skiing,downhill women
+35,USA,caroline lalive,Did not finish,Salt Lake City 2002,Alpine Skiing,downhill women
+36,GER,petra haltmayr,Did not finish,Salt Lake City 2002,Alpine Skiing,downhill women
+37,CAN,anne marie lefrancois,Did not finish,Salt Lake City 2002,Alpine Skiing,downhill women
+38,CAN,sara-maude boucher,Did not start,Salt Lake City 2002,Alpine Skiing,downhill women
+0,AUT,stephan eberharter,00:02:23.280,Salt Lake City 2002,Alpine Skiing,giant slalom men
+1,USA,bode miller,00:02:24.160,Salt Lake City 2002,Alpine Skiing,giant slalom men
+2,NOR,lasse kjus,00:02:24.320,Salt Lake City 2002,Alpine Skiing,giant slalom men
+3,AUT,benjamin raich,00:02:24.400,Salt Lake City 2002,Alpine Skiing,giant slalom men
+4,AUT,christoph gruber,00:02:24.410,Salt Lake City 2002,Alpine Skiing,giant slalom men
+5,NOR,bjarne solbakken,00:02:24.500,Salt Lake City 2002,Alpine Skiing,giant slalom men
+6,NOR,kjetil andre aamodt,00:02:24.620,Salt Lake City 2002,Alpine Skiing,giant slalom men
+7,ITA,massimiliano blardone,00:02:24.870,Salt Lake City 2002,Alpine Skiing,giant slalom men
+8,CRO,ivica kostelic,00:02:24.920,Salt Lake City 2002,Alpine Skiing,giant slalom men
+9,SUI,didier cuche,00:02:25.000,Salt Lake City 2002,Alpine Skiing,giant slalom men
+10,SUI,michael von gruenigen,00:02:25.070,Salt Lake City 2002,Alpine Skiing,giant slalom men
+11,CAN,thomas grandi,00:02:25.240,Salt Lake City 2002,Alpine Skiing,giant slalom men
+12,SWE,fredrik nyberg,00:02:25.290,Salt Lake City 2002,Alpine Skiing,giant slalom men
+13,SUI,didier defago,00:02:25.540,Salt Lake City 2002,Alpine Skiing,giant slalom men
+14,FRA,frederic covili,00:02:25.650,Salt Lake City 2002,Alpine Skiing,giant slalom men
+15,USA,dane spencer,00:02:25.680,Salt Lake City 2002,Alpine Skiing,giant slalom men
+16,LIE,marco buechel,00:02:25.890,Salt Lake City 2002,Alpine Skiing,giant slalom men
+17,SLO,jernej koblar,00:02:26.360,Salt Lake City 2002,Alpine Skiing,giant slalom men
+18,USA,thomas vonn,00:02:26.460,Salt Lake City 2002,Alpine Skiing,giant slalom men
+19,NOR,kenneth sivertsen,00:02:26.510,Salt Lake City 2002,Alpine Skiing,giant slalom men
+20,FRA,joel chenal,00:02:27.080,Salt Lake City 2002,Alpine Skiing,giant slalom men
+21,ITA,alessandro roberto,00:02:27.530,Salt Lake City 2002,Alpine Skiing,giant slalom men
+22,LIE,achim vogt,00:02:27.580,Salt Lake City 2002,Alpine Skiing,giant slalom men
+23,SWE,patrik jaerbyn,00:02:27.660,Salt Lake City 2002,Alpine Skiing,giant slalom men
+24,CZE,stanley hayer,00:02:27.830,Salt Lake City 2002,Alpine Skiing,giant slalom men
+25,ITA,giorgio rocca,00:02:27.850,Salt Lake City 2002,Alpine Skiing,giant slalom men
+26,LIE,markus ganahl,00:02:27.920,Salt Lake City 2002,Alpine Skiing,giant slalom men
+27,SLO,mitja kunc,00:02:28.170,Salt Lake City 2002,Alpine Skiing,giant slalom men
+28,GBR,ross green,00:02:29.310,Salt Lake City 2002,Alpine Skiing,giant slalom men
+29,ARG,cristian javier simari birkner,00:02:29.790,Salt Lake City 2002,Alpine Skiing,giant slalom men
+30,CZE,petr zahrobsky,00:02:29.960,Salt Lake City 2002,Alpine Skiing,giant slalom men
+31,RUS,pavel chestakov,00:02:29.970,Salt Lake City 2002,Alpine Skiing,giant slalom men
+32,AUS,bradley wall,00:02:30.280,Salt Lake City 2002,Alpine Skiing,giant slalom men
+33,JPN,akira sasaki,00:02:30.580,Salt Lake City 2002,Alpine Skiing,giant slalom men
+34,LIE,michael riegler,00:02:30.740,Salt Lake City 2002,Alpine Skiing,giant slalom men
+35,AND,alex antor,00:02:31.390,Salt Lake City 2002,Alpine Skiing,giant slalom men
+36,JPN,kiminobu kimura,00:02:31.860,Salt Lake City 2002,Alpine Skiing,giant slalom men
+37,BUL,stefan georgiev,00:02:33.010,Salt Lake City 2002,Alpine Skiing,giant slalom men
+38,AND,victor gomez,00:02:33.330,Salt Lake City 2002,Alpine Skiing,giant slalom men
+39,RUS,sergeij komarov,00:02:33.560,Salt Lake City 2002,Alpine Skiing,giant slalom men
+40,SCG,marko djordjevic,00:02:33.650,Salt Lake City 2002,Alpine Skiing,giant slalom men
+41,ISL,kristinn magnusson,00:02:33.790,Salt Lake City 2002,Alpine Skiing,giant slalom men
+42,GRE,vassilis dimitriadis,00:02:36.150,Salt Lake City 2002,Alpine Skiing,giant slalom men
+43,BIH,tahir bisic,00:02:36.170,Salt Lake City 2002,Alpine Skiing,giant slalom men
+44,UKR,nikolay skriabin,00:02:36.270,Salt Lake City 2002,Alpine Skiing,giant slalom men
+45,KOR,min-hyeok gang,00:02:37.100,Salt Lake City 2002,Alpine Skiing,giant slalom men
+46,KOR,jong-moon byun,00:02:37.200,Salt Lake City 2002,Alpine Skiing,giant slalom men
+47,RSA,alexander heath,00:02:37.270,Salt Lake City 2002,Alpine Skiing,giant slalom men
+48,CHI,maui gayme,00:02:37.340,Salt Lake City 2002,Alpine Skiing,giant slalom men
+49,NZL,jesse teat,00:02:38.070,Salt Lake City 2002,Alpine Skiing,giant slalom men
+50,NZL,todd haywood,00:02:38.100,Salt Lake City 2002,Alpine Skiing,giant slalom men
+51,MKD,dejan panovski,00:02:38.780,Salt Lake City 2002,Alpine Skiing,giant slalom men
+52,KAZ,danil anisimov,00:02:40.610,Salt Lake City 2002,Alpine Skiing,giant slalom men
+53,CYP,theodoros christodoulou,00:02:41.590,Salt Lake City 2002,Alpine Skiing,giant slalom men
+54,FIJ,laurence thoms,00:02:41.980,Salt Lake City 2002,Alpine Skiing,giant slalom men
+55,HUN,peter vincze,00:02:46.730,Salt Lake City 2002,Alpine Skiing,giant slalom men
+56,SMR,gian matteo giordani,00:02:48.310,Salt Lake City 2002,Alpine Skiing,giant slalom men
+57,AUT,hans knauss,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+58,FIN,sami uotila,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+59,CZE,ondrej bank,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+60,SVK,ivan heimschild,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+61,LAT,ivars ciaguns,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+62,USA,erik schlopy,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+63,ITA,alexander ploner,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+64,SLO,uros pavlovcic,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+65,FRA,vincent millet,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+66,SLO,jure kosir,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+67,SUI,tobias gruenenfelder,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+68,CAN,jean-philippe roy,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+69,FIN,kalle palander,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+70,CZE,borek zakouril,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+71,RUS,andrey filichkin,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+72,ISL,björgvin björgvinsson,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+73,BIH,enis becirbegovic,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+74,ISL,johann f. haraldsson,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+75,KOR,seung wook hur,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+76,TJK,andrei drygin,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom men
+77,BRA,nikolai hentsch,Disqualified,Salt Lake City 2002,Alpine Skiing,giant slalom men
+0,CRO,janica kostelic,00:02:30.010,Salt Lake City 2002,Alpine Skiing,giant slalom women
+1,SWE,anja paerson,00:02:31.330,Salt Lake City 2002,Alpine Skiing,giant slalom women
+2,SUI,sonja nef,00:02:31.670,Salt Lake City 2002,Alpine Skiing,giant slalom women
+3,AUT,michaela dorfmeister,00:02:31.950,Salt Lake City 2002,Alpine Skiing,giant slalom women
+4,AUT,alexandra meissnitzer,00:02:31.950,Salt Lake City 2002,Alpine Skiing,giant slalom women
+5,ESP,maria jose rienda,00:02:32.530,Salt Lake City 2002,Alpine Skiing,giant slalom women
+6,SWE,ylva nowen,00:02:32.780,Salt Lake City 2002,Alpine Skiing,giant slalom women
+7,CAN,allison forsyth,00:02:32.780,Salt Lake City 2002,Alpine Skiing,giant slalom women
+8,SWE,anna ottosson,00:02:32.930,Salt Lake City 2002,Alpine Skiing,giant slalom women
+9,ITA,karen putzer,00:02:32.940,Salt Lake City 2002,Alpine Skiing,giant slalom women
+10,FIN,tanja poutiainen,00:02:32.970,Salt Lake City 2002,Alpine Skiing,giant slalom women
+11,SLO,tina maze,00:02:33.360,Salt Lake City 2002,Alpine Skiing,giant slalom women
+12,SUI,corinne rey bellet,00:02:33.430,Salt Lake City 2002,Alpine Skiing,giant slalom women
+13,ITA,denise karbon,00:02:33.560,Salt Lake City 2002,Alpine Skiing,giant slalom women
+14,AUT,brigitte obermoser,00:02:33.680,Salt Lake City 2002,Alpine Skiing,giant slalom women
+15,ITA,silke bachmann,00:02:33.940,Salt Lake City 2002,Alpine Skiing,giant slalom women
+16,USA,kristina koznick,00:02:34.220,Salt Lake City 2002,Alpine Skiing,giant slalom women
+17,FRA,carole montillet-carles,00:02:34.530,Salt Lake City 2002,Alpine Skiing,giant slalom women
+18,ITA,nicole gius,00:02:35.540,Salt Lake City 2002,Alpine Skiing,giant slalom women
+19,SLO,spela pretnar,00:02:35.560,Salt Lake City 2002,Alpine Skiing,giant slalom women
+20,USA,sarah schleper,00:02:35.960,Salt Lake City 2002,Alpine Skiing,giant slalom women
+21,GER,annemarie gerg,00:02:36.180,Salt Lake City 2002,Alpine Skiing,giant slalom women
+22,CZE,eva kurfuerstova,00:02:36.200,Salt Lake City 2002,Alpine Skiing,giant slalom women
+23,ESP,ana galindo santolaria,00:02:36.230,Salt Lake City 2002,Alpine Skiing,giant slalom women
+24,FRA,christel pascal-saioni,00:02:36.400,Salt Lake City 2002,Alpine Skiing,giant slalom women
+25,USA,kirsten l clark,00:02:36.420,Salt Lake City 2002,Alpine Skiing,giant slalom women
+26,CZE,petra zakourilova,00:02:36.830,Salt Lake City 2002,Alpine Skiing,giant slalom women
+27,USA,alexandra shaffer,00:02:37.380,Salt Lake City 2002,Alpine Skiing,giant slalom women
+28,JPN,noriyo hiroi,00:02:37.970,Salt Lake City 2002,Alpine Skiing,giant slalom women
+29,GBR,chemmy alcott,00:02:38.470,Salt Lake City 2002,Alpine Skiing,giant slalom women
+30,SWE,janette hargin,00:02:38.510,Salt Lake City 2002,Alpine Skiing,giant slalom women
+31,SVK,veronika velez zuzulova,00:02:38.630,Salt Lake City 2002,Alpine Skiing,giant slalom women
+32,FRA,laure pequegnot,00:02:39.250,Salt Lake City 2002,Alpine Skiing,giant slalom women
+33,ARG,maria belen simari birkner,00:02:39.340,Salt Lake City 2002,Alpine Skiing,giant slalom women
+34,JPN,kumiko kashiwagi,00:02:39.550,Salt Lake City 2002,Alpine Skiing,giant slalom women
+35,CRO,nika fleiss,00:02:40.170,Salt Lake City 2002,Alpine Skiing,giant slalom women
+36,CRO,ana jelusic,00:02:40.550,Salt Lake City 2002,Alpine Skiing,giant slalom women
+37,CAN,emily brydon,00:02:40.620,Salt Lake City 2002,Alpine Skiing,giant slalom women
+38,ARG,macarena simari birkner,00:02:41.550,Salt Lake City 2002,Alpine Skiing,giant slalom women
+39,SCG,jelena lolovic,00:02:42.040,Salt Lake City 2002,Alpine Skiing,giant slalom women
+40,ROU,alexandra munteanu,00:02:42.200,Salt Lake City 2002,Alpine Skiing,giant slalom women
+41,BUL,nadezhda vasileva,00:02:44.430,Salt Lake City 2002,Alpine Skiing,giant slalom women
+42,UKR,yulia siparenko,00:02:47.620,Salt Lake City 2002,Alpine Skiing,giant slalom women
+43,HUN,marta vastagh regos,00:02:52.500,Salt Lake City 2002,Alpine Skiing,giant slalom women
+44,LBN,chirine njeim,00:02:53.420,Salt Lake City 2002,Alpine Skiing,giant slalom women
+45,IRL,tamsen mcgarry,00:02:56.090,Salt Lake City 2002,Alpine Skiing,giant slalom women
+46,ARM,vanesa rakedzhyan,00:03:03.710,Salt Lake City 2002,Alpine Skiing,giant slalom women
+47,BRA,mirella arnhold,00:03:13.740,Salt Lake City 2002,Alpine Skiing,giant slalom women
+48,SLO,alenka dovzan,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+49,NOR,andrine flemmen,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+50,ESP,carolina ruiz castillo,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+51,SUI,fraenzi aufdenblatten,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+52,FIN,henna raita,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+53,KOR,hye min yoo,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+54,AUS,jenny owens,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+55,SUI,lilian kummer,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+56,GER,martina ertl-renz,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+57,KAZ,olesia persidskaya,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+58,GEO,sofia akhmeteli,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+59,NOR,stina hofgard nilsen,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+60,CZE,lucie hrstkova,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+61,GER,monika bergmann-schmuderer,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+62,GER,petra haltmayr,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+63,AUT,selina heregger,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+64,ISL,dagny l. kristjansdottir,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+65,AND,vicky grau,Did not finish,Salt Lake City 2002,Alpine Skiing,giant slalom women
+66,AUS,jeannette korten,Disqualified,Salt Lake City 2002,Alpine Skiing,giant slalom women
+67,LIE,birgit heeb-batliner,Disqualified,Salt Lake City 2002,Alpine Skiing,giant slalom women
+68,MKD,jana nikolovska,Did not start,Salt Lake City 2002,Alpine Skiing,giant slalom women
+0,FRA,jean-pierre vidal,00:01:41.060,Salt Lake City 2002,Alpine Skiing,slalom men
+1,FRA,sebastien amiez,00:01:41.820,Salt Lake City 2002,Alpine Skiing,slalom men
+2,AUT,benjamin raich,00:01:42.410,Salt Lake City 2002,Alpine Skiing,slalom men
+3,AUT,kilian albrecht,00:01:42.450,Salt Lake City 2002,Alpine Skiing,slalom men
+4,SUI,urs imboden,00:01:42.480,Salt Lake City 2002,Alpine Skiing,slalom men
+5,NOR,kjetil andre aamodt,00:01:42.720,Salt Lake City 2002,Alpine Skiing,slalom men
+6,SWE,markus larsson,00:01:42.860,Salt Lake City 2002,Alpine Skiing,slalom men
+7,SLO,jure kosir,00:01:43.340,Salt Lake City 2002,Alpine Skiing,slalom men
+8,NOR,ole christian furuseth,00:01:44.390,Salt Lake City 2002,Alpine Skiing,slalom men
+9,POL,andrzej bachleda,00:01:44.650,Salt Lake City 2002,Alpine Skiing,slalom men
+10,USA,chip knight,00:01:44.860,Salt Lake City 2002,Alpine Skiing,slalom men
+11,NOR,tom stiansen,00:01:45.190,Salt Lake City 2002,Alpine Skiing,slalom men
+12,USA,erik schlopy,00:01:45.210,Salt Lake City 2002,Alpine Skiing,slalom men
+13,SUI,michael von gruenigen,00:01:45.350,Salt Lake City 2002,Alpine Skiing,slalom men
+14,CZE,stanley hayer,00:01:46.120,Salt Lake City 2002,Alpine Skiing,slalom men
+15,CAN,thomas grandi,00:01:46.230,Salt Lake City 2002,Alpine Skiing,slalom men
+16,ARG,cristian javier simari birkner,00:01:46.820,Salt Lake City 2002,Alpine Skiing,slalom men
+17,JPN,kiminobu kimura,00:01:48.430,Salt Lake City 2002,Alpine Skiing,slalom men
+18,SVK,michal rajcan,00:01:48.660,Salt Lake City 2002,Alpine Skiing,slalom men
+19,GBR,noel baxter,00:01:49.640,Salt Lake City 2002,Alpine Skiing,slalom men
+20,ISL,kristinn bjornsson,00:01:49.810,Salt Lake City 2002,Alpine Skiing,slalom men
+21,GBR,gareth trayner,00:01:50.910,Salt Lake City 2002,Alpine Skiing,slalom men
+22,BUL,angel pumpalov,00:01:51.930,Salt Lake City 2002,Alpine Skiing,slalom men
+23,USA,bode miller,00:01:52.790,Salt Lake City 2002,Alpine Skiing,slalom men
+24,LAT,ivars ciaguns,00:01:54.730,Salt Lake City 2002,Alpine Skiing,slalom men
+25,SCG,marko djordjevic,00:01:55.990,Salt Lake City 2002,Alpine Skiing,slalom men
+26,RSA,alexander heath,00:01:56.930,Salt Lake City 2002,Alpine Skiing,slalom men
+27,ISL,johann f. haraldsson,00:01:57.170,Salt Lake City 2002,Alpine Skiing,slalom men
+28,BIH,tahir bisic,00:01:57.720,Salt Lake City 2002,Alpine Skiing,slalom men
+29,KOR,min-hyeok gang,00:01:58.480,Salt Lake City 2002,Alpine Skiing,slalom men
+30,KOR,jong-moon byun,00:02:01.580,Salt Lake City 2002,Alpine Skiing,slalom men
+31,TUR,atakan alaftargil,00:02:10.360,Salt Lake City 2002,Alpine Skiing,slalom men
+32,HUN,peter vincze,00:02:15.570,Salt Lake City 2002,Alpine Skiing,slalom men
+33,AUT,rainer schoenfelder,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+34,ITA,giorgio rocca,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+35,FIN,kalle palander,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+36,AUT,manfred pranger,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+37,GER,markus eberle,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+38,CAN,jean-philippe roy,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+39,NOR,truls ove karlsen,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+40,ITA,edoardo zardini,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+41,ITA,giancarlo bergamelli,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+42,ITA,alan perathoner,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+43,JPN,akira sasaki,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+44,BUL,stefan georgiev,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+45,CZE,jan holicky,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+46,ISL,björgvin björgvinsson,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+47,NZL,todd haywood,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+48,SVK,ivan heimschild,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+49,ISL,kristinn magnusson,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+50,NZL,jesse teat,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+51,KOR,ki hyun lee,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+52,KAZ,danil anisimov,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+53,MKD,dejan panovski,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+54,FIJ,laurence thoms,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+55,GEO,robert makharashvili,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+56,IRI,bagher kalhor,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+57,ARM,arsen harutyunyan,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+58,AZE,elbrus isakov,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+59,SLO,mitja kunc,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+60,CRO,ivica kostelic,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+61,FRA,pierrick bourgeat,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+62,SLO,drago grubelnik,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+63,SLO,rene mlekuz,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+64,LIE,markus ganahl,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+65,USA,tom rothrock,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+66,CZE,ondrej bank,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+67,LBN,niki fuerstauer,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+68,AND,alex antor,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+69,AUS,michael dickson,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+70,UKR,nikolay skriabin,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+71,CYP,theodoros christodoulou,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+72,UZB,komil urunbayev,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom men
+73,KOR,seung wook hur,Disqualified,Salt Lake City 2002,Alpine Skiing,slalom men
+74,GRE,vassilis dimitriadis,Disqualified,Salt Lake City 2002,Alpine Skiing,slalom men
+75,JPN,kentaro minagawa,Disqualified,Salt Lake City 2002,Alpine Skiing,slalom men
+76,GBR,alain baxter,Disqualified,Salt Lake City 2002,Alpine Skiing,slalom men
+77,CZE,borek zakouril,Did not start,Salt Lake City 2002,Alpine Skiing,slalom men
+0,CRO,janica kostelic,00:01:46.100,Salt Lake City 2002,Alpine Skiing,slalom women
+1,FRA,laure pequegnot,00:01:46.170,Salt Lake City 2002,Alpine Skiing,slalom women
+2,SWE,anja paerson,00:01:47.090,Salt Lake City 2002,Alpine Skiing,slalom women
+3,SWE,ylva nowen,00:01:47.180,Salt Lake City 2002,Alpine Skiing,slalom women
+4,GER,martina ertl-renz,00:01:47.820,Salt Lake City 2002,Alpine Skiing,slalom women
+5,GER,monika bergmann-schmuderer,00:01:47.980,Salt Lake City 2002,Alpine Skiing,slalom women
+6,FRA,vanessa vidal,00:01:48.110,Salt Lake City 2002,Alpine Skiing,slalom women
+7,FIN,henna raita,00:01:48.400,Salt Lake City 2002,Alpine Skiing,slalom women
+8,SLO,natasa bokal,00:01:49.940,Salt Lake City 2002,Alpine Skiing,slalom women
+9,ITA,nicole gius,00:01:51.010,Salt Lake City 2002,Alpine Skiing,slalom women
+10,NZL,claudia riegler,00:01:51.190,Salt Lake City 2002,Alpine Skiing,slalom women
+11,CRO,nika fleiss,00:01:51.270,Salt Lake City 2002,Alpine Skiing,slalom women
+12,SWE,anna ottosson,00:01:51.770,Salt Lake City 2002,Alpine Skiing,slalom women
+13,JPN,noriyo hiroi,00:01:51.980,Salt Lake City 2002,Alpine Skiing,slalom women
+14,ESP,maria jose rienda,00:01:52.110,Salt Lake City 2002,Alpine Skiing,slalom women
+15,JPN,kumiko kashiwagi,00:01:52.410,Salt Lake City 2002,Alpine Skiing,slalom women
+16,SLO,alenka dovzan,00:01:52.650,Salt Lake City 2002,Alpine Skiing,slalom women
+17,ITA,silke bachmann,00:01:52.940,Salt Lake City 2002,Alpine Skiing,slalom women
+18,GBR,emma carrick-anderson,00:01:53.790,Salt Lake City 2002,Alpine Skiing,slalom women
+19,SLO,spela pretnar,00:01:54.090,Salt Lake City 2002,Alpine Skiing,slalom women
+20,CZE,eva kurfuerstova,00:01:54.190,Salt Lake City 2002,Alpine Skiing,slalom women
+21,SWE,susanne ekman,00:01:54.320,Salt Lake City 2002,Alpine Skiing,slalom women
+22,CRO,ana jelusic,00:01:55.010,Salt Lake City 2002,Alpine Skiing,slalom women
+23,AND,vicky grau,00:01:55.160,Salt Lake City 2002,Alpine Skiing,slalom women
+24,AUS,jeannette korten,00:01:56.100,Salt Lake City 2002,Alpine Skiing,slalom women
+25,ESP,carolina ruiz castillo,00:01:56.220,Salt Lake City 2002,Alpine Skiing,slalom women
+26,CAN,emily brydon,00:01:58.190,Salt Lake City 2002,Alpine Skiing,slalom women
+27,BUL,nadezhda vasileva,00:01:59.040,Salt Lake City 2002,Alpine Skiing,slalom women
+28,ARM,vanesa rakedzhyan,00:01:59.120,Salt Lake City 2002,Alpine Skiing,slalom women
+29,UKR,yulia siparenko,00:02:00.500,Salt Lake City 2002,Alpine Skiing,slalom women
+30,ARG,maria belen simari birkner,00:02:00.580,Salt Lake City 2002,Alpine Skiing,slalom women
+31,USA,lindsey vonn,00:02:00.730,Salt Lake City 2002,Alpine Skiing,slalom women
+32,ISL,emma furuvik,00:02:01.920,Salt Lake City 2002,Alpine Skiing,slalom women
+33,KAZ,olesia persidskaya,00:02:09.970,Salt Lake City 2002,Alpine Skiing,slalom women
+34,IRL,tamsen mcgarry,00:02:11.000,Salt Lake City 2002,Alpine Skiing,slalom women
+35,LBN,chirine njeim,00:02:13.480,Salt Lake City 2002,Alpine Skiing,slalom women
+36,GRE,konstantina koutra,00:02:18.600,Salt Lake City 2002,Alpine Skiing,slalom women
+37,UZB,elmira urumbaeva,00:02:24.900,Salt Lake City 2002,Alpine Skiing,slalom women
+38,CAN,allison forsyth,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+39,GER,annemarie gerg,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+40,GBR,chemmy alcott,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+41,FRA,christel pascal-saioni,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+42,ITA,denise karbon,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+43,NOR,hedda berntsen,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+44,AUS,kathrin nikolussi,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+45,USA,kristina koznick,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+46,SLO,lea dabic,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+47,CZE,lucie hrstkova,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+48,ARG,macarena simari birkner,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+49,AUT,marlies schild,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+50,USA,sarah schleper,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+51,GEO,sofia akhmeteli,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+52,ITA,sonia vierin,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+53,USA,tasha nelson,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+54,NOR,trine bakke-rognmo,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+55,SVK,veronika velez zuzulova,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+56,AUS,zali steggall,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+57,AUT,carina raich,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+58,AUT,christine sponring,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+59,SUI,corina gruenenfelder,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+60,SCG,jelena lolovic,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+61,SUI,marlies oester,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+62,HUN,marta vastagh regos,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+63,CZE,petra zakourilova,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+64,AUT,renate goetschl,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+65,AUS,rowena bright,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+66,SUI,sonja nef,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+67,FIN,tanja poutiainen,Did not finish,Salt Lake City 2002,Alpine Skiing,slalom women
+68,LIE,tamara schaedler,Did not start,Salt Lake City 2002,Alpine Skiing,slalom women
+69,ROU,alexandra munteanu,Did not start,Salt Lake City 2002,Alpine Skiing,slalom women
+0,NOR,kjetil andre aamodt,00:01:21.580,Salt Lake City 2002,Alpine Skiing,super-G men
+1,AUT,stephan eberharter,00:01:21.680,Salt Lake City 2002,Alpine Skiing,super-G men
+2,AUT,andreas schifferer,00:01:21.830,Salt Lake City 2002,Alpine Skiing,super-G men
+3,AUT,fritz strobl,00:01:21.920,Salt Lake City 2002,Alpine Skiing,super-G men
+4,NOR,bjarne solbakken,00:01:22.100,Salt Lake City 2002,Alpine Skiing,super-G men
+5,SUI,didier defago,00:01:22.270,Salt Lake City 2002,Alpine Skiing,super-G men
+6,AUT,christoph gruber,00:01:22.350,Salt Lake City 2002,Alpine Skiing,super-G men
+7,USA,daron rahlves,00:01:22.480,Salt Lake City 2002,Alpine Skiing,super-G men
+8,USA,thomas vonn,00:01:23.220,Salt Lake City 2002,Alpine Skiing,super-G men
+9,SUI,paul accola,00:01:23.330,Salt Lake City 2002,Alpine Skiing,super-G men
+10,SWE,patrik jaerbyn,00:01:23.400,Salt Lake City 2002,Alpine Skiing,super-G men
+11,SUI,tobias gruenenfelder,00:01:23.430,Salt Lake City 2002,Alpine Skiing,super-G men
+12,SLO,gregor sparovec,00:01:23.520,Salt Lake City 2002,Alpine Skiing,super-G men
+13,LIE,marco buechel,00:01:23.520,Salt Lake City 2002,Alpine Skiing,super-G men
+14,SLO,jernej koblar,00:01:23.820,Salt Lake City 2002,Alpine Skiing,super-G men
+15,FRA,sebastien fournier,00:01:23.820,Salt Lake City 2002,Alpine Skiing,super-G men
+16,ITA,roland fischnaller,00:01:23.870,Salt Lake City 2002,Alpine Skiing,super-G men
+17,ITA,patrick staudacher,00:01:23.950,Salt Lake City 2002,Alpine Skiing,super-G men
+18,NOR,kenneth sivertsen,00:01:24.160,Salt Lake City 2002,Alpine Skiing,super-G men
+19,FRA,christophe saioni,00:01:24.280,Salt Lake City 2002,Alpine Skiing,super-G men
+20,SLO,andrej jerman,00:01:24.350,Salt Lake City 2002,Alpine Skiing,super-G men
+21,GER,max rauffer,00:01:24.540,Salt Lake City 2002,Alpine Skiing,super-G men
+22,RUS,pavel chestakov,00:01:25.160,Salt Lake City 2002,Alpine Skiing,super-G men
+23,CZE,petr zahrobsky,00:01:25.670,Salt Lake City 2002,Alpine Skiing,super-G men
+24,USA,scott macartney,00:01:25.800,Salt Lake City 2002,Alpine Skiing,super-G men
+25,ITA,kurt sulzenbacher,00:01:26.440,Salt Lake City 2002,Alpine Skiing,super-G men
+26,AUS,craig branch,00:01:27.150,Salt Lake City 2002,Alpine Skiing,super-G men
+27,SVK,ivan heimschild,00:01:27.740,Salt Lake City 2002,Alpine Skiing,super-G men
+28,UKR,nikolay skriabin,00:01:27.840,Salt Lake City 2002,Alpine Skiing,super-G men
+29,ARG,nicolas arsel,00:01:28.550,Salt Lake City 2002,Alpine Skiing,super-G men
+30,CHI,duncan grob,00:01:30.350,Salt Lake City 2002,Alpine Skiing,super-G men
+31,ARG,agustin garcia jurjo,00:01:30.590,Salt Lake City 2002,Alpine Skiing,super-G men
+32,IRL,paul patrick schwarzacher-joyce,00:01:31.300,Salt Lake City 2002,Alpine Skiing,super-G men
+33,HUN,peter vincze,00:01:50.400,Salt Lake City 2002,Alpine Skiing,super-G men
+34,SWE,fredrik nyberg,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+35,NOR,lasse kjus,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+36,ITA,alessandro fattori,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+37,FRA,claude cretier,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+38,CAN,darin mc beath,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+39,LIE,juergen hasler,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+40,USA,marco sullivan,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+41,CAN,thomas grandi,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+42,LIE,michael riegler,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+43,CZE,borek zakouril,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+44,CAN,ed podivinsky,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+45,RUS,andrey filichkin,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+46,JPN,yasuyuki takishita,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+47,CHI,mikael gayme,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+48,RUS,sergeij komarov,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+49,CHI,maui gayme,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+50,GRE,vassilis dimitriadis,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+51,TJK,andrei drygin,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G men
+52,SUI,didier cuche,Disqualified,Salt Lake City 2002,Alpine Skiing,super-G men
+53,SLO,peter pen,Disqualified,Salt Lake City 2002,Alpine Skiing,super-G men
+54,AUS,aj bear,Disqualified,Salt Lake City 2002,Alpine Skiing,super-G men
+55,CZE,ondrej bank,Did not start,Salt Lake City 2002,Alpine Skiing,super-G men
+0,ITA,daniela ceccarelli,00:01:13.590,Salt Lake City 2002,Alpine Skiing,super-G women
+1,CRO,janica kostelic,00:01:13.640,Salt Lake City 2002,Alpine Skiing,super-G women
+2,ITA,karen putzer,00:01:13.860,Salt Lake City 2002,Alpine Skiing,super-G women
+3,AUT,alexandra meissnitzer,00:01:13.950,Salt Lake City 2002,Alpine Skiing,super-G women
+4,GER,hilde gerg,00:01:13.990,Salt Lake City 2002,Alpine Skiing,super-G women
+5,AUT,michaela dorfmeister,00:01:14.080,Salt Lake City 2002,Alpine Skiing,super-G women
+6,FRA,carole montillet-carles,00:01:14.280,Salt Lake City 2002,Alpine Skiing,super-G women
+7,AUT,renate goetschl,00:01:14.440,Salt Lake City 2002,Alpine Skiing,super-G women
+8,SUI,corinne rey bellet,00:01:14.730,Salt Lake City 2002,Alpine Skiing,super-G women
+9,FRA,melanie suchet,00:01:14.830,Salt Lake City 2002,Alpine Skiing,super-G women
+10,GER,martina ertl-renz,00:01:14.840,Salt Lake City 2002,Alpine Skiing,super-G women
+11,SWE,pernilla wiberg,00:01:14.890,Salt Lake City 2002,Alpine Skiing,super-G women
+12,ITA,isolde kostner,00:01:14.990,Salt Lake City 2002,Alpine Skiing,super-G women
+13,USA,kirsten l clark,00:01:15.130,Salt Lake City 2002,Alpine Skiing,super-G women
+14,ESP,carolina ruiz castillo,00:01:15.170,Salt Lake City 2002,Alpine Skiing,super-G women
+15,USA,jonna mendes,00:01:15.250,Salt Lake City 2002,Alpine Skiing,super-G women
+16,USA,kathleen monahan,00:01:15.590,Salt Lake City 2002,Alpine Skiing,super-G women
+17,SUI,catherine borghi,00:01:15.620,Salt Lake City 2002,Alpine Skiing,super-G women
+18,CAN,genevieve simard,00:01:15.620,Salt Lake City 2002,Alpine Skiing,super-G women
+19,CAN,melanie turgeon,00:01:15.760,Salt Lake City 2002,Alpine Skiing,super-G women
+20,SLO,mojca suhadolc,00:01:15.900,Salt Lake City 2002,Alpine Skiing,super-G women
+21,FRA,ingrid jacquemod,00:01:16.170,Salt Lake City 2002,Alpine Skiing,super-G women
+22,GER,petra haltmayr,00:01:16.250,Salt Lake City 2002,Alpine Skiing,super-G women
+23,SLO,spela bracun,00:01:16.350,Salt Lake City 2002,Alpine Skiing,super-G women
+24,CZE,lucie hrstkova,00:01:16.560,Salt Lake City 2002,Alpine Skiing,super-G women
+25,RUS,varvara zelenskaia,00:01:16.620,Salt Lake City 2002,Alpine Skiing,super-G women
+26,SWE,janette hargin,00:01:16.750,Salt Lake City 2002,Alpine Skiing,super-G women
+27,GBR,chemmy alcott,00:01:17.340,Salt Lake City 2002,Alpine Skiing,super-G women
+28,ROU,alexandra munteanu,00:01:17.840,Salt Lake City 2002,Alpine Skiing,super-G women
+29,AUS,jenny owens,00:01:17.840,Salt Lake City 2002,Alpine Skiing,super-G women
+30,ARG,macarena simari birkner,00:01:20.240,Salt Lake City 2002,Alpine Skiing,super-G women
+31,USA,caroline lalive,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+32,AUT,tanja schneider,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+33,SUI,sylviane berthod,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+34,ITA,patrizia bassis,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+35,GER,regina häusl,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+36,CAN,anne marie lefrancois,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+37,NOR,ingeborg helen marken,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+38,CAN,sara-maude boucher,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+39,CZE,gabriela martinovova,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+40,ISL,dagny l. kristjansdottir,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+41,AUS,alice jones,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+42,CHI,anita irarrazabal,Did not finish,Salt Lake City 2002,Alpine Skiing,super-G women
+43,ARG,maria belen simari birkner,Did not start,Salt Lake City 2002,Alpine Skiing,super-G women
+44,BUL,nadezhda vasileva,Did not start,Salt Lake City 2002,Alpine Skiing,super-G women

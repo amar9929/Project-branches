@@ -1,0 +1,661 @@
+,country,participant,result,olympic_game,discipline,event
+0,FIN,paavo nurmi,00:30:18.800,Amsterdam 1928,Athletics,10000m men
+1,FIN,ville ritola,00:30:19.400,Amsterdam 1928,Athletics,10000m men
+2,SWE,edvin wide,00:31:00.800,Amsterdam 1928,Athletics,10000m men
+3,SWE,jean-gunnar lindgren,00:31:26.000,Amsterdam 1928,Athletics,10000m men
+4,GBR,arthur muggridge,00:31:31.800,Amsterdam 1928,Athletics,10000m men
+5,SWE,k. ragnar magnusson,00:31:37.200,Amsterdam 1928,Athletics,10000m men
+6,FIN,toivo aarne loukola,00:31:39.000,Amsterdam 1928,Athletics,10000m men
+7,FIN,kaarlo kalle matilainen,00:31:45.000,Amsterdam 1928,Athletics,10000m men
+8,GBR,wally beavers,00:31:48.000,Amsterdam 1928,Athletics,10000m men
+9,GBR,suttie smith,00:31:50.000,Amsterdam 1928,Athletics,10000m men
+10,FRA,robert marchal,,Amsterdam 1928,Athletics,10000m men
+11,GBR,george charles constable,,Amsterdam 1928,Athletics,10000m men
+12,ESP,arturo pena,00:32:21.800,Amsterdam 1928,Athletics,10000m men
+13,USA,joseph ray,,Amsterdam 1928,Athletics,10000m men
+14,LAT,staņislavs petkevičs,,Amsterdam 1928,Athletics,10000m men
+15,FRA,seghir beddari,,Amsterdam 1928,Athletics,10000m men
+16,TCH,karel nedobity,,Amsterdam 1928,Athletics,10000m men
+17,BEL,julien serwy,,Amsterdam 1928,Athletics,10000m men
+18,JPN,juichi nagatani,,Amsterdam 1928,Athletics,10000m men
+19,RSA,daniel rudolph jacobs,,Amsterdam 1928,Athletics,10000m men
+20,FRA,henri lauvaux,Did not finish,Amsterdam 1928,Athletics,10000m men
+21,USA,john macauley l. smith,Did not finish,Amsterdam 1928,Athletics,10000m men
+22,USA,john luther romig,Did not finish,Amsterdam 1928,Athletics,10000m men
+23,IND,d. b. chavan,Did not finish,Amsterdam 1928,Athletics,10000m men
+24,FRA,henri dartigues,Did not start,Amsterdam 1928,Athletics,10000m men
+25,HUN,elek szerb,Did not start,Amsterdam 1928,Athletics,10000m men
+26,TCH,josef nemecky,Did not start,Amsterdam 1928,Athletics,10000m men
+27,MON,robert masino,Did not start,Amsterdam 1928,Athletics,10000m men
+28,JPN,seiichiro tsuda,Did not start,Amsterdam 1928,Athletics,10000m men
+29,AUS,george r. hyde,Did not start,Amsterdam 1928,Athletics,10000m men
+30,ARG,josé ribas,Did not start,Amsterdam 1928,Athletics,10000m men
+31,GRE,athanassios bekiaris,Did not start,Amsterdam 1928,Athletics,10000m men
+32,SWE,erik stenfeldt,Did not start,Amsterdam 1928,Athletics,10000m men
+33,NOR,johan badendyck,Did not start,Amsterdam 1928,Athletics,10000m men
+34,NOR,torvald minde,Did not start,Amsterdam 1928,Athletics,10000m men
+35,DEN,carl axel holger petersen,Did not start,Amsterdam 1928,Athletics,10000m men
+36,POR,antónio almeida,Did not start,Amsterdam 1928,Athletics,10000m men
+37,CAN,cliff bricker,Did not start,Amsterdam 1928,Athletics,10000m men
+38,CAN,john c. miles,Did not start,Amsterdam 1928,Athletics,10000m men
+39,CAN,billy reynolds,Did not start,Amsterdam 1928,Athletics,10000m men
+40,CAN,harold webster,Did not start,Amsterdam 1928,Athletics,10000m men
+41,EST,felix beldsinsky,Did not start,Amsterdam 1928,Athletics,10000m men
+42,USA,william agee,Did not start,Amsterdam 1928,Athletics,10000m men
+0,CAN,percy williams,10.800,Amsterdam 1928,Athletics,100m men
+1,GBR,jack london,10.900,Amsterdam 1928,Athletics,100m men
+2,GER,georg lammers,10.900,Amsterdam 1928,Athletics,100m men
+3,USA,frank clifford wykoff,11.000,Amsterdam 1928,Athletics,100m men
+4,RSA,wilfred b. legg,11.000,Amsterdam 1928,Athletics,100m men
+5,USA,bob mcallister,11.000,Amsterdam 1928,Athletics,100m men
+6,FRA,andré cerbonney,,Amsterdam 1928,Athletics,100m men
+7,YUG,stane perpar,Did not start,Amsterdam 1928,Athletics,100m men
+8,NOR,tormod ulleberg,Did not start,Amsterdam 1928,Athletics,100m men
+9,HUN,sándor hajdu,Did not start,Amsterdam 1928,Athletics,100m men
+10,LUX,robert codrons,Did not start,Amsterdam 1928,Athletics,100m men
+11,FIN,ilmari helle,Did not start,Amsterdam 1928,Athletics,100m men
+12,NOR,melvin carson,Did not start,Amsterdam 1928,Athletics,100m men
+13,TUR,r. eniss bey,Did not start,Amsterdam 1928,Athletics,100m men
+14,GER,friedrich-wilhelm wichmann,Did not start,Amsterdam 1928,Athletics,100m men
+15,GRE,nikolaos papanikolaou,Did not start,Amsterdam 1928,Athletics,100m men
+16,ITA,giuseppe castelli,Did not start,Amsterdam 1928,Athletics,100m men
+17,NZL,arthur porritt,Did not start,Amsterdam 1928,Athletics,100m men
+0,USA,elizabeth robinson,12.200,Amsterdam 1928,Athletics,100m women
+1,CAN,bobby rosenfeld,12.300,Amsterdam 1928,Athletics,100m women
+2,CAN,ethel m. smith,12.300,Amsterdam 1928,Athletics,100m women
+3,GER,erna steinberg,12.400,Amsterdam 1928,Athletics,100m women
+4,CAN,myrtle alice cook,Disqualified,Amsterdam 1928,Athletics,100m women
+5,GER,helene leni schmidt,Disqualified,Amsterdam 1928,Athletics,100m women
+6,HUN,eva lukács,Did not start,Amsterdam 1928,Athletics,100m women
+7,POL,anna breuer,Did not start,Amsterdam 1928,Athletics,100m women
+8,SUI,suzanne devenoges,Did not start,Amsterdam 1928,Athletics,100m women
+9,BEL,antoinette gallemaers,Did not start,Amsterdam 1928,Athletics,100m women
+10,BEL,r. mayer,Did not start,Amsterdam 1928,Athletics,100m women
+11,EST,sara teitelbaum,Did not start,Amsterdam 1928,Athletics,100m women
+12,AUT,dolly wagner kucera,Did not start,Amsterdam 1928,Athletics,100m women
+13,LTU,paula radziulyte,Did not start,Amsterdam 1928,Athletics,100m women
+14,BEL,elise van truyen,Did not start,Amsterdam 1928,Athletics,100m women
+0,RSA,sidney atkinson,14.800,Amsterdam 1928,Athletics,110m hurdles men
+1,USA,stephen anderson,14.800,Amsterdam 1928,Athletics,110m hurdles men
+2,USA,john collier,14.900,Amsterdam 1928,Athletics,110m hurdles men
+3,USA,leighton dye,14.900,Amsterdam 1928,Athletics,110m hurdles men
+4,RSA,george collinson weightman smith,15.000,Amsterdam 1928,Athletics,110m hurdles men
+5,GBR,frederick richard gaby,15.200,Amsterdam 1928,Athletics,110m hurdles men
+6,ARG,valerio vallania,,Amsterdam 1928,Athletics,110m hurdles men
+7,NOR,erling seeberg,Did not start,Amsterdam 1928,Athletics,110m hurdles men
+8,NOR,conrad hauge,Did not start,Amsterdam 1928,Athletics,110m hurdles men
+9,FRA,gilbert allart,Did not start,Amsterdam 1928,Athletics,110m hurdles men
+10,FIN,aarne jounela,Did not start,Amsterdam 1928,Athletics,110m hurdles men
+11,FIN,erkki järvinen,Did not start,Amsterdam 1928,Athletics,110m hurdles men
+12,FRA,roger viel,Did not start,Amsterdam 1928,Athletics,110m hurdles men
+13,EST,alfred rosenberg,Did not start,Amsterdam 1928,Athletics,110m hurdles men
+14,YUG,branko kallay,Did not start,Amsterdam 1928,Athletics,110m hurdles men
+15,DEN,herman david larsen,Did not start,Amsterdam 1928,Athletics,110m hurdles men
+0,FIN,harri edvin larva,00:03:53.200,Amsterdam 1928,Athletics,1500m men
+1,FRA,jules ladoumegue,00:03:53.800,Amsterdam 1928,Athletics,1500m men
+2,FIN,eino alfred purje,00:03:56.400,Amsterdam 1928,Athletics,1500m men
+3,GER,hans-georg wichmann,00:03:56.800,Amsterdam 1928,Athletics,1500m men
+4,GBR,cyril ellis,00:03:57.600,Amsterdam 1928,Athletics,1500m men
+5,SUI,paul-rené martin,00:03:58.400,Amsterdam 1928,Athletics,1500m men
+6,GER,hans-helmuth krause,00:03:59.000,Amsterdam 1928,Athletics,1500m men
+7,TCH,adolf kittel,00:04:00.400,Amsterdam 1928,Athletics,1500m men
+8,AUS,william m. whyte,00:04:00.400,Amsterdam 1928,Athletics,1500m men
+9,USA,raymond milton conger,,Amsterdam 1928,Athletics,1500m men
+10,FRA,paul jean keller,,Amsterdam 1928,Athletics,1500m men
+11,GER,herbert böcher,Did not finish,Amsterdam 1928,Athletics,1500m men
+12,HUN,gyula belloni,,Amsterdam 1928,Athletics,1500m men
+13,NED,frédéric du hen,,Amsterdam 1928,Athletics,1500m men
+14,USA,lloyd hahn,,Amsterdam 1928,Athletics,1500m men
+15,USA,sid robinson,,Amsterdam 1928,Athletics,1500m men
+16,IRL,gerry coughlan,Did not start,Amsterdam 1928,Athletics,1500m men
+17,ESP,joaquín miquel,Did not start,Amsterdam 1928,Athletics,1500m men
+18,GRE,andreas paouris,Did not start,Amsterdam 1928,Athletics,1500m men
+19,GRE,grigorios georgakopoulos,Did not start,Amsterdam 1928,Athletics,1500m men
+20,HUN,gábor gyulay,Did not start,Amsterdam 1928,Athletics,1500m men
+21,GRE,antonios mangos,Did not start,Amsterdam 1928,Athletics,1500m men
+22,FRA,georges l. baraton,Did not start,Amsterdam 1928,Athletics,1500m men
+23,TUR,ömer besim koşalay,Did not start,Amsterdam 1928,Athletics,1500m men
+24,MON,robert masino,Did not start,Amsterdam 1928,Athletics,1500m men
+25,GRE,vasilios stavrinos,Did not start,Amsterdam 1928,Athletics,1500m men
+26,MEX,ciro chapa,Did not start,Amsterdam 1928,Athletics,1500m men
+27,BEL,philip coenjaerts,Did not start,Amsterdam 1928,Athletics,1500m men
+28,JPN,juichi nagatani,Did not start,Amsterdam 1928,Athletics,1500m men
+29,ESP,jesús oyarbide,Did not start,Amsterdam 1928,Athletics,1500m men
+30,IND,gurbachan singh,Did not start,Amsterdam 1928,Athletics,1500m men
+0,CAN,percy williams,21.800,Amsterdam 1928,Athletics,200m men
+1,GBR,walter rangeley,21.900,Amsterdam 1928,Athletics,200m men
+2,GER,helmuth körnig,21.900,Amsterdam 1928,Athletics,200m men
+3,USA,jackson scholz,21.900,Amsterdam 1928,Athletics,200m men
+4,CAN,john r. fitzpatrick,22.100,Amsterdam 1928,Athletics,200m men
+5,GER,jakob schüller,22.200,Amsterdam 1928,Athletics,200m men
+6,RSA,wilfred b. legg,,Amsterdam 1928,Athletics,200m men
+7,CAN,george black hester,,Amsterdam 1928,Athletics,200m men
+8,YUG,dragoš stevanović,Did not start,Amsterdam 1928,Athletics,200m men
+9,CHI,rodolfo wagner,Did not start,Amsterdam 1928,Athletics,200m men
+10,HUN,istván sugár,Did not start,Amsterdam 1928,Athletics,200m men
+11,CUB,josé eduardo barrientos schweyer,Did not start,Amsterdam 1928,Athletics,200m men
+12,ESP,fernando munagorri alcorta,Did not start,Amsterdam 1928,Athletics,200m men
+13,LUX,robert codrons,Did not start,Amsterdam 1928,Athletics,200m men
+14,ESP,enrique de chavarri y rodriguez-codes,Did not start,Amsterdam 1928,Athletics,200m men
+15,NED,wim hendrik hennings,Did not start,Amsterdam 1928,Athletics,200m men
+16,HUN,istván raggambi,Did not start,Amsterdam 1928,Athletics,200m men
+17,FIN,reijo edvard halme,Did not start,Amsterdam 1928,Athletics,200m men
+18,SUI,willy tschopp,Did not start,Amsterdam 1928,Athletics,200m men
+19,GRE,vasilios stavrinos,Did not start,Amsterdam 1928,Athletics,200m men
+20,NOR,fritz krogh nielsen,Did not start,Amsterdam 1928,Athletics,200m men
+21,GER,friedrich-wilhelm wichmann,Did not start,Amsterdam 1928,Athletics,200m men
+22,ARG,eduardo albe,Did not start,Amsterdam 1928,Athletics,200m men
+23,HUN,janos paizs,Did not start,Amsterdam 1928,Athletics,200m men
+24,NZL,arthur porritt,Did not start,Amsterdam 1928,Athletics,200m men
+25,GRE,emmanuel gneftos,Did not start,Amsterdam 1928,Athletics,200m men
+26,LUX,georges schmit,Did not start,Amsterdam 1928,Athletics,200m men
+0,FIN,toivo aarne loukola,00:09:21.800,Amsterdam 1928,Athletics,3000m steeplechase men
+1,FIN,paavo nurmi,00:09:31.200,Amsterdam 1928,Athletics,3000m steeplechase men
+2,FIN,ove andersen,00:09:35.600,Amsterdam 1928,Athletics,3000m steeplechase men
+3,SWE,nils e. eklöf,00:09:38.000,Amsterdam 1928,Athletics,3000m steeplechase men
+4,FRA,henri dartigues,00:09:40.000,Amsterdam 1928,Athletics,3000m steeplechase men
+5,FRA,lucien léon duquesne,00:09:40.500,Amsterdam 1928,Athletics,3000m steeplechase men
+6,USA,melvin j. dalton,,Amsterdam 1928,Athletics,3000m steeplechase men
+7,USA,william octavius spencer,,Amsterdam 1928,Athletics,3000m steeplechase men
+8,FIN,ville ritola,Did not finish,Amsterdam 1928,Athletics,3000m steeplechase men
+9,IRL,gerry coughlan,,Amsterdam 1928,Athletics,3000m steeplechase men
+10,FRA,maurice norland,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+11,IND,gurbachan singh,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+12,FRA,paul bontemps,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+13,SWE,edvin wide,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+14,CAN,billy kibblewhite,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+15,CAN,vincent callard,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+16,TCH,josef nemecky,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+17,AUS,george r. hyde,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+18,CAN,david griffin,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+19,SUI,eugène bec,Did not start,Amsterdam 1928,Athletics,3000m steeplechase men
+0,GBR,david george burghley,53.400,Amsterdam 1928,Athletics,400m hurdles men
+1,USA,frank josef cuhel,53.600,Amsterdam 1928,Athletics,400m hurdles men
+2,USA,frederick morgan taylor,53.600,Amsterdam 1928,Athletics,400m hurdles men
+3,SWE,sten pettersson,53.800,Amsterdam 1928,Athletics,400m hurdles men
+4,GBR,thomas livingston-learmonth,54.200,Amsterdam 1928,Athletics,400m hurdles men
+5,ITA,luigi facelli,55.800,Amsterdam 1928,Athletics,400m hurdles men
+6,FRA,pierre arnaudin,,Amsterdam 1928,Athletics,400m hurdles men
+7,TCH,ladislav dostál,Did not start,Amsterdam 1928,Athletics,400m hurdles men
+8,GRE,emmanuel gneftos,Did not start,Amsterdam 1928,Athletics,400m hurdles men
+9,RSA,aubrey spragge burton-durham,Did not start,Amsterdam 1928,Athletics,400m hurdles men
+10,ROU,virgil ioan,Did not start,Amsterdam 1928,Athletics,400m hurdles men
+11,BEL,emile binet,Did not start,Amsterdam 1928,Athletics,400m hurdles men
+12,FRA,pierre dinard,Did not start,Amsterdam 1928,Athletics,400m hurdles men
+13,JPN,yoshio miki,Did not start,Amsterdam 1928,Athletics,400m hurdles men
+14,NOR,conrad hauge,Did not start,Amsterdam 1928,Athletics,400m hurdles men
+0,USA,raymond james barbuti,47.800,Amsterdam 1928,Athletics,400m men
+1,CAN,james a. ball,48.000,Amsterdam 1928,Athletics,400m men
+2,GER,joachim büchner,48.200,Amsterdam 1928,Athletics,400m men
+3,GBR,john william joslin rinkel,48.400,Amsterdam 1928,Athletics,400m men
+4,GER,harry storz,48.800,Amsterdam 1928,Athletics,400m men
+5,USA,hermon phillips,49.000,Amsterdam 1928,Athletics,400m men
+6,TCH,e. herdani,Did not start,Amsterdam 1928,Athletics,400m men
+7,RSA,howard kinsman,Did not start,Amsterdam 1928,Athletics,400m men
+8,IND,s. abdul hamid,Did not start,Amsterdam 1928,Athletics,400m men
+9,GRE,antonios mangos,Did not start,Amsterdam 1928,Athletics,400m men
+10,SWE,björn f. a. kugelberg,Did not start,Amsterdam 1928,Athletics,400m men
+11,RSA,wilfred b. legg,Did not start,Amsterdam 1928,Athletics,400m men
+12,FIN,erkka wilén,Did not start,Amsterdam 1928,Athletics,400m men
+13,ITA,guido cominotto,Did not start,Amsterdam 1928,Athletics,400m men
+14,GRE,nikolaos papanikolaou,Did not start,Amsterdam 1928,Athletics,400m men
+15,FIN,arvo lindroos,Did not start,Amsterdam 1928,Athletics,400m men
+16,JPN,iwao aizawa,Did not start,Amsterdam 1928,Athletics,400m men
+17,NOR,hjalmar johannesen,Did not start,Amsterdam 1928,Athletics,400m men
+18,TUR,ömer besim koşalay,Did not start,Amsterdam 1928,Athletics,400m men
+19,NOR,fritz krogh nielsen,Did not start,Amsterdam 1928,Athletics,400m men
+20,POR,antónio dias,Did not start,Amsterdam 1928,Athletics,400m men
+21,RSA,aubrey spragge burton-durham,Did not start,Amsterdam 1928,Athletics,400m men
+22,TCH,ladislav dostál,Did not start,Amsterdam 1928,Athletics,400m men
+23,BEL,emile vercken,Did not start,Amsterdam 1928,Athletics,400m men
+24,SUI,paul-rené martin,Did not start,Amsterdam 1928,Athletics,400m men
+25,LUX,g. arnoldy,Did not start,Amsterdam 1928,Athletics,400m men
+26,SWE,bertil von wachenfeldt,Did not start,Amsterdam 1928,Athletics,400m men
+27,FIN,johan adolf matilainen,Did not start,Amsterdam 1928,Athletics,400m men
+28,YUG,marijan krajačić,Did not start,Amsterdam 1928,Athletics,400m men
+29,GRE,vangelis moiropoulos,Did not start,Amsterdam 1928,Athletics,400m men
+30,ITA,giacomo carlini,Did not start,Amsterdam 1928,Athletics,400m men
+0,,,41.000,Amsterdam 1928,Athletics,4x100m relay men
+1,,,41.200,Amsterdam 1928,Athletics,4x100m relay men
+2,,,41.800,Amsterdam 1928,Athletics,4x100m relay men
+3,,,42.000,Amsterdam 1928,Athletics,4x100m relay men
+4,,,42.600,Amsterdam 1928,Athletics,4x100m relay men
+5,,,DSQ,Amsterdam 1928,Athletics,4x100m relay men
+6,,,,Amsterdam 1928,Athletics,4x100m relay men
+7,,,Did not start,Amsterdam 1928,Athletics,4x100m relay men
+8,,,Did not start,Amsterdam 1928,Athletics,4x100m relay men
+9,,,Did not start,Amsterdam 1928,Athletics,4x100m relay men
+10,,,Did not start,Amsterdam 1928,Athletics,4x100m relay men
+11,,,Did not start,Amsterdam 1928,Athletics,4x100m relay men
+0,,,48.400,Amsterdam 1928,Athletics,4x100m relay women
+1,,,48.800,Amsterdam 1928,Athletics,4x100m relay women
+2,,,49.000,Amsterdam 1928,Athletics,4x100m relay women
+3,,,49.600,Amsterdam 1928,Athletics,4x100m relay women
+4,,,49.800,Amsterdam 1928,Athletics,4x100m relay women
+5,,,53.600,Amsterdam 1928,Athletics,4x100m relay women
+0,,,00:03:14.200,Amsterdam 1928,Athletics,4x400m relay men
+1,,,00:03:14.800,Amsterdam 1928,Athletics,4x400m relay men
+2,,,00:03:15.400,Amsterdam 1928,Athletics,4x400m relay men
+3,,,00:03:15.800,Amsterdam 1928,Athletics,4x400m relay men
+4,,,00:03:16.400,Amsterdam 1928,Athletics,4x400m relay men
+5,,,00:03:19.400,Amsterdam 1928,Athletics,4x400m relay men
+6,,,Did not start,Amsterdam 1928,Athletics,4x400m relay men
+7,,,Did not start,Amsterdam 1928,Athletics,4x400m relay men
+8,,,Did not start,Amsterdam 1928,Athletics,4x400m relay men
+0,FIN,ville ritola,00:14:38.000,Amsterdam 1928,Athletics,5000m men
+1,FIN,paavo nurmi,00:14:40.000,Amsterdam 1928,Athletics,5000m men
+2,SWE,edvin wide,00:14:41.200,Amsterdam 1928,Athletics,5000m men
+3,USA,leo lermond,00:14:50.000,Amsterdam 1928,Athletics,5000m men
+4,SWE,k. ragnar magnusson,00:14:59.600,Amsterdam 1928,Athletics,5000m men
+5,FIN,armas rikkarti kinnunen,00:15:02.000,Amsterdam 1928,Athletics,5000m men
+6,LAT,staņislavs petkevičs,,Amsterdam 1928,Athletics,5000m men
+7,GBR,herbert arthur johnston,,Amsterdam 1928,Athletics,5000m men
+8,GBR,brian cecil vernon oddie,,Amsterdam 1928,Athletics,5000m men
+9,USA,john macauley l. smith,,Amsterdam 1928,Athletics,5000m men
+10,FIN,eino alfred purje,Did not finish,Amsterdam 1928,Athletics,5000m men
+11,SWE,nils e. eklöf,Did not finish,Amsterdam 1928,Athletics,5000m men
+12,CAN,billy kibblewhite,,Amsterdam 1928,Athletics,5000m men
+13,MEX,ciro chapa,,Amsterdam 1928,Athletics,5000m men
+14,NED,nol wolf,,Amsterdam 1928,Athletics,5000m men
+15,TCH,karel nedobity,,Amsterdam 1928,Athletics,5000m men
+16,USA,charles haworth,,Amsterdam 1928,Athletics,5000m men
+17,BEL,julien serwy,,Amsterdam 1928,Athletics,5000m men
+18,AUS,george r. hyde,,Amsterdam 1928,Athletics,5000m men
+19,CAN,art keay,,Amsterdam 1928,Athletics,5000m men
+20,NED,pieter gerbrands,,Amsterdam 1928,Athletics,5000m men
+21,IND,gurbachan singh,,Amsterdam 1928,Athletics,5000m men
+22,JPN,juichi nagatani,Did not start,Amsterdam 1928,Athletics,5000m men
+23,IND,d. b. chavan,Did not start,Amsterdam 1928,Athletics,5000m men
+24,YUG,jozé slapnicar,Did not start,Amsterdam 1928,Athletics,5000m men
+25,NOR,erling pedersen,Did not start,Amsterdam 1928,Athletics,5000m men
+26,HUN,elek szerb,Did not start,Amsterdam 1928,Athletics,5000m men
+27,JPN,seiichiro tsuda,Did not start,Amsterdam 1928,Athletics,5000m men
+28,NED,frédéric du hen,Did not start,Amsterdam 1928,Athletics,5000m men
+29,NOR,hans gundhus,Did not start,Amsterdam 1928,Athletics,5000m men
+30,POR,antónio almeida,Did not start,Amsterdam 1928,Athletics,5000m men
+31,FRA,jules ladoumegue,Did not start,Amsterdam 1928,Athletics,5000m men
+32,TUR,ch. b. mehmed bey,Did not start,Amsterdam 1928,Athletics,5000m men
+33,RSA,daniel rudolph jacobs,Did not start,Amsterdam 1928,Athletics,5000m men
+34,MON,robert masino,Did not start,Amsterdam 1928,Athletics,5000m men
+35,ARG,josé ribas,Did not start,Amsterdam 1928,Athletics,5000m men
+36,GRE,athanassios bekiaris,Did not start,Amsterdam 1928,Athletics,5000m men
+37,SWE,jean-gunnar lindgren,Did not start,Amsterdam 1928,Athletics,5000m men
+38,CAN,david griffin,Did not start,Amsterdam 1928,Athletics,5000m men
+39,ITA,luigi boero,Did not start,Amsterdam 1928,Athletics,5000m men
+40,EST,felix beldsinsky,Did not start,Amsterdam 1928,Athletics,5000m men
+0,GBR,douglas gordon lowe,00:01:51.800,Amsterdam 1928,Athletics,800m men
+1,SWE,erik bylehn,1:52.8e,Amsterdam 1928,Athletics,800m men
+2,GER,hermann engelhard,1:53.2e,Amsterdam 1928,Athletics,800m men
+3,CAN,philip edwards,1:53.4e,Amsterdam 1928,Athletics,800m men
+4,USA,lloyd hahn,1:53.5e,Amsterdam 1928,Athletics,800m men
+5,FRA,séraphin martin,1:53.6e,Amsterdam 1928,Athletics,800m men
+6,USA,earl a. fuller,1:55.0e,Amsterdam 1928,Athletics,800m men
+7,USA,raymond bates watson,1:56.5e,Amsterdam 1928,Athletics,800m men
+8,FRA,paul jean keller,1:57.0e,Amsterdam 1928,Athletics,800m men
+9,IRL,norman mceachern,,Amsterdam 1928,Athletics,800m men
+10,POR,antónio dias,Did not start,Amsterdam 1928,Athletics,800m men
+11,HUN,jozsef marton,Did not start,Amsterdam 1928,Athletics,800m men
+12,FIN,harri edvin larva,Did not start,Amsterdam 1928,Athletics,800m men
+13,RSA,daniel rudolph jacobs,Did not start,Amsterdam 1928,Athletics,800m men
+14,GRE,grigorios georgakopoulos,Did not start,Amsterdam 1928,Athletics,800m men
+15,FIN,matti korpela,Did not start,Amsterdam 1928,Athletics,800m men
+16,HUN,laszlo magdics,Did not start,Amsterdam 1928,Athletics,800m men
+17,LUX,g. arnoldy,Did not start,Amsterdam 1928,Athletics,800m men
+18,FIN,eino alfred purje,Did not start,Amsterdam 1928,Athletics,800m men
+19,GRE,l. passy,Did not start,Amsterdam 1928,Athletics,800m men
+20,YUG,ivan rittig,Did not start,Amsterdam 1928,Athletics,800m men
+21,FIN,frej liewendhal,Did not start,Amsterdam 1928,Athletics,800m men
+0,GER,karoline lina radke,00:02:16.800,Amsterdam 1928,Athletics,800m women
+1,JPN,kinue hitomi,00:02:17.600,Amsterdam 1928,Athletics,800m women
+2,SWE,inga k. gentzel,00:02:17.800,Amsterdam 1928,Athletics,800m women
+3,CAN,jenny thompson,00:02:21.400,Amsterdam 1928,Athletics,800m women
+4,CAN,bobby rosenfeld,00:02:22.400,Amsterdam 1928,Athletics,800m women
+5,USA,florence macdonald,00:02:22.600,Amsterdam 1928,Athletics,800m women
+6,GER,marie döllinger,00:02:23.000,Amsterdam 1928,Athletics,800m women
+7,POL,gertruda kilosowna,00:02:28.000,Amsterdam 1928,Athletics,800m women
+8,GER,elfriede wever,,Amsterdam 1928,Athletics,800m women
+9,BEL,betsy winandy,Did not start,Amsterdam 1928,Athletics,800m women
+10,BEL,j. devos,Did not start,Amsterdam 1928,Athletics,800m women
+11,FRA,lucienne laudre,Did not start,Amsterdam 1928,Athletics,800m women
+12,EST,sara teitelbaum,Did not start,Amsterdam 1928,Athletics,800m women
+13,FRA,louise bellon,Did not start,Amsterdam 1928,Athletics,800m women
+14,HUN,gizelle miskey,Did not start,Amsterdam 1928,Athletics,800m women
+15,SUI,suzanne devenoges,Did not start,Amsterdam 1928,Athletics,800m women
+0,FIN,paavo ilmari yrjölä,716.8,Amsterdam 1928,Athletics,decathlon men
+1,FIN,akiles eero johannes järvinen,666.4,Amsterdam 1928,Athletics,decathlon men
+2,USA,john kenneth doherty,656.8,Amsterdam 1928,Athletics,decathlon men
+3,USA,james daniel stewart,518.8,Amsterdam 1928,Athletics,decathlon men
+4,USA,thomas ralph churchill,650.8,Amsterdam 1928,Athletics,decathlon men
+5,SWE,helge jansson,458.8,Amsterdam 1928,Athletics,decathlon men
+6,AUT,ludwig wessely,698.8,Amsterdam 1928,Athletics,decathlon men
+7,SWE,albert andersson,715.6,Amsterdam 1928,Athletics,decathlon men
+8,SWE,henry lindblad,481.6,Amsterdam 1928,Athletics,decathlon men
+9,GER,wilhelm ladewig,728.8,Amsterdam 1928,Athletics,decathlon men
+10,GER,hugo barth,593.2,Amsterdam 1928,Athletics,decathlon men
+11,JPN,tatsuo toki,556.0,Amsterdam 1928,Athletics,decathlon men
+12,EST,johan meimer,523.6,Amsterdam 1928,Athletics,decathlon men
+13,SWE,sven lundgren,772.0,Amsterdam 1928,Athletics,decathlon men
+14,GER,erwin huber,704.8,Amsterdam 1928,Athletics,decathlon men
+15,FIN,martti lee topelius,712.0,Amsterdam 1928,Athletics,decathlon men
+16,USA,bernard ernst berlinger,269.2,Amsterdam 1928,Athletics,decathlon men
+17,POL,antoni cejzik,552.4,Amsterdam 1928,Athletics,decathlon men
+18,GER,hermann lemperle,731.2,Amsterdam 1928,Athletics,decathlon men
+19,GRE,stelios benardis,538.0,Amsterdam 1928,Athletics,decathlon men
+20,HUN,matyas farkas,,Amsterdam 1928,Athletics,decathlon men
+21,JPN,yonataro nakazawa,293.2,Amsterdam 1928,Athletics,decathlon men
+22,BEL,gaston etienne,672.4,Amsterdam 1928,Athletics,decathlon men
+23,YUG,branko kallay,316.0,Amsterdam 1928,Athletics,decathlon men
+24,BEL,rené joannes-powell,509.2,Amsterdam 1928,Athletics,decathlon men
+25,ROU,gheorghe csegezi,598.0,Amsterdam 1928,Athletics,decathlon men
+26,BEL,gérard michel noel,,Amsterdam 1928,Athletics,decathlon men
+27,IRL,con o'callaghan,Did not finish,Amsterdam 1928,Athletics,decathlon men
+28,GBR,howard ford,Did not finish,Amsterdam 1928,Athletics,decathlon men
+29,MON,gaston médécin,Did not finish,Amsterdam 1928,Athletics,decathlon men
+30,SUI,adolf meier,Did not finish,Amsterdam 1928,Athletics,decathlon men
+31,RSA,johannes hendrikus viljoen,Did not finish,Amsterdam 1928,Athletics,decathlon men
+32,ROU,ion haidu,Did not finish,Amsterdam 1928,Athletics,decathlon men
+33,NOR,gunnar fredriksen,Did not finish,Amsterdam 1928,Athletics,decathlon men
+34,NOR,gunnar hagen,Did not finish,Amsterdam 1928,Athletics,decathlon men
+35,RSA,george collinson weightman smith,Did not finish,Amsterdam 1928,Athletics,decathlon men
+36,FIN,armas ilmari wahlstedt,Did not finish,Amsterdam 1928,Athletics,decathlon men
+37,ROU,virgil ioan,Did not finish,Amsterdam 1928,Athletics,decathlon men
+38,FRA,gabriel sempe,Did not start,Amsterdam 1928,Athletics,decathlon men
+39,HAI,silvio m. cator,Did not start,Amsterdam 1928,Athletics,decathlon men
+40,HUN,elemer somfay,Did not start,Amsterdam 1928,Athletics,decathlon men
+41,FRA,georges r. krotoff,Did not start,Amsterdam 1928,Athletics,decathlon men
+42,JPN,mikio oda,Did not start,Amsterdam 1928,Athletics,decathlon men
+43,FRA,léon courtéjaire,Did not start,Amsterdam 1928,Athletics,decathlon men
+44,ITA,giacomo carlini,Did not start,Amsterdam 1928,Athletics,decathlon men
+45,RSA,harry balthazar hart,Did not start,Amsterdam 1928,Athletics,decathlon men
+46,FRA,géo andré,Did not start,Amsterdam 1928,Athletics,decathlon men
+0,USA,lemuel clarence houser,47.32,Amsterdam 1928,Athletics,discus throw men
+1,FIN,antero lauro kivi,47.23,Amsterdam 1928,Athletics,discus throw men
+2,USA,james hunt corson,47.1,Amsterdam 1928,Athletics,discus throw men
+3,NOR,harald stenerud,45.8,Amsterdam 1928,Athletics,discus throw men
+4,USA,john franklin anderson,44.87,Amsterdam 1928,Athletics,discus throw men
+5,FIN,eino johannes evert kenttä,44.17,Amsterdam 1928,Athletics,discus throw men
+6,GRE,georgios zakharopoulos,Did not start,Amsterdam 1928,Athletics,discus throw men
+7,FRA,léon courtéjaire,Did not start,Amsterdam 1928,Athletics,discus throw men
+8,POR,antónio cardoso,Did not start,Amsterdam 1928,Athletics,discus throw men
+9,FIN,paavo ilmari yrjölä,Did not start,Amsterdam 1928,Athletics,discus throw men
+10,HUN,pál toth,Did not start,Amsterdam 1928,Athletics,discus throw men
+11,FRA,daniel pierre,Did not start,Amsterdam 1928,Athletics,discus throw men
+12,YUG,vladimir manojilović,Did not start,Amsterdam 1928,Athletics,discus throw men
+13,MEX,alfonso de gortari,Did not start,Amsterdam 1928,Athletics,discus throw men
+14,LAT,vilhelms rozenbergs,Did not start,Amsterdam 1928,Athletics,discus throw men
+15,NED,a. nollen,Did not start,Amsterdam 1928,Athletics,discus throw men
+0,POL,halina konopacka,39.62,Amsterdam 1928,Athletics,discus throw women
+1,USA,lillian copeland,37.08,Amsterdam 1928,Athletics,discus throw women
+2,SWE,ruth a. svedberg,35.92,Amsterdam 1928,Athletics,discus throw women
+3,GER,mathilde emilie reuter,35.86,Amsterdam 1928,Athletics,discus throw women
+4,GER,greta heublein,35.56,Amsterdam 1928,Athletics,discus throw women
+5,AUT,elisabeth perkaus,33.54,Amsterdam 1928,Athletics,discus throw women
+6,USA,maybelle reichardt,,Amsterdam 1928,Athletics,discus throw women
+7,POL,genowefa kobielska,,Amsterdam 1928,Athletics,discus throw women
+8,GER,charlotte mäder,,Amsterdam 1928,Athletics,discus throw women
+9,FRA,lucienne velu,,Amsterdam 1928,Athletics,discus throw women
+10,NED,lena michaëlis,,Amsterdam 1928,Athletics,discus throw women
+11,GER,paula mollenhauer,,Amsterdam 1928,Athletics,discus throw women
+12,ITA,piera borsani,,Amsterdam 1928,Athletics,discus throw women
+13,LAT,elfrīda karlsone,,Amsterdam 1928,Athletics,discus throw women
+14,USA,rena macdonald,,Amsterdam 1928,Athletics,discus throw women
+15,HUN,erzebet ruda,,Amsterdam 1928,Athletics,discus throw women
+16,NED,bets j. dekens,,Amsterdam 1928,Athletics,discus throw women
+17,ROU,berta jikeli,,Amsterdam 1928,Athletics,discus throw women
+18,USA,margaret h. jenkins,,Amsterdam 1928,Athletics,discus throw women
+19,BEL,lucie georgette petit-diagre,,Amsterdam 1928,Athletics,discus throw women
+20,BEL,jenny toitgans,,Amsterdam 1928,Athletics,discus throw women
+21,JPN,kinue hitomi,Did not start,Amsterdam 1928,Athletics,discus throw women
+22,CAN,bobby rosenfeld,Did not start,Amsterdam 1928,Athletics,discus throw women
+23,LTU,marija pakarklytė,Did not start,Amsterdam 1928,Athletics,discus throw women
+24,BEL,josé paques,Did not start,Amsterdam 1928,Athletics,discus throw women
+25,BEL,sidonie verschueren,Did not start,Amsterdam 1928,Athletics,discus throw women
+26,TCH,vanda vodicková,Did not start,Amsterdam 1928,Athletics,discus throw women
+27,CAN,ethel catherwood,Did not start,Amsterdam 1928,Athletics,discus throw women
+28,EST,sara teitelbaum,Did not start,Amsterdam 1928,Athletics,discus throw women
+0,IRL,pat o'callaghan,51.39,Amsterdam 1928,Athletics,hammer throw men
+1,SWE,ossian e. skiöld,51.29,Amsterdam 1928,Athletics,hammer throw men
+2,USA,ed black,49.03,Amsterdam 1928,Athletics,hammer throw men
+3,ITA,armando poggioli,48.37,Amsterdam 1928,Athletics,hammer throw men
+4,USA,donald s. gwinn,47.15,Amsterdam 1928,Athletics,hammer throw men
+5,USA,frank norris connor,46.75,Amsterdam 1928,Athletics,hammer throw men
+6,YUG,ðuro gašpar,Did not start,Amsterdam 1928,Athletics,hammer throw men
+7,MEX,jesus aguirre delgado,Did not start,Amsterdam 1928,Athletics,hammer throw men
+8,NED,w. de heus,Did not start,Amsterdam 1928,Athletics,hammer throw men
+9,FIN,paavo hildén,Did not start,Amsterdam 1928,Athletics,hammer throw men
+10,FRA,robert saint-pe,Did not start,Amsterdam 1928,Athletics,hammer throw men
+11,FRA,louis raimbourg,Did not start,Amsterdam 1928,Athletics,hammer throw men
+12,FRA,pierre zaidin,Did not start,Amsterdam 1928,Athletics,hammer throw men
+13,FRA,charles lagarde,Did not start,Amsterdam 1928,Athletics,hammer throw men
+0,USA,robert wade king,1.94,Amsterdam 1928,Athletics,high jump men
+1,USA,benjamen van doren hedges,1.91,Amsterdam 1928,Athletics,high jump men
+2,FRA,claude charles menard,1.91,Amsterdam 1928,Athletics,high jump men
+3,PHI,simeon galvez toribio,1.91,Amsterdam 1928,Athletics,high jump men
+4,USA,harold marion osborn,1.91,Amsterdam 1928,Athletics,high jump men
+5,JPN,kazuo kimura,1.88,Amsterdam 1928,Athletics,high jump men
+6,FRA,andré cherrier,1.88,Amsterdam 1928,Athletics,high jump men
+7,FRA,pierre lewden,1.88,Amsterdam 1928,Athletics,high jump men
+8,JPN,mikio oda,1.88,Amsterdam 1928,Athletics,high jump men
+9,USA,charles english mcginnis,1.88,Amsterdam 1928,Athletics,high jump men
+10,GBR,henry augustus simmons,1.84,Amsterdam 1928,Athletics,high jump men
+11,GER,fritz köpke,1.84,Amsterdam 1928,Athletics,high jump men
+12,HUN,kornel kesmarki,1.84,Amsterdam 1928,Athletics,high jump men
+13,NOR,einar tommelstad,1.84,Amsterdam 1928,Athletics,high jump men
+14,SWE,herbert adolfsson,1.84,Amsterdam 1928,Athletics,high jump men
+15,GER,willi boneder,1.8,Amsterdam 1928,Athletics,high jump men
+16,GBR,colin ernest gordon,1.7,Amsterdam 1928,Athletics,high jump men
+17,GER,fritz huhn,1.7,Amsterdam 1928,Athletics,high jump men
+18,FIN,armas ilmari wahlstedt,,Amsterdam 1928,Athletics,high jump men
+19,CAN,alex w. munroe,,Amsterdam 1928,Athletics,high jump men
+20,TCH,štefán stanislau,Did not start,Amsterdam 1928,Athletics,high jump men
+21,SWE,ivan nilsson,Did not start,Amsterdam 1928,Athletics,high jump men
+22,RSA,johannes hendrikus viljoen,Did not start,Amsterdam 1928,Athletics,high jump men
+23,ITA,giuseppe palmieri,Did not start,Amsterdam 1928,Athletics,high jump men
+24,NED,w. f. scheffer,Did not start,Amsterdam 1928,Athletics,high jump men
+25,AUT,fritz umfahrer,Did not start,Amsterdam 1928,Athletics,high jump men
+26,FIN,iivari h. yrjölä,Did not start,Amsterdam 1928,Athletics,high jump men
+27,SWE,nils bergström,Did not start,Amsterdam 1928,Athletics,high jump men
+28,EST,evald roht,Did not start,Amsterdam 1928,Athletics,high jump men
+29,FRA,jean sabatier,Did not start,Amsterdam 1928,Athletics,high jump men
+30,NOR,gunnar hagen,Did not start,Amsterdam 1928,Athletics,high jump men
+31,YUG,karlo telesko,Did not start,Amsterdam 1928,Athletics,high jump men
+32,MEX,francisco costas,Did not start,Amsterdam 1928,Athletics,high jump men
+0,CAN,ethel catherwood,1.595,Amsterdam 1928,Athletics,high jump women
+1,NED,carolina anna gisolf,1.56,Amsterdam 1928,Athletics,high jump women
+2,USA,mildred olive wiley,1.56,Amsterdam 1928,Athletics,high jump women
+3,USA,jean shiley,1.51,Amsterdam 1928,Athletics,high jump women
+4,RSA,marjorie r. clark,1.48,Amsterdam 1928,Athletics,high jump women
+5,GER,helma notte,1.48,Amsterdam 1928,Athletics,high jump women
+6,GER,inge braumãœller,1.48,Amsterdam 1928,Athletics,high jump women
+7,USA,catherine maguire,1.48,Amsterdam 1928,Athletics,high jump women
+8,USA,marion holley,1.48,Amsterdam 1928,Athletics,high jump women
+9,BEL,léontine stevens,1.48,Amsterdam 1928,Athletics,high jump women
+10,FRA,hélène bons,1.45,Amsterdam 1928,Athletics,high jump women
+11,FRA,lucienne laudre,1.45,Amsterdam 1928,Athletics,high jump women
+12,SWE,birgitta a. a. adams-ray,1.45,Amsterdam 1928,Athletics,high jump women
+13,FRA,évelyne cloupet,1.4,Amsterdam 1928,Athletics,high jump women
+14,SWE,ann-margret ahlstrand,1.4,Amsterdam 1928,Athletics,high jump women
+15,BEL,sidonie verschueren,1.4,Amsterdam 1928,Athletics,high jump women
+16,BEL,elise van truyen,1.4,Amsterdam 1928,Athletics,high jump women
+17,GER,e. bonetsmüller,1.4,Amsterdam 1928,Athletics,high jump women
+18,NED,yvonne buisma,,Amsterdam 1928,Athletics,high jump women
+19,LAT,zinaida liepiņa,Did not start,Amsterdam 1928,Athletics,high jump women
+20,BEL,marie stevens,Did not start,Amsterdam 1928,Athletics,high jump women
+21,JPN,kinue hitomi,Did not start,Amsterdam 1928,Athletics,high jump women
+0,SWE,erik h. lundqvist,66.6,Amsterdam 1928,Athletics,javelin throw men
+1,HUN,bela szepes-strauch,65.26,Amsterdam 1928,Athletics,javelin throw men
+2,NOR,olav sunde,63.97,Amsterdam 1928,Athletics,javelin throw men
+3,FIN,paavo liettu,63.86,Amsterdam 1928,Athletics,javelin throw men
+4,GER,bruno schlokat,63.4,Amsterdam 1928,Athletics,javelin throw men
+5,FIN,eino penttila,63.2,Amsterdam 1928,Athletics,javelin throw men
+6,AUT,fritz umfahrer,Did not start,Amsterdam 1928,Athletics,javelin throw men
+7,HUN,lászló gyurko,Did not start,Amsterdam 1928,Athletics,javelin throw men
+8,FRA,paul diringer,Did not start,Amsterdam 1928,Athletics,javelin throw men
+9,ITA,alberto dominutti,Did not start,Amsterdam 1928,Athletics,javelin throw men
+10,FRA,arthur picard,Did not start,Amsterdam 1928,Athletics,javelin throw men
+11,SUI,arturo conturbia,Did not start,Amsterdam 1928,Athletics,javelin throw men
+12,FRA,simon angeli,Did not start,Amsterdam 1928,Athletics,javelin throw men
+13,CHI,arturo medina,Did not start,Amsterdam 1928,Athletics,javelin throw men
+14,HUN,anthony ghillany,Did not start,Amsterdam 1928,Athletics,javelin throw men
+15,EST,ervin tammans,Did not start,Amsterdam 1928,Athletics,javelin throw men
+0,USA,edward barton hamm,7.73,Amsterdam 1928,Athletics,long jump men
+1,HAI,silvio m. cator,7.58,Amsterdam 1928,Athletics,long jump men
+2,USA,alfred hilborn bates,7.4,Amsterdam 1928,Athletics,long jump men
+3,GER,willi meier,7.39,Amsterdam 1928,Athletics,long jump men
+4,GER,erich kochermann,7.35,Amsterdam 1928,Athletics,long jump men
+5,NED,hannes de boer,7.32,Amsterdam 1928,Athletics,long jump men
+6,AUS,anthony william winter,Did not start,Amsterdam 1928,Athletics,long jump men
+7,FIN,kaarlo werner jarvinen,Did not start,Amsterdam 1928,Athletics,long jump men
+8,AUS,walter harrison,Did not start,Amsterdam 1928,Athletics,long jump men
+9,RSA,sidney atkinson,Did not start,Amsterdam 1928,Athletics,long jump men
+10,FRA,robert loiseau,Did not start,Amsterdam 1928,Athletics,long jump men
+11,FIN,akiles eero johannes järvinen,Did not start,Amsterdam 1928,Athletics,long jump men
+12,FRA,pierre dinard,Did not start,Amsterdam 1928,Athletics,long jump men
+13,GRE,stelios benardis,Did not start,Amsterdam 1928,Athletics,long jump men
+14,HUN,elemer somfay,Did not start,Amsterdam 1928,Athletics,long jump men
+0,FRA,el ouafi bougueira,02:32:57.000,Amsterdam 1928,Athletics,marathon men
+1,CHI,manuel plaza reyes,02:33:23.000,Amsterdam 1928,Athletics,marathon men
+2,FIN,martti b. marttelin,02:35:02.000,Amsterdam 1928,Athletics,marathon men
+3,JPN,kanematsu yamada,02:35:29.000,Amsterdam 1928,Athletics,marathon men
+4,USA,joseph ray,02:36:04.000,Amsterdam 1928,Athletics,marathon men
+5,JPN,seiichiro tsuda,02:36:20.000,Amsterdam 1928,Athletics,marathon men
+6,FIN,yrjo korholin-koski,02:36:40.000,Amsterdam 1928,Athletics,marathon men
+7,GBR,samuel ferris,02:37:41.000,Amsterdam 1928,Athletics,marathon men
+8,USA,whitey michelsen,02:38:56.000,Amsterdam 1928,Athletics,marathon men
+9,CAN,cliff bricker,02:39:24.000,Amsterdam 1928,Athletics,marathon men
+10,GBR,harry wood,02:41:15.000,Amsterdam 1928,Athletics,marathon men
+11,FIN,verner johan laaksonen,02:41:35.000,Amsterdam 1928,Athletics,marathon men
+12,GBR,harry william payne,02:42:29.000,Amsterdam 1928,Athletics,marathon men
+13,FIN,eino rastas,02:43:08.000,Amsterdam 1928,Athletics,marathon men
+14,FIN,väinö jeremias sipilä,02:43:08.000,Amsterdam 1928,Athletics,marathon men
+15,TCH,alois krof,02:43:18.000,Amsterdam 1928,Athletics,marathon men
+16,CAN,john c. miles,02:43:32.000,Amsterdam 1928,Athletics,marathon men
+17,BEL,léon p. broers,02:44:37.000,Amsterdam 1928,Athletics,marathon men
+18,GER,hans ludwig stelges,02:45:27.000,Amsterdam 1928,Athletics,marathon men
+19,GBR,duncan macleod wright,02:45:30.000,Amsterdam 1928,Athletics,marathon men
+20,GBR,herb bignall,02:45:44.000,Amsterdam 1928,Athletics,marathon men
+21,GBR,ernest harper,02:45:44.000,Amsterdam 1928,Athletics,marathon men
+22,FRA,jean gérault,02:46:08.000,Amsterdam 1928,Athletics,marathon men
+23,FIN,ilmari kuokka,02:46:34.000,Amsterdam 1928,Athletics,marathon men
+24,SWE,gustav kinn,02:47:35.000,Amsterdam 1928,Athletics,marathon men
+25,CAN,silas mclellan,02:49:33.000,Amsterdam 1928,Athletics,marathon men
+26,USA,clarence harrison de mar,02:50:42.000,Amsterdam 1928,Athletics,marathon men
+27,FRA,marcel denis,02:51:15.000,Amsterdam 1928,Athletics,marathon men
+28,FRA,guillaume tell,02:51:18.000,Amsterdam 1928,Athletics,marathon men
+29,NED,henri h. landheer,02:51:59.000,Amsterdam 1928,Athletics,marathon men
+30,GER,paul hempel,02:52:01.000,Amsterdam 1928,Athletics,marathon men
+31,MEX,aurelio terrazas,02:52:22.000,Amsterdam 1928,Athletics,marathon men
+32,TCH,frantisek zyka,02:52:42.000,Amsterdam 1928,Athletics,marathon men
+33,ITA,giuseppe ferrera,02:53:10.000,Amsterdam 1928,Athletics,marathon men
+34,MEX,josé torres,02:54:00.000,Amsterdam 1928,Athletics,marathon men
+35,NOR,johan stöa,02:54:15.000,Amsterdam 1928,Athletics,marathon men
+36,BEL,gérardus steurs,02:54:48.000,Amsterdam 1928,Athletics,marathon men
+37,LAT,arturs mottmillers,02:56:45.000,Amsterdam 1928,Athletics,marathon men
+38,USA,james p. henigan,02:56:50.000,Amsterdam 1928,Athletics,marathon men
+39,RSA,matthew steytler,02:57:21.000,Amsterdam 1928,Athletics,marathon men
+40,USA,harvey frick,02:57:24.000,Amsterdam 1928,Athletics,marathon men
+41,BEL,jean linssen,02:58:08.000,Amsterdam 1928,Athletics,marathon men
+42,CAN,frank hughes,02:58:12.000,Amsterdam 1928,Athletics,marathon men
+43,USA,william agee,02:58:50.000,Amsterdam 1928,Athletics,marathon men
+44,CAN,percival wyer,02:58:52.000,Amsterdam 1928,Athletics,marathon men
+45,GER,georg hörger,02:59:01.000,Amsterdam 1928,Athletics,marathon men
+46,GER,kurt schneider,02:59:36.000,Amsterdam 1928,Athletics,marathon men
+47,JPN,juichi nagatani,03:03:34.000,Amsterdam 1928,Athletics,marathon men
+48,HUN,jozsef galambos,03:05:58.000,Amsterdam 1928,Athletics,marathon men
+49,GER,paul gerhardt,03:09:30.000,Amsterdam 1928,Athletics,marathon men
+50,DEN,gottlieb bach,03:10:30.000,Amsterdam 1928,Athletics,marathon men
+51,ESP,emilio ferrer,03:11:05.000,Amsterdam 1928,Athletics,marathon men
+52,YUG,dimitrije stefanovic,03:11:35.000,Amsterdam 1928,Athletics,marathon men
+53,NED,joop vermeulen,03:13:47.000,Amsterdam 1928,Athletics,marathon men
+54,NED,pleun van leenen,03:14:37.000,Amsterdam 1928,Athletics,marathon men
+55,BEL,joseph charles marien,03:16:13.000,Amsterdam 1928,Athletics,marathon men
+56,NED,willem van der steen,03:19:53.000,Amsterdam 1928,Athletics,marathon men
+57,ITA,romeo bertini,Did not finish,Amsterdam 1928,Athletics,marathon men
+58,LAT,vilis cimmermanis,Did not finish,Amsterdam 1928,Athletics,marathon men
+59,ITA,attilio conton,Did not finish,Amsterdam 1928,Athletics,marathon men
+60,ROU,vintilă cristescu,Did not finish,Amsterdam 1928,Athletics,marathon men
+61,SWE,axel a. b. elofs,Did not finish,Amsterdam 1928,Athletics,marathon men
+62,NED,bram groeneweg,Did not finish,Amsterdam 1928,Athletics,marathon men
+63,EST,karl laas,Did not finish,Amsterdam 1928,Athletics,marathon men
+64,DEN,aksel christian madsen,Did not finish,Amsterdam 1928,Athletics,marathon men
+65,ITA,stefano natale,Did not finish,Amsterdam 1928,Athletics,marathon men
+66,NED,teun sprong,Did not finish,Amsterdam 1928,Athletics,marathon men
+67,GER,franz wanderer,Did not finish,Amsterdam 1928,Athletics,marathon men
+68,DEN,hans orla emil olsen,Did not finish,Amsterdam 1928,Athletics,marathon men
+69,DEN,holger henry nielsen,Did not start,Amsterdam 1928,Athletics,marathon men
+70,CAN,harold webster,Did not start,Amsterdam 1928,Athletics,marathon men
+71,CHI,o. molina,Did not start,Amsterdam 1928,Athletics,marathon men
+72,ESP,dionisio carreras,Did not start,Amsterdam 1928,Athletics,marathon men
+73,FRA,léon nicolas,Did not start,Amsterdam 1928,Athletics,marathon men
+74,FRA,seghir beddari,Did not start,Amsterdam 1928,Athletics,marathon men
+75,LAT,karlis bukass,Did not start,Amsterdam 1928,Athletics,marathon men
+76,HUN,pal kiraly,Did not start,Amsterdam 1928,Athletics,marathon men
+77,HUN,antal lovas,Did not start,Amsterdam 1928,Athletics,marathon men
+78,TCH,karel šťastný,Did not start,Amsterdam 1928,Athletics,marathon men
+0,USA,sabin william carr,4.2,Amsterdam 1928,Athletics,pole vault men
+1,USA,william herbert droegemueller,4.1,Amsterdam 1928,Athletics,pole vault men
+2,USA,charles english mcginnis,3.95,Amsterdam 1928,Athletics,pole vault men
+3,CAN,victor w. pickard,3.95,Amsterdam 1928,Athletics,pole vault men
+4,USA,lee barnes,3.95,Amsterdam 1928,Athletics,pole vault men
+5,JPN,yonataro nakazawa,3.9,Amsterdam 1928,Athletics,pole vault men
+6,SWE,henry lindblad,3.9,Amsterdam 1928,Athletics,pole vault men
+7,HUN,janos karlovits,3.8,Amsterdam 1928,Athletics,pole vault men
+8,GER,julius müller,3.65,Amsterdam 1928,Athletics,pole vault men
+9,BEL,rené joannes-powell,,Amsterdam 1928,Athletics,pole vault men
+10,FRA,pierre ramadier,,Amsterdam 1928,Athletics,pole vault men
+11,FRA,robert vintousky,,Amsterdam 1928,Athletics,pole vault men
+12,GRE,argyris karagiannis,,Amsterdam 1928,Athletics,pole vault men
+13,FIN,väinö salo,Did not start,Amsterdam 1928,Athletics,pole vault men
+14,HUN,dezső hadhazy,Did not start,Amsterdam 1928,Athletics,pole vault men
+15,FRA,maurice vautier,Did not start,Amsterdam 1928,Athletics,pole vault men
+16,FRA,marcel muzard,Did not start,Amsterdam 1928,Athletics,pole vault men
+17,MEX,alfonso de gortari,Did not start,Amsterdam 1928,Athletics,pole vault men
+18,NOR,arne petersen,Did not start,Amsterdam 1928,Athletics,pole vault men
+19,AUT,raimund held,Did not start,Amsterdam 1928,Athletics,pole vault men
+20,YUG,peroslav ferkovic,Did not start,Amsterdam 1928,Athletics,pole vault men
+21,JPN,mikio oda,Did not start,Amsterdam 1928,Athletics,pole vault men
+22,HUN,frigyes hevizi,Did not start,Amsterdam 1928,Athletics,pole vault men
+23,HUN,istván király,Did not start,Amsterdam 1928,Athletics,pole vault men
+24,EST,ervin tammans,Did not start,Amsterdam 1928,Athletics,pole vault men
+25,NED,tjeerd pasma,Did not start,Amsterdam 1928,Athletics,pole vault men
+26,DEN,martin ernst larsen,Did not start,Amsterdam 1928,Athletics,pole vault men
+27,ITA,danilo innocenti,Did not start,Amsterdam 1928,Athletics,pole vault men
+0,USA,john h. kuck,15.87,Amsterdam 1928,Athletics,shot put men
+1,USA,herman harold brix,15.75,Amsterdam 1928,Athletics,shot put men
+2,GER,emil hirschfeld,15.72,Amsterdam 1928,Athletics,shot put men
+3,USA,eric krenz,14.99,Amsterdam 1928,Athletics,shot put men
+4,FIN,armas ilmari wahlstedt,14.69,Amsterdam 1928,Athletics,shot put men
+5,GER,wilhelm uebler,14.69,Amsterdam 1928,Athletics,shot put men
+6,FIN,martti alarotu,Did not start,Amsterdam 1928,Athletics,shot put men
+7,GRE,georgios zakharopoulos,Did not start,Amsterdam 1928,Athletics,shot put men
+8,JPN,yonataro nakazawa,Did not start,Amsterdam 1928,Athletics,shot put men
+9,MON,gaston médécin,Did not start,Amsterdam 1928,Athletics,shot put men
+10,RSA,harry balthazar hart,Did not start,Amsterdam 1928,Athletics,shot put men
+11,HUN,kalman egri,Did not start,Amsterdam 1928,Athletics,shot put men
+12,HUN,peter bacsalmasi,Did not start,Amsterdam 1928,Athletics,shot put men
+13,LAT,vilhelms rozenbergs,Did not start,Amsterdam 1928,Athletics,shot put men
+14,FRA,émile rettig,Did not start,Amsterdam 1928,Athletics,shot put men
+15,POR,antónio cardoso,Did not start,Amsterdam 1928,Athletics,shot put men
+16,FIN,kaarlo werner jarvinen,Did not start,Amsterdam 1928,Athletics,shot put men
+17,JPN,yoshio okita,Did not start,Amsterdam 1928,Athletics,shot put men
+18,HUN,károly háhn,Did not start,Amsterdam 1928,Athletics,shot put men
+19,FRA,raymond drecq,Did not start,Amsterdam 1928,Athletics,shot put men
+20,YUG,karlo ambrozy,Did not start,Amsterdam 1928,Athletics,shot put men
+21,POL,jozef baran,Did not start,Amsterdam 1928,Athletics,shot put men
+0,JPN,mikio oda,15.21,Amsterdam 1928,Athletics,triple jump men
+1,USA,lee casey,15.17,Amsterdam 1928,Athletics,triple jump men
+2,FIN,vilho immanuel tuulos,15.11,Amsterdam 1928,Athletics,triple jump men
+3,JPN,chuhei nanbu,15.01,Amsterdam 1928,Athletics,triple jump men
+4,FIN,toimi tulikoura,14.7,Amsterdam 1928,Athletics,triple jump men
+5,FIN,erkki järvinen,14.65,Amsterdam 1928,Athletics,triple jump men
+6,HUN,béla bottlik,Did not start,Amsterdam 1928,Athletics,triple jump men
+7,FRA,andré clayeux,Did not start,Amsterdam 1928,Athletics,triple jump men
+8,FRA,jacques flouret,Did not start,Amsterdam 1928,Athletics,triple jump men
+9,YUG,zdravka jakupić,Did not start,Amsterdam 1928,Athletics,triple jump men
+10,NOR,gunnar fredriksen,Did not start,Amsterdam 1928,Athletics,triple jump men
+11,GRE,stelios benardis,Did not start,Amsterdam 1928,Athletics,triple jump men
+12,IND,dalip singh,Did not start,Amsterdam 1928,Athletics,triple jump men
+13,HUN,elemer somfay,Did not start,Amsterdam 1928,Athletics,triple jump men
+14,FRA,paul couillaud,Did not start,Amsterdam 1928,Athletics,triple jump men
+15,FRA,andré mourlon,Did not start,Amsterdam 1928,Athletics,triple jump men
+16,SWE,eric svensson,Did not start,Amsterdam 1928,Athletics,triple jump men

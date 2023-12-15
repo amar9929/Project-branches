@@ -1,0 +1,734 @@
+,country,participant,result,olympic_game,discipline,event
+0,FIN,lasse artturi virén,00:27:38.350,Munich 1972,Athletics,10000m men
+1,BEL,emiel puttemans,00:27:39.580,Munich 1972,Athletics,10000m men
+2,ETH,miruts yifter,00:27:40.960,Munich 1972,Athletics,10000m men
+3,ESP,mariano haro cisneros,00:27:48.140,Munich 1972,Athletics,10000m men
+4,USA,frank charles shorter,00:27:51.320,Munich 1972,Athletics,10000m men
+5,GBR,david colin bedford,00:28:05.440,Munich 1972,Athletics,10000m men
+6,YUG,daniel korica,00:28:15.180,Munich 1972,Athletics,10000m men
+7,TUN,abdel kader zaddem,00:28:18.170,Munich 1972,Athletics,10000m men
+8,TCH,josef jansky,00:28:23.590,Munich 1972,Athletics,10000m men
+9,MEX,juan maximo martinez,00:28:44.080,Munich 1972,Athletics,10000m men
+10,URS,pavlo andreiev,00:28:46.270,Munich 1972,Athletics,10000m men
+11,ESP,javier alvarez salgado,00:28:56.380,Munich 1972,Athletics,10000m men
+12,KEN,paul mose,00:29:02.870,Munich 1972,Athletics,10000m men
+13,BEL,willy polleunis,00:29:10.150,Munich 1972,Athletics,10000m men
+14,TUN,mohamed gammoudi,Did not finish,Munich 1972,Athletics,10000m men
+15,FIJ,usaia sotutu,,Munich 1972,Athletics,10000m men
+16,FRG,günther mielke,,Munich 1972,Athletics,10000m men
+17,SWZ,richard mabusa,,Munich 1972,Athletics,10000m men
+18,HAI,anilus joseph,,Munich 1972,Athletics,10000m men
+19,NZL,gavin thorley,,Munich 1972,Athletics,10000m men
+20,SOM,abdi gulet,Did not start,Munich 1972,Athletics,10000m men
+21,CHI,edmundo warnke,Did not start,Munich 1972,Athletics,10000m men
+22,FIN,juha väätainen,Did not start,Munich 1972,Athletics,10000m men
+23,NOR,per halle,Did not start,Munich 1972,Athletics,10000m men
+0,GDR,annelie ehrhardt,12.590,Munich 1972,Athletics,100m hurdles women
+1,ROU,valeria bufanu-stefanescu,12.840,Munich 1972,Athletics,100m hurdles women
+2,GDR,karin richert-balzer,12.900,Munich 1972,Athletics,100m hurdles women
+3,AUS,pam kilborn-ryan,12.980,Munich 1972,Athletics,100m hurdles women
+4,POL,teresa nowak,13.170,Munich 1972,Athletics,100m hurdles women
+5,POL,danuta straszynska,13.180,Munich 1972,Athletics,100m hurdles women
+6,GDR,annerose krumpholz,13.270,Munich 1972,Athletics,100m hurdles women
+7,POL,grazyna rabsztyn,13.440,Munich 1972,Athletics,100m hurdles women
+8,SUI,meta antenen,,Munich 1972,Athletics,100m hurdles women
+9,GBR,mary peters,Did not start,Munich 1972,Athletics,100m hurdles women
+10,PER,edith noding,Did not start,Munich 1972,Athletics,100m hurdles women
+0,URS,valeriy borzov,10.140,Munich 1972,Athletics,100m men
+1,USA,robert taylor,10.240,Munich 1972,Athletics,100m men
+2,JAM,lennox miller,10.330,Munich 1972,Athletics,100m men
+3,URS,aleksandr kornelyuk,10.360,Munich 1972,Athletics,100m men
+4,JAM,mike fray,10.400,Munich 1972,Athletics,100m men
+5,FRG,jobst hirscht,10.400,Munich 1972,Athletics,100m men
+6,POL,zenon nowosz,10.460,Munich 1972,Athletics,100m men
+7,TTO,hasely crawford,Did not finish,Munich 1972,Athletics,100m men
+8,TOG,robert aregba,Did not start,Munich 1972,Athletics,100m men
+9,CIV,gahoussou kone,Did not start,Munich 1972,Athletics,100m men
+10,CUB,pablo montes casanova,Did not start,Munich 1972,Athletics,100m men
+11,CUB,hermes julian ramirez limonta,Did not start,Munich 1972,Athletics,100m men
+12,THA,anat ratanapol,Did not start,Munich 1972,Athletics,100m men
+0,GDR,renate stecher,11.070,Munich 1972,Athletics,100m women
+1,AUS,raelene ann boyle,11.230,Munich 1972,Athletics,100m women
+2,CUB,silvia chivas baro,11.240,Munich 1972,Athletics,100m women
+3,USA,iris la verne davis,11.320,Munich 1972,Athletics,100m women
+4,FRG,annegret richter,11.380,Munich 1972,Athletics,100m women
+5,GHA,alice annum,11.410,Munich 1972,Athletics,100m women
+6,USA,barbara ann ferrell,11.450,Munich 1972,Athletics,100m women
+7,TCH,eva lehocka-gleskova,12.480,Munich 1972,Athletics,100m women
+8,URS,nadezhda besfamilnaya,Did not start,Munich 1972,Athletics,100m women
+0,USA,rodney jr. milburn,13.240,Munich 1972,Athletics,110m hurdles men
+1,FRA,guy drut,13.340,Munich 1972,Athletics,110m hurdles men
+2,USA,thomas hill,13.480,Munich 1972,Athletics,110m hurdles men
+3,USA,willie davenport,13.500,Munich 1972,Athletics,110m hurdles men
+4,GDR,frank siebeck,13.710,Munich 1972,Athletics,110m hurdles men
+5,POL,leszek wodzynski,13.720,Munich 1972,Athletics,110m hurdles men
+6,TCH,lubomir nadenicek,13.760,Munich 1972,Athletics,110m hurdles men
+7,TCH,petr čech,13.860,Munich 1972,Athletics,110m hurdles men
+8,ITA,giuseppe buttari,,Munich 1972,Athletics,110m hurdles men
+9,CUB,alejandro casañas,,Munich 1972,Athletics,110m hurdles men
+0,FIN,pekka vasala,00:03:36.330,Munich 1972,Athletics,1500m men
+1,KEN,kipchoge keino,00:03:36.810,Munich 1972,Athletics,1500m men
+2,NZL,rodney dixon,00:03:37.460,Munich 1972,Athletics,1500m men
+3,KEN,mike boit,00:03:38.410,Munich 1972,Athletics,1500m men
+4,GBR,brendan foster,00:03:39.020,Munich 1972,Athletics,1500m men
+5,BEL,herman mignon,00:03:39.050,Munich 1972,Athletics,1500m men
+6,FRG,paul-heinz wellmann,00:03:40.080,Munich 1972,Athletics,1500m men
+7,URS,vladimir pantelei,00:03:40.240,Munich 1972,Athletics,1500m men
+8,NZL,anthony polhill,00:03:41.800,Munich 1972,Athletics,1500m men
+9,DEN,tom birger hansen,00:03:46.600,Munich 1972,Athletics,1500m men
+10,NED,bram wassenaar,Did not start,Munich 1972,Athletics,1500m men
+11,FRA,robert leborgne,Did not start,Munich 1972,Athletics,1500m men
+12,LBN,kassem hamze,Did not start,Munich 1972,Athletics,1500m men
+13,URS,yevgeni arzhanov,Did not start,Munich 1972,Athletics,1500m men
+14,ZAM,benson mulomba,Did not start,Munich 1972,Athletics,1500m men
+0,URS,lyudmila bragina,00:04:01.380,Munich 1972,Athletics,1500m women
+1,GDR,gunhild hoffmeister,00:04:02.830,Munich 1972,Athletics,1500m women
+2,ITA,paola pigni-cacchi,00:04:02.850,Munich 1972,Athletics,1500m women
+3,GDR,karin burneleit,00:04:04.110,Munich 1972,Athletics,1500m women
+4,GBR,sheila janet taylor-carey,00:04:04.810,Munich 1972,Athletics,1500m women
+5,NED,ilja keizer-laman,00:04:05.130,Munich 1972,Athletics,1500m women
+6,URS,tamara pangelova,00:04:06.450,Munich 1972,Athletics,1500m women
+7,AUS,jennifer louise orr-mcconell,00:04:12.150,Munich 1972,Athletics,1500m women
+8,NED,bernardina boxem-lenferink,00:04:13.100,Munich 1972,Athletics,1500m women
+9,HUN,magdolna kulcsar-rozsa,,Munich 1972,Athletics,1500m women
+10,LBN,arda kalpakian,Did not start,Munich 1972,Athletics,1500m women
+11,USA,doris elaine brown,Did not start,Munich 1972,Athletics,1500m women
+0,URS,valeriy borzov,20.000,Munich 1972,Athletics,200m men
+1,USA,lawrence j. black,20.190,Munich 1972,Athletics,200m men
+2,ITA,pietro mennea,20.300,Munich 1972,Athletics,200m men
+3,USA,lawrence godfrey burton,20.370,Munich 1972,Athletics,200m men
+4,USA,charles kenneth smith,20.550,Munich 1972,Athletics,200m men
+5,GDR,siegfried schenke,20.560,Munich 1972,Athletics,200m men
+6,FRG,martin jellinghaus,20.650,Munich 1972,Athletics,200m men
+7,GDR,hans-joachim zenk,21.050,Munich 1972,Athletics,200m men
+8,JAM,donald quarrie,,Munich 1972,Athletics,200m men
+9,GHA,james aryee addy,,Munich 1972,Athletics,200m men
+10,SUR,samuel monsels,,Munich 1972,Athletics,200m men
+11,CHA,salem alah-djaba,,Munich 1972,Athletics,200m men
+12,PAR,rodolfo rieder,Did not start,Munich 1972,Athletics,200m men
+13,CAM,mao samphon,Did not start,Munich 1972,Athletics,200m men
+14,CAN,charlie francis,Did not start,Munich 1972,Athletics,200m men
+15,CIV,amadou méité,Did not start,Munich 1972,Athletics,200m men
+16,KUW,abdul aziz abdul kareem,Did not start,Munich 1972,Athletics,200m men
+17,MAD,jean-louis ravelomanantsoa,Did not start,Munich 1972,Athletics,200m men
+18,NGR,benedict majekodunmi,Did not start,Munich 1972,Athletics,200m men
+19,POL,zenon nowosz,Did not start,Munich 1972,Athletics,200m men
+20,ZAM,larmeck mukonde,Did not start,Munich 1972,Athletics,200m men
+0,GDR,renate stecher,22.400,Munich 1972,Athletics,200m women
+1,AUS,raelene ann boyle,22.450,Munich 1972,Athletics,200m women
+2,POL,irena szewińska,22.740,Munich 1972,Athletics,200m women
+3,GDR,ellen stropahl-streidt,22.750,Munich 1972,Athletics,200m women
+4,FRG,annegret kroniger,22.890,Munich 1972,Athletics,200m women
+5,GDR,christina heinich,22.890,Munich 1972,Athletics,200m women
+6,GHA,alice annum,22.990,Munich 1972,Athletics,200m women
+7,JAM,rose allwood,23.110,Munich 1972,Athletics,200m women
+8,BAH,claudette karen powell,Did not start,Munich 1972,Athletics,200m women
+9,CUB,silvia chivas baro,Did not start,Munich 1972,Athletics,200m women
+10,CUB,carmen valdes capote,Did not start,Munich 1972,Athletics,200m women
+11,TCH,eva lehocka-gleskova,Did not start,Munich 1972,Athletics,200m women
+0,GDR,peter frenkel,01:26:42.400,Munich 1972,Athletics,20km walk men
+1,URS,vladimir golubnichy,01:26:55.200,Munich 1972,Athletics,20km walk men
+2,GDR,hans reimann,01:27:16.600,Munich 1972,Athletics,20km walk men
+3,GDR,gerhard sperling,01:27:55.000,Munich 1972,Athletics,20km walk men
+4,URS,nikolay smaga,01:28:16.600,Munich 1972,Athletics,20km walk men
+5,GBR,paul vincent nihill,01:28:44.400,Munich 1972,Athletics,20km walk men
+6,POL,jan ornoch,01:32:01.600,Munich 1972,Athletics,20km walk men
+7,ITA,vittorio visini,01:32:30.000,Munich 1972,Athletics,20km walk men
+8,MEX,jose oliveros de la torre,01:32:40.600,Munich 1972,Athletics,20km walk men
+9,USA,lawrence dean young,01:32:53.400,Munich 1972,Athletics,20km walk men
+10,NOR,jan arvid rolstad,01:33:03.200,Munich 1972,Athletics,20km walk men
+11,MEX,pedro aroche,01:33:05.000,Munich 1972,Athletics,20km walk men
+12,FRG,heinz mayr,01:33:13.800,Munich 1972,Athletics,20km walk men
+13,GBR,philip bruce embleton,01:33:22.200,Munich 1972,Athletics,20km walk men
+14,USA,thomas robert dooley,01:34:58.800,Munich 1972,Athletics,20km walk men
+15,FRG,wilfried wesch,01:35:20.600,Munich 1972,Athletics,20km walk men
+16,GBR,peter frederick marlow,01:35:38.800,Munich 1972,Athletics,20km walk men
+17,LUX,charel sowa,01:36:23.800,Munich 1972,Athletics,20km walk men
+18,USA,goetz heinrich klopfer,01:38:33.600,Munich 1972,Athletics,20km walk men
+19,ETH,hunde tore,01:43:11.600,Munich 1972,Athletics,20km walk men
+20,NCA,esteban valle,01:45:09.400,Munich 1972,Athletics,20km walk men
+21,MEX,ismael ávila,01:45:45.400,Munich 1972,Athletics,20km walk men
+22,FRG,bernd kannenberg,Did not finish,Munich 1972,Athletics,20km walk men
+23,URS,yevgeny ivchenko,Disqualified,Munich 1972,Athletics,20km walk men
+24,POL,tadeusz gorzechowski,Did not start,Munich 1972,Athletics,20km walk men
+25,ITA,fernando ielli,Did not start,Munich 1972,Athletics,20km walk men
+26,BUL,aram levonian,Did not start,Munich 1972,Athletics,20km walk men
+27,ITA,oscar barletta,Did not start,Munich 1972,Athletics,20km walk men
+28,HUN,janos dalmati,Did not start,Munich 1972,Athletics,20km walk men
+29,HUN,antal kiss,Did not start,Munich 1972,Athletics,20km walk men
+30,ISR,shaul ladany,Did not start,Munich 1972,Athletics,20km walk men
+31,NOR,kjell georg lund,Did not start,Munich 1972,Athletics,20km walk men
+32,SWE,daniel bjorkgren,Did not start,Munich 1972,Athletics,20km walk men
+33,SWE,stefan ingvarsson,Did not start,Munich 1972,Athletics,20km walk men
+34,SWE,hans tenggren,Did not start,Munich 1972,Athletics,20km walk men
+0,KEN,kipchoge keino,00:08:23.640,Munich 1972,Athletics,3000m steeplechase men
+1,KEN,benjamin wabura jipcho,00:08:24.620,Munich 1972,Athletics,3000m steeplechase men
+2,FIN,tapio kantanen,00:08:24.660,Munich 1972,Athletics,3000m steeplechase men
+3,POL,bronislaw malinowski,00:08:27.920,Munich 1972,Athletics,3000m steeplechase men
+4,TCH,dusan moravcik,00:08:29.060,Munich 1972,Athletics,3000m steeplechase men
+5,KEN,amos kipwabok biwott,00:08:33.480,Munich 1972,Athletics,3000m steeplechase men
+6,URS,romualdas bitė,00:08:34.640,Munich 1972,Athletics,3000m steeplechase men
+7,FIN,pekka johannes paivarinta,00:08:37.170,Munich 1972,Athletics,3000m steeplechase men
+8,JPN,takaharu koyama,00:08:37.660,Munich 1972,Athletics,3000m steeplechase men
+9,FIN,mikko juhani ala-leppilampi,00:08:41.030,Munich 1972,Athletics,3000m steeplechase men
+10,FRA,jean-paul villain,00:08:46.720,Munich 1972,Athletics,3000m steeplechase men
+11,BUL,mihail zhelev,00:09:02.590,Munich 1972,Athletics,3000m steeplechase men
+12,AUS,kerry o'brien,,Munich 1972,Athletics,3000m steeplechase men
+0,UGA,john akii-bua,47.820,Munich 1972,Athletics,400m hurdles men
+1,USA,ralph vernon mann,48.510,Munich 1972,Athletics,400m hurdles men
+2,GBR,david peter hemery,48.520,Munich 1972,Athletics,400m hurdles men
+3,USA,james michael seymour,48.640,Munich 1972,Athletics,400m hurdles men
+4,FRG,rainer schubert,49.650,Munich 1972,Athletics,400m hurdles men
+5,GRE,stavros tziortzis,49.660,Munich 1972,Athletics,400m hurdles men
+6,URS,yevgeni gavrilenko,49.660,Munich 1972,Athletics,400m hurdles men
+7,URS,yuri zorin,50.250,Munich 1972,Athletics,400m hurdles men
+8,FRG,dieter wolfgang büttner,,Munich 1972,Athletics,400m hurdles men
+9,GDR,christian rudolph,,Munich 1972,Athletics,400m hurdles men
+10,GBR,john sherwood,,Munich 1972,Athletics,400m hurdles men
+11,PAR,francisco rojas soto,Did not start,Munich 1972,Athletics,400m hurdles men
+0,USA,vincent edward matthews,44.660,Munich 1972,Athletics,400m men
+1,USA,wayne curtis collett,44.800,Munich 1972,Athletics,400m men
+2,KEN,julius sang,44.920,Munich 1972,Athletics,400m men
+3,KEN,charles asati,45.130,Munich 1972,Athletics,400m men
+4,FRG,horst-rüdiger schlöske,45.310,Munich 1972,Athletics,400m men
+5,FIN,markku juhani kukkoaho,45.490,Munich 1972,Athletics,400m men
+6,FRG,karl honz,45.680,Munich 1972,Athletics,400m men
+7,USA,john walton smith,Did not finish,Munich 1972,Athletics,400m men
+8,BAR,caspar springer,,Munich 1972,Athletics,400m men
+9,ITA,marcello fiasconaro,Did not start,Munich 1972,Athletics,400m men
+10,SWE,michael fredriksson,Did not start,Munich 1972,Athletics,400m men
+11,COL,jimmy sierra,Did not start,Munich 1972,Athletics,400m men
+12,YUG,lucijano susanj,Did not start,Munich 1972,Athletics,400m men
+0,GDR,monika zehrt,51.080,Munich 1972,Athletics,400m women
+1,FRG,rita wilden-jahn,51.210,Munich 1972,Athletics,400m women
+2,USA,kathleen hammond,51.640,Munich 1972,Athletics,400m women
+3,GDR,helga seidler,51.860,Munich 1972,Athletics,400m women
+4,USA,mabel fergerson,51.960,Munich 1972,Athletics,400m women
+5,AUS,charlene louise rendina,51.990,Munich 1972,Athletics,400m women
+6,GDR,dagmar käsling,52.190,Munich 1972,Athletics,400m women
+7,HUN,györgyi balogh-szomov,52.390,Munich 1972,Athletics,400m women
+8,FRG,christel frese,,Munich 1972,Athletics,400m women
+9,AUT,christiane wildschek,Did not start,Munich 1972,Athletics,400m women
+0,,,38.190,Munich 1972,Athletics,4x100m relay men
+1,,,38.500,Munich 1972,Athletics,4x100m relay men
+2,,,38.790,Munich 1972,Athletics,4x100m relay men
+3,,,38.820,Munich 1972,Athletics,4x100m relay men
+4,,,38.900,Munich 1972,Athletics,4x100m relay men
+5,,,39.030,Munich 1972,Athletics,4x100m relay men
+6,,,39.140,Munich 1972,Athletics,4x100m relay men
+7,,,39.140,Munich 1972,Athletics,4x100m relay men
+8,,,,Munich 1972,Athletics,4x100m relay men
+9,,,,Munich 1972,Athletics,4x100m relay men
+10,,,,Munich 1972,Athletics,4x100m relay men
+11,,,Did not start,Munich 1972,Athletics,4x100m relay men
+12,,,Did not start,Munich 1972,Athletics,4x100m relay men
+13,,,Did not start,Munich 1972,Athletics,4x100m relay men
+14,,,Did not start,Munich 1972,Athletics,4x100m relay men
+15,,,Did not start,Munich 1972,Athletics,4x100m relay men
+0,,,42.810,Munich 1972,Athletics,4x100m relay women
+1,,,42.950,Munich 1972,Athletics,4x100m relay women
+2,,,43.360,Munich 1972,Athletics,4x100m relay women
+3,,,43.390,Munich 1972,Athletics,4x100m relay women
+4,,,43.590,Munich 1972,Athletics,4x100m relay women
+5,,,43.610,Munich 1972,Athletics,4x100m relay women
+6,,,43.710,Munich 1972,Athletics,4x100m relay women
+7,,,44.200,Munich 1972,Athletics,4x100m relay women
+8,,,,Munich 1972,Athletics,4x100m relay women
+9,,,,Munich 1972,Athletics,4x100m relay women
+10,,,,Munich 1972,Athletics,4x100m relay women
+0,,,00:02:59.830,Munich 1972,Athletics,4x400m relay men
+1,,,00:03:00.460,Munich 1972,Athletics,4x400m relay men
+2,,,00:03:00.650,Munich 1972,Athletics,4x400m relay men
+3,,,00:03:00.880,Munich 1972,Athletics,4x400m relay men
+4,,,00:03:01.050,Munich 1972,Athletics,4x400m relay men
+5,,,00:03:01.120,Munich 1972,Athletics,4x400m relay men
+6,,,00:03:02.570,Munich 1972,Athletics,4x400m relay men
+7,,,00:03:03.580,Munich 1972,Athletics,4x400m relay men
+8,,,Did not start,Munich 1972,Athletics,4x400m relay men
+9,,,Did not start,Munich 1972,Athletics,4x400m relay men
+0,,,00:03:22.950,Munich 1972,Athletics,4x400m relay women
+1,,,00:03:25.150,Munich 1972,Athletics,4x400m relay women
+2,,,00:03:26.510,Munich 1972,Athletics,4x400m relay women
+3,,,00:03:27.520,Munich 1972,Athletics,4x400m relay women
+4,,,00:03:28.740,Munich 1972,Athletics,4x400m relay women
+5,,,00:03:28.840,Munich 1972,Athletics,4x400m relay women
+6,,,00:03:29.440,Munich 1972,Athletics,4x400m relay women
+7,,,00:03:31.890,Munich 1972,Athletics,4x400m relay women
+8,,,,Munich 1972,Athletics,4x400m relay women
+0,FIN,lasse artturi virén,00:13:26.420,Munich 1972,Athletics,5000m men
+1,TUN,mohamed gammoudi,00:13:27.330,Munich 1972,Athletics,5000m men
+2,GBR,ian stewart,00:13:27.610,Munich 1972,Athletics,5000m men
+3,USA,steven roland prefontaine,00:13:28.250,Munich 1972,Athletics,5000m men
+4,BEL,emiel puttemans,00:13:30.820,Munich 1972,Athletics,5000m men
+5,FRG,harald norpoth,00:13:32.580,Munich 1972,Athletics,5000m men
+6,NOR,per halle,00:13:34.380,Munich 1972,Athletics,5000m men
+7,URS,nikolai sviridov,00:13:39.310,Munich 1972,Athletics,5000m men
+8,GDR,frank eisenberg,00:13:40.840,Munich 1972,Athletics,5000m men
+9,ESP,javier alvarez salgado,00:13:41.830,Munich 1972,Athletics,5000m men
+10,GBR,ian john mccafferty,00:13:43.200,Munich 1972,Athletics,5000m men
+11,GBR,david colin bedford,00:13:43.220,Munich 1972,Athletics,5000m men
+12,FIN,juha väätainen,00:13:53.840,Munich 1972,Athletics,5000m men
+13,ESP,mariano haro cisneros,Did not finish,Munich 1972,Athletics,5000m men
+14,SEN,siatka badji,Did not start,Munich 1972,Athletics,5000m men
+15,AUS,kerry o'brien,Did not start,Munich 1972,Athletics,5000m men
+16,BOL,crispin quispe,Did not start,Munich 1972,Athletics,5000m men
+17,BUL,mihail zhelev,Did not start,Munich 1972,Athletics,5000m men
+18,CRC,juan rafael angel perez cordoba,Did not start,Munich 1972,Athletics,5000m men
+19,EGY,ardel hamid khamis,Did not start,Munich 1972,Athletics,5000m men
+20,ETH,miruts yifter,Did not start,Munich 1972,Athletics,5000m men
+21,MAR,hamadi ben haddou,Did not start,Munich 1972,Athletics,5000m men
+22,NED,josephus j.m. hermens,Did not start,Munich 1972,Athletics,5000m men
+23,YUG,daniel korica,Did not start,Munich 1972,Athletics,5000m men
+0,FRG,bernd kannenberg,03:56:11.600,Munich 1972,Athletics,50km walk men
+1,URS,veniamin soldatenko,03:58:24.000,Munich 1972,Athletics,50km walk men
+2,USA,lawrence dean young,04:00:46.000,Munich 1972,Athletics,50km walk men
+3,URS,otto barch,04:01:35.400,Munich 1972,Athletics,50km walk men
+4,GDR,peter selzer,04:04:05.400,Munich 1972,Athletics,50km walk men
+5,FRG,gerhard weidner,04:06:26.000,Munich 1972,Athletics,50km walk men
+6,ITA,vittorio visini,04:08:31.400,Munich 1972,Athletics,50km walk men
+7,MEX,gabriel hernandez,04:12:09.000,Munich 1972,Athletics,50km walk men
+8,GBR,paul vincent nihill,04:14:09.400,Munich 1972,Athletics,50km walk men
+9,LUX,charel sowa,04:14:21.200,Munich 1972,Athletics,50km walk men
+10,GDR,karl-heinz stadtmüller,04:14:28.800,Munich 1972,Athletics,50km walk men
+11,SWE,hans tenggren,04:16:37.600,Munich 1972,Athletics,50km walk men
+12,SWE,daniel bjorkgren,04:20:00.000,Munich 1972,Athletics,50km walk men
+13,GDR,christoph höhne,04:20:43.800,Munich 1972,Athletics,50km walk men
+14,SWE,stefan ingvarsson,04:21:01.000,Munich 1972,Athletics,50km walk men
+15,FRG,horst-rüdiger magnor,04:21:53.400,Munich 1972,Athletics,50km walk men
+16,USA,william franklin weigle,04:22:52.200,Munich 1972,Athletics,50km walk men
+17,GBR,john warhurst,04:23:21.600,Munich 1972,Athletics,50km walk men
+18,ISR,shaul ladany,04:24:38.600,Munich 1972,Athletics,50km walk men
+19,MEX,raúl gonzález,04:26:13.400,Munich 1972,Athletics,50km walk men
+20,CAN,alex oakley,04:28:42.600,Munich 1972,Athletics,50km walk men
+21,HUN,janos dalmati,04:32:23.200,Munich 1972,Athletics,50km walk men
+22,ITA,domenico carpentieri,04:33:10.600,Munich 1972,Athletics,50km walk men
+23,NOR,kjell georg lund,04:34:23.400,Munich 1972,Athletics,50km walk men
+24,GBR,howard william timms,04:34:43.800,Munich 1972,Athletics,50km walk men
+25,HUN,antal kiss,04:34:45.000,Munich 1972,Athletics,50km walk men
+26,USA,steven roy hayden,04:36:07.200,Munich 1972,Athletics,50km walk men
+27,ARG,adalberto scorza,04:42:41.400,Munich 1972,Athletics,50km walk men
+28,DEN,ole david jensen,04:57:13.800,Munich 1972,Athletics,50km walk men
+29,SUI,alfred badel,Did not finish,Munich 1972,Athletics,50km walk men
+30,POL,jan ornoch,Did not finish,Munich 1972,Athletics,50km walk men
+31,CAN,karl-heinz merschenz,Did not finish,Munich 1972,Athletics,50km walk men
+32,MEX,jose oliveros de la torre,Did not finish,Munich 1972,Athletics,50km walk men
+33,FRA,jean claude decosse,Did not finish,Munich 1972,Athletics,50km walk men
+34,URS,sergey grigoryev,Disqualified,Munich 1972,Athletics,50km walk men
+35,ITA,abdon pamich,Disqualified,Munich 1972,Athletics,50km walk men
+36,POL,win nowosielski,Did not start,Munich 1972,Athletics,50km walk men
+37,NCA,yuri peñalba,Did not start,Munich 1972,Athletics,50km walk men
+38,BUL,ilia popov,Did not start,Munich 1972,Athletics,50km walk men
+0,USA,dave wottle,00:01:45.860,Munich 1972,Athletics,800m men
+1,URS,yevgeni arzhanov,00:01:45.890,Munich 1972,Athletics,800m men
+2,KEN,mike boit,00:01:46.010,Munich 1972,Athletics,800m men
+3,FRG,franz-josef kemper,00:01:46.500,Munich 1972,Athletics,800m men
+4,KEN,robert ouko,00:01:46.530,Munich 1972,Athletics,800m men
+5,GBR,andrew william carter,00:01:46.550,Munich 1972,Athletics,800m men
+6,POL,andrzej kupczyk,00:01:47.100,Munich 1972,Athletics,800m men
+7,GDR,dieter fromm,00:01:47.960,Munich 1972,Athletics,800m men
+8,USA,kenneth lloyd swenson,,Munich 1972,Athletics,800m men
+9,SOM,mohamed aboker,,Munich 1972,Athletics,800m men
+10,ESP,antonio fernandez ortiz,,Munich 1972,Athletics,800m men
+11,FRG,walter adams,,Munich 1972,Athletics,800m men
+12,KSA,saad maaz abdul razak,Did not start,Munich 1972,Athletics,800m men
+13,MAR,mohamed makdouf,Did not start,Munich 1972,Athletics,800m men
+14,ITA,francesco arese,Did not start,Munich 1972,Athletics,800m men
+0,FRG,hildegard falck-janze,00:01:58.550,Munich 1972,Athletics,800m women
+1,URS,niole sabaite,00:01:58.650,Munich 1972,Athletics,800m women
+2,GDR,gunhild hoffmeister,00:01:59.190,Munich 1972,Athletics,800m women
+3,BUL,svetla zlateva,00:01:59.720,Munich 1972,Athletics,800m women
+4,YUG,vera nikolic,00:01:59.980,Munich 1972,Athletics,800m women
+5,ROU,ileana silai,00:02:00.040,Munich 1972,Athletics,800m women
+6,GBR,rosemary olivia stirling,00:02:00.150,Munich 1972,Athletics,800m women
+7,CAN,abby hoffman,00:02:00.170,Munich 1972,Athletics,800m women
+8,SYR,malak el-nasser,,Munich 1972,Athletics,800m women
+9,LBN,arda kalpakian,Did not start,Munich 1972,Athletics,800m women
+0,URS,nikolai avilov,639,Munich 1972,Athletics,decathlon men
+1,URS,leonid litvinenko,768,Munich 1972,Athletics,decathlon men
+2,POL,ryszard katus,577,Munich 1972,Athletics,decathlon men
+3,USA,jefferson taft bennett,718,Munich 1972,Athletics,decathlon men
+4,GDR,stefan schreyer,475,Munich 1972,Athletics,decathlon men
+5,BEL,freddy herbrand,605,Munich 1972,Athletics,decathlon men
+6,DEN,steen smidt-jensen,626,Munich 1972,Athletics,decathlon men
+7,POL,tadeusz janczenko,400,Munich 1972,Athletics,decathlon men
+8,AUT,josef zeilbauer,418,Munich 1972,Athletics,decathlon men
+9,USA,william bruce jenner,668,Munich 1972,Athletics,decathlon men
+10,BEL,regis ghesquiere,664,Munich 1972,Athletics,decathlon men
+11,FRA,yves le roy,414,Munich 1972,Athletics,decathlon men
+12,URS,boris ivanov,541,Munich 1972,Athletics,decathlon men
+13,BEL,roger lespagnard,598,Munich 1972,Athletics,decathlon men
+14,GBR,barry john king,533,Munich 1972,Athletics,decathlon men
+15,ROU,radu gavrilas,506,Munich 1972,Athletics,decathlon men
+16,IND,viyaje singh chauhan,533,Munich 1972,Athletics,decathlon men
+17,FRA,jean-pierre schoebel,532,Munich 1972,Athletics,decathlon men
+18,SUI,heinz born,476,Munich 1972,Athletics,decathlon men
+19,HUN,jozsef bakai,,Munich 1972,Athletics,decathlon men
+20,USA,jeffrey granville bannister,690,Munich 1972,Athletics,decathlon men
+21,MAW,wilfred mwalawanda,541,Munich 1972,Athletics,decathlon men
+22,GBR,peter john gabbett,Did not finish,Munich 1972,Athletics,decathlon men
+23,POL,ryszard skowronek,Did not finish,Munich 1972,Athletics,decathlon men
+24,SUI,ruedi mangisch,Did not finish,Munich 1972,Athletics,decathlon men
+25,GUA,luis flores asturias,Did not finish,Munich 1972,Athletics,decathlon men
+26,BAR,clifford brooks,Did not finish,Munich 1972,Athletics,decathlon men
+27,CAN,guerrino moro,Did not finish,Munich 1972,Athletics,decathlon men
+28,GDR,joachim kirst,Did not finish,Munich 1972,Athletics,decathlon men
+29,FRG,hans joachim walde,Did not finish,Munich 1972,Athletics,decathlon men
+30,SWE,lennart hedmark,Did not finish,Munich 1972,Athletics,decathlon men
+31,FRG,hans-joachin perk,Did not finish,Munich 1972,Athletics,decathlon men
+32,FRG,horst beyer,Did not finish,Munich 1972,Athletics,decathlon men
+33,ITA,renato carnevali,Did not start,Munich 1972,Athletics,decathlon men
+0,TCH,ludvik danek,64.4,Munich 1972,Athletics,discus throw men
+1,USA,l.jay silvester,63.5,Munich 1972,Athletics,discus throw men
+2,SWE,rickard bruch,63.4,Munich 1972,Athletics,discus throw men
+3,USA,john gates powell,62.82,Munich 1972,Athletics,discus throw men
+4,HUN,geza fejer,62.62,Munich 1972,Athletics,discus throw men
+5,GDR,detlef thorith,62.42,Munich 1972,Athletics,discus throw men
+6,HUN,ferenc tegla,60.6,Munich 1972,Athletics,discus throw men
+7,USA,timothy william vollmer,60.24,Munich 1972,Athletics,discus throw men
+8,FIN,pentti aatos kahma,59.66,Munich 1972,Athletics,discus throw men
+9,ITA,silvano simeon,59.34,Munich 1972,Athletics,discus throw men
+10,FIN,jorma tapani rinne,59.22,Munich 1972,Athletics,discus throw men
+11,HUN,janos muranyi,57.92,Munich 1972,Athletics,discus throw men
+12,MLI,namakoro niare,56.48,Munich 1972,Athletics,discus throw men
+13,NZL,leslie roy mills,55.86,Munich 1972,Athletics,discus throw men
+14,ITA,armando de vincentiis,,Munich 1972,Athletics,discus throw men
+15,BUL,stoyan slavkov,Did not start,Munich 1972,Athletics,discus throw men
+16,CUB,julio bequer,Did not start,Munich 1972,Athletics,discus throw men
+17,EGY,nagui assaad,Did not start,Munich 1972,Athletics,discus throw men
+18,CGO,noel matuba,Did not start,Munich 1972,Athletics,discus throw men
+0,URS,faina melnik,66.62,Munich 1972,Athletics,discus throw women
+1,ROU,argentina menis,65.06,Munich 1972,Athletics,discus throw women
+2,BUL,vassilka stoeva,64.34,Munich 1972,Athletics,discus throw women
+3,URS,tamara danilova,62.86,Munich 1972,Athletics,discus throw women
+4,FRG,liselotte (liesel) westermann,62.18,Munich 1972,Athletics,discus throw women
+5,GDR,gabriele hinzmann,61.72,Munich 1972,Athletics,discus throw women
+6,ROU,carmen ionesco,60.42,Munich 1972,Athletics,discus throw women
+7,URS,lyudmila muravyova,59,Munich 1972,Athletics,discus throw women
+8,ROU,lia manoliu,58.5,Munich 1972,Athletics,discus throw women
+9,BUL,svetla bozhkova,56.72,Munich 1972,Athletics,discus throw women
+10,FRG,brigitte berendonk,56.58,Munich 1972,Athletics,discus throw women
+11,GBR,christine rosemary payne,56.5,Munich 1972,Athletics,discus throw women
+12,CHI,rosa molina,Did not start,Munich 1972,Athletics,discus throw women
+13,HUN,jolan kleiber-kontsek,Did not start,Munich 1972,Athletics,discus throw women
+14,KOR,ok-ja baek,Did not start,Munich 1972,Athletics,discus throw women
+0,URS,anatoli bondarchuk,75.5,Munich 1972,Athletics,hammer throw men
+1,GDR,jochen sachse,74.96,Munich 1972,Athletics,hammer throw men
+2,URS,vasili khmelevsky,74.04,Munich 1972,Athletics,hammer throw men
+3,FRG,uwe beyer,71.52,Munich 1972,Athletics,hammer throw men
+4,HUN,gyula zsivotzky,71.38,Munich 1972,Athletics,hammer throw men
+5,HUN,sándor eckschmiedt,71.2,Munich 1972,Athletics,hammer throw men
+6,FRG,edwin klein,71.14,Munich 1972,Athletics,hammer throw men
+7,JPN,shigenobu murofushi,70.88,Munich 1972,Athletics,hammer throw men
+8,ITA,mario vecchiato,70.58,Munich 1972,Athletics,hammer throw men
+9,FRG,karl-hans riehm,70.12,Munich 1972,Athletics,hammer throw men
+10,HUN,istvan encsi,70.06,Munich 1972,Athletics,hammer throw men
+11,USA,thomas lewis gage,69.5,Munich 1972,Athletics,hammer throw men
+12,GDR,reinhard theimer,69.16,Munich 1972,Athletics,hammer throw men
+13,YUG,strecko stiglic,68.34,Munich 1972,Athletics,hammer throw men
+14,GRE,stavros moutaftsidis,68.3,Munich 1972,Athletics,hammer throw men
+15,GBR,barry williams,68.18,Munich 1972,Athletics,hammer throw men
+16,AUT,peter sternad,66.64,Munich 1972,Athletics,hammer throw men
+17,URS,iosif gamsky,66.26,Munich 1972,Athletics,hammer throw men
+18,FRA,jacques accambray,65.06,Munich 1972,Athletics,hammer throw men
+19,JPN,takeo sugawara,64.7,Munich 1972,Athletics,hammer throw men
+20,MEX,jorge núñez,Did not start,Munich 1972,Athletics,hammer throw men
+0,URS,yuri tarmak,2.23,Munich 1972,Athletics,high jump men
+1,GDR,stefan junge,2.21,Munich 1972,Athletics,high jump men
+2,USA,dwight edwin stones,2.21,Munich 1972,Athletics,high jump men
+3,FRG,herman magerl,2.18,Munich 1972,Athletics,high jump men
+4,HUN,adam szepesi,2.18,Munich 1972,Athletics,high jump men
+5,CAN,john beers,2.15,Munich 1972,Athletics,high jump men
+6,HUN,istvan major,2.15,Munich 1972,Athletics,high jump men
+7,URS,rustam akhmetov,2.15,Munich 1972,Athletics,high jump men
+8,CAN,john hawkins,2.15,Munich 1972,Athletics,high jump men
+9,ITA,enzo del forno,2.15,Munich 1972,Athletics,high jump men
+10,SWE,jan dahlgren,2.15,Munich 1972,Athletics,high jump men
+11,GRE,vasilios papadimitriou,2.15,Munich 1972,Athletics,high jump men
+12,URS,kęstutis šapka,2.15,Munich 1972,Athletics,high jump men
+13,FRA,bernard gauthier,2.15,Munich 1972,Athletics,high jump men
+14,FRA,henri elliott,2.1,Munich 1972,Athletics,high jump men
+15,ROU,serban ioan,2.1,Munich 1972,Athletics,high jump men
+16,ITA,gian marco schivo,2.1,Munich 1972,Athletics,high jump men
+17,AUS,lawrence william peckham,2.1,Munich 1972,Athletics,high jump men
+18,JPN,hidehiko tomizawa,2.05,Munich 1972,Athletics,high jump men
+19,POL,bogusław bialek,Did not start,Munich 1972,Athletics,high jump men
+20,CUB,irolan hechevarría,Did not start,Munich 1972,Athletics,high jump men
+21,NOR,leif roar falkum,Did not start,Munich 1972,Athletics,high jump men
+0,FRG,ulrike meyfarth,1.92,Munich 1972,Athletics,high jump women
+1,BUL,yordanka blagoeva-dimitrova,1.88,Munich 1972,Athletics,high jump women
+2,AUT,ilona gusenbauer-majdan,1.88,Munich 1972,Athletics,high jump women
+3,GBR,barbara jean inkpen,1.85,Munich 1972,Athletics,high jump women
+4,GDR,rita schmidt-kirst,1.85,Munich 1972,Athletics,high jump women
+5,ITA,sara simeoni,1.85,Munich 1972,Athletics,high jump women
+6,GDR,rosemarie witschas-ackermann,1.85,Munich 1972,Athletics,high jump women
+7,CAN,deborah brill,1.82,Munich 1972,Athletics,high jump women
+8,JAM,andrea bruce,1.82,Munich 1972,Athletics,high jump women
+9,FRG,ellen mundinger,1.82,Munich 1972,Athletics,high jump women
+10,JAM,audrey reid,1.82,Munich 1972,Athletics,high jump women
+11,DEN,grith ejstrup nielsen,1.82,Munich 1972,Athletics,high jump women
+12,GDR,rita gildemeister,1.82,Munich 1972,Athletics,high jump women
+13,FRG,renate gartner,1.82,Munich 1972,Athletics,high jump women
+14,TCH,miloslava rezkova-hubner,1.82,Munich 1972,Athletics,high jump women
+15,HUN,erika rudolf,1.79,Munich 1972,Athletics,high jump women
+16,NED,maria ahlers,1.79,Munich 1972,Athletics,high jump women
+17,TCH,alena proskova,1.79,Munich 1972,Athletics,high jump women
+18,ROU,cornelia popescu-popa,1.76,Munich 1972,Athletics,high jump women
+19,YUG,snezana hrepevnik,1.76,Munich 1972,Athletics,high jump women
+20,DEN,solveig langkilde rasmussen,1.76,Munich 1972,Athletics,high jump women
+21,TCH,milada karbanova,1.76,Munich 1972,Athletics,high jump women
+22,HUN,magdolna komka,1.71,Munich 1972,Athletics,high jump women
+23,NGR,nnenna njoku,,Munich 1972,Athletics,high jump women
+24,TPE,yu-chih wu,,Munich 1972,Athletics,high jump women
+25,NOR,kari karlsen,Did not start,Munich 1972,Athletics,high jump women
+26,HUN,margit papp-dervalics,Did not start,Munich 1972,Athletics,high jump women
+27,MAS,gladys ng mei chai,Did not start,Munich 1972,Athletics,high jump women
+28,PER,maria luisa vilca,Did not start,Munich 1972,Athletics,high jump women
+29,URS,galina filatova,Did not start,Munich 1972,Athletics,high jump women
+0,FRG,klaus wolfermann,90.48,Munich 1972,Athletics,javelin throw men
+1,URS,yanis lusis,90.46,Munich 1972,Athletics,javelin throw men
+2,USA,william david schmidt,84.42,Munich 1972,Athletics,javelin throw men
+3,FIN,hannu juhani siitonen,84.32,Munich 1972,Athletics,javelin throw men
+4,NOR,björn grimnes,83.08,Munich 1972,Athletics,javelin throw men
+5,FIN,jorma viljo palaavi kinnunen,82.08,Munich 1972,Athletics,javelin throw men
+6,HUN,miklos nemeth,81.98,Munich 1972,Athletics,javelin throw men
+7,USA,frederick allen luke,80.06,Munich 1972,Athletics,javelin throw men
+8,GDR,manfred stolle,79.32,Munich 1972,Athletics,javelin throw men
+9,USA,milton barry sonsky,77.94,Munich 1972,Athletics,javelin throw men
+10,FRA,lolesio tuita,76.34,Munich 1972,Athletics,javelin throw men
+11,HUN,jozsef csik,76.14,Munich 1972,Athletics,javelin throw men
+12,FIN,leo pellervo pusa,,Munich 1972,Athletics,javelin throw men
+0,GDR,ruth fuchs,63.88,Munich 1972,Athletics,javelin throw women
+1,GDR,jaqueline todten-hein,62.54,Munich 1972,Athletics,javelin throw women
+2,USA,kathryn joan schmidt,59.94,Munich 1972,Athletics,javelin throw women
+3,BUL,lutvian mollova,59.36,Munich 1972,Athletics,javelin throw women
+4,YUG,natasa urbancic,59.06,Munich 1972,Athletics,javelin throw women
+5,AUT,eva janko-egger,58.56,Munich 1972,Athletics,javelin throw women
+6,POL,ewa gryziecka-kwiecinska,57,Munich 1972,Athletics,javelin throw women
+7,URS,svetlana korolyova-babich,56.36,Munich 1972,Athletics,javelin throw women
+8,FRG,anneliese gerhards-jansen,55.84,Munich 1972,Athletics,javelin throw women
+9,HUN,maria kucserka,54.4,Munich 1972,Athletics,javelin throw women
+10,HUN,magda paulanyi,52.36,Munich 1972,Athletics,javelin throw women
+11,ROU,eva ileana zorgo-raduly,,Munich 1972,Athletics,javelin throw women
+12,CHI,rosa molina,Did not start,Munich 1972,Athletics,javelin throw women
+0,USA,randel luvelle williams,8.24,Munich 1972,Athletics,long jump men
+1,FRG,hans baumgartner,8.18,Munich 1972,Athletics,long jump men
+2,USA,arnie robinson,8.03,Munich 1972,Athletics,long jump men
+3,GHA,joshua owusu,8.01,Munich 1972,Athletics,long jump men
+4,USA,preston morrand carrington,7.99,Munich 1972,Athletics,long jump men
+5,GDR,max klauss,7.96,Munich 1972,Athletics,long jump men
+6,GBR,alan leslie lerwill,7.91,Munich 1972,Athletics,long jump men
+7,URS,leonid barkovski,7.75,Munich 1972,Athletics,long jump men
+8,URS,valery podluzhny,7.72,Munich 1972,Athletics,long jump men
+9,FRA,jacques rousseau,7.65,Munich 1972,Athletics,long jump men
+10,FIN,ari henrik vaananen,7.62,Munich 1972,Athletics,long jump men
+11,POL,grzegorz cybulski,7.58,Munich 1972,Athletics,long jump men
+12,DEN,jesper torring,,Munich 1972,Athletics,long jump men
+13,PRK,jong-gu hyon,Did not start,Munich 1972,Athletics,long jump men
+14,BRA,luiz de souza,Did not start,Munich 1972,Athletics,long jump men
+15,POL,jan kobuszewski,Did not start,Munich 1972,Athletics,long jump men
+16,LBR,dennis freeman,Did not start,Munich 1972,Athletics,long jump men
+17,FIJ,samuela yavala,Did not start,Munich 1972,Athletics,long jump men
+18,FRA,jacques pani,Did not start,Munich 1972,Athletics,long jump men
+19,ITA,giuseppe gentile,Did not start,Munich 1972,Athletics,long jump men
+20,KEN,patrick onyango,Did not start,Munich 1972,Athletics,long jump men
+21,MGL,enkhbaatar byambajavyn,Did not start,Munich 1972,Athletics,long jump men
+22,NGR,samuel igun,Did not start,Munich 1972,Athletics,long jump men
+23,SEN,mamsdou monsour dia,Did not start,Munich 1972,Athletics,long jump men
+24,YUG,milan spasojevic,Did not start,Munich 1972,Athletics,long jump men
+0,FRG,heidemarie rosendahl,6.78,Munich 1972,Athletics,long jump women
+1,BUL,diana christova-yorgova,6.77,Munich 1972,Athletics,long jump women
+2,TCH,eva suranova,6.67,Munich 1972,Athletics,long jump women
+3,CUB,marcia alejandra garbey montell,6.52w,Munich 1972,Athletics,long jump women
+4,FRG,adelheid (heidi) schüller,6.51,Munich 1972,Athletics,long jump women
+5,SUI,meta antenen,6.49,Munich 1972,Athletics,long jump women
+6,ROU,viorica viscopoleanu,6.48,Munich 1972,Athletics,long jump women
+7,GDR,margrit olfert,6.46,Munich 1972,Athletics,long jump women
+8,GBR,sheila hilary parkin-sherwood,6.41,Munich 1972,Athletics,long jump women
+9,HUN,ilona bruzsenak,6.39,Munich 1972,Athletics,long jump women
+10,USA,willye white,6.27,Munich 1972,Athletics,long jump women
+11,TCH,jarmila nygrynova,6.24,Munich 1972,Athletics,long jump women
+12,GDR,angelika liebisch,6.23,Munich 1972,Athletics,long jump women
+13,ROU,ileana vintila,6.13,Munich 1972,Athletics,long jump women
+14,FRG,ingrid becker-mickler,,Munich 1972,Athletics,long jump women
+15,ROU,valeria bufanu-stefanescu,,Munich 1972,Athletics,long jump women
+16,POL,irena szewińska,Did not start,Munich 1972,Athletics,long jump women
+0,USA,frank charles shorter,02:12:19.800,Munich 1972,Athletics,marathon men
+1,BEL,karel lismont,02:14:31.800,Munich 1972,Athletics,marathon men
+2,ETH,mamo wolde,02:15:08.400,Munich 1972,Athletics,marathon men
+3,USA,kenneth clark moore,02:15:39.800,Munich 1972,Athletics,marathon men
+4,JPN,kenji kimihara,02:16:27.000,Munich 1972,Athletics,marathon men
+5,GBR,ronald hill,02:16:30.600,Munich 1972,Athletics,marathon men
+6,GBR,don macgregor,02:16:34.400,Munich 1972,Athletics,marathon men
+7,NZL,jack foster,02:16:56.200,Munich 1972,Athletics,marathon men
+8,USA,jack stangl bacheler,02:17:38.200,Munich 1972,Athletics,marathon men
+9,ETH,lengissa bedane,02:18:36.800,Munich 1972,Athletics,marathon men
+10,FIN,seppo olavi nikkari,02:18:49.400,Munich 1972,Athletics,marathon men
+11,JPN,akio usami,02:18:58.000,Munich 1972,Athletics,marathon men
+12,AUS,derek clayton,02:19:49.600,Munich 1972,Athletics,marathon men
+13,URS,yuri velikorodnykh,02:20:02.200,Munich 1972,Athletics,marathon men
+14,URS,anatolijus baranovas,02:20:10.400,Munich 1972,Athletics,marathon men
+15,FRG,paul angenvoorth,02:20:19.000,Munich 1972,Athletics,marathon men
+16,SWZ,richard mabusa,02:20:39.600,Munich 1972,Athletics,marathon men
+17,ETH,demisse wolde,02:20:44.000,Munich 1972,Athletics,marathon men
+18,FIN,reino ensio paukkonen,02:21:06.400,Munich 1972,Athletics,marathon men
+19,GBR,colin kirkham,02:21:54.800,Munich 1972,Athletics,marathon men
+20,ITA,antonio brutti,02:22:12.000,Munich 1972,Athletics,marathon men
+21,NZL,david closs mckenzie,02:22:19.200,Munich 1972,Athletics,marathon men
+22,IRL,daniel mcdaid,02:22:25.200,Munich 1972,Athletics,marathon men
+23,ITA,renato martini,02:22:41.400,Munich 1972,Athletics,marathon men
+24,GDR,eckhard lesse,02:22:49.600,Munich 1972,Athletics,marathon men
+25,MEX,jacinto sabinal,02:22:56.600,Munich 1972,Athletics,marathon men
+26,HUN,gyula toth,02:22:59.800,Munich 1972,Athletics,marathon men
+27,FRA,fernand kolbeck,02:23:01.200,Munich 1972,Athletics,marathon men
+28,COL,hernan barreneche,02:23:40.000,Munich 1972,Athletics,marathon men
+29,DEN,jorgen pilegaard jensen,02:24:00.200,Munich 1972,Athletics,marathon men
+30,FRG,manfred steffny,02:24:25.400,Munich 1972,Athletics,marathon men
+31,FRG,lutz philipp,02:24:25.400,Munich 1972,Athletics,marathon men
+32,HUN,ferenc szekeres,02:25:17.600,Munich 1972,Athletics,marathon men
+33,NZL,terence manners,02:25:29.200,Munich 1972,Athletics,marathon men
+34,URS,igor shcherbak,02:25:37.400,Munich 1972,Athletics,marathon men
+35,JPN,yoshiaki unetani,02:25:59.000,Munich 1972,Athletics,marathon men
+36,PRK,chang-son kim,02:26:45.600,Munich 1972,Athletics,marathon men
+37,ITA,francesco de menego,02:26:52.200,Munich 1972,Athletics,marathon men
+38,ESP,agustin fernandez diaz,02:27:14.200,Munich 1972,Athletics,marathon men
+39,POL,edward stawiarz,02:28:12.400,Munich 1972,Athletics,marathon men
+40,POR,armando aldegalega,02:28:24.600,Munich 1972,Athletics,marathon men
+41,IRL,desmond mcgann,02:28:31.600,Munich 1972,Athletics,marathon men
+42,GUA,carlos cuque,02:28:37.000,Munich 1972,Athletics,marathon men
+43,SUI,alfons sidler,02:29:09.200,Munich 1972,Athletics,marathon men
+44,MEX,alfredo penaloza,02:29:51.000,Munich 1972,Athletics,marathon men
+45,BEL,walter van renterghem,02:29:58.400,Munich 1972,Athletics,marathon men
+46,IRL,donie walsh,02:31:12.000,Munich 1972,Athletics,marathon men
+47,COL,alvaro mejia flores,02:31:56.400,Munich 1972,Athletics,marathon men
+48,PRK,man hyong ryu,02:32:29.400,Munich 1972,Athletics,marathon men
+49,ESP,carlos perez alonso,02:33:22.600,Munich 1972,Athletics,marathon men
+50,MEX,rafael tadeo polomares,02:35:48.400,Munich 1972,Athletics,marathon men
+51,COL,víctor mora,02:37:34.600,Munich 1972,Athletics,marathon men
+52,ARG,fernando molina,02:38:18.600,Munich 1972,Athletics,marathon men
+53,GUA,julio f. quevedo elias,02:40:38.600,Munich 1972,Athletics,marathon men
+54,ARG,ramon cabrera,02:42:37.200,Munich 1972,Athletics,marathon men
+55,MAW,matthews kambale,02:45:50.000,Munich 1972,Athletics,marathon men
+56,MYA,thein hla,02:48:53.200,Munich 1972,Athletics,marathon men
+57,BOL,ricardo condorri,02:56:11.400,Munich 1972,Athletics,marathon men
+58,UGA,fulgence rwabu,02:57:04.400,Munich 1972,Athletics,marathon men
+59,NEP,bhakta bahadur sapkota,02:57:58.800,Munich 1972,Athletics,marathon men
+60,BOL,crispin quispe,03:07:22.800,Munich 1972,Athletics,marathon men
+61,HAI,maurice charlotin,03:29:21.000,Munich 1972,Athletics,marathon men
+62,ARG,nazario araujo,Did not finish,Munich 1972,Athletics,marathon men
+63,FIN,pekka matti tiihonen,Did not finish,Munich 1972,Athletics,marathon men
+64,BOL,juvenal rocha,Did not finish,Munich 1972,Athletics,marathon men
+65,SOM,jama awil aden,Did not finish,Munich 1972,Athletics,marathon men
+66,BEL,gaston roelants,Did not finish,Munich 1972,Athletics,marathon men
+67,SRI,lucien rosa,Did not finish,Munich 1972,Athletics,marathon men
+68,TAN,julius wakachu,Did not finish,Munich 1972,Athletics,marathon men
+69,TUR,ismail akcay,Did not finish,Munich 1972,Athletics,marathon men
+70,NEP,jit bahadur khatri chhetri,Did not finish,Munich 1972,Athletics,marathon men
+71,NCA,rudolfo gomez,Did not finish,Munich 1972,Athletics,marathon men
+72,KEN,richard juma,Did not finish,Munich 1972,Athletics,marathon men
+73,SUD,shag musa medani,Did not finish,Munich 1972,Athletics,marathon men
+74,TCH,josef jansky,Did not start,Munich 1972,Athletics,marathon men
+75,TUR,huseyin aktas,Did not start,Munich 1972,Athletics,marathon men
+0,GBR,mary peters,930,Munich 1972,Athletics,pentathlon women
+1,FRG,heidemarie rosendahl,1041,Munich 1972,Athletics,pentathlon women
+2,GDR,burglinde pollak,944,Munich 1972,Athletics,pentathlon women
+3,GDR,christine bodner-laser,970,Munich 1972,Athletics,pentathlon women
+4,URS,valentina tikhomirova,914,Munich 1972,Athletics,pentathlon women
+5,BUL,nedialka angelova,884,Munich 1972,Athletics,pentathlon women
+6,FRG,karen mack,871,Munich 1972,Athletics,pentathlon women
+7,HUN,ilona bruzsenak,905,Munich 1972,Athletics,pentathlon women
+8,URS,nadezhda tkachenko,830,Munich 1972,Athletics,pentathlon women
+9,CAN,diane jones-konihowski,814,Munich 1972,Athletics,pentathlon women
+10,YUG,djurdja focic,873,Munich 1972,Athletics,pentathlon women
+11,FRG,margot eppinger,921,Munich 1972,Athletics,pentathlon women
+12,GBR,ann shirley wilson,858,Munich 1972,Athletics,pentathlon women
+13,NGR,modupe oshikoya,939,Munich 1972,Athletics,pentathlon women
+14,CAN,deborah van kiekebelt,848,Munich 1972,Athletics,pentathlon women
+15,AUS,lynette marie tillett-jecenko,904,Munich 1972,Athletics,pentathlon women
+16,FRA,marie christine debourse,857,Munich 1972,Athletics,pentathlon women
+17,GDR,monika peikert,783,Munich 1972,Athletics,pentathlon women
+18,USA,gale lillian fitzgerald,940,Munich 1972,Athletics,pentathlon women
+19,ROU,ileana vintila,829,Munich 1972,Athletics,pentathlon women
+20,USA,jane wardell frederick,808,Munich 1972,Athletics,pentathlon women
+21,FRA,odette ducas,898,Munich 1972,Athletics,pentathlon women
+22,HUN,margit papp-dervalics,717,Munich 1972,Athletics,pentathlon women
+23,PER,edith noding,899,Munich 1972,Athletics,pentathlon women
+24,VEN,lucia vaamonde,830,Munich 1972,Athletics,pentathlon women
+25,SUI,kathrin lardi,801,Munich 1972,Athletics,pentathlon women
+26,IRL,margaret murphy,860,Munich 1972,Athletics,pentathlon women
+27,TPE,chun-yu lin,774,Munich 1972,Athletics,pentathlon women
+28,AUT,liese prokop-sykora,Did not finish,Munich 1972,Athletics,pentathlon women
+29,MAS,gladys ng mei chai,Did not finish,Munich 1972,Athletics,pentathlon women
+30,GBR,ruth martin-jones,Did not start,Munich 1972,Athletics,pentathlon women
+31,TCH,eva suranova,Did not start,Munich 1972,Athletics,pentathlon women
+32,USA,marilyn elizabeth king,Did not start,Munich 1972,Athletics,pentathlon women
+0,GDR,wolfgang nordwig,5.5,Munich 1972,Athletics,pole vault men
+1,USA,bob seagren,5.4,Munich 1972,Athletics,pole vault men
+2,USA,jan eric johnson,5.35,Munich 1972,Athletics,pole vault men
+3,FRG,reinhard kuretzky,5.3,Munich 1972,Athletics,pole vault men
+4,CAN,bruce simpson,5.2,Munich 1972,Athletics,pole vault men
+5,FRG,volker ohl,5.2,Munich 1972,Athletics,pole vault men
+6,SWE,hans lagerqvist,5.2,Munich 1972,Athletics,pole vault men
+7,FRA,françois tracanelli,5.1,Munich 1972,Athletics,pole vault men
+8,SWE,ingemar jernberg,5.1,Munich 1972,Athletics,pole vault men
+9,POL,wojciech buciarski,5,Munich 1972,Athletics,pole vault men
+10,GRE,christos papanikolaou,5,Munich 1972,Athletics,pole vault men
+11,FIN,antti tapani kalliomäki,,Munich 1972,Athletics,pole vault men
+12,FRA,herve d'encausse,,Munich 1972,Athletics,pole vault men
+13,POL,tadeusz slusarski,,Munich 1972,Athletics,pole vault men
+14,CAN,kirk bryde,,Munich 1972,Athletics,pole vault men
+15,ITA,renato dionisi,,Munich 1972,Athletics,pole vault men
+16,SWE,kjell isaksson,,Munich 1972,Athletics,pole vault men
+17,SEN,abass goudiaby,Did not start,Munich 1972,Athletics,pole vault men
+0,POL,wladyslaw komar,21.18,Munich 1972,Athletics,shot put men
+1,USA,george roger woods,21.17,Munich 1972,Athletics,shot put men
+2,GDR,hartmut briesenick,21.14,Munich 1972,Athletics,shot put men
+3,GDR,hans-peter gies,21.14,Munich 1972,Athletics,shot put men
+4,USA,allan dean feuerbach,21.01,Munich 1972,Athletics,shot put men
+5,USA,brian ray oldfield,20.91,Munich 1972,Athletics,shot put men
+6,FRG,heinfried birlenbach,20.37,Munich 1972,Athletics,shot put men
+7,HUN,vilmos varju,20.1,Munich 1972,Athletics,shot put men
+8,TCH,jaromir vlk,20.09,Munich 1972,Athletics,shot put men
+9,TCH,jaroslav brabec,19.86,Munich 1972,Athletics,shot put men
+10,GDR,heinz-joachim rothenburg,19.74,Munich 1972,Athletics,shot put men
+11,FRA,yves brouzet,19.61,Munich 1972,Athletics,shot put men
+12,FRG,ralph reichenbach,19.48,Munich 1972,Athletics,shot put men
+13,URS,rimantas plunge,19.3,Munich 1972,Athletics,shot put men
+14,MAR,lahcen samsam akka,19.11,Munich 1972,Athletics,shot put men
+15,FIN,seppo simola,19.06,Munich 1972,Athletics,shot put men
+16,CAN,bruce pirnie,18.9,Munich 1972,Athletics,shot put men
+17,FRG,traugott glöckler,18.85,Munich 1972,Athletics,shot put men
+18,EGY,nagui assaad,Did not start,Munich 1972,Athletics,shot put men
+19,NOR,bjørn bang andersen,Did not start,Munich 1972,Athletics,shot put men
+20,CUB,aristides lanier,Did not start,Munich 1972,Athletics,shot put men
+21,BUL,vassil kroumov,Did not start,Munich 1972,Athletics,shot put men
+22,GBR,william raymond tancred,Did not start,Munich 1972,Athletics,shot put men
+23,ITA,salvatore morale,Did not start,Munich 1972,Athletics,shot put men
+0,URS,nadezhda chizhova,21.03,Munich 1972,Athletics,shot put women
+1,GDR,margitta helmbold-gummel,20.22,Munich 1972,Athletics,shot put women
+2,BUL,ivanka mikailova christova-todorova,19.35,Munich 1972,Athletics,shot put women
+3,URS,esfir dolzhenko-krachevskaya,19.24,Munich 1972,Athletics,shot put women
+4,GDR,marianne adam,18.94,Munich 1972,Athletics,shot put women
+5,GDR,marita lange,18.85,Munich 1972,Athletics,shot put women
+6,TCH,helena fibingerova,18.81,Munich 1972,Athletics,shot put women
+7,BUL,elena stoyanova,18.34,Munich 1972,Athletics,shot put women
+8,URS,antonina ivanova,18.28,Munich 1972,Athletics,shot put women
+9,POL,ludwika chewinska,18.24,Munich 1972,Athletics,shot put women
+10,HUN,judit bognar-lendvai,18.23,Munich 1972,Athletics,shot put women
+11,BUL,radostina vasekova,17.86,Munich 1972,Athletics,shot put women
+12,ROU,valentina cioltan,16.62,Munich 1972,Athletics,shot put women
+0,URS,viktor saneev,17.35w,Munich 1972,Athletics,triple jump men
+1,GDR,jörg drehmel,17.31,Munich 1972,Athletics,triple jump men
+2,BRA,nelson prudencio,17.05,Munich 1972,Athletics,triple jump men
+3,ROU,carol corbu,16.85w,Munich 1972,Athletics,triple jump men
+4,USA,john melvin craft,16.83,Munich 1972,Athletics,triple jump men
+5,SEN,mamsdou monsour dia,16.83w,Munich 1972,Athletics,triple jump men
+6,POL,michal joachimowski,16.69,Munich 1972,Athletics,triple jump men
+7,NOR,kristen flogstad,16.44,Munich 1972,Athletics,triple jump men
+8,URS,mikhail bariban,16.3,Munich 1972,Athletics,triple jump men
+9,FRA,bernard lamitie,16.27w,Munich 1972,Athletics,triple jump men
+10,NGR,samuel igun,16.03,Munich 1972,Athletics,triple jump men
+11,JPN,toshiaki inoue,15.88,Munich 1972,Athletics,triple jump men
+12,IND,mohinder singh gill,,Munich 1972,Athletics,triple jump men
+13,JAM,henry jackson,,Munich 1972,Athletics,triple jump men
+14,BEN,christoph chodaton,Did not start,Munich 1972,Athletics,triple jump men
+15,TOG,martin adouna,Did not start,Munich 1972,Athletics,triple jump men

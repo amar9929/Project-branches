@@ -1,0 +1,648 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,ted ligety,00:03:09.350,Turin 2006,Alpine Skiing,alpine combined men
+1,CRO,ivica kostelic,00:03:09.880,Turin 2006,Alpine Skiing,alpine combined men
+2,AUT,rainer schoenfelder,00:03:10.670,Turin 2006,Alpine Skiing,alpine combined men
+3,SUI,daniel albrecht,00:03:10.730,Turin 2006,Alpine Skiing,alpine combined men
+4,ITA,giorgio rocca,00:03:10.740,Turin 2006,Alpine Skiing,alpine combined men
+5,CZE,ondrej bank,00:03:11.000,Turin 2006,Alpine Skiing,alpine combined men
+6,SUI,marc berthod,00:03:11.220,Turin 2006,Alpine Skiing,alpine combined men
+7,FRA,pierrick bourgeat,00:03:11.290,Turin 2006,Alpine Skiing,alpine combined men
+8,ITA,peter fill,00:03:12.210,Turin 2006,Alpine Skiing,alpine combined men
+9,NOR,kjetil jansrud,00:03:12.320,Turin 2006,Alpine Skiing,alpine combined men
+10,SWE,markus larsson,00:03:12.340,Turin 2006,Alpine Skiing,alpine combined men
+11,CZE,martin vrablik,00:03:12.410,Turin 2006,Alpine Skiing,alpine combined men
+12,FRA,jean-baptiste grange,00:03:12.510,Turin 2006,Alpine Skiing,alpine combined men
+13,GBR,noel baxter,00:03:12.790,Turin 2006,Alpine Skiing,alpine combined men
+14,SLO,ales gorza,00:03:12.910,Turin 2006,Alpine Skiing,alpine combined men
+15,USA,scott macartney,00:03:13.050,Turin 2006,Alpine Skiing,alpine combined men
+16,CAN,john kucera,00:03:13.260,Turin 2006,Alpine Skiing,alpine combined men
+17,SWE,johan brolenius,00:03:13.270,Turin 2006,Alpine Skiing,alpine combined men
+18,SLO,andrej jerman,00:03:13.800,Turin 2006,Alpine Skiing,alpine combined men
+19,CZE,krystof kryzl,00:03:14.180,Turin 2006,Alpine Skiing,alpine combined men
+20,CAN,françois bourque,00:03:14.250,Turin 2006,Alpine Skiing,alpine combined men
+21,RUS,alexander khoroshilov,00:03:15.460,Turin 2006,Alpine Skiing,alpine combined men
+22,ARG,cristian javier simari birkner,00:03:16.540,Turin 2006,Alpine Skiing,alpine combined men
+23,RUS,pavel chestakov,00:03:16.840,Turin 2006,Alpine Skiing,alpine combined men
+24,SVK,ivan heimschild,00:03:18.410,Turin 2006,Alpine Skiing,alpine combined men
+25,CRO,tin siroki,00:03:20.160,Turin 2006,Alpine Skiing,alpine combined men
+26,SVK,jaroslav babusiak,00:03:20.780,Turin 2006,Alpine Skiing,alpine combined men
+27,AND,roger vidosa,00:03:21.370,Turin 2006,Alpine Skiing,alpine combined men
+28,USA,steven nyman,00:03:22.680,Turin 2006,Alpine Skiing,alpine combined men
+29,SLO,andrej sporn,00:03:23.530,Turin 2006,Alpine Skiing,alpine combined men
+30,BUL,mihail sedyankov,00:03:23.900,Turin 2006,Alpine Skiing,alpine combined men
+31,LIE,claudio sprecher,00:03:24.080,Turin 2006,Alpine Skiing,alpine combined men
+32,CRO,natko zrncic dim,00:03:24.150,Turin 2006,Alpine Skiing,alpine combined men
+33,AUT,mario matt,00:03:28.780,Turin 2006,Alpine Skiing,alpine combined men
+34,ROU,florentin-daniel nicolae,00:03:31.890,Turin 2006,Alpine Skiing,alpine combined men
+35,AUT,benjamin raich,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+36,CRO,ivan ratkic,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+37,LAT,renars dorsh,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+38,UKR,nikolay skriabin,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+39,RUS,anton konovalov,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+40,CAN,manuel osborne-paradis,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+41,NOR,aksel lund svindal,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+42,SUI,silvan zurbriggen,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+43,AUT,michael walchhofer,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+44,CAN,ryan semple,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+45,NOR,lasse kjus,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+46,POL,michal kalwa,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+47,BUL,stefan georgiev,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+48,SUI,didier defago,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+49,AND,alex antor,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+50,ISL,sindri m. palsson,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+51,RSA,alexander heath,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+52,ITA,patrick staudacher,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+53,CHI,jorge mandru,Disqualified,Turin 2006,Alpine Skiing,alpine combined men
+54,USA,bode miller,Disqualified,Turin 2006,Alpine Skiing,alpine combined men
+55,BRA,nikolai hentsch,Disqualified,Turin 2006,Alpine Skiing,alpine combined men
+56,RUS,konstantin sats,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+57,CZE,filip trejbal,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+58,AUS,jonathon brauer,Did not finish,Turin 2006,Alpine Skiing,alpine combined men
+59,NOR,kjetil andre aamodt,Did not start,Turin 2006,Alpine Skiing,alpine combined men
+0,USA,ted ligety,00:03:09.350,Turin 2006,Alpine Skiing,alpine combined women
+1,CRO,ivica kostelic,00:03:09.880,Turin 2006,Alpine Skiing,alpine combined women
+2,AUT,rainer schoenfelder,00:03:10.670,Turin 2006,Alpine Skiing,alpine combined women
+3,SUI,daniel albrecht,00:03:10.730,Turin 2006,Alpine Skiing,alpine combined women
+4,ITA,giorgio rocca,00:03:10.740,Turin 2006,Alpine Skiing,alpine combined women
+5,CZE,ondrej bank,00:03:11.000,Turin 2006,Alpine Skiing,alpine combined women
+6,SUI,marc berthod,00:03:11.220,Turin 2006,Alpine Skiing,alpine combined women
+7,FRA,pierrick bourgeat,00:03:11.290,Turin 2006,Alpine Skiing,alpine combined women
+8,ITA,peter fill,00:03:12.210,Turin 2006,Alpine Skiing,alpine combined women
+9,NOR,kjetil jansrud,00:03:12.320,Turin 2006,Alpine Skiing,alpine combined women
+10,SWE,markus larsson,00:03:12.340,Turin 2006,Alpine Skiing,alpine combined women
+11,CZE,martin vrablik,00:03:12.410,Turin 2006,Alpine Skiing,alpine combined women
+12,FRA,jean-baptiste grange,00:03:12.510,Turin 2006,Alpine Skiing,alpine combined women
+13,GBR,noel baxter,00:03:12.790,Turin 2006,Alpine Skiing,alpine combined women
+14,SLO,ales gorza,00:03:12.910,Turin 2006,Alpine Skiing,alpine combined women
+15,USA,scott macartney,00:03:13.050,Turin 2006,Alpine Skiing,alpine combined women
+16,CAN,john kucera,00:03:13.260,Turin 2006,Alpine Skiing,alpine combined women
+17,SWE,johan brolenius,00:03:13.270,Turin 2006,Alpine Skiing,alpine combined women
+18,SLO,andrej jerman,00:03:13.800,Turin 2006,Alpine Skiing,alpine combined women
+19,CZE,krystof kryzl,00:03:14.180,Turin 2006,Alpine Skiing,alpine combined women
+20,CAN,françois bourque,00:03:14.250,Turin 2006,Alpine Skiing,alpine combined women
+21,RUS,alexander khoroshilov,00:03:15.460,Turin 2006,Alpine Skiing,alpine combined women
+22,ARG,cristian javier simari birkner,00:03:16.540,Turin 2006,Alpine Skiing,alpine combined women
+23,RUS,pavel chestakov,00:03:16.840,Turin 2006,Alpine Skiing,alpine combined women
+24,SVK,ivan heimschild,00:03:18.410,Turin 2006,Alpine Skiing,alpine combined women
+25,CRO,tin siroki,00:03:20.160,Turin 2006,Alpine Skiing,alpine combined women
+26,SVK,jaroslav babusiak,00:03:20.780,Turin 2006,Alpine Skiing,alpine combined women
+27,AND,roger vidosa,00:03:21.370,Turin 2006,Alpine Skiing,alpine combined women
+28,USA,steven nyman,00:03:22.680,Turin 2006,Alpine Skiing,alpine combined women
+29,SLO,andrej sporn,00:03:23.530,Turin 2006,Alpine Skiing,alpine combined women
+30,BUL,mihail sedyankov,00:03:23.900,Turin 2006,Alpine Skiing,alpine combined women
+31,LIE,claudio sprecher,00:03:24.080,Turin 2006,Alpine Skiing,alpine combined women
+32,CRO,natko zrncic dim,00:03:24.150,Turin 2006,Alpine Skiing,alpine combined women
+33,AUT,mario matt,00:03:28.780,Turin 2006,Alpine Skiing,alpine combined women
+34,ROU,florentin-daniel nicolae,00:03:31.890,Turin 2006,Alpine Skiing,alpine combined women
+35,AUT,benjamin raich,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+36,CRO,ivan ratkic,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+37,LAT,renars dorsh,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+38,UKR,nikolay skriabin,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+39,RUS,anton konovalov,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+40,CAN,manuel osborne-paradis,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+41,NOR,aksel lund svindal,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+42,SUI,silvan zurbriggen,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+43,AUT,michael walchhofer,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+44,CAN,ryan semple,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+45,NOR,lasse kjus,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+46,POL,michal kalwa,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+47,BUL,stefan georgiev,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+48,SUI,didier defago,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+49,AND,alex antor,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+50,ISL,sindri m. palsson,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+51,RSA,alexander heath,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+52,ITA,patrick staudacher,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+53,CHI,jorge mandru,Disqualified,Turin 2006,Alpine Skiing,alpine combined women
+54,USA,bode miller,Disqualified,Turin 2006,Alpine Skiing,alpine combined women
+55,BRA,nikolai hentsch,Disqualified,Turin 2006,Alpine Skiing,alpine combined women
+56,RUS,konstantin sats,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+57,CZE,filip trejbal,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+58,AUS,jonathon brauer,Did not finish,Turin 2006,Alpine Skiing,alpine combined women
+59,NOR,kjetil andre aamodt,Did not start,Turin 2006,Alpine Skiing,alpine combined women
+0,FRA,antoine deneriaz,00:01:48.800,Turin 2006,Alpine Skiing,downhill men
+1,AUT,michael walchhofer,00:01:49.520,Turin 2006,Alpine Skiing,downhill men
+2,SUI,bruno kernen,00:01:49.820,Turin 2006,Alpine Skiing,downhill men
+3,NOR,kjetil andre aamodt,00:01:49.880,Turin 2006,Alpine Skiing,downhill men
+4,USA,bode miller,00:01:49.930,Turin 2006,Alpine Skiing,downhill men
+5,AUT,hermann maier,00:01:50.000,Turin 2006,Alpine Skiing,downhill men
+6,LIE,marco buechel,00:01:50.040,Turin 2006,Alpine Skiing,downhill men
+7,AUT,fritz strobl,00:01:50.120,Turin 2006,Alpine Skiing,downhill men
+8,ITA,patrick staudacher,00:01:50.290,Turin 2006,Alpine Skiing,downhill men
+9,USA,daron rahlves,00:01:50.330,Turin 2006,Alpine Skiing,downhill men
+10,FRA,pierre-emmanuel dalcin,00:01:50.350,Turin 2006,Alpine Skiing,downhill men
+11,SUI,tobias gruenenfelder,00:01:50.440,Turin 2006,Alpine Skiing,downhill men
+12,CAN,manuel osborne-paradis,00:01:50.450,Turin 2006,Alpine Skiing,downhill men
+13,NOR,lasse kjus,00:01:50.640,Turin 2006,Alpine Skiing,downhill men
+14,USA,scott macartney,00:01:50.680,Turin 2006,Alpine Skiing,downhill men
+15,CAN,françois bourque,00:01:50.700,Turin 2006,Alpine Skiing,downhill men
+16,SUI,ambrosi hoffmann,00:01:50.720,Turin 2006,Alpine Skiing,downhill men
+17,ITA,kurt sulzenbacher,00:01:50.840,Turin 2006,Alpine Skiing,downhill men
+18,USA,steven nyman,00:01:50.880,Turin 2006,Alpine Skiing,downhill men
+19,ITA,peter fill,00:01:50.880,Turin 2006,Alpine Skiing,downhill men
+20,NOR,aksel lund svindal,00:01:50.900,Turin 2006,Alpine Skiing,downhill men
+21,AUT,klaus kroell,00:01:50.910,Turin 2006,Alpine Skiing,downhill men
+22,ITA,kristian ghedina,00:01:50.980,Turin 2006,Alpine Skiing,downhill men
+23,FRA,yannick bertrand,00:01:51.370,Turin 2006,Alpine Skiing,downhill men
+24,GBR,finlay mickel,00:01:51.480,Turin 2006,Alpine Skiing,downhill men
+25,SUI,didier defago,00:01:51.510,Turin 2006,Alpine Skiing,downhill men
+26,CAN,john kucera,00:01:51.550,Turin 2006,Alpine Skiing,downhill men
+27,SLO,andrej jerman,00:01:51.700,Turin 2006,Alpine Skiing,downhill men
+28,NOR,bjarne solbakken,00:01:51.720,Turin 2006,Alpine Skiing,downhill men
+29,RUS,pavel chestakov,00:01:51.930,Turin 2006,Alpine Skiing,downhill men
+30,SLO,andrej sporn,00:01:52.170,Turin 2006,Alpine Skiing,downhill men
+31,AUS,craig branch,00:01:52.550,Turin 2006,Alpine Skiing,downhill men
+32,SWE,patrik jaerbyn,00:01:52.870,Turin 2006,Alpine Skiing,downhill men
+33,CZE,petr zahrobsky,00:01:52.900,Turin 2006,Alpine Skiing,downhill men
+34,LIE,claudio sprecher,00:01:53.340,Turin 2006,Alpine Skiing,downhill men
+35,CZE,borek zakouril,00:01:54.070,Turin 2006,Alpine Skiing,downhill men
+36,GBR,roger cruickshank,00:01:54.650,Turin 2006,Alpine Skiing,downhill men
+37,RUS,alexander khoroshilov,00:01:54.700,Turin 2006,Alpine Skiing,downhill men
+38,AND,alex antor,00:01:55.010,Turin 2006,Alpine Skiing,downhill men
+39,RUS,konstantin sats,00:01:55.030,Turin 2006,Alpine Skiing,downhill men
+40,CHI,mikael gayme,00:01:55.730,Turin 2006,Alpine Skiing,downhill men
+41,CHI,maui gayme,00:01:56.100,Turin 2006,Alpine Skiing,downhill men
+42,BRA,nikolai hentsch,00:01:56.580,Turin 2006,Alpine Skiing,downhill men
+43,POL,michal kalwa,00:01:56.810,Turin 2006,Alpine Skiing,downhill men
+44,SVK,jaroslav babusiak,00:01:57.450,Turin 2006,Alpine Skiing,downhill men
+45,LAT,renars dorsh,00:01:57.540,Turin 2006,Alpine Skiing,downhill men
+46,UKR,nikolay skriabin,00:01:57.560,Turin 2006,Alpine Skiing,downhill men
+47,ISL,sindri m. palsson,00:01:57.690,Turin 2006,Alpine Skiing,downhill men
+48,CHI,jorge mandru,00:01:58.770,Turin 2006,Alpine Skiing,downhill men
+49,AND,roger vidosa,00:01:59.240,Turin 2006,Alpine Skiing,downhill men
+50,TJK,andrei drygin,00:01:59.410,Turin 2006,Alpine Skiing,downhill men
+51,RSA,alexander heath,00:01:59.790,Turin 2006,Alpine Skiing,downhill men
+52,ROU,florentin-daniel nicolae,00:02:00.930,Turin 2006,Alpine Skiing,downhill men
+53,CZE,ondrej bank,Did not finish,Turin 2006,Alpine Skiing,downhill men
+54,SVK,ivan heimschild,Did not finish,Turin 2006,Alpine Skiing,downhill men
+0,AUT,michaela dorfmeister,00:01:56.490,Turin 2006,Alpine Skiing,downhill women
+1,SUI,martina schild,00:01:56.860,Turin 2006,Alpine Skiing,downhill women
+2,SWE,anja paerson,00:01:57.130,Turin 2006,Alpine Skiing,downhill women
+3,AUT,renate goetschl,00:01:57.200,Turin 2006,Alpine Skiing,downhill women
+4,SUI,nadia styger,00:01:57.620,Turin 2006,Alpine Skiing,downhill women
+5,GER,petra haltmayr,00:01:57.690,Turin 2006,Alpine Skiing,downhill women
+6,USA,julia mancuso,00:01:57.710,Turin 2006,Alpine Skiing,downhill women
+7,USA,lindsey vonn,00:01:57.780,Turin 2006,Alpine Skiing,downhill women
+8,AUT,alexandra meissnitzer,00:01:57.780,Turin 2006,Alpine Skiing,downhill women
+9,ITA,nadia fanchini,00:01:57.840,Turin 2006,Alpine Skiing,downhill women
+10,GBR,chemmy alcott,00:01:57.850,Turin 2006,Alpine Skiing,downhill women
+11,SUI,fraenzi aufdenblatten,00:01:57.960,Turin 2006,Alpine Skiing,downhill women
+12,ITA,lucia recchia,00:01:58.300,Turin 2006,Alpine Skiing,downhill women
+13,SUI,sylviane berthod,00:01:58.360,Turin 2006,Alpine Skiing,downhill women
+14,FRA,marie marchand-arvier,00:01:58.390,Turin 2006,Alpine Skiing,downhill women
+15,FRA,ingrid jacquemod,00:01:58.460,Turin 2006,Alpine Skiing,downhill women
+16,SWE,janette hargin,00:01:58.530,Turin 2006,Alpine Skiing,downhill women
+17,SWE,jessica lindell-vikarby,00:01:58.560,Turin 2006,Alpine Skiing,downhill women
+18,USA,stacey cook,00:01:58.700,Turin 2006,Alpine Skiing,downhill women
+19,CAN,emily brydon,00:01:58.970,Turin 2006,Alpine Skiing,downhill women
+20,USA,kirsten l clark,00:01:59.070,Turin 2006,Alpine Skiing,downhill women
+21,SWE,nike bent,00:01:59.170,Turin 2006,Alpine Skiing,downhill women
+22,ISL,dagny l. kristjansdottir,00:01:59.430,Turin 2006,Alpine Skiing,downhill women
+23,CAN,kelly vanderbeek,00:01:59.630,Turin 2006,Alpine Skiing,downhill women
+24,SLO,petra robnik,00:01:59.660,Turin 2006,Alpine Skiing,downhill women
+25,CAN,shona rubens,00:02:00.300,Turin 2006,Alpine Skiing,downhill women
+26,CAN,sherry lawrence,00:02:00.470,Turin 2006,Alpine Skiing,downhill women
+27,FRA,carole montillet-carles,00:02:01.030,Turin 2006,Alpine Skiing,downhill women
+28,ITA,elena fanchini,00:02:01.060,Turin 2006,Alpine Skiing,downhill women
+29,ESP,carolina ruiz castillo,00:02:01.090,Turin 2006,Alpine Skiing,downhill women
+30,MON,alexandra coletti,00:02:01.340,Turin 2006,Alpine Skiing,downhill women
+31,ITA,daniela merighetti,00:02:01.760,Turin 2006,Alpine Skiing,downhill women
+32,RUS,olesya aliyeva,00:02:02.060,Turin 2006,Alpine Skiing,downhill women
+33,LBN,chirine njeim,00:02:02.860,Turin 2006,Alpine Skiing,downhill women
+34,SVK,sona maculova,00:02:03.630,Turin 2006,Alpine Skiing,downhill women
+35,SVK,jana gantnerova,00:02:04.600,Turin 2006,Alpine Skiing,downhill women
+36,SVK,eva huckova,00:02:05.320,Turin 2006,Alpine Skiing,downhill women
+37,ESP,andrea casasnovas,00:02:06.730,Turin 2006,Alpine Skiing,downhill women
+38,ARG,miriam vazquez,00:02:07.420,Turin 2006,Alpine Skiing,downhill women
+39,ALG,christelle laura douibi,00:02:09.680,Turin 2006,Alpine Skiing,downhill women
+40,LIE,tina weirather,Did not finish,Turin 2006,Alpine Skiing,downhill women
+41,SLO,urska rabic,Did not finish,Turin 2006,Alpine Skiing,downhill women
+42,AUT,elisabeth goergl,Did not finish,Turin 2006,Alpine Skiing,downhill women
+43,ESP,leyre morlans,Did not finish,Turin 2006,Alpine Skiing,downhill women
+44,CRO,janica kostelic,Did not start,Turin 2006,Alpine Skiing,downhill women
+0,AUT,benjamin raich,00:02:35.000,Turin 2006,Alpine Skiing,giant slalom men
+1,FRA,joel chenal,00:02:35.070,Turin 2006,Alpine Skiing,giant slalom men
+2,AUT,hermann maier,00:02:35.160,Turin 2006,Alpine Skiing,giant slalom men
+3,CAN,françois bourque,00:02:35.920,Turin 2006,Alpine Skiing,giant slalom men
+4,SWE,fredrik nyberg,00:02:36.050,Turin 2006,Alpine Skiing,giant slalom men
+5,NOR,aksel lund svindal,00:02:36.060,Turin 2006,Alpine Skiing,giant slalom men
+6,USA,bode miller,00:02:36.060,Turin 2006,Alpine Skiing,giant slalom men
+7,AUT,rainer schoenfelder,00:02:36.640,Turin 2006,Alpine Skiing,giant slalom men
+8,FIN,kalle palander,00:02:36.820,Turin 2006,Alpine Skiing,giant slalom men
+9,CAN,thomas grandi,00:02:36.880,Turin 2006,Alpine Skiing,giant slalom men
+10,ITA,massimiliano blardone,00:02:36.950,Turin 2006,Alpine Skiing,giant slalom men
+11,SLO,mitja valencic,00:02:37.390,Turin 2006,Alpine Skiing,giant slalom men
+12,USA,erik schlopy,00:02:37.560,Turin 2006,Alpine Skiing,giant slalom men
+13,SUI,didier defago,00:02:37.600,Turin 2006,Alpine Skiing,giant slalom men
+14,ITA,alberto schieppati,00:02:37.830,Turin 2006,Alpine Skiing,giant slalom men
+15,CZE,ondrej bank,00:02:37.850,Turin 2006,Alpine Skiing,giant slalom men
+16,SUI,marc berthod,00:02:38.250,Turin 2006,Alpine Skiing,giant slalom men
+17,NOR,lasse kjus,00:02:39.310,Turin 2006,Alpine Skiing,giant slalom men
+18,SUI,didier cuche,00:02:39.330,Turin 2006,Alpine Skiing,giant slalom men
+19,NOR,bjarne solbakken,00:02:39.610,Turin 2006,Alpine Skiing,giant slalom men
+20,FRA,raphael burtin,00:02:40.990,Turin 2006,Alpine Skiing,giant slalom men
+21,FIN,jukka rajala,00:02:41.400,Turin 2006,Alpine Skiing,giant slalom men
+22,ARG,cristian javier simari birkner,00:02:42.560,Turin 2006,Alpine Skiing,giant slalom men
+23,JPN,daisuke yoshioka,00:02:45.030,Turin 2006,Alpine Skiing,giant slalom men
+24,CRO,natko zrncic dim,00:02:45.590,Turin 2006,Alpine Skiing,giant slalom men
+25,UKR,nikolay skriabin,00:02:50.850,Turin 2006,Alpine Skiing,giant slalom men
+26,RSA,alexander heath,00:02:51.420,Turin 2006,Alpine Skiing,giant slalom men
+27,KOR,hyung chul kim,00:02:52.460,Turin 2006,Alpine Skiing,giant slalom men
+28,GEO,iason abramashvili,00:02:54.860,Turin 2006,Alpine Skiing,giant slalom men
+29,BRA,nikolai hentsch,00:02:55.560,Turin 2006,Alpine Skiing,giant slalom men
+30,IRL,thomas foley,00:02:57.420,Turin 2006,Alpine Skiing,giant slalom men
+31,ISR,mikail renzhin,00:03:00.410,Turin 2006,Alpine Skiing,giant slalom men
+32,KAZ,victor ryabchenko,00:03:00.660,Turin 2006,Alpine Skiing,giant slalom men
+33,CYP,theodoros christodoulou,00:03:02.030,Turin 2006,Alpine Skiing,giant slalom men
+34,ALB,erjon tola,00:03:02.890,Turin 2006,Alpine Skiing,giant slalom men
+35,IRI,alidad saveh shemshaki,00:03:03.880,Turin 2006,Alpine Skiing,giant slalom men
+36,BIH,marco schafferer,00:03:04.460,Turin 2006,Alpine Skiing,giant slalom men
+37,HUN,attila marosi,00:03:05.120,Turin 2006,Alpine Skiing,giant slalom men
+38,MAD,mathieu razanakolona,00:03:06.430,Turin 2006,Alpine Skiing,giant slalom men
+39,CHN,li guangxu,00:03:08.070,Turin 2006,Alpine Skiing,giant slalom men
+40,KGZ,ivan borisov,00:03:37.100,Turin 2006,Alpine Skiing,giant slalom men
+41,AUT,stephan goergl,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+42,CAN,jean-philippe roy,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+43,CZE,martin vrablik,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+44,EST,deyvid oprja,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+45,NOR,kjetil jansrud,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+46,TUR,hamit sare,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+47,USA,daron rahlves,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+48,ITA,davide simoncelli,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+49,LIE,marco buechel,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+50,USA,ted ligety,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+51,ITA,manfred moelgg,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+52,FRA,thomas fanara,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+53,SLO,ales gorza,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+54,SUI,daniel albrecht,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+55,FRA,gauthier de tessieres,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+56,CAN,ryan semple,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+57,GER,felix neureuther,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+58,SLO,bernard vajdic,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+59,AUS,bradley wall,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+60,CZE,petr zahrobsky,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+61,ISL,björgvin björgvinsson,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+62,LIE,claudio sprecher,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+63,RUS,dmitry ulyanov,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+64,RUS,pavel chestakov,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+65,RUS,konstantin sats,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+66,CZE,krystof kryzl,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+67,KOR,min-hyeok gang,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+68,JPN,akira sasaki,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+69,ARG,facundo aguirre,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+70,CHI,duncan grob,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+71,KOR,woo-sung kim,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+72,GRE,vassilis dimitriadis,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+73,CRO,ivan ratkic,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+74,ISL,kristjan uni oskarsson,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+75,MON,olivier jenot,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+76,MKD,gjorgi markovski,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+77,TJK,andrei drygin,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+78,SEN,leyti seck,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+79,IND,hira lal,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+80,SMR,marino cardelli,Did not finish,Turin 2006,Alpine Skiing,giant slalom men
+81,LTU,vitalijus rumiancevas,Disqualified,Turin 2006,Alpine Skiing,giant slalom men
+0,USA,julia mancuso,00:02:09.190,Turin 2006,Alpine Skiing,giant slalom women
+1,FIN,tanja poutiainen,00:02:09.860,Turin 2006,Alpine Skiing,giant slalom women
+2,SWE,anna ottosson,00:02:10.330,Turin 2006,Alpine Skiing,giant slalom women
+3,AUT,nicole hosp,00:02:10.660,Turin 2006,Alpine Skiing,giant slalom women
+4,CAN,genevieve simard,00:02:10.730,Turin 2006,Alpine Skiing,giant slalom women
+5,SWE,anja paerson,00:02:10.960,Turin 2006,Alpine Skiing,giant slalom women
+6,AUT,kathrin zettel,00:02:11.350,Turin 2006,Alpine Skiing,giant slalom women
+7,ITA,nadia fanchini,00:02:11.460,Turin 2006,Alpine Skiing,giant slalom women
+8,SLO,ana drev,00:02:11.670,Turin 2006,Alpine Skiing,giant slalom women
+9,SWE,maria pietilae holmner,00:02:11.690,Turin 2006,Alpine Skiing,giant slalom women
+10,CAN,brigitte acton,00:02:11.710,Turin 2006,Alpine Skiing,giant slalom women
+11,SLO,tina maze,00:02:11.830,Turin 2006,Alpine Skiing,giant slalom women
+12,ESP,maria jose rienda,00:02:12.130,Turin 2006,Alpine Skiing,giant slalom women
+13,ITA,karen putzer,00:02:12.470,Turin 2006,Alpine Skiing,giant slalom women
+14,GER,martina ertl-renz,00:02:12.540,Turin 2006,Alpine Skiing,giant slalom women
+15,SUI,fraenzi aufdenblatten,00:02:12.620,Turin 2006,Alpine Skiing,giant slalom women
+16,AUT,marlies schild,00:02:13.270,Turin 2006,Alpine Skiing,giant slalom women
+17,SWE,jessica lindell-vikarby,00:02:13.360,Turin 2006,Alpine Skiing,giant slalom women
+18,CRO,nika fleiss,00:02:13.430,Turin 2006,Alpine Skiing,giant slalom women
+19,ESP,carolina ruiz castillo,00:02:13.540,Turin 2006,Alpine Skiing,giant slalom women
+20,FRA,ingrid jacquemod,00:02:14.050,Turin 2006,Alpine Skiing,giant slalom women
+21,GBR,chemmy alcott,00:02:14.420,Turin 2006,Alpine Skiing,giant slalom women
+22,USA,stacey cook,00:02:14.440,Turin 2006,Alpine Skiing,giant slalom women
+23,SUI,nadia styger,00:02:14.450,Turin 2006,Alpine Skiing,giant slalom women
+24,POL,dagmara krzyzynska,00:02:15.910,Turin 2006,Alpine Skiing,giant slalom women
+25,JPN,noriyo hiroi,00:02:16.660,Turin 2006,Alpine Skiing,giant slalom women
+26,CZE,petra zakourilova,00:02:17.000,Turin 2006,Alpine Skiing,giant slalom women
+27,SVK,eva huckova,00:02:18.310,Turin 2006,Alpine Skiing,giant slalom women
+28,SVK,sona maculova,00:02:18.610,Turin 2006,Alpine Skiing,giant slalom women
+29,SCG,jelena lolovic,00:02:18.840,Turin 2006,Alpine Skiing,giant slalom women
+30,ARG,macarena simari birkner,00:02:19.430,Turin 2006,Alpine Skiing,giant slalom women
+31,IRL,kirsty mcgarry,00:02:22.870,Turin 2006,Alpine Skiing,giant slalom women
+32,KOR,jae-eun oh,00:02:24.470,Turin 2006,Alpine Skiing,giant slalom women
+33,EST,tiiu nurmberg,00:02:25.090,Turin 2006,Alpine Skiing,giant slalom women
+34,UKR,yulia siparenko,00:02:25.930,Turin 2006,Alpine Skiing,giant slalom women
+35,KAZ,vera eremenko,00:02:29.750,Turin 2006,Alpine Skiing,giant slalom women
+36,TUR,duygu ulusoy,00:02:30.810,Turin 2006,Alpine Skiing,giant slalom women
+37,CHN,jinzhi dong,00:02:35.720,Turin 2006,Alpine Skiing,giant slalom women
+38,GRE,magda kalomoirou,00:02:36.450,Turin 2006,Alpine Skiing,giant slalom women
+39,MKD,ivana ivchevska,00:02:37.360,Turin 2006,Alpine Skiing,giant slalom women
+40,HUN,reka tuss,00:02:39.820,Turin 2006,Alpine Skiing,giant slalom women
+41,IND,neha ahuja,00:02:41.310,Turin 2006,Alpine Skiing,giant slalom women
+42,BRA,mirella arnhold,00:02:49.170,Turin 2006,Alpine Skiing,giant slalom women
+43,CZE,sarka zahrobska,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+44,CZE,lucie hrstkova,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+45,GER,annemarie gerg,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+46,ITA,denise karbon,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+47,AUT,michaela kirchgasser,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+48,USA,sarah schleper,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+49,CRO,ana jelusic,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+50,CRO,matea ferk,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+51,SVK,jana gantnerova,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+52,LBN,chirine njeim,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+53,ROU,bianca-andreea narea,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+54,ITA,manuela moelgg,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+55,CAN,christina lustenberger,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+56,ARG,maria belen simari birkner,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+57,MON,alexandra coletti,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+58,NZL,nicola campbell,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+59,ISL,dagny l. kristjansdottir,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+60,NZL,erika mcleod,Did not finish,Turin 2006,Alpine Skiing,giant slalom women
+61,RUS,olesya aliyeva,Disqualified,Turin 2006,Alpine Skiing,giant slalom women
+62,CRO,janica kostelic,Did not start,Turin 2006,Alpine Skiing,giant slalom women
+63,USA,lindsey vonn,Did not start,Turin 2006,Alpine Skiing,giant slalom women
+64,BIH,mojca rataj,Did not start,Turin 2006,Alpine Skiing,giant slalom women
+0,AUT,benjamin raich,00:01:43.140,Turin 2006,Alpine Skiing,slalom men
+1,AUT,reinfried herbst,00:01:43.970,Turin 2006,Alpine Skiing,slalom men
+2,AUT,rainer schoenfelder,00:01:44.150,Turin 2006,Alpine Skiing,slalom men
+3,SWE,andre myhrer,00:01:44.180,Turin 2006,Alpine Skiing,slalom men
+4,JPN,kentaro minagawa,00:01:44.180,Turin 2006,Alpine Skiing,slalom men
+5,CRO,ivica kostelic,00:01:44.450,Turin 2006,Alpine Skiing,slalom men
+6,JPN,naoki yuasa,00:01:44.570,Turin 2006,Alpine Skiing,slalom men
+7,SWE,johan brolenius,00:01:44.810,Turin 2006,Alpine Skiing,slalom men
+8,CAN,thomas grandi,00:01:44.840,Turin 2006,Alpine Skiing,slalom men
+9,SWE,martin hansson,00:01:45.240,Turin 2006,Alpine Skiing,slalom men
+10,FRA,pierrick bourgeat,00:01:45.480,Turin 2006,Alpine Skiing,slalom men
+11,USA,james cochran,00:01:45.680,Turin 2006,Alpine Skiing,slalom men
+12,SLO,drago grubelnik,00:01:45.690,Turin 2006,Alpine Skiing,slalom men
+13,SUI,marc berthod,00:01:46.000,Turin 2006,Alpine Skiing,slalom men
+14,SUI,silvan zurbriggen,00:01:46.100,Turin 2006,Alpine Skiing,slalom men
+15,GBR,alain baxter,00:01:46.150,Turin 2006,Alpine Skiing,slalom men
+16,CAN,michael janyk,00:01:46.190,Turin 2006,Alpine Skiing,slalom men
+17,USA,chip knight,00:01:46.260,Turin 2006,Alpine Skiing,slalom men
+18,SLO,bernard vajdic,00:01:46.430,Turin 2006,Alpine Skiing,slalom men
+19,GBR,noel baxter,00:01:47.220,Turin 2006,Alpine Skiing,slalom men
+20,CZE,martin vrablik,00:01:47.400,Turin 2006,Alpine Skiing,slalom men
+21,ISL,björgvin björgvinsson,00:01:51.230,Turin 2006,Alpine Skiing,slalom men
+22,GRE,vassilis dimitriadis,00:01:51.380,Turin 2006,Alpine Skiing,slalom men
+23,SVK,jaroslav babusiak,00:01:52.060,Turin 2006,Alpine Skiing,slalom men
+24,BUL,stefan georgiev,00:01:52.550,Turin 2006,Alpine Skiing,slalom men
+25,SVK,ivan heimschild,00:01:53.980,Turin 2006,Alpine Skiing,slalom men
+26,AND,roger vidosa,00:01:54.030,Turin 2006,Alpine Skiing,slalom men
+27,ISL,kristjan uni oskarsson,00:01:54.700,Turin 2006,Alpine Skiing,slalom men
+28,RUS,anton konovalov,00:01:54.710,Turin 2006,Alpine Skiing,slalom men
+29,BIH,marco schafferer,00:01:57.170,Turin 2006,Alpine Skiing,slalom men
+30,NZL,mickey ross,00:01:57.800,Turin 2006,Alpine Skiing,slalom men
+31,GEO,iason abramashvili,00:01:58.670,Turin 2006,Alpine Skiing,slalom men
+32,CRO,natko zrncic dim,00:01:59.030,Turin 2006,Alpine Skiing,slalom men
+33,MON,olivier jenot,00:01:59.130,Turin 2006,Alpine Skiing,slalom men
+34,ISL,kristinn ingi valsson,00:01:59.800,Turin 2006,Alpine Skiing,slalom men
+35,UKR,nikolay skriabin,00:01:59.960,Turin 2006,Alpine Skiing,slalom men
+36,ISR,mikail renzhin,00:02:00.730,Turin 2006,Alpine Skiing,slalom men
+37,CYP,theodoros christodoulou,00:02:06.550,Turin 2006,Alpine Skiing,slalom men
+38,ITA,hannes paul schmid,00:02:08.630,Turin 2006,Alpine Skiing,slalom men
+39,TUR,hamit sare,00:02:09.130,Turin 2006,Alpine Skiing,slalom men
+40,IRI,alidad saveh shemshaki,00:02:09.560,Turin 2006,Alpine Skiing,slalom men
+41,HUN,attila marosi,00:02:10.280,Turin 2006,Alpine Skiing,slalom men
+42,LBN,george salameh,00:02:11.610,Turin 2006,Alpine Skiing,slalom men
+43,LTU,vitalijus rumiancevas,00:02:13.460,Turin 2006,Alpine Skiing,slalom men
+44,ARM,abraham sarkakhyan,00:02:16.210,Turin 2006,Alpine Skiing,slalom men
+45,UZB,kayrat ermetov,00:02:20.880,Turin 2006,Alpine Skiing,slalom men
+46,JPN,yasuhiro ikuta,00:02:23.280,Turin 2006,Alpine Skiing,slalom men
+47,SUI,daniel albrecht,Did not finish,Turin 2006,Alpine Skiing,slalom men
+48,GER,felix neureuther,Did not finish,Turin 2006,Alpine Skiing,slalom men
+49,NOR,aksel lund svindal,Did not finish,Turin 2006,Alpine Skiing,slalom men
+50,FRA,jean-baptiste grange,Did not finish,Turin 2006,Alpine Skiing,slalom men
+51,CZE,filip trejbal,Did not finish,Turin 2006,Alpine Skiing,slalom men
+52,CAN,patrick biggs,Did not finish,Turin 2006,Alpine Skiing,slalom men
+53,JPN,akira sasaki,Did not finish,Turin 2006,Alpine Skiing,slalom men
+54,POL,michal kalwa,Did not finish,Turin 2006,Alpine Skiing,slalom men
+55,BUL,dean todorov,Did not finish,Turin 2006,Alpine Skiing,slalom men
+56,MKD,gjorgi markovski,Did not finish,Turin 2006,Alpine Skiing,slalom men
+57,CHN,li guangxu,Did not finish,Turin 2006,Alpine Skiing,slalom men
+58,ITA,giorgio rocca,Did not finish,Turin 2006,Alpine Skiing,slalom men
+59,SWE,markus larsson,Did not finish,Turin 2006,Alpine Skiing,slalom men
+60,GER,alois vogl,Did not finish,Turin 2006,Alpine Skiing,slalom men
+61,FRA,stephane tissot,Did not finish,Turin 2006,Alpine Skiing,slalom men
+62,USA,bode miller,Did not finish,Turin 2006,Alpine Skiing,slalom men
+63,AUT,mario matt,Did not finish,Turin 2006,Alpine Skiing,slalom men
+64,ITA,manfred moelgg,Did not finish,Turin 2006,Alpine Skiing,slalom men
+65,ITA,patrick thaler,Did not finish,Turin 2006,Alpine Skiing,slalom men
+66,NOR,hans-petter buraas,Did not finish,Turin 2006,Alpine Skiing,slalom men
+67,CAN,jean-philippe roy,Did not finish,Turin 2006,Alpine Skiing,slalom men
+68,NOR,lars elton myhre,Did not finish,Turin 2006,Alpine Skiing,slalom men
+69,AUS,jonathon brauer,Did not finish,Turin 2006,Alpine Skiing,slalom men
+70,SLO,mitja valencic,Did not finish,Turin 2006,Alpine Skiing,slalom men
+71,GBR,james leuzinger,Did not finish,Turin 2006,Alpine Skiing,slalom men
+72,ARG,cristian javier simari birkner,Did not finish,Turin 2006,Alpine Skiing,slalom men
+73,SLO,ales gorza,Did not finish,Turin 2006,Alpine Skiing,slalom men
+74,FIN,jukka rajala,Did not finish,Turin 2006,Alpine Skiing,slalom men
+75,RUS,dmitry ulyanov,Did not finish,Turin 2006,Alpine Skiing,slalom men
+76,CRO,dalibor samsal,Did not finish,Turin 2006,Alpine Skiing,slalom men
+77,CZE,krystof kryzl,Did not finish,Turin 2006,Alpine Skiing,slalom men
+78,BUL,mihail sedyankov,Did not finish,Turin 2006,Alpine Skiing,slalom men
+79,RUS,alexander khoroshilov,Did not finish,Turin 2006,Alpine Skiing,slalom men
+80,AND,alex antor,Did not finish,Turin 2006,Alpine Skiing,slalom men
+81,CRO,danko marinelli,Did not finish,Turin 2006,Alpine Skiing,slalom men
+82,ISL,sindri m. palsson,Did not finish,Turin 2006,Alpine Skiing,slalom men
+83,RSA,alexander heath,Did not finish,Turin 2006,Alpine Skiing,slalom men
+84,KAZ,victor ryabchenko,Did not finish,Turin 2006,Alpine Skiing,slalom men
+85,SEN,leyti seck,Did not finish,Turin 2006,Alpine Skiing,slalom men
+86,MAD,mathieu razanakolona,Did not finish,Turin 2006,Alpine Skiing,slalom men
+87,ALB,erjon tola,Did not finish,Turin 2006,Alpine Skiing,slalom men
+88,USA,ted ligety,Disqualified,Turin 2006,Alpine Skiing,slalom men
+89,FIN,kalle palander,Disqualified,Turin 2006,Alpine Skiing,slalom men
+90,KOR,min-hyeok gang,Disqualified,Turin 2006,Alpine Skiing,slalom men
+91,KGZ,ivan borisov,Disqualified,Turin 2006,Alpine Skiing,slalom men
+92,SCG,zelimir vukovic,Disqualified,Turin 2006,Alpine Skiing,slalom men
+93,FRA,jean-pierre vidal,Did not start,Turin 2006,Alpine Skiing,slalom men
+94,CZE,ondrej bank,Did not start,Turin 2006,Alpine Skiing,slalom men
+95,RUS,pavel chestakov,Did not start,Turin 2006,Alpine Skiing,slalom men
+96,EST,deyvid oprja,Did not start,Turin 2006,Alpine Skiing,slalom men
+0,SWE,anja paerson,00:01:29.040,Turin 2006,Alpine Skiing,slalom women
+1,AUT,nicole hosp,00:01:29.330,Turin 2006,Alpine Skiing,slalom women
+2,AUT,marlies schild,00:01:29.790,Turin 2006,Alpine Skiing,slalom women
+3,CRO,janica kostelic,00:01:29.940,Turin 2006,Alpine Skiing,slalom women
+4,AUT,michaela kirchgasser,00:01:30.280,Turin 2006,Alpine Skiing,slalom women
+5,FIN,tanja poutiainen,00:01:30.790,Turin 2006,Alpine Skiing,slalom women
+6,GER,annemarie gerg,00:01:30.890,Turin 2006,Alpine Skiing,slalom women
+7,ITA,chiara costazza,00:01:31.080,Turin 2006,Alpine Skiing,slalom women
+8,SWE,therese borssen,00:01:31.080,Turin 2006,Alpine Skiing,slalom women
+9,USA,sarah schleper,00:01:31.380,Turin 2006,Alpine Skiing,slalom women
+10,FRA,florine de leymarie,00:01:31.390,Turin 2006,Alpine Skiing,slalom women
+11,USA,resi stiegler,00:01:31.480,Turin 2006,Alpine Skiing,slalom women
+12,CZE,sarka zahrobska,00:01:31.550,Turin 2006,Alpine Skiing,slalom women
+13,USA,lindsey vonn,00:01:31.580,Turin 2006,Alpine Skiing,slalom women
+14,CRO,ana jelusic,00:01:31.780,Turin 2006,Alpine Skiing,slalom women
+15,GER,monika bergmann-schmuderer,00:01:31.840,Turin 2006,Alpine Skiing,slalom women
+16,CAN,brigitte acton,00:01:31.900,Turin 2006,Alpine Skiing,slalom women
+17,SWE,anna ottosson,00:01:32.080,Turin 2006,Alpine Skiing,slalom women
+18,ITA,manuela moelgg,00:01:32.170,Turin 2006,Alpine Skiing,slalom women
+19,FIN,henna raita,00:01:32.330,Turin 2006,Alpine Skiing,slalom women
+20,SWE,maria pietilae holmner,00:01:32.470,Turin 2006,Alpine Skiing,slalom women
+21,SVK,veronika velez zuzulova,00:01:32.530,Turin 2006,Alpine Skiing,slalom women
+22,CRO,nika fleiss,00:01:32.610,Turin 2006,Alpine Skiing,slalom women
+23,ITA,annalisa ceresa,00:01:32.770,Turin 2006,Alpine Skiing,slalom women
+24,SLO,ana kobal,00:01:32.890,Turin 2006,Alpine Skiing,slalom women
+25,FRA,vanessa vidal,00:01:32.970,Turin 2006,Alpine Skiing,slalom women
+26,JPN,mizue hoshi,00:01:33.380,Turin 2006,Alpine Skiing,slalom women
+27,CZE,eva kurfuerstova,00:01:33.470,Turin 2006,Alpine Skiing,slalom women
+28,JPN,noriyo hiroi,00:01:33.590,Turin 2006,Alpine Skiing,slalom women
+29,POL,katarzyna karasinska,00:01:34.300,Turin 2006,Alpine Skiing,slalom women
+30,BIH,mojca rataj,00:01:34.370,Turin 2006,Alpine Skiing,slalom women
+31,LIE,jessica walter,00:01:35.100,Turin 2006,Alpine Skiing,slalom women
+32,MON,alexandra coletti,00:01:35.960,Turin 2006,Alpine Skiing,slalom women
+33,FRA,anne-sophie barthet,00:01:36.660,Turin 2006,Alpine Skiing,slalom women
+34,NZL,nicola campbell,00:01:36.820,Turin 2006,Alpine Skiing,slalom women
+35,ARG,macarena simari birkner,00:01:37.070,Turin 2006,Alpine Skiing,slalom women
+36,ARG,maria belen simari birkner,00:01:37.610,Turin 2006,Alpine Skiing,slalom women
+37,JPN,mami sekizuka,00:01:37.720,Turin 2006,Alpine Skiing,slalom women
+38,LBN,chirine njeim,00:01:39.140,Turin 2006,Alpine Skiing,slalom women
+39,NZL,erika mcleod,00:01:40.570,Turin 2006,Alpine Skiing,slalom women
+40,KOR,jae-eun oh,00:01:41.840,Turin 2006,Alpine Skiing,slalom women
+41,IRL,kirsty mcgarry,00:01:42.430,Turin 2006,Alpine Skiing,slalom women
+42,SCG,jelena lolovic,00:01:42.800,Turin 2006,Alpine Skiing,slalom women
+43,EST,tiiu nurmberg,00:01:42.980,Turin 2006,Alpine Skiing,slalom women
+44,UKR,yulia siparenko,00:01:43.260,Turin 2006,Alpine Skiing,slalom women
+45,SCG,marija trmcic,00:01:43.460,Turin 2006,Alpine Skiing,slalom women
+46,KAZ,vera eremenko,00:01:46.000,Turin 2006,Alpine Skiing,slalom women
+47,MKD,ivana ivchevska,00:01:50.130,Turin 2006,Alpine Skiing,slalom women
+48,HUN,reka tuss,00:01:51.590,Turin 2006,Alpine Skiing,slalom women
+49,CHN,jinzhi dong,00:01:54.060,Turin 2006,Alpine Skiing,slalom women
+50,IND,neha ahuja,00:01:56.160,Turin 2006,Alpine Skiing,slalom women
+51,CZE,lucie hrstkova,Did not finish,Turin 2006,Alpine Skiing,slalom women
+52,BUL,maria kirkova,Did not finish,Turin 2006,Alpine Skiing,slalom women
+53,GER,martina ertl-renz,Did not finish,Turin 2006,Alpine Skiing,slalom women
+54,ITA,daniela merighetti,Did not finish,Turin 2006,Alpine Skiing,slalom women
+55,CZE,petra zakourilova,Did not finish,Turin 2006,Alpine Skiing,slalom women
+56,SVK,sona maculova,Did not finish,Turin 2006,Alpine Skiing,slalom women
+57,CRO,matea ferk,Did not finish,Turin 2006,Alpine Skiing,slalom women
+58,SVK,eva huckova,Did not finish,Turin 2006,Alpine Skiing,slalom women
+59,TUR,duygu ulusoy,Did not finish,Turin 2006,Alpine Skiing,slalom women
+60,USA,kristina koznick,Did not finish,Turin 2006,Alpine Skiing,slalom women
+61,AUT,kathrin zettel,Disqualified,Turin 2006,Alpine Skiing,slalom women
+62,FRA,laure pequegnot,Disqualified,Turin 2006,Alpine Skiing,slalom women
+63,GRE,magda kalomoirou,Disqualified,Turin 2006,Alpine Skiing,slalom women
+0,NOR,kjetil andre aamodt,1:30.65,Turin 2006,Alpine Skiing,super-G men
+1,AUT,hermann maier,1:30.78,Turin 2006,Alpine Skiing,super-G men
+2,SUI,ambrosi hoffmann,1:30.98,Turin 2006,Alpine Skiing,super-G men
+3,CAN,erik guay,1:31.08,Turin 2006,Alpine Skiing,super-G men
+4,NOR,aksel lund svindal,1:31.10,Turin 2006,Alpine Skiing,super-G men
+5,LIE,marco buechel,1:31.22,Turin 2006,Alpine Skiing,super-G men
+6,USA,scott macartney,1:31.23,Turin 2006,Alpine Skiing,super-G men
+7,CAN,françois bourque,1:31.27,Turin 2006,Alpine Skiing,super-G men
+8,USA,daron rahlves,1:31.37,Turin 2006,Alpine Skiing,super-G men
+9,AUT,hannes reichelt,1:31.39,Turin 2006,Alpine Skiing,super-G men
+10,FRA,antoine deneriaz,1:31.49,Turin 2006,Alpine Skiing,super-G men
+11,SUI,didier cuche,1:31.50,Turin 2006,Alpine Skiing,super-G men
+12,ITA,peter fill,1:31.54,Turin 2006,Alpine Skiing,super-G men
+13,NOR,lasse kjus,1:31.79,Turin 2006,Alpine Skiing,super-G men
+14,SLO,andrej sporn,1:31.84,Turin 2006,Alpine Skiing,super-G men
+15,SUI,didier defago,1:31.90,Turin 2006,Alpine Skiing,super-G men
+16,ITA,patrick staudacher,1:31.91,Turin 2006,Alpine Skiing,super-G men
+17,SUI,bruno kernen,1:31.95,Turin 2006,Alpine Skiing,super-G men
+18,AUT,christoph gruber,1:32.00,Turin 2006,Alpine Skiing,super-G men
+19,CAN,manuel osborne-paradis,1:32.02,Turin 2006,Alpine Skiing,super-G men
+20,AUT,benjamin raich,1:32.05,Turin 2006,Alpine Skiing,super-G men
+21,CAN,john kucera,1:32.10,Turin 2006,Alpine Skiing,super-G men
+22,GBR,finlay mickel,1:32.10,Turin 2006,Alpine Skiing,super-G men
+23,SWE,patrik jaerbyn,1:32.21,Turin 2006,Alpine Skiing,super-G men
+24,FRA,yannick bertrand,1:32.21,Turin 2006,Alpine Skiing,super-G men
+25,NOR,bjarne solbakken,1:32.90,Turin 2006,Alpine Skiing,super-G men
+26,RUS,konstantin sats,1:33.14,Turin 2006,Alpine Skiing,super-G men
+27,SLO,andrej jerman,1:33.20,Turin 2006,Alpine Skiing,super-G men
+28,RUS,pavel chestakov,1:33.48,Turin 2006,Alpine Skiing,super-G men
+29,ITA,massimiliano blardone,1:33.48,Turin 2006,Alpine Skiing,super-G men
+30,CRO,ivica kostelic,1:33.53,Turin 2006,Alpine Skiing,super-G men
+31,CZE,petr zahrobsky,1:33.70,Turin 2006,Alpine Skiing,super-G men
+32,SLO,ales gorza,1:33.77,Turin 2006,Alpine Skiing,super-G men
+33,CZE,krystof kryzl,1:34.20,Turin 2006,Alpine Skiing,super-G men
+34,CRO,natko zrncic dim,1:34.49,Turin 2006,Alpine Skiing,super-G men
+35,CRO,ivan ratkic,1:34.77,Turin 2006,Alpine Skiing,super-G men
+36,GBR,roger cruickshank,1:34.87,Turin 2006,Alpine Skiing,super-G men
+37,CZE,martin vrablik,1:34.90,Turin 2006,Alpine Skiing,super-G men
+38,FRA,gauthier de tessieres,1:34.94,Turin 2006,Alpine Skiing,super-G men
+39,SVK,jaroslav babusiak,1:35.41,Turin 2006,Alpine Skiing,super-G men
+40,RUS,alexander khoroshilov,1:35.51,Turin 2006,Alpine Skiing,super-G men
+41,RUS,anton konovalov,1:35.72,Turin 2006,Alpine Skiing,super-G men
+42,USA,steven nyman,1:36.22,Turin 2006,Alpine Skiing,super-G men
+43,CHI,duncan grob,1:36.24,Turin 2006,Alpine Skiing,super-G men
+44,POL,michal kalwa,1:36.25,Turin 2006,Alpine Skiing,super-G men
+45,SVK,ivan heimschild,1:36.58,Turin 2006,Alpine Skiing,super-G men
+46,CHI,maui gayme,1:36.85,Turin 2006,Alpine Skiing,super-G men
+47,MON,olivier jenot,1:37.03,Turin 2006,Alpine Skiing,super-G men
+48,CRO,ivan olivari,1:37.43,Turin 2006,Alpine Skiing,super-G men
+49,RSA,alexander heath,1:37.77,Turin 2006,Alpine Skiing,super-G men
+50,TJK,andrei drygin,1:37.85,Turin 2006,Alpine Skiing,super-G men
+51,LAT,ivars ciaguns,1:38.18,Turin 2006,Alpine Skiing,super-G men
+52,UKR,nikolay skriabin,1:38.86,Turin 2006,Alpine Skiing,super-G men
+53,CHI,mikael gayme,1:39.68,Turin 2006,Alpine Skiing,super-G men
+54,SEN,leyti seck,1:42.87,Turin 2006,Alpine Skiing,super-G men
+55,ALB,erjon tola,1:44.27,Turin 2006,Alpine Skiing,super-G men
+56,AUS,aj bear,Did not finish,Turin 2006,Alpine Skiing,super-G men
+57,FRA,pierre-emmanuel dalcin,Did not finish,Turin 2006,Alpine Skiing,super-G men
+58,USA,bode miller,Did not finish,Turin 2006,Alpine Skiing,super-G men
+59,LIE,claudio sprecher,Did not finish,Turin 2006,Alpine Skiing,super-G men
+60,CZE,ondrej bank,Did not finish,Turin 2006,Alpine Skiing,super-G men
+61,AND,alex antor,Did not finish,Turin 2006,Alpine Skiing,super-G men
+62,BRA,nikolai hentsch,Did not finish,Turin 2006,Alpine Skiing,super-G men
+0,AUT,michaela dorfmeister,00:01:32.470,Turin 2006,Alpine Skiing,super-G women
+1,CRO,janica kostelic,00:01:32.740,Turin 2006,Alpine Skiing,super-G women
+2,AUT,alexandra meissnitzer,00:01:33.060,Turin 2006,Alpine Skiing,super-G women
+3,CAN,kelly vanderbeek,00:01:33.090,Turin 2006,Alpine Skiing,super-G women
+4,FRA,carole montillet-carles,00:01:33.310,Turin 2006,Alpine Skiing,super-G women
+5,SUI,martina schild,00:01:33.330,Turin 2006,Alpine Skiing,super-G women
+6,USA,lindsey vonn,00:01:33.420,Turin 2006,Alpine Skiing,super-G women
+7,ITA,lucia recchia,00:01:33.480,Turin 2006,Alpine Skiing,super-G women
+8,CAN,emily brydon,00:01:33.500,Turin 2006,Alpine Skiing,super-G women
+9,GER,petra haltmayr,00:01:33.500,Turin 2006,Alpine Skiing,super-G women
+10,USA,julia mancuso,00:01:33.720,Turin 2006,Alpine Skiing,super-G women
+11,SWE,anja paerson,00:01:33.880,Turin 2006,Alpine Skiing,super-G women
+12,AUT,andrea fischbacher,00:01:33.970,Turin 2006,Alpine Skiing,super-G women
+13,USA,kirsten l clark,00:01:33.980,Turin 2006,Alpine Skiing,super-G women
+14,SUI,sylviane berthod,00:01:34.000,Turin 2006,Alpine Skiing,super-G women
+15,GER,martina ertl-renz,00:01:34.030,Turin 2006,Alpine Skiing,super-G women
+16,SUI,fraenzi aufdenblatten,00:01:34.100,Turin 2006,Alpine Skiing,super-G women
+17,SLO,urska rabic,00:01:34.120,Turin 2006,Alpine Skiing,super-G women
+18,GBR,chemmy alcott,00:01:34.200,Turin 2006,Alpine Skiing,super-G women
+19,CAN,genevieve simard,00:01:34.380,Turin 2006,Alpine Skiing,super-G women
+20,SWE,nike bent,00:01:34.410,Turin 2006,Alpine Skiing,super-G women
+21,SWE,janette hargin,00:01:34.480,Turin 2006,Alpine Skiing,super-G women
+22,ISL,dagny l. kristjansdottir,00:01:34.560,Turin 2006,Alpine Skiing,super-G women
+23,SWE,jessica lindell-vikarby,00:01:34.780,Turin 2006,Alpine Skiing,super-G women
+24,FRA,marie marchand-arvier,00:01:34.820,Turin 2006,Alpine Skiing,super-G women
+25,AUT,renate goetschl,00:01:34.830,Turin 2006,Alpine Skiing,super-G women
+26,CZE,sarka zahrobska,00:01:34.980,Turin 2006,Alpine Skiing,super-G women
+27,USA,libby ludlow,00:01:35.010,Turin 2006,Alpine Skiing,super-G women
+28,SLO,petra robnik,00:01:35.100,Turin 2006,Alpine Skiing,super-G women
+29,ESP,carolina ruiz castillo,00:01:35.200,Turin 2006,Alpine Skiing,super-G women
+30,ITA,daniela ceccarelli,00:01:35.260,Turin 2006,Alpine Skiing,super-G women
+31,FRA,ingrid jacquemod,00:01:35.280,Turin 2006,Alpine Skiing,super-G women
+32,LIE,tina weirather,00:01:35.340,Turin 2006,Alpine Skiing,super-G women
+33,CAN,sherry lawrence,00:01:35.470,Turin 2006,Alpine Skiing,super-G women
+34,SUI,nadia styger,00:01:35.570,Turin 2006,Alpine Skiing,super-G women
+35,CZE,lucie hrstkova,00:01:35.620,Turin 2006,Alpine Skiing,super-G women
+36,ESP,maria jose rienda,00:01:36.030,Turin 2006,Alpine Skiing,super-G women
+37,ITA,nadia fanchini,00:01:36.460,Turin 2006,Alpine Skiing,super-G women
+38,SLO,tina maze,00:01:36.640,Turin 2006,Alpine Skiing,super-G women
+39,CRO,nika fleiss,00:01:36.650,Turin 2006,Alpine Skiing,super-G women
+40,MON,alexandra coletti,00:01:37.020,Turin 2006,Alpine Skiing,super-G women
+41,RUS,olesya aliyeva,00:01:37.120,Turin 2006,Alpine Skiing,super-G women
+42,SCG,jelena lolovic,00:01:37.450,Turin 2006,Alpine Skiing,super-G women
+43,SVK,sona maculova,00:01:37.870,Turin 2006,Alpine Skiing,super-G women
+44,SLO,ana drev,00:01:37.920,Turin 2006,Alpine Skiing,super-G women
+45,LBN,chirine njeim,00:01:37.930,Turin 2006,Alpine Skiing,super-G women
+46,ARG,maria belen simari birkner,00:01:38.020,Turin 2006,Alpine Skiing,super-G women
+47,SVK,jana gantnerova,00:01:38.400,Turin 2006,Alpine Skiing,super-G women
+48,ESP,leyre morlans,00:01:38.530,Turin 2006,Alpine Skiing,super-G women
+49,CHI,macarena benvenuto,00:01:41.520,Turin 2006,Alpine Skiing,super-G women
+50,ALG,christelle laura douibi,00:01:43.540,Turin 2006,Alpine Skiing,super-G women
+51,ITA,elena fanchini,Did not finish,Turin 2006,Alpine Skiing,super-G women
+52,CHI,daniela anguita,Did not finish,Turin 2006,Alpine Skiing,super-G women
+53,SVK,eva huckova,Disqualified,Turin 2006,Alpine Skiing,super-G women
+54,ARG,macarena simari birkner,Did not start,Turin 2006,Alpine Skiing,super-G women
+55,IRL,kirsty mcgarry,Did not start,Turin 2006,Alpine Skiing,super-G women

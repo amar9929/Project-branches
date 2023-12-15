@@ -1,0 +1,440 @@
+,country,participant,result,olympic_game,discipline,event
+0,POL,janusz kusocinski,00:30:11.400,Los Angeles 1932,Athletics,10000m men
+1,FIN,volmari iso-hollo,00:30:12.600,Los Angeles 1932,Athletics,10000m men
+2,FIN,lauri virtanen,00:30:35.000,Los Angeles 1932,Athletics,10000m men
+3,NZL,billy savidan,00:31:09.000,Los Angeles 1932,Athletics,10000m men
+4,GER,max syring,00:31:35.000,Los Angeles 1932,Athletics,10000m men
+5,SWE,jean-gunnar lindgren,00:31:37.000,Los Angeles 1932,Athletics,10000m men
+6,MEX,juan morales rodriguez,00:32:03.000,Los Angeles 1932,Athletics,10000m men
+7,CAN,cliff bricker,,Los Angeles 1932,Athletics,10000m men
+8,JPN,masamichi kitamoto,,Los Angeles 1932,Athletics,10000m men
+9,JPN,shoichiro takenaka,,Los Angeles 1932,Athletics,10000m men
+10,ARG,josé ribas,,Los Angeles 1932,Athletics,10000m men
+11,ARG,fernando chacarelli,,Los Angeles 1932,Athletics,10000m men
+12,BRA,adalberto cardoso,,Los Angeles 1932,Athletics,10000m men
+13,USA,eino isak walter pentti,Did not finish,Los Angeles 1932,Athletics,10000m men
+14,USA,thomas charles ottey,Did not finish,Los Angeles 1932,Athletics,10000m men
+15,USA,lou gregory,Did not finish,Los Angeles 1932,Athletics,10000m men
+16,BRA,aristides da hore,Did not start,Los Angeles 1932,Athletics,10000m men
+17,BRA,joão clemente da silva,Did not start,Los Angeles 1932,Athletics,10000m men
+18,GER,paul de bruyn,Did not start,Los Angeles 1932,Athletics,10000m men
+19,MEX,valentin gonzales avila,Did not start,Los Angeles 1932,Athletics,10000m men
+20,SWE,erik pettersson,Did not start,Los Angeles 1932,Athletics,10000m men
+0,USA,eddie tolan,10.300,Los Angeles 1932,Athletics,100m men
+1,USA,ralph metcalfe,10.300,Los Angeles 1932,Athletics,100m men
+2,GER,arthur jonath,10.400,Los Angeles 1932,Athletics,100m men
+3,USA,george sidney simpson,10.500,Los Angeles 1932,Athletics,100m men
+4,RSA,daniel jacobus joubert,10.600,Los Angeles 1932,Athletics,100m men
+5,JPN,takayoshi yoshioka,10.800,Los Angeles 1932,Athletics,100m men
+6,GBR,fred reid,,Los Angeles 1932,Athletics,100m men
+7,CUB,josé alberto torriente,Did not start,Los Angeles 1932,Athletics,100m men
+8,GRE,renos frangoudis,Did not start,Los Angeles 1932,Athletics,100m men
+9,CUB,leonardo valdés,Did not start,Los Angeles 1932,Athletics,100m men
+10,JPN,kichizo sasaki,Did not start,Los Angeles 1932,Athletics,100m men
+11,GRE,khristos mantikas,Did not start,Los Angeles 1932,Athletics,100m men
+0,POL,stanislawa walasiewicz,11.900,Los Angeles 1932,Athletics,100m women
+1,CAN,hilda strike-sisson,11.900,Los Angeles 1932,Athletics,100m women
+2,USA,wilhelmina von bremen,12.000,Los Angeles 1932,Athletics,100m women
+3,GER,marie döllinger,12.200,Los Angeles 1932,Athletics,100m women
+4,GBR,eileen may hiscock,12.300,Los Angeles 1932,Athletics,100m women
+5,USA,elizabeth wilde-kinnard,12.300,Los Angeles 1932,Athletics,100m women
+0,USA,george j. jr. saling,14.600,Los Angeles 1932,Athletics,110m hurdles men
+1,USA,percy beard,14.700,Los Angeles 1932,Athletics,110m hurdles men
+2,GBR,donald finlay,14.800,Los Angeles 1932,Athletics,110m hurdles men
+3,USA,john alton claude keller,14.800,Los Angeles 1932,Athletics,110m hurdles men
+4,GBR,david george burghley,14.800,Los Angeles 1932,Athletics,110m hurdles men
+5,GER,willi welscher,Disqualified,Los Angeles 1932,Athletics,110m hurdles men
+6,GER,erwin wegner,,Los Angeles 1932,Athletics,110m hurdles men
+7,GRE,khristos mantikas,,Los Angeles 1932,Athletics,110m hurdles men
+8,GRE,vangelis moiropoulos,Did not start,Los Angeles 1932,Athletics,110m hurdles men
+9,FRA,andre adelheim,Did not start,Los Angeles 1932,Athletics,110m hurdles men
+10,AUS,george augustus golding,Did not start,Los Angeles 1932,Athletics,110m hurdles men
+0,ITA,luigi beccali,00:03:51.200,Los Angeles 1932,Athletics,1500m men
+1,GBR,john cornes,00:03:52.600,Los Angeles 1932,Athletics,1500m men
+2,CAN,philip edwards,00:03:52.800,Los Angeles 1932,Athletics,1500m men
+3,USA,glenn cunningham,00:03:53.400,Los Angeles 1932,Athletics,1500m men
+4,SWE,eric ny,00:03:54.600,Los Angeles 1932,Athletics,1500m men
+5,USA,norwood penrose hallowell,00:03:55.000,Los Angeles 1932,Athletics,1500m men
+6,NZL,john lovelock,00:03:57.800,Los Angeles 1932,Athletics,1500m men
+7,USA,francis arthur crowley,00:03:58.100,Los Angeles 1932,Athletics,1500m men
+8,FIN,martti luomanen,00:03:58.400,Los Angeles 1932,Athletics,1500m men
+9,FIN,harri edvin larva,00:03:58.400,Los Angeles 1932,Athletics,1500m men
+10,FIN,eino alfred purje,Did not finish,Los Angeles 1932,Athletics,1500m men
+11,BRA,armando brea,,Los Angeles 1932,Athletics,1500m men
+12,BRA,nestor gomes,,Los Angeles 1932,Athletics,1500m men
+13,GBR,reg thomas,,Los Angeles 1932,Athletics,1500m men
+14,GER,otto peltzer,,Los Angeles 1932,Athletics,1500m men
+15,BRA,joão andrade,Did not start,Los Angeles 1932,Athletics,1500m men
+16,AUS,john alexander hillhouse,Did not start,Los Angeles 1932,Athletics,1500m men
+17,POL,janusz kusocinski,Did not start,Los Angeles 1932,Athletics,1500m men
+18,FRA,roger rochard,Did not start,Los Angeles 1932,Athletics,1500m men
+19,FRA,séraphin martin,Did not start,Los Angeles 1932,Athletics,1500m men
+20,MEX,jaime merino,Did not start,Los Angeles 1932,Athletics,1500m men
+21,FRA,paul jean keller,Did not start,Los Angeles 1932,Athletics,1500m men
+22,ARG,luis oliva,Did not start,Los Angeles 1932,Athletics,1500m men
+0,USA,eddie tolan,21.200,Los Angeles 1932,Athletics,200m men
+1,USA,george sidney simpson,21.400,Los Angeles 1932,Athletics,200m men
+2,USA,ralph metcalfe,21.500,Los Angeles 1932,Athletics,200m men
+3,GER,arthur jonath,21.500,Los Angeles 1932,Athletics,200m men
+4,ARG,carlos bianchi,21.600,Los Angeles 1932,Athletics,200m men
+5,RSA,william john walters,21.900,Los Angeles 1932,Athletics,200m men
+6,BRA,jose xavier de almeida,Did not start,Los Angeles 1932,Athletics,200m men
+7,GRE,angelos lambrou,Did not start,Los Angeles 1932,Athletics,200m men
+8,ARG,carlos hofmeister,Did not start,Los Angeles 1932,Athletics,200m men
+9,CUB,leonardo valdés,Did not start,Los Angeles 1932,Athletics,200m men
+10,MEX,fernando ortiz,Did not start,Los Angeles 1932,Athletics,200m men
+11,POR,antonio cesar rodrigues,Did not start,Los Angeles 1932,Athletics,200m men
+12,CAN,percy williams,Did not start,Los Angeles 1932,Athletics,200m men
+13,BRA,arnaldo ferrara,Did not start,Los Angeles 1932,Athletics,200m men
+14,AUT,felix rinner,Did not start,Los Angeles 1932,Athletics,200m men
+15,CUB,josé alberto torriente,Did not start,Los Angeles 1932,Athletics,200m men
+16,GRE,renos frangoudis,Did not start,Los Angeles 1932,Athletics,200m men
+17,GBR,fred reid,Did not start,Los Angeles 1932,Athletics,200m men
+18,HAI,andré theard,Did not start,Los Angeles 1932,Athletics,200m men
+19,GRE,khristos mantikas,Did not start,Los Angeles 1932,Athletics,200m men
+20,BRA,ricardo vaz guimaraes,Did not start,Los Angeles 1932,Athletics,200m men
+0,FIN,volmari iso-hollo,00:10:33.400,Los Angeles 1932,Athletics,3000m steeplechase men
+1,GBR,thomas evenson,00:10:46.000,Los Angeles 1932,Athletics,3000m steeplechase men
+2,USA,joseph paul mccluskey,00:10:46.200,Los Angeles 1932,Athletics,3000m steeplechase men
+3,FIN,martti matilainen,00:10:52.400,Los Angeles 1932,Athletics,3000m steeplechase men
+4,GBR,george william bailey,00:10:53.200,Los Angeles 1932,Athletics,3000m steeplechase men
+5,USA,glen wilson dawson,00:10:58.000,Los Angeles 1932,Athletics,3000m steeplechase men
+6,ITA,giuseppe lippi,00:11:04.000,Los Angeles 1932,Athletics,3000m steeplechase men
+7,USA,walter herbert pritchard,00:11:04.500,Los Angeles 1932,Athletics,3000m steeplechase men
+8,FIN,verner toivonen,00:11:10.200,Los Angeles 1932,Athletics,3000m steeplechase men
+9,ITA,nello bartolini,00:11:29.000,Los Angeles 1932,Athletics,3000m steeplechase men
+10,ARG,luis oliva,,Los Angeles 1932,Athletics,3000m steeplechase men
+11,CAN,harold gallop,,Los Angeles 1932,Athletics,3000m steeplechase men
+12,IRL,sonny murphy,,Los Angeles 1932,Athletics,3000m steeplechase men
+0,IRL,robert morton newburgh tisdall,51.800,Los Angeles 1932,Athletics,400m hurdles men
+1,USA,glenn foster hardin,51.900,Los Angeles 1932,Athletics,400m hurdles men
+2,USA,frederick morgan taylor,52.000,Los Angeles 1932,Athletics,400m hurdles men
+3,GBR,david george burghley,52.200,Los Angeles 1932,Athletics,400m hurdles men
+4,ITA,luigi facelli,53.000,Los Angeles 1932,Athletics,400m hurdles men
+5,SWE,johan kellgren areskoug,54.600,Los Angeles 1932,Athletics,400m hurdles men
+6,CAN,tom coulter,,Los Angeles 1932,Athletics,400m hurdles men
+0,USA,william arthur carr,46.200,Los Angeles 1932,Athletics,400m men
+1,USA,benjamin bangs eastman,46.400,Los Angeles 1932,Athletics,400m men
+2,CAN,alex wilson,47.400,Los Angeles 1932,Athletics,400m men
+3,RSA,william john walters,48.200,Los Angeles 1932,Athletics,400m men
+4,USA,james allen gordon,48.200,Los Angeles 1932,Athletics,400m men
+5,AUS,george augustus golding,48.800,Los Angeles 1932,Athletics,400m men
+6,BRA,carlos dos reis júnior,Did not start,Los Angeles 1932,Athletics,400m men
+7,GRE,vangelis moiropoulos,Did not start,Los Angeles 1932,Athletics,400m men
+8,RSA,daniel jacobus joubert,Did not start,Los Angeles 1932,Athletics,400m men
+9,FRA,marcel moulinies,Did not start,Los Angeles 1932,Athletics,400m men
+10,BRA,esmeraldo azuaga,Did not start,Los Angeles 1932,Athletics,400m men
+11,GBR,thomas hampson,Did not start,Los Angeles 1932,Athletics,400m men
+0,,,40.000,Los Angeles 1932,Athletics,4x100m relay men
+1,,,40.900,Los Angeles 1932,Athletics,4x100m relay men
+2,,,41.200,Los Angeles 1932,Athletics,4x100m relay men
+3,,,41.300,Los Angeles 1932,Athletics,4x100m relay men
+4,,,41.300,Los Angeles 1932,Athletics,4x100m relay men
+5,,,41.400,Los Angeles 1932,Athletics,4x100m relay men
+6,,,Did not start,Los Angeles 1932,Athletics,4x100m relay men
+7,,,Did not start,Los Angeles 1932,Athletics,4x100m relay men
+8,,,Did not start,Los Angeles 1932,Athletics,4x100m relay men
+0,,,47.000,Los Angeles 1932,Athletics,4x100m relay women
+1,,,47.000,Los Angeles 1932,Athletics,4x100m relay women
+2,,,47.600,Los Angeles 1932,Athletics,4x100m relay women
+3,,,47.700,Los Angeles 1932,Athletics,4x100m relay women
+4,,,48.900,Los Angeles 1932,Athletics,4x100m relay women
+5,,,50.000,Los Angeles 1932,Athletics,4x100m relay women
+0,,,00:03:08.200,Los Angeles 1932,Athletics,4x400m relay men
+1,,,00:03:11.200,Los Angeles 1932,Athletics,4x400m relay men
+2,,,00:03:12.800,Los Angeles 1932,Athletics,4x400m relay men
+3,,,00:03:14.400,Los Angeles 1932,Athletics,4x400m relay men
+4,,,00:03:14.600,Los Angeles 1932,Athletics,4x400m relay men
+5,,,00:03:17.800,Los Angeles 1932,Athletics,4x400m relay men
+6,,,Did not start,Los Angeles 1932,Athletics,4x400m relay men
+7,,,Did not start,Los Angeles 1932,Athletics,4x400m relay men
+8,,,Did not start,Los Angeles 1932,Athletics,4x400m relay men
+9,,,Did not start,Los Angeles 1932,Athletics,4x400m relay men
+0,FIN,lauri aleksanteri lehtinen,00:14:30.000,Los Angeles 1932,Athletics,5000m men
+1,USA,ralph anthony hill,00:14:30.000,Los Angeles 1932,Athletics,5000m men
+2,FIN,lauri virtanen,00:14:44.000,Los Angeles 1932,Athletics,5000m men
+3,NZL,billy savidan,00:14:49.600,Los Angeles 1932,Athletics,5000m men
+4,SWE,jean-gunnar lindgren,00:14:54.700,Los Angeles 1932,Athletics,5000m men
+5,GER,max syring,00:14:59.000,Los Angeles 1932,Athletics,5000m men
+6,GBR,james alexander burns,00:15:04.400,Los Angeles 1932,Athletics,5000m men
+7,USA,daniel ely dean,00:15:08.500,Los Angeles 1932,Athletics,5000m men
+8,SWE,erik pettersson,00:15:13.400,Los Angeles 1932,Athletics,5000m men
+9,AUS,john alexander hillhouse,00:15:15.000,Los Angeles 1932,Athletics,5000m men
+10,CAN,robert scade rankine,00:15:24.000,Los Angeles 1932,Athletics,5000m men
+11,JPN,shoichiro takenaka,00:17:20.000,Los Angeles 1932,Athletics,5000m men
+12,FRA,roger rochard,Did not finish,Los Angeles 1932,Athletics,5000m men
+13,USA,paul ernest rekers,Did not finish,Los Angeles 1932,Athletics,5000m men
+14,BRA,jeronimo maria,Did not start,Los Angeles 1932,Athletics,5000m men
+15,ARG,luis oliva,Did not start,Los Angeles 1932,Athletics,5000m men
+16,ARG,juan carlos zabala,Did not start,Los Angeles 1932,Athletics,5000m men
+17,AUS,bill barwick,Did not start,Los Angeles 1932,Athletics,5000m men
+18,BRA,adalberto cardoso,Did not start,Los Angeles 1932,Athletics,5000m men
+19,BRA,joão clemente da silva,Did not start,Los Angeles 1932,Athletics,5000m men
+20,FIN,volmari iso-hollo,Did not start,Los Angeles 1932,Athletics,5000m men
+21,FRA,roger vigneron,Did not start,Los Angeles 1932,Athletics,5000m men
+22,GBR,thomas evenson,Did not start,Los Angeles 1932,Athletics,5000m men
+23,POL,janusz kusocinski,Did not start,Los Angeles 1932,Athletics,5000m men
+0,GBR,thomas william green,04:50:10.000,Los Angeles 1932,Athletics,50km walk men
+1,LAT,janis dalins,04:57:20.000,Los Angeles 1932,Athletics,50km walk men
+2,ITA,ugo frigerio,04:59:06.000,Los Angeles 1932,Athletics,50km walk men
+3,GER,karl hahnel,05:06:06.000,Los Angeles 1932,Athletics,50km walk men
+4,ITA,ettore rivolta,05:07:39.000,Los Angeles 1932,Athletics,50km walk men
+5,GER,paul sievert,05:16:41.000,Los Angeles 1932,Athletics,50km walk men
+6,FRA,henri quintric,05:27:25.000,Los Angeles 1932,Athletics,50km walk men
+7,USA,george william ernest crosbie,05:28:02.000,Los Angeles 1932,Athletics,50km walk men
+8,USA,bill chisholm,05:51:00.000,Los Angeles 1932,Athletics,50km walk men
+9,EST,alfred maasik,06:19:00.000,Los Angeles 1932,Athletics,50km walk men
+10,CAN,henry cieman,Did not finish,Los Angeles 1932,Athletics,50km walk men
+11,GRE,john moralis,Did not finish,Los Angeles 1932,Athletics,50km walk men
+12,ITA,francesco pretti,Did not finish,Los Angeles 1932,Athletics,50km walk men
+13,SUI,arthur schwab,Did not finish,Los Angeles 1932,Athletics,50km walk men
+14,USA,harry robert hinkel,Did not finish,Los Angeles 1932,Athletics,50km walk men
+15,FIN,yrjo korholin-koski,Did not start,Los Angeles 1932,Athletics,50km walk men
+0,GBR,thomas hampson,00:01:49.700,Los Angeles 1932,Athletics,800m men
+1,CAN,alex wilson,00:01:49.900,Los Angeles 1932,Athletics,800m men
+2,CAN,philip edwards,00:01:51.500,Los Angeles 1932,Athletics,800m men
+3,USA,edwin bernard genung,00:01:51.700,Los Angeles 1932,Athletics,800m men
+4,USA,ned turner,00:01:52.500,Los Angeles 1932,Athletics,800m men
+5,USA,chuck hornbostel,00:01:52.700,Los Angeles 1932,Athletics,800m men
+6,GBR,john vincent powell,00:01:53.000,Los Angeles 1932,Athletics,800m men
+7,FRA,séraphin martin,00:01:53.600,Los Angeles 1932,Athletics,800m men
+8,GER,otto peltzer,00:01:55.000,Los Angeles 1932,Athletics,800m men
+9,FRA,paul jean keller,,Los Angeles 1932,Athletics,800m men
+10,BRA,joão andrade,Did not start,Los Angeles 1932,Athletics,800m men
+11,MEX,amilio rodríguez,Did not start,Los Angeles 1932,Athletics,800m men
+12,NZL,john lovelock,Did not start,Los Angeles 1932,Athletics,800m men
+0,USA,mildred didrikson,11.700,Los Angeles 1932,Athletics,80m hurdles women
+1,USA,evelyne ruth hall,11.700,Los Angeles 1932,Athletics,80m hurdles women
+2,RSA,marjorie r. clark,11.800,Los Angeles 1932,Athletics,80m hurdles women
+3,USA,simone e. schaller,11.800,Los Angeles 1932,Athletics,80m hurdles women
+4,GBR,violet b. webb,11.900,Los Angeles 1932,Athletics,80m hurdles women
+5,CAN,alda wilson,12.000,Los Angeles 1932,Athletics,80m hurdles women
+6,JPN,michi nakanishi,,Los Angeles 1932,Athletics,80m hurdles women
+0,USA,jim bausch,518.8,Los Angeles 1932,Athletics,decathlon men
+1,FIN,akiles eero johannes järvinen,698.8,Los Angeles 1932,Athletics,decathlon men
+2,GER,wolrad eberle,774.4,Los Angeles 1932,Athletics,decathlon men
+3,USA,wilson david jr. charles,742.0,Los Angeles 1932,Athletics,decathlon men
+4,GER,hans-heinrich sievert,512.8,Los Angeles 1932,Athletics,decathlon men
+5,FIN,paavo ilmari yrjölä,756.4,Los Angeles 1932,Athletics,decathlon men
+6,USA,clifford clyde coffman,692.8,Los Angeles 1932,Athletics,decathlon men
+7,IRL,robert morton newburgh tisdall,774.4,Los Angeles 1932,Athletics,decathlon men
+8,GER,erwin wegner,694.0,Los Angeles 1932,Athletics,decathlon men
+9,HUN,peter bacsalmasi,413.2,Los Angeles 1932,Athletics,decathlon men
+10,RSA,harry balthazar hart,331.6,Los Angeles 1932,Athletics,decathlon men
+11,LAT,janis dimsa,Did not finish,Los Angeles 1932,Athletics,decathlon men
+12,POL,zygmunt siedlecki,Did not finish,Los Angeles 1932,Athletics,decathlon men
+13,ARG,hector berra,Did not finish,Los Angeles 1932,Athletics,decathlon men
+14,BRA,carlos woebcken,Did not finish,Los Angeles 1932,Athletics,decathlon men
+15,CUB,josé antonio masó,Did not start,Los Angeles 1932,Athletics,decathlon men
+16,ARG,hermenegildo del rosso,Did not start,Los Angeles 1932,Athletics,decathlon men
+17,FIN,matti kalervo sippala,Did not start,Los Angeles 1932,Athletics,decathlon men
+18,IRL,pat o'callaghan,Did not start,Los Angeles 1932,Athletics,decathlon men
+19,JPN,shuhei nishida,Did not start,Los Angeles 1932,Athletics,decathlon men
+0,USA,john franklin anderson,47.98,Los Angeles 1932,Athletics,discus throw men
+1,USA,henri jean laborde,47.15,Los Angeles 1932,Athletics,discus throw men
+2,FRA,paul winter,47.85,Los Angeles 1932,Athletics,discus throw men
+3,FRA,jules noel,46.38,Los Angeles 1932,Athletics,discus throw men
+4,HUN,istvan donogan,x,Los Angeles 1932,Athletics,discus throw men
+5,HUN,endre madarasz,x,Los Angeles 1932,Athletics,discus throw men
+6,FIN,kalevi kotkas,,Los Angeles 1932,Athletics,discus throw men
+7,USA,paul boulet jessup,,Los Angeles 1932,Athletics,discus throw men
+8,HUN,jozsef remecz,,Los Angeles 1932,Athletics,discus throw men
+9,AUT,emil janausch,,Los Angeles 1932,Athletics,discus throw men
+10,GER,hans-heinrich sievert,,Los Angeles 1932,Athletics,discus throw men
+11,RSA,harry balthazar hart,,Los Angeles 1932,Athletics,discus throw men
+12,POL,zygmunt heljasz,,Los Angeles 1932,Athletics,discus throw men
+13,GER,emil hirschfeld,,Los Angeles 1932,Athletics,discus throw men
+14,TCH,frantisek douda,,Los Angeles 1932,Athletics,discus throw men
+15,FRA,clement duhour,,Los Angeles 1932,Athletics,discus throw men
+16,YUG,veljko narancic,,Los Angeles 1932,Athletics,discus throw men
+17,ARG,pedro elsa,,Los Angeles 1932,Athletics,discus throw men
+18,CUB,josé antonio masó,Did not start,Los Angeles 1932,Athletics,discus throw men
+19,BRA,bento barros,Did not start,Los Angeles 1932,Athletics,discus throw men
+20,ARG,hector berra,Did not start,Los Angeles 1932,Athletics,discus throw men
+21,BRA,carmine di giorgi,Did not start,Los Angeles 1932,Athletics,discus throw men
+22,BRA,antonio giusfredi,Did not start,Los Angeles 1932,Athletics,discus throw men
+23,MEX,jesus aguirre delgado,Did not start,Los Angeles 1932,Athletics,discus throw men
+24,MEX,francisco dávila,Did not start,Los Angeles 1932,Athletics,discus throw men
+0,USA,lillian copeland,OR,Los Angeles 1932,Athletics,discus throw women
+1,USA,ruth osburn,OR,Los Angeles 1932,Athletics,discus throw women
+2,POL,jadwiga wajsourna,,Los Angeles 1932,Athletics,discus throw women
+3,GER,mathilde (tilly) fleischer,,Los Angeles 1932,Athletics,discus throw women
+4,GER,greta heublein,,Los Angeles 1932,Athletics,discus throw women
+5,POL,stanislawa walasiewicz,,Los Angeles 1932,Athletics,discus throw women
+6,JPN,mitsue ishizu,,Los Angeles 1932,Athletics,discus throw women
+7,GER,ellen braumüller,,Los Angeles 1932,Athletics,discus throw women
+8,USA,margaret h. jenkins,,Los Angeles 1932,Athletics,discus throw women
+9,JPN,masako shinpo,Did not start,Los Angeles 1932,Athletics,discus throw women
+0,IRL,pat o'callaghan,53.92,Los Angeles 1932,Athletics,hammer throw men
+1,FIN,frans wilhelmi pörhölä,51.76,Los Angeles 1932,Athletics,hammer throw men
+2,USA,pete zaremba,x,Los Angeles 1932,Athletics,hammer throw men
+3,SWE,ossian e. skiöld,48.75,Los Angeles 1932,Athletics,hammer throw men
+4,USA,grant mcdougall,48.79,Los Angeles 1932,Athletics,hammer throw men
+5,ARG,federico kleger,47.79,Los Angeles 1932,Athletics,hammer throw men
+6,SWE,gunnar jansson,,Los Angeles 1932,Athletics,hammer throw men
+7,ITA,armando poggioli,,Los Angeles 1932,Athletics,hammer throw men
+8,ITA,fernando vandelli,,Los Angeles 1932,Athletics,hammer throw men
+9,JPN,yuji nagao,,Los Angeles 1932,Athletics,hammer throw men
+10,MEX,francisco dávila,,Los Angeles 1932,Athletics,hammer throw men
+11,JPN,masayoshi ochiai,,Los Angeles 1932,Athletics,hammer throw men
+12,BRA,carmine di giorgi,,Los Angeles 1932,Athletics,hammer throw men
+13,USA,frank norris connor,NM,Los Angeles 1932,Athletics,hammer throw men
+0,CAN,duncan mcnaughton,1.97,Los Angeles 1932,Athletics,high jump men
+1,USA,robert van osdel,1.97,Los Angeles 1932,Athletics,high jump men
+2,PHI,simeon galvez toribio,1.97,Los Angeles 1932,Athletics,high jump men
+3,USA,cornelius cooper johnson,1.97,Los Angeles 1932,Athletics,high jump men
+4,FIN,ilmari reinikka,1.94,Los Angeles 1932,Athletics,high jump men
+5,JPN,kazuo kimura,1.94,Los Angeles 1932,Athletics,high jump men
+6,JPN,misao ono,1.9,Los Angeles 1932,Athletics,high jump men
+7,POL,jerzy plawczyk,1.9,Los Angeles 1932,Athletics,high jump men
+8,CAN,jack portland,1.85,Los Angeles 1932,Athletics,high jump men
+9,FRA,claude charles menard,1.85,Los Angeles 1932,Athletics,high jump men
+10,USA,george burton spitz,1.85,Los Angeles 1932,Athletics,high jump men
+11,NOR,birger haug,1.85,Los Angeles 1932,Athletics,high jump men
+12,ITA,angelo tommasi,1.85,Los Angeles 1932,Athletics,high jump men
+13,SUI,paul riesen,1.8,Los Angeles 1932,Athletics,high jump men
+14,BRA,nelson lorenzi,Did not start,Los Angeles 1932,Athletics,high jump men
+15,CUB,rafael pérez,Did not start,Los Angeles 1932,Athletics,high jump men
+16,BRA,carlos woebcken,Did not start,Los Angeles 1932,Athletics,high jump men
+17,BRA,lucio almeida de castro golcalves,Did not start,Los Angeles 1932,Athletics,high jump men
+18,GRE,nikolaos papanikolaou,Did not start,Los Angeles 1932,Athletics,high jump men
+19,JPN,mikio oda,Did not start,Los Angeles 1932,Athletics,high jump men
+0,USA,jean shiley,1.65,Los Angeles 1932,Athletics,high jump women
+1,USA,mildred didrikson,1.65,Los Angeles 1932,Athletics,high jump women
+2,CAN,eva dawes-spinks,1.6,Los Angeles 1932,Athletics,high jump women
+3,NED,carolina anna gisolf,1.58,Los Angeles 1932,Athletics,high jump women
+4,RSA,marjorie r. clark,1.58,Los Angeles 1932,Athletics,high jump women
+5,USA,annette joan rogers,1.58,Los Angeles 1932,Athletics,high jump women
+6,GER,helma notte,1.55,Los Angeles 1932,Athletics,high jump women
+7,JPN,yuriko hirohashi,1.5,Los Angeles 1932,Athletics,high jump women
+8,JPN,yaeko sagara,1.5,Los Angeles 1932,Athletics,high jump women
+9,GER,ellen braumüller,1.41,Los Angeles 1932,Athletics,high jump women
+0,FIN,matti henrik jarvinen,67.93,Los Angeles 1932,Athletics,javelin throw men
+1,FIN,matti kalervo sippala,69.8,Los Angeles 1932,Athletics,javelin throw men
+2,FIN,eino penttila,66.86,Los Angeles 1932,Athletics,javelin throw men
+3,GER,gottfried weimann,65.24,Los Angeles 1932,Athletics,javelin throw men
+4,USA,lee marion bartlett,59.55,Los Angeles 1932,Athletics,javelin throw men
+5,USA,ken churchill,x,Los Angeles 1932,Athletics,javelin throw men
+6,USA,malcolm ward metcalf,,Los Angeles 1932,Athletics,javelin throw men
+7,JPN,kosaku sumiyoshi,,Los Angeles 1932,Athletics,javelin throw men
+8,NOR,olav sunde,,Los Angeles 1932,Athletics,javelin throw men
+9,JPN,saburo nagao,,Los Angeles 1932,Athletics,javelin throw men
+10,BRA,heitor medina,,Los Angeles 1932,Athletics,javelin throw men
+11,MEX,adolfo clouthier,,Los Angeles 1932,Athletics,javelin throw men
+12,MEX,miguel camberos,,Los Angeles 1932,Athletics,javelin throw men
+13,GER,wolrad eberle,Did not start,Los Angeles 1932,Athletics,javelin throw men
+14,RSA,harry balthazar hart,Did not start,Los Angeles 1932,Athletics,javelin throw men
+15,YUG,vilim messner,Did not start,Los Angeles 1932,Athletics,javelin throw men
+16,CAN,doral w. pilling,Did not start,Los Angeles 1932,Athletics,javelin throw men
+17,BRA,domingos trevison,Did not start,Los Angeles 1932,Athletics,javelin throw men
+0,USA,mildred didrikson,OR,Los Angeles 1932,Athletics,javelin throw women
+1,GER,ellen braumüller,,Los Angeles 1932,Athletics,javelin throw women
+2,GER,mathilde (tilly) fleischer,,Los Angeles 1932,Athletics,javelin throw women
+3,JPN,masako shinpo,,Los Angeles 1932,Athletics,javelin throw women
+4,USA,nancy gindele,,Los Angeles 1932,Athletics,javelin throw women
+5,USA,gloria russell,,Los Angeles 1932,Athletics,javelin throw women
+6,MEX,maría uribe,,Los Angeles 1932,Athletics,javelin throw women
+7,JPN,mitsue ishizu,,Los Angeles 1932,Athletics,javelin throw women
+8,BRA,esmeraldo azuaga,Did not start,Los Angeles 1932,Athletics,javelin throw women
+9,GER,greta heublein,Did not start,Los Angeles 1932,Athletics,javelin throw women
+10,POL,stanislawa walasiewicz,Did not start,Los Angeles 1932,Athletics,javelin throw women
+0,USA,edward lansing gordon,x,Los Angeles 1932,Athletics,long jump men
+1,USA,charles lambert redd,7.49,Los Angeles 1932,Athletics,long jump men
+2,JPN,chuhei nanbu,x,Los Angeles 1932,Athletics,long jump men
+3,SWE,eric svensson,-,Los Angeles 1932,Athletics,long jump men
+4,USA,richard alvah barber,,Los Angeles 1932,Athletics,long jump men
+5,JPN,naoto tajima,,Los Angeles 1932,Athletics,long jump men
+6,ARG,hector berra,,Los Angeles 1932,Athletics,long jump men
+7,BRA,clovis de figueiredo raposo,,Los Angeles 1932,Athletics,long jump men
+8,HAI,silvio m. cator,,Los Angeles 1932,Athletics,long jump men
+9,MEX,esteban crespo,,Los Angeles 1932,Athletics,long jump men
+10,GER,erich kochermann,,Los Angeles 1932,Athletics,long jump men
+11,CAN,len hutton,NM,Los Angeles 1932,Athletics,long jump men
+12,BRA,joão da costa,Did not start,Los Angeles 1932,Athletics,long jump men
+13,HUN,józsef szabó,Did not start,Los Angeles 1932,Athletics,long jump men
+14,CUB,rafael pérez,Did not start,Los Angeles 1932,Athletics,long jump men
+15,BRA,carlos woebcken,Did not start,Los Angeles 1932,Athletics,long jump men
+16,ARG,hermenegildo del rosso,Did not start,Los Angeles 1932,Athletics,long jump men
+17,FIN,onni rafael rajasaari,Did not start,Los Angeles 1932,Athletics,long jump men
+18,GER,wolrad eberle,Did not start,Los Angeles 1932,Athletics,long jump men
+19,GER,hans-heinrich sievert,Did not start,Los Angeles 1932,Athletics,long jump men
+20,GRE,nikolaos papanikolaou,Did not start,Los Angeles 1932,Athletics,long jump men
+21,JPN,kenkichi oshima,Did not start,Los Angeles 1932,Athletics,long jump men
+0,ARG,juan carlos zabala,02:31:36.000,Los Angeles 1932,Athletics,marathon men
+1,GBR,samuel ferris,02:31:55.000,Los Angeles 1932,Athletics,marathon men
+2,FIN,armas adam toivonen,02:32:12.000,Los Angeles 1932,Athletics,marathon men
+3,GBR,duncan macleod wright,02:32:41.000,Los Angeles 1932,Athletics,marathon men
+4,JPN,seiichiro tsuda,02:35:42.000,Los Angeles 1932,Athletics,marathon men
+5,JPN,onbai kin,02:37:28.000,Los Angeles 1932,Athletics,marathon men
+6,USA,whitey michelsen,02:39:38.000,Los Angeles 1932,Athletics,marathon men
+7,TCH,oskar heks,02:41:35.000,Los Angeles 1932,Athletics,marathon men
+8,JPN,taika gon,02:42:52.000,Los Angeles 1932,Athletics,marathon men
+9,DEN,anders hartington andersen,02:44:38.000,Los Angeles 1932,Athletics,marathon men
+10,USA,hans oldag,02:47:26.000,Los Angeles 1932,Athletics,marathon men
+11,CAN,cliff bricker,02:47:58.000,Los Angeles 1932,Athletics,marathon men
+12,ITA,michele fanelli,02:49:09.000,Los Angeles 1932,Athletics,marathon men
+13,CAN,john c. miles,02:50:32.000,Los Angeles 1932,Athletics,marathon men
+14,GER,paul de bruyn,02:52:39.000,Los Angeles 1932,Athletics,marathon men
+15,FRA,françois begeot,02:53:34.000,Los Angeles 1932,Athletics,marathon men
+16,ARG,fernando chacarelli,02:55:49.000,Los Angeles 1932,Athletics,marathon men
+17,CAN,eddie cudworth,02:58:35.000,Los Angeles 1932,Athletics,marathon men
+18,BRA,joão clemente da silva,03:02:06.000,Los Angeles 1932,Athletics,marathon men
+19,MEX,margarito pomposo banos,03:10:51.000,Los Angeles 1932,Athletics,marathon men
+20,ARG,josé ribas,Did not finish,Los Angeles 1932,Athletics,marathon men
+21,BRA,matheus marcondes,Did not finish,Los Angeles 1932,Athletics,marathon men
+22,COL,jorge perry,Did not finish,Los Angeles 1932,Athletics,marathon men
+23,FIN,ville kyrönen,Did not finish,Los Angeles 1932,Athletics,marathon men
+24,FIN,lauri virtanen,Did not finish,Los Angeles 1932,Athletics,marathon men
+25,ITA,francesco roccati,Did not finish,Los Angeles 1932,Athletics,marathon men
+26,MEX,santiago hernández,Did not finish,Los Angeles 1932,Athletics,marathon men
+27,USA,james p. henigan,Did not finish,Los Angeles 1932,Athletics,marathon men
+28,AUT,franz tuschek,Did not start,Los Angeles 1932,Athletics,marathon men
+29,CUB,rené bonich,Did not start,Los Angeles 1932,Athletics,marathon men
+30,BRA,adalberto cardoso,Did not start,Los Angeles 1932,Athletics,marathon men
+31,EST,alfred maasik,Did not start,Los Angeles 1932,Athletics,marathon men
+32,NZL,billy savidan,Did not start,Los Angeles 1932,Athletics,marathon men
+0,USA,william waring miller,4.315,Los Angeles 1932,Athletics,pole vault men
+1,JPN,shuhei nishida,4.3,Los Angeles 1932,Athletics,pole vault men
+2,USA,george g. jefferson,4.2,Los Angeles 1932,Athletics,pole vault men
+3,USA,william noe graber,4.15,Los Angeles 1932,Athletics,pole vault men
+4,JPN,shizuo mochizuki,4,Los Angeles 1932,Athletics,pole vault men
+5,BRA,lucio almeida de castro golcalves,3.9,Los Angeles 1932,Athletics,pole vault men
+6,GRE,peter clentzos,3.75,Los Angeles 1932,Athletics,pole vault men
+7,BRA,carlos joel nelli,NH,Los Angeles 1932,Athletics,pole vault men
+8,BRA,carlos woebcken,Did not start,Los Angeles 1932,Athletics,pole vault men
+0,USA,leo joseph sexton,16.005,Los Angeles 1932,Athletics,shot put men
+1,USA,harlow phelps rothert,x,Los Angeles 1932,Athletics,shot put men
+2,TCH,frantisek douda,15.33,Los Angeles 1932,Athletics,shot put men
+3,GER,emil hirschfeld,15.56,Los Angeles 1932,Athletics,shot put men
+4,USA,nelson alexander gray,x,Los Angeles 1932,Athletics,shot put men
+5,GER,hans-heinrich sievert,x,Los Angeles 1932,Athletics,shot put men
+6,POL,zygmunt heljasz,,Los Angeles 1932,Athletics,shot put men
+7,HUN,jozsef daranyi,,Los Angeles 1932,Athletics,shot put men
+8,FIN,kaarlo werner jarvinen,,Los Angeles 1932,Athletics,shot put men
+9,FRA,jules noel,,Los Angeles 1932,Athletics,shot put men
+10,RSA,harry balthazar hart,,Los Angeles 1932,Athletics,shot put men
+11,FRA,clement duhour,,Los Angeles 1932,Athletics,shot put men
+12,FRA,paul winter,,Los Angeles 1932,Athletics,shot put men
+13,ARG,pedro elsa,,Los Angeles 1932,Athletics,shot put men
+14,BRA,antonio pereira lyra,NM,Los Angeles 1932,Athletics,shot put men
+15,GRE,georgios theodoratos,Did not start,Los Angeles 1932,Athletics,shot put men
+16,AUT,emil janausch,Did not start,Los Angeles 1932,Athletics,shot put men
+17,BRA,carmine di giorgi,Did not start,Los Angeles 1932,Athletics,shot put men
+18,IRL,pat o'callaghan,Did not start,Los Angeles 1932,Athletics,shot put men
+19,MEX,jesus aguirre delgado,Did not start,Los Angeles 1932,Athletics,shot put men
+0,JPN,chuhei nanbu,14.85,Los Angeles 1932,Athletics,triple jump men
+1,SWE,eric svensson,x,Los Angeles 1932,Athletics,triple jump men
+2,JPN,kenkichi oshima,15.12,Los Angeles 1932,Athletics,triple jump men
+3,IRL,eamonn fitzgerald,,Los Angeles 1932,Athletics,triple jump men
+4,NED,willem peters,,Los Angeles 1932,Athletics,triple jump men
+5,USA,sol furth,,Los Angeles 1932,Athletics,triple jump men
+6,USA,sidney shepherd bowman,,Los Angeles 1932,Athletics,triple jump men
+7,USA,roland lee romero,,Los Angeles 1932,Athletics,triple jump men
+8,HUN,peter bacsalmasi,,Los Angeles 1932,Athletics,triple jump men
+9,ITA,francesco tabai,,Los Angeles 1932,Athletics,triple jump men
+10,FIN,onni rafael rajasaari,,Los Angeles 1932,Athletics,triple jump men
+11,JPN,mikio oda,,Los Angeles 1932,Athletics,triple jump men
+12,GRE,nikolaos papanikolaou,,Los Angeles 1932,Athletics,triple jump men
+13,IND,mehar chand dhawan,,Los Angeles 1932,Athletics,triple jump men
+14,MEX,salvador alanis,,Los Angeles 1932,Athletics,triple jump men
+15,CAN,jack portland,NM,Los Angeles 1932,Athletics,triple jump men

@@ -1,0 +1,84 @@
+,country,participant,result,olympic_game,discipline,event
+0,EUN,marina klimova,2.0,Albertville 1992,Figure skating,Ice dancing mixed
+1,FRA,isabelle duchesnay-dean,4.4,Albertville 1992,Figure skating,Ice dancing mixed
+2,EUN,sasha zhulin,5.6,Albertville 1992,Figure skating,Ice dancing mixed
+3,EUN,pasha grischuk,8.0,Albertville 1992,Figure skating,Ice dancing mixed
+4,ITA,stefania calegari,10.0,Albertville 1992,Figure skating,Ice dancing mixed
+5,FIN,susanna rahkamo,12.4,Albertville 1992,Figure skating,Ice dancing mixed
+6,HUN,klara engi,13.6,Albertville 1992,Figure skating,Ice dancing mixed
+7,FRA,frédéric palluel,16.6,Albertville 1992,Figure skating,Ice dancing mixed
+8,FRA,sophie moniotte,17.4,Albertville 1992,Figure skating,Ice dancing mixed
+9,TCH,katerina mrazova,20.6,Albertville 1992,Figure skating,Ice dancing mixed
+10,USA,russell witherby,21.6,Albertville 1992,Figure skating,Ice dancing mixed
+11,CAN,jacqueline petr,24.8,Albertville 1992,Figure skating,Ice dancing mixed
+12,ITA,luca mantovani,25.0,Albertville 1992,Figure skating,Ice dancing mixed
+13,HUN,csaba szentpetery,29.0,Albertville 1992,Figure skating,Ice dancing mixed
+14,USA,peter breen,29.0,Albertville 1992,Figure skating,Ice dancing mixed
+15,LTU,margarita drobiazko,33.0,Albertville 1992,Figure skating,Ice dancing mixed
+16,GBR,melanie bruce,33.0,Albertville 1992,Figure skating,Ice dancing mixed
+17,CHN,bing han,36.0,Albertville 1992,Figure skating,Ice dancing mixed
+18,PRK,gwang ho ryu,38.0,Albertville 1992,Figure skating,Ice dancing mixed
+0,EUN,viktor petrenko,1.5,Albertville 1992,Figure skating,Individual men
+1,USA,paul wylie,3.5,Albertville 1992,Figure skating,Individual men
+2,TCH,petr barna,4.0,Albertville 1992,Figure skating,Individual men
+3,USA,christopher bowman,7.5,Albertville 1992,Figure skating,Individual men
+4,EUN,aleksei urmanov,7.5,Albertville 1992,Figure skating,Individual men
+5,CAN,kurt browning,8.0,Albertville 1992,Figure skating,Individual men
+6,CAN,elvis stojko,10.0,Albertville 1992,Figure skating,Individual men
+7,EUN,v'iacheslav zahorodniuk,13.0,Albertville 1992,Figure skating,Individual men
+8,CAN,michael slipchuk,13.0,Albertville 1992,Figure skating,Individual men
+9,USA,todd eldredge,15.5,Albertville 1992,Figure skating,Individual men
+10,POL,grzegorz filipowski,16.5,Albertville 1992,Figure skating,Individual men
+11,GBR,steven cousins,18.0,Albertville 1992,Figure skating,Individual men
+12,JPN,masakazu kagiyama,20.5,Albertville 1992,Figure skating,Individual men
+13,FRA,nicolas petorin,21.0,Albertville 1992,Figure skating,Individual men
+14,FRA,eric millot,21.5,Albertville 1992,Figure skating,Individual men
+15,AUS,cameron bradley medhurst,24.0,Albertville 1992,Figure skating,Individual men
+16,TPE,david liu,26.5,Albertville 1992,Figure skating,Individual men
+17,AUT,ralph burghart,28.0,Albertville 1992,Figure skating,Individual men
+18,FIN,oula jääskeläinen,28.5,Albertville 1992,Figure skating,Individual men
+19,LAT,konstantīns kostins,31.0,Albertville 1992,Figure skating,Individual men
+20,KOR,sung-il jung,31.5,Albertville 1992,Figure skating,Individual men
+21,DEN,henrik walentin,32.0,Albertville 1992,Figure skating,Individual men
+22,JPN,mitsuhiro murata,34.0,Albertville 1992,Figure skating,Individual men
+0,USA,kristi yamaguchi,1.5,Albertville 1992,Figure skating,Individual women
+1,JPN,midori ito,4.0,Albertville 1992,Figure skating,Individual women
+2,USA,nancy kerrigan,4.0,Albertville 1992,Figure skating,Individual women
+3,USA,tonya harding,7.0,Albertville 1992,Figure skating,Individual women
+4,FRA,surya bonaly,7.5,Albertville 1992,Figure skating,Individual women
+5,CHN,lu chen,10.5,Albertville 1992,Figure skating,Individual women
+6,JPN,yuka sato,10.5,Albertville 1992,Figure skating,Individual women
+7,CAN,karen preston,14.0,Albertville 1992,Figure skating,Individual women
+8,CAN,josée chouinard,16.0,Albertville 1992,Figure skating,Individual women
+9,GER,marina kielmann,16.5,Albertville 1992,Figure skating,Individual women
+10,TCH,lenka kulovana,16.5,Albertville 1992,Figure skating,Individual women
+11,FRA,laetitia hubert,17.5,Albertville 1992,Figure skating,Individual women
+12,GER,patricia neske,18.0,Albertville 1992,Figure skating,Individual women
+13,EUN,yuliya vorobyova,20.0,Albertville 1992,Figure skating,Individual women
+14,DEN,anisette torp,20.0,Albertville 1992,Figure skating,Individual women
+15,EUN,tatiana rachkova,20.5,Albertville 1992,Figure skating,Individual women
+16,BUL,viktoria dimitrova,26.0,Albertville 1992,Figure skating,Individual women
+17,GBR,joanne conway,26.5,Albertville 1992,Figure skating,Individual women
+18,POL,zuzanna szwed,30.5,Albertville 1992,Figure skating,Individual women
+19,LAT,alma lepina,31.0,Albertville 1992,Figure skating,Individual women
+20,EST,olga vassiljeva,31.5,Albertville 1992,Figure skating,Individual women
+21,GBR,suzanne otterson,32.0,Albertville 1992,Figure skating,Individual women
+22,HUN,krisztina czako,32.5,Albertville 1992,Figure skating,Individual women
+0,EUN,natalya mishkutyonok,1.5,Albertville 1992,Figure skating,Pairs mixed
+1,EUN,denis petrov,3.0,Albertville 1992,Figure skating,Pairs mixed
+2,CAN,isabelle brasseur,4.5,Albertville 1992,Figure skating,Pairs mixed
+3,TCH,rené novotny,6.0,Albertville 1992,Figure skating,Pairs mixed
+4,EUN,vadim naumov,7.5,Albertville 1992,Figure skating,Pairs mixed
+5,USA,natasha kuchiki,9.0,Albertville 1992,Figure skating,Pairs mixed
+6,GER,alexander könig,11.0,Albertville 1992,Figure skating,Pairs mixed
+7,GER,mandy wotzel,13.0,Albertville 1992,Figure skating,Pairs mixed
+8,CAN,douglas ladret,14.5,Albertville 1992,Figure skating,Pairs mixed
+9,USA,rocky marval,14.5,Albertville 1992,Figure skating,Pairs mixed
+10,USA,jenni meno,15.0,Albertville 1992,Figure skating,Pairs mixed
+11,CAN,kristofer wirtz,17.5,Albertville 1992,Figure skating,Pairs mixed
+12,AUS,stephen carr,19.5,Albertville 1992,Figure skating,Pairs mixed
+13,JPN,rena inoue,21.0,Albertville 1992,Figure skating,Pairs mixed
+14,ITA,anna tabacchi,22.5,Albertville 1992,Figure skating,Pairs mixed
+15,FRA,sylvain prive,24.0,Albertville 1992,Figure skating,Pairs mixed
+16,GBR,kathryn pritchard,25.5,Albertville 1992,Figure skating,Pairs mixed
+17,PRK,ok-ran ko,27.0,Albertville 1992,Figure skating,Pairs mixed

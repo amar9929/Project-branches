@@ -1,0 +1,29 @@
+,country,participant,result,olympic_game,discipline,event
+0,AUS,edgar laurence gray,00:01:13.000,Los Angeles 1932,Cycling Track,1km time trial men
+1,NED,jacobus johannes van egmond,00:01:13.300,Los Angeles 1932,Cycling Track,1km time trial men
+2,FRA,charles rampelberg,00:01:13.400,Los Angeles 1932,Cycling Track,1km time trial men
+3,GBR,william gladstone harwell,00:01:14.700,Los Angeles 1932,Cycling Track,1km time trial men
+4,ITA,luigi consonni,00:01:14.700,Los Angeles 1932,Cycling Track,1km time trial men
+5,CAN,lew rush,00:01:15.600,Los Angeles 1932,Cycling Track,1km time trial men
+6,DEN,harald christensen,00:01:16.000,Los Angeles 1932,Cycling Track,1km time trial men
+7,USA,bernard mammes,00:01:18.000,Los Angeles 1932,Cycling Track,1km time trial men
+8,MEX,ernesto grobet,00:01:25.200,Los Angeles 1932,Cycling Track,1km time trial men
+0,FRA,louis chaillot,2,Los Angeles 1932,Cycling Track,2000m tandem men
+1,GBR,ernest henry chambers,0,Los Angeles 1932,Cycling Track,2000m tandem men
+2,DEN,willy viggo gervin,,Los Angeles 1932,Cycling Track,2000m tandem men
+3,NED,jacobus johannes van egmond,,Los Angeles 1932,Cycling Track,2000m tandem men
+4,USA,reydens ingham,,Los Angeles 1932,Cycling Track,2000m tandem men
+0,NED,jacobus johannes van egmond,,Los Angeles 1932,Cycling Track,Sprint individual men
+1,FRA,louis chaillot,,Los Angeles 1932,Cycling Track,Sprint individual men
+2,ITA,bruno pellizzari,12.700,Los Angeles 1932,Cycling Track,Sprint individual men
+3,AUS,edgar laurence gray,,Los Angeles 1932,Cycling Track,Sprint individual men
+4,CAN,leo marchiori,,Los Angeles 1932,Cycling Track,Sprint individual men
+5,USA,robert thomas,,Los Angeles 1932,Cycling Track,Sprint individual men
+6,DEN,willy viggo gervin,,Los Angeles 1932,Cycling Track,Sprint individual men
+7,GBR,ernest henry chambers,,Los Angeles 1932,Cycling Track,Sprint individual men
+8,MEX,enrique heredia gambino,,Los Angeles 1932,Cycling Track,Sprint individual men
+0,,,,Los Angeles 1932,Cycling Track,Team Pursuit 4000m men
+1,,,,Los Angeles 1932,Cycling Track,Team Pursuit 4000m men
+2,,,00:04:56.000,Los Angeles 1932,Cycling Track,Team Pursuit 4000m men
+3,,,00:06:04.000,Los Angeles 1932,Cycling Track,Team Pursuit 4000m men
+4,,,,Los Angeles 1932,Cycling Track,Team Pursuit 4000m men

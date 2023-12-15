@@ -1,0 +1,92 @@
+,country,participant,result,olympic_game,discipline,event
+0,SLO,benjamin savsek,98.25,Tokyo 2020,Canoe Slalom,Men's Canoe
+1,CZE,lukas rohan,101.96,Tokyo 2020,Canoe Slalom,Men's Canoe
+2,GER,sideris tasiadis,103.70,Tokyo 2020,Canoe Slalom,Men's Canoe
+3,GBR,adam burgess,103.86,Tokyo 2020,Canoe Slalom,Men's Canoe
+4,FRA,martin thomas,104.98,Tokyo 2020,Canoe Slalom,Men's Canoe
+5,SVK,matej benus,105.60,Tokyo 2020,Canoe Slalom,Men's Canoe
+6,USA,zachary lokken,106.08,Tokyo 2020,Canoe Slalom,Men's Canoe
+7,ESP,ander elosegi,106.59,Tokyo 2020,Canoe Slalom,Men's Canoe
+8,AUS,daniel watkins,108.18,Tokyo 2020,Canoe Slalom,Men's Canoe
+9,JPN,takuya haneda,109.30,Tokyo 2020,Canoe Slalom,Men's Canoe
+10,CRO,matija marinic,,Tokyo 2020,Canoe Slalom,Men's Canoe
+11,KAZ,alexandr kulikov,,Tokyo 2020,Canoe Slalom,Men's Canoe
+12,SUI,thomas koechlin,,Tokyo 2020,Canoe Slalom,Men's Canoe
+13,POL,grzegorz hedwig,,Tokyo 2020,Canoe Slalom,Men's Canoe
+14,IRL,liam jegou,,Tokyo 2020,Canoe Slalom,Men's Canoe
+15,CAN,cameron smedley,,Tokyo 2020,Canoe Slalom,Men's Canoe
+16,SEN,jean pierre renan bourhis,,Tokyo 2020,Canoe Slalom,Men's Canoe
+17,ROC,pavel eigel,,Tokyo 2020,Canoe Slalom,Men's Canoe
+0,CZE,jiri prskavec,91.63,Tokyo 2020,Canoe Slalom,Men's Kayak
+1,SVK,jakub grigar,94.85,Tokyo 2020,Canoe Slalom,Men's Kayak
+2,GER,hannes aigner,97.11,Tokyo 2020,Canoe Slalom,Men's Kayak
+3,AUT,felix oschmautz,98.79,Tokyo 2020,Canoe Slalom,Men's Kayak
+4,USA,michal smolen,99.12,Tokyo 2020,Canoe Slalom,Men's Kayak
+5,GBR,bradley forbes-cryans,100.58,Tokyo 2020,Canoe Slalom,Men's Kayak
+6,FRA,boris neveu,101.18,Tokyo 2020,Canoe Slalom,Men's Kayak
+7,AUS,lucien delfour,102.33,Tokyo 2020,Canoe Slalom,Men's Kayak
+8,SWE,erik holmer,148.59,Tokyo 2020,Canoe Slalom,Men's Kayak
+9,ESP,david llorente,150.08,Tokyo 2020,Canoe Slalom,Men's Kayak
+10,POR,antoine launay,,Tokyo 2020,Canoe Slalom,Men's Kayak
+11,SLO,peter kauzer,,Tokyo 2020,Canoe Slalom,Men's Kayak
+12,SUI,martin dougoud,,Tokyo 2020,Canoe Slalom,Men's Kayak
+13,ITA,giovanni de gennaro,,Tokyo 2020,Canoe Slalom,Men's Kayak
+14,POL,krzysztof majerczak,,Tokyo 2020,Canoe Slalom,Men's Kayak
+15,JPN,kazuya adachi,,Tokyo 2020,Canoe Slalom,Men's Kayak
+16,CHN,xin quan,,Tokyo 2020,Canoe Slalom,Men's Kayak
+17,MAR,mathis soudi,,Tokyo 2020,Canoe Slalom,Men's Kayak
+18,BRA,pedro da silva,,Tokyo 2020,Canoe Slalom,Men's Kayak
+19,ROC,pavel eigel,,Tokyo 2020,Canoe Slalom,Men's Kayak
+20,ARG,lucas rossi,,Tokyo 2020,Canoe Slalom,Men's Kayak
+21,BEL,gabriel de coster,,Tokyo 2020,Canoe Slalom,Men's Kayak
+22,NZL,callum gilbert,,Tokyo 2020,Canoe Slalom,Men's Kayak
+23,CAN,michael tayler,,Tokyo 2020,Canoe Slalom,Men's Kayak
+0,AUS,jessica fox,105.04,Tokyo 2020,Canoe Slalom,Women's Canoe
+1,GBR,mallory franklin,108.68,Tokyo 2020,Canoe Slalom,Women's Canoe
+2,GER,andrea herzog,111.13,Tokyo 2020,Canoe Slalom,Women's Canoe
+3,FRA,marjorie delassus,115.93,Tokyo 2020,Canoe Slalom,Women's Canoe
+4,AUT,nadine weratschnig,119.41,Tokyo 2020,Canoe Slalom,Women's Canoe
+5,CZE,tereza fiserova,120.99,Tokyo 2020,Canoe Slalom,Women's Canoe
+6,UKR,viktoriia us,124.85,Tokyo 2020,Canoe Slalom,Women's Canoe
+7,ESP,nuria vilarrubla,127.33,Tokyo 2020,Canoe Slalom,Women's Canoe
+8,SVK,monika skachova,129.39,Tokyo 2020,Canoe Slalom,Women's Canoe
+9,BRA,ana satila,164.71,Tokyo 2020,Canoe Slalom,Women's Canoe
+10,AND,monica doria vilarrubla,,Tokyo 2020,Canoe Slalom,Women's Canoe
+11,SLO,alja kozorog,,Tokyo 2020,Canoe Slalom,Women's Canoe
+12,NZL,luuka jones,,Tokyo 2020,Canoe Slalom,Women's Canoe
+13,ROC,alsu minazova,,Tokyo 2020,Canoe Slalom,Women's Canoe
+14,ITA,marta bertoncelli,,Tokyo 2020,Canoe Slalom,Women's Canoe
+15,SUI,alena marx,,Tokyo 2020,Canoe Slalom,Women's Canoe
+16,CHN,shi chen,,Tokyo 2020,Canoe Slalom,Women's Canoe
+17,USA,evy leibfarth,,Tokyo 2020,Canoe Slalom,Women's Canoe
+18,POL,aleksandra stach,,Tokyo 2020,Canoe Slalom,Women's Canoe
+19,JPN,ayano sato,,Tokyo 2020,Canoe Slalom,Women's Canoe
+20,COK,jane nicholas,,Tokyo 2020,Canoe Slalom,Women's Canoe
+21,CAN,haley daniels,,Tokyo 2020,Canoe Slalom,Women's Canoe
+0,GER,ricarda funk,105.50,Tokyo 2020,Canoe Slalom,Women's Kayak
+1,ESP,maialen chourraut,106.63,Tokyo 2020,Canoe Slalom,Women's Kayak
+2,AUS,jessica fox,106.73,Tokyo 2020,Canoe Slalom,Women's Kayak
+3,ITA,stefanie horn,106.93,Tokyo 2020,Canoe Slalom,Women's Kayak
+4,POL,klaudia kinga zwolinska,108.98,Tokyo 2020,Canoe Slalom,Women's Kayak
+5,NZL,luuka jones,110.67,Tokyo 2020,Canoe Slalom,Women's Kayak
+6,NED,martina wegman,111.33,Tokyo 2020,Canoe Slalom,Women's Kayak
+7,UKR,viktoriia us,111.85,Tokyo 2020,Canoe Slalom,Women's Kayak
+8,SVK,eliska mintalova,158.36,Tokyo 2020,Canoe Slalom,Women's Kayak
+9,GBR,kimberley woods,177.09,Tokyo 2020,Canoe Slalom,Women's Kayak
+10,AUT,viktoria wolffhardt,,Tokyo 2020,Canoe Slalom,Women's Kayak
+11,USA,evy leibfarth,,Tokyo 2020,Canoe Slalom,Women's Kayak
+12,BRA,ana satila,,Tokyo 2020,Canoe Slalom,Women's Kayak
+13,FRA,marie-zelia lafont,,Tokyo 2020,Canoe Slalom,Women's Kayak
+14,CZE,katerina kudejova,,Tokyo 2020,Canoe Slalom,Women's Kayak
+15,AND,monica doria vilarrubla,,Tokyo 2020,Canoe Slalom,Women's Kayak
+16,ROC,alsu minazova,,Tokyo 2020,Canoe Slalom,Women's Kayak
+17,SUI,naemi braendle,,Tokyo 2020,Canoe Slalom,Women's Kayak
+18,JPN,aki yazawa,,Tokyo 2020,Canoe Slalom,Women's Kayak
+19,CHN,tong li,,Tokyo 2020,Canoe Slalom,Women's Kayak
+20,MEX,sofia reinoso,,Tokyo 2020,Canoe Slalom,Women's Kayak
+21,COK,jane nicholas,,Tokyo 2020,Canoe Slalom,Women's Kayak
+22,CAN,florence maheu,,Tokyo 2020,Canoe Slalom,Women's Kayak
+23,SLO,eva tercelj,,Tokyo 2020,Canoe Slalom,Women's Kayak
+24,KAZ,yekaterina smirnova,,Tokyo 2020,Canoe Slalom,Women's Kayak
+25,TPE,chu-han chang,,Tokyo 2020,Canoe Slalom,Women's Kayak
+26,MAR,celia jodar,,Tokyo 2020,Canoe Slalom,Women's Kayak

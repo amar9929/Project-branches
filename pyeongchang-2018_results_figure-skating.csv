@@ -1,0 +1,95 @@
+,country,participant,result,olympic_game,discipline,event
+0,CAN,tessa virtue,206.07,PyeongChang 2018,Figure skating,Ice Dance
+1,FRA,guillaume cizeron,205.28,PyeongChang 2018,Figure skating,Ice Dance
+2,USA,maia shibutani,192.59,PyeongChang 2018,Figure skating,Ice Dance
+3,USA,zachary donohue,187.69,PyeongChang 2018,Figure skating,Ice Dance
+4,ROC,ekaterina bobrova,186.92,PyeongChang 2018,Figure skating,Ice Dance
+5,ITA,anna cappellini,184.91,PyeongChang 2018,Figure skating,Ice Dance
+6,CAN,kaitlyn weaver,181.98,PyeongChang 2018,Figure skating,Ice Dance
+7,CAN,paul poirier,176.91,PyeongChang 2018,Figure skating,Ice Dance
+8,USA,evan bates,175.58,PyeongChang 2018,Figure skating,Ice Dance
+9,ITA,charlene guignard,173.47,PyeongChang 2018,Figure skating,Ice Dance
+10,GBR,nicholas buckland,170.32,PyeongChang 2018,Figure skating,Ice Dance
+11,ESP,kirill khaliavin,168.33,PyeongChang 2018,Figure skating,Ice Dance
+12,ROC,tiffani zagorski,162.24,PyeongChang 2018,Figure skating,Ice Dance
+13,POL,natalia kaliszek,161.35,PyeongChang 2018,Figure skating,Ice Dance
+14,JPN,chris reed,160.63,PyeongChang 2018,Figure skating,Ice Dance
+15,GER,joti polizoakis,150.49,PyeongChang 2018,Figure skating,Ice Dance
+16,FRA,romain le gac,149.59,PyeongChang 2018,Figure skating,Ice Dance
+17,KOR,yura min,147.74,PyeongChang 2018,Figure skating,Ice Dance
+18,TUR,alisa agafonova,147.18,PyeongChang 2018,Figure skating,Ice Dance
+19,SVK,lucie mysliveckova,142.57,PyeongChang 2018,Figure skating,Ice Dance
+0,ROC,alina zagitova,239.57,PyeongChang 2018,Figure skating,Ladies' Single Skating
+1,ROC,evgenia medvedeva,238.26,PyeongChang 2018,Figure skating,Ladies' Single Skating
+2,CAN,kaetlyn osmond,231.02,PyeongChang 2018,Figure skating,Ladies' Single Skating
+3,JPN,satoko miyahara,222.38,PyeongChang 2018,Figure skating,Ladies' Single Skating
+4,ITA,carolina kostner,212.44,PyeongChang 2018,Figure skating,Ladies' Single Skating
+5,JPN,kaori sakamoto,209.71,PyeongChang 2018,Figure skating,Ladies' Single Skating
+6,KOR,dabin choi,199.26,PyeongChang 2018,Figure skating,Ladies' Single Skating
+7,ROC,maria sotskova,198.10,PyeongChang 2018,Figure skating,Ladies' Single Skating
+8,USA,bradie tennell,192.35,PyeongChang 2018,Figure skating,Ladies' Single Skating
+9,USA,mirai nagasu,186.54,PyeongChang 2018,Figure skating,Ladies' Single Skating
+10,USA,karen chen,185.65,PyeongChang 2018,Figure skating,Ladies' Single Skating
+11,KAZ,elizabet tursynbaeva,177.12,PyeongChang 2018,Figure skating,Ladies' Single Skating
+12,KOR,hanul kim,175.71,PyeongChang 2018,Figure skating,Ladies' Single Skating
+13,SVK,nicole rajicova,175.19,PyeongChang 2018,Figure skating,Ladies' Single Skating
+14,CAN,gabrielle daleman,172.46,PyeongChang 2018,Figure skating,Ladies' Single Skating
+15,BEL,loena hendrickx,171.88,PyeongChang 2018,Figure skating,Ladies' Single Skating
+16,AUS,kailani craine,168.61,PyeongChang 2018,Figure skating,Ladies' Single Skating
+17,GER,nicole schott,168.46,PyeongChang 2018,Figure skating,Ladies' Single Skating
+18,FRA,mae berenice meite,159.92,PyeongChang 2018,Figure skating,Ladies' Single Skating
+19,FIN,emmi peltonen,157.14,PyeongChang 2018,Figure skating,Ladies' Single Skating
+20,SUI,alexia paganini,156.26,PyeongChang 2018,Figure skating,Ladies' Single Skating
+21,CHN,xiangning li,154.43,PyeongChang 2018,Figure skating,Ladies' Single Skating
+22,HUN,ivett toth,150.43,PyeongChang 2018,Figure skating,Ladies' Single Skating
+23,BRA,isadora williams,144.18,PyeongChang 2018,Figure skating,Ladies' Single Skating
+0,JPN,yuzuru hanyu,317.85,PyeongChang 2018,Figure skating,Men's Single Skating
+1,JPN,shoma uno,306.90,PyeongChang 2018,Figure skating,Men's Single Skating
+2,ESP,javier fernandez,305.24,PyeongChang 2018,Figure skating,Men's Single Skating
+3,CHN,boyang jin,297.77,PyeongChang 2018,Figure skating,Men's Single Skating
+4,USA,nathan chen,297.35,PyeongChang 2018,Figure skating,Men's Single Skating
+5,USA,vincent zhou,276.69,PyeongChang 2018,Figure skating,Men's Single Skating
+6,ROC,dmitry aliyev,267.51,PyeongChang 2018,Figure skating,Men's Single Skating
+7,ROC,mikhail kolyada,264.25,PyeongChang 2018,Figure skating,Men's Single Skating
+8,CAN,patrick chan,263.43,PyeongChang 2018,Figure skating,Men's Single Skating
+9,USA,adam rippon,259.36,PyeongChang 2018,Figure skating,Men's Single Skating
+10,ISR,alexei bychenko,257.01,PyeongChang 2018,Figure skating,Men's Single Skating
+11,CAN,keegan messing,255.43,PyeongChang 2018,Figure skating,Men's Single Skating
+12,ISR,daniel samohin,251.44,PyeongChang 2018,Figure skating,Men's Single Skating
+13,BEL,jorik hendrickx,248.95,PyeongChang 2018,Figure skating,Men's Single Skating
+14,KOR,junhwan cha,248.59,PyeongChang 2018,Figure skating,Men's Single Skating
+15,CZE,michal brezina,246.07,PyeongChang 2018,Figure skating,Men's Single Skating
+16,UZB,misha ge,244.94,PyeongChang 2018,Figure skating,Men's Single Skating
+17,JPN,keiji tanaka,244.83,PyeongChang 2018,Figure skating,Men's Single Skating
+18,LAT,deniss vasiljevs,234.58,PyeongChang 2018,Figure skating,Men's Single Skating
+19,AUS,brendan kerry,233.81,PyeongChang 2018,Figure skating,Men's Single Skating
+20,ITA,matteo rizzo,232.41,PyeongChang 2018,Figure skating,Men's Single Skating
+21,GER,paul fentz,214.55,PyeongChang 2018,Figure skating,Men's Single Skating
+22,CHN,han yan,213.01,PyeongChang 2018,Figure skating,Men's Single Skating
+23,GEO,morisi kvitelashvili,204.57,PyeongChang 2018,Figure skating,Men's Single Skating
+0,GER,bruno massot,235.90,PyeongChang 2018,Figure skating,Pair Skating
+1,CHN,wenjing sui,235.47,PyeongChang 2018,Figure skating,Pair Skating
+2,CAN,meagan duhamel,230.15,PyeongChang 2018,Figure skating,Pair Skating
+3,ROC,vladimir morozov,224.93,PyeongChang 2018,Figure skating,Pair Skating
+4,FRA,morgan cipres,218.53,PyeongChang 2018,Figure skating,Pair Skating
+5,ITA,valentina marchei,216.59,PyeongChang 2018,Figure skating,Pair Skating
+6,ROC,nataliya zabiyako,212.88,PyeongChang 2018,Figure skating,Pair Skating
+7,CHN,hao zhang,204.10,PyeongChang 2018,Figure skating,Pair Skating
+8,CAN,charlie bilodeau,204.02,PyeongChang 2018,Figure skating,Pair Skating
+9,ITA,nicole della monica,202.74,PyeongChang 2018,Figure skating,Pair Skating
+10,CAN,kirsten moore-towers,198.11,PyeongChang 2018,Figure skating,Pair Skating
+11,ROC,kristina astakhova,194.45,PyeongChang 2018,Figure skating,Pair Skating
+12,PRK,ju sik kim,193.63,PyeongChang 2018,Figure skating,Pair Skating
+13,CZE,martin bidař,186.33,PyeongChang 2018,Figure skating,Pair Skating
+14,USA,chris knierim,185.82,PyeongChang 2018,Figure skating,Pair Skating
+15,GER,ruben blommaert,171.98,PyeongChang 2018,Figure skating,Pair Skating
+0,,,73,PyeongChang 2018,Figure skating,Team event
+1,,,66,PyeongChang 2018,Figure skating,Team event
+2,,,62,PyeongChang 2018,Figure skating,Team event
+3,,,56,PyeongChang 2018,Figure skating,Team event
+4,,,50,PyeongChang 2018,Figure skating,Team event
+5,,,18,PyeongChang 2018,Figure skating,Team event
+6,,,16,PyeongChang 2018,Figure skating,Team event
+7,,,13,PyeongChang 2018,Figure skating,Team event
+8,,,13,PyeongChang 2018,Figure skating,Team event
+9,,,13,PyeongChang 2018,Figure skating,Team event

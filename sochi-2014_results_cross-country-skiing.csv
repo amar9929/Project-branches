@@ -1,0 +1,643 @@
+,country,participant,result,olympic_game,discipline,event
+0,POL,justyna kowalczyk,00:28:17.800,Sochi 2014,Cross Country Skiing,10km women
+1,SWE,charlotte kalla,00:28:36.200,Sochi 2014,Cross Country Skiing,10km women
+2,NOR,therese johaug,00:28:46.100,Sochi 2014,Cross Country Skiing,10km women
+3,FIN,aino-kaisa saarinen,00:28:48.100,Sochi 2014,Cross Country Skiing,10km women
+4,NOR,marit bjoergen,00:28:51.200,Sochi 2014,Cross Country Skiing,10km women
+5,GER,stefanie boehler,00:29:04.300,Sochi 2014,Cross Country Skiing,10km women
+6,RUS,natalia zhukova,00:29:15.500,Sochi 2014,Cross Country Skiing,10km women
+7,FIN,kerttu niskanen,00:29:16.700,Sochi 2014,Cross Country Skiing,10km women
+8,NOR,heidi weng,00:29:28.200,Sochi 2014,Cross Country Skiing,10km women
+9,FIN,krista parmakoski,00:29:36.000,Sochi 2014,Cross Country Skiing,10km women
+10,SWE,emma wiken,00:29:38.900,Sochi 2014,Cross Country Skiing,10km women
+11,RUS,olga kuziukova,00:29:41.900,Sochi 2014,Cross Country Skiing,10km women
+12,FIN,anne kylloenen,00:29:52.800,Sochi 2014,Cross Country Skiing,10km women
+13,JPN,masako ishida,00:29:55.700,Sochi 2014,Cross Country Skiing,10km women
+14,SWE,sara lindborg,00:29:56.200,Sochi 2014,Cross Country Skiing,10km women
+15,USA,sadie bjornsen,00:29:59.700,Sochi 2014,Cross Country Skiing,10km women
+16,NOR,astrid uhrenholdt jacobsen,00:30:01.600,Sochi 2014,Cross Country Skiing,10km women
+17,SWE,anna haag,00:30:04.500,Sochi 2014,Cross Country Skiing,10km women
+18,CZE,eva vrabcova - nyvltova,00:30:06.700,Sochi 2014,Cross Country Skiing,10km women
+19,AUT,katerina smutna,00:30:13.600,Sochi 2014,Cross Country Skiing,10km women
+20,GER,nicole fessel,00:30:27.000,Sochi 2014,Cross Country Skiing,10km women
+21,UKR,valentina shevchenko,00:30:33.000,Sochi 2014,Cross Country Skiing,10km women
+22,GER,katrin zeller,00:30:38.500,Sochi 2014,Cross Country Skiing,10km women
+23,POL,kornelia kubinska,00:30:43.500,Sochi 2014,Cross Country Skiing,10km women
+24,FRA,celia aymonier,00:30:45.800,Sochi 2014,Cross Country Skiing,10km women
+25,ESP,laura orgue,00:30:48.000,Sochi 2014,Cross Country Skiing,10km women
+26,FRA,aurore jean,00:31:01.000,Sochi 2014,Cross Country Skiing,10km women
+27,UKR,tetiana antypenko,00:31:06.900,Sochi 2014,Cross Country Skiing,10km women
+28,USA,sophie caldwell,00:31:11.400,Sochi 2014,Cross Country Skiing,10km women
+29,SLO,alenka cebasek,00:31:13.600,Sochi 2014,Cross Country Skiing,10km women
+30,USA,ida sargent,00:31:15.100,Sochi 2014,Cross Country Skiing,10km women
+31,USA,holly brooks,00:31:19.100,Sochi 2014,Cross Country Skiing,10km women
+32,KAZ,yelena kolomina,00:31:20.100,Sochi 2014,Cross Country Skiing,10km women
+33,CHN,hongxue li,00:31:20.700,Sochi 2014,Cross Country Skiing,10km women
+34,AUT,nathalie schwarz,00:31:23.200,Sochi 2014,Cross Country Skiing,10km women
+35,POL,paulina maciuszek,00:31:25.800,Sochi 2014,Cross Country Skiing,10km women
+36,ITA,elisa brocard,00:31:28.000,Sochi 2014,Cross Country Skiing,10km women
+37,SLO,barbara jezersek,00:31:40.000,Sochi 2014,Cross Country Skiing,10km women
+38,CAN,brittany webster,00:31:41.000,Sochi 2014,Cross Country Skiing,10km women
+39,BLR,alena sannikova,00:31:42.200,Sochi 2014,Cross Country Skiing,10km women
+40,CAN,daria gaiazova,00:31:47.000,Sochi 2014,Cross Country Skiing,10km women
+41,EST,triin ojaste,00:31:54.300,Sochi 2014,Cross Country Skiing,10km women
+42,KAZ,anastasia slonova,00:31:56.600,Sochi 2014,Cross Country Skiing,10km women
+43,AUT,veronika mayerhofer,00:31:59.600,Sochi 2014,Cross Country Skiing,10km women
+44,CZE,klara moravcova,00:32:00.600,Sochi 2014,Cross Country Skiing,10km women
+45,UKR,kateryna grygorenko,00:32:03.500,Sochi 2014,Cross Country Skiing,10km women
+46,SVK,alena prochazkova,00:32:08.400,Sochi 2014,Cross Country Skiing,10km women
+47,KOR,chaewon lee,00:32:16.900,Sochi 2014,Cross Country Skiing,10km women
+48,KAZ,tatyana ossipova,00:32:20.100,Sochi 2014,Cross Country Skiing,10km women
+49,CHN,dandan man,00:32:25.100,Sochi 2014,Cross Country Skiing,10km women
+50,SLO,katja visnar,00:32:47.000,Sochi 2014,Cross Country Skiing,10km women
+51,CAN,amanda ammar,00:32:48.800,Sochi 2014,Cross Country Skiing,10km women
+52,TUR,kelime cetinkaya,00:32:58.000,Sochi 2014,Cross Country Skiing,10km women
+53,CAN,heidi widmer,00:33:01.900,Sochi 2014,Cross Country Skiing,10km women
+54,UKR,maryna malets-lisohor,00:33:35.400,Sochi 2014,Cross Country Skiing,10km women
+55,CRO,vedrana malec,00:33:42.300,Sochi 2014,Cross Country Skiing,10km women
+56,SLO,nika razinger,00:33:54.100,Sochi 2014,Cross Country Skiing,10km women
+57,AUS,esther bottomley,00:34:30.100,Sochi 2014,Cross Country Skiing,10km women
+58,ROU,timea lorincz,00:34:48.200,Sochi 2014,Cross Country Skiing,10km women
+59,AUS,aimee watson,00:34:56.000,Sochi 2014,Cross Country Skiing,10km women
+60,ARM,katya galstyan,00:35:26.400,Sochi 2014,Cross Country Skiing,10km women
+61,LAT,inga daushkane,00:36:13.100,Sochi 2014,Cross Country Skiing,10km women
+62,GBR,rosamund musgrave,00:36:18.500,Sochi 2014,Cross Country Skiing,10km women
+63,LTU,ingrida ardisauskaite,00:36:52.100,Sochi 2014,Cross Country Skiing,10km women
+64,TOG,mathilde amivi petitjean,00:37:26.700,Sochi 2014,Cross Country Skiing,10km women
+65,HUN,agnes simon,00:38:36.700,Sochi 2014,Cross Country Skiing,10km women
+66,MGL,otgontsetseg chinbat,00:38:43.100,Sochi 2014,Cross Country Skiing,10km women
+67,MDA,alexandra camenscic,00:39:52.600,Sochi 2014,Cross Country Skiing,10km women
+68,BIH,tanja karisik-kosarac,00:41:34.600,Sochi 2014,Cross Country Skiing,10km women
+69,IRI,farzaneh rezasoltani,00:42:31.300,Sochi 2014,Cross Country Skiing,10km women
+70,MKD,marija kolaroska,00:44:46.000,Sochi 2014,Cross Country Skiing,10km women
+71,SRB,ivana kovacevic,00:45:21.300,Sochi 2014,Cross Country Skiing,10km women
+72,RUS,julia ivanova,Disqualified,Sochi 2014,Cross Country Skiing,10km women
+73,RUS,yuliya chekalyova,Disqualified,Sochi 2014,Cross Country Skiing,10km women
+74,ITA,marina piller,Disqualified,Sochi 2014,Cross Country Skiing,10km women
+75,DMA,angelica morrone di silvestri,Did not start,Sochi 2014,Cross Country Skiing,10km women
+0,SUI,dario cologna,00:38:29.700,Sochi 2014,Cross Country Skiing,15km men
+1,SWE,johan olsson,00:38:58.200,Sochi 2014,Cross Country Skiing,15km men
+2,SWE,daniel rickardsson,00:39:08.500,Sochi 2014,Cross Country Skiing,15km men
+3,FIN,iivo niskanen,00:39:08.700,Sochi 2014,Cross Country Skiing,15km men
+4,CZE,lukas bauer,00:39:28.600,Sochi 2014,Cross Country Skiing,15km men
+5,NOR,chris andre jespersen,00:39:30.600,Sochi 2014,Cross Country Skiing,15km men
+6,RUS,alexander bessmertnykh,00:39:37.700,Sochi 2014,Cross Country Skiing,15km men
+7,GER,axel teichmann,00:39:42.400,Sochi 2014,Cross Country Skiing,15km men
+8,KAZ,alexey poltoranin,00:39:43.200,Sochi 2014,Cross Country Skiing,15km men
+9,SWE,marcus hellner,00:39:46.900,Sochi 2014,Cross Country Skiing,15km men
+10,GER,hannes dotzler,00:39:49.900,Sochi 2014,Cross Country Skiing,15km men
+11,NOR,eldar ronning,00:40:02.800,Sochi 2014,Cross Country Skiing,15km men
+12,NOR,martin johnsrud sundby,00:40:07.400,Sochi 2014,Cross Country Skiing,15km men
+13,GER,jens filbrich,00:40:08.500,Sochi 2014,Cross Country Skiing,15km men
+14,SWE,lars nelson,00:40:08.800,Sochi 2014,Cross Country Skiing,15km men
+15,RUS,dmitry yaparov,00:40:10.700,Sochi 2014,Cross Country Skiing,15km men
+16,FIN,sami jauhojaervi,00:40:14.400,Sochi 2014,Cross Country Skiing,15km men
+17,NOR,paal golberg,00:40:14.500,Sochi 2014,Cross Country Skiing,15km men
+18,RUS,stanislav volzhentsev,00:40:15.000,Sochi 2014,Cross Country Skiing,15km men
+19,FIN,matti heikkinen,00:40:17.800,Sochi 2014,Cross Country Skiing,15km men
+20,FRA,jean marc gaillard,00:40:22.800,Sochi 2014,Cross Country Skiing,15km men
+21,SUI,curdin perl,00:40:27.800,Sochi 2014,Cross Country Skiing,15km men
+22,SVK,martin bajcicak,00:40:28.000,Sochi 2014,Cross Country Skiing,15km men
+23,SUI,jonas baumann,00:40:33.200,Sochi 2014,Cross Country Skiing,15km men
+24,RUS,evgeniy belov,00:40:36.800,Sochi 2014,Cross Country Skiing,15km men
+25,GER,tim tscharnke,00:40:41.300,Sochi 2014,Cross Country Skiing,15km men
+26,LIE,philipp haelg,00:40:41.500,Sochi 2014,Cross Country Skiing,15km men
+27,FIN,ville nousiainen,00:40:52.600,Sochi 2014,Cross Country Skiing,15km men
+28,POL,maciej kreczmer,00:40:58.700,Sochi 2014,Cross Country Skiing,15km men
+29,ITA,francesco de fabiani,00:41:00.800,Sochi 2014,Cross Country Skiing,15km men
+30,USA,noah hoffman,00:41:02.700,Sochi 2014,Cross Country Skiing,15km men
+31,ITA,dietmar noeckler,00:41:11.900,Sochi 2014,Cross Country Skiing,15km men
+32,KAZ,nikolay chebotko,00:41:14.100,Sochi 2014,Cross Country Skiing,15km men
+33,KAZ,yevgeniy velichko,00:41:16.400,Sochi 2014,Cross Country Skiing,15km men
+34,CAN,devon kershaw,00:41:17.100,Sochi 2014,Cross Country Skiing,15km men
+35,ITA,mattia pellegrin,00:41:20.100,Sochi 2014,Cross Country Skiing,15km men
+36,GBR,andrew young,00:41:29.600,Sochi 2014,Cross Country Skiing,15km men
+37,USA,erik bjornsen,00:41:44.700,Sochi 2014,Cross Country Skiing,15km men
+38,CAN,ivan babikov,00:41:49.200,Sochi 2014,Cross Country Skiing,15km men
+39,EST,aivar rehemaa,00:41:49.800,Sochi 2014,Cross Country Skiing,15km men
+40,BUL,veselin tsinzov,00:42:06.300,Sochi 2014,Cross Country Skiing,15km men
+41,EST,algo karp,00:42:16.500,Sochi 2014,Cross Country Skiing,15km men
+42,FRA,adrien backscheider,00:42:21.700,Sochi 2014,Cross Country Skiing,15km men
+43,GBR,andrew musgrave,00:42:25.700,Sochi 2014,Cross Country Skiing,15km men
+44,EST,karel tammjarv,00:42:27.700,Sochi 2014,Cross Country Skiing,15km men
+45,ARM,sergey mikayelyan,00:42:39.100,Sochi 2014,Cross Country Skiing,15km men
+46,USA,brian gregg,00:42:42.000,Sochi 2014,Cross Country Skiing,15km men
+47,ITA,fabio pasini,00:42:42.300,Sochi 2014,Cross Country Skiing,15km men
+48,BLR,aliaksandr lazutkin,00:42:45.100,Sochi 2014,Cross Country Skiing,15km men
+49,ESP,imanol rojo,00:42:45.400,Sochi 2014,Cross Country Skiing,15km men
+50,SVK,peter mlynar,00:42:50.300,Sochi 2014,Cross Country Skiing,15km men
+51,USA,kris freeman,00:42:54.800,Sochi 2014,Cross Country Skiing,15km men
+52,BLR,sergei dolidovich,00:42:55.400,Sochi 2014,Cross Country Skiing,15km men
+53,KAZ,yerdos akhmadiyev,00:43:02.200,Sochi 2014,Cross Country Skiing,15km men
+54,POL,sebastian gazurek,00:43:06.700,Sochi 2014,Cross Country Skiing,15km men
+55,FRA,cyril miranda,00:43:22.500,Sochi 2014,Cross Country Skiing,15km men
+56,AUT,max hauke,00:43:23.400,Sochi 2014,Cross Country Skiing,15km men
+57,DEN,martin moeller,00:43:29.700,Sochi 2014,Cross Country Skiing,15km men
+58,BLR,mikhail siamionau,00:43:36.000,Sochi 2014,Cross Country Skiing,15km men
+59,CRO,edi dadic,00:43:38.800,Sochi 2014,Cross Country Skiing,15km men
+60,EST,raido rankel,00:43:38.900,Sochi 2014,Cross Country Skiing,15km men
+61,ROU,paul constantin pepene,00:43:39.400,Sochi 2014,Cross Country Skiing,15km men
+62,ESP,javier gutierrez,00:43:43.900,Sochi 2014,Cross Country Skiing,15km men
+63,POL,pawel klisz,00:43:51.600,Sochi 2014,Cross Country Skiing,15km men
+64,CAN,graeme killick,00:44:04.800,Sochi 2014,Cross Country Skiing,15km men
+65,POL,maciej starega,00:44:07.100,Sochi 2014,Cross Country Skiing,15km men
+66,GBR,callum smith,00:44:14.700,Sochi 2014,Cross Country Skiing,15km men
+67,KOR,junho hwang,00:44:34.800,Sochi 2014,Cross Country Skiing,15km men
+68,UKR,oleksiy krasovskyi,00:44:35.400,Sochi 2014,Cross Country Skiing,15km men
+69,LTU,vytautas strolia,00:45:08.000,Sochi 2014,Cross Country Skiing,15km men
+70,TUR,sabahattin oglago,00:45:16.000,Sochi 2014,Cross Country Skiing,15km men
+71,CHN,qinghai sun,00:45:28.200,Sochi 2014,Cross Country Skiing,15km men
+72,LAT,arvis liepins,00:45:36.200,Sochi 2014,Cross Country Skiing,15km men
+73,ISL,saevar birgisson,00:45:44.200,Sochi 2014,Cross Country Skiing,15km men
+74,AUS,callum watson,00:45:46.500,Sochi 2014,Cross Country Skiing,15km men
+75,AUS,phillip bellingham,00:46:16.400,Sochi 2014,Cross Country Skiing,15km men
+76,SRB,milanko petrovic,00:46:42.200,Sochi 2014,Cross Country Skiing,15km men
+77,HUN,milan szabo,00:47:01.300,Sochi 2014,Cross Country Skiing,15km men
+78,IRI,seyed sattar seyd,00:47:16.100,Sochi 2014,Cross Country Skiing,15km men
+79,MGL,byambadorj bold,00:48:29.600,Sochi 2014,Cross Country Skiing,15km men
+80,MKD,darko damjanovski,00:48:34.900,Sochi 2014,Cross Country Skiing,15km men
+81,IRL,jan rossiter,00:48:44.600,Sochi 2014,Cross Country Skiing,15km men
+82,ARG,federico pablo cichero,00:49:11.300,Sochi 2014,Cross Country Skiing,15km men
+83,BER,tucker murphy,00:49:19.900,Sochi 2014,Cross Country Skiing,15km men
+84,IND,nadeem iqbal,00:55:12.500,Sochi 2014,Cross Country Skiing,15km men
+85,NEP,dachhiri dawa sherpa,00:55:39.300,Sochi 2014,Cross Country Skiing,15km men
+86,PER,roberto carcelen,01:06:28.900,Sochi 2014,Cross Country Skiing,15km men
+87,CAN,alex harvey,Did not finish,Sochi 2014,Cross Country Skiing,15km men
+88,SRB,rejhan smrkovic,Did not finish,Sochi 2014,Cross Country Skiing,15km men
+89,LAT,janis paipals,Did not finish,Sochi 2014,Cross Country Skiing,15km men
+90,DMA,gary di silvestri,Did not finish,Sochi 2014,Cross Country Skiing,15km men
+91,ARM,artur yeghoyan,Did not start,Sochi 2014,Cross Country Skiing,15km men
+0,NOR,marit bjoergen,01:11:05.200,Sochi 2014,Cross Country Skiing,30km women
+1,NOR,therese johaug,01:11:07.800,Sochi 2014,Cross Country Skiing,30km women
+2,NOR,kristin stoermer steira,01:11:28.800,Sochi 2014,Cross Country Skiing,30km women
+3,FIN,kerttu niskanen,01:12:26.900,Sochi 2014,Cross Country Skiing,30km women
+4,CZE,eva vrabcova - nyvltova,01:12:27.100,Sochi 2014,Cross Country Skiing,30km women
+5,FRA,aurore jean,01:12:27.500,Sochi 2014,Cross Country Skiing,30km women
+6,FRA,coraline thomas hugue,01:12:29.500,Sochi 2014,Cross Country Skiing,30km women
+7,SWE,emma wiken,01:12:31.600,Sochi 2014,Cross Country Skiing,30km women
+8,SUI,seraina boner,01:12:35.000,Sochi 2014,Cross Country Skiing,30km women
+9,ESP,laura orgue,01:12:37.300,Sochi 2014,Cross Country Skiing,30km women
+10,SWE,anna haag,01:12:40.100,Sochi 2014,Cross Country Skiing,30km women
+11,GER,katrin zeller,01:12:41.400,Sochi 2014,Cross Country Skiing,30km women
+12,ITA,elisa brocard,01:12:42.000,Sochi 2014,Cross Country Skiing,30km women
+13,UKR,valentina shevchenko,01:12:42.600,Sochi 2014,Cross Country Skiing,30km women
+14,RUS,natalia zhukova,01:12:56.700,Sochi 2014,Cross Country Skiing,30km women
+15,ITA,debora agreiter,01:12:58.500,Sochi 2014,Cross Country Skiing,30km women
+16,FRA,anouk faivre picon,01:13:29.400,Sochi 2014,Cross Country Skiing,30km women
+17,FIN,krista parmakoski,01:13:37.600,Sochi 2014,Cross Country Skiing,30km women
+18,NOR,heidi weng,01:13:46.100,Sochi 2014,Cross Country Skiing,30km women
+19,AUT,teresa stadlober,01:13:50.100,Sochi 2014,Cross Country Skiing,30km women
+20,FIN,aino-kaisa saarinen,01:13:52.500,Sochi 2014,Cross Country Skiing,30km women
+21,CHN,hongxue li,01:14:01.500,Sochi 2014,Cross Country Skiing,30km women
+22,JPN,masako ishida,01:14:09.000,Sochi 2014,Cross Country Skiing,30km women
+23,USA,elizabeth stephen,01:14:11.800,Sochi 2014,Cross Country Skiing,30km women
+24,FIN,riitta-liisa roponen,01:14:51.600,Sochi 2014,Cross Country Skiing,30km women
+25,USA,holly brooks,01:14:58.300,Sochi 2014,Cross Country Skiing,30km women
+26,USA,kikkan randall,01:15:10.700,Sochi 2014,Cross Country Skiing,30km women
+27,RUS,irina khazova,01:15:19.200,Sochi 2014,Cross Country Skiing,30km women
+28,SLO,barbara jezersek,01:15:35.800,Sochi 2014,Cross Country Skiing,30km women
+29,POL,sylwia jaskowiec,01:15:47.600,Sochi 2014,Cross Country Skiing,30km women
+30,SWE,charlotte kalla,01:16:18.500,Sochi 2014,Cross Country Skiing,30km women
+31,UKR,maryna antsybor,01:16:22.700,Sochi 2014,Cross Country Skiing,30km women
+32,KOR,chaewon lee,01:16:38.200,Sochi 2014,Cross Country Skiing,30km women
+33,CZE,petra novakova,01:17:49.600,Sochi 2014,Cross Country Skiing,30km women
+34,UKR,kateryna grygorenko,01:17:53.000,Sochi 2014,Cross Country Skiing,30km women
+35,SWE,sara lindborg,01:18:03.900,Sochi 2014,Cross Country Skiing,30km women
+36,USA,jessica diggins,01:18:13.000,Sochi 2014,Cross Country Skiing,30km women
+37,POL,paulina maciuszek,01:18:44.700,Sochi 2014,Cross Country Skiing,30km women
+38,BLR,alena sannikova,01:18:46.300,Sochi 2014,Cross Country Skiing,30km women
+39,POL,kornelia kubinska,01:19:57.700,Sochi 2014,Cross Country Skiing,30km women
+40,ITA,ilaria debertolis,01:20:22.200,Sochi 2014,Cross Country Skiing,30km women
+41,CZE,klara moravcova,01:20:56.400,Sochi 2014,Cross Country Skiing,30km women
+42,CAN,brittany webster,01:21:05.500,Sochi 2014,Cross Country Skiing,30km women
+43,CAN,emily nishikawa,01:21:38.600,Sochi 2014,Cross Country Skiing,30km women
+44,KAZ,yelena kolomina,01:21:50.000,Sochi 2014,Cross Country Skiing,30km women
+45,CAN,amanda ammar,01:22:03.700,Sochi 2014,Cross Country Skiing,30km women
+46,BUL,antoniya grigorova,01:23:05.600,Sochi 2014,Cross Country Skiing,30km women
+47,KAZ,tatyana ossipova,01:23:52.600,Sochi 2014,Cross Country Skiing,30km women
+48,CAN,heidi widmer,01:24:11.500,Sochi 2014,Cross Country Skiing,30km women
+49,CRO,vedrana malec,01:24:13.400,Sochi 2014,Cross Country Skiing,30km women
+50,AUS,aimee watson,01:34:00.100,Sochi 2014,Cross Country Skiing,30km women
+51,POL,justyna kowalczyk,Did not finish,Sochi 2014,Cross Country Skiing,30km women
+52,GER,nicole fessel,Did not finish,Sochi 2014,Cross Country Skiing,30km women
+53,BUL,teodora malcheva,Did not finish,Sochi 2014,Cross Country Skiing,30km women
+54,RUS,julia ivanova,Disqualified,Sochi 2014,Cross Country Skiing,30km women
+55,RUS,yuliya chekalyova,Disqualified,Sochi 2014,Cross Country Skiing,30km women
+56,ITA,marina piller,Disqualified,Sochi 2014,Cross Country Skiing,30km women
+0,RUS,alexander legkov,01:46:55.200,Sochi 2014,Cross Country Skiing,50km men
+1,RUS,maxim vylegzhanin,01:46:55.900,Sochi 2014,Cross Country Skiing,50km men
+2,RUS,ilia chernousov,01:46:56.000,Sochi 2014,Cross Country Skiing,50km men
+3,NOR,martin johnsrud sundby,01:46:56.200,Sochi 2014,Cross Country Skiing,50km men
+4,BLR,sergei dolidovich,01:47:09.500,Sochi 2014,Cross Country Skiing,50km men
+5,FRA,robin duvillard,01:47:10.100,Sochi 2014,Cross Country Skiing,50km men
+6,SWE,anders soedergren,01:47:13.000,Sochi 2014,Cross Country Skiing,50km men
+7,SWE,daniel rickardsson,01:47:19.600,Sochi 2014,Cross Country Skiing,50km men
+8,SWE,johan olsson,01:47:27.300,Sochi 2014,Cross Country Skiing,50km men
+9,FIN,iivo niskanen,01:47:27.500,Sochi 2014,Cross Country Skiing,50km men
+10,ITA,roland clara,01:47:28.600,Sochi 2014,Cross Country Skiing,50km men
+11,SUI,curdin perl,01:47:31.300,Sochi 2014,Cross Country Skiing,50km men
+12,FRA,ivan perrillat boiteux,01:47:31.700,Sochi 2014,Cross Country Skiing,50km men
+13,SVK,martin bajcicak,01:47:34.400,Sochi 2014,Cross Country Skiing,50km men
+14,FIN,matti heikkinen,01:47:35.000,Sochi 2014,Cross Country Skiing,50km men
+15,ITA,david hofer,01:47:35.700,Sochi 2014,Cross Country Skiing,50km men
+16,BLR,mikhail siamionau,01:47:36.000,Sochi 2014,Cross Country Skiing,50km men
+17,NOR,petter northug jr.,01:47:39.700,Sochi 2014,Cross Country Skiing,50km men
+18,CAN,alex harvey,01:47:40.900,Sochi 2014,Cross Country Skiing,50km men
+19,CAN,ivan babikov,01:47:41.800,Sochi 2014,Cross Country Skiing,50km men
+20,NOR,tord asle gjerdalen,01:47:43.500,Sochi 2014,Cross Country Skiing,50km men
+21,SUI,remo fischer,01:47:44.200,Sochi 2014,Cross Country Skiing,50km men
+22,FIN,lari lehtonen,01:47:48.700,Sochi 2014,Cross Country Skiing,50km men
+23,AUT,bernhard tritscher,01:47:51.700,Sochi 2014,Cross Country Skiing,50km men
+24,ITA,francesco de fabiani,01:47:51.800,Sochi 2014,Cross Country Skiing,50km men
+25,USA,noah hoffman,01:48:04.300,Sochi 2014,Cross Country Skiing,50km men
+26,SUI,dario cologna,01:48:21.600,Sochi 2014,Cross Country Skiing,50km men
+27,CAN,graeme killick,01:48:22.400,Sochi 2014,Cross Country Skiing,50km men
+28,CZE,petr novak,01:48:41.000,Sochi 2014,Cross Country Skiing,50km men
+29,SUI,toni livers,01:48:49.900,Sochi 2014,Cross Country Skiing,50km men
+30,CZE,lukas bauer,01:48:51.300,Sochi 2014,Cross Country Skiing,50km men
+31,NOR,chris andre jespersen,01:49:21.300,Sochi 2014,Cross Country Skiing,50km men
+32,ESP,imanol rojo,01:49:21.900,Sochi 2014,Cross Country Skiing,50km men
+33,KAZ,mark starostin,01:49:34.100,Sochi 2014,Cross Country Skiing,50km men
+34,FRA,jean marc gaillard,01:49:49.700,Sochi 2014,Cross Country Skiing,50km men
+35,GER,thomas bing,01:49:56.100,Sochi 2014,Cross Country Skiing,50km men
+36,CZE,martin jaks,01:50:00.500,Sochi 2014,Cross Country Skiing,50km men
+37,RUS,konstantin glavatskikh,01:50:33.400,Sochi 2014,Cross Country Skiing,50km men
+38,GER,axel teichmann,01:51:03.400,Sochi 2014,Cross Country Skiing,50km men
+39,GER,arnd peiffer,01:51:31.500,Sochi 2014,Cross Country Skiing,50km men
+40,BUL,andrey gridin,01:51:41.700,Sochi 2014,Cross Country Skiing,50km men
+41,GER,erik lesser,01:51:55.800,Sochi 2014,Cross Country Skiing,50km men
+42,FRA,maurice manificat,01:52:01.600,Sochi 2014,Cross Country Skiing,50km men
+43,EST,aivar rehemaa,01:52:22.100,Sochi 2014,Cross Country Skiing,50km men
+44,DEN,martin moeller,01:52:32.700,Sochi 2014,Cross Country Skiing,50km men
+45,BLR,aliaksei ivanou,01:52:52.900,Sochi 2014,Cross Country Skiing,50km men
+46,ESP,javier gutierrez,01:53:02.500,Sochi 2014,Cross Country Skiing,50km men
+47,KAZ,yerdos akhmadiyev,01:53:07.400,Sochi 2014,Cross Country Skiing,50km men
+48,EST,karel tammjarv,01:53:23.000,Sochi 2014,Cross Country Skiing,50km men
+49,SRB,milanko petrovic,01:53:35.100,Sochi 2014,Cross Country Skiing,50km men
+50,USA,brian gregg,01:55:02.300,Sochi 2014,Cross Country Skiing,50km men
+51,CZE,jiri magal,01:56:28.700,Sochi 2014,Cross Country Skiing,50km men
+52,GBR,andrew musgrave,01:57:08.900,Sochi 2014,Cross Country Skiing,50km men
+53,KAZ,sergey cherepanov,01:57:24.200,Sochi 2014,Cross Country Skiing,50km men
+54,KAZ,yevgeniy velichko,01:58:10.600,Sochi 2014,Cross Country Skiing,50km men
+55,CAN,jesse cockney,01:59:16.600,Sochi 2014,Cross Country Skiing,50km men
+56,USA,kris freeman,01:59:46.700,Sochi 2014,Cross Country Skiing,50km men
+57,CRO,edi dadic,02:02:35.500,Sochi 2014,Cross Country Skiing,50km men
+58,LAT,arvis liepins,02:04:45.600,Sochi 2014,Cross Country Skiing,50km men
+59,CHN,wenlong xu,02:08:02.000,Sochi 2014,Cross Country Skiing,50km men
+60,BUL,veselin tsinzov,Did not finish,Sochi 2014,Cross Country Skiing,50km men
+61,MKD,darko damjanovski,Did not finish,Sochi 2014,Cross Country Skiing,50km men
+62,BIH,mladen plakalovic,Did not finish,Sochi 2014,Cross Country Skiing,50km men
+63,FIN,martti jylhae,,Sochi 2014,Cross Country Skiing,50km men
+64,USA,torin koos,Did not start,Sochi 2014,Cross Country Skiing,50km men
+0,,,01:28:42.000,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+1,,,01:29:09.300,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+2,,,01:29:13.900,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+3,,,01:29:51.700,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+4,,,01:30:04.700,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+5,,,01:30:28.400,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+6,,,01:30:33.800,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+7,,,01:30:36.800,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+8,,,01:31:18.800,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+9,,,01:32:52.600,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+10,,,01:33:15.100,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+11,,,01:33:19.000,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+12,,,01:34:11.900,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+13,,,01:34:40.100,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+14,,,01:35:46.500,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+15,,,lapped,Sochi 2014,Cross Country Skiing,Relay 4x10km men
+0,,,00:53:02.700,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+1,,,00:53:03.200,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+2,,,00:53:03.600,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+3,,,00:53:47.700,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+4,,,00:53:56.300,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+5,,,00:54:38.900,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+6,,,00:55:33.400,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+7,,,00:56:29.800,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+8,,,00:56:37.000,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+9,,,00:56:56.100,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+10,,,00:57:04.700,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+11,,,00:59:13.600,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+12,,,Disqualified,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+13,,,Disqualified,Sochi 2014,Cross Country Skiing,Relay 4x5km women
+0,SUI,dario cologna,01:08:15.400,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+1,SWE,marcus hellner,01:08:15.800,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+2,NOR,martin johnsrud sundby,01:08:16.800,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+3,RUS,maxim vylegzhanin,01:08:16.900,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+4,RUS,ilia chernousov,01:08:29.000,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+5,FRA,jean marc gaillard,01:08:29.800,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+6,SWE,daniel rickardsson,01:08:31.700,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+7,FRA,maurice manificat,01:08:33.600,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+8,SWE,lars nelson,01:08:37.700,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+9,RUS,alexander legkov,01:08:43.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+10,ITA,giorgio di centa,01:08:43.700,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+11,GER,hannes dotzler,01:08:44.800,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+12,SWE,anders soedergren,01:08:46.900,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+13,GER,tobias angerer,01:08:49.700,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+14,KAZ,alexey poltoranin,01:08:51.500,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+15,NOR,petter northug jr.,01:09:39.600,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+16,CAN,alex harvey,01:10:00.200,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+17,RUS,evgeniy belov,01:10:00.500,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+18,NOR,sjur røthe,01:10:02.500,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+19,NOR,tord asle gjerdalen,01:10:06.700,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+20,ITA,francesco de fabiani,01:10:10.700,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+21,GER,axel teichmann,01:10:13.300,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+22,BLR,mikhail siamionau,01:10:13.300,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+23,CAN,ivan babikov,01:10:14.600,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+24,FIN,iivo niskanen,01:10:22.000,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+25,SUI,curdin perl,01:10:22.400,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+26,CZE,martin jaks,01:10:52.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+27,SUI,jonas baumann,01:10:52.300,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+28,ITA,roland clara,01:10:56.300,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+29,SVK,martin bajcicak,01:11:00.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+30,KAZ,yevgeniy velichko,01:11:05.600,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+31,FIN,sami jauhojaervi,01:11:12.000,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+32,BLR,sergei dolidovich,01:11:28.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+33,USA,noah hoffman,01:11:28.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+34,CZE,petr novak,01:11:28.500,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+35,GER,thomas bing,01:11:32.900,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+36,FIN,lari lehtonen,01:11:34.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+37,POL,maciej kreczmer,01:11:47.600,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+38,FIN,matti heikkinen,01:11:52.600,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+39,FRA,ivan perrillat boiteux,01:12:04.500,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+40,USA,erik bjornsen,01:12:42.300,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+41,LIE,philipp haelg,01:12:47.800,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+42,CZE,jiri magal,01:12:49.500,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+43,CAN,graeme killick,01:13:16.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+44,ARM,sergey mikayelyan,01:13:16.600,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+45,USA,brian gregg,01:13:26.300,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+46,ROU,paul constantin pepene,01:13:36.200,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+47,KAZ,sergey cherepanov,01:13:39.700,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+48,ESP,imanol rojo,01:13:40.400,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+49,EST,aivar rehemaa,01:13:47.200,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+50,DEN,martin moeller,01:14:05.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+51,BUL,veselin tsinzov,01:14:12.000,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+52,USA,kris freeman,01:14:34.600,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+53,BLR,aliaksandr lazutkin,01:14:39.400,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+54,KAZ,mark starostin,01:15:36.600,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+55,BUL,andrey gridin,01:15:44.700,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+56,ESP,javier gutierrez,01:16:01.000,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+57,CHN,wenlong xu,01:16:53.300,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+58,AUS,callum watson,01:17:00.400,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+59,POL,pawel klisz,01:17:18.500,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+60,GBR,callum smith,01:17:37.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+61,ARM,artur yeghoyan,01:17:44.500,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+62,POL,jan antolec,01:18:18.800,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+63,CRO,edi dadic,01:19:31.500,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+64,LAT,arvis liepins,01:20:00.100,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+65,LTU,vytautas strolia,01:20:37.200,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+66,KOR,junho hwang,- lapped,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+67,AUT,johannes duerr,Disqualified,Sochi 2014,Cross Country Skiing,Skiathlon 15km  15km men
+0,NOR,marit bjoergen,00:38:33.600,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+1,SWE,charlotte kalla,00:38:35.400,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+2,NOR,heidi weng,00:38:46.800,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+3,NOR,therese johaug,00:38:48.200,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+4,FIN,aino-kaisa saarinen,00:38:48.900,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+5,POL,justyna kowalczyk,00:39:29.700,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+6,FIN,kerttu niskanen,00:39:35.300,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+7,USA,jessica diggins,00:40:05.500,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+8,SWE,emma wiken,00:40:07.200,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+9,JPN,masako ishida,00:40:08.300,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+10,CZE,eva vrabcova - nyvltova,00:40:08.800,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+11,USA,elizabeth stephen,00:40:09.600,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+12,FIN,krista parmakoski,00:40:09.900,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+13,GER,nicole fessel,00:40:11.400,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+14,RUS,natalia zhukova,00:40:15.500,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+15,FRA,aurore jean,00:40:27.100,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+16,SLO,barbara jezersek,00:40:29.500,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+17,SWE,sara lindborg,00:40:32.400,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+18,FRA,celia aymonier,00:40:32.600,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+19,FRA,coraline thomas hugue,00:40:33.100,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+20,NOR,kristin stoermer steira,00:40:35.500,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+21,RUS,olga kuziukova,00:40:43.200,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+22,ESP,laura orgue,00:40:46.500,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+23,GER,katrin zeller,00:40:49.700,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+24,UKR,valentina shevchenko,00:40:50.700,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+25,RUS,irina khazova,00:41:00.300,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+26,POL,paulina maciuszek,00:41:00.600,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+27,ITA,debora agreiter,00:41:04.800,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+28,USA,sadie bjornsen,00:41:09.700,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+29,ITA,elisa brocard,00:41:12.600,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+30,FIN,anne kylloenen,00:41:18.900,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+31,POL,kornelia kubinska,00:41:19.400,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+32,GER,stefanie boehler,00:41:20.000,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+33,CZE,petra novakova,00:41:20.700,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+34,AUT,teresa stadlober,00:41:38.800,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+35,FRA,anouk faivre picon,00:41:44.400,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+36,SWE,britta johansson norgren,00:41:51.000,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+37,KAZ,yelena kolomina,00:41:52.200,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+38,KAZ,anastasia slonova,00:41:52.800,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+39,CAN,emily nishikawa,00:42:04.700,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+40,GER,claudia nystad,00:42:08.800,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+41,ITA,virginia de martin topranin,00:42:17.600,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+42,POL,agnieszka szymanczak,00:42:22.300,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+43,AUT,katerina smutna,00:42:32.800,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+44,USA,holly brooks,00:42:34.000,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+45,UKR,maryna antsybor,00:42:42.500,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+46,UKR,kateryna grygorenko,00:42:47.200,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+47,CHN,hongxue li,00:43:17.700,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+48,CAN,brittany webster,00:43:25.600,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+49,UKR,tetiana antypenko,00:43:40.300,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+50,BLR,alena sannikova,00:44:09.700,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+51,KOR,chaewon lee,00:44:17.200,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+52,CAN,amanda ammar,00:44:24.300,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+53,BUL,antoniya grigorova,00:44:27.900,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+54,KAZ,tatyana ossipova,00:44:29.000,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+55,CZE,klara moravcova,00:44:40.800,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+56,CRO,vedrana malec,00:45:52.100,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+57,ROU,timea lorincz,00:46:43.000,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+58,TUR,kelime cetinkaya,00:47:17.700,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+59,RUS,yuliya chekalyova,Disqualified,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+60,ITA,marina piller,Disqualified,Sochi 2014,Cross Country Skiing,Skiathlon 7.5+7.5km women
+0,NOR,ola vigen hattestad,00:03:38.390,Sochi 2014,Cross Country Skiing,Sprint 15km men
+1,SWE,teodor peterson,00:03:39.610,Sochi 2014,Cross Country Skiing,Sprint 15km men
+2,SWE,emil joensson,00:03:58.130,Sochi 2014,Cross Country Skiing,Sprint 15km men
+3,NOR,anders gloeersen,00:04:02.050,Sochi 2014,Cross Country Skiing,Sprint 15km men
+4,RUS,sergey ustiugov,00:04:32.480,Sochi 2014,Cross Country Skiing,Sprint 15km men
+5,SWE,marcus hellner,00:05:24.310,Sochi 2014,Cross Country Skiing,Sprint 15km men
+6,AUT,bernhard tritscher,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+7,RUS,alexey petukhov,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+8,NOR,eirik brandsdal,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+9,NOR,petter northug jr.,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+10,ITA,federico pellegrino,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+11,RUS,anton gafarov,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+12,RUS,nikita kriukov,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+13,FRA,renaud jay,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+14,ITA,david hofer,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+15,FRA,cyril miranda,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+16,SWE,calle halfvarsson,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+17,USA,andrew newell,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+18,CAN,alex harvey,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+19,GER,tim tscharnke,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+20,FIN,martti jylhae,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+21,SUI,joeri kindschi,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+22,AUT,harald wurm,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+23,FIN,ville nousiainen,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+24,KAZ,nikolay chebotko,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+25,SUI,dario cologna,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+26,USA,simeon hamilton,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+27,CHN,qinghai sun,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+28,GBR,andrew musgrave,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+29,FRA,cyril gaillard,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+30,GER,josef wenzl,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+31,GER,thomas bing,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+32,KAZ,roman ragozin,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+33,FIN,anssi pentsinen,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+34,GER,sebastian eisenlauer,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+35,CAN,len valjas,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+36,USA,torin koos,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+37,ITA,dietmar noeckler,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+38,USA,erik bjornsen,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+39,FRA,baptiste gros,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+40,CZE,dusan kozisek,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+41,GBR,andrew young,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+42,FIN,juho mikkonen,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+43,ITA,enrico nizzi,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+44,JPN,yuichi onda,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+45,AUT,max hauke,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+46,SUI,jovian hediger,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+47,BLR,mikhail siamionau,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+48,CZE,ales razym,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+49,UKR,ruslan perekhoda,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+50,EST,raido raenkel,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+51,EST,peeter kummel,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+52,CAN,jesse cockney,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+53,DEN,martin moeller,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+54,AUS,phillip bellingham,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+55,CAN,devon kershaw,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+56,POL,sebastian gazurek,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+57,KAZ,denis volotka,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+58,EST,siim sellis,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+59,ESP,imanol rojo,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+60,LAT,arvis liepins,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+61,GBR,callum smith,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+62,SRB,milanko petrovic,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+63,BUL,andrey gridin,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+64,ROU,paul constantin pepene,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+65,SVK,peter mlynar,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+66,POL,maciej starega,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+67,ROU,florin daniel pripici,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+68,CRO,edi dadic,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+69,LTU,vytautas strolia,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+70,LAT,janis paipals,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+71,ISL,saevar birgisson,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+72,HUN,milan szabo,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+73,GRE,apostolos angelis,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+74,TUR,sabahattin oglago,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+75,SRB,rejhan smrkovic,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+76,MDA,victor pinzaru,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+77,MKD,darko damjanovski,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+78,LUX,kari peters,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+79,BRA,leandro ribela,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+80,UKR,oleksii krasovskyi,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+81,BIH,mladen plakalovic,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+82,SUI,roman schaad,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+83,CHI,yonathan jesus fernandez,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+84,AUS,callum watson,,Sochi 2014,Cross Country Skiing,Sprint 15km men
+85,CHN,wenlong xu,Did not finish,Sochi 2014,Cross Country Skiing,Sprint 15km men
+0,NOR,maiken caspersen falla,00:02:35.490,Sochi 2014,Cross Country Skiing,sprint 15km women
+1,NOR,ingvild flugstad oestberg,00:02:35.870,Sochi 2014,Cross Country Skiing,sprint 15km women
+2,SLO,vesna fabjan,00:02:35.890,Sochi 2014,Cross Country Skiing,sprint 15km women
+3,NOR,astrid uhrenholdt jacobsen,00:02:37.310,Sochi 2014,Cross Country Skiing,sprint 15km women
+4,SWE,ida ingemarsdotter,00:02:42.040,Sochi 2014,Cross Country Skiing,sprint 15km women
+5,USA,sophie caldwell,00:02:47.750,Sochi 2014,Cross Country Skiing,sprint 15km women
+6,ITA,gaia vuerich,,Sochi 2014,Cross Country Skiing,sprint 15km women
+7,GER,denise herrmann,,Sochi 2014,Cross Country Skiing,sprint 15km women
+8,SLO,katja visnar,,Sochi 2014,Cross Country Skiing,sprint 15km women
+9,SWE,stina nilsson,,Sochi 2014,Cross Country Skiing,sprint 15km women
+10,NOR,marit bjoergen,,Sochi 2014,Cross Country Skiing,sprint 15km women
+11,FRA,aurore jean,,Sochi 2014,Cross Country Skiing,sprint 15km women
+12,USA,jessica diggins,,Sochi 2014,Cross Country Skiing,sprint 15km women
+13,SWE,britta johansson norgren,,Sochi 2014,Cross Country Skiing,sprint 15km women
+14,FIN,mari laukkanen,,Sochi 2014,Cross Country Skiing,sprint 15km women
+15,FIN,anne kylloenen,,Sochi 2014,Cross Country Skiing,sprint 15km women
+16,SLO,alenka cebasek,,Sochi 2014,Cross Country Skiing,sprint 15km women
+17,USA,kikkan randall,,Sochi 2014,Cross Country Skiing,sprint 15km women
+18,USA,ida sargent,,Sochi 2014,Cross Country Skiing,sprint 15km women
+19,RUS,nataliya matveyeva,,Sochi 2014,Cross Country Skiing,sprint 15km women
+20,SUI,laurien van der graaff,,Sochi 2014,Cross Country Skiing,sprint 15km women
+21,CAN,perianne jones,,Sochi 2014,Cross Country Skiing,sprint 15km women
+22,CZE,petra novakova,,Sochi 2014,Cross Country Skiing,sprint 15km women
+23,CAN,daria gaiazova,,Sochi 2014,Cross Country Skiing,sprint 15km women
+24,ITA,greta laurent,,Sochi 2014,Cross Country Skiing,sprint 15km women
+25,SLO,nika razinger,,Sochi 2014,Cross Country Skiing,sprint 15km women
+26,FIN,mona-liisa nousiainen,,Sochi 2014,Cross Country Skiing,sprint 15km women
+27,RUS,evgenia shapovalova,,Sochi 2014,Cross Country Skiing,sprint 15km women
+28,GER,hanna kolb,,Sochi 2014,Cross Country Skiing,sprint 15km women
+29,GER,lucia anger,,Sochi 2014,Cross Country Skiing,sprint 15km women
+30,ITA,ilaria debertolis,,Sochi 2014,Cross Country Skiing,sprint 15km women
+31,CHN,dandan man,,Sochi 2014,Cross Country Skiing,sprint 15km women
+32,UKR,maryna antsybor,,Sochi 2014,Cross Country Skiing,sprint 15km women
+33,GER,claudia nystad,,Sochi 2014,Cross Country Skiing,sprint 15km women
+34,FRA,marion buillet,,Sochi 2014,Cross Country Skiing,sprint 15km women
+35,FIN,riikka sarasoja,,Sochi 2014,Cross Country Skiing,sprint 15km women
+36,CZE,karolina grohova,,Sochi 2014,Cross Country Skiing,sprint 15km women
+37,SVK,alena prochazkova,,Sochi 2014,Cross Country Skiing,sprint 15km women
+38,FRA,celia aymonier,,Sochi 2014,Cross Country Skiing,sprint 15km women
+39,POL,agnieszka szymanczak,,Sochi 2014,Cross Country Skiing,sprint 15km women
+40,GBR,rosamund musgrave,,Sochi 2014,Cross Country Skiing,sprint 15km women
+41,CAN,heidi widmer,,Sochi 2014,Cross Country Skiing,sprint 15km women
+42,CAN,chandra crawford,,Sochi 2014,Cross Country Skiing,sprint 15km women
+43,UKR,kateryna serdyuk,,Sochi 2014,Cross Country Skiing,sprint 15km women
+44,KAZ,yelena kolomina,,Sochi 2014,Cross Country Skiing,sprint 15km women
+45,BLR,valentyna kaminska,,Sochi 2014,Cross Country Skiing,sprint 15km women
+46,EST,triin ojaste,,Sochi 2014,Cross Country Skiing,sprint 15km women
+47,ROU,timea lorincz,,Sochi 2014,Cross Country Skiing,sprint 15km women
+48,RUS,irina khazova,,Sochi 2014,Cross Country Skiing,sprint 15km women
+49,CHN,hongxue li,,Sochi 2014,Cross Country Skiing,sprint 15km women
+50,SWE,hanna erikson,,Sochi 2014,Cross Country Skiing,sprint 15km women
+51,AUT,nathalie schwarz,,Sochi 2014,Cross Country Skiing,sprint 15km women
+52,BUL,teodora malcheva,,Sochi 2014,Cross Country Skiing,sprint 15km women
+53,SVK,daniela kotschova,,Sochi 2014,Cross Country Skiing,sprint 15km women
+54,AUS,esther bottomley,,Sochi 2014,Cross Country Skiing,sprint 15km women
+55,KAZ,tatyana ossipova,,Sochi 2014,Cross Country Skiing,sprint 15km women
+56,UKR,maryna malets-lisohor,,Sochi 2014,Cross Country Skiing,sprint 15km women
+57,LAT,inga daushkane,,Sochi 2014,Cross Country Skiing,sprint 15km women
+58,BUL,antoniya grigorova,,Sochi 2014,Cross Country Skiing,sprint 15km women
+59,CRO,vedrana malec,,Sochi 2014,Cross Country Skiing,sprint 15km women
+60,LTU,ingrida ardisauskaite,,Sochi 2014,Cross Country Skiing,sprint 15km women
+61,POL,sylwia jaskowiec,,Sochi 2014,Cross Country Skiing,sprint 15km women
+62,GRE,panagiota tsakiri,,Sochi 2014,Cross Country Skiing,sprint 15km women
+63,BRA,jaqueline mourao,,Sochi 2014,Cross Country Skiing,sprint 15km women
+64,HUN,agnes simon,,Sochi 2014,Cross Country Skiing,sprint 15km women
+65,TUR,kelime cetinkaya,,Sochi 2014,Cross Country Skiing,sprint 15km women
+66,RUS,anastasia dotsenko,Disqualified,Sochi 2014,Cross Country Skiing,sprint 15km women
+0,FIN,sami jauhojaervi,,Sochi 2014,Cross Country Skiing,Team sprint men
+1,RUS,maxim vylegzhanin,,Sochi 2014,Cross Country Skiing,Team sprint men
+2,SWE,teodor peterson,,Sochi 2014,Cross Country Skiing,Team sprint men
+3,NOR,ola vigen hattestad,,Sochi 2014,Cross Country Skiing,Team sprint men
+4,SUI,dario cologna,,Sochi 2014,Cross Country Skiing,Team sprint men
+5,USA,simeon hamilton,,Sochi 2014,Cross Country Skiing,Team sprint men
+6,GER,tim tscharnke,,Sochi 2014,Cross Country Skiing,Team sprint men
+7,KAZ,nikolay chebotko,,Sochi 2014,Cross Country Skiing,Team sprint men
+8,CZE,ales razym,,Sochi 2014,Cross Country Skiing,Team sprint men
+9,FRA,jean marc gaillard,,Sochi 2014,Cross Country Skiing,Team sprint men
+10,ITA,dietmar noeckler,,Sochi 2014,Cross Country Skiing,Team sprint men
+11,CAN,devon kershaw,,Sochi 2014,Cross Country Skiing,Team sprint men
+12,JPN,yuichi onda,,Sochi 2014,Cross Country Skiing,Team sprint men
+13,EST,peeter kummel,,Sochi 2014,Cross Country Skiing,Team sprint men
+14,POL,maciej starega,,Sochi 2014,Cross Country Skiing,Team sprint men
+15,AUT,max hauke,,Sochi 2014,Cross Country Skiing,Team sprint men
+16,SVK,peter mlynar,,Sochi 2014,Cross Country Skiing,Team sprint men
+17,ROU,florin daniel pripici,,Sochi 2014,Cross Country Skiing,Team sprint men
+18,BUL,andrey gridin,,Sochi 2014,Cross Country Skiing,Team sprint men
+19,UKR,ruslan perekhoda,,Sochi 2014,Cross Country Skiing,Team sprint men
+20,AUS,phillip bellingham,,Sochi 2014,Cross Country Skiing,Team sprint men
+21,GBR,andrew musgrave,Did not finish,Sochi 2014,Cross Country Skiing,Team sprint men
+22,CHN,qinghai sun,Did not start,Sochi 2014,Cross Country Skiing,Team sprint men
+0,NOR,marit bjoergen,,Sochi 2014,Cross Country Skiing,Team sprint women
+1,FIN,aino-kaisa saarinen,,Sochi 2014,Cross Country Skiing,Team sprint women
+2,SWE,ida ingemarsdotter,,Sochi 2014,Cross Country Skiing,Team sprint women
+3,GER,denise herrmann,,Sochi 2014,Cross Country Skiing,Team sprint women
+4,POL,sylwia jaskowiec,,Sochi 2014,Cross Country Skiing,Team sprint women
+5,SUI,bettina gruber,,Sochi 2014,Cross Country Skiing,Team sprint women
+6,USA,kikkan randall,,Sochi 2014,Cross Country Skiing,Team sprint women
+7,AUT,katerina smutna,,Sochi 2014,Cross Country Skiing,Team sprint women
+8,SLO,katja visnar,,Sochi 2014,Cross Country Skiing,Team sprint women
+9,CAN,daria gaiazova,,Sochi 2014,Cross Country Skiing,Team sprint women
+10,FRA,celia aymonier,,Sochi 2014,Cross Country Skiing,Team sprint women
+11,ITA,ilaria debertolis,,Sochi 2014,Cross Country Skiing,Team sprint women
+12,SVK,daniela kotschova,,Sochi 2014,Cross Country Skiing,Team sprint women
+13,CHN,hongxue li,,Sochi 2014,Cross Country Skiing,Team sprint women
+14,KAZ,yelena kolomina,,Sochi 2014,Cross Country Skiing,Team sprint women
+15,RUS,julia ivanova,Disqualified,Sochi 2014,Cross Country Skiing,Team sprint women
+16,UKR,kateryna serdyuk,Disqualified,Sochi 2014,Cross Country Skiing,Team sprint women

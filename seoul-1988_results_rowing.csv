@@ -1,0 +1,140 @@
+,country,participant,result,olympic_game,discipline,event
+0,NED,ronald florijn,,Seoul 1988,Rowing,double sculls 2x men
+1,SUI,beat schwerzmann,,Seoul 1988,Rowing,double sculls 2x men
+2,URS,aleksandr marchenko,,Seoul 1988,Rowing,double sculls 2x men
+3,FRG,ralf thienel,,Seoul 1988,Rowing,double sculls 2x men
+4,GDR,uwe heppner,,Seoul 1988,Rowing,double sculls 2x men
+5,DEN,bjarne eltang,,Seoul 1988,Rowing,double sculls 2x men
+6,ESP,josé manuel bermúdez,00:07:02.340,Seoul 1988,Rowing,double sculls 2x men
+7,BUL,danail yordanov,00:07:04.390,Seoul 1988,Rowing,double sculls 2x men
+8,ITA,roberto fusaro,00:07:06.010,Seoul 1988,Rowing,double sculls 2x men
+9,CAN,bruce ford,00:07:07.310,Seoul 1988,Rowing,double sculls 2x men
+10,NOR,per albert sätersdal,00:07:09.420,Seoul 1988,Rowing,double sculls 2x men
+11,FIN,reima juhani karppinen,00:07:20.720,Seoul 1988,Rowing,double sculls 2x men
+0,,,,Seoul 1988,Rowing,double sculls 2x women
+1,,,,Seoul 1988,Rowing,double sculls 2x women
+2,,,,Seoul 1988,Rowing,double sculls 2x women
+3,,,,Seoul 1988,Rowing,double sculls 2x women
+4,,,,Seoul 1988,Rowing,double sculls 2x women
+5,,,,Seoul 1988,Rowing,double sculls 2x women
+6,,,00:08:03.560,Seoul 1988,Rowing,double sculls 2x women
+7,,,00:08:09.350,Seoul 1988,Rowing,double sculls 2x women
+8,,,00:08:15.700,Seoul 1988,Rowing,double sculls 2x women
+9,,,00:08:58.450,Seoul 1988,Rowing,double sculls 2x women
+0,,,,Seoul 1988,Rowing,eight with coxswain 8 men
+1,,,,Seoul 1988,Rowing,eight with coxswain 8 men
+2,,,,Seoul 1988,Rowing,eight with coxswain 8 men
+3,,,,Seoul 1988,Rowing,eight with coxswain 8 men
+4,,,,Seoul 1988,Rowing,eight with coxswain 8 men
+5,,,,Seoul 1988,Rowing,eight with coxswain 8 men
+6,,,00:05:41.150,Seoul 1988,Rowing,eight with coxswain 8 men
+7,,,00:05:49.990,Seoul 1988,Rowing,eight with coxswain 8 men
+8,,,00:05:55.520,Seoul 1988,Rowing,eight with coxswain 8 men
+9,,,00:06:16.730,Seoul 1988,Rowing,eight with coxswain 8 men
+0,,,,Seoul 1988,Rowing,eight with coxswain 8 women
+1,,,,Seoul 1988,Rowing,eight with coxswain 8 women
+2,,,,Seoul 1988,Rowing,eight with coxswain 8 women
+3,,,,Seoul 1988,Rowing,eight with coxswain 8 women
+4,,,,Seoul 1988,Rowing,eight with coxswain 8 women
+5,,,,Seoul 1988,Rowing,eight with coxswain 8 women
+6,,,,Seoul 1988,Rowing,eight with coxswain 8 women
+0,,,,Seoul 1988,Rowing,four without coxswain 4 men
+1,,,,Seoul 1988,Rowing,four without coxswain 4 men
+2,,,,Seoul 1988,Rowing,four without coxswain 4 men
+3,,,,Seoul 1988,Rowing,four without coxswain 4 men
+4,,,,Seoul 1988,Rowing,four without coxswain 4 men
+5,,,,Seoul 1988,Rowing,four without coxswain 4 men
+6,,,00:06:04.740,Seoul 1988,Rowing,four without coxswain 4 men
+7,,,00:06:08.600,Seoul 1988,Rowing,four without coxswain 4 men
+8,,,00:06:15.320,Seoul 1988,Rowing,four without coxswain 4 men
+9,,,00:06:16.410,Seoul 1988,Rowing,four without coxswain 4 men
+10,,,00:06:16.740,Seoul 1988,Rowing,four without coxswain 4 men
+11,,,00:06:18.250,Seoul 1988,Rowing,four without coxswain 4 men
+0,,,,Seoul 1988,Rowing,four-oared shell with coxswain men
+1,,,,Seoul 1988,Rowing,four-oared shell with coxswain men
+2,,,,Seoul 1988,Rowing,four-oared shell with coxswain men
+3,,,,Seoul 1988,Rowing,four-oared shell with coxswain men
+4,,,,Seoul 1988,Rowing,four-oared shell with coxswain men
+5,,,,Seoul 1988,Rowing,four-oared shell with coxswain men
+6,,,00:06:42.650,Seoul 1988,Rowing,four-oared shell with coxswain men
+7,,,00:06:43.640,Seoul 1988,Rowing,four-oared shell with coxswain men
+8,,,00:06:44.950,Seoul 1988,Rowing,four-oared shell with coxswain men
+9,,,00:06:45.390,Seoul 1988,Rowing,four-oared shell with coxswain men
+0,,,,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+1,,,,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+2,,,,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+3,,,,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+4,,,,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+5,,,,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+6,,,00:07:19.860,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+7,,,00:07:22.590,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+8,,,00:07:27.200,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+9,,,00:08:07.710,Seoul 1988,Rowing,fouroared shell with coxswain 4 women
+0,GBR,andrew john holmes,,Seoul 1988,Rowing,pair without coxswain 2 men
+1,ROU,danut dobre,,Seoul 1988,Rowing,pair without coxswain 2 men
+2,YUG,sadik mujkic,,Seoul 1988,Rowing,pair without coxswain 2 men
+3,BEL,willem van belleghem,,Seoul 1988,Rowing,pair without coxswain 2 men
+4,GDR,carl ertel,,Seoul 1988,Rowing,pair without coxswain 2 men
+5,URS,igor zuborenko,,Seoul 1988,Rowing,pair without coxswain 2 men
+6,FRG,michael twittmann,00:07:19.480,Seoul 1988,Rowing,pair without coxswain 2 men
+7,FRA,alexandre perahia,00:07:22.360,Seoul 1988,Rowing,pair without coxswain 2 men
+8,USA,kurt richard bausback,00:07:26.650,Seoul 1988,Rowing,pair without coxswain 2 men
+9,BRA,ricardo esteves esteves carvalho,00:07:28.300,Seoul 1988,Rowing,pair without coxswain 2 men
+10,FIN,aarne lindroos,00:07:28.460,Seoul 1988,Rowing,pair without coxswain 2 men
+11,AUT,karl sinzinger jr.,00:10:45.560,Seoul 1988,Rowing,pair without coxswain 2 men
+0,ROU,olga homeghi-bularda,,Seoul 1988,Rowing,pair without coxswain 2 women
+1,BUL,lalka stoyanova berberova,,Seoul 1988,Rowing,pair without coxswain 2 women
+2,NZL,nicola payne,,Seoul 1988,Rowing,pair without coxswain 2 women
+3,GDR,katrin schroder,,Seoul 1988,Rowing,pair without coxswain 2 women
+4,URS,sarmite stone,,Seoul 1988,Rowing,pair without coxswain 2 women
+5,USA,mara keggi,,Seoul 1988,Rowing,pair without coxswain 2 women
+6,CAN,jennifer kirsten barnes,00:08:09.100,Seoul 1988,Rowing,pair without coxswain 2 women
+7,GBR,alison bonner,00:08:15.200,Seoul 1988,Rowing,pair without coxswain 2 women
+8,FRG,cordula keller,00:08:22.080,Seoul 1988,Rowing,pair without coxswain 2 women
+9,KOR,jeong-bae kong,00:08:25.140,Seoul 1988,Rowing,pair without coxswain 2 women
+0,,,,Seoul 1988,Rowing,pair-oared shell with coxswain men
+1,,,,Seoul 1988,Rowing,pair-oared shell with coxswain men
+2,,,,Seoul 1988,Rowing,pair-oared shell with coxswain men
+3,,,,Seoul 1988,Rowing,pair-oared shell with coxswain men
+4,,,,Seoul 1988,Rowing,pair-oared shell with coxswain men
+5,,,,Seoul 1988,Rowing,pair-oared shell with coxswain men
+6,,,00:07:11.300,Seoul 1988,Rowing,pair-oared shell with coxswain men
+7,,,00:07:15.820,Seoul 1988,Rowing,pair-oared shell with coxswain men
+8,,,00:07:18.600,Seoul 1988,Rowing,pair-oared shell with coxswain men
+9,,,00:07:18.890,Seoul 1988,Rowing,pair-oared shell with coxswain men
+10,,,00:07:24.180,Seoul 1988,Rowing,pair-oared shell with coxswain men
+0,,,,Seoul 1988,Rowing,quadruple sculls without coxsw women
+1,,,,Seoul 1988,Rowing,quadruple sculls without coxsw women
+2,,,,Seoul 1988,Rowing,quadruple sculls without coxsw women
+3,,,,Seoul 1988,Rowing,quadruple sculls without coxsw women
+4,,,,Seoul 1988,Rowing,quadruple sculls without coxsw women
+5,,,,Seoul 1988,Rowing,quadruple sculls without coxsw women
+6,,,00:06:38.700,Seoul 1988,Rowing,quadruple sculls without coxsw women
+7,,,00:06:40.910,Seoul 1988,Rowing,quadruple sculls without coxsw women
+8,,,00:06:14.280,Seoul 1988,Rowing,quadruple sculls without coxsw women
+9,,,00:06:43.160,Seoul 1988,Rowing,quadruple sculls without coxsw women
+0,GDR,thomas lange,,Seoul 1988,Rowing,single sculls 1x men
+1,FRG,peter-michael kolbe,,Seoul 1988,Rowing,single sculls 1x men
+2,NZL,eric franciscus verdonk,,Seoul 1988,Rowing,single sculls 1x men
+3,AUS,hamish mcglashan,,Seoul 1988,Rowing,single sculls 1x men
+4,POL,kajetan broniewski,,Seoul 1988,Rowing,single sculls 1x men
+5,USA,andrew hancock sudduth,,Seoul 1988,Rowing,single sculls 1x men
+6,FIN,pertti karppinen,00:07:34.370,Seoul 1988,Rowing,single sculls 1x men
+7,URS,juri jaanson,00:07:35.090,Seoul 1988,Rowing,single sculls 1x men
+8,SWE,fredrik hulten,00:07:40.070,Seoul 1988,Rowing,single sculls 1x men
+9,ITA,giovanni calabrese,00:07:43.310,Seoul 1988,Rowing,single sculls 1x men
+10,URU,jesus maria posse vivas,00:07:44.180,Seoul 1988,Rowing,single sculls 1x men
+11,NED,hendrik jan zwolle,00:07:44.920,Seoul 1988,Rowing,single sculls 1x men
+0,GDR,jutta behrendt,,Seoul 1988,Rowing,single sculls 1x women
+1,USA,anne r. marden,,Seoul 1988,Rowing,single sculls 1x women
+2,BUL,magdalena georgieva,,Seoul 1988,Rowing,single sculls 1x women
+3,NED,harriet van ettekoven,,Seoul 1988,Rowing,single sculls 1x women
+4,ROU,marioara popescu,,Seoul 1988,Rowing,single sculls 1x women
+5,DEN,inger pors pors,,Seoul 1988,Rowing,single sculls 1x women
+6,GRE,antonia svaier,00:07:57.730,Seoul 1988,Rowing,single sculls 1x women
+7,URS,natalya kvasha,00:08:00.730,Seoul 1988,Rowing,single sculls 1x women
+8,BEL,rita defauw,00:08:04.900,Seoul 1988,Rowing,single sculls 1x women
+9,CAN,heather hattin,00:08:08.690,Seoul 1988,Rowing,single sculls 1x women
+10,SWE,annelie larsson,00:08:11.690,Seoul 1988,Rowing,single sculls 1x women
+11,TCH,michaela loukotova,00:08:14.020,Seoul 1988,Rowing,single sculls 1x women
+12,FRA,lydie dubedat-briero,,Seoul 1988,Rowing,single sculls 1x women

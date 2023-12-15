@@ -1,0 +1,1222 @@
+,country,participant,result,olympic_game,discipline,event
+0,ROC,evgeny rylov,51.98,Tokyo 2020,Swimming,Men's 100m Backstroke
+1,ROC,kliment kolesnikov,52.00,Tokyo 2020,Swimming,Men's 100m Backstroke
+2,USA,ryan murphy,52.19,Tokyo 2020,Swimming,Men's 100m Backstroke
+3,ITA,thomas ceccon,52.30,Tokyo 2020,Swimming,Men's 100m Backstroke
+4,CHN,jiayu xu,52.51,Tokyo 2020,Swimming,Men's 100m Backstroke
+5,ESP,hugo gonzalez de oliveira,52.78,Tokyo 2020,Swimming,Men's 100m Backstroke
+6,AUS,mitchell larkin,52.79,Tokyo 2020,Swimming,Men's 100m Backstroke
+7,ROU,robert glinta,52.95,Tokyo 2020,Swimming,Men's 100m Backstroke
+8,JPN,ryosuke irie,,Tokyo 2020,Swimming,Men's 100m Backstroke
+9,USA,joseph armstrong,,Tokyo 2020,Swimming,Men's 100m Backstroke
+10,GRE,apostolos christou,,Tokyo 2020,Swimming,Men's 100m Backstroke
+11,AUS,isaac cooper,,Tokyo 2020,Swimming,Men's 100m Backstroke
+12,GER,marek ulrich,,Tokyo 2020,Swimming,Men's 100m Backstroke
+13,FRA,mewen tomac,,Tokyo 2020,Swimming,Men's 100m Backstroke
+14,BRA,guilherme guido,,Tokyo 2020,Swimming,Men's 100m Backstroke
+15,GBR,luke greenbank,,Tokyo 2020,Swimming,Men's 100m Backstroke
+16,ITA,simone sabbioni,,Tokyo 2020,Swimming,Men's 100m Backstroke
+17,CAN,markus thormeyer,,Tokyo 2020,Swimming,Men's 100m Backstroke
+18,BRA,guilherme basseto,,Tokyo 2020,Swimming,Men's 100m Backstroke
+19,KOR,juho lee,,Tokyo 2020,Swimming,Men's 100m Backstroke
+20,SGP,zheng wen quah,,Tokyo 2020,Swimming,Men's 100m Backstroke
+21,POL,kacper stokowski,,Tokyo 2020,Swimming,Men's 100m Backstroke
+22,RSA,pieter coetze,,Tokyo 2020,Swimming,Men's 100m Backstroke
+23,GER,ole braunschweig,,Tokyo 2020,Swimming,Men's 100m Backstroke
+24,CAN,cole pratt,,Tokyo 2020,Swimming,Men's 100m Backstroke
+25,IND,srihari nataraj,,Tokyo 2020,Swimming,Men's 100m Backstroke
+26,POR,francisco rogerio santos,,Tokyo 2020,Swimming,Men's 100m Backstroke
+27,HUN,adam telegdy,,Tokyo 2020,Swimming,Men's 100m Backstroke
+28,CZE,jan cejka,,Tokyo 2020,Swimming,Men's 100m Backstroke
+29,ISR,yakov toumarkin,,Tokyo 2020,Swimming,Men's 100m Backstroke
+30,TTO,dylan carter,,Tokyo 2020,Swimming,Men's 100m Backstroke
+31,BLR,mikita tsmyh,,Tokyo 2020,Swimming,Men's 100m Backstroke
+32,TKM,merdan atayev,,Tokyo 2020,Swimming,Men's 100m Backstroke
+33,AUT,bernhard reitshammer,,Tokyo 2020,Swimming,Men's 100m Backstroke
+34,ISR,michael laitarovsky,,Tokyo 2020,Swimming,Men's 100m Backstroke
+35,BUL,kaloyan levterov,,Tokyo 2020,Swimming,Men's 100m Backstroke
+36,ROU,daniel martin,,Tokyo 2020,Swimming,Men's 100m Backstroke
+37,BOL,gabriel castillo,,Tokyo 2020,Swimming,Men's 100m Backstroke
+38,MAD,heriniavo rasolonjatovo,,Tokyo 2020,Swimming,Men's 100m Backstroke
+39,FRA,yohann ndoye-brouard,Disqualified,Tokyo 2020,Swimming,Men's 100m Backstroke
+40,HUN,richard bohus,Disqualified,Tokyo 2020,Swimming,Men's 100m Backstroke
+0,GBR,adam peaty,57.37,Tokyo 2020,Swimming,Men's 100m Breaststroke
+1,NED,arno kamminga,58.00,Tokyo 2020,Swimming,Men's 100m Breaststroke
+2,ITA,nicolo martinenghi,58.33,Tokyo 2020,Swimming,Men's 100m Breaststroke
+3,USA,michael andrew,58.84,Tokyo 2020,Swimming,Men's 100m Breaststroke
+4,GBR,james wilby,58.96,Tokyo 2020,Swimming,Men's 100m Breaststroke
+5,CHN,zibei yan,58.99,Tokyo 2020,Swimming,Men's 100m Breaststroke
+6,USA,andrew wilson,58.99,Tokyo 2020,Swimming,Men's 100m Breaststroke
+7,BLR,ilya shymanovich,59.36,Tokyo 2020,Swimming,Men's 100m Breaststroke
+8,GER,lucas joachim matzerath,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+9,GER,fabian schwingenschlogl,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+10,ROC,kirill prigoda,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+11,BRA,felipe lima,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+12,JPN,ryuya mura,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+13,LTU,andrius sidlauskas,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+14,ITA,federico poggio,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+15,ROC,anton chupkov,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+16,KAZ,dmitriy balandin,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+17,TUR,berkay ogretir,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+18,TUR,huseyin sakci,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+19,KOR,sungjae cho,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+20,FIN,matti mattsson,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+21,AUS,matthew wilson,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+22,JPN,shoma sato,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+23,AUS,izaac stubblety-cook,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+24,NED,caspar corbeau,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+25,SRB,caba siladi,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+26,KGZ,denis petrashov,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+27,SUI,jeremy desplanches,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+28,IRL,darragh greene,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+29,AUT,bernhard reitshammer,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+30,COL,jorge murillo valdes,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+31,BUL,lyubomir epitropov,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+32,FRA,theo bussiere,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+33,BRA,caio pumputis,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+34,NOR,andre klippenberg grindheim,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+35,LTU,giedrius titenis,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+36,RSA,michael houlie,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+37,CAN,gabe mastromatteo,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+38,DOM,josue dominguez ramos,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+39,BAH,izaak bastian,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+40,JOR,amro al-wir,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+41,ISV,adriel sanes,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+42,HON,julio horrego,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+43,MLI,sebastien kouma,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+44,SUD,abobakr abass,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+45,ASA,micah masei,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+46,BRU,muhammad isa ahmad,,Tokyo 2020,Swimming,Men's 100m Breaststroke
+47,TGA,amini fonua,Disqualified,Tokyo 2020,Swimming,Men's 100m Breaststroke
+48,DEN,tobias bjerg,Disqualified,Tokyo 2020,Swimming,Men's 100m Breaststroke
+0,USA,caeleb dressel,49.45,Tokyo 2020,Swimming,Men's 100m Butterfly
+1,HUN,kristof kristof milak,49.68,Tokyo 2020,Swimming,Men's 100m Butterfly
+2,SUI,noe ponti,50.74,Tokyo 2020,Swimming,Men's 100m Butterfly
+3,ROC,andrei minakov,50.88,Tokyo 2020,Swimming,Men's 100m Butterfly
+4,POL,jakub majerski,50.92,Tokyo 2020,Swimming,Men's 100m Butterfly
+5,AUS,matthew temple,50.92,Tokyo 2020,Swimming,Men's 100m Butterfly
+6,GUA,luis martinez,51.09,Tokyo 2020,Swimming,Men's 100m Butterfly
+7,BUL,josif miladinov,51.49,Tokyo 2020,Swimming,Men's 100m Butterfly
+8,FRA,mehdy metella,,Tokyo 2020,Swimming,Men's 100m Butterfly
+9,JPN,naoki mizunuma,,Tokyo 2020,Swimming,Men's 100m Butterfly
+10,CAN,joshua liendo edwards,,Tokyo 2020,Swimming,Men's 100m Butterfly
+11,NED,nyls korstanje,,Tokyo 2020,Swimming,Men's 100m Butterfly
+12,CHN,jiajun sun,,Tokyo 2020,Swimming,Men's 100m Butterfly
+13,HUN,szebasztian szabo,,Tokyo 2020,Swimming,Men's 100m Butterfly
+14,USA,tom shields,,Tokyo 2020,Swimming,Men's 100m Butterfly
+15,EGY,youssef ramadan,,Tokyo 2020,Swimming,Men's 100m Butterfly
+16,ITA,federico burdisso,,Tokyo 2020,Swimming,Men's 100m Butterfly
+17,RSA,chad le clos,,Tokyo 2020,Swimming,Men's 100m Butterfly
+18,ROC,mikhail vekovishchev,,Tokyo 2020,Swimming,Men's 100m Butterfly
+19,JPN,takeshi kawamoto,,Tokyo 2020,Swimming,Men's 100m Butterfly
+20,ISR,tomer frankel,,Tokyo 2020,Swimming,Men's 100m Butterfly
+21,POL,pawel korzeniowski,,Tokyo 2020,Swimming,Men's 100m Butterfly
+22,GER,marius kusch,,Tokyo 2020,Swimming,Men's 100m Butterfly
+23,ARG,santiago grassi,,Tokyo 2020,Swimming,Men's 100m Butterfly
+24,GBR,jacob thomas taylor peters,,Tokyo 2020,Swimming,Men's 100m Butterfly
+25,BRA,vinicius lanza,,Tokyo 2020,Swimming,Men's 100m Butterfly
+26,NOR,tomoe hvas,,Tokyo 2020,Swimming,Men's 100m Butterfly
+27,BEL,louis croenen,,Tokyo 2020,Swimming,Men's 100m Butterfly
+28,BUL,antani ivanov,,Tokyo 2020,Swimming,Men's 100m Butterfly
+29,AUS,david morgan,,Tokyo 2020,Swimming,Men's 100m Butterfly
+30,ITA,santo condorelli,,Tokyo 2020,Swimming,Men's 100m Butterfly
+31,RSA,matthew sates,,Tokyo 2020,Swimming,Men's 100m Butterfly
+32,TTO,dylan carter,,Tokyo 2020,Swimming,Men's 100m Butterfly
+33,SGP,zheng wen quah,,Tokyo 2020,Swimming,Men's 100m Butterfly
+34,TPE,kuan-hung wang,,Tokyo 2020,Swimming,Men's 100m Butterfly
+35,TUR,umit can gures,,Tokyo 2020,Swimming,Men's 100m Butterfly
+36,IRL,shane ryan,,Tokyo 2020,Swimming,Men's 100m Butterfly
+37,CZE,jan sefl,,Tokyo 2020,Swimming,Men's 100m Butterfly
+38,AUT,simon bucher,,Tokyo 2020,Swimming,Men's 100m Butterfly
+39,CRO,nikola miljenic,,Tokyo 2020,Swimming,Men's 100m Butterfly
+40,EST,kregor zirk,,Tokyo 2020,Swimming,Men's 100m Butterfly
+41,BLR,yauhen tsurkin,,Tokyo 2020,Swimming,Men's 100m Butterfly
+42,BRA,matheus gonche,,Tokyo 2020,Swimming,Men's 100m Butterfly
+43,SGP,joseph schooling,,Tokyo 2020,Swimming,Men's 100m Butterfly
+44,GHA,abeku jackson,,Tokyo 2020,Swimming,Men's 100m Butterfly
+45,IND,sajan prakash,,Tokyo 2020,Swimming,Men's 100m Butterfly
+46,KOR,seungwoo moon,,Tokyo 2020,Swimming,Men's 100m Butterfly
+47,KUW,abbas qali,,Tokyo 2020,Swimming,Men's 100m Butterfly
+48,SEN,steven aimable,,Tokyo 2020,Swimming,Men's 100m Butterfly
+49,THA,navaphat wongcharoen,,Tokyo 2020,Swimming,Men's 100m Butterfly
+50,PAR,benjamin hockin,,Tokyo 2020,Swimming,Men's 100m Butterfly
+51,HAI,davidson vincent,,Tokyo 2020,Swimming,Men's 100m Butterfly
+52,ROU,daniel martin,,Tokyo 2020,Swimming,Men's 100m Butterfly
+53,ANG,salvador gordo,,Tokyo 2020,Swimming,Men's 100m Butterfly
+54,KSA,yousif bu arish,,Tokyo 2020,Swimming,Men's 100m Butterfly
+55,UKR,ihor troianovskyi,Did not start,Tokyo 2020,Swimming,Men's 100m Butterfly
+56,ISR,gal cohen groumi,Did not start,Tokyo 2020,Swimming,Men's 100m Butterfly
+57,GBR,james guy,Did not start,Tokyo 2020,Swimming,Men's 100m Butterfly
+58,BRN,abdulla essa ahmed ali yusuf,Disqualified,Tokyo 2020,Swimming,Men's 100m Butterfly
+0,USA,caeleb dressel,47.02,Tokyo 2020,Swimming,Men's 100m Freestyle
+1,AUS,kyle chalmers,47.08,Tokyo 2020,Swimming,Men's 100m Freestyle
+2,ROC,kliment kolesnikov,47.44,Tokyo 2020,Swimming,Men's 100m Freestyle
+3,FRA,maxime grousset,47.72,Tokyo 2020,Swimming,Men's 100m Freestyle
+4,KOR,sunwoo hwang,47.82,Tokyo 2020,Swimming,Men's 100m Freestyle
+5,ITA,alessandro miressi,47.86,Tokyo 2020,Swimming,Men's 100m Freestyle
+6,ROU,david popovici,48.04,Tokyo 2020,Swimming,Men's 100m Freestyle
+7,HUN,nandor nemeth,48.10,Tokyo 2020,Swimming,Men's 100m Freestyle
+8,SRB,andrej barna,,Tokyo 2020,Swimming,Men's 100m Freestyle
+9,ROC,andrei minakov,,Tokyo 2020,Swimming,Men's 100m Freestyle
+10,USA,zach apple,,Tokyo 2020,Swimming,Men's 100m Freestyle
+11,ITA,thomas ceccon,,Tokyo 2020,Swimming,Men's 100m Freestyle
+12,GBR,jacob whittle,,Tokyo 2020,Swimming,Men's 100m Freestyle
+13,CAN,joshua liendo edwards,,Tokyo 2020,Swimming,Men's 100m Freestyle
+14,CAN,yuri kisil,,Tokyo 2020,Swimming,Men's 100m Freestyle
+15,SUI,roman mityukov,,Tokyo 2020,Swimming,Men's 100m Freestyle
+16,JPN,katsumi nakamura,,Tokyo 2020,Swimming,Men's 100m Freestyle
+17,GRE,apostolos christou,,Tokyo 2020,Swimming,Men's 100m Freestyle
+18,CHN,junyi he,,Tokyo 2020,Swimming,Men's 100m Freestyle
+19,HUN,szebasztian szabo,,Tokyo 2020,Swimming,Men's 100m Freestyle
+20,NED,stan pijnenburg,,Tokyo 2020,Swimming,Men's 100m Freestyle
+21,TTO,dylan carter,,Tokyo 2020,Swimming,Men's 100m Freestyle
+22,FRA,mehdy metella,,Tokyo 2020,Swimming,Men's 100m Freestyle
+23,AUS,cameron mcevoy,,Tokyo 2020,Swimming,Men's 100m Freestyle
+24,BRA,pedro spajari,,Tokyo 2020,Swimming,Men's 100m Freestyle
+25,GER,damian wierling,,Tokyo 2020,Swimming,Men's 100m Freestyle
+26,SWE,robin hanson,,Tokyo 2020,Swimming,Men's 100m Freestyle
+27,CRO,nikola miljenic,,Tokyo 2020,Swimming,Men's 100m Freestyle
+28,ISR,amir cheruti,,Tokyo 2020,Swimming,Men's 100m Freestyle
+29,EGY,ali khalafalla,,Tokyo 2020,Swimming,Men's 100m Freestyle
+30,ARU,mikel schreuders,,Tokyo 2020,Swimming,Men's 100m Freestyle
+31,BRA,gabriel da silva santos,,Tokyo 2020,Swimming,Men's 100m Freestyle
+32,VEN,alberto mestre,,Tokyo 2020,Swimming,Men's 100m Freestyle
+33,HKG,ian yentou ho,,Tokyo 2020,Swimming,Men's 100m Freestyle
+34,UKR,serhii shevtsov,,Tokyo 2020,Swimming,Men's 100m Freestyle
+35,PHI,luke gebbie,,Tokyo 2020,Swimming,Men's 100m Freestyle
+36,ALG,oussama sahnoune,,Tokyo 2020,Swimming,Men's 100m Freestyle
+37,ARM,artur barseghyan,,Tokyo 2020,Swimming,Men's 100m Freestyle
+38,SGP,joseph schooling,,Tokyo 2020,Swimming,Men's 100m Freestyle
+39,CYP,nikolas antoniou,,Tokyo 2020,Swimming,Men's 100m Freestyle
+40,UZB,khurshidjon tursunov,,Tokyo 2020,Swimming,Men's 100m Freestyle
+41,ZIM,peter wetzlar,,Tokyo 2020,Swimming,Men's 100m Freestyle
+42,MAR,samy boutouil,,Tokyo 2020,Swimming,Men's 100m Freestyle
+43,PAR,benjamin hockin,,Tokyo 2020,Swimming,Men's 100m Freestyle
+44,BIH,emir muratovic,,Tokyo 2020,Swimming,Men's 100m Freestyle
+45,FIN,ari-pekka liukkonen,,Tokyo 2020,Swimming,Men's 100m Freestyle
+46,YEM,mokhtar ali abdulhadi al-yamani,,Tokyo 2020,Swimming,Men's 100m Freestyle
+47,SRI,matthew duncan abeysinghe,,Tokyo 2020,Swimming,Men's 100m Freestyle
+48,MLT,andrew chetcuti,,Tokyo 2020,Swimming,Men's 100m Freestyle
+49,UAE,yousuf almatrooshi,,Tokyo 2020,Swimming,Men's 100m Freestyle
+50,ANT,stefano mitchell,,Tokyo 2020,Swimming,Men's 100m Freestyle
+51,ALB,kledi kadiu,,Tokyo 2020,Swimming,Men's 100m Freestyle
+52,OMA,issa samir hamed al adawi,,Tokyo 2020,Swimming,Men's 100m Freestyle
+53,LCA,jean - luc zephir,,Tokyo 2020,Swimming,Men's 100m Freestyle
+54,NCA,miguel mena,,Tokyo 2020,Swimming,Men's 100m Freestyle
+55,KEN,danilo rosafio,,Tokyo 2020,Swimming,Men's 100m Freestyle
+56,GUM,jagger stephens,,Tokyo 2020,Swimming,Men's 100m Freestyle
+57,GRN,delron felix,,Tokyo 2020,Swimming,Men's 100m Freestyle
+58,NEP,alexander shah,,Tokyo 2020,Swimming,Men's 100m Freestyle
+59,MRI,mathieu marquet,,Tokyo 2020,Swimming,Men's 100m Freestyle
+60,MNE,bosko radulovic,,Tokyo 2020,Swimming,Men's 100m Freestyle
+61,PAK,syed muhammad haseeb tariq,,Tokyo 2020,Swimming,Men's 100m Freestyle
+62,UGA,atuhaire ogola ambala,,Tokyo 2020,Swimming,Men's 100m Freestyle
+63,KOS,olt kondirolli,,Tokyo 2020,Swimming,Men's 100m Freestyle
+64,BDI,belly-cresus ganira,,Tokyo 2020,Swimming,Men's 100m Freestyle
+65,PLE,yazan al bawwab,,Tokyo 2020,Swimming,Men's 100m Freestyle
+66,GUY,andrew fowler,,Tokyo 2020,Swimming,Men's 100m Freestyle
+67,BHU,sangay tenzin,,Tokyo 2020,Swimming,Men's 100m Freestyle
+68,MDV,mubal azzam ibrahim,,Tokyo 2020,Swimming,Men's 100m Freestyle
+69,SOL,edgar richardson iro,,Tokyo 2020,Swimming,Men's 100m Freestyle
+70,GBR,matthew richards,Did not start,Tokyo 2020,Swimming,Men's 100m Freestyle
+0,USA,robert finke,14:39.65,Tokyo 2020,Swimming,Men's 1500m Freestyle
+1,UKR,mykhailo romanchuk,14:40.66,Tokyo 2020,Swimming,Men's 1500m Freestyle
+2,GER,florian wellbrock,14:40.91,Tokyo 2020,Swimming,Men's 1500m Freestyle
+3,ITA,gregorio paltrinieri,14:45.01,Tokyo 2020,Swimming,Men's 1500m Freestyle
+4,GBR,daniel jervis,14:55.48,Tokyo 2020,Swimming,Men's 1500m Freestyle
+5,ROC,kirill martynychev,14:55.85,Tokyo 2020,Swimming,Men's 1500m Freestyle
+6,AUT,felix auboeck,15:03.47,Tokyo 2020,Swimming,Men's 1500m Freestyle
+7,UKR,serhii frolov,15:04.26,Tokyo 2020,Swimming,Men's 1500m Freestyle
+8,ITA,domenico acerenza,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+9,AUS,jack mcloughlin,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+10,GER,lukas martens,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+11,VIE,huy hoang nguyen,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+12,BRA,guilherme costa,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+13,DEN,anton ipsen,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+14,HUN,gergely gyurta,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+15,AUS,thomas neill,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+16,USA,michael brinegar,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+17,SWE,victor johansson,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+18,ROC,aleksandr egorov,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+19,IRL,daniel wiffen,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+20,NOR,henrik christiansen,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+21,HUN,akos kalmar,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+22,CZE,jan micka,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+23,CHN,long cheng,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+24,ESA,marcelo alberto acosta jiménez,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+25,DEN,alexander norgaard,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+26,INA,aflah prawira,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+27,MON,theo druenne,,Tokyo 2020,Swimming,Men's 1500m Freestyle
+28,EGY,marwan elkamash,Did not start,Tokyo 2020,Swimming,Men's 1500m Freestyle
+0,ROC,evgeny rylov,1:53.27,Tokyo 2020,Swimming,Men's 200m Backstroke
+1,USA,ryan murphy,1:54.15,Tokyo 2020,Swimming,Men's 200m Backstroke
+2,GBR,luke greenbank,1:54.72,Tokyo 2020,Swimming,Men's 200m Backstroke
+3,USA,bryce mefford,1:55.49,Tokyo 2020,Swimming,Men's 200m Backstroke
+4,HUN,adam telegdy,1:56.15,Tokyo 2020,Swimming,Men's 200m Backstroke
+5,POL,radoslaw kawecki,1:56.39,Tokyo 2020,Swimming,Men's 200m Backstroke
+6,JPN,ryosuke irie,1:57.32,Tokyo 2020,Swimming,Men's 200m Backstroke
+7,ESP,nicolas garcia saiz,1:59.06,Tokyo 2020,Swimming,Men's 200m Backstroke
+8,FRA,yohann ndoye-brouard,,Tokyo 2020,Swimming,Men's 200m Backstroke
+9,AUS,tristan hollard,,Tokyo 2020,Swimming,Men's 200m Backstroke
+10,KOR,juho lee,,Tokyo 2020,Swimming,Men's 200m Backstroke
+11,ROC,grigory tarasevich,,Tokyo 2020,Swimming,Men's 200m Backstroke
+12,SUI,roman mityukov,,Tokyo 2020,Swimming,Men's 200m Backstroke
+13,JPN,keita sunama,,Tokyo 2020,Swimming,Men's 200m Backstroke
+14,GBR,brodie paul williams,,Tokyo 2020,Swimming,Men's 200m Backstroke
+15,CHN,jiayu xu,,Tokyo 2020,Swimming,Men's 200m Backstroke
+16,CAN,markus thormeyer,,Tokyo 2020,Swimming,Men's 200m Backstroke
+17,CZE,jan cejka,,Tokyo 2020,Swimming,Men's 200m Backstroke
+18,GER,christian diener,,Tokyo 2020,Swimming,Men's 200m Backstroke
+19,ITA,matteo restivo,,Tokyo 2020,Swimming,Men's 200m Backstroke
+20,RSA,martin binedell,,Tokyo 2020,Swimming,Men's 200m Backstroke
+21,POR,francisco rogerio santos,,Tokyo 2020,Swimming,Men's 200m Backstroke
+22,TUR,berke saka,,Tokyo 2020,Swimming,Men's 200m Backstroke
+23,BUL,kaloyan levterov,,Tokyo 2020,Swimming,Men's 200m Backstroke
+24,FRA,mewen tomac,,Tokyo 2020,Swimming,Men's 200m Backstroke
+25,ROU,robert glinta,,Tokyo 2020,Swimming,Men's 200m Backstroke
+26,POL,jakub skierka,,Tokyo 2020,Swimming,Men's 200m Backstroke
+27,ISR,yakov toumarkin,,Tokyo 2020,Swimming,Men's 200m Backstroke
+28,TKM,merdan atayev,,Tokyo 2020,Swimming,Men's 200m Backstroke
+0,AUS,izaac stubblety-cook,2:06.38,Tokyo 2020,Swimming,Men's 200m Breaststroke
+1,NED,arno kamminga,2:07.01,Tokyo 2020,Swimming,Men's 200m Breaststroke
+2,FIN,matti mattsson,2:07.13,Tokyo 2020,Swimming,Men's 200m Breaststroke
+3,ROC,anton chupkov,2:07.24,Tokyo 2020,Swimming,Men's 200m Breaststroke
+4,USA,nic fink,2:07.93,Tokyo 2020,Swimming,Men's 200m Breaststroke
+5,GBR,james wilby,2:08.19,Tokyo 2020,Swimming,Men's 200m Breaststroke
+6,JPN,ryuya mura,2:08.42,Tokyo 2020,Swimming,Men's 200m Breaststroke
+7,SWE,erik persson,2:08.88,Tokyo 2020,Swimming,Men's 200m Breaststroke
+8,ROC,kirill prigoda,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+9,JPN,shoma sato,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+10,KAZ,dmitriy balandin,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+11,FRA,antoine viquerat,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+12,GBR,ross murdoch,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+13,AUS,matthew wilson,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+14,BUL,lyubomir epitropov,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+15,LTU,andrius sidlauskas,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+16,USA,andrew wilson,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+17,KGZ,denis petrashov,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+18,KOR,sungjae cho,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+19,GER,marco koch,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+20,NED,caspar corbeau,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+21,TUR,berkay ogretir,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+22,IRL,darragh greene,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+23,ISL,anton mckee,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+24,EST,martin allikvee,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+25,JOR,amro al-wir,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+26,ISR,ron polonsky,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+27,AUT,christopher rothbauer,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+28,PAN,bernhard tyler christianson,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+29,COL,jorge murillo valdes,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+30,LAT,daniils bobrovs,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+31,PNG,ryan maskelyne,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+32,ISV,adriel sanes,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+33,DOM,josue dominguez ramos,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+34,FIJ,taichi vakasama,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+35,BAH,izaak bastian,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+36,HON,julio horrego,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+37,CRC,arnoldo herrera,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+38,QAT,abdulaziz al-obaidly,,Tokyo 2020,Swimming,Men's 200m Breaststroke
+39,CHN,haiyang qin,Disqualified,Tokyo 2020,Swimming,Men's 200m Breaststroke
+0,HUN,kristof kristof milak,1:51.25,Tokyo 2020,Swimming,Men's 200m Butterfly
+1,JPN,tomoru honda,1:53.73,Tokyo 2020,Swimming,Men's 200m Butterfly
+2,ITA,federico burdisso,1:54.45,Tokyo 2020,Swimming,Men's 200m Butterfly
+3,HUN,tamas kenderesi,1:54.52,Tokyo 2020,Swimming,Men's 200m Butterfly
+4,RSA,chad le clos,1:54.93,Tokyo 2020,Swimming,Men's 200m Butterfly
+5,BRA,leonardo de deus,1:55.19,Tokyo 2020,Swimming,Men's 200m Butterfly
+6,USA,gunnar bentz,1:55.46,Tokyo 2020,Swimming,Men's 200m Butterfly
+7,POL,krzysztof chmielewski,1:55.88,Tokyo 2020,Swimming,Men's 200m Butterfly
+8,USA,zach harting,,Tokyo 2020,Swimming,Men's 200m Butterfly
+9,SUI,noe ponti,,Tokyo 2020,Swimming,Men's 200m Butterfly
+10,JPN,daiya seto,,Tokyo 2020,Swimming,Men's 200m Butterfly
+11,ROC,aleksandr kudashev,,Tokyo 2020,Swimming,Men's 200m Butterfly
+12,TPE,kuan-hung wang,,Tokyo 2020,Swimming,Men's 200m Butterfly
+13,FRA,leon marchand,,Tokyo 2020,Swimming,Men's 200m Butterfly
+14,ITA,giacomo carini,,Tokyo 2020,Swimming,Men's 200m Butterfly
+15,BEL,louis croenen,,Tokyo 2020,Swimming,Men's 200m Butterfly
+16,GER,david thomasberger,,Tokyo 2020,Swimming,Men's 200m Butterfly
+17,AUS,matthew temple,,Tokyo 2020,Swimming,Men's 200m Butterfly
+18,NOR,tomoe hvas,,Tokyo 2020,Swimming,Men's 200m Butterfly
+19,BUL,antani ivanov,,Tokyo 2020,Swimming,Men's 200m Butterfly
+20,UKR,denys kesyl,,Tokyo 2020,Swimming,Men's 200m Butterfly
+21,SGP,zheng wen quah,,Tokyo 2020,Swimming,Men's 200m Butterfly
+22,IRL,brendan hyland,,Tokyo 2020,Swimming,Men's 200m Butterfly
+23,IND,sajan prakash,,Tokyo 2020,Swimming,Men's 200m Butterfly
+24,EST,kregor zirk,,Tokyo 2020,Swimming,Men's 200m Butterfly
+25,MDA,alexei sancov,,Tokyo 2020,Swimming,Men's 200m Butterfly
+26,POL,jakub majerski,,Tokyo 2020,Swimming,Men's 200m Butterfly
+27,KOR,seungwoo moon,,Tokyo 2020,Swimming,Men's 200m Butterfly
+28,UKR,ihor troianovskyi,,Tokyo 2020,Swimming,Men's 200m Butterfly
+29,RSA,ethan du preez,,Tokyo 2020,Swimming,Men's 200m Butterfly
+30,CUB,luis emigdio vega,,Tokyo 2020,Swimming,Men's 200m Butterfly
+31,SYR,ayman kelzi,,Tokyo 2020,Swimming,Men's 200m Butterfly
+32,IRI,matin balsini,,Tokyo 2020,Swimming,Men's 200m Butterfly
+33,JAM,keanan dols,,Tokyo 2020,Swimming,Men's 200m Butterfly
+34,AUS,david morgan,,Tokyo 2020,Swimming,Men's 200m Butterfly
+35,THA,navaphat wongcharoen,,Tokyo 2020,Swimming,Men's 200m Butterfly
+36,SVK,richard nagy,,Tokyo 2020,Swimming,Men's 200m Butterfly
+37,SEY,simon bachmann,,Tokyo 2020,Swimming,Men's 200m Butterfly
+0,GBR,tom dean,1:44.22,Tokyo 2020,Swimming,Men's 200m Freestyle
+1,GBR,duncan scott,1:44.26,Tokyo 2020,Swimming,Men's 200m Freestyle
+2,BRA,fernando scheffer,1:44.66,Tokyo 2020,Swimming,Men's 200m Freestyle
+3,ROU,david popovici,1:44.68,Tokyo 2020,Swimming,Men's 200m Freestyle
+4,ROC,martin malyutin,1:45.01,Tokyo 2020,Swimming,Men's 200m Freestyle
+5,USA,kieran smith,1:45.12,Tokyo 2020,Swimming,Men's 200m Freestyle
+6,KOR,sunwoo hwang,1:45.26,Tokyo 2020,Swimming,Men's 200m Freestyle
+7,LTU,danas rapsys,1:45.78,Tokyo 2020,Swimming,Men's 200m Freestyle
+8,AUS,thomas neill,,Tokyo 2020,Swimming,Men's 200m Freestyle
+9,ITA,stefano ballo,,Tokyo 2020,Swimming,Men's 200m Freestyle
+10,SUI,antonio djakovic,,Tokyo 2020,Swimming,Men's 200m Freestyle
+11,USA,townley haas,,Tokyo 2020,Swimming,Men's 200m Freestyle
+12,EST,kregor zirk,,Tokyo 2020,Swimming,Men's 200m Freestyle
+13,ITA,stefano di cola,,Tokyo 2020,Swimming,Men's 200m Freestyle
+14,HUN,nandor nemeth,,Tokyo 2020,Swimming,Men's 200m Freestyle
+15,SRB,velimir stjepanovic,,Tokyo 2020,Swimming,Men's 200m Freestyle
+16,JPN,katsuhiro matsumoto,,Tokyo 2020,Swimming,Men's 200m Freestyle
+17,GER,lukas martens,,Tokyo 2020,Swimming,Men's 200m Freestyle
+18,GER,jacob heidtmann,,Tokyo 2020,Swimming,Men's 200m Freestyle
+19,FRA,jordan pothain,,Tokyo 2020,Swimming,Men's 200m Freestyle
+20,CHN,xinjie ji,,Tokyo 2020,Swimming,Men's 200m Freestyle
+21,AUS,elijah winnington,,Tokyo 2020,Swimming,Men's 200m Freestyle
+22,SWE,robin hanson,,Tokyo 2020,Swimming,Men's 200m Freestyle
+23,ROC,ivan girev,,Tokyo 2020,Swimming,Men's 200m Freestyle
+24,BRA,murilo setin sartori,,Tokyo 2020,Swimming,Men's 200m Freestyle
+25,MDA,alexei sancov,,Tokyo 2020,Swimming,Men's 200m Freestyle
+26,ISR,denis loktev,,Tokyo 2020,Swimming,Men's 200m Freestyle
+27,FRA,jonathan atsu,,Tokyo 2020,Swimming,Men's 200m Freestyle
+28,BAR,alex sobers,,Tokyo 2020,Swimming,Men's 200m Freestyle
+29,HUN,dominik kozma,,Tokyo 2020,Swimming,Men's 200m Freestyle
+30,GRE,dimitrios markos,,Tokyo 2020,Swimming,Men's 200m Freestyle
+31,MAS,welson sim,,Tokyo 2020,Swimming,Men's 200m Freestyle
+32,ARU,mikel schreuders,,Tokyo 2020,Swimming,Men's 200m Freestyle
+33,TUR,baturalp unlu,,Tokyo 2020,Swimming,Men's 200m Freestyle
+34,PER,joaquin vargas,,Tokyo 2020,Swimming,Men's 200m Freestyle
+35,YEM,mokhtar ali abdulhadi al-yamani,,Tokyo 2020,Swimming,Men's 200m Freestyle
+36,COK,wesley roberts,,Tokyo 2020,Swimming,Men's 200m Freestyle
+37,BOT,james freeman,,Tokyo 2020,Swimming,Men's 200m Freestyle
+38,LBA,audai rushdi hamed hassouna,,Tokyo 2020,Swimming,Men's 200m Freestyle
+0,CHN,shun wang,1:55.00,Tokyo 2020,Swimming,Men's 200m Individual Medley
+1,GBR,duncan scott,1:55.28,Tokyo 2020,Swimming,Men's 200m Individual Medley
+2,SUI,jeremy desplanches,1:56.17,Tokyo 2020,Swimming,Men's 200m Individual Medley
+3,JPN,daiya seto,1:56.22,Tokyo 2020,Swimming,Men's 200m Individual Medley
+4,USA,michael andrew,1:57.31,Tokyo 2020,Swimming,Men's 200m Individual Medley
+5,JPN,kosuke hagino,1:57.49,Tokyo 2020,Swimming,Men's 200m Individual Medley
+6,HUN,laszlo cseh,1:57.68,Tokyo 2020,Swimming,Men's 200m Individual Medley
+7,NZL,lewis clareburt,1:57.70,Tokyo 2020,Swimming,Men's 200m Individual Medley
+8,ITA,alberto razzetti,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+9,AUS,mitchell larkin,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+10,ESP,hugo gonzalez de oliveira,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+11,USA,chase kalisz,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+12,GER,philip heintz,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+13,RSA,matthew sates,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+14,ROC,andrey zhilkin,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+15,NOR,tomoe hvas,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+16,CAN,finlay knox,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+17,FRA,leon marchand,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+18,BRA,caio pumputis,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+19,HUN,hubert kos,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+20,POR,gabriel lopes,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+21,AUS,brendon smith,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+22,GER,jacob heidtmann,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+23,GRE,andreas vazaios,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+24,BRA,vinicius lanza,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+25,ISR,ron polonsky,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+26,CHN,haiyang qin,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+27,POR,alexis santos,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+28,ROC,maxim stupin,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+29,NED,arjan knipping,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+30,ISR,gal cohen groumi,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+31,AUT,bernhard reitshammer,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+32,LTU,danas rapsys,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+33,GBR,joe litchfield,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+34,GRE,apostolos papastamos,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+35,ECU,tomas peribonio,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+36,TPE,hsing-hao wang,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+37,MEX,jose martinez gomez,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+38,PUR,jarod arroyo,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+39,PAN,bernhard tyler christianson,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+40,LBN,munzer mark kabbara,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+41,LUX,raphael stacchiotti,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+42,JAM,keanan dols,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+43,LIE,christoph martin meier,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+44,FSM,tasi limtiaco,,Tokyo 2020,Swimming,Men's 200m Individual Medley
+0,,,3:08.97,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+1,,,3:10.11,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+2,,,3:10.22,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+3,,,3:10.82,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+4,,,3:11.06,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+5,,,3:11.09,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+6,,,3:12.20,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+7,,,3:13.41,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+8,,,,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+9,,,,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+10,,,,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+11,,,,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+12,,,,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+13,,,,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+14,,,,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+15,,,,Tokyo 2020,Swimming,Men's 4 x 100m Freestyle Relay
+0,,,3:26.78,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+1,,,3:27.51,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+2,,,3:29.17,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+3,,,3:29.22,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+4,,,3:29.60,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+5,,,3:29.91,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+6,,,3:32.42,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+7,,,,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+8,,,,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+9,,,,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+10,,,,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+11,,,,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+12,,,,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+13,,,Disqualified,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+14,,,Disqualified,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+15,,,Disqualified,Tokyo 2020,Swimming,Men's 4 x 100m Medley Relay
+0,,,6:58.58,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+1,,,7:01.81,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+2,,,7:01.84,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+3,,,7:02.43,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+4,,,7:03.24,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+5,,,7:06.12,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+6,,,7:06.51,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+7,,,7:08.22,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+8,,,,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+9,,,,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+10,,,,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+11,,,,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+12,,,,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+13,,,,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+14,,,,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+15,,,Disqualified,Tokyo 2020,Swimming,Men's 4 x 200m Freestyle Relay
+0,TUN,ahmed hafnaoui,3:43.36,Tokyo 2020,Swimming,Men's 400m Freestyle
+1,AUS,jack mcloughlin,3:43.52,Tokyo 2020,Swimming,Men's 400m Freestyle
+2,USA,kieran smith,3:43.94,Tokyo 2020,Swimming,Men's 400m Freestyle
+3,GER,henning bennet muhlleitner,3:44.07,Tokyo 2020,Swimming,Men's 400m Freestyle
+4,AUT,felix auboeck,3:44.07,Tokyo 2020,Swimming,Men's 400m Freestyle
+5,ITA,gabriele detti,3:44.88,Tokyo 2020,Swimming,Men's 400m Freestyle
+6,AUS,elijah winnington,3:45.20,Tokyo 2020,Swimming,Men's 400m Freestyle
+7,USA,jake mitchell,3:45.39,Tokyo 2020,Swimming,Men's 400m Freestyle
+8,SUI,antonio djakovic,,Tokyo 2020,Swimming,Men's 400m Freestyle
+9,ITA,marco de tullio,,Tokyo 2020,Swimming,Men's 400m Freestyle
+10,BRA,guilherme costa,,Tokyo 2020,Swimming,Men's 400m Freestyle
+11,GER,lukas martens,,Tokyo 2020,Swimming,Men's 400m Freestyle
+12,LTU,danas rapsys,,Tokyo 2020,Swimming,Men's 400m Freestyle
+13,EGY,marwan elkamash,,Tokyo 2020,Swimming,Men's 400m Freestyle
+14,EST,kregor zirk,,Tokyo 2020,Swimming,Men's 400m Freestyle
+15,VEN,alfonso mestre,,Tokyo 2020,Swimming,Men's 400m Freestyle
+16,ROC,aleksandr egorov,,Tokyo 2020,Swimming,Men's 400m Freestyle
+17,HUN,gabor zombori,,Tokyo 2020,Swimming,Men's 400m Freestyle
+18,CHN,xinjie ji,,Tokyo 2020,Swimming,Men's 400m Freestyle
+19,GBR,kieran bird,,Tokyo 2020,Swimming,Men's 400m Freestyle
+20,NOR,henrik christiansen,,Tokyo 2020,Swimming,Men's 400m Freestyle
+21,ROC,martin malyutin,,Tokyo 2020,Swimming,Men's 400m Freestyle
+22,NZL,zac reid,,Tokyo 2020,Swimming,Men's 400m Freestyle
+23,SLO,martin bau,,Tokyo 2020,Swimming,Men's 400m Freestyle
+24,PER,joaquin vargas,,Tokyo 2020,Swimming,Men's 400m Freestyle
+25,KOR,hojoon lee,,Tokyo 2020,Swimming,Men's 400m Freestyle
+26,CHI,eduardo cisternas,,Tokyo 2020,Swimming,Men's 400m Freestyle
+27,FRA,david aubry,,Tokyo 2020,Swimming,Men's 400m Freestyle
+28,INA,aflah prawira,,Tokyo 2020,Swimming,Men's 400m Freestyle
+29,COK,wesley roberts,,Tokyo 2020,Swimming,Men's 400m Freestyle
+30,MOZ,igor mogne,,Tokyo 2020,Swimming,Men's 400m Freestyle
+31,GEO,irakli revishvili,,Tokyo 2020,Swimming,Men's 400m Freestyle
+32,MAS,welson sim,,Tokyo 2020,Swimming,Men's 400m Freestyle
+33,BAR,alex sobers,,Tokyo 2020,Swimming,Men's 400m Freestyle
+34,BOT,james freeman,,Tokyo 2020,Swimming,Men's 400m Freestyle
+35,MKD,filip derkoski,,Tokyo 2020,Swimming,Men's 400m Freestyle
+0,USA,chase kalisz,4:09.42,Tokyo 2020,Swimming,Men's 400m Individual Medley
+1,USA,jay litherland,4:10.28,Tokyo 2020,Swimming,Men's 400m Individual Medley
+2,AUS,brendon smith,4:10.38,Tokyo 2020,Swimming,Men's 400m Individual Medley
+3,HUN,david verraszto,4:10.59,Tokyo 2020,Swimming,Men's 400m Individual Medley
+4,GBR,max litchfield,4:10.59,Tokyo 2020,Swimming,Men's 400m Individual Medley
+5,FRA,leon marchand,4:11.16,Tokyo 2020,Swimming,Men's 400m Individual Medley
+6,NZL,lewis clareburt,4:11.22,Tokyo 2020,Swimming,Men's 400m Individual Medley
+7,ITA,alberto razzetti,4:11.32,Tokyo 2020,Swimming,Men's 400m Individual Medley
+8,JPN,daiya seto,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+9,CHN,shun wang,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+10,JPN,yuki ikari,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+11,GER,jacob heidtmann,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+12,HUN,peter bernek,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+13,GRE,apostolos papastamos,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+14,ESP,joan lluis pons ramon,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+15,AUS,se-bom lee,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+16,NED,arjan knipping,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+17,ROC,maxim stupin,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+18,ITA,pier andrea matteazzi,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+19,POR,jose lopes,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+20,GBR,brodie paul williams,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+21,PUR,jarod arroyo,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+22,SVK,richard nagy,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+23,ECU,tomas peribonio,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+24,TPE,hsing-hao wang,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+25,AZE,maksym shemberev,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+26,ISR,ron polonsky,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+27,LIE,christoph martin meier,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+28,CUB,luis emigdio vega,,Tokyo 2020,Swimming,Men's 400m Individual Medley
+0,USA,caeleb dressel,21.07,Tokyo 2020,Swimming,Men's 50m Freestyle
+1,FRA,florent manaudou,21.55,Tokyo 2020,Swimming,Men's 50m Freestyle
+2,BRA,bruno fratus,21.57,Tokyo 2020,Swimming,Men's 50m Freestyle
+3,USA,michael andrew,21.60,Tokyo 2020,Swimming,Men's 50m Freestyle
+4,GBR,ben proud,21.72,Tokyo 2020,Swimming,Men's 50m Freestyle
+5,GRE,kristian gkolomeev,21.72,Tokyo 2020,Swimming,Men's 50m Freestyle
+6,ITA,lorenzo zazzeri,21.78,Tokyo 2020,Swimming,Men's 50m Freestyle
+7,NED,thom de boer,21.79,Tokyo 2020,Swimming,Men's 50m Freestyle
+8,ROC,kliment kolesnikov,,Tokyo 2020,Swimming,Men's 50m Freestyle
+9,CAN,brent hayden,,Tokyo 2020,Swimming,Men's 50m Freestyle
+10,UKR,vladyslav bukhov,,Tokyo 2020,Swimming,Men's 50m Freestyle
+11,NED,jesse puts,,Tokyo 2020,Swimming,Men's 50m Freestyle
+12,FRA,maxime grousset,,Tokyo 2020,Swimming,Men's 50m Freestyle
+13,POL,pawel juraszek,,Tokyo 2020,Swimming,Men's 50m Freestyle
+14,VEN,alberto mestre,,Tokyo 2020,Swimming,Men's 50m Freestyle
+15,ROC,vladimir morozov,,Tokyo 2020,Swimming,Men's 50m Freestyle
+16,ISR,amir cheruti,,Tokyo 2020,Swimming,Men's 50m Freestyle
+17,CAN,joshua liendo edwards,,Tokyo 2020,Swimming,Men's 50m Freestyle
+18,ITA,santo condorelli,,Tokyo 2020,Swimming,Men's 50m Freestyle
+19,CRO,nikola miljenic,,Tokyo 2020,Swimming,Men's 50m Freestyle
+20,CHN,hexin yu,,Tokyo 2020,Swimming,Men's 50m Freestyle
+21,AUT,heiko gigler,,Tokyo 2020,Swimming,Men's 50m Freestyle
+22,SWE,bjoern seeliger,,Tokyo 2020,Swimming,Men's 50m Freestyle
+23,EGY,ali khalafalla,,Tokyo 2020,Swimming,Men's 50m Freestyle
+24,RSA,bradley edward tandy,,Tokyo 2020,Swimming,Men's 50m Freestyle
+25,FIN,ari-pekka liukkonen,,Tokyo 2020,Swimming,Men's 50m Freestyle
+26,HUN,maxim lobanovszkij,,Tokyo 2020,Swimming,Men's 50m Freestyle
+27,SRB,andrej barna,,Tokyo 2020,Swimming,Men's 50m Freestyle
+28,AUS,cameron mcevoy,,Tokyo 2020,Swimming,Men's 50m Freestyle
+29,MEX,gabriel castano garcia,,Tokyo 2020,Swimming,Men's 50m Freestyle
+30,POL,konrad czerniak,,Tokyo 2020,Swimming,Men's 50m Freestyle
+31,HKG,ian yentou ho,,Tokyo 2020,Swimming,Men's 50m Freestyle
+32,TTO,dylan carter,,Tokyo 2020,Swimming,Men's 50m Freestyle
+33,CAY,brett fraser,,Tokyo 2020,Swimming,Men's 50m Freestyle
+34,URU,enzo martinez,,Tokyo 2020,Swimming,Men's 50m Freestyle
+35,SUR,renzo tjon-a-joe,,Tokyo 2020,Swimming,Men's 50m Freestyle
+36,ALG,oussama sahnoune,,Tokyo 2020,Swimming,Men's 50m Freestyle
+37,ARG,santiago grassi,,Tokyo 2020,Swimming,Men's 50m Freestyle
+38,KOR,sunwoo hwang,,Tokyo 2020,Swimming,Men's 50m Freestyle
+39,ROU,david popovici,,Tokyo 2020,Swimming,Men's 50m Freestyle
+40,PHI,luke gebbie,,Tokyo 2020,Swimming,Men's 50m Freestyle
+41,BIH,emir muratovic,,Tokyo 2020,Swimming,Men's 50m Freestyle
+42,ARM,artur barseghyan,,Tokyo 2020,Swimming,Men's 50m Freestyle
+43,XXB,alaa maso,,Tokyo 2020,Swimming,Men's 50m Freestyle
+44,CYP,nikolas antoniou,,Tokyo 2020,Swimming,Men's 50m Freestyle
+45,ERI,ghirmai efrem,,Tokyo 2020,Swimming,Men's 50m Freestyle
+46,MAW,filipe gomes,,Tokyo 2020,Swimming,Men's 50m Freestyle
+47,MGL,delgerkhuu myagmar,,Tokyo 2020,Swimming,Men's 50m Freestyle
+48,VIN,shane cadogan,,Tokyo 2020,Swimming,Men's 50m Freestyle
+49,NIG,alassane seydou lancina,,Tokyo 2020,Swimming,Men's 50m Freestyle
+50,BAN,md ariful islam,,Tokyo 2020,Swimming,Men's 50m Freestyle
+51,CAM,puch hem,,Tokyo 2020,Swimming,Men's 50m Freestyle
+52,BEN,marc pascal pierre dansou,,Tokyo 2020,Swimming,Men's 50m Freestyle
+53,BUR,adama ouedraogo,,Tokyo 2020,Swimming,Men's 50m Freestyle
+54,RWA,eloi imaniraguha,,Tokyo 2020,Swimming,Men's 50m Freestyle
+55,ZAM,shaquille moosa,,Tokyo 2020,Swimming,Men's 50m Freestyle
+56,TOG,mawupemon otogbe,,Tokyo 2020,Swimming,Men's 50m Freestyle
+57,CPV,troy pina,,Tokyo 2020,Swimming,Men's 50m Freestyle
+58,LAO,santisouk inthavong,,Tokyo 2020,Swimming,Men's 50m Freestyle
+59,TJK,olimjon ishanov,,Tokyo 2020,Swimming,Men's 50m Freestyle
+60,GUI,mamadou bah,,Tokyo 2020,Swimming,Men's 50m Freestyle
+61,ETH,abdelmalik muktar,,Tokyo 2020,Swimming,Men's 50m Freestyle
+62,SWZ,simanga dlamini,,Tokyo 2020,Swimming,Men's 50m Freestyle
+63,CMR,charly ndjoume,,Tokyo 2020,Swimming,Men's 50m Freestyle
+64,DJI,houssein gaber ibrahim,,Tokyo 2020,Swimming,Men's 50m Freestyle
+65,GAM,ebrima sorry buaro,,Tokyo 2020,Swimming,Men's 50m Freestyle
+66,PLW,shawn dingilius wallace,,Tokyo 2020,Swimming,Men's 50m Freestyle
+67,GAB,adam girard de langlade mpali,,Tokyo 2020,Swimming,Men's 50m Freestyle
+68,AFG,fahim anwari,,Tokyo 2020,Swimming,Men's 50m Freestyle
+69,MHL,phillip kinono,,Tokyo 2020,Swimming,Men's 50m Freestyle
+70,SLE,joshua wyse,,Tokyo 2020,Swimming,Men's 50m Freestyle
+71,TLS,jose joao da silva viegas,,Tokyo 2020,Swimming,Men's 50m Freestyle
+72,GEQ,diosdado miko eyanga,,Tokyo 2020,Swimming,Men's 50m Freestyle
+0,USA,robert finke,7:41.87,Tokyo 2020,Swimming,Men's 800m Freestyle
+1,ITA,gregorio paltrinieri,7:42.11,Tokyo 2020,Swimming,Men's 800m Freestyle
+2,UKR,mykhailo romanchuk,7:42.33,Tokyo 2020,Swimming,Men's 800m Freestyle
+3,GER,florian wellbrock,7:42.68,Tokyo 2020,Swimming,Men's 800m Freestyle
+4,AUS,jack mcloughlin,7:45.00,Tokyo 2020,Swimming,Men's 800m Freestyle
+5,UKR,serhii frolov,7:45.11,Tokyo 2020,Swimming,Men's 800m Freestyle
+6,AUT,felix auboeck,7:49.14,Tokyo 2020,Swimming,Men's 800m Freestyle
+7,BRA,guilherme costa,7:53.31,Tokyo 2020,Swimming,Men's 800m Freestyle
+8,NOR,henrik christiansen,,Tokyo 2020,Swimming,Men's 800m Freestyle
+9,SWE,victor johansson,,Tokyo 2020,Swimming,Men's 800m Freestyle
+10,TUN,ahmed hafnaoui,,Tokyo 2020,Swimming,Men's 800m Freestyle
+11,ITA,gabriele detti,,Tokyo 2020,Swimming,Men's 800m Freestyle
+12,ROC,aleksandr egorov,,Tokyo 2020,Swimming,Men's 800m Freestyle
+13,IRL,daniel wiffen,,Tokyo 2020,Swimming,Men's 800m Freestyle
+14,VEN,alfonso mestre,,Tokyo 2020,Swimming,Men's 800m Freestyle
+15,EGY,marwan elkamash,,Tokyo 2020,Swimming,Men's 800m Freestyle
+16,USA,michael brinegar,,Tokyo 2020,Swimming,Men's 800m Freestyle
+17,NZL,zac reid,,Tokyo 2020,Swimming,Men's 800m Freestyle
+18,DEN,alexander norgaard,,Tokyo 2020,Swimming,Men's 800m Freestyle
+19,VIE,huy hoang nguyen,,Tokyo 2020,Swimming,Men's 800m Freestyle
+20,DEN,anton ipsen,,Tokyo 2020,Swimming,Men's 800m Freestyle
+21,HUN,akos kalmar,,Tokyo 2020,Swimming,Men's 800m Freestyle
+22,POR,jose lopes,,Tokyo 2020,Swimming,Men's 800m Freestyle
+23,TUR,yigit aslan,,Tokyo 2020,Swimming,Men's 800m Freestyle
+24,GBR,kieran bird,,Tokyo 2020,Swimming,Men's 800m Freestyle
+25,GRE,dimitrios markos,,Tokyo 2020,Swimming,Men's 800m Freestyle
+26,CHN,long cheng,,Tokyo 2020,Swimming,Men's 800m Freestyle
+27,CZE,jan micka,,Tokyo 2020,Swimming,Men's 800m Freestyle
+28,FRA,david aubry,,Tokyo 2020,Swimming,Men's 800m Freestyle
+29,ROC,ilia druzhinin,,Tokyo 2020,Swimming,Men's 800m Freestyle
+30,ESA,marcelo alberto acosta jiménez,,Tokyo 2020,Swimming,Men's 800m Freestyle
+31,SLO,martin bau,,Tokyo 2020,Swimming,Men's 800m Freestyle
+32,SRB,vuk celic,,Tokyo 2020,Swimming,Men's 800m Freestyle
+33,GRE,konstantinos englezakis,Did not start,Tokyo 2020,Swimming,Men's 800m Freestyle
+0,,,3:37.58,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+1,,,3:38.86,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+2,,,3:38.95,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+3,,,3:39.28,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+4,,,3:40.58,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+5,,,3:41.25,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+6,,,3:42.45,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+7,,,3:44.77,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+8,,,,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+9,,,,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+10,,,,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+11,,,,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+12,,,,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+13,,,,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+14,,,,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+15,,,Disqualified,Tokyo 2020,Swimming,Mixed 4 x 100m Medley Relay
+0,AUS,kaylee mckeown,57.47,Tokyo 2020,Swimming,Women's 100m Backstroke
+1,CAN,kylie masse,57.72,Tokyo 2020,Swimming,Women's 100m Backstroke
+2,USA,regan smith,58.05,Tokyo 2020,Swimming,Women's 100m Backstroke
+3,USA,rhyan elizabeth white,58.43,Tokyo 2020,Swimming,Women's 100m Backstroke
+4,AUS,emily seebohm,58.45,Tokyo 2020,Swimming,Women's 100m Backstroke
+5,GBR,kathleen dawson,58.70,Tokyo 2020,Swimming,Women's 100m Backstroke
+6,NED,kira toussaint,59.11,Tokyo 2020,Swimming,Women's 100m Backstroke
+7,ISR,anastasya gorbenko,59.53,Tokyo 2020,Swimming,Women's 100m Backstroke
+8,CAN,taylor madison ruck,,Tokyo 2020,Swimming,Women's 100m Backstroke
+9,ROC,mariia kameneva,,Tokyo 2020,Swimming,Women's 100m Backstroke
+10,ITA,margherita panziera,,Tokyo 2020,Swimming,Women's 100m Backstroke
+11,CHN,xuwei peng,,Tokyo 2020,Swimming,Women's 100m Backstroke
+12,JPN,anna konishi,,Tokyo 2020,Swimming,Women's 100m Backstroke
+13,GBR,cassie wild,,Tokyo 2020,Swimming,Women's 100m Backstroke
+14,ROC,anastasiia fesikova,,Tokyo 2020,Swimming,Women's 100m Backstroke
+15,NED,maaike de waard,,Tokyo 2020,Swimming,Women's 100m Backstroke
+16,FIN,mimosa jallow,,Tokyo 2020,Swimming,Women's 100m Backstroke
+17,HUN,katalin burian,,Tokyo 2020,Swimming,Women's 100m Backstroke
+18,NOR,ingeborg loeyning,,Tokyo 2020,Swimming,Women's 100m Backstroke
+19,KOR,eunji lee,,Tokyo 2020,Swimming,Women's 100m Backstroke
+20,SWE,michelle coleman,,Tokyo 2020,Swimming,Women's 100m Backstroke
+21,CHN,jie chen,,Tokyo 2020,Swimming,Women's 100m Backstroke
+22,FRA,beryl gastaldello,,Tokyo 2020,Swimming,Women's 100m Backstroke
+23,GER,laura riedemann,,Tokyo 2020,Swimming,Women's 100m Backstroke
+24,IRL,danielle hill,,Tokyo 2020,Swimming,Women's 100m Backstroke
+25,HKG,stephanie au,,Tokyo 2020,Swimming,Women's 100m Backstroke
+26,CZE,simona kubova,,Tokyo 2020,Swimming,Women's 100m Backstroke
+27,MDA,tatiana salcutan,,Tokyo 2020,Swimming,Women's 100m Backstroke
+28,AUT,lena grabowski,,Tokyo 2020,Swimming,Women's 100m Backstroke
+29,UKR,daryna zevina,,Tokyo 2020,Swimming,Women's 100m Backstroke
+30,PER,mckenna de bever elliot,,Tokyo 2020,Swimming,Women's 100m Backstroke
+31,COL,isabella arcila,,Tokyo 2020,Swimming,Women's 100m Backstroke
+32,NZL,ali galyer,,Tokyo 2020,Swimming,Women's 100m Backstroke
+33,ZIM,donata katai,,Tokyo 2020,Swimming,Women's 100m Backstroke
+34,DOM,krystal lara,,Tokyo 2020,Swimming,Women's 100m Backstroke
+35,ESA,carmen celina marquez orellana,,Tokyo 2020,Swimming,Women's 100m Backstroke
+36,BAR,danielle titus,,Tokyo 2020,Swimming,Women's 100m Backstroke
+37,SEY,felicity passon,,Tokyo 2020,Swimming,Women's 100m Backstroke
+38,IND,maana patel patel,,Tokyo 2020,Swimming,Women's 100m Backstroke
+39,KAZ,diana nazarova,,Tokyo 2020,Swimming,Women's 100m Backstroke
+40,GRN,kimberly ince,,Tokyo 2020,Swimming,Women's 100m Backstroke
+41,SWE,louise hansson,Did not start,Tokyo 2020,Swimming,Women's 100m Backstroke
+42,BLR,anastasiya shkurdai,Did not start,Tokyo 2020,Swimming,Women's 100m Backstroke
+0,USA,lydia jacoby,1:04.95,Tokyo 2020,Swimming,Women's 100m Breaststroke
+1,RSA,tatjana schoenmaker,1:05.22,Tokyo 2020,Swimming,Women's 100m Breaststroke
+2,USA,lilly king,1:05.54,Tokyo 2020,Swimming,Women's 100m Breaststroke
+3,ROC,evgeniia chikunova,1:05.90,Tokyo 2020,Swimming,Women's 100m Breaststroke
+4,ROC,yuliya efimova,1:06.02,Tokyo 2020,Swimming,Women's 100m Breaststroke
+5,SWE,sophie hansson,1:06.07,Tokyo 2020,Swimming,Women's 100m Breaststroke
+6,ITA,martina carraro,1:06.19,Tokyo 2020,Swimming,Women's 100m Breaststroke
+7,IRL,mona mc sharry,1:06.94,Tokyo 2020,Swimming,Women's 100m Breaststroke
+8,AUS,chelsea hodges,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+9,CHN,qianting tang,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+10,GBR,sarah vasey,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+11,FIN,ida hulkko,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+12,GER,anna charlott darcel elendt,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+13,LTU,kotryna teterevkova,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+14,SUI,lisa mamie,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+15,EST,eneli jefimova,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+16,JPN,kanako watanabe,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+17,ESP,jessica vall montero,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+18,JPN,reona aoki,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+19,AUS,jessica hansen,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+20,BLR,alina zmushka,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+21,JAM,alia atkinson,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+22,CAN,kelsey wog,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+23,CAN,kierra smith,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+24,NED,tes schouten,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+25,BEL,fanny lecluyse,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+26,SWE,emelie fast,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+27,SVK,andrea podmanikova,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+28,MAS,jinq en phee,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+29,MEX,byanca rodriguez villanueva,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+30,ARG,julia sebastian,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+31,ASA,tilali scanlan,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+32,CRO,ema rajic,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+33,BUL,diana petkova,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+34,PAN,emily marie santos silva,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+35,COK,kirsten andrea fisher-marsters,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+36,HAI,emilie faith grand pierre,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+37,MRI,alicia kok shun,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+38,TKM,darya semyonova,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+39,CPV,jayla pina,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+40,FSM,taeyanna adams,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+41,YEM,nooran ahmed ali ba matraf,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+42,MDV,aishath sajina,,Tokyo 2020,Swimming,Women's 100m Breaststroke
+43,GUI,mariama toure,Did not start,Tokyo 2020,Swimming,Women's 100m Breaststroke
+44,ISR,anastasya gorbenko,Did not start,Tokyo 2020,Swimming,Women's 100m Breaststroke
+45,MON,claudia verdino,Disqualified,Tokyo 2020,Swimming,Women's 100m Breaststroke
+46,ITA,benedetta pilato,Disqualified,Tokyo 2020,Swimming,Women's 100m Breaststroke
+0,CAN,margaret mac neil,55.59,Tokyo 2020,Swimming,Women's 100m Butterfly
+1,CHN,yufei zhang,55.64,Tokyo 2020,Swimming,Women's 100m Butterfly
+2,AUS,emma mckeon,55.72,Tokyo 2020,Swimming,Women's 100m Butterfly
+3,USA,torri huske,55.73,Tokyo 2020,Swimming,Women's 100m Butterfly
+4,SWE,louise hansson,56.22,Tokyo 2020,Swimming,Women's 100m Butterfly
+5,FRA,marie wattel,56.27,Tokyo 2020,Swimming,Women's 100m Butterfly
+6,SWE,sarah sjoestroem,56.91,Tokyo 2020,Swimming,Women's 100m Butterfly
+7,BLR,anastasiya shkurdai,57.05,Tokyo 2020,Swimming,Women's 100m Butterfly
+8,GRE,anna ntountounaki,,Tokyo 2020,Swimming,Women's 100m Butterfly
+9,USA,claire curzan,,Tokyo 2020,Swimming,Women's 100m Butterfly
+10,ROC,svetlana chimrova,,Tokyo 2020,Swimming,Women's 100m Butterfly
+11,AUS,brianna throssell,,Tokyo 2020,Swimming,Women's 100m Butterfly
+12,ITA,elena di liddo,,Tokyo 2020,Swimming,Women's 100m Butterfly
+13,ROC,arina surkova,,Tokyo 2020,Swimming,Women's 100m Butterfly
+14,ITA,ilaria bianchi,,Tokyo 2020,Swimming,Women's 100m Butterfly
+15,CAN,katerine savard,,Tokyo 2020,Swimming,Women's 100m Butterfly
+16,SUI,maria ugolkova,,Tokyo 2020,Swimming,Women's 100m Butterfly
+17,ISR,anastasya gorbenko,,Tokyo 2020,Swimming,Women's 100m Butterfly
+18,BIH,lana pudar,,Tokyo 2020,Swimming,Women's 100m Butterfly
+19,EGY,farida osman,,Tokyo 2020,Swimming,Women's 100m Butterfly
+20,GBR,harriet jones,,Tokyo 2020,Swimming,Women's 100m Butterfly
+21,DEN,emilie beckmann,,Tokyo 2020,Swimming,Women's 100m Butterfly
+22,KOR,sehyeon an,,Tokyo 2020,Swimming,Women's 100m Butterfly
+23,IRL,ellen walshe,,Tokyo 2020,Swimming,Women's 100m Butterfly
+24,PHI,remedy rule,,Tokyo 2020,Swimming,Women's 100m Butterfly
+25,RSA,erin gallagher,,Tokyo 2020,Swimming,Women's 100m Butterfly
+26,HUN,dalma sebestyen,,Tokyo 2020,Swimming,Women's 100m Butterfly
+27,PAR,luana alonso,,Tokyo 2020,Swimming,Women's 100m Butterfly
+28,VEN,jererik pinto,,Tokyo 2020,Swimming,Women's 100m Butterfly
+29,AZE,mariam sheikhalizadehkhanghah,,Tokyo 2020,Swimming,Women's 100m Butterfly
+30,PUR,miriam sheehan,,Tokyo 2020,Swimming,Women's 100m Butterfly
+31,SRI,aniqah gaffoor,,Tokyo 2020,Swimming,Women's 100m Butterfly
+32,XXB,yusra mardini,,Tokyo 2020,Swimming,Women's 100m Butterfly
+0,AUS,emma mckeon,51.96,Tokyo 2020,Swimming,Women's 100m Freestyle
+1,HKG,siobhan bernadette haughey,52.27,Tokyo 2020,Swimming,Women's 100m Freestyle
+2,AUS,cate campbell,52.52,Tokyo 2020,Swimming,Women's 100m Freestyle
+3,CAN,penny oleksiak,52.59,Tokyo 2020,Swimming,Women's 100m Freestyle
+4,SWE,sarah sjoestroem,52.68,Tokyo 2020,Swimming,Women's 100m Freestyle
+5,NED,femke heemskerk,52.79,Tokyo 2020,Swimming,Women's 100m Freestyle
+6,GBR,anna hopkin,52.83,Tokyo 2020,Swimming,Women's 100m Freestyle
+7,CHN,junxuan yang,,Tokyo 2020,Swimming,Women's 100m Freestyle
+8,USA,abbey weitzeil,53.23,Tokyo 2020,Swimming,Women's 100m Freestyle
+9,FRA,marie wattel,,Tokyo 2020,Swimming,Women's 100m Freestyle
+10,DEN,pernille blume,,Tokyo 2020,Swimming,Women's 100m Freestyle
+11,CAN,kayla sanchez,,Tokyo 2020,Swimming,Women's 100m Freestyle
+12,GBR,freya anderson,,Tokyo 2020,Swimming,Women's 100m Freestyle
+13,DEN,signe bro,,Tokyo 2020,Swimming,Women's 100m Freestyle
+14,USA,erika brown,,Tokyo 2020,Swimming,Women's 100m Freestyle
+15,SWE,michelle coleman,,Tokyo 2020,Swimming,Women's 100m Freestyle
+16,FRA,charlotte bonnet,,Tokyo 2020,Swimming,Women's 100m Freestyle
+17,CHN,qingfeng wu,,Tokyo 2020,Swimming,Women's 100m Freestyle
+18,NED,ranomi kromowidjojo,,Tokyo 2020,Swimming,Women's 100m Freestyle
+19,ROC,mariia kameneva,,Tokyo 2020,Swimming,Women's 100m Freestyle
+20,CZE,barbora seemanova,,Tokyo 2020,Swimming,Women's 100m Freestyle
+21,ISR,andrea murez,,Tokyo 2020,Swimming,Women's 100m Freestyle
+22,FIN,fanny teijonsalo,,Tokyo 2020,Swimming,Women's 100m Freestyle
+23,SLO,janja segel,,Tokyo 2020,Swimming,Women's 100m Freestyle
+24,RSA,erin gallagher,,Tokyo 2020,Swimming,Women's 100m Freestyle
+25,SUI,maria ugolkova,,Tokyo 2020,Swimming,Women's 100m Freestyle
+26,ESP,lidon munoz del campo,,Tokyo 2020,Swimming,Women's 100m Freestyle
+27,BLR,anastasiya shkurdai,,Tokyo 2020,Swimming,Women's 100m Freestyle
+28,CYP,kalia antoniou,,Tokyo 2020,Swimming,Women's 100m Freestyle
+29,BRA,larissa oliveira,,Tokyo 2020,Swimming,Women's 100m Freestyle
+30,ECU,anicka delgado,,Tokyo 2020,Swimming,Women's 100m Freestyle
+31,LUX,julie meynen,,Tokyo 2020,Swimming,Women's 100m Freestyle
+32,EGY,farida osman,,Tokyo 2020,Swimming,Women's 100m Freestyle
+33,ISL,snaefridur sol jorunnardottir,,Tokyo 2020,Swimming,Women's 100m Freestyle
+34,ROU,bianca-andreea costea,,Tokyo 2020,Swimming,Women's 100m Freestyle
+35,SGP,ting wen quah,,Tokyo 2020,Swimming,Women's 100m Freestyle
+36,LAT,ieva maluka,,Tokyo 2020,Swimming,Women's 100m Freestyle
+37,PUR,miriam sheehan,,Tokyo 2020,Swimming,Women's 100m Freestyle
+38,ALG,amel melih,,Tokyo 2020,Swimming,Women's 100m Freestyle
+39,MKD,mia blazhevska eminova,,Tokyo 2020,Swimming,Women's 100m Freestyle
+40,CAY,jillian crooks,,Tokyo 2020,Swimming,Women's 100m Freestyle
+41,THA,jenjira srisa - ard,,Tokyo 2020,Swimming,Women's 100m Freestyle
+42,NCA,maria victoria schutzmeier,,Tokyo 2020,Swimming,Women's 100m Freestyle
+43,MHL,colleen furgeson,,Tokyo 2020,Swimming,Women's 100m Freestyle
+44,ARM,varsenik manucharyan,,Tokyo 2020,Swimming,Women's 100m Freestyle
+45,SEN,jeanne boutbien,,Tokyo 2020,Swimming,Women's 100m Freestyle
+46,ANG,catarina sousa,,Tokyo 2020,Swimming,Women's 100m Freestyle
+47,NGR,abiola ogunbanwo,,Tokyo 2020,Swimming,Women's 100m Freestyle
+48,MNE,andela antunovic,,Tokyo 2020,Swimming,Women's 100m Freestyle
+49,NEP,gaurika singh,,Tokyo 2020,Swimming,Women's 100m Freestyle
+50,GUM,mineri kurotori gomez,,Tokyo 2020,Swimming,Women's 100m Freestyle
+51,ITA,federica pellegrini,Did not start,Tokyo 2020,Swimming,Women's 100m Freestyle
+0,USA,katie ledecky,15:37.34,Tokyo 2020,Swimming,Women's 1500m Freestyle
+1,USA,erica sullivan,15:41.41,Tokyo 2020,Swimming,Women's 1500m Freestyle
+2,GER,sarah kohler,15:42.91,Tokyo 2020,Swimming,Women's 1500m Freestyle
+3,CHN,jianjiahe wang,15:46.37,Tokyo 2020,Swimming,Women's 1500m Freestyle
+4,ITA,simona quadarella,15:53.97,Tokyo 2020,Swimming,Women's 1500m Freestyle
+5,AUS,kiah melverton,16:00.36,Tokyo 2020,Swimming,Women's 1500m Freestyle
+6,ROC,anastasiia kirpichnikova,16:00.38,Tokyo 2020,Swimming,Women's 1500m Freestyle
+7,AUS,maddy gough,16:05.81,Tokyo 2020,Swimming,Women's 1500m Freestyle
+8,HUN,ajna kesely,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+9,CHN,bingjie li,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+10,TUR,merve tuncel,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+11,HUN,viktoria mihalyvari-farkas,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+12,ITA,martina rita caramignoli,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+13,CHI,kristel kobrich,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+14,ESP,mireia belmonte,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+15,LIE,julia hassler,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+16,TUR,deniz ertan,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+17,ESP,jimena perez blanco,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+18,AUT,marlene kahler,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+19,BRA,viviane eichelbeger jungblut,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+20,CAN,katrina bellio,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+21,POR,tamila holub,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+22,POR,diana duraes,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+23,BRA,beatriz pimentel dizotti,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+24,DEN,helena bach,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+25,NZL,eve thomas,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+26,GER,celine rieder,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+27,KOR,dakyung han,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+28,ARG,delfina pignatiello,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+29,SLO,katja fain,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+30,NZL,hayley mcintosh,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+31,SMR,arianna valloni,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+32,MLT,sasha gatt,,Tokyo 2020,Swimming,Women's 1500m Freestyle
+0,AUS,kaylee mckeown,2:04.68,Tokyo 2020,Swimming,Women's 200m Backstroke
+1,CAN,kylie masse,2:05.42,Tokyo 2020,Swimming,Women's 200m Backstroke
+2,AUS,emily seebohm,2:06.17,Tokyo 2020,Swimming,Women's 200m Backstroke
+3,USA,rhyan elizabeth white,2:06.39,Tokyo 2020,Swimming,Women's 200m Backstroke
+4,USA,phoebe bacon,2:06.40,Tokyo 2020,Swimming,Women's 200m Backstroke
+5,CAN,taylor madison ruck,2:08.24,Tokyo 2020,Swimming,Women's 200m Backstroke
+6,CHN,xuwei peng,2:08.26,Tokyo 2020,Swimming,Women's 200m Backstroke
+7,CHN,yaxin liu,2:08.48,Tokyo 2020,Swimming,Women's 200m Backstroke
+8,ITA,margherita panziera,,Tokyo 2020,Swimming,Women's 200m Backstroke
+9,HUN,katalin burian,,Tokyo 2020,Swimming,Women's 200m Backstroke
+10,MDA,tatiana salcutan,,Tokyo 2020,Swimming,Women's 200m Backstroke
+11,AUT,lena grabowski,,Tokyo 2020,Swimming,Women's 200m Backstroke
+12,ESP,africa zamorano sanz,,Tokyo 2020,Swimming,Women's 200m Backstroke
+13,POL,laura bernat,,Tokyo 2020,Swimming,Women's 200m Backstroke
+14,ISR,aviv barzelay,,Tokyo 2020,Swimming,Women's 200m Backstroke
+15,NED,sharon van rouwendaal,,Tokyo 2020,Swimming,Women's 200m Backstroke
+16,NOR,ingeborg loeyning,,Tokyo 2020,Swimming,Women's 200m Backstroke
+17,KOR,eunji lee,,Tokyo 2020,Swimming,Women's 200m Backstroke
+18,UKR,daryna zevina,,Tokyo 2020,Swimming,Women's 200m Backstroke
+19,HUN,katinka hosszu,,Tokyo 2020,Swimming,Women's 200m Backstroke
+20,GBR,cassie wild,,Tokyo 2020,Swimming,Women's 200m Backstroke
+21,ROC,daria ustinova,,Tokyo 2020,Swimming,Women's 200m Backstroke
+22,ESA,carmen celina marquez orellana,,Tokyo 2020,Swimming,Women's 200m Backstroke
+23,NZL,ali galyer,,Tokyo 2020,Swimming,Women's 200m Backstroke
+24,CZE,simona kubova,,Tokyo 2020,Swimming,Women's 200m Backstroke
+25,SEY,felicity passon,,Tokyo 2020,Swimming,Women's 200m Backstroke
+26,DOM,krystal lara,,Tokyo 2020,Swimming,Women's 200m Backstroke
+0,RSA,tatjana schoenmaker,2:18.95,Tokyo 2020,Swimming,Women's 200m Breaststroke
+1,USA,lilly king,2:19.92,Tokyo 2020,Swimming,Women's 200m Breaststroke
+2,USA,annie lazor,2:20.84,Tokyo 2020,Swimming,Women's 200m Breaststroke
+3,ROC,evgeniia chikunova,2:20.88,Tokyo 2020,Swimming,Women's 200m Breaststroke
+4,RSA,kaylene corbett,2:22.06,Tokyo 2020,Swimming,Women's 200m Breaststroke
+5,GBR,molly renshaw,2:22.65,Tokyo 2020,Swimming,Women's 200m Breaststroke
+6,GBR,abbie wood,2:23.72,Tokyo 2020,Swimming,Women's 200m Breaststroke
+7,BEL,fanny lecluyse,2:24.57,Tokyo 2020,Swimming,Women's 200m Breaststroke
+8,AUS,jenna strauch,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+9,SWE,sophie hansson,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+10,ROC,mariia temnikova,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+11,CHN,jingyao yu,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+12,ESP,jessica vall montero,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+13,SUI,lisa mamie,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+14,ITA,francesca fangio,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+15,AUS,abbey harkin,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+16,JPN,kanako watanabe,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+17,CZE,kristyna horska,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+18,IRL,mona mc sharry,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+19,ITA,martina carraro,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+20,ESP,marina garcia urzainqui,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+21,LTU,kotryna teterevkova,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+22,MEX,byanca rodriguez villanueva,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+23,HUN,eszter bekesi,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+24,BLR,alina zmushka,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+25,EST,eneli jefimova,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+26,ISR,anastasya gorbenko,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+27,ARG,julia sebastian,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+28,SVK,andrea podmanikova,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+29,MAS,jinq en phee,,Tokyo 2020,Swimming,Women's 200m Breaststroke
+30,CAN,kelsey wog,Disqualified,Tokyo 2020,Swimming,Women's 200m Breaststroke
+31,CAN,sydney pickrem,Did not start,Tokyo 2020,Swimming,Women's 200m Breaststroke
+0,CHN,yufei zhang,2:03.86,Tokyo 2020,Swimming,Women's 200m Butterfly
+1,USA,regan smith,2:05.30,Tokyo 2020,Swimming,Women's 200m Butterfly
+2,USA,hali flickinger,2:05.65,Tokyo 2020,Swimming,Women's 200m Butterfly
+3,HUN,boglarka kapas,2:06.53,Tokyo 2020,Swimming,Women's 200m Butterfly
+4,ROC,svetlana chimrova,2:07.70,Tokyo 2020,Swimming,Women's 200m Butterfly
+5,CHN,liyan yu,2:07.85,Tokyo 2020,Swimming,Women's 200m Butterfly
+6,GBR,alys margaret thomas,2:07.90,Tokyo 2020,Swimming,Women's 200m Butterfly
+7,AUS,brianna throssell,2:09.48,Tokyo 2020,Swimming,Women's 200m Butterfly
+8,JPN,suzuka hasegawa,,Tokyo 2020,Swimming,Women's 200m Butterfly
+9,GBR,laura stephens,,Tokyo 2020,Swimming,Women's 200m Butterfly
+10,POR,ana catarina monteiro,,Tokyo 2020,Swimming,Women's 200m Butterfly
+11,DEN,helena bach,,Tokyo 2020,Swimming,Women's 200m Butterfly
+12,GER,franziska hentke,,Tokyo 2020,Swimming,Women's 200m Butterfly
+13,TUR,defne tacyildiz,,Tokyo 2020,Swimming,Women's 200m Butterfly
+14,PHI,remedy rule,,Tokyo 2020,Swimming,Women's 200m Butterfly
+15,HON,julimar avila mancia,,Tokyo 2020,Swimming,Women's 200m Butterfly
+16,HUN,katinka hosszu,Did not start,Tokyo 2020,Swimming,Women's 200m Butterfly
+0,AUS,ariarne titmus,1:53.50,Tokyo 2020,Swimming,Women's 200m Freestyle
+1,HKG,siobhan bernadette haughey,1:53.92,Tokyo 2020,Swimming,Women's 200m Freestyle
+2,CAN,penny oleksiak,1:54.70,Tokyo 2020,Swimming,Women's 200m Freestyle
+3,CHN,junxuan yang,1:55.01,Tokyo 2020,Swimming,Women's 200m Freestyle
+4,USA,katie ledecky,1:55.21,Tokyo 2020,Swimming,Women's 200m Freestyle
+5,CZE,barbora seemanova,1:55.45,Tokyo 2020,Swimming,Women's 200m Freestyle
+6,ITA,federica pellegrini,1:55.91,Tokyo 2020,Swimming,Women's 200m Freestyle
+7,AUS,madison wilson,1:56.39,Tokyo 2020,Swimming,Women's 200m Freestyle
+8,CAN,summer mcintosh,,Tokyo 2020,Swimming,Women's 200m Freestyle
+9,USA,allison schmitt,,Tokyo 2020,Swimming,Women's 200m Freestyle
+10,GER,isabel gose,,Tokyo 2020,Swimming,Women's 200m Freestyle
+11,GBR,freya anderson,,Tokyo 2020,Swimming,Women's 200m Freestyle
+12,FRA,charlotte bonnet,,Tokyo 2020,Swimming,Women's 200m Freestyle
+13,GER,annika bruhn,,Tokyo 2020,Swimming,Women's 200m Freestyle
+14,ROC,valeriia salamatina,,Tokyo 2020,Swimming,Women's 200m Freestyle
+15,NZL,erika fairweather,,Tokyo 2020,Swimming,Women's 200m Freestyle
+16,SLO,janja segel,,Tokyo 2020,Swimming,Women's 200m Freestyle
+17,BAH,joanna evans,,Tokyo 2020,Swimming,Women's 200m Freestyle
+18,ISR,andrea murez,,Tokyo 2020,Swimming,Women's 200m Freestyle
+19,CHN,bingjie li,,Tokyo 2020,Swimming,Women's 200m Freestyle
+20,ROC,veronika andrusenko,,Tokyo 2020,Swimming,Women's 200m Freestyle
+21,ISL,snaefridur sol jorunnardottir,,Tokyo 2020,Swimming,Women's 200m Freestyle
+22,CUB,elisbet gamez matos,,Tokyo 2020,Swimming,Women's 200m Freestyle
+23,LAT,ieva maluka,,Tokyo 2020,Swimming,Women's 200m Freestyle
+24,CRC,beatriz padron,,Tokyo 2020,Swimming,Women's 200m Freestyle
+25,VIE,vien nguyen thi anh,,Tokyo 2020,Swimming,Women's 200m Freestyle
+26,GUA,maria santis,,Tokyo 2020,Swimming,Women's 200m Freestyle
+27,MAR,lina khiyara,,Tokyo 2020,Swimming,Women's 200m Freestyle
+28,LBN,gabriella doueihy,,Tokyo 2020,Swimming,Women's 200m Freestyle
+0,JPN,yui ohashi,2:08.52,Tokyo 2020,Swimming,Women's 200m Individual Medley
+1,USA,alex walsh,2:08.65,Tokyo 2020,Swimming,Women's 200m Individual Medley
+2,USA,kate douglass,2:09.04,Tokyo 2020,Swimming,Women's 200m Individual Medley
+3,GBR,abbie wood,2:09.15,Tokyo 2020,Swimming,Women's 200m Individual Medley
+4,CHN,yiting yu,2:09.57,Tokyo 2020,Swimming,Women's 200m Individual Medley
+5,CAN,sydney pickrem,2:10.05,Tokyo 2020,Swimming,Women's 200m Individual Medley
+6,HUN,katinka hosszu,2:12.38,Tokyo 2020,Swimming,Women's 200m Individual Medley
+7,GBR,alicia wilson,2:12.86,Tokyo 2020,Swimming,Women's 200m Individual Medley
+8,SUI,maria ugolkova,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+9,ISR,anastasya gorbenko,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+10,FRA,cyrielle duhamel,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+11,KOR,seoyeong kim,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+12,ITA,sara franceschi,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+13,ITA,ilaria cusinato,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+14,JPN,miho teramura,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+15,CZE,kristyna horska,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+16,HUN,dalma sebestyen,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+17,CAN,bailey andison,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+18,IRL,ellen walshe,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+19,ESP,africa zamorano sanz,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+20,FRA,fantine lesaffre,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+21,TUR,viktoria zeynep gunes,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+22,RSA,rebecca meder,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+23,PER,mckenna de bever elliot,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+24,BUL,diana petkova,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+25,SRB,anja crevar,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+26,URU,nicole frank,,Tokyo 2020,Swimming,Women's 200m Individual Medley
+0,,,3:29.69,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+1,,,3:32.78,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+2,,,3:32.81,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+3,,,3:33.70,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+4,,,3:33.96,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+5,,,3:34.69,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+6,,,3:34.76,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+7,,,3:35.70,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+8,,,,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+9,,,,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+10,,,,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+11,,,,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+12,,,,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+13,,,,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+14,,,,Tokyo 2020,Swimming,Women's 4 x 100m Freestyle Relay
+0,,,3:51.60,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+1,,,3:51.73,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+2,,,3:52.60,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+3,,,3:54.13,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+4,,,3:54.27,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+5,,,3:56.68,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+6,,,3:56.93,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+7,,,3:58.12,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+8,,,,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+9,,,,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+10,,,,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+11,,,,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+12,,,,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+13,,,,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+14,,,,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+15,,,,Tokyo 2020,Swimming,Women's 4 x 100m Medley Relay
+0,,,7:40.33,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+1,,,7:40.73,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+2,,,7:41.29,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+3,,,7:43.77,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+4,,,7:52.15,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+5,,,7:53.89,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+6,,,7:56.62,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+7,,,7:58.15,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+8,,,,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+9,,,,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+10,,,,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+11,,,,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+12,,,,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+13,,,,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+14,,,Did not start,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+15,,,Disqualified,Tokyo 2020,Swimming,Women's 4 x 200m Freestyle Relay
+0,AUS,ariarne titmus,3:56.69,Tokyo 2020,Swimming,Women's 400m Freestyle
+1,USA,katie ledecky,3:57.36,Tokyo 2020,Swimming,Women's 400m Freestyle
+2,CHN,bingjie li,4:01.08,Tokyo 2020,Swimming,Women's 400m Freestyle
+3,CAN,summer mcintosh,4:02.42,Tokyo 2020,Swimming,Women's 400m Freestyle
+4,CHN,muhan tang,4:04.10,Tokyo 2020,Swimming,Women's 400m Freestyle
+5,GER,isabel gose,4:04.98,Tokyo 2020,Swimming,Women's 400m Freestyle
+6,USA,paige madden,4:06.81,Tokyo 2020,Swimming,Women's 400m Freestyle
+7,NZL,erika fairweather,4:08.01,Tokyo 2020,Swimming,Women's 400m Freestyle
+8,AUS,tamsin cook,,Tokyo 2020,Swimming,Women's 400m Freestyle
+9,HUN,ajna kesely,,Tokyo 2020,Swimming,Women's 400m Freestyle
+10,JPN,waka kobori,,Tokyo 2020,Swimming,Women's 400m Freestyle
+11,LIE,julia hassler,,Tokyo 2020,Swimming,Women's 400m Freestyle
+12,BAH,joanna evans,,Tokyo 2020,Swimming,Women's 400m Freestyle
+13,ROC,anastasiia kirpichnikova,,Tokyo 2020,Swimming,Women's 400m Freestyle
+14,ROC,anna egorova,,Tokyo 2020,Swimming,Women's 400m Freestyle
+15,TUR,beril bocekler,,Tokyo 2020,Swimming,Women's 400m Freestyle
+16,AUT,marlene kahler,,Tokyo 2020,Swimming,Women's 400m Freestyle
+17,GER,leonie kullmann,,Tokyo 2020,Swimming,Women's 400m Freestyle
+18,TUR,merve tuncel,,Tokyo 2020,Swimming,Women's 400m Freestyle
+19,JPN,miyu namba,,Tokyo 2020,Swimming,Women's 400m Freestyle
+20,KOR,dakyung han,,Tokyo 2020,Swimming,Women's 400m Freestyle
+21,MLT,sasha gatt,,Tokyo 2020,Swimming,Women's 400m Freestyle
+22,MAD,tiana rabarijaona,,Tokyo 2020,Swimming,Women's 400m Freestyle
+23,KOS,eda zeqiri,,Tokyo 2020,Swimming,Women's 400m Freestyle
+24,CIV,talita marie te flan,,Tokyo 2020,Swimming,Women's 400m Freestyle
+25,ISV,natalia jean kuipers,,Tokyo 2020,Swimming,Women's 400m Freestyle
+0,JPN,yui ohashi,4:32.08,Tokyo 2020,Swimming,Women's 400m Individual Medley
+1,USA,emma weyant,4:32.76,Tokyo 2020,Swimming,Women's 400m Individual Medley
+2,USA,hali flickinger,4:34.90,Tokyo 2020,Swimming,Women's 400m Individual Medley
+3,ESP,mireia belmonte,4:35.13,Tokyo 2020,Swimming,Women's 400m Individual Medley
+4,HUN,katinka hosszu,4:35.98,Tokyo 2020,Swimming,Women's 400m Individual Medley
+5,HUN,viktoria mihalyvari-farkas,4:37.75,Tokyo 2020,Swimming,Women's 400m Individual Medley
+6,GBR,aimee willmott,4:38.30,Tokyo 2020,Swimming,Women's 400m Individual Medley
+7,ITA,ilaria cusinato,4:40.65,Tokyo 2020,Swimming,Women's 400m Individual Medley
+8,ITA,sara franceschi,,Tokyo 2020,Swimming,Women's 400m Individual Medley
+9,SRB,anja crevar,,Tokyo 2020,Swimming,Women's 400m Individual Medley
+10,CHN,yiting yu,,Tokyo 2020,Swimming,Women's 400m Individual Medley
+11,JPN,ageha tanigawa,,Tokyo 2020,Swimming,Women's 400m Individual Medley
+12,FRA,fantine lesaffre,,Tokyo 2020,Swimming,Women's 400m Individual Medley
+13,CAN,tessa cieplucha,,Tokyo 2020,Swimming,Women's 400m Individual Medley
+14,SLO,katja fain,,Tokyo 2020,Swimming,Women's 400m Individual Medley
+15,INA,azzahra permatahani,,Tokyo 2020,Swimming,Women's 400m Individual Medley
+16,ARG,virginia bardach martin,,Tokyo 2020,Swimming,Women's 400m Individual Medley
+17,CAN,sydney pickrem,Did not start,Tokyo 2020,Swimming,Women's 400m Individual Medley
+0,AUS,emma mckeon,23.81,Tokyo 2020,Swimming,Women's 50m Freestyle
+1,SWE,sarah sjoestroem,24.07,Tokyo 2020,Swimming,Women's 50m Freestyle
+2,DEN,pernille blume,24.21,Tokyo 2020,Swimming,Women's 50m Freestyle
+3,NED,ranomi kromowidjojo,24.30,Tokyo 2020,Swimming,Women's 50m Freestyle
+4,POL,katarzyna wasick,24.32,Tokyo 2020,Swimming,Women's 50m Freestyle
+5,CHN,qingfeng wu,24.32,Tokyo 2020,Swimming,Women's 50m Freestyle
+6,AUS,cate campbell,24.36,Tokyo 2020,Swimming,Women's 50m Freestyle
+7,USA,abbey weitzeil,24.41,Tokyo 2020,Swimming,Women's 50m Freestyle
+8,CHN,yufei zhang,,Tokyo 2020,Swimming,Women's 50m Freestyle
+9,ROC,arina surkova,,Tokyo 2020,Swimming,Women's 50m Freestyle
+10,FRA,melanie henique,,Tokyo 2020,Swimming,Women's 50m Freestyle
+11,USA,simone manuel,,Tokyo 2020,Swimming,Women's 50m Freestyle
+12,RSA,emma chelius,,Tokyo 2020,Swimming,Women's 50m Freestyle
+13,FRA,marie wattel,,Tokyo 2020,Swimming,Women's 50m Freestyle
+14,FIN,fanny teijonsalo,,Tokyo 2020,Swimming,Women's 50m Freestyle
+15,HKG,siobhan bernadette haughey,,Tokyo 2020,Swimming,Women's 50m Freestyle
+16,DEN,julie kepp jensen,,Tokyo 2020,Swimming,Women's 50m Freestyle
+17,NED,femke heemskerk,,Tokyo 2020,Swimming,Women's 50m Freestyle
+18,ROC,mariia kameneva,,Tokyo 2020,Swimming,Women's 50m Freestyle
+19,SWE,michelle coleman,,Tokyo 2020,Swimming,Women's 50m Freestyle
+20,CZE,barbora seemanova,,Tokyo 2020,Swimming,Women's 50m Freestyle
+21,CAN,kayla sanchez,,Tokyo 2020,Swimming,Women's 50m Freestyle
+22,ESP,lidon munoz del campo,,Tokyo 2020,Swimming,Women's 50m Freestyle
+23,EGY,farida osman,,Tokyo 2020,Swimming,Women's 50m Freestyle
+24,ECU,anicka delgado,,Tokyo 2020,Swimming,Women's 50m Freestyle
+25,LUX,julie meynen,,Tokyo 2020,Swimming,Women's 50m Freestyle
+26,COL,isabella arcila,,Tokyo 2020,Swimming,Women's 50m Freestyle
+27,CYP,kalia antoniou,,Tokyo 2020,Swimming,Women's 50m Freestyle
+28,BRA,etiene medeiros,,Tokyo 2020,Swimming,Women's 50m Freestyle
+29,ISR,andrea murez,,Tokyo 2020,Swimming,Women's 50m Freestyle
+30,ROU,bianca-andreea costea,,Tokyo 2020,Swimming,Women's 50m Freestyle
+31,VEN,jererik pinto,,Tokyo 2020,Swimming,Women's 50m Freestyle
+32,IRL,danielle hill,,Tokyo 2020,Swimming,Women's 50m Freestyle
+33,IVB,elinah phillip,,Tokyo 2020,Swimming,Women's 50m Freestyle
+34,ALG,amel melih,,Tokyo 2020,Swimming,Women's 50m Freestyle
+35,BOL,karen torrez,,Tokyo 2020,Swimming,Women's 50m Freestyle
+36,THA,jenjira srisa - ard,,Tokyo 2020,Swimming,Women's 50m Freestyle
+37,TPE,mei-chien huang,,Tokyo 2020,Swimming,Women's 50m Freestyle
+38,ARU,allyson ponson,,Tokyo 2020,Swimming,Women's 50m Freestyle
+39,SGP,ting wen quah,,Tokyo 2020,Swimming,Women's 50m Freestyle
+40,TTO,cherelle thompson,,Tokyo 2020,Swimming,Women's 50m Freestyle
+41,ALB,nikol merizaj,,Tokyo 2020,Swimming,Women's 50m Freestyle
+42,KEN,emily muteti,,Tokyo 2020,Swimming,Women's 50m Freestyle
+43,CMR,norah elisabeth milanesi,,Tokyo 2020,Swimming,Women's 50m Freestyle
+44,JOR,talita baqlah,,Tokyo 2020,Swimming,Women's 50m Freestyle
+45,CRO,ema rajic,,Tokyo 2020,Swimming,Women's 50m Freestyle
+46,UGA,kirabo namutebi,,Tokyo 2020,Swimming,Women's 50m Freestyle
+47,UZB,natalya kritinina,,Tokyo 2020,Swimming,Women's 50m Freestyle
+48,LCA,mikaili charlemagne,,Tokyo 2020,Swimming,Women's 50m Freestyle
+49,FIJ,cheyenne rova,,Tokyo 2020,Swimming,Women's 50m Freestyle
+50,MGL,enkhkhuslen batbayar,,Tokyo 2020,Swimming,Women's 50m Freestyle
+51,ZAM,tilka paljk,,Tokyo 2020,Swimming,Women's 50m Freestyle
+52,PNG,judith meauri,,Tokyo 2020,Swimming,Women's 50m Freestyle
+53,ANT,samantha roberts,,Tokyo 2020,Swimming,Women's 50m Freestyle
+54,GUY,aleka persaud,,Tokyo 2020,Swimming,Women's 50m Freestyle
+55,PAK,bisma khan,,Tokyo 2020,Swimming,Women's 50m Freestyle
+56,GHA,unilez takyi,,Tokyo 2020,Swimming,Women's 50m Freestyle
+57,BUR,angelika sita ouedraogo,,Tokyo 2020,Swimming,Women's 50m Freestyle
+58,VIN,mya de freitas,,Tokyo 2020,Swimming,Women's 50m Freestyle
+59,BRN,noor yusuf abdulla,,Tokyo 2020,Swimming,Women's 50m Freestyle
+60,MAW,jessica makwenda,,Tokyo 2020,Swimming,Women's 50m Freestyle
+61,TJK,anastasiya tyurina,,Tokyo 2020,Swimming,Women's 50m Freestyle
+62,TGA,noelani malia day,,Tokyo 2020,Swimming,Women's 50m Freestyle
+63,LAO,siri arun budcharern,,Tokyo 2020,Swimming,Women's 50m Freestyle
+64,CAM,bunpichmorakat kheun,,Tokyo 2020,Swimming,Women's 50m Freestyle
+65,MOZ,alicia mateus,,Tokyo 2020,Swimming,Women's 50m Freestyle
+66,KUW,lara dashti,,Tokyo 2020,Swimming,Women's 50m Freestyle
+67,BAN,junayna ahmed,,Tokyo 2020,Swimming,Women's 50m Freestyle
+68,BEN,nafissath radji,,Tokyo 2020,Swimming,Women's 50m Freestyle
+69,SWZ,robyn young,,Tokyo 2020,Swimming,Women's 50m Freestyle
+70,PLE,dania nour,,Tokyo 2020,Swimming,Women's 50m Freestyle
+71,RWA,alphonsine agahozo,,Tokyo 2020,Swimming,Women's 50m Freestyle
+72,PLW,osisang chilton,,Tokyo 2020,Swimming,Women's 50m Freestyle
+73,SLE,tity dumbuya,,Tokyo 2020,Swimming,Women's 50m Freestyle
+74,CAF,chloe sauvourel,,Tokyo 2020,Swimming,Women's 50m Freestyle
+75,NIG,roukaya moussa mahamane,,Tokyo 2020,Swimming,Women's 50m Freestyle
+76,GAB,aya girard de langlade mpali,,Tokyo 2020,Swimming,Women's 50m Freestyle
+77,TLS,imelda ximenes belo,,Tokyo 2020,Swimming,Women's 50m Freestyle
+78,BDI,odrina kaze,,Tokyo 2020,Swimming,Women's 50m Freestyle
+79,SUD,haneen ibrahim,,Tokyo 2020,Swimming,Women's 50m Freestyle
+80,CGO,stefan bellore sangala,,Tokyo 2020,Swimming,Women's 50m Freestyle
+81,QAT,nada arakji,Did not start,Tokyo 2020,Swimming,Women's 50m Freestyle
+82,GBR,anna hopkin,Did not start,Tokyo 2020,Swimming,Women's 50m Freestyle
+0,USA,katie ledecky,8:12.57,Tokyo 2020,Swimming,Women's 800m Freestyle
+1,AUS,ariarne titmus,8:13.83,Tokyo 2020,Swimming,Women's 800m Freestyle
+2,ITA,simona quadarella,8:18.35,Tokyo 2020,Swimming,Women's 800m Freestyle
+3,USA,katie grimes,8:19.38,Tokyo 2020,Swimming,Women's 800m Freestyle
+4,CHN,jianjiahe wang,8:21.93,Tokyo 2020,Swimming,Women's 800m Freestyle
+5,AUS,kiah melverton,8:22.25,Tokyo 2020,Swimming,Women's 800m Freestyle
+6,GER,sarah kohler,8:24.56,Tokyo 2020,Swimming,Women's 800m Freestyle
+7,ROC,anastasiia kirpichnikova,8:26.30,Tokyo 2020,Swimming,Women's 800m Freestyle
+8,GER,isabel gose,,Tokyo 2020,Swimming,Women's 800m Freestyle
+9,CHN,bingjie li,,Tokyo 2020,Swimming,Women's 800m Freestyle
+10,CAN,summer mcintosh,,Tokyo 2020,Swimming,Women's 800m Freestyle
+11,TUR,merve tuncel,,Tokyo 2020,Swimming,Women's 800m Freestyle
+12,HUN,ajna kesely,,Tokyo 2020,Swimming,Women's 800m Freestyle
+13,ESP,mireia belmonte,,Tokyo 2020,Swimming,Women's 800m Freestyle
+14,LIE,julia hassler,,Tokyo 2020,Swimming,Women's 800m Freestyle
+15,JPN,waka kobori,,Tokyo 2020,Swimming,Women's 800m Freestyle
+16,JPN,miyu namba,,Tokyo 2020,Swimming,Women's 800m Freestyle
+17,NZL,eve thomas,,Tokyo 2020,Swimming,Women's 800m Freestyle
+18,CHI,kristel kobrich,,Tokyo 2020,Swimming,Women's 800m Freestyle
+19,ITA,martina rita caramignoli,,Tokyo 2020,Swimming,Women's 800m Freestyle
+20,ESP,jimena perez blanco,,Tokyo 2020,Swimming,Women's 800m Freestyle
+21,AUT,marlene kahler,,Tokyo 2020,Swimming,Women's 800m Freestyle
+22,TUR,deniz ertan,,Tokyo 2020,Swimming,Women's 800m Freestyle
+23,BRA,viviane eichelbeger jungblut,,Tokyo 2020,Swimming,Women's 800m Freestyle
+24,POR,tamila holub,,Tokyo 2020,Swimming,Women's 800m Freestyle
+25,SLO,katja fain,,Tokyo 2020,Swimming,Women's 800m Freestyle
+26,ARG,delfina pignatiello,,Tokyo 2020,Swimming,Women's 800m Freestyle
+27,KOR,dakyung han,,Tokyo 2020,Swimming,Women's 800m Freestyle
+28,SMR,arianna valloni,,Tokyo 2020,Swimming,Women's 800m Freestyle
+29,VIE,vien nguyen thi anh,,Tokyo 2020,Swimming,Women's 800m Freestyle
+30,ROC,anna egorova,Did not start,Tokyo 2020,Swimming,Women's 800m Freestyle

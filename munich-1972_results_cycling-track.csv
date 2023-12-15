@@ -1,0 +1,69 @@
+,country,participant,result,olympic_game,discipline,event
+0,DEN,niels christian fredborg,00:01:06.440,Munich 1972,Cycling Track,1km time trial men
+1,AUS,daniel clark,00:01:06.870,Munich 1972,Cycling Track,1km time trial men
+2,GDR,jürgen schütze,00:01:07.020,Munich 1972,Cycling Track,1km time trial men
+3,FRG,karl köther,00:01:07.210,Munich 1972,Cycling Track,1km time trial men
+4,POL,janusz kierzkowski,00:01:07.220,Munich 1972,Cycling Track,1km time trial men
+5,BUL,dimo angelov tontchev,00:01:07.550,Munich 1972,Cycling Track,1km time trial men
+6,SUI,christian brunner,00:01:07.710,Munich 1972,Cycling Track,1km time trial men
+7,URS,eduard rapp,00:01:07.730,Munich 1972,Cycling Track,1km time trial men
+8,ITA,ezio cardi,00:01:07.800,Munich 1972,Cycling Track,1km time trial men
+9,FRA,pierre trentin,00:01:07.850,Munich 1972,Cycling Track,1km time trial men
+10,NED,pieter van doorn,00:01:08.090,Munich 1972,Cycling Track,1km time trial men
+11,USA,stephen jon woznick,00:01:08.560,Munich 1972,Cycling Track,1km time trial men
+12,TCH,anton tkac,00:01:08.780,Munich 1972,Cycling Track,1km time trial men
+13,BEL,robert maveau,00:01:08.940,Munich 1972,Cycling Track,1km time trial men
+14,CAN,jocelyn charles lovell,00:01:09.030,Munich 1972,Cycling Track,1km time trial men
+15,NZL,harry kent,00:01:09.100,Munich 1972,Cycling Track,1km time trial men
+16,GBR,michael john bennett,00:01:09.450,Munich 1972,Cycling Track,1km time trial men
+17,NOR,harald bundli,00:01:09.720,Munich 1972,Cycling Track,1km time trial men
+18,TTO,leslie king,00:01:09.960,Munich 1972,Cycling Track,1km time trial men
+19,JPN,takafumi matsuda,00:01:10.000,Munich 1972,Cycling Track,1km time trial men
+20,ARG,amador fernando gimenes,00:01:10.300,Munich 1972,Cycling Track,1km time trial men
+21,GUY,neville hunte,00:01:10.480,Munich 1972,Cycling Track,1km time trial men
+22,COL,jairo rodriguez,00:01:10.860,Munich 1972,Cycling Track,1km time trial men
+23,MEX,arturo cambroni,00:01:11.540,Munich 1972,Cycling Track,1km time trial men
+24,THA,suriya chiarasapawong,00:01:12.530,Munich 1972,Cycling Track,1km time trial men
+25,JAM,howard fenton,00:01:12.640,Munich 1972,Cycling Track,1km time trial men
+26,TPE,ming-fa shue,00:01:14.050,Munich 1972,Cycling Track,1km time trial men
+27,IRI,behrouz rahbar,00:01:15.390,Munich 1972,Cycling Track,1km time trial men
+28,MAS,daud ibrahim,00:01:16.270,Munich 1972,Cycling Track,1km time trial men
+29,BAH,laurence burnside,00:01:20.310,Munich 1972,Cycling Track,1km time trial men
+30,BAR,hector edwards,Did not finish,Munich 1972,Cycling Track,1km time trial men
+0,URS,igor tselovalnikov,,Munich 1972,Cycling Track,2000m tandem men
+1,GDR,hans-jürgen geschke,,Munich 1972,Cycling Track,2000m tandem men
+2,POL,andrzej bek,2,Munich 1972,Cycling Track,2000m tandem men
+3,FRA,pierre trentin,0,Munich 1972,Cycling Track,2000m tandem men
+4,BEL,noel soetart,,Munich 1972,Cycling Track,2000m tandem men
+5,FRG,jurgen barth,,Munich 1972,Cycling Track,2000m tandem men
+6,NED,pieter van doorn,,Munich 1972,Cycling Track,2000m tandem men
+7,TCH,ivan kucirek,,Munich 1972,Cycling Track,2000m tandem men
+8,ITA,giorgio rossi,,Munich 1972,Cycling Track,2000m tandem men
+9,GBR,geoffrey cooke,,Munich 1972,Cycling Track,2000m tandem men
+10,JPN,yoshikazu cho,Did not finish,Munich 1972,Cycling Track,2000m tandem men
+0,NOR,knut knudsen,,Munich 1972,Cycling Track,Individual Pursuit men
+1,SUI,xaver kurmann,,Munich 1972,Cycling Track,Individual Pursuit men
+2,FRG,hans lutz,00:04:50.800,Munich 1972,Cycling Track,Individual Pursuit men
+3,AUS,john christopher bylsma,00:04:54.930,Munich 1972,Cycling Track,Individual Pursuit men
+4,ARG,carlos miguel álvarez,,Munich 1972,Cycling Track,Individual Pursuit men
+5,ITA,luciano borgognoni,,Munich 1972,Cycling Track,Individual Pursuit men
+6,COL,luis h. diaz,,Munich 1972,Cycling Track,Individual Pursuit men
+7,NED,rob (roy) schuiten,,Munich 1972,Cycling Track,Individual Pursuit men
+0,FRA,daniel morelon,,Munich 1972,Cycling Track,Sprint individual men
+1,AUS,john michael nicholson,,Munich 1972,Cycling Track,Sprint individual men
+2,URS,omar pkhakadze,2,Munich 1972,Cycling Track,Sprint individual men
+3,NED,klaas cornelis h. balk,1,Munich 1972,Cycling Track,Sprint individual men
+4,DEN,niels christian fredborg,,Munich 1972,Cycling Track,Sprint individual men
+5,GDR,hans-jürgen geschke,,Munich 1972,Cycling Track,Sprint individual men
+6,ITA,massimo marino,,Munich 1972,Cycling Track,Sprint individual men
+7,NED,pieter van doorn,,Munich 1972,Cycling Track,Sprint individual men
+8,BEL,manu snelinx,Disqualified,Munich 1972,Cycling Track,Sprint individual men
+9,ARG,victor juan limba,Disqualified,Munich 1972,Cycling Track,Sprint individual men
+0,,,,Munich 1972,Cycling Track,Team Pursuit 4000m men
+1,,,,Munich 1972,Cycling Track,Team Pursuit 4000m men
+2,,,00:04:23.780,Munich 1972,Cycling Track,Team Pursuit 4000m men
+3,,,00:04:26.060,Munich 1972,Cycling Track,Team Pursuit 4000m men
+4,,,,Munich 1972,Cycling Track,Team Pursuit 4000m men
+5,,,,Munich 1972,Cycling Track,Team Pursuit 4000m men
+6,,,,Munich 1972,Cycling Track,Team Pursuit 4000m men
+7,,,,Munich 1972,Cycling Track,Team Pursuit 4000m men

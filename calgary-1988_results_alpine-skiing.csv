@@ -1,0 +1,692 @@
+,country,participant,result,olympic_game,discipline,event
+0,AUT,hubert strolz,36.55,Calgary 1988,Alpine Skiing,alpine combined men
+1,AUT,bernhard gstrein,43.45,Calgary 1988,Alpine Skiing,alpine combined men
+2,SUI,paul accola,48.24,Calgary 1988,Alpine Skiing,alpine combined men
+3,FRA,luc alphand,57.73,Calgary 1988,Alpine Skiing,alpine combined men
+4,TCH,peter jurko,58.56,Calgary 1988,Alpine Skiing,alpine combined men
+5,FRA,jean-luc cretier,62.98,Calgary 1988,Alpine Skiing,alpine combined men
+6,FRG,markus wasmeier,65.44,Calgary 1988,Alpine Skiing,alpine combined men
+7,TCH,adrian bires,68.50,Calgary 1988,Alpine Skiing,alpine combined men
+8,NOR,finn christian jagge,95.21,Calgary 1988,Alpine Skiing,alpine combined men
+9,SWE,niklas eric henning,96.25,Calgary 1988,Alpine Skiing,alpine combined men
+10,FRG,armin bittner,99.65,Calgary 1988,Alpine Skiing,alpine combined men
+11,FRA,christophe ple,103.12,Calgary 1988,Alpine Skiing,alpine combined men
+12,AUT,thomas stangassinger,107.87,Calgary 1988,Alpine Skiing,alpine combined men
+13,LIE,gregor hoop,114.62,Calgary 1988,Alpine Skiing,alpine combined men
+14,SUI,bernhard fahner,120.45,Calgary 1988,Alpine Skiing,alpine combined men
+15,LIE,paul frommelt,122.12,Calgary 1988,Alpine Skiing,alpine combined men
+16,FRG,peter dürr,123.92,Calgary 1988,Alpine Skiing,alpine combined men
+17,ITA,oswald tötsch,134.14,Calgary 1988,Alpine Skiing,alpine combined men
+18,CAN,donald stevens,135.81,Calgary 1988,Alpine Skiing,alpine combined men
+19,LIE,robert büchel,136.70,Calgary 1988,Alpine Skiing,alpine combined men
+20,JPN,katsuhito kumagai,144.65,Calgary 1988,Alpine Skiing,alpine combined men
+21,FRG,hannes zehentner,197.87,Calgary 1988,Alpine Skiing,alpine combined men
+22,CHI,juan pablo santiagos,224.20,Calgary 1988,Alpine Skiing,alpine combined men
+23,ARG,jorge r. birkner,243.99,Calgary 1988,Alpine Skiing,alpine combined men
+24,GRE,ioannis stamatiou,347.41,Calgary 1988,Alpine Skiing,alpine combined men
+25,GBR,martin bell,422.79,Calgary 1988,Alpine Skiing,alpine combined men
+26,SUI,pirmin zurbriggen,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+27,SWE,niklas lindqvist,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+28,USA,alva kitt,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+29,CHI,paulo oppliger,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+30,FRA,franck piccard,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+31,CAN,felix belczyk,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+32,SWE,lars-börje eriksson,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+33,AUT,günther mader,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+34,GBR,graham bell,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+35,SUI,martin hangl,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+36,USA,felix mcgrath,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+37,URS,sergey petrik,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+38,URS,konstantin chistyakov,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+39,MEX,hubertus von hohenlohe,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+40,ARG,javier rivara,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+41,LIE,silvio wille,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+42,NZL,simon wi rutene,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+43,CHI,nils linneberg,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+44,CAN,michael carney,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+45,USA,bill hudson,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+46,USA,jeff olson,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+47,CAN,robert boyd,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+48,AUS,peter forras,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+49,AUS,steven john lee,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+50,ITA,danilo sbardellotto,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+51,NOR,atle skaardal,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+52,ITA,igor cigolla,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+53,NOR,jan einar thorsen,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+54,GBR,ronald duncan,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+55,CHI,dieter linneberger,Did not finish,Calgary 1988,Alpine Skiing,alpine combined men
+56,LUX,marc girardelli,Did not start,Calgary 1988,Alpine Skiing,alpine combined men
+0,AUT,anita wachter,29.25,Calgary 1988,Alpine Skiing,alpine combined women
+1,SUI,brigitte oertli,29.48,Calgary 1988,Alpine Skiing,alpine combined women
+2,SUI,maria walliser,51.28,Calgary 1988,Alpine Skiing,alpine combined women
+3,CAN,karen percy,54.47,Calgary 1988,Alpine Skiing,alpine combined women
+4,TCH,lenka kebrlova,60.87,Calgary 1988,Alpine Skiing,alpine combined women
+5,TCH,lucia medzihradska,63.56,Calgary 1988,Alpine Skiing,alpine combined women
+6,CAN,michelle ruthven,64.85,Calgary 1988,Alpine Skiing,alpine combined women
+7,CAN,kerrin lee-gartner,65.26,Calgary 1988,Alpine Skiing,alpine combined women
+8,FRG,ulrike stanggassinger,71.51,Calgary 1988,Alpine Skiing,alpine combined women
+9,ITA,michaela marzola,85.34,Calgary 1988,Alpine Skiing,alpine combined women
+10,AUT,petra kronberger,88.01,Calgary 1988,Alpine Skiing,alpine combined women
+11,AUT,sylvia eder,92.86,Calgary 1988,Alpine Skiing,alpine combined women
+12,CAN,nancy gee,103.86,Calgary 1988,Alpine Skiing,alpine combined women
+13,FRG,karin dedler,105.18,Calgary 1988,Alpine Skiing,alpine combined women
+14,USA,beth madsen,108.64,Calgary 1988,Alpine Skiing,alpine combined women
+15,LIE,jolanda kindle,112.72,Calgary 1988,Alpine Skiing,alpine combined women
+16,USA,kristin krone,114.81,Calgary 1988,Alpine Skiing,alpine combined women
+17,LIE,jacqueline vogt,130.22,Calgary 1988,Alpine Skiing,alpine combined women
+18,GBR,wendy lumby,138.06,Calgary 1988,Alpine Skiing,alpine combined women
+19,JPN,sachiko yamamoto,139.01,Calgary 1988,Alpine Skiing,alpine combined women
+20,ROU,mihaela fera,141.75,Calgary 1988,Alpine Skiing,alpine combined women
+21,FRA,pascaline freiher,151.93,Calgary 1988,Alpine Skiing,alpine combined women
+22,USA,hilary lindh,164.57,Calgary 1988,Alpine Skiing,alpine combined women
+23,ARG,carolina eiras,248.10,Calgary 1988,Alpine Skiing,alpine combined women
+24,ARG,carolina birkner,255.95,Calgary 1988,Alpine Skiing,alpine combined women
+25,ARG,mariela vallecillo,352.72,Calgary 1988,Alpine Skiing,alpine combined women
+26,FRA,carole merle,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+27,SUI,vreni schneider,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+28,JPN,emi kawabata,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+29,USA,edith thys,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+30,FRG,christa kinshofer guethlein,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+31,GBR,clare booth,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+32,ARG,astrid steverlynck,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+33,AUT,ulrike maier,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+34,TCH,ludmila milanova,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+35,FRA,claudine emonet,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+36,URS,golnur postnikova,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+37,SUI,beatrice gafner,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+38,FRG,michaela gerg-leitner,Did not finish,Calgary 1988,Alpine Skiing,alpine combined women
+39,GBR,ingrid grant,Did not start,Calgary 1988,Alpine Skiing,alpine combined women
+0,SUI,pirmin zurbriggen,00:01:59.630,Calgary 1988,Alpine Skiing,downhill men
+1,SUI,peter müller,00:02:00.140,Calgary 1988,Alpine Skiing,downhill men
+2,FRA,franck piccard,00:02:01.240,Calgary 1988,Alpine Skiing,downhill men
+3,AUT,leonhard stock,00:02:01.560,Calgary 1988,Alpine Skiing,downhill men
+4,AUT,gerhard pfaffenbichler,00:02:02.020,Calgary 1988,Alpine Skiing,downhill men
+5,FRG,markus wasmeier,00:02:02.030,Calgary 1988,Alpine Skiing,downhill men
+6,AUT,anton steiner,00:02:02.190,Calgary 1988,Alpine Skiing,downhill men
+7,GBR,martin bell,00:02:02.490,Calgary 1988,Alpine Skiing,downhill men
+8,LUX,marc girardelli,00:02:02.590,Calgary 1988,Alpine Skiing,downhill men
+9,ITA,danilo sbardellotto,00:02:02.690,Calgary 1988,Alpine Skiing,downhill men
+10,JPN,shinya chiba,00:02:03.160,Calgary 1988,Alpine Skiing,downhill men
+11,SUI,daniel mahrer,00:02:03.180,Calgary 1988,Alpine Skiing,downhill men
+12,FRG,hannes zehentner,00:02:03.230,Calgary 1988,Alpine Skiing,downhill men
+13,CAN,michael carney,00:02:03.250,Calgary 1988,Alpine Skiing,downhill men
+14,NOR,atle skaardal,00:02:03.260,Calgary 1988,Alpine Skiing,downhill men
+15,CAN,robert boyd,00:02:03.270,Calgary 1988,Alpine Skiing,downhill men
+16,SUI,franz heinzer,00:02:03.360,Calgary 1988,Alpine Skiing,downhill men
+17,CAN,felix belczyk,00:02:03.590,Calgary 1988,Alpine Skiing,downhill men
+18,AUT,günther mader,00:02:03.960,Calgary 1988,Alpine Skiing,downhill men
+19,FRG,hansjörg tauscher,00:02:04.310,Calgary 1988,Alpine Skiing,downhill men
+20,FRG,peter dürr,00:02:04.320,Calgary 1988,Alpine Skiing,downhill men
+21,AUS,steven john lee,00:02:04.460,Calgary 1988,Alpine Skiing,downhill men
+22,GBR,graham bell,00:02:04.560,Calgary 1988,Alpine Skiing,downhill men
+23,NOR,jan einar thorsen,00:02:04.770,Calgary 1988,Alpine Skiing,downhill men
+24,FRA,christophe ple,00:02:04.780,Calgary 1988,Alpine Skiing,downhill men
+25,USA,alva kitt,00:02:04.940,Calgary 1988,Alpine Skiing,downhill men
+26,SWE,lars-börje eriksson,00:02:05.020,Calgary 1988,Alpine Skiing,downhill men
+27,USA,jeff olson,00:02:05.090,Calgary 1988,Alpine Skiing,downhill men
+28,TCH,peter jurko,00:02:05.320,Calgary 1988,Alpine Skiing,downhill men
+29,SWE,niklas eric henning,00:02:05.520,Calgary 1988,Alpine Skiing,downhill men
+30,ITA,igor cigolla,00:02:05.850,Calgary 1988,Alpine Skiing,downhill men
+31,USA,douglas g. lewis,00:02:06.250,Calgary 1988,Alpine Skiing,downhill men
+32,TCH,adrian bires,00:02:06.340,Calgary 1988,Alpine Skiing,downhill men
+33,JPN,katsuhito kumagai,00:02:07.170,Calgary 1988,Alpine Skiing,downhill men
+34,NOR,finn christian jagge,00:02:07.640,Calgary 1988,Alpine Skiing,downhill men
+35,LIE,silvio wille,00:02:07.770,Calgary 1988,Alpine Skiing,downhill men
+36,GBR,ronald duncan,00:02:07.880,Calgary 1988,Alpine Skiing,downhill men
+37,LIE,gregor hoop,00:02:08.500,Calgary 1988,Alpine Skiing,downhill men
+38,LIE,robert büchel,00:02:08.660,Calgary 1988,Alpine Skiing,downhill men
+39,SWE,niklas lindqvist,00:02:09.410,Calgary 1988,Alpine Skiing,downhill men
+40,CHI,nils linneberg,00:02:09.830,Calgary 1988,Alpine Skiing,downhill men
+41,CHI,dieter linneberger,00:02:11.160,Calgary 1988,Alpine Skiing,downhill men
+42,MEX,hubertus von hohenlohe,00:02:12.580,Calgary 1988,Alpine Skiing,downhill men
+43,ARG,jorge r. birkner,00:02:14.200,Calgary 1988,Alpine Skiing,downhill men
+44,ARG,javier rivara,00:02:16.790,Calgary 1988,Alpine Skiing,downhill men
+45,AUS,peter forras,Did not finish,Calgary 1988,Alpine Skiing,downhill men
+46,USA,bill hudson,Did not finish,Calgary 1988,Alpine Skiing,downhill men
+47,FRA,luc alphand,Did not finish,Calgary 1988,Alpine Skiing,downhill men
+48,ITA,michael mair,Did not finish,Calgary 1988,Alpine Skiing,downhill men
+49,FRA,philippe verneret,Disqualified,Calgary 1988,Alpine Skiing,downhill men
+50,CAN,brian stemmle,Disqualified,Calgary 1988,Alpine Skiing,downhill men
+0,FRG,marina kiehl,00:01:25.860,Calgary 1988,Alpine Skiing,downhill women
+1,SUI,brigitte oertli,00:01:26.610,Calgary 1988,Alpine Skiing,downhill women
+2,CAN,karen percy,00:01:26.620,Calgary 1988,Alpine Skiing,downhill women
+3,SUI,maria walliser,00:01:26.890,Calgary 1988,Alpine Skiing,downhill women
+4,CAN,laurie graham,00:01:26.990,Calgary 1988,Alpine Skiing,downhill women
+5,AUT,petra kronberger,00:01:27.030,Calgary 1988,Alpine Skiing,downhill women
+6,FRG,regina mösenlechner,00:01:27.160,Calgary 1988,Alpine Skiing,downhill women
+7,AUT,elisabeth kirchler,00:01:27.190,Calgary 1988,Alpine Skiing,downhill women
+8,SUI,michela figini,00:01:27.260,Calgary 1988,Alpine Skiing,downhill women
+9,TCH,lucia medzihradska,00:01:27.280,Calgary 1988,Alpine Skiing,downhill women
+10,SUI,chantal bournissen,00:01:27.460,Calgary 1988,Alpine Skiing,downhill women
+11,FRA,carole merle,00:01:27.530,Calgary 1988,Alpine Skiing,downhill women
+12,FRG,michaela gerg-leitner,00:01:27.830,Calgary 1988,Alpine Skiing,downhill women
+13,JPN,emi kawabata,00:01:27.850,Calgary 1988,Alpine Skiing,downhill women
+14,CAN,kerrin lee-gartner,00:01:28.070,Calgary 1988,Alpine Skiing,downhill women
+15,URS,golnur postnikova,00:01:28.230,Calgary 1988,Alpine Skiing,downhill women
+16,FRA,claudine emonet,00:01:28.360,Calgary 1988,Alpine Skiing,downhill women
+17,USA,edith thys,00:01:28.530,Calgary 1988,Alpine Skiing,downhill women
+18,ITA,michaela marzola,00:01:28.690,Calgary 1988,Alpine Skiing,downhill women
+19,USA,kristin krone,00:01:29.130,Calgary 1988,Alpine Skiing,downhill women
+20,FRG,christina meier-hoeck,00:01:29.300,Calgary 1988,Alpine Skiing,downhill women
+21,GBR,wendy lumby,00:01:29.760,Calgary 1988,Alpine Skiing,downhill women
+22,JPN,sachiko yamamoto,00:01:30.150,Calgary 1988,Alpine Skiing,downhill women
+23,TCH,ludmila milanova,00:01:30.420,Calgary 1988,Alpine Skiing,downhill women
+24,GBR,clare booth,00:01:32.500,Calgary 1988,Alpine Skiing,downhill women
+25,LIE,jolanda kindle,00:01:32.880,Calgary 1988,Alpine Skiing,downhill women
+26,ARG,carolina eiras,00:01:37.370,Calgary 1988,Alpine Skiing,downhill women
+27,ARG,astrid steverlynck,00:01:41.640,Calgary 1988,Alpine Skiing,downhill women
+28,ARG,mariela vallecillo,Did not finish,Calgary 1988,Alpine Skiing,downhill women
+29,ROU,mihaela fera,Did not finish,Calgary 1988,Alpine Skiing,downhill women
+30,LIE,jacqueline vogt,Did not finish,Calgary 1988,Alpine Skiing,downhill women
+31,USA,hilary lindh,Did not finish,Calgary 1988,Alpine Skiing,downhill women
+32,AUT,anita wachter,Did not finish,Calgary 1988,Alpine Skiing,downhill women
+33,CAN,kellie casey,Did not finish,Calgary 1988,Alpine Skiing,downhill women
+34,AUT,sigrid wolf,Did not finish,Calgary 1988,Alpine Skiing,downhill women
+35,FRA,catherine quittet,Did not start,Calgary 1988,Alpine Skiing,downhill women
+36,GBR,ingrid grant,Did not start,Calgary 1988,Alpine Skiing,downhill women
+0,ITA,alberto tomba,00:02:06.370,Calgary 1988,Alpine Skiing,giant slalom men
+1,AUT,hubert strolz,00:02:07.410,Calgary 1988,Alpine Skiing,giant slalom men
+2,SUI,pirmin zurbriggen,00:02:08.390,Calgary 1988,Alpine Skiing,giant slalom men
+3,ITA,ivano camozzi,00:02:08.770,Calgary 1988,Alpine Skiing,giant slalom men
+4,AUT,rudolf nierlich,00:02:08.920,Calgary 1988,Alpine Skiing,giant slalom men
+5,LIE,andreas wenzel,00:02:09.030,Calgary 1988,Alpine Skiing,giant slalom men
+6,AUT,helmut mayer,00:02:09.090,Calgary 1988,Alpine Skiing,giant slalom men
+7,FRG,frank wörndl,00:02:09.220,Calgary 1988,Alpine Skiing,giant slalom men
+8,YUG,rok petrovic,00:02:09.320,Calgary 1988,Alpine Skiing,giant slalom men
+9,SUI,joël gaspoz,00:02:09.570,Calgary 1988,Alpine Skiing,giant slalom men
+10,AUT,günther mader,00:02:10.040,Calgary 1988,Alpine Skiing,giant slalom men
+11,USA,gale shaw,00:02:10.230,Calgary 1988,Alpine Skiing,giant slalom men
+12,USA,felix mcgrath,00:02:10.600,Calgary 1988,Alpine Skiing,giant slalom men
+13,SUI,hans pieren,00:02:10.680,Calgary 1988,Alpine Skiing,giant slalom men
+14,YUG,klemen bergant,00:02:11.040,Calgary 1988,Alpine Skiing,giant slalom men
+15,SWE,johan wallner,00:02:11.300,Calgary 1988,Alpine Skiing,giant slalom men
+16,ITA,carlo gerosa,00:02:11.650,Calgary 1988,Alpine Skiing,giant slalom men
+17,FRA,christian gaidet,00:02:11.670,Calgary 1988,Alpine Skiing,giant slalom men
+18,FRG,markus wasmeier,00:02:11.690,Calgary 1988,Alpine Skiing,giant slalom men
+19,LUX,marc girardelli,00:02:11.790,Calgary 1988,Alpine Skiing,giant slalom men
+20,SWE,jonas lars nilsson,00:02:11.980,Calgary 1988,Alpine Skiing,giant slalom men
+21,SWE,nils jörgen sundqvist,00:02:12.110,Calgary 1988,Alpine Skiing,giant slalom men
+22,YUG,robert zan,00:02:12.180,Calgary 1988,Alpine Skiing,giant slalom men
+23,FRA,yves tavernier,00:02:12.210,Calgary 1988,Alpine Skiing,giant slalom men
+24,LIE,günther marxer,00:02:12.720,Calgary 1988,Alpine Skiing,giant slalom men
+25,FRG,armin bittner,00:02:13.270,Calgary 1988,Alpine Skiing,giant slalom men
+26,ITA,heinz holzer,00:02:13.280,Calgary 1988,Alpine Skiing,giant slalom men
+27,JPN,tetsuya okabe,00:02:14.490,Calgary 1988,Alpine Skiing,giant slalom men
+28,LIE,silvio wille,00:02:15.080,Calgary 1988,Alpine Skiing,giant slalom men
+29,URS,sergey petrik,00:02:15.160,Calgary 1988,Alpine Skiing,giant slalom men
+30,JPN,chiaki ishioka,00:02:15.400,Calgary 1988,Alpine Skiing,giant slalom men
+31,AUS,richard biggins,00:02:15.480,Calgary 1988,Alpine Skiing,giant slalom men
+32,TCH,peter jurko,00:02:15.500,Calgary 1988,Alpine Skiing,giant slalom men
+33,USA,robert ormsby,00:02:15.850,Calgary 1988,Alpine Skiing,giant slalom men
+34,URS,konstantin chistyakov,00:02:16.670,Calgary 1988,Alpine Skiing,giant slalom men
+35,AUS,steven john lee,00:02:17.540,Calgary 1988,Alpine Skiing,giant slalom men
+36,ESP,jorge pujol-planella,00:02:19.470,Calgary 1988,Alpine Skiing,giant slalom men
+37,LBN,elias majdalani,00:02:19.580,Calgary 1988,Alpine Skiing,giant slalom men
+38,ESP,delfin campo-galindo,00:02:20.180,Calgary 1988,Alpine Skiing,giant slalom men
+39,CHI,juan pablo santiagos,00:02:21.470,Calgary 1988,Alpine Skiing,giant slalom men
+40,GBR,martin bell,00:02:22.360,Calgary 1988,Alpine Skiing,giant slalom men
+41,ISL,daniel hilmarsson,00:02:22.740,Calgary 1988,Alpine Skiing,giant slalom men
+42,CHI,mauricio rotella,00:02:23.130,Calgary 1988,Alpine Skiing,giant slalom men
+43,CHI,paulo oppliger,00:02:23.760,Calgary 1988,Alpine Skiing,giant slalom men
+44,ARG,jorge r. birkner,00:02:24.230,Calgary 1988,Alpine Skiing,giant slalom men
+45,ARG,ignacio birkner,00:02:26.080,Calgary 1988,Alpine Skiing,giant slalom men
+46,ARG,javier rivara,00:02:28.650,Calgary 1988,Alpine Skiing,giant slalom men
+47,KOR,won gi nam,00:02:31.780,Calgary 1988,Alpine Skiing,giant slalom men
+48,GRE,ioannis stamatiou,00:02:32.460,Calgary 1988,Alpine Skiing,giant slalom men
+49,GRE,ioannis kapraras,00:02:32.870,Calgary 1988,Alpine Skiing,giant slalom men
+50,KOR,nak-youn kang,00:02:33.180,Calgary 1988,Alpine Skiing,giant slalom men
+51,MEX,hubertus von hohenlohe,00:02:34.570,Calgary 1988,Alpine Skiing,giant slalom men
+52,TUR,göksel demirhan,00:02:35.560,Calgary 1988,Alpine Skiing,giant slalom men
+53,CYP,socrates aristodimou,00:02:37.070,Calgary 1988,Alpine Skiing,giant slalom men
+54,TUR,resul sare,00:02:37.400,Calgary 1988,Alpine Skiing,giant slalom men
+55,SMR,nicola ercolani,00:02:38.560,Calgary 1988,Alpine Skiing,giant slalom men
+56,MEX,alex chr. benoit,00:02:41.450,Calgary 1988,Alpine Skiing,giant slalom men
+57,CYP,alekhis fotiadis,00:02:43.620,Calgary 1988,Alpine Skiing,giant slalom men
+58,TUR,ahmet demir,00:02:43.740,Calgary 1988,Alpine Skiing,giant slalom men
+59,SMR,fabiano guardigli,00:02:46.550,Calgary 1988,Alpine Skiing,giant slalom men
+60,PUR,kevin wilson,00:02:49.190,Calgary 1988,Alpine Skiing,giant slalom men
+61,CRC,arturo kinch,00:02:49.830,Calgary 1988,Alpine Skiing,giant slalom men
+62,SMR,francesco cardelli,00:02:51.430,Calgary 1988,Alpine Skiing,giant slalom men
+63,MON,fabrice notari,00:02:52.150,Calgary 1988,Alpine Skiing,giant slalom men
+64,GUA,carlos andres bruderer,00:02:55.620,Calgary 1988,Alpine Skiing,giant slalom men
+65,PUR,walter sandza,00:03:08.770,Calgary 1988,Alpine Skiing,giant slalom men
+66,PUR,felix flechas,00:03:13.000,Calgary 1988,Alpine Skiing,giant slalom men
+67,CRC,julian daniel munoz,00:03:20.590,Calgary 1988,Alpine Skiing,giant slalom men
+68,GUA,f. alfredo rego,00:03:26.590,Calgary 1988,Alpine Skiing,giant slalom men
+69,YUG,tomaz cizman,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+70,SUI,martin hangl,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+71,SWE,ingemar stenmark,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+72,LIE,robert büchel,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+73,NOR,finn christian jagge,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+74,BUL,lubomir popov,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+75,NZL,mattias hubrich,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+76,GBR,robert hourmont,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+77,SMR,riccardo stacchini,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+78,BOL,josé-manuel bejarano,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+79,MEX,patrice martell-spitalier,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+80,FRG,peter roth,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+81,FRA,alain feutrier,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+82,NZL,simon wi rutene,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+83,ESP,luis fernandez-ochoa,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+84,USA,jack john miller,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+85,TCH,adrian bires,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+86,GBR,morgan jones,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+87,BUL,borislav dimitratchkov,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+88,GBR,graham bell,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+89,BUL,stefan shalamanov,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+90,JPN,katsuhito kumagai,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+91,CHI,nils linneberg,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+92,KOR,jae hyuk park,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+93,ARG,federico van ditmar,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+94,PUR,jason edelmann,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+95,GUA,christian bruderer,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+96,TUR,yakup kadri birinci,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+97,KOR,seung wook hur,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+98,MEX,carlos pruneda,Did not finish,Calgary 1988,Alpine Skiing,giant slalom men
+99,AND,gérard escoda,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+100,CAN,james read,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+101,CAN,alain villiard,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+102,CAN,peter bosinger,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+103,CAN,greg grossmann,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+104,BOL,guillermo avila paz,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+105,TPE,tong-jong chen,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+106,LBN,karim sabbagh,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+107,BOL,jaime bascon,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+108,LBN,pierre succar,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+109,TPE,chi-liang lin,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+110,TPE,ching-ming ong,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+111,LBN,toni salame,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+112,TPE,koul-hwa kuo,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+113,BOL,enrico montano,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+114,MAR,ahmad ouachit,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+115,MAR,lotfi housnialaoui,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+116,MAR,ahmed ait moulay,Disqualified,Calgary 1988,Alpine Skiing,giant slalom men
+117,AND,nahum orobitg-perez,Did not start,Calgary 1988,Alpine Skiing,giant slalom men
+118,FRA,franck piccard,Did not start,Calgary 1988,Alpine Skiing,giant slalom men
+119,ISV,john reeve,Did not start,Calgary 1988,Alpine Skiing,giant slalom men
+0,SUI,vreni schneider,00:02:06.490,Calgary 1988,Alpine Skiing,giant slalom women
+1,FRG,christa kinshofer guethlein,00:02:07.420,Calgary 1988,Alpine Skiing,giant slalom women
+2,SUI,maria walliser,00:02:07.720,Calgary 1988,Alpine Skiing,giant slalom women
+3,YUG,mateja svet,00:02:07.800,Calgary 1988,Alpine Skiing,giant slalom women
+4,FRG,christina meier-hoeck,00:02:07.880,Calgary 1988,Alpine Skiing,giant slalom women
+5,AUT,ulrike maier,00:02:08.100,Calgary 1988,Alpine Skiing,giant slalom women
+6,AUT,anita wachter,00:02:08.380,Calgary 1988,Alpine Skiing,giant slalom women
+7,FRA,catherine quittet,00:02:08.840,Calgary 1988,Alpine Skiing,giant slalom women
+8,FRA,carole merle,00:02:09.360,Calgary 1988,Alpine Skiing,giant slalom women
+9,FRA,christelle guignard,00:02:09.460,Calgary 1988,Alpine Skiing,giant slalom women
+10,CAN,josée lacasse,00:02:09.780,Calgary 1988,Alpine Skiing,giant slalom women
+11,USA,diann roffe,00:02:10.690,Calgary 1988,Alpine Skiing,giant slalom women
+12,USA,debbie armstrong,00:02:10.720,Calgary 1988,Alpine Skiing,giant slalom women
+13,AUT,petra kronberger,00:02:12.310,Calgary 1988,Alpine Skiing,giant slalom women
+14,YUG,katra zajc,00:02:12.480,Calgary 1988,Alpine Skiing,giant slalom women
+15,POL,katarzyna szafranska,00:02:12.830,Calgary 1988,Alpine Skiing,giant slalom women
+16,CAN,kerrin lee-gartner,00:02:13.320,Calgary 1988,Alpine Skiing,giant slalom women
+17,YUG,mojca dezman,00:02:14.360,Calgary 1988,Alpine Skiing,giant slalom women
+18,FRA,malgorzata tlalka,00:02:14.390,Calgary 1988,Alpine Skiing,giant slalom women
+19,TCH,lucia medzihradska,00:02:14.430,Calgary 1988,Alpine Skiing,giant slalom women
+20,LIE,jacqueline vogt,00:02:14.640,Calgary 1988,Alpine Skiing,giant slalom women
+21,SWE,kristina andersson,00:02:15.090,Calgary 1988,Alpine Skiing,giant slalom women
+22,TCH,lenka kebrlova,00:02:15.170,Calgary 1988,Alpine Skiing,giant slalom women
+23,ARG,carolina birkner,00:02:20.760,Calgary 1988,Alpine Skiing,giant slalom women
+24,ARG,carolina eiras,00:02:22.080,Calgary 1988,Alpine Skiing,giant slalom women
+25,AND,sandra grau-muxella,00:02:29.230,Calgary 1988,Alpine Skiing,giant slalom women
+26,CYP,karolina fotiadou,00:02:44.580,Calgary 1988,Alpine Skiing,giant slalom women
+27,ISV,seba johnson,00:02:49.210,Calgary 1988,Alpine Skiing,giant slalom women
+28,GUA,fiamma smith,00:03:00.170,Calgary 1988,Alpine Skiing,giant slalom women
+29,ESP,blanca fernandez ochoa,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+30,SUI,corinne schmidhauser,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+31,FRG,michaela gerg-leitner,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+32,SWE,camilla nilsson,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+33,ITA,paola magoni-sforza,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+34,JPN,emi kawabata,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+35,USA,heidi voelker,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+36,FRG,marina kiehl,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+37,SUI,michela figini,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+38,YUG,veronika sarec,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+39,SWE,catharina glassér-bjerner,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+40,NZL,katherine jane rattray,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+41,AND,claudina rossel,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+42,GBR,ingrid grant,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+43,GRE,thomai lefoussi,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+44,ARG,astrid steverlynck,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+45,AUT,sigrid wolf,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+46,USA,tamara mckinney,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+47,LIE,jolanda kindle,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+48,SWE,monika äijä,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+49,CAN,karen percy,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+50,TCH,ludmila milanova,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+51,CAN,michelle ruthven,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+52,JPN,sachiko yamamoto,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+53,ESP,ainhoa ibarra astelarra,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+54,ESP,eva moga,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+55,FIN,nina ehrenrooth,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+56,GBR,lesley beck,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+57,GBR,sarah lewis,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+58,ROU,mihaela fera,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+59,ISL,gudrun kristjansdottir,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+60,ARG,maria-magdalena birkner,Did not finish,Calgary 1988,Alpine Skiing,giant slalom women
+61,ITA,nadia bonfini,Disqualified,Calgary 1988,Alpine Skiing,giant slalom women
+62,GBR,wendy lumby,Disqualified,Calgary 1988,Alpine Skiing,giant slalom women
+63,PUR,mary pat wilson,Disqualified,Calgary 1988,Alpine Skiing,giant slalom women
+0,ITA,alberto tomba,00:01:39.470,Calgary 1988,Alpine Skiing,slalom men
+1,FRG,frank wörndl,00:01:39.530,Calgary 1988,Alpine Skiing,slalom men
+2,LIE,paul frommelt,00:01:39.840,Calgary 1988,Alpine Skiing,slalom men
+3,AUT,bernhard gstrein,00:01:40.080,Calgary 1988,Alpine Skiing,slalom men
+4,SWE,ingemar stenmark,00:01:40.220,Calgary 1988,Alpine Skiing,slalom men
+5,SWE,jonas lars nilsson,00:01:40.230,Calgary 1988,Alpine Skiing,slalom men
+6,SUI,pirmin zurbriggen,00:01:40.480,Calgary 1988,Alpine Skiing,slalom men
+7,ITA,oswald tötsch,00:01:40.550,Calgary 1988,Alpine Skiing,slalom men
+8,YUG,grega benedik,00:01:41.380,Calgary 1988,Alpine Skiing,slalom men
+9,FRG,florian beck,00:01:41.440,Calgary 1988,Alpine Skiing,slalom men
+10,YUG,rok petrovic,00:01:41.630,Calgary 1988,Alpine Skiing,slalom men
+11,JPN,tetsuya okabe,00:01:41.930,Calgary 1988,Alpine Skiing,slalom men
+12,TCH,peter jurko,00:01:42.210,Calgary 1988,Alpine Skiing,slalom men
+13,CAN,alain villiard,00:01:43.770,Calgary 1988,Alpine Skiing,slalom men
+14,TCH,adrian bires,00:01:45.130,Calgary 1988,Alpine Skiing,slalom men
+15,BUL,petar popangelov,00:01:46.340,Calgary 1988,Alpine Skiing,slalom men
+16,NZL,simon wi rutene,00:01:47.380,Calgary 1988,Alpine Skiing,slalom men
+17,ESP,luis fernandez-ochoa,00:01:50.030,Calgary 1988,Alpine Skiing,slalom men
+18,BUL,borislav dimitratchkov,00:01:50.810,Calgary 1988,Alpine Skiing,slalom men
+19,BUL,lubomir popov,00:01:50.810,Calgary 1988,Alpine Skiing,slalom men
+20,GBR,robert hourmont,00:01:51.590,Calgary 1988,Alpine Skiing,slalom men
+21,NZL,mattias hubrich,00:01:52.240,Calgary 1988,Alpine Skiing,slalom men
+22,BUL,stefan shalamanov,00:01:52.370,Calgary 1988,Alpine Skiing,slalom men
+23,ISL,daniel hilmarsson,00:01:55.290,Calgary 1988,Alpine Skiing,slalom men
+24,CHI,juan pablo santiagos,00:01:55.820,Calgary 1988,Alpine Skiing,slalom men
+25,ARG,jorge r. birkner,00:01:56.970,Calgary 1988,Alpine Skiing,slalom men
+26,KOR,nak-youn kang,00:02:03.730,Calgary 1988,Alpine Skiing,slalom men
+27,KOR,won gi nam,00:02:04.290,Calgary 1988,Alpine Skiing,slalom men
+28,KOR,jae hyuk park,00:02:04.300,Calgary 1988,Alpine Skiing,slalom men
+29,MEX,hubertus von hohenlohe,00:02:07.930,Calgary 1988,Alpine Skiing,slalom men
+30,TUR,yakup kadri birinci,00:02:11.190,Calgary 1988,Alpine Skiing,slalom men
+31,CYP,socrates aristodimou,00:02:16.100,Calgary 1988,Alpine Skiing,slalom men
+32,TUR,resul sare,00:02:16.590,Calgary 1988,Alpine Skiing,slalom men
+33,LBN,toni salame,00:02:16.970,Calgary 1988,Alpine Skiing,slalom men
+34,TUR,ahmet demir,00:02:17.530,Calgary 1988,Alpine Skiing,slalom men
+35,TUR,göksel demirhan,00:02:18.210,Calgary 1988,Alpine Skiing,slalom men
+36,MEX,alex chr. benoit,00:02:23.150,Calgary 1988,Alpine Skiing,slalom men
+37,BOL,guillermo avila paz,00:02:24.400,Calgary 1988,Alpine Skiing,slalom men
+38,GUA,carlos andres bruderer,00:02:26.300,Calgary 1988,Alpine Skiing,slalom men
+39,LBN,karim sabbagh,00:02:26.670,Calgary 1988,Alpine Skiing,slalom men
+40,MAR,ahmad ouachit,00:02:31.530,Calgary 1988,Alpine Skiing,slalom men
+41,MAR,ahmed ait moulay,00:02:33.170,Calgary 1988,Alpine Skiing,slalom men
+42,PUR,kevin wilson,00:02:35.180,Calgary 1988,Alpine Skiing,slalom men
+43,SMR,francesco cardelli,00:02:35.210,Calgary 1988,Alpine Skiing,slalom men
+44,SMR,nicola ercolani,00:02:38.820,Calgary 1988,Alpine Skiing,slalom men
+45,BOL,manuel aramayo,00:02:42.310,Calgary 1988,Alpine Skiing,slalom men
+46,MAR,lotfi housnialaoui,00:02:49.640,Calgary 1988,Alpine Skiing,slalom men
+47,TPE,tong-jong chen,00:02:51.100,Calgary 1988,Alpine Skiing,slalom men
+48,IND,kishor ratna rai,00:02:52.210,Calgary 1988,Alpine Skiing,slalom men
+49,BOL,luis viscarra,00:02:54.380,Calgary 1988,Alpine Skiing,slalom men
+50,CRC,julian daniel munoz,00:02:56.720,Calgary 1988,Alpine Skiing,slalom men
+51,PUR,jason edelmann,00:02:58.720,Calgary 1988,Alpine Skiing,slalom men
+52,BOL,enrico montano,00:03:07.410,Calgary 1988,Alpine Skiing,slalom men
+53,GUA,f. alfredo rego,00:03:20.280,Calgary 1988,Alpine Skiing,slalom men
+54,MEX,carlos pruneda,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+55,GUA,christian bruderer,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+56,URS,sergey petrik,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+57,CAN,james read,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+58,USA,jack john miller,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+59,FRA,christian gaidet,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+60,SWE,johan wallner,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+61,NOR,finn christian jagge,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+62,FRA,didier bouvet,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+63,AUT,thomas stangassinger,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+64,AUT,günther mader,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+65,FRA,yves tavernier,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+66,SUI,joël gaspoz,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+67,FRG,armin bittner,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+68,AUT,rudolf nierlich,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+69,USA,felix mcgrath,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+70,FRG,peter roth,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+71,YUG,robert zan,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+72,JPN,chiaki ishioka,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+73,USA,alexander williams,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+74,YUG,klemen bergant,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+75,SUI,hans pieren,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+76,CAN,michael tommy,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+77,ITA,ivano camozzi,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+78,LIE,gregor hoop,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+79,URS,konstantin chistyakov,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+80,CAN,greg grossmann,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+81,ESP,jorge pujol-planella,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+82,LIE,gerald näscher,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+83,LBN,elias majdalani,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+84,ESP,delfin campo-galindo,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+85,AUS,richard biggins,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+86,GBR,morgan jones,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+87,GRE,ioannis stamatiou,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+88,AND,gérard escoda,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+89,CHI,mauricio rotella,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+90,ARG,ignacio birkner,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+91,GRE,ioannis kapraras,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+92,CYP,alekhis fotiadis,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+93,ARG,jorge carlos eiras,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+94,SMR,fabiano guardigli,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+95,KOR,seung wook hur,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+96,PUR,george torruellas,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+97,TPE,ching-ming ong,Did not finish,Calgary 1988,Alpine Skiing,slalom men
+98,ARG,javier rivara,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+99,SWE,lars-göran halvarsson,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+100,ITA,carlo gerosa,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+101,FRA,jean-luc cretier,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+102,SUI,paul accola,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+103,USA,robert ormsby,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+104,LIE,silvio wille,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+105,CHI,paulo oppliger,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+106,IND,gul dev,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+107,TPE,wei-tsu tang,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+108,LBN,pierre succar,Disqualified,Calgary 1988,Alpine Skiing,slalom men
+109,AND,nahum orobitg-perez,Did not start,Calgary 1988,Alpine Skiing,slalom men
+110,CHI,nils linneberg,Did not start,Calgary 1988,Alpine Skiing,slalom men
+111,GRE,andreas pantelidis,Did not start,Calgary 1988,Alpine Skiing,slalom men
+112,MEX,patrice martell-spitalier,Did not start,Calgary 1988,Alpine Skiing,slalom men
+113,SMR,riccardo stacchini,Did not start,Calgary 1988,Alpine Skiing,slalom men
+0,SUI,vreni schneider,00:01:36.690,Calgary 1988,Alpine Skiing,slalom women
+1,YUG,mateja svet,00:01:38.370,Calgary 1988,Alpine Skiing,slalom women
+2,FRG,christa kinshofer guethlein,00:01:38.400,Calgary 1988,Alpine Skiing,slalom women
+3,AUT,roswitha steiner,00:01:38.770,Calgary 1988,Alpine Skiing,slalom women
+4,ESP,blanca fernandez ochoa,00:01:39.440,Calgary 1988,Alpine Skiing,slalom women
+5,AUT,ida ladstätter,00:01:39.590,Calgary 1988,Alpine Skiing,slalom women
+6,ITA,paola magoni-sforza,00:01:39.760,Calgary 1988,Alpine Skiing,slalom women
+7,FRA,dorota tlalka,00:01:39.860,Calgary 1988,Alpine Skiing,slalom women
+8,YUG,mojca dezman,00:01:40.210,Calgary 1988,Alpine Skiing,slalom women
+9,AUT,ulrike maier,00:01:40.540,Calgary 1988,Alpine Skiing,slalom women
+10,USA,beth madsen,00:01:41.180,Calgary 1988,Alpine Skiing,slalom women
+11,TCH,lenka kebrlova,00:01:42.120,Calgary 1988,Alpine Skiing,slalom women
+12,TCH,lucia medzihradska,00:01:42.180,Calgary 1988,Alpine Skiing,slalom women
+13,FRA,patricia chauvet,00:01:42.790,Calgary 1988,Alpine Skiing,slalom women
+14,USA,diann roffe,00:01:42.880,Calgary 1988,Alpine Skiing,slalom women
+15,CAN,josée lacasse,00:01:43.140,Calgary 1988,Alpine Skiing,slalom women
+16,POL,katarzyna szafranska,00:01:44.210,Calgary 1988,Alpine Skiing,slalom women
+17,CAN,michelle ruthven,00:01:45.790,Calgary 1988,Alpine Skiing,slalom women
+18,JPN,emi kawabata,00:01:49.350,Calgary 1988,Alpine Skiing,slalom women
+19,ARG,carolina eiras,00:01:52.730,Calgary 1988,Alpine Skiing,slalom women
+20,NZL,katherine jane rattray,00:01:52.940,Calgary 1988,Alpine Skiing,slalom women
+21,ARG,carolina birkner,00:01:57.720,Calgary 1988,Alpine Skiing,slalom women
+22,AND,sandra grau-muxella,00:01:58.440,Calgary 1988,Alpine Skiing,slalom women
+23,ARG,astrid steverlynck,00:02:05.020,Calgary 1988,Alpine Skiing,slalom women
+24,GRE,thomai lefoussi,00:02:07.010,Calgary 1988,Alpine Skiing,slalom women
+25,CYP,karolina fotiadou,00:02:14.920,Calgary 1988,Alpine Skiing,slalom women
+26,GUA,fiamma smith,00:02:45.500,Calgary 1988,Alpine Skiing,slalom women
+27,IND,shailaja kumar,00:02:52.270,Calgary 1988,Alpine Skiing,slalom women
+28,ROU,mihaela fera,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+29,LIE,jacqueline vogt,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+30,TCH,ludmila milanova,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+31,ESP,eva moga,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+32,ITA,nadia bonfini,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+33,GBR,lesley beck,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+34,FRA,pascaline freiher,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+35,SWE,camilla nilsson,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+36,SUI,brigitte oertli,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+37,SWE,catharina glassér-bjerner,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+38,YUG,katra zajc,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+39,USA,tamara mckinney,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+40,AUT,anita wachter,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+41,FRA,christelle guignard,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+42,SUI,corinne schmidhauser,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+43,YUG,veronika sarec,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+44,SWE,monika äijä,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+45,SWE,kristina andersson,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+46,FRG,amette gersch,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+47,USA,heidi voelker,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+48,CAN,karen percy,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+49,FIN,nina ehrenrooth,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+50,GBR,sarah lewis,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+51,GBR,kirstin cairns,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+52,JPN,sachiko yamamoto,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+53,PUR,mary pat wilson,Did not finish,Calgary 1988,Alpine Skiing,slalom women
+54,LIE,jolanda kindle,Disqualified,Calgary 1988,Alpine Skiing,slalom women
+55,CAN,kerrin lee-gartner,Disqualified,Calgary 1988,Alpine Skiing,slalom women
+56,ARG,maria-magdalena birkner,Disqualified,Calgary 1988,Alpine Skiing,slalom women
+57,ESP,ainhoa ibarra astelarra,Did not start,Calgary 1988,Alpine Skiing,slalom women
+58,ISL,gudrun kristjansdottir,Did not start,Calgary 1988,Alpine Skiing,slalom women
+59,ITA,michaela marzola,Did not start,Calgary 1988,Alpine Skiing,slalom women
+0,FRA,franck piccard,00:01:39.660,Calgary 1988,Alpine Skiing,super-G men
+1,AUT,helmut mayer,00:01:40.960,Calgary 1988,Alpine Skiing,super-G men
+2,SWE,lars-börje eriksson,00:01:41.080,Calgary 1988,Alpine Skiing,super-G men
+3,AUT,hubert strolz,00:01:41.110,Calgary 1988,Alpine Skiing,super-G men
+4,SUI,pirmin zurbriggen,00:01:41.960,Calgary 1988,Alpine Skiing,super-G men
+5,AUT,günther mader,00:01:41.960,Calgary 1988,Alpine Skiing,super-G men
+6,FRA,luc alphand,00:01:42.270,Calgary 1988,Alpine Skiing,super-G men
+7,AUT,leonhard stock,00:01:42.360,Calgary 1988,Alpine Skiing,super-G men
+8,YUG,tomaz cizman,00:01:42.470,Calgary 1988,Alpine Skiing,super-G men
+9,ITA,ivano camozzi,00:01:42.660,Calgary 1988,Alpine Skiing,super-G men
+10,ITA,heinz holzer,00:01:42.880,Calgary 1988,Alpine Skiing,super-G men
+11,LIE,andreas wenzel,00:01:43.000,Calgary 1988,Alpine Skiing,super-G men
+12,CAN,james read,00:01:43.010,Calgary 1988,Alpine Skiing,super-G men
+13,JPN,shinya chiba,00:01:43.030,Calgary 1988,Alpine Skiing,super-G men
+14,SUI,franz heinzer,00:01:43.320,Calgary 1988,Alpine Skiing,super-G men
+15,YUG,klemen bergant,00:01:43.410,Calgary 1988,Alpine Skiing,super-G men
+16,LIE,günther marxer,00:01:44.160,Calgary 1988,Alpine Skiing,super-G men
+17,USA,gale shaw,00:01:44.260,Calgary 1988,Alpine Skiing,super-G men
+18,CAN,felix belczyk,00:01:44.310,Calgary 1988,Alpine Skiing,super-G men
+19,SWE,niklas lindqvist,00:01:44.880,Calgary 1988,Alpine Skiing,super-G men
+20,FRA,yves tavernier,00:01:44.880,Calgary 1988,Alpine Skiing,super-G men
+21,CAN,robert boyd,00:01:45.040,Calgary 1988,Alpine Skiing,super-G men
+22,TCH,adrian bires,00:01:45.330,Calgary 1988,Alpine Skiing,super-G men
+23,NZL,mattias hubrich,00:01:45.460,Calgary 1988,Alpine Skiing,super-G men
+24,USA,jeff olson,00:01:45.460,Calgary 1988,Alpine Skiing,super-G men
+25,ITA,carlo gerosa,00:01:45.820,Calgary 1988,Alpine Skiing,super-G men
+26,TCH,peter jurko,00:01:46.030,Calgary 1988,Alpine Skiing,super-G men
+27,LIE,silvio wille,00:01:46.080,Calgary 1988,Alpine Skiing,super-G men
+28,GBR,nigel smith,00:01:47.150,Calgary 1988,Alpine Skiing,super-G men
+29,USA,bill hudson,00:01:47.290,Calgary 1988,Alpine Skiing,super-G men
+30,AUS,richard biggins,00:01:47.380,Calgary 1988,Alpine Skiing,super-G men
+31,LBN,elias majdalani,00:01:47.580,Calgary 1988,Alpine Skiing,super-G men
+32,CHI,juan pablo santiagos,00:01:48.740,Calgary 1988,Alpine Skiing,super-G men
+33,GBR,martin bell,00:01:48.820,Calgary 1988,Alpine Skiing,super-G men
+34,GBR,graham bell,00:01:48.980,Calgary 1988,Alpine Skiing,super-G men
+35,ESP,jorge pujol-planella,00:01:49.330,Calgary 1988,Alpine Skiing,super-G men
+36,CHI,paulo oppliger,00:01:49.710,Calgary 1988,Alpine Skiing,super-G men
+37,AND,nahum orobitg-perez,00:01:53.220,Calgary 1988,Alpine Skiing,super-G men
+38,ARG,jorge r. birkner,00:01:53.790,Calgary 1988,Alpine Skiing,super-G men
+39,KOR,jae hyuk park,00:01:53.890,Calgary 1988,Alpine Skiing,super-G men
+40,KOR,seung wook hur,00:01:55.130,Calgary 1988,Alpine Skiing,super-G men
+41,MEX,hubertus von hohenlohe,00:01:56.030,Calgary 1988,Alpine Skiing,super-G men
+42,TUR,resul sare,00:01:57.650,Calgary 1988,Alpine Skiing,super-G men
+43,TUR,yakup kadri birinci,00:01:59.320,Calgary 1988,Alpine Skiing,super-G men
+44,SMR,nicola ercolani,00:01:59.700,Calgary 1988,Alpine Skiing,super-G men
+45,GRE,ioannis kapraras,00:02:02.060,Calgary 1988,Alpine Skiing,super-G men
+46,TUR,göksel demirhan,00:02:02.220,Calgary 1988,Alpine Skiing,super-G men
+47,CYP,socrates aristodimou,00:02:03.100,Calgary 1988,Alpine Skiing,super-G men
+48,MEX,alex chr. benoit,00:02:05.800,Calgary 1988,Alpine Skiing,super-G men
+49,GUA,christian bruderer,00:02:05.990,Calgary 1988,Alpine Skiing,super-G men
+50,SMR,fabiano guardigli,00:02:06.590,Calgary 1988,Alpine Skiing,super-G men
+51,PUR,jason edelmann,00:02:09.930,Calgary 1988,Alpine Skiing,super-G men
+52,MEX,patrice martell-spitalier,00:02:10.690,Calgary 1988,Alpine Skiing,super-G men
+53,MON,fabrice notari,00:02:11.730,Calgary 1988,Alpine Skiing,super-G men
+54,TPE,ching-ming ong,00:02:17.220,Calgary 1988,Alpine Skiing,super-G men
+55,PUR,walter sandza,00:02:25.950,Calgary 1988,Alpine Skiing,super-G men
+56,TPE,chi-liang lin,00:02:30.810,Calgary 1988,Alpine Skiing,super-G men
+57,GUA,carlos andres bruderer,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+58,KOR,won gi nam,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+59,ISL,daniel hilmarsson,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+60,ARG,javier rivara,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+61,ARG,federico van ditmar,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+62,PUR,felix flechas,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+63,PUR,kevin wilson,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+64,KOR,nak-youn kang,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+65,CYP,alekhis fotiadis,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+66,AND,gérard escoda,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+67,ESP,delfin campo-galindo,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+68,CHI,nils linneberg,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+69,URS,konstantin chistyakov,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+70,CAN,alain villiard,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+71,FRG,frank wörndl,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+72,URS,sergey petrik,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+73,NZL,simon wi rutene,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+74,NOR,finn christian jagge,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+75,SWE,niklas eric henning,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+76,LIE,robert büchel,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+77,JPN,katsuhito kumagai,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+78,ESP,luis fernandez-ochoa,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+79,FRA,philippe verneret,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+80,AUS,steven john lee,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+81,NOR,atle skaardal,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+82,NOR,jan einar thorsen,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+83,SUI,daniel mahrer,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+84,SUI,martin hangl,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+85,ITA,alberto tomba,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+86,FRG,peter roth,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+87,FRG,markus wasmeier,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+88,LUX,marc girardelli,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+89,FRG,michael eder,Did not finish,Calgary 1988,Alpine Skiing,super-G men
+90,TPE,wei-tsu tang,Disqualified,Calgary 1988,Alpine Skiing,super-G men
+91,ARG,ignacio birkner,Disqualified,Calgary 1988,Alpine Skiing,super-G men
+92,SMR,riccardo stacchini,Disqualified,Calgary 1988,Alpine Skiing,super-G men
+93,USA,alva kitt,Disqualified,Calgary 1988,Alpine Skiing,super-G men
+94,CHI,mauricio rotella,Did not start,Calgary 1988,Alpine Skiing,super-G men
+95,GBR,ronald duncan,Did not start,Calgary 1988,Alpine Skiing,super-G men
+96,GRE,ioannis stamatiou,Did not start,Calgary 1988,Alpine Skiing,super-G men
+97,GUA,f. alfredo rego,Did not start,Calgary 1988,Alpine Skiing,super-G men
+98,MEX,carlos pruneda,Did not start,Calgary 1988,Alpine Skiing,super-G men
+99,TUR,ahmet demir,Did not start,Calgary 1988,Alpine Skiing,super-G men
+0,AUT,sigrid wolf,00:01:19.030,Calgary 1988,Alpine Skiing,super-G women
+1,SUI,michela figini,00:01:20.030,Calgary 1988,Alpine Skiing,super-G women
+2,CAN,karen percy,00:01:20.290,Calgary 1988,Alpine Skiing,super-G women
+3,FRG,regina mösenlechner,00:01:20.330,Calgary 1988,Alpine Skiing,super-G women
+4,AUT,anita wachter,00:01:20.360,Calgary 1988,Alpine Skiing,super-G women
+5,SUI,maria walliser,00:01:20.480,Calgary 1988,Alpine Skiing,super-G women
+6,ITA,michaela marzola,00:01:20.910,Calgary 1988,Alpine Skiing,super-G women
+7,SUI,zoe haas,00:01:20.910,Calgary 1988,Alpine Skiing,super-G women
+8,USA,edith thys,00:01:20.930,Calgary 1988,Alpine Skiing,super-G women
+9,FRG,christa kinshofer guethlein,00:01:20.980,Calgary 1988,Alpine Skiing,super-G women
+10,FRG,michaela gerg-leitner,00:01:20.980,Calgary 1988,Alpine Skiing,super-G women
+11,FRA,carole merle,00:01:21.010,Calgary 1988,Alpine Skiing,super-G women
+12,CAN,laurie graham,00:01:21.110,Calgary 1988,Alpine Skiing,super-G women
+13,FRG,marina kiehl,00:01:21.110,Calgary 1988,Alpine Skiing,super-G women
+14,AUT,elisabeth kirchler,00:01:21.160,Calgary 1988,Alpine Skiing,super-G women
+15,FRA,catherine quittet,00:01:21.480,Calgary 1988,Alpine Skiing,super-G women
+16,SUI,brigitte oertli,00:01:21.560,Calgary 1988,Alpine Skiing,super-G women
+17,USA,debbie armstrong,00:01:21.870,Calgary 1988,Alpine Skiing,super-G women
+18,CAN,lucie laroche,00:01:21.950,Calgary 1988,Alpine Skiing,super-G women
+19,YUG,mateja svet,00:01:21.960,Calgary 1988,Alpine Skiing,super-G women
+20,ESP,blanca fernandez ochoa,00:01:22.040,Calgary 1988,Alpine Skiing,super-G women
+21,FRA,claudine emonet,00:01:22.050,Calgary 1988,Alpine Skiing,super-G women
+22,CAN,kerrin lee-gartner,00:01:22.110,Calgary 1988,Alpine Skiing,super-G women
+23,JPN,emi kawabata,00:01:22.240,Calgary 1988,Alpine Skiing,super-G women
+24,AUT,sylvia eder,00:01:22.390,Calgary 1988,Alpine Skiing,super-G women
+25,USA,hilary lindh,00:01:23.110,Calgary 1988,Alpine Skiing,super-G women
+26,YUG,veronika sarec,00:01:23.170,Calgary 1988,Alpine Skiing,super-G women
+27,NZL,katherine jane rattray,00:01:23.480,Calgary 1988,Alpine Skiing,super-G women
+28,TCH,ludmila milanova,00:01:23.920,Calgary 1988,Alpine Skiing,super-G women
+29,JPN,sachiko yamamoto,00:01:24.320,Calgary 1988,Alpine Skiing,super-G women
+30,GBR,wendy lumby,00:01:24.360,Calgary 1988,Alpine Skiing,super-G women
+31,USA,kristin krone,00:01:24.510,Calgary 1988,Alpine Skiing,super-G women
+32,ESP,ainhoa ibarra astelarra,00:01:24.700,Calgary 1988,Alpine Skiing,super-G women
+33,ROU,mihaela fera,00:01:25.550,Calgary 1988,Alpine Skiing,super-G women
+34,GBR,clare booth,00:01:26.270,Calgary 1988,Alpine Skiing,super-G women
+35,ARG,carolina birkner,00:01:28.420,Calgary 1988,Alpine Skiing,super-G women
+36,ARG,carolina eiras,00:01:29.870,Calgary 1988,Alpine Skiing,super-G women
+37,AND,claudina rossel,00:01:30.780,Calgary 1988,Alpine Skiing,super-G women
+38,ARG,mariela vallecillo,00:01:33.490,Calgary 1988,Alpine Skiing,super-G women
+39,AND,sandra grau-muxella,00:01:33.650,Calgary 1988,Alpine Skiing,super-G women
+40,ARG,astrid steverlynck,00:01:36.510,Calgary 1988,Alpine Skiing,super-G women
+41,GUA,fiamma smith,Did not finish,Calgary 1988,Alpine Skiing,super-G women
+42,LIE,jacqueline vogt,Did not finish,Calgary 1988,Alpine Skiing,super-G women
+43,FRA,kathy chedal,Did not finish,Calgary 1988,Alpine Skiing,super-G women
+44,ISV,seba johnson,Disqualified,Calgary 1988,Alpine Skiing,super-G women
+45,GRE,thomai lefoussi,Disqualified,Calgary 1988,Alpine Skiing,super-G women
+46,TCH,lenka kebrlova,Did not start,Calgary 1988,Alpine Skiing,super-G women
+47,TCH,lucia medzihradska,Did not start,Calgary 1988,Alpine Skiing,super-G women

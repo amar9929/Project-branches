@@ -1,0 +1,584 @@
+,country,participant,result,olympic_game,discipline,event
+0,NOR,björn daehlie,00:24:20.100,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+1,KAZ,vladimir smirnov,00:24:38.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+2,ITA,marco albarello,00:24:42.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+3,RUS,mikhail botvinov,00:24:58.900,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+4,NOR,sture sivertsen,00:24:59.700,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+5,FIN,mika myllylae,00:25:05.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+6,NOR,vegard ulvang,00:25:08.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+7,ITA,silvio fauner,00:25:08.100,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+8,FIN,harri kirvesniemi,00:25:13.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+9,AUT,alois stadlober,00:25:25.400,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+10,GER,jochen behle,00:25:29.400,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+11,FIN,jari raesaenen,00:25:31.500,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+12,RUS,andrei kirillov,00:25:41.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+13,SWE,jan ottosson,00:25:47.900,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+14,ITA,giorgio vanzetta,00:25:48.100,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+15,KAZ,nikolai ivanov,00:25:48.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+16,GER,johann muehlegg,00:25:50.600,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+17,RUS,vladimir legotin,00:25:52.600,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+18,SWE,christer majbäck,00:25:55.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+19,RUS,aleksey prokurorov,00:25:55.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+20,SUI,jeremias wigger,00:25:55.400,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+21,FRA,patrick remy,00:25:57.600,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+22,FIN,jari isometsa,00:26:06.500,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+23,NOR,thomas alsgaard,00:26:07.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+24,JPN,kazunari sasaki,00:26:12.100,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+25,CZE,lubomir buchta,00:26:17.600,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+26,SWE,torgny mogren,00:26:21.700,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+27,BLR,viktar kamotski,00:26:22.600,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+28,ITA,fulvio valbusa,00:26:26.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+29,SWE,niklas jonsson,00:26:27.600,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+30,JPN,mitsuo horigome,00:26:36.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+31,GER,torald rein,00:26:38.700,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+32,EST,elmo kassin,00:26:40.900,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+33,KAZ,pavel riabinine,00:26:41.700,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+34,EST,jaak mae,00:26:42.700,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+35,EST,andrus veerpalu,00:26:45.800,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+36,KAZ,andrei nevzorov,00:26:45.900,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+37,LTU,ricardas panavas,00:26:46.100,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+38,FRA,philippe sanchez,00:26:47.800,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+39,JPN,hiroyuki imai,00:26:48.800,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+40,USA,todd boonstra,00:26:56.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+41,EST,urmas välbe,00:26:58.400,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+42,SVK,ivan batory,00:26:58.700,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+43,ESP,carlos vicente,00:27:01.400,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+44,USA,john aalberg,00:27:02.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+45,SUI,hans diethelm,00:27:03.100,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+46,ESP,juan jesus gutierrez,00:27:06.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+47,SUI,giachem guidon,00:27:09.100,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+48,CAN,dany bouchard,00:27:09.500,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+49,ISL,daniel jakobsson,00:27:09.700,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+50,AUS,anthony evans,00:27:09.900,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+51,USA,benjamin husaby,00:27:11.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+52,BLR,viachaslau plaksunou,00:27:12.100,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+53,FRA,stéphane azambre,00:27:14.600,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+54,LIE,markus hasler,00:27:17.100,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+55,CRO,sinisa vukonic,00:27:17.500,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+56,ESP,jordi ribo,00:27:21.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+57,USA,luke bodensteiner,00:27:22.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+58,CZE,vaclav korunka,00:27:22.800,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+59,SUI,wilhelm aschwanden,00:27:27.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+60,GER,janko neuber,00:27:27.400,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+61,BLR,igor obukhov,00:27:29.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+62,FRA,cédric vallet,00:27:30.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+63,DEN,ebbe hartz,00:27:36.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+64,CZE,pavel benc,00:27:38.600,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+65,DEN,michael binzer,00:27:43.500,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+66,AUS,mark gray,00:27:54.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+67,GBR,david belam,00:28:00.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+68,BUL,slavtscho batinkov,00:28:02.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+69,BLR,sergei dolidovich,00:28:02.800,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+70,CZE,martin petrasek,00:28:10.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+71,JPN,masaaki kozu,00:28:20.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+72,ROU,elemer-gyorgy tanko,00:28:30.500,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+73,BUL,iskren plankov,00:28:39.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+74,KOR,jin-soo ahn,00:28:42.900,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+75,LIE,stephan kunz,00:28:44.800,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+76,KOR,byung-chul park,00:28:47.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+77,ISL,rögnvaldur ingthorsson,00:28:51.200,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+78,CRO,antonijo racki,00:28:58.600,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+79,ROU,zsolt antal,00:29:13.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+80,BUL,petar zografov,00:29:49.400,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+81,GRE,nikos kalofiris,00:30:17.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+82,GRE,christos titas,00:30:37.000,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+83,BIH,bekim babic,00:30:44.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+84,LAT,janis hermanis,00:30:57.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+85,GRE,nikolaos anastasiadis,00:31:00.300,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+86,TUR,mithat yildirim,00:32:34.800,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+87,FIJ,rusiate rogoyawa,00:38:30.700,Lillehammer 1994,Cross Country Skiing,10km pursuit men
+0,ITA,manuela di centa,00:39:44.500,Lillehammer 1994,Cross Country Skiing,15km mass start women
+1,RUS,lyubov yegorova,00:41:03.000,Lillehammer 1994,Cross Country Skiing,15km mass start women
+2,RUS,nina gavriljuk,00:41:10.400,Lillehammer 1994,Cross Country Skiing,15km mass start women
+3,ITA,stefania belmondo,00:41:33.600,Lillehammer 1994,Cross Country Skiing,15km mass start women
+4,RUS,larissa lazutina,00:41:57.600,Lillehammer 1994,Cross Country Skiing,15km mass start women
+5,RUS,elena vaelbe trubitsina,00:42:26.600,Lillehammer 1994,Cross Country Skiing,15km mass start women
+6,SWE,antonina ordina,00:42:29.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+7,SVK,alzbeta havrancikova,00:42:34.400,Lillehammer 1994,Cross Country Skiing,15km mass start women
+8,FRA,sophie villeneuve,00:42:41.300,Lillehammer 1994,Cross Country Skiing,15km mass start women
+9,NOR,anita moen,00:42:42.900,Lillehammer 1994,Cross Country Skiing,15km mass start women
+10,JPN,fumiko aoki,00:43:01.400,Lillehammer 1994,Cross Country Skiing,15km mass start women
+11,ITA,gabriella paruzzi,00:43:05.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+12,NOR,elin nilsen,00:43:19.800,Lillehammer 1994,Cross Country Skiing,15km mass start women
+13,NOR,marit mikkelsplass,00:43:25.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+14,CZE,katerina neumannova,00:43:25.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+15,FIN,merja lahtinen,00:43:50.700,Lillehammer 1994,Cross Country Skiing,15km mass start women
+16,SWE,marie-helene östlund,00:44:03.600,Lillehammer 1994,Cross Country Skiing,15km mass start women
+17,POL,bernadetta piotrowska,00:44:12.800,Lillehammer 1994,Cross Country Skiing,15km mass start women
+18,SWE,anna-lena fritzon,00:44:26.900,Lillehammer 1994,Cross Country Skiing,15km mass start women
+19,NOR,bente skari,00:44:35.000,Lillehammer 1994,Cross Country Skiing,15km mass start women
+20,SUI,sylvia honegger,00:44:41.900,Lillehammer 1994,Cross Country Skiing,15km mass start women
+21,POL,dorota kwasna-lejawa,00:44:43.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+22,EST,piret niglas,00:44:48.300,Lillehammer 1994,Cross Country Skiing,15km mass start women
+23,FIN,mari hietala,00:44:56.800,Lillehammer 1994,Cross Country Skiing,15km mass start women
+24,POL,halina nowak,00:45:02.200,Lillehammer 1994,Cross Country Skiing,15km mass start women
+25,ITA,sabina valbusa,00:45:03.900,Lillehammer 1994,Cross Country Skiing,15km mass start women
+26,UKR,iryna taranenko-terelia,00:45:19.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+27,EST,kristina smigun-vaehi,00:45:21.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+28,SWE,annika evaldsson,00:45:25.400,Lillehammer 1994,Cross Country Skiing,15km mass start women
+29,SUI,barbara mettler,00:45:26.900,Lillehammer 1994,Cross Country Skiing,15km mass start women
+30,CZE,martina vondrova,00:45:29.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+31,LTU,vida venciene,00:45:41.200,Lillehammer 1994,Cross Country Skiing,15km mass start women
+32,BLR,alena sinkevich,00:45:45.400,Lillehammer 1994,Cross Country Skiing,15km mass start women
+33,USA,laura mccabe,00:45:51.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+34,USA,laura wilson,00:45:59.900,Lillehammer 1994,Cross Country Skiing,15km mass start women
+35,JPN,sumiko yokoyama,00:46:00.400,Lillehammer 1994,Cross Country Skiing,15km mass start women
+36,USA,leslie thompson,00:46:10.300,Lillehammer 1994,Cross Country Skiing,15km mass start women
+37,SUI,brigitte albrecht loretan,00:46:11.900,Lillehammer 1994,Cross Country Skiing,15km mass start women
+38,FRA,isabelle remy,00:46:16.200,Lillehammer 1994,Cross Country Skiing,15km mass start women
+39,POL,michalina maciuszek,00:46:43.000,Lillehammer 1994,Cross Country Skiing,15km mass start women
+40,CZE,iveta fortova,00:46:56.300,Lillehammer 1994,Cross Country Skiing,15km mass start women
+41,USA,nina kemppel,00:46:56.800,Lillehammer 1994,Cross Country Skiing,15km mass start women
+42,KAZ,oxana kotova,00:47:02.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+43,BUL,irina nikoultchina,00:47:03.500,Lillehammer 1994,Cross Country Skiing,15km mass start women
+44,EST,cristel vahtra,00:47:04.100,Lillehammer 1994,Cross Country Skiing,15km mass start women
+45,SVK,tatiana kutlikova,00:47:34.900,Lillehammer 1994,Cross Country Skiing,15km mass start women
+46,KAZ,yelena volodina-antonova,00:47:35.600,Lillehammer 1994,Cross Country Skiing,15km mass start women
+47,CZE,lucie chroustovska,00:47:37.800,Lillehammer 1994,Cross Country Skiing,15km mass start women
+48,EST,silja suija,00:47:47.500,Lillehammer 1994,Cross Country Skiing,15km mass start women
+49,BLR,svetlana kamotskaya,00:47:56.500,Lillehammer 1994,Cross Country Skiing,15km mass start women
+50,BLR,alena piirainen,00:48:45.300,Lillehammer 1994,Cross Country Skiing,15km mass start women
+51,LAT,ineta kravale,00:49:37.700,Lillehammer 1994,Cross Country Skiing,15km mass start women
+52,KAZ,yelena chernetsova,00:49:56.700,Lillehammer 1994,Cross Country Skiing,15km mass start women
+53,FRA,sylvie giry-rousset,Did not finish,Lillehammer 1994,Cross Country Skiing,15km mass start women
+0,NOR,thomas alsgaard,01:12:26.400,Lillehammer 1994,Cross Country Skiing,30km mass start men
+1,NOR,björn daehlie,01:13:13.600,Lillehammer 1994,Cross Country Skiing,30km mass start men
+2,FIN,mika myllylae,01:14:14.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+3,RUS,mikhail botvinov,01:14:43.300,Lillehammer 1994,Cross Country Skiing,30km mass start men
+4,ITA,maurilio de zolt,01:14:55.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+5,FIN,jari isometsa,01:15:12.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+6,ITA,silvio fauner,01:15:27.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+7,NOR,egil kristiansen,01:15:37.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+8,GER,johann muehlegg,01:15:42.800,Lillehammer 1994,Cross Country Skiing,30km mass start men
+9,KAZ,vladimir smirnov,01:16:01.800,Lillehammer 1994,Cross Country Skiing,30km mass start men
+10,FIN,jari raesaenen,01:16:10.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+11,SWE,henrik forsberg,01:16:10.800,Lillehammer 1994,Cross Country Skiing,30km mass start men
+12,FIN,jukka hartonen,01:16:18.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+13,ITA,giorgio vanzetta,01:16:35.200,Lillehammer 1994,Cross Country Skiing,30km mass start men
+14,RUS,gennadi lazutin,01:16:45.900,Lillehammer 1994,Cross Country Skiing,30km mass start men
+15,EST,elmo kassin,01:17:37.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+16,CZE,jiri teply,01:17:37.800,Lillehammer 1994,Cross Country Skiing,30km mass start men
+17,NOR,kristen skjeldal,01:17:48.300,Lillehammer 1994,Cross Country Skiing,30km mass start men
+18,JPN,mitsuo horigome,01:17:49.400,Lillehammer 1994,Cross Country Skiing,30km mass start men
+19,JPN,hiroyuki imai,01:18:03.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+20,LIE,markus hasler,01:18:18.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+21,SWE,anders bergstroem,01:18:22.200,Lillehammer 1994,Cross Country Skiing,30km mass start men
+22,SWE,mathias fredriksson,01:18:34.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+23,SWE,torgny mogren,01:18:41.300,Lillehammer 1994,Cross Country Skiing,30km mass start men
+24,CZE,pavel benc,01:18:49.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+25,RUS,igor badamchin,01:18:49.900,Lillehammer 1994,Cross Country Skiing,30km mass start men
+26,BLR,viachaslau plaksunou,01:18:57.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+27,RUS,aleksey prokurorov,01:19:15.300,Lillehammer 1994,Cross Country Skiing,30km mass start men
+28,ESP,jordi ribo,01:19:33.800,Lillehammer 1994,Cross Country Skiing,30km mass start men
+29,ESP,juan jesus gutierrez,01:19:47.300,Lillehammer 1994,Cross Country Skiing,30km mass start men
+30,BLR,viktar kamotski,01:19:47.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+31,FRA,cédric vallet,01:19:49.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+32,GER,janko neuber,01:19:57.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+33,CZE,ondrej valenta,01:20:04.100,Lillehammer 1994,Cross Country Skiing,30km mass start men
+34,GER,peter schlickenrieder,01:20:08.800,Lillehammer 1994,Cross Country Skiing,30km mass start men
+35,USA,luke bodensteiner,01:20:13.000,Lillehammer 1994,Cross Country Skiing,30km mass start men
+36,BLR,sergei dolidovich,01:20:36.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+37,ISL,daniel jakobsson,01:20:43.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+38,JPN,kazunari sasaki,01:20:52.100,Lillehammer 1994,Cross Country Skiing,30km mass start men
+39,KAZ,nikolai ivanov,01:20:53.900,Lillehammer 1994,Cross Country Skiing,30km mass start men
+40,EST,urmas välbe,01:21:02.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+41,KAZ,andrei nevzorov,01:21:14.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+42,USA,john aalberg,01:21:45.100,Lillehammer 1994,Cross Country Skiing,30km mass start men
+43,CRO,sinisa vukonic,01:21:57.200,Lillehammer 1994,Cross Country Skiing,30km mass start men
+44,USA,carl swenson,01:22:08.600,Lillehammer 1994,Cross Country Skiing,30km mass start men
+45,SUI,giachem guidon,01:22:21.000,Lillehammer 1994,Cross Country Skiing,30km mass start men
+46,DEN,michael binzer,01:22:23.100,Lillehammer 1994,Cross Country Skiing,30km mass start men
+47,JPN,kazutoshi nagahama,01:22:24.900,Lillehammer 1994,Cross Country Skiing,30km mass start men
+48,SUI,jürg capol,01:22:59.900,Lillehammer 1994,Cross Country Skiing,30km mass start men
+49,CAN,dany bouchard,01:23:06.900,Lillehammer 1994,Cross Country Skiing,30km mass start men
+50,KOR,jin-soo ahn,01:23:21.400,Lillehammer 1994,Cross Country Skiing,30km mass start men
+51,ROU,elemer-gyorgy tanko,01:23:22.600,Lillehammer 1994,Cross Country Skiing,30km mass start men
+52,KAZ,pavel korolev,01:23:25.300,Lillehammer 1994,Cross Country Skiing,30km mass start men
+53,ROU,zsolt antal,01:23:49.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+54,LIE,stephan kunz,01:24:00.000,Lillehammer 1994,Cross Country Skiing,30km mass start men
+55,KOR,byung-chul park,01:24:16.000,Lillehammer 1994,Cross Country Skiing,30km mass start men
+56,BLR,vasil horbachou,01:24:17.900,Lillehammer 1994,Cross Country Skiing,30km mass start men
+57,BUL,slavtscho batinkov,01:24:19.400,Lillehammer 1994,Cross Country Skiing,30km mass start men
+58,EST,jaak mae,01:24:24.100,Lillehammer 1994,Cross Country Skiing,30km mass start men
+59,GBR,david belam,01:24:28.200,Lillehammer 1994,Cross Country Skiing,30km mass start men
+60,AUS,mark gray,01:24:49.900,Lillehammer 1994,Cross Country Skiing,30km mass start men
+61,CRO,antonijo racki,01:25:42.400,Lillehammer 1994,Cross Country Skiing,30km mass start men
+62,EST,taivo kuus,01:25:52.300,Lillehammer 1994,Cross Country Skiing,30km mass start men
+63,BUL,petar zografov,01:27:18.600,Lillehammer 1994,Cross Country Skiing,30km mass start men
+64,USA,marcus nash,01:27:18.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+65,DEN,ebbe hartz,01:27:43.200,Lillehammer 1994,Cross Country Skiing,30km mass start men
+66,ISL,rögnvaldur ingthorsson,01:27:45.800,Lillehammer 1994,Cross Country Skiing,30km mass start men
+67,GRE,nikolaos anastasiadis,01:30:54.700,Lillehammer 1994,Cross Country Skiing,30km mass start men
+68,LAT,janis hermanis,01:34:10.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+69,GRE,nikos kalofiris,01:36:30.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+70,GRE,christos titas,01:36:41.500,Lillehammer 1994,Cross Country Skiing,30km mass start men
+71,FRA,hervé balland,Did not finish,Lillehammer 1994,Cross Country Skiing,30km mass start men
+72,LTU,ricardas panavas,Did not finish,Lillehammer 1994,Cross Country Skiing,30km mass start men
+73,ITA,gianfranco polvara,Disqualified,Lillehammer 1994,Cross Country Skiing,30km mass start men
+74,CZE,martin petrasek,Did not start,Lillehammer 1994,Cross Country Skiing,30km mass start men
+0,ITA,manuela di centa,01:25:41.600,Lillehammer 1994,Cross Country Skiing,30km women
+1,NOR,marit mikkelsplass,01:25:57.800,Lillehammer 1994,Cross Country Skiing,30km women
+2,FIN,marja-liisa kirvesniemi haemaelaeinen,01:26:13.600,Lillehammer 1994,Cross Country Skiing,30km women
+3,NOR,trude dybendahl hartz,01:26:52.600,Lillehammer 1994,Cross Country Skiing,30km women
+4,RUS,lyubov yegorova,01:26:54.800,Lillehammer 1994,Cross Country Skiing,30km women
+5,RUS,elena vaelbe trubitsina,01:26:57.400,Lillehammer 1994,Cross Country Skiing,30km women
+6,NOR,inger helene nybraaten,01:27:11.200,Lillehammer 1994,Cross Country Skiing,30km women
+7,FIN,marjut rolig,01:27:51.400,Lillehammer 1994,Cross Country Skiing,30km women
+8,RUS,svetlana nagejkina,01:27:57.200,Lillehammer 1994,Cross Country Skiing,30km women
+9,NOR,anita moen,01:28:18.100,Lillehammer 1994,Cross Country Skiing,30km women
+10,SWE,antonina ordina,01:28:39.200,Lillehammer 1994,Cross Country Skiing,30km women
+11,SWE,marie-helene östlund,01:28:46.200,Lillehammer 1994,Cross Country Skiing,30km women
+12,SWE,anna frithioff,01:29:07.200,Lillehammer 1994,Cross Country Skiing,30km women
+13,FIN,pirkko määttä,01:29:27.000,Lillehammer 1994,Cross Country Skiing,30km women
+14,FIN,merja lahtinen,01:29:55.100,Lillehammer 1994,Cross Country Skiing,30km women
+15,POL,malgorzata ruchala,01:30:45.800,Lillehammer 1994,Cross Country Skiing,30km women
+16,ITA,guidina dal sasso,01:30:47.500,Lillehammer 1994,Cross Country Skiing,30km women
+17,SVK,lubomira balazova,01:30:58.700,Lillehammer 1994,Cross Country Skiing,30km women
+18,SUI,sylvia honegger,01:31:11.600,Lillehammer 1994,Cross Country Skiing,30km women
+19,UKR,iryna taranenko-terelia,01:31:26.500,Lillehammer 1994,Cross Country Skiing,30km women
+20,KAZ,yelena volodina-antonova,01:31:43.100,Lillehammer 1994,Cross Country Skiing,30km women
+21,BLR,alena sinkevich,01:31:47.800,Lillehammer 1994,Cross Country Skiing,30km women
+22,RUS,nataliya martynova,01:31:59.400,Lillehammer 1994,Cross Country Skiing,30km women
+23,FRA,carole stanisiere,01:32:17.600,Lillehammer 1994,Cross Country Skiing,30km women
+24,LTU,vida venciene,01:32:18.900,Lillehammer 1994,Cross Country Skiing,30km women
+25,JPN,fumiko aoki,01:32:22.300,Lillehammer 1994,Cross Country Skiing,30km women
+26,USA,nina kemppel,01:32:55.300,Lillehammer 1994,Cross Country Skiing,30km women
+27,SWE,lis frost,01:33:04.100,Lillehammer 1994,Cross Country Skiing,30km women
+28,EST,piret niglas,01:33:09.300,Lillehammer 1994,Cross Country Skiing,30km women
+29,ITA,gabriella paruzzi,01:33:28.900,Lillehammer 1994,Cross Country Skiing,30km women
+30,POL,michalina maciuszek,01:33:34.200,Lillehammer 1994,Cross Country Skiing,30km women
+31,SVK,alzbeta havrancikova,01:33:41.500,Lillehammer 1994,Cross Country Skiing,30km women
+32,SUI,silke schwager,01:34:07.400,Lillehammer 1994,Cross Country Skiing,30km women
+33,POL,bernadetta piotrowska,01:34:28.600,Lillehammer 1994,Cross Country Skiing,30km women
+34,EST,cristel vahtra,01:34:48.600,Lillehammer 1994,Cross Country Skiing,30km women
+35,CZE,martina vondrova,01:34:50.100,Lillehammer 1994,Cross Country Skiing,30km women
+36,SUI,brigitte albrecht loretan,01:34:55.300,Lillehammer 1994,Cross Country Skiing,30km women
+37,BUL,irina nikoultchina,01:36:06.300,Lillehammer 1994,Cross Country Skiing,30km women
+38,CZE,lucie chroustovska,01:36:07.800,Lillehammer 1994,Cross Country Skiing,30km women
+39,USA,dorcas wonsavage,01:36:34.100,Lillehammer 1994,Cross Country Skiing,30km women
+40,SUI,barbara mettler,01:36:40.800,Lillehammer 1994,Cross Country Skiing,30km women
+41,CZE,jana razlova,01:36:40.900,Lillehammer 1994,Cross Country Skiing,30km women
+42,SVK,tatiana kutlikova,01:36:41.400,Lillehammer 1994,Cross Country Skiing,30km women
+43,BLR,svetlana kamotskaya,01:36:51.000,Lillehammer 1994,Cross Country Skiing,30km women
+44,JPN,sumiko yokoyama,01:37:14.700,Lillehammer 1994,Cross Country Skiing,30km women
+45,KAZ,yelena chernetsova,01:38:17.000,Lillehammer 1994,Cross Country Skiing,30km women
+46,KAZ,oxana kotova,01:38:34.100,Lillehammer 1994,Cross Country Skiing,30km women
+47,LAT,ineta kravale,01:38:41.800,Lillehammer 1994,Cross Country Skiing,30km women
+48,USA,laura wilson,01:38:52.600,Lillehammer 1994,Cross Country Skiing,30km women
+49,FRA,sylvie giry-rousset,01:39:26.300,Lillehammer 1994,Cross Country Skiing,30km women
+50,USA,suzanne king,01:45:27.900,Lillehammer 1994,Cross Country Skiing,30km women
+51,POL,dorota kwasna-lejawa,Did not finish,Lillehammer 1994,Cross Country Skiing,30km women
+52,CZE,iveta fortova,Did not finish,Lillehammer 1994,Cross Country Skiing,30km women
+53,BLR,ljudmila dideleva,Did not start,Lillehammer 1994,Cross Country Skiing,30km women
+54,BLR,alena piirainen,Did not start,Lillehammer 1994,Cross Country Skiing,30km women
+0,KAZ,vladimir smirnov,02:07:20.300,Lillehammer 1994,Cross Country Skiing,50km men
+1,FIN,mika myllylae,02:08:41.900,Lillehammer 1994,Cross Country Skiing,50km men
+2,NOR,sture sivertsen,02:08:49.000,Lillehammer 1994,Cross Country Skiing,50km men
+3,NOR,björn daehlie,02:09:11.400,Lillehammer 1994,Cross Country Skiing,50km men
+4,NOR,erling jevne,02:09:12.200,Lillehammer 1994,Cross Country Skiing,50km men
+5,SWE,christer majbäck,02:10:03.800,Lillehammer 1994,Cross Country Skiing,50km men
+6,ITA,maurilio de zolt,02:10:12.100,Lillehammer 1994,Cross Country Skiing,50km men
+7,ITA,giorgio vanzetta,02:10:16.400,Lillehammer 1994,Cross Country Skiing,50km men
+8,RUS,mikhail botvinov,02:10:18.900,Lillehammer 1994,Cross Country Skiing,50km men
+9,NOR,vegard ulvang,02:10:40.000,Lillehammer 1994,Cross Country Skiing,50km men
+10,ITA,silvio fauner,02:11:09.600,Lillehammer 1994,Cross Country Skiing,50km men
+11,FIN,harri kirvesniemi,02:11:19.300,Lillehammer 1994,Cross Country Skiing,50km men
+12,RUS,aleksey prokurorov,02:11:52.800,Lillehammer 1994,Cross Country Skiing,50km men
+13,RUS,igor badamchin,02:12:20.100,Lillehammer 1994,Cross Country Skiing,50km men
+14,AUT,alois stadlober,02:13:13.500,Lillehammer 1994,Cross Country Skiing,50km men
+15,SUI,jeremias wigger,02:13:40.200,Lillehammer 1994,Cross Country Skiing,50km men
+16,RUS,aleksandr vorobyov,02:13:44.500,Lillehammer 1994,Cross Country Skiing,50km men
+17,SWE,jan ottosson,02:13:55.200,Lillehammer 1994,Cross Country Skiing,50km men
+18,ESP,juan jesus gutierrez,02:14:22.500,Lillehammer 1994,Cross Country Skiing,50km men
+19,CZE,lubomir buchta,02:14:50.000,Lillehammer 1994,Cross Country Skiing,50km men
+20,BLR,viktar kamotski,02:15:02.900,Lillehammer 1994,Cross Country Skiing,50km men
+21,EST,jaanus teppan,02:16:18.800,Lillehammer 1994,Cross Country Skiing,50km men
+22,FRA,patrick remy,02:16:21.400,Lillehammer 1994,Cross Country Skiing,50km men
+23,JPN,kazunari sasaki,02:16:51.700,Lillehammer 1994,Cross Country Skiing,50km men
+24,BLR,igor obukhov,02:17:08.400,Lillehammer 1994,Cross Country Skiing,50km men
+25,EST,andrus veerpalu,02:17:24.700,Lillehammer 1994,Cross Country Skiing,50km men
+26,SWE,niklas jonsson,02:17:54.900,Lillehammer 1994,Cross Country Skiing,50km men
+27,JPN,hiroyuki imai,02:17:55.200,Lillehammer 1994,Cross Country Skiing,50km men
+28,KAZ,pavel riabinine,02:18:08.100,Lillehammer 1994,Cross Country Skiing,50km men
+29,LIE,markus hasler,02:18:40.100,Lillehammer 1994,Cross Country Skiing,50km men
+30,ITA,gianfranco polvara,02:18:40.300,Lillehammer 1994,Cross Country Skiing,50km men
+31,LTU,ricardas panavas,02:19:01.300,Lillehammer 1994,Cross Country Skiing,50km men
+32,FRA,cédric vallet,02:19:06.700,Lillehammer 1994,Cross Country Skiing,50km men
+33,ESP,jordi ribo,02:19:21.900,Lillehammer 1994,Cross Country Skiing,50km men
+34,USA,justin wadsworth,02:19:49.100,Lillehammer 1994,Cross Country Skiing,50km men
+35,EST,taivo kuus,02:19:51.900,Lillehammer 1994,Cross Country Skiing,50km men
+36,FIN,sami repo,02:20:32.800,Lillehammer 1994,Cross Country Skiing,50km men
+37,LIE,stephan kunz,02:20:38.100,Lillehammer 1994,Cross Country Skiing,50km men
+38,USA,todd boonstra,02:20:41.000,Lillehammer 1994,Cross Country Skiing,50km men
+39,FIN,karri hietamaeki,02:20:50.900,Lillehammer 1994,Cross Country Skiing,50km men
+40,SUI,hans diethelm,02:21:01.800,Lillehammer 1994,Cross Country Skiing,50km men
+41,ESP,carlos vicente,02:21:03.500,Lillehammer 1994,Cross Country Skiing,50km men
+42,BLR,vasil horbachou,02:21:31.300,Lillehammer 1994,Cross Country Skiing,50km men
+43,SUI,jürg capol,02:21:48.300,Lillehammer 1994,Cross Country Skiing,50km men
+44,KAZ,sergey margatsky,02:21:57.900,Lillehammer 1994,Cross Country Skiing,50km men
+45,FRA,philippe sanchez,02:22:01.000,Lillehammer 1994,Cross Country Skiing,50km men
+46,AUS,anthony evans,02:22:05.200,Lillehammer 1994,Cross Country Skiing,50km men
+47,JPN,kazutoshi nagahama,02:22:30.200,Lillehammer 1994,Cross Country Skiing,50km men
+48,USA,peter vordenberg,02:22:53.100,Lillehammer 1994,Cross Country Skiing,50km men
+49,KAZ,nikolai ivanov,02:22:59.100,Lillehammer 1994,Cross Country Skiing,50km men
+50,CAN,dany bouchard,02:23:09.000,Lillehammer 1994,Cross Country Skiing,50km men
+51,CRO,antonijo racki,02:23:23.400,Lillehammer 1994,Cross Country Skiing,50km men
+52,USA,benjamin husaby,02:23:37.300,Lillehammer 1994,Cross Country Skiing,50km men
+53,CRO,sinisa vukonic,02:24:12.600,Lillehammer 1994,Cross Country Skiing,50km men
+54,ISL,daniel jakobsson,02:24:57.000,Lillehammer 1994,Cross Country Skiing,50km men
+55,GER,peter schlickenrieder,02:25:22.400,Lillehammer 1994,Cross Country Skiing,50km men
+56,DEN,ebbe hartz,02:25:58.500,Lillehammer 1994,Cross Country Skiing,50km men
+57,CZE,ondrej valenta,02:26:08.600,Lillehammer 1994,Cross Country Skiing,50km men
+58,AUS,mark gray,02:28:51.600,Lillehammer 1994,Cross Country Skiing,50km men
+59,ISL,rögnvaldur ingthorsson,02:32:52.900,Lillehammer 1994,Cross Country Skiing,50km men
+60,LAT,janis hermanis,02:36:11.100,Lillehammer 1994,Cross Country Skiing,50km men
+61,GER,jochen behle,Did not finish,Lillehammer 1994,Cross Country Skiing,50km men
+62,SUI,giachem guidon,Did not finish,Lillehammer 1994,Cross Country Skiing,50km men
+63,GER,janko neuber,Did not finish,Lillehammer 1994,Cross Country Skiing,50km men
+64,CZE,martin petrasek,Did not finish,Lillehammer 1994,Cross Country Skiing,50km men
+65,ROU,elemer-gyorgy tanko,Did not finish,Lillehammer 1994,Cross Country Skiing,50km men
+66,BLR,sergei dolidovich,Did not start,Lillehammer 1994,Cross Country Skiing,50km men
+67,CZE,pavel benc,Did not start,Lillehammer 1994,Cross Country Skiing,50km men
+68,DEN,michael binzer,Did not start,Lillehammer 1994,Cross Country Skiing,50km men
+69,GBR,david belam,Did not start,Lillehammer 1994,Cross Country Skiing,50km men
+70,GER,torald rein,Did not start,Lillehammer 1994,Cross Country Skiing,50km men
+71,SWE,mathias fredriksson,Did not start,Lillehammer 1994,Cross Country Skiing,50km men
+0,RUS,lyubov yegorova,00:14:08.800,Lillehammer 1994,Cross Country Skiing,5km women
+1,ITA,manuela di centa,00:14:28.300,Lillehammer 1994,Cross Country Skiing,5km women
+2,FIN,marja-liisa kirvesniemi haemaelaeinen,00:14:36.000,Lillehammer 1994,Cross Country Skiing,5km women
+3,NOR,anita moen,00:14:39.400,Lillehammer 1994,Cross Country Skiing,5km women
+4,NOR,inger helene nybraaten,00:14:43.600,Lillehammer 1994,Cross Country Skiing,5km women
+5,RUS,larissa lazutina,00:14:44.200,Lillehammer 1994,Cross Country Skiing,5km women
+6,NOR,trude dybendahl hartz,00:14:48.100,Lillehammer 1994,Cross Country Skiing,5km women
+7,CZE,katerina neumannova,00:14:49.600,Lillehammer 1994,Cross Country Skiing,5km women
+8,FIN,pirkko määttä,00:14:51.500,Lillehammer 1994,Cross Country Skiing,5km women
+9,SWE,antonina ordina,00:14:59.200,Lillehammer 1994,Cross Country Skiing,5km women
+10,RUS,nina gavriljuk,00:15:01.600,Lillehammer 1994,Cross Country Skiing,5km women
+11,NOR,elin nilsen,00:15:03.100,Lillehammer 1994,Cross Country Skiing,5km women
+12,ITA,stefania belmondo,00:15:04.000,Lillehammer 1994,Cross Country Skiing,5km women
+13,FIN,marjut rolig,00:15:05.100,Lillehammer 1994,Cross Country Skiing,5km women
+14,POL,malgorzata ruchala,00:15:07.500,Lillehammer 1994,Cross Country Skiing,5km women
+15,RUS,svetlana nagejkina,00:15:08.500,Lillehammer 1994,Cross Country Skiing,5km women
+16,SWE,anna frithioff,00:15:13.300,Lillehammer 1994,Cross Country Skiing,5km women
+17,FIN,tuhlikki pyykkonen,00:15:13.600,Lillehammer 1994,Cross Country Skiing,5km women
+18,ITA,bice vanzetta,00:15:21.300,Lillehammer 1994,Cross Country Skiing,5km women
+19,SUI,sylvia honegger,00:15:21.700,Lillehammer 1994,Cross Country Skiing,5km women
+20,SVK,lubomira balazova,00:15:23.900,Lillehammer 1994,Cross Country Skiing,5km women
+21,EST,piret niglas,00:15:29.000,Lillehammer 1994,Cross Country Skiing,5km women
+22,FRA,sophie villeneuve,00:15:31.900,Lillehammer 1994,Cross Country Skiing,5km women
+23,ITA,gabriella paruzzi,00:15:34.700,Lillehammer 1994,Cross Country Skiing,5km women
+24,SWE,annika evaldsson,00:15:35.700,Lillehammer 1994,Cross Country Skiing,5km women
+25,JPN,fumiko aoki,00:15:41.900,Lillehammer 1994,Cross Country Skiing,5km women
+26,EST,cristel vahtra,00:15:42.300,Lillehammer 1994,Cross Country Skiing,5km women
+27,USA,nina kemppel,00:15:44.800,Lillehammer 1994,Cross Country Skiing,5km women
+28,UKR,iryna taranenko-terelia,00:15:46.000,Lillehammer 1994,Cross Country Skiing,5km women
+29,EST,kristina smigun-vaehi,00:15:46.100,Lillehammer 1994,Cross Country Skiing,5km women
+30,POL,bernadetta piotrowska,00:15:47.100,Lillehammer 1994,Cross Country Skiing,5km women
+31,SVK,alzbeta havrancikova,00:15:47.200,Lillehammer 1994,Cross Country Skiing,5km women
+32,KAZ,yelena volodina-antonova,00:15:49.700,Lillehammer 1994,Cross Country Skiing,5km women
+33,BLR,alena sinkevich,00:15:50.200,Lillehammer 1994,Cross Country Skiing,5km women
+34,SWE,anna-lena fritzon,00:15:52.900,Lillehammer 1994,Cross Country Skiing,5km women
+35,BLR,ljudmila dideleva,00:15:57.700,Lillehammer 1994,Cross Country Skiing,5km women
+36,SUI,barbara mettler,00:15:59.600,Lillehammer 1994,Cross Country Skiing,5km women
+37,POL,dorota kwasna-lejawa,00:16:04.300,Lillehammer 1994,Cross Country Skiing,5km women
+38,EST,silja suija,00:16:07.800,Lillehammer 1994,Cross Country Skiing,5km women
+39,USA,leslie thompson,00:16:08.000,Lillehammer 1994,Cross Country Skiing,5km women
+40,FRA,carole stanisiere,00:16:08.700,Lillehammer 1994,Cross Country Skiing,5km women
+41,SUI,silke schwager,00:16:11.200,Lillehammer 1994,Cross Country Skiing,5km women
+42,CZE,iveta fortova,00:16:15.600,Lillehammer 1994,Cross Country Skiing,5km women
+43,BLR,alena piirainen,00:16:25.000,Lillehammer 1994,Cross Country Skiing,5km women
+44,BLR,svetlana kamotskaya,00:16:25.800,Lillehammer 1994,Cross Country Skiing,5km women
+45,SVK,jaroslava bukvajova,00:16:26.600,Lillehammer 1994,Cross Country Skiing,5km women
+46,CZE,martina vondrova,00:16:27.300,Lillehammer 1994,Cross Country Skiing,5km women
+47,SVK,tatiana kutlikova,00:16:27.700,Lillehammer 1994,Cross Country Skiing,5km women
+48,KAZ,yelena chernetsova,00:16:28.800,Lillehammer 1994,Cross Country Skiing,5km women
+49,JPN,sumiko yokoyama,00:16:30.500,Lillehammer 1994,Cross Country Skiing,5km women
+50,FRA,isabelle remy,00:16:31.400,Lillehammer 1994,Cross Country Skiing,5km women
+51,KAZ,nataliya shtaymets,00:16:33.400,Lillehammer 1994,Cross Country Skiing,5km women
+52,USA,ingrid butts,00:16:33.600,Lillehammer 1994,Cross Country Skiing,5km women
+53,FRA,elisabeth tardy,00:16:39.300,Lillehammer 1994,Cross Country Skiing,5km women
+54,CZE,jana razlova,00:16:39.700,Lillehammer 1994,Cross Country Skiing,5km women
+55,KAZ,oxana kotova,00:16:40.700,Lillehammer 1994,Cross Country Skiing,5km women
+56,BUL,irina nikoultchina,00:16:41.600,Lillehammer 1994,Cross Country Skiing,5km women
+57,POL,halina nowak,00:16:46.100,Lillehammer 1994,Cross Country Skiing,5km women
+58,USA,karen petty,00:16:52.500,Lillehammer 1994,Cross Country Skiing,5km women
+59,SUI,jasmin baumann,00:17:00.300,Lillehammer 1994,Cross Country Skiing,5km women
+60,LAT,ineta kravale,00:17:21.500,Lillehammer 1994,Cross Country Skiing,5km women
+61,LTU,vida venciene,Did not finish,Lillehammer 1994,Cross Country Skiing,5km women
+0,NOR,björn daehlie,00:35:48.800,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+1,KAZ,vladimir smirnov,00:36:18.000,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+2,ITA,silvio fauner,00:37:28.600,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+3,FIN,mika myllylae,00:37:35.900,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+4,RUS,mikhail botvinov,00:37:37.800,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+5,FIN,jari raesaenen,00:37:43.700,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+6,NOR,sture sivertsen,00:37:49.700,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+7,GER,johann muehlegg,00:38:11.200,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+8,ITA,giorgio vanzetta,00:38:11.600,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+9,ITA,marco albarello,00:38:14.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+10,AUT,alois stadlober,00:38:37.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+11,RUS,aleksey prokurorov,00:38:47.800,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+12,SUI,jeremias wigger,00:38:47.900,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+13,GER,jochen behle,00:39:12.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+14,SWE,jan ottosson,00:39:12.400,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+15,RUS,andrei kirillov,00:39:39.700,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+16,RUS,vladimir legotin,00:39:40.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+17,JPN,kazunari sasaki,00:39:40.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+18,KAZ,nikolai ivanov,00:39:50.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+19,FRA,patrick remy,00:40:00.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+20,BLR,viachaslau plaksunou,00:40:15.200,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+21,ITA,fulvio valbusa,00:40:16.300,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+22,SWE,christer majbäck,00:40:22.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+23,CZE,lubomir buchta,00:40:34.000,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+24,EST,elmo kassin,00:40:34.900,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+25,KAZ,pavel riabinine,00:40:45.600,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+26,JPN,mitsuo horigome,00:40:47.000,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+27,ESP,juan jesus gutierrez,00:41:00.000,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+28,FRA,philippe sanchez,00:41:11.800,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+29,SUI,hans diethelm,00:41:12.400,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+30,KAZ,andrei nevzorov,00:41:12.900,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+31,ESP,carlos vicente,00:41:13.300,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+32,USA,john aalberg,00:41:13.400,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+33,SVK,ivan batory,00:41:14.300,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+34,GER,janko neuber,00:41:19.600,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+35,CZE,pavel benc,00:41:24.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+36,CZE,vaclav korunka,00:41:42.000,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+37,GER,torald rein,00:41:42.300,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+38,LIE,markus hasler,00:41:45.400,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+39,EST,jaak mae,00:41:46.000,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+40,USA,todd boonstra,00:41:47.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+41,JPN,hiroyuki imai,00:41:59.800,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+42,USA,benjamin husaby,00:42:15.900,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+43,CRO,sinisa vukonic,00:42:25.300,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+44,USA,luke bodensteiner,00:42:33.000,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+45,BLR,igor obukhov,00:42:33.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+46,ESP,jordi ribo,00:42:47.600,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+47,LTU,ricardas panavas,00:42:52.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+48,ISL,daniel jakobsson,00:42:57.000,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+49,DEN,michael binzer,00:42:57.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+50,BLR,sergei dolidovich,00:43:10.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+51,CAN,dany bouchard,00:43:13.200,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+52,FRA,cédric vallet,00:43:24.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+53,JPN,masaaki kozu,00:43:30.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+54,EST,andrus veerpalu,00:43:56.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+55,SUI,wilhelm aschwanden,00:43:57.400,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+56,AUS,anthony evans,00:44:02.900,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+57,CZE,martin petrasek,00:44:03.800,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+58,ROU,elemer-gyorgy tanko,00:44:27.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+59,BUL,slavtscho batinkov,00:44:27.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+60,DEN,ebbe hartz,00:44:32.800,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+61,ROU,zsolt antal,00:44:44.200,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+62,GBR,david belam,00:44:57.800,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+63,LIE,stephan kunz,00:44:59.600,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+64,KOR,byung-chul park,00:45:36.300,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+65,AUS,mark gray,00:45:41.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+66,BUL,iskren plankov,00:46:32.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+67,KOR,jin-soo ahn,00:46:56.100,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+68,ISL,rögnvaldur ingthorsson,00:46:56.200,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+69,BUL,petar zografov,00:47:22.200,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+70,CRO,antonijo racki,00:48:18.800,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+71,LAT,janis hermanis,00:50:57.500,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+72,GRE,nikolaos anastasiadis,00:51:23.900,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+73,BIH,bekim babic,00:53:23.600,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+74,GRE,nikos kalofiris,Did not finish,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+75,EST,urmas välbe,Did not finish,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+76,NOR,vegard ulvang,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+77,FIN,harri kirvesniemi,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+78,FIN,jari isometsa,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+79,NOR,thomas alsgaard,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+80,SWE,torgny mogren,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+81,BLR,viktar kamotski,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+82,SWE,niklas jonsson,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+83,SUI,giachem guidon,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+84,FRA,stéphane azambre,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+85,GRE,christos titas,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+86,TUR,mithat yildirim,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+87,FIJ,rusiate rogoyawa,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 10km  15km pursuit men
+0,RUS,lyubov yegorova,00:27:30.100,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+1,ITA,manuela di centa,00:27:38.400,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+2,ITA,stefania belmondo,00:28:13.100,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+3,RUS,larissa lazutina,00:28:28.600,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+4,RUS,nina gavriljuk,00:28:28.900,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+5,CZE,katerina neumannova,00:28:41.800,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+6,NOR,trude dybendahl hartz,00:28:42.200,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+7,NOR,anita moen,00:29:13.200,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+8,SWE,antonina ordina,00:29:23.500,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+9,FRA,sophie villeneuve,00:29:28.800,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+10,SUI,sylvia honegger,00:29:30.900,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+11,NOR,elin nilsen,00:29:35.400,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+12,FIN,marja-liisa kirvesniemi haemaelaeinen,00:29:49.600,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+13,POL,malgorzata ruchala,00:29:49.700,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+14,FIN,pirkko määttä,00:29:53.100,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+15,JPN,fumiko aoki,00:30:00.400,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+16,SVK,alzbeta havrancikova,00:30:02.000,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+17,ITA,gabriella paruzzi,00:30:20.900,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+18,RUS,svetlana nagejkina,00:30:23.700,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+19,UKR,iryna taranenko-terelia,00:30:38.200,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+20,FIN,marjut rolig,00:30:40.200,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+21,POL,bernadetta piotrowska,00:30:50.200,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+22,SUI,barbara mettler,00:31:08.300,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+23,SVK,lubomira balazova,00:31:20.100,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+24,SWE,anna-lena fritzon,00:31:29.500,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+25,EST,piret niglas,00:31:33.500,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+26,EST,kristina smigun-vaehi,00:31:51.400,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+27,POL,dorota kwasna-lejawa,00:31:53.600,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+28,SWE,annika evaldsson,00:32:03.400,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+29,FRA,isabelle remy,00:32:12.800,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+30,USA,nina kemppel,00:32:13.800,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+31,USA,leslie thompson,00:32:22.600,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+32,CZE,iveta fortova,00:32:32.200,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+33,ITA,bice vanzetta,00:32:35.100,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+34,SVK,tatiana kutlikova,00:32:45.000,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+35,JPN,sumiko yokoyama,00:32:48.000,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+36,SWE,anna frithioff,00:32:50.100,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+37,KAZ,yelena volodina-antonova,00:32:53.100,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+38,SUI,silke schwager,00:33:10.100,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+39,SVK,jaroslava bukvajova,00:33:20.300,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+40,FRA,elisabeth tardy,00:33:29.900,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+41,EST,cristel vahtra,00:33:32.300,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+42,BUL,irina nikoultchina,00:33:38.600,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+43,CZE,martina vondrova,00:33:43.900,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+44,BLR,ljudmila dideleva,00:33:47.900,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+45,EST,silja suija,00:33:55.300,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+46,FRA,carole stanisiere,00:34:02.400,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+47,KAZ,oxana kotova,00:34:03.600,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+48,BLR,alena piirainen,00:34:06.400,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+49,USA,ingrid butts,00:34:31.600,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+50,SUI,jasmin baumann,00:35:01.200,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+51,CZE,jana razlova,00:35:38.800,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+52,KAZ,yelena chernetsova,00:35:46.400,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+53,USA,karen petty,Did not finish,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+54,BLR,alena sinkevich,Did not finish,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+55,NOR,inger helene nybraaten,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+56,FIN,tuhlikki pyykkonen,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+57,BLR,svetlana kamotskaya,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+58,KAZ,nataliya shtaymets,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+59,POL,halina nowak,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+60,LAT,ineta kravale,Did not start,Lillehammer 1994,Cross Country Skiing,Combined 5km  10km pursuit women
+0,,,01:41:15.000,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+1,,,01:41:15.400,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+2,,,01:42:15.600,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+3,,,01:44:26.700,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+4,,,01:44:29.200,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+5,,,01:45:22.700,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+6,,,01:47:12.200,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+7,,,01:47:12.600,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+8,,,01:47:41.300,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+9,,,01:48:25.100,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+10,,,01:48:57.600,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+11,,,01:49:23.700,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+12,,,01:49:40.500,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+13,,,01:49:42.100,Lillehammer 1994,Cross Country Skiing,Relay 4x10km men
+0,,,00:57:12.500,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+1,,,00:57:42.600,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+2,,,00:58:42.600,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+3,,,00:59:15.900,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+4,,,01:00:05.100,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+5,,,01:00:05.800,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+6,,,01:01:00.200,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+7,,,01:01:13.200,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+8,,,01:02:02.100,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+9,,,01:02:28.400,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+10,,,01:02:28.600,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+11,,,01:02:32.400,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+12,,,01:03:13.000,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women
+13,,,01:04:25.800,Lillehammer 1994,Cross Country Skiing,Relay 4x5km women

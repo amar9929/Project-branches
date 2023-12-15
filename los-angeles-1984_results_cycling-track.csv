@@ -1,0 +1,95 @@
+,country,participant,result,olympic_game,discipline,event
+0,FRG,fredy schmidtke,00:01:06.100,Los Angeles 1984,Cycling Track,1km time trial men
+1,CAN,curtis harnett,00:01:06.440,Los Angeles 1984,Cycling Track,1km time trial men
+2,FRA,fabrice colas,00:01:06.650,Los Angeles 1984,Cycling Track,1km time trial men
+3,TTO,gene samuel,00:01:06.690,Los Angeles 1984,Cycling Track,1km time trial men
+4,NZL,craig adair,00:01:06.960,Los Angeles 1984,Cycling Track,1km time trial men
+5,JAM,david weller,00:01:07.240,Los Angeles 1984,Cycling Track,1km time trial men
+6,ARG,marcelo alexandre,00:01:07.290,Los Angeles 1984,Cycling Track,1km time trial men
+7,USA,rory thomas o'reilly,00:01:07.390,Los Angeles 1984,Cycling Track,1km time trial men
+8,ITA,stefano baudino,00:01:07.700,Los Angeles 1984,Cycling Track,1km time trial men
+9,SUI,heinz isler,00:01:07.880,Los Angeles 1984,Cycling Track,1km time trial men
+10,NOR,rolf morgan hansen,00:01:07.940,Los Angeles 1984,Cycling Track,1km time trial men
+11,BRA,marcelo greuel,00:01:08.370,Los Angeles 1984,Cycling Track,1km time trial men
+12,JPN,tsutomu sakamoto,00:01:08.870,Los Angeles 1984,Cycling Track,1km time trial men
+13,AUS,max rainsford,00:01:08.960,Los Angeles 1984,Cycling Track,1km time trial men
+14,DEN,claus sylvest rasmussen,00:01:09.040,Los Angeles 1984,Cycling Track,1km time trial men
+15,GUA,max eduardo leiva buhler,00:01:09.360,Los Angeles 1984,Cycling Track,1km time trial men
+16,CHI,miguel angel droguett hidalgo,00:01:09.420,Los Angeles 1984,Cycling Track,1km time trial men
+17,GBR,mark barry,00:01:09.540,Los Angeles 1984,Cycling Track,1km time trial men
+18,BAR,charles pile,00:01:10.560,Los Angeles 1984,Cycling Track,1km time trial men
+19,MAS,rosman alwi,00:01:11.030,Los Angeles 1984,Cycling Track,1km time trial men
+20,AUT,paul popp,00:01:11.100,Los Angeles 1984,Cycling Track,1km time trial men
+21,TPE,fu-hsiang lee,00:01:11.120,Los Angeles 1984,Cycling Track,1km time trial men
+22,PHI,rodolfo guaves,00:01:11.610,Los Angeles 1984,Cycling Track,1km time trial men
+23,CAY,ernest moodie,00:01:16.910,Los Angeles 1984,Cycling Track,1km time trial men
+24,ANT,leonard richardson,Did not finish,Los Angeles 1984,Cycling Track,1km time trial men
+0,USA,stephen edward hegg,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+1,FRG,rolf golz,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+2,USA,leonard harvey nitz,00:04:44.030,Los Angeles 1984,Cycling Track,Individual Pursuit men
+3,AUS,dean woods,00:04:44.080,Los Angeles 1984,Cycling Track,Individual Pursuit men
+4,DEN,jorgen pedersen,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+5,NED,jelle nijdan,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+6,FRA,pascal robert,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+7,AUS,michael grenda,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+8,BEL,rudolf ceyssens,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+9,ITA,roberto calovi,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+10,NZL,anthony cuff,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+11,GBR,shaun wallace,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+12,ARG,gabriel ovidio curutchet,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+13,CAN,alexander stieda,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+14,SUI,jörg müller,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+15,URU,carlos garcia gonzalez,,Los Angeles 1984,Cycling Track,Individual Pursuit men
+16,ARG,pedro omar caino,overtaken,Los Angeles 1984,Cycling Track,Individual Pursuit men
+17,TPE,chin-te hsu,overtaken,Los Angeles 1984,Cycling Track,Individual Pursuit men
+18,CHI,eduardo cuevas,overtaken,Los Angeles 1984,Cycling Track,Individual Pursuit men
+19,FRG,ingo wittenborn,overtaken,Los Angeles 1984,Cycling Track,Individual Pursuit men
+0,BEL,roger ilegems,37,Los Angeles 1984,Cycling Track,Points Race men
+1,FRG,uwe messerschmidt,15,Los Angeles 1984,Cycling Track,Points Race men
+2,MEX,jose manuel youshimatz,29,Los Angeles 1984,Cycling Track,Points Race men
+3,SUI,jörg müller,23,Los Angeles 1984,Cycling Track,Points Race men
+4,ARG,juan esteban curuchet,20,Los Angeles 1984,Cycling Track,Points Race men
+5,AUS,glenn clarke,13,Los Angeles 1984,Cycling Track,Points Race men
+6,NZL,brian andrew fowler,12,Los Angeles 1984,Cycling Track,Points Race men
+7,NED,derk jan van egmond,56,Los Angeles 1984,Cycling Track,Points Race men
+8,DEN,michael markussen,21,Los Angeles 1984,Cycling Track,Points Race men
+9,CAN,alexander stieda,17,Los Angeles 1984,Cycling Track,Points Race men
+10,BEL,rudolf ceyssens,16,Los Angeles 1984,Cycling Track,Points Race men
+11,FRA,didier garcia,13,Los Angeles 1984,Cycling Track,Points Race men
+12,COL,balbino jaramillo,12,Los Angeles 1984,Cycling Track,Points Race men
+13,ITA,stefano allocchio,11,Los Angeles 1984,Cycling Track,Points Race men
+14,COL,william palacios,9,Los Angeles 1984,Cycling Track,Points Race men
+15,ITA,silvio martinello,8,Los Angeles 1984,Cycling Track,Points Race men
+16,DEN,brian holm sörensen,12,Los Angeles 1984,Cycling Track,Points Race men
+17,CAN,gary trevisiol,10,Los Angeles 1984,Cycling Track,Points Race men
+18,FRG,manfred donike,3,Los Angeles 1984,Cycling Track,Points Race men
+19,ARG,juan carlos haedo,1,Los Angeles 1984,Cycling Track,Points Race men
+20,GBR,shaun wallace,1,Los Angeles 1984,Cycling Track,Points Race men
+21,GBR,paul curran,13,Los Angeles 1984,Cycling Track,Points Race men
+22,FRA,eric louvel,Did not finish,Los Angeles 1984,Cycling Track,Points Race men
+23,SUI,stephan joho,Did not finish,Los Angeles 1984,Cycling Track,Points Race men
+24,ANT,elisha hughes,Did not finish,Los Angeles 1984,Cycling Track,Points Race men
+25,CAY,ernest moodie,Did not finish,Los Angeles 1984,Cycling Track,Points Race men
+26,JAM,ian stanley,Did not finish,Los Angeles 1984,Cycling Track,Points Race men
+0,USA,mark brian gorski,,Los Angeles 1984,Cycling Track,Sprint individual men
+1,USA,nelson beasley vails,,Los Angeles 1984,Cycling Track,Sprint individual men
+2,JPN,tsutomu sakamoto,,Los Angeles 1984,Cycling Track,Sprint individual men
+3,FRA,philippe vernet,,Los Angeles 1984,Cycling Track,Sprint individual men
+4,FRG,gerhard scheller,11.360,Los Angeles 1984,Cycling Track,Sprint individual men
+5,ARG,marcelo alexandre,,Los Angeles 1984,Cycling Track,Sprint individual men
+6,AUS,kenrick tucker,,Los Angeles 1984,Cycling Track,Sprint individual men
+7,FRG,fredy schmidtke,,Los Angeles 1984,Cycling Track,Sprint individual men
+0,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+1,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+2,,,00:04:25.600,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+3,,,00:04:26.900,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+4,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+5,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+6,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+7,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+8,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+9,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+10,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+11,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+12,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men
+13,,,,Los Angeles 1984,Cycling Track,Team Pursuit 4000m men

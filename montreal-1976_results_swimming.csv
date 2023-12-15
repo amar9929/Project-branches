@@ -1,0 +1,917 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,john phillips naber,,Montreal 1976,Swimming,100m backstroke men
+1,USA,peter drake rocca,,Montreal 1976,Swimming,100m backstroke men
+2,GDR,roland matthes,,Montreal 1976,Swimming,100m backstroke men
+3,PUR,carlos berrocal,,Montreal 1976,Swimming,100m backstroke men
+4,GDR,lutz wanja,,Montreal 1976,Swimming,100m backstroke men
+5,USA,robert scott jackson,,Montreal 1976,Swimming,100m backstroke men
+6,AUS,mark kerry,,Montreal 1976,Swimming,100m backstroke men
+7,AUS,mark tonelli,,Montreal 1976,Swimming,100m backstroke men
+8,AUS,glen patching,,Montreal 1976,Swimming,100m backstroke men
+9,CAN,stephen pickell,,Montreal 1976,Swimming,100m backstroke men
+10,BRA,romulo duncan duncan arantes,,Montreal 1976,Swimming,100m backstroke men
+11,HUN,zoltan verraszto,,Montreal 1976,Swimming,100m backstroke men
+12,URS,igor evgenevich omeltchenko,,Montreal 1976,Swimming,100m backstroke men
+13,BRA,paul jouanneau,,Montreal 1976,Swimming,100m backstroke men
+14,ESP,santiago esteva escoda,,Montreal 1976,Swimming,100m backstroke men
+15,POL,ryszard zugaj,,Montreal 1976,Swimming,100m backstroke men
+16,BUL,krasimir stoykov,,Montreal 1976,Swimming,100m backstroke men
+17,GBR,james carter,,Montreal 1976,Swimming,100m backstroke men
+18,TCH,miloslav rolko,,Montreal 1976,Swimming,100m backstroke men
+19,FRG,reinhold becker,,Montreal 1976,Swimming,100m backstroke men
+20,HUN,robert rudolf,,Montreal 1976,Swimming,100m backstroke men
+21,GBR,gary abraham,,Montreal 1976,Swimming,100m backstroke men
+22,CAN,stephen hardy,,Montreal 1976,Swimming,100m backstroke men
+23,YUG,nenad milos,,Montreal 1976,Swimming,100m backstroke men
+24,IRL,robert howard,,Montreal 1976,Swimming,100m backstroke men
+25,MEX,ignacio alvarez,,Montreal 1976,Swimming,100m backstroke men
+26,MEX,jose urueta,,Montreal 1976,Swimming,100m backstroke men
+27,JPN,tadashi honda,,Montreal 1976,Swimming,100m backstroke men
+28,SWE,mikael branden,,Montreal 1976,Swimming,100m backstroke men
+29,YUG,predrag milos,,Montreal 1976,Swimming,100m backstroke men
+30,ARG,conrado porta,,Montreal 1976,Swimming,100m backstroke men
+31,VEN,ramon volcan,,Montreal 1976,Swimming,100m backstroke men
+32,ITA,enrico bisso,,Montreal 1976,Swimming,100m backstroke men
+33,CAN,michael scarth,,Montreal 1976,Swimming,100m backstroke men
+34,FRA,lionel beylot-bourcelot,,Montreal 1976,Swimming,100m backstroke men
+35,SUI,thomas hofer,,Montreal 1976,Swimming,100m backstroke men
+36,PHI,gerardo rosario,,Montreal 1976,Swimming,100m backstroke men
+37,URS,ivan mikolutsky,,Montreal 1976,Swimming,100m backstroke men
+38,POR,antonio botelho melo,,Montreal 1976,Swimming,100m backstroke men
+39,MAS,jin-choon chiang,,Montreal 1976,Swimming,100m backstroke men
+40,NCA,frank richardson,,Montreal 1976,Swimming,100m backstroke men
+41,TPE,tung-hsiung hsu,Did not start,Montreal 1976,Swimming,100m backstroke men
+0,GDR,ulrike richter,,Montreal 1976,Swimming,100m backstroke women
+1,GDR,birgit treiber,,Montreal 1976,Swimming,100m backstroke women
+2,CAN,nancy ellen garapick,,Montreal 1976,Swimming,100m backstroke women
+3,CAN,wendy cook-hogg,,Montreal 1976,Swimming,100m backstroke women
+4,CAN,cheryl gibson,,Montreal 1976,Swimming,100m backstroke women
+5,URS,nadezhda stavko,,Montreal 1976,Swimming,100m backstroke women
+6,GDR,antje stille,,Montreal 1976,Swimming,100m backstroke women
+7,NED,diane edelijn,,Montreal 1976,Swimming,100m backstroke women
+8,NED,enith brigitha,,Montreal 1976,Swimming,100m backstroke women
+9,URS,klavdiya studennikova,,Montreal 1976,Swimming,100m backstroke women
+10,USA,linda louise jezek,,Montreal 1976,Swimming,100m backstroke women
+11,AUS,michelle devries,,Montreal 1976,Swimming,100m backstroke women
+12,FRG,heike john,,Montreal 1976,Swimming,100m backstroke women
+13,USA,tauna kay van de weghe,,Montreal 1976,Swimming,100m backstroke women
+14,JPN,yoshimi nishigawa,,Montreal 1976,Swimming,100m backstroke women
+15,AUS,glenda robertson,,Montreal 1976,Swimming,100m backstroke women
+16,HUN,gabriella verraszto,,Montreal 1976,Swimming,100m backstroke women
+17,FRG,karin bormann,,Montreal 1976,Swimming,100m backstroke women
+18,USA,renee magee,,Montreal 1976,Swimming,100m backstroke women
+19,ITA,antonella roncelli,,Montreal 1976,Swimming,100m backstroke women
+20,GBR,joy beasley,,Montreal 1976,Swimming,100m backstroke women
+21,NZL,monique rodahl,,Montreal 1976,Swimming,100m backstroke women
+22,GBR,amanda elizabeth james,,Montreal 1976,Swimming,100m backstroke women
+23,FRA,sylvie testuz,,Montreal 1976,Swimming,100m backstroke women
+24,SWE,gunilla lundberg,,Montreal 1976,Swimming,100m backstroke women
+25,FRG,angelika grieser,,Montreal 1976,Swimming,100m backstroke women
+26,JPN,naoko miura,,Montreal 1976,Swimming,100m backstroke women
+27,ARG,claudia bellotto,,Montreal 1976,Swimming,100m backstroke women
+28,VEN,paola ruggieri,,Montreal 1976,Swimming,100m backstroke women
+29,IRL,dierdre sheehan,,Montreal 1976,Swimming,100m backstroke women
+30,COL,liliana cian,,Montreal 1976,Swimming,100m backstroke women
+31,BEL,pierette michel,,Montreal 1976,Swimming,100m backstroke women
+32,HKG,raphaelynne lee,,Montreal 1976,Swimming,100m backstroke women
+33,THA,sansanee changkasiri,,Montreal 1976,Swimming,100m backstroke women
+0,USA,john frederick hencken,,Montreal 1976,Swimming,100m breaststroke men
+1,GBR,david andrew wilkie,,Montreal 1976,Swimming,100m breaststroke men
+2,URS,arvydas juozaitis,,Montreal 1976,Swimming,100m breaststroke men
+3,CAN,graham smith,,Montreal 1976,Swimming,100m breaststroke men
+4,ITA,giorgio lalle,,Montreal 1976,Swimming,100m breaststroke men
+5,FRG,walter kusch,,Montreal 1976,Swimming,100m breaststroke men
+6,GBR,duncan goodhew,,Montreal 1976,Swimming,100m breaststroke men
+7,USA,chris woo,,Montreal 1976,Swimming,100m breaststroke men
+8,FRG,peter lang,,Montreal 1976,Swimming,100m breaststroke men
+9,USA,lawrence robert dowler,,Montreal 1976,Swimming,100m breaststroke men
+10,URS,nikolai pankin,,Montreal 1976,Swimming,100m breaststroke men
+11,JPN,nobutaka taguchi,,Montreal 1976,Swimming,100m breaststroke men
+12,GBR,david william leigh,,Montreal 1976,Swimming,100m breaststroke men
+13,AUS,paul jarvie,,Montreal 1976,Swimming,100m breaststroke men
+14,BRA,jose sylvio fiolo,,Montreal 1976,Swimming,100m breaststroke men
+15,BRA,sergio pinto pinto ribeiro,,Montreal 1976,Swimming,100m breaststroke men
+16,SWE,anders norling,,Montreal 1976,Swimming,100m breaststroke men
+17,NOR,ove wisloff,,Montreal 1976,Swimming,100m breaststroke men
+18,URS,vladimir dementyev,,Montreal 1976,Swimming,100m breaststroke men
+19,JPN,tateki shinya,,Montreal 1976,Swimming,100m breaststroke men
+20,ESP,pedro balcells prats,,Montreal 1976,Swimming,100m breaststroke men
+21,POL,cezary smiglak,,Montreal 1976,Swimming,100m breaststroke men
+22,AUT,steffen kriechbaum,,Montreal 1976,Swimming,100m breaststroke men
+23,FIN,tuomo juhani kerola,,Montreal 1976,Swimming,100m breaststroke men
+24,YUG,zdravko divjak,,Montreal 1976,Swimming,100m breaststroke men
+25,PUR,carlos nazario,,Montreal 1976,Swimming,100m breaststroke men
+26,CAN,melvin zajac,,Montreal 1976,Swimming,100m breaststroke men
+27,MEX,gustavo lozano,,Montreal 1976,Swimming,100m breaststroke men
+28,VEN,glen sochasky,,Montreal 1976,Swimming,100m breaststroke men
+29,BAH,bruce knowles,,Montreal 1976,Swimming,100m breaststroke men
+30,POR,henrique carvalho vicencio,,Montreal 1976,Swimming,100m breaststroke men
+31,NCA,campari knoepffler,,Montreal 1976,Swimming,100m breaststroke men
+32,GDR,wolfram sperling,Did not start,Montreal 1976,Swimming,100m breaststroke men
+33,FRA,bernard pierre,Did not start,Montreal 1976,Swimming,100m breaststroke men
+34,HUN,istvan javor,Did not start,Montreal 1976,Swimming,100m breaststroke men
+35,TPE,c. chun wang,Did not start,Montreal 1976,Swimming,100m breaststroke men
+0,GDR,hannelore anke,,Montreal 1976,Swimming,100m breaststroke women
+1,URS,lyubov rusanova,,Montreal 1976,Swimming,100m breaststroke women
+2,URS,marina koshevaya,,Montreal 1976,Swimming,100m breaststroke women
+3,GDR,carola nitschke,,Montreal 1976,Swimming,100m breaststroke women
+4,FRG,gabriele askamp,,Montreal 1976,Swimming,100m breaststroke women
+5,URS,marina yurchenya,,Montreal 1976,Swimming,100m breaststroke women
+6,GBR,margaret kelly-hohmann,,Montreal 1976,Swimming,100m breaststroke women
+7,GDR,karla linke,,Montreal 1976,Swimming,100m breaststroke women
+8,CAN,robin marie corsiglia,,Montreal 1976,Swimming,100m breaststroke women
+9,GBR,christine anne jarvis,,Montreal 1976,Swimming,100m breaststroke women
+10,USA,laura gail siering,,Montreal 1976,Swimming,100m breaststroke women
+11,NED,wijda mazereeuw,,Montreal 1976,Swimming,100m breaststroke women
+12,CAN,joann baker,,Montreal 1976,Swimming,100m breaststroke women
+13,DEN,susanne schultz nielsson,,Montreal 1976,Swimming,100m breaststroke women
+14,CAN,lisa borsholt,,Montreal 1976,Swimming,100m breaststroke women
+15,FRA,annick de susini,,Montreal 1976,Swimming,100m breaststroke women
+16,FRG,dagmar rehak,,Montreal 1976,Swimming,100m breaststroke women
+17,JPN,toshiko haruoka,,Montreal 1976,Swimming,100m breaststroke women
+18,NED,maritzka van der linden,,Montreal 1976,Swimming,100m breaststroke women
+19,USA,renee laravie,,Montreal 1976,Swimming,100m breaststroke women
+20,POL,anna skolarczyk,,Montreal 1976,Swimming,100m breaststroke women
+21,SWE,anette fredriksson,,Montreal 1976,Swimming,100m breaststroke women
+22,JPN,kazuyo inaba,,Montreal 1976,Swimming,100m breaststroke women
+23,ITA,iris corniani,,Montreal 1976,Swimming,100m breaststroke women
+24,USA,marcia helen morey,,Montreal 1976,Swimming,100m breaststroke women
+25,GBR,helen blanche may burnham,,Montreal 1976,Swimming,100m breaststroke women
+26,BRA,cristina bassani teixeira,,Montreal 1976,Swimming,100m breaststroke women
+27,SWE,ann-sofi roos,,Montreal 1976,Swimming,100m breaststroke women
+28,BEL,ilse schoors,,Montreal 1976,Swimming,100m breaststroke women
+29,DEN,karin sonja deleurand,,Montreal 1976,Swimming,100m breaststroke women
+30,BEL,veronique brisy,,Montreal 1976,Swimming,100m breaststroke women
+31,MEX,beatriz camunas,,Montreal 1976,Swimming,100m breaststroke women
+32,PHI,nancy deano,,Montreal 1976,Swimming,100m breaststroke women
+33,VEN,dacyl perez,,Montreal 1976,Swimming,100m breaststroke women
+34,URU,elena ospitaletche,,Montreal 1976,Swimming,100m breaststroke women
+35,ARG,rossana juncos,,Montreal 1976,Swimming,100m breaststroke women
+36,AUS,allison smith,,Montreal 1976,Swimming,100m breaststroke women
+37,PUR,angela lopez,,Montreal 1976,Swimming,100m breaststroke women
+38,JPN,chiharu mori,Did not start,Montreal 1976,Swimming,100m breaststroke women
+39,HUN,elvira sagi,Did not start,Montreal 1976,Swimming,100m breaststroke women
+0,USA,matthew haynes vogel,,Montreal 1976,Swimming,100m butterfly men
+1,USA,joseph stuart bottom,,Montreal 1976,Swimming,100m butterfly men
+2,USA,gary jr. hall,,Montreal 1976,Swimming,100m butterfly men
+3,GDR,roger pyttel,,Montreal 1976,Swimming,100m butterfly men
+4,GDR,roland matthes,,Montreal 1976,Swimming,100m butterfly men
+5,CAN,clayton evans,,Montreal 1976,Swimming,100m butterfly men
+6,JPN,hideaki hara,,Montreal 1976,Swimming,100m butterfly men
+7,AUS,neil rogers,,Montreal 1976,Swimming,100m butterfly men
+8,FRG,klaus steinbach,,Montreal 1976,Swimming,100m butterfly men
+9,GBR,john maurice mills,,Montreal 1976,Swimming,100m butterfly men
+10,CAN,stephen pickell,,Montreal 1976,Swimming,100m butterfly men
+11,CAN,bruce richard robertson,,Montreal 1976,Swimming,100m butterfly men
+12,FRG,peter broscienski,,Montreal 1976,Swimming,100m butterfly men
+13,ECU,jorge delgado,,Montreal 1976,Swimming,100m butterfly men
+14,SWE,pär arvidsson,,Montreal 1976,Swimming,100m butterfly men
+15,URS,evgeni seredin,,Montreal 1976,Swimming,100m butterfly men
+16,FRG,michael kraus,,Montreal 1976,Swimming,100m butterfly men
+17,NZL,john coutts,,Montreal 1976,Swimming,100m butterfly men
+18,COL,jorge jaramillo,,Montreal 1976,Swimming,100m butterfly men
+19,GBR,john reginald park,,Montreal 1976,Swimming,100m butterfly men
+20,ITA,paolo barelli,,Montreal 1976,Swimming,100m butterfly men
+21,URS,aleksandr manachinsky,,Montreal 1976,Swimming,100m butterfly men
+22,GDR,hartmut flöckner,,Montreal 1976,Swimming,100m butterfly men
+23,AUS,ross seymour,,Montreal 1976,Swimming,100m butterfly men
+24,TCH,miloslav rolko,,Montreal 1976,Swimming,100m butterfly men
+25,NED,kees vervoorn,,Montreal 1976,Swimming,100m butterfly men
+26,VEN,luis goicoechea,,Montreal 1976,Swimming,100m butterfly men
+27,PUR,john daly,,Montreal 1976,Swimming,100m butterfly men
+28,FRA,serge buttet,,Montreal 1976,Swimming,100m butterfly men
+29,PUR,arnaldo perez,,Montreal 1976,Swimming,100m butterfly men
+30,GBR,richard norman iredale,,Montreal 1976,Swimming,100m butterfly men
+31,JPN,shinsuke kayama,,Montreal 1976,Swimming,100m butterfly men
+32,BRA,romulo duncan duncan arantes,,Montreal 1976,Swimming,100m butterfly men
+33,ITA,riccardo urbani,,Montreal 1976,Swimming,100m butterfly men
+34,MEX,jose luis prado,,Montreal 1976,Swimming,100m butterfly men
+35,ISR,adi prag,,Montreal 1976,Swimming,100m butterfly men
+36,GRE,constantinos koskinas,,Montreal 1976,Swimming,100m butterfly men
+37,IRL,robert howard,,Montreal 1976,Swimming,100m butterfly men
+38,PAN,carlos gonzalez,,Montreal 1976,Swimming,100m butterfly men
+39,ISV,steven newkirk,,Montreal 1976,Swimming,100m butterfly men
+40,POR,paulo jose frischknecht,,Montreal 1976,Swimming,100m butterfly men
+41,NCA,campari knoepffler,,Montreal 1976,Swimming,100m butterfly men
+42,HKG,lawrence kwoh,,Montreal 1976,Swimming,100m butterfly men
+43,BEL,françois deley,Disqualified,Montreal 1976,Swimming,100m butterfly men
+44,HUN,janos bartha,Did not start,Montreal 1976,Swimming,100m butterfly men
+45,NGR,john ebito,Did not start,Montreal 1976,Swimming,100m butterfly men
+0,GDR,kornelia ender,,Montreal 1976,Swimming,100m butterfly women
+1,GDR,andrea pollack,,Montreal 1976,Swimming,100m butterfly women
+2,USA,wendy lansbach boglioli,,Montreal 1976,Swimming,100m butterfly women
+3,USA,camille wright,,Montreal 1976,Swimming,100m butterfly women
+4,GDR,rosemarie kother-gabriel,,Montreal 1976,Swimming,100m butterfly women
+5,CAN,wendy quirk,,Montreal 1976,Swimming,100m butterfly women
+6,USA,lelei alofa fonoimoana,,Montreal 1976,Swimming,100m butterfly women
+7,URS,tamara shelofastova,,Montreal 1976,Swimming,100m butterfly women
+8,CAN,helene boivin,,Montreal 1976,Swimming,100m butterfly women
+9,CAN,susan estelle smith-sloan,,Montreal 1976,Swimming,100m butterfly women
+10,CRC,mariam paris,,Montreal 1976,Swimming,100m butterfly women
+11,AUS,linda hanel,,Montreal 1976,Swimming,100m butterfly women
+12,JPN,yasue hatsuda,,Montreal 1976,Swimming,100m butterfly women
+13,GBR,susan pamela jenner,,Montreal 1976,Swimming,100m butterfly women
+14,NZL,lynne rowe,,Montreal 1976,Swimming,100m butterfly women
+15,JPN,kuniko banno,,Montreal 1976,Swimming,100m butterfly women
+16,FRG,gudrun beckmann,,Montreal 1976,Swimming,100m butterfly women
+17,SWE,gunilla andersson,,Montreal 1976,Swimming,100m butterfly women
+18,GBR,joanne louise atkinson,,Montreal 1976,Swimming,100m butterfly women
+19,AUS,lyle smith,,Montreal 1976,Swimming,100m butterfly women
+20,AUS,nira stove,,Montreal 1976,Swimming,100m butterfly women
+21,FRG,beate jasch,,Montreal 1976,Swimming,100m butterfly women
+22,URS,natalya popova,,Montreal 1976,Swimming,100m butterfly women
+23,NED,catharina (ineke) ran,,Montreal 1976,Swimming,100m butterfly women
+24,NED,josefine (jose) damen,,Montreal 1976,Swimming,100m butterfly women
+25,BEL,chantal grimard,,Montreal 1976,Swimming,100m butterfly women
+26,ITA,donatella talpo,,Montreal 1976,Swimming,100m butterfly women
+27,BRA,flavia nadalutti,,Montreal 1976,Swimming,100m butterfly women
+28,GBR,jane elizabeth alexander,,Montreal 1976,Swimming,100m butterfly women
+29,BRA,rosemary ribeiro,,Montreal 1976,Swimming,100m butterfly women
+30,PUR,maria mock,,Montreal 1976,Swimming,100m butterfly women
+31,ARG,rossana juncos,,Montreal 1976,Swimming,100m butterfly women
+32,ESP,montserrat majo,,Montreal 1976,Swimming,100m butterfly women
+33,VEN,marianela huen,,Montreal 1976,Swimming,100m butterfly women
+34,VEN,maria hung,,Montreal 1976,Swimming,100m butterfly women
+35,ISV,shelley katherine cramer,,Montreal 1976,Swimming,100m butterfly women
+36,ISL,þórunn alfreðsdóttir,,Montreal 1976,Swimming,100m butterfly women
+37,COL,liliana cian,,Montreal 1976,Swimming,100m butterfly women
+38,THA,sansanee changkasiri,,Montreal 1976,Swimming,100m butterfly women
+39,IRL,miriam hopkins,Did not start,Montreal 1976,Swimming,100m butterfly women
+40,URS,lyubov kobzeva,Did not start,Montreal 1976,Swimming,100m butterfly women
+0,USA,jim montgomery,,Montreal 1976,Swimming,100m freestyle men
+1,USA,"jack, jr. babashoff",,Montreal 1976,Swimming,100m freestyle men
+2,FRG,peter nocke,,Montreal 1976,Swimming,100m freestyle men
+3,FRG,klaus steinbach,,Montreal 1976,Swimming,100m freestyle men
+4,ITA,marcello guarducci,,Montreal 1976,Swimming,100m freestyle men
+5,USA,joseph stuart bottom,,Montreal 1976,Swimming,100m freestyle men
+6,URS,vladimir bure,,Montreal 1976,Swimming,100m freestyle men
+7,URS,andrei krylov,,Montreal 1976,Swimming,100m freestyle men
+8,FRA,michel rousseau,,Montreal 1976,Swimming,100m freestyle men
+9,ITA,roberto pangaro,,Montreal 1976,Swimming,100m freestyle men
+10,CAN,stephen pickell,,Montreal 1976,Swimming,100m freestyle men
+11,FRA,rene ecuyer,,Montreal 1976,Swimming,100m freestyle men
+12,CAN,gary mac donald,,Montreal 1976,Swimming,100m freestyle men
+13,URS,andrei bogdanov,,Montreal 1976,Swimming,100m freestyle men
+14,GBR,martin smith,,Montreal 1976,Swimming,100m freestyle men
+15,SWE,svante rasmuson,,Montreal 1976,Swimming,100m freestyle men
+16,GBR,kevin robert burns,,Montreal 1976,Swimming,100m freestyle men
+17,AUS,glen patching,,Montreal 1976,Swimming,100m freestyle men
+18,CAN,bruce richard robertson,,Montreal 1976,Swimming,100m freestyle men
+19,AUS,peter coughlan,,Montreal 1976,Swimming,100m freestyle men
+20,VEN,ramon volcan,,Montreal 1976,Swimming,100m freestyle men
+21,NOR,fritz warncke,,Montreal 1976,Swimming,100m freestyle men
+22,SWE,dan larsson,,Montreal 1976,Swimming,100m freestyle men
+23,BUL,stefan georgiev,,Montreal 1976,Swimming,100m freestyle men
+24,ECU,jorge delgado,,Montreal 1976,Swimming,100m freestyle men
+25,GDR,roger pyttel,,Montreal 1976,Swimming,100m freestyle men
+26,AUS,neil rogers,,Montreal 1976,Swimming,100m freestyle men
+27,FRG,dirk braunleder,,Montreal 1976,Swimming,100m freestyle men
+28,ESP,jorge comas lopez,,Montreal 1976,Swimming,100m freestyle men
+29,PAN,gianni versari,,Montreal 1976,Swimming,100m freestyle men
+30,HKG,marcus anthony crocker,,Montreal 1976,Swimming,100m freestyle men
+31,BRA,paul jouanneau,,Montreal 1976,Swimming,100m freestyle men
+32,COL,helmunt levy,,Montreal 1976,Swimming,100m freestyle men
+33,JPN,kozo higuchi,,Montreal 1976,Swimming,100m freestyle men
+34,PUR,fernando canales,,Montreal 1976,Swimming,100m freestyle men
+35,ISV,steven newkirk,,Montreal 1976,Swimming,100m freestyle men
+36,POR,jose gomes pereira,,Montreal 1976,Swimming,100m freestyle men
+37,INA,kris sumono,,Montreal 1976,Swimming,100m freestyle men
+38,PHI,gerardo rosario,,Montreal 1976,Swimming,100m freestyle men
+39,ISL,sigurdur olafsson,,Montreal 1976,Swimming,100m freestyle men
+40,NCA,campari knoepffler,,Montreal 1976,Swimming,100m freestyle men
+41,VEN,gerardo vera,Did not start,Montreal 1976,Swimming,100m freestyle men
+42,NGR,john ebito,Did not start,Montreal 1976,Swimming,100m freestyle men
+0,GDR,kornelia ender,,Montreal 1976,Swimming,100m freestyle women
+1,GDR,petra priemer,,Montreal 1976,Swimming,100m freestyle women
+2,NED,enith brigitha,,Montreal 1976,Swimming,100m freestyle women
+3,USA,kim marie peyton,,Montreal 1976,Swimming,100m freestyle women
+4,USA,shirley farber babashoff,,Montreal 1976,Swimming,100m freestyle women
+5,GDR,claudia hempel,,Montreal 1976,Swimming,100m freestyle women
+6,USA,jill sterkel,,Montreal 1976,Swimming,100m freestyle women
+7,FRG,judith (jutta) weber,,Montreal 1976,Swimming,100m freestyle women
+8,CAN,barbara lynny clark,,Montreal 1976,Swimming,100m freestyle women
+9,CAN,anne elizabeth jardin,,Montreal 1976,Swimming,100m freestyle women
+10,CAN,gail amundrud,,Montreal 1976,Swimming,100m freestyle women
+11,NOR,lene jenssen,,Montreal 1976,Swimming,100m freestyle women
+12,NZL,rebecca perrott,,Montreal 1976,Swimming,100m freestyle women
+13,NED,catharina (ineke) ran,,Montreal 1976,Swimming,100m freestyle women
+14,FRA,guylaine berger,,Montreal 1976,Swimming,100m freestyle women
+15,AUS,jenny tate,,Montreal 1976,Swimming,100m freestyle women
+16,URS,lyubov kobzeva,,Montreal 1976,Swimming,100m freestyle women
+17,URS,irina vlasova,,Montreal 1976,Swimming,100m freestyle women
+18,BEL,anne richard,,Montreal 1976,Swimming,100m freestyle women
+19,SWE,pia martensson,,Montreal 1976,Swimming,100m freestyle women
+20,URS,marina klyuchnikova,,Montreal 1976,Swimming,100m freestyle women
+21,AUS,drue leguier,,Montreal 1976,Swimming,100m freestyle women
+22,SWE,ida hansson,,Montreal 1976,Swimming,100m freestyle women
+23,GBR,elaine dorothy gray,,Montreal 1976,Swimming,100m freestyle women
+24,JPN,sachiko yamazaki,,Montreal 1976,Swimming,100m freestyle women
+25,SWE,diana olsson,,Montreal 1976,Swimming,100m freestyle women
+26,FRG,regina nissen,,Montreal 1976,Swimming,100m freestyle women
+27,GBR,susan stewart edmondson,,Montreal 1976,Swimming,100m freestyle women
+28,ISV,shelley katherine cramer,,Montreal 1976,Swimming,100m freestyle women
+29,NED,berber kamstra,,Montreal 1976,Swimming,100m freestyle women
+30,BEL,geerd boekhout,,Montreal 1976,Swimming,100m freestyle women
+31,FRG,beate jasch,,Montreal 1976,Swimming,100m freestyle women
+32,THA,rachaniw bulakul,,Montreal 1976,Swimming,100m freestyle women
+33,CRC,mariam paris,,Montreal 1976,Swimming,100m freestyle women
+34,AUS,lesleigh harvey,,Montreal 1976,Swimming,100m freestyle women
+35,ARG,rossana juncos,,Montreal 1976,Swimming,100m freestyle women
+36,IRL,dierdre sheehan,,Montreal 1976,Swimming,100m freestyle women
+37,TUN,myriam mizouni,,Montreal 1976,Swimming,100m freestyle women
+38,ARG,susana coppo,,Montreal 1976,Swimming,100m freestyle women
+39,VEN,marianela huen,,Montreal 1976,Swimming,100m freestyle women
+40,PUR,jane fayer,,Montreal 1976,Swimming,100m freestyle women
+41,VEN,ivis poleo,,Montreal 1976,Swimming,100m freestyle women
+42,ISL,vilborg sverrisdottir,,Montreal 1976,Swimming,100m freestyle women
+43,PAN,georgina osorio,,Montreal 1976,Swimming,100m freestyle women
+44,HKG,karen robertson,,Montreal 1976,Swimming,100m freestyle women
+45,ITA,elisabetta dessy,Did not start,Montreal 1976,Swimming,100m freestyle women
+46,TPE,yue-hwan lee,Did not start,Montreal 1976,Swimming,100m freestyle women
+47,CUB,maria ramon,Did not start,Montreal 1976,Swimming,100m freestyle women
+48,HUN,judit pelle,Did not start,Montreal 1976,Swimming,100m freestyle women
+0,USA,brian stuart goodell,00:15:02.400,Montreal 1976,Swimming,1500m freestyle men
+1,USA,robert william hackett,00:15:03.910,Montreal 1976,Swimming,1500m freestyle men
+2,AUS,stephen holland,00:15:04.660,Montreal 1976,Swimming,1500m freestyle men
+3,BRA,djan garrido madruga,00:15:19.840,Montreal 1976,Swimming,1500m freestyle men
+4,URS,vladimir salnikov,00:15:29.450,Montreal 1976,Swimming,1500m freestyle men
+5,AUS,maxwell metzker,00:15:31.530,Montreal 1976,Swimming,1500m freestyle men
+6,USA,paul michael hartloff,00:15:32.080,Montreal 1976,Swimming,1500m freestyle men
+7,HUN,zoltan wladar,00:15:45.970,Montreal 1976,Swimming,1500m freestyle men
+8,URS,valentin parinov,,Montreal 1976,Swimming,1500m freestyle men
+9,URS,igor kushpelev,,Montreal 1976,Swimming,1500m freestyle men
+10,AUS,paul nash,,Montreal 1976,Swimming,1500m freestyle men
+11,GBR,david geoffrey parker,,Montreal 1976,Swimming,1500m freestyle men
+12,HUN,sandor nagy,,Montreal 1976,Swimming,1500m freestyle men
+13,CAN,paul midgley,,Montreal 1976,Swimming,1500m freestyle men
+14,NED,hendrik (henk) elzerman,,Montreal 1976,Swimming,1500m freestyle men
+15,NZL,brett naylor,,Montreal 1976,Swimming,1500m freestyle men
+16,NZL,marcus treffers,,Montreal 1976,Swimming,1500m freestyle men
+17,CAN,michael ker,,Montreal 1976,Swimming,1500m freestyle men
+18,GBR,paul william sparkes,,Montreal 1976,Swimming,1500m freestyle men
+19,YUG,borut petric,,Montreal 1976,Swimming,1500m freestyle men
+20,HUN,istvan koczka,,Montreal 1976,Swimming,1500m freestyle men
+21,SUI,gerhard waldmann,,Montreal 1976,Swimming,1500m freestyle men
+22,FRG,stephan wenz,,Montreal 1976,Swimming,1500m freestyle men
+23,BEL,johan van steenberghe,,Montreal 1976,Swimming,1500m freestyle men
+24,ESP,jose bas molina,,Montreal 1976,Swimming,1500m freestyle men
+25,GRE,georgios karponzis,,Montreal 1976,Swimming,1500m freestyle men
+26,IRL,kevin williamson,,Montreal 1976,Swimming,1500m freestyle men
+27,PHI,edwin borja,,Montreal 1976,Swimming,1500m freestyle men
+28,INA,kris sumono,,Montreal 1976,Swimming,1500m freestyle men
+29,POR,antonio botelho melo,,Montreal 1976,Swimming,1500m freestyle men
+30,ISL,sigurdur olafsson,,Montreal 1976,Swimming,1500m freestyle men
+31,TPE,william chao,Did not start,Montreal 1976,Swimming,1500m freestyle men
+32,BAH,andy knowles,Did not start,Montreal 1976,Swimming,1500m freestyle men
+33,ITA,giorgio quadri,Did not start,Montreal 1976,Swimming,1500m freestyle men
+34,ITA,fabio bracaglia,Did not start,Montreal 1976,Swimming,1500m freestyle men
+35,MEX,fernando vargas,Did not start,Montreal 1976,Swimming,1500m freestyle men
+0,USA,john phillips naber,,Montreal 1976,Swimming,200m backstroke men
+1,USA,peter drake rocca,,Montreal 1976,Swimming,200m backstroke men
+2,USA,daniel lee harrigan,,Montreal 1976,Swimming,200m backstroke men
+3,AUS,mark tonelli,,Montreal 1976,Swimming,200m backstroke men
+4,AUS,mark kerry,,Montreal 1976,Swimming,200m backstroke men
+5,TCH,miloslav rolko,,Montreal 1976,Swimming,200m backstroke men
+6,HUN,robert rudolf,,Montreal 1976,Swimming,200m backstroke men
+7,HUN,zoltan verraszto,,Montreal 1976,Swimming,200m backstroke men
+8,CAN,michael scarth,,Montreal 1976,Swimming,200m backstroke men
+9,BRA,romulo duncan duncan arantes,,Montreal 1976,Swimming,200m backstroke men
+10,SWE,leif ericsson,,Montreal 1976,Swimming,200m backstroke men
+11,CAN,darryl skilling,,Montreal 1976,Swimming,200m backstroke men
+12,URS,igor evgenevich omeltchenko,,Montreal 1976,Swimming,200m backstroke men
+13,GDR,lutz wanja,,Montreal 1976,Swimming,200m backstroke men
+14,GBR,james carter,,Montreal 1976,Swimming,200m backstroke men
+15,CAN,stephen hardy,,Montreal 1976,Swimming,200m backstroke men
+16,ESP,santiago esteva escoda,,Montreal 1976,Swimming,200m backstroke men
+17,FRG,reinhold becker,,Montreal 1976,Swimming,200m backstroke men
+18,BUL,krasimir stoykov,,Montreal 1976,Swimming,200m backstroke men
+19,MEX,jose urueta,,Montreal 1976,Swimming,200m backstroke men
+20,ARG,conrado porta,,Montreal 1976,Swimming,200m backstroke men
+21,URS,ivan mikolutsky,,Montreal 1976,Swimming,200m backstroke men
+22,GBR,peter lerpiniere,,Montreal 1976,Swimming,200m backstroke men
+23,MEX,ignacio alvarez,,Montreal 1976,Swimming,200m backstroke men
+24,PUR,carlos berrocal,,Montreal 1976,Swimming,200m backstroke men
+25,YUG,nenad milos,,Montreal 1976,Swimming,200m backstroke men
+26,NED,abdul karim ressang,,Montreal 1976,Swimming,200m backstroke men
+27,YUG,predrag milos,,Montreal 1976,Swimming,200m backstroke men
+28,POL,ryszard zugaj,,Montreal 1976,Swimming,200m backstroke men
+29,SUI,thomas hofer,,Montreal 1976,Swimming,200m backstroke men
+30,PHI,gerardo rosario,,Montreal 1976,Swimming,200m backstroke men
+31,MAS,jin-choon chiang,,Montreal 1976,Swimming,200m backstroke men
+32,POR,antonio botelho melo,,Montreal 1976,Swimming,200m backstroke men
+33,GDR,roland matthes,Did not start,Montreal 1976,Swimming,200m backstroke men
+34,SWE,mikael branden,Did not start,Montreal 1976,Swimming,200m backstroke men
+35,PAR,emilio abreu,Did not start,Montreal 1976,Swimming,200m backstroke men
+0,GDR,ulrike richter,,Montreal 1976,Swimming,200m backstroke women
+1,GDR,birgit treiber,,Montreal 1976,Swimming,200m backstroke women
+2,CAN,nancy ellen garapick,,Montreal 1976,Swimming,200m backstroke women
+3,URS,nadezhda stavko,,Montreal 1976,Swimming,200m backstroke women
+4,USA,melissa louise belote,,Montreal 1976,Swimming,200m backstroke women
+5,GDR,antje stille,,Montreal 1976,Swimming,200m backstroke women
+6,URS,klavdiya studennikova,,Montreal 1976,Swimming,200m backstroke women
+7,CAN,wendy cook-hogg,,Montreal 1976,Swimming,200m backstroke women
+8,AUS,glenda robertson,,Montreal 1976,Swimming,200m backstroke women
+9,USA,maryanne graham,,Montreal 1976,Swimming,200m backstroke women
+10,NZL,monique rodahl,,Montreal 1976,Swimming,200m backstroke women
+11,CAN,cheryl gibson,,Montreal 1976,Swimming,200m backstroke women
+12,USA,miriam smith,,Montreal 1976,Swimming,200m backstroke women
+13,JPN,naoko miura,,Montreal 1976,Swimming,200m backstroke women
+14,NED,diane edelijn,,Montreal 1976,Swimming,200m backstroke women
+15,HUN,gabriella verraszto,,Montreal 1976,Swimming,200m backstroke women
+16,JPN,yoshimi nishigawa,,Montreal 1976,Swimming,200m backstroke women
+17,ITA,antonella roncelli,,Montreal 1976,Swimming,200m backstroke women
+18,GBR,sharron elizabeth davies,,Montreal 1976,Swimming,200m backstroke women
+19,GBR,joy beasley,,Montreal 1976,Swimming,200m backstroke women
+20,FRG,angelika grieser,,Montreal 1976,Swimming,200m backstroke women
+21,FRG,heike john,,Montreal 1976,Swimming,200m backstroke women
+22,NZL,susan hunter,,Montreal 1976,Swimming,200m backstroke women
+23,GBR,kim jacqueline wilkinson,,Montreal 1976,Swimming,200m backstroke women
+24,FRG,karin bormann,,Montreal 1976,Swimming,200m backstroke women
+25,AUS,michelle devries,,Montreal 1976,Swimming,200m backstroke women
+26,ESP,silvia fontana sola,,Montreal 1976,Swimming,200m backstroke women
+27,ARG,claudia bellotto,,Montreal 1976,Swimming,200m backstroke women
+28,VEN,paola ruggieri,,Montreal 1976,Swimming,200m backstroke women
+29,COL,liliana cian,,Montreal 1976,Swimming,200m backstroke women
+30,THA,sansanee changkasiri,,Montreal 1976,Swimming,200m backstroke women
+31,SWE,gunilla lundberg,Did not start,Montreal 1976,Swimming,200m backstroke women
+0,GBR,david andrew wilkie,,Montreal 1976,Swimming,200m breaststroke men
+1,USA,john frederick hencken,,Montreal 1976,Swimming,200m breaststroke men
+2,USA,richard phillip jr. colella,,Montreal 1976,Swimming,200m breaststroke men
+3,CAN,graham smith,,Montreal 1976,Swimming,200m breaststroke men
+4,USA,charles humphrey keating,,Montreal 1976,Swimming,200m breaststroke men
+5,URS,arvydas juozaitis,,Montreal 1976,Swimming,200m breaststroke men
+6,URS,nikolai pankin,,Montreal 1976,Swimming,200m breaststroke men
+7,FRG,walter kusch,,Montreal 1976,Swimming,200m breaststroke men
+8,URS,aigars kudis,,Montreal 1976,Swimming,200m breaststroke men
+9,NOR,ove wisloff,,Montreal 1976,Swimming,200m breaststroke men
+10,ITA,giorgio lalle,,Montreal 1976,Swimming,200m breaststroke men
+11,JPN,nobutaka taguchi,,Montreal 1976,Swimming,200m breaststroke men
+12,SWE,anders norling,,Montreal 1976,Swimming,200m breaststroke men
+13,FRG,peter lang,,Montreal 1976,Swimming,200m breaststroke men
+14,CAN,david heinbuch,,Montreal 1976,Swimming,200m breaststroke men
+15,GBR,david william leigh,,Montreal 1976,Swimming,200m breaststroke men
+16,AUT,steffen kriechbaum,,Montreal 1976,Swimming,200m breaststroke men
+17,FIN,tuomo juhani kerola,,Montreal 1976,Swimming,200m breaststroke men
+18,JPN,tateki shinya,,Montreal 1976,Swimming,200m breaststroke men
+19,PUR,orlando gatinchi,,Montreal 1976,Swimming,200m breaststroke men
+20,POL,cezary smiglak,,Montreal 1976,Swimming,200m breaststroke men
+21,AUS,paul jarvie,,Montreal 1976,Swimming,200m breaststroke men
+22,MEX,gustavo lozano,,Montreal 1976,Swimming,200m breaststroke men
+23,YUG,zdravko divjak,,Montreal 1976,Swimming,200m breaststroke men
+24,PAR,emilio abreu,,Montreal 1976,Swimming,200m breaststroke men
+25,POR,henrique carvalho vicencio,,Montreal 1976,Swimming,200m breaststroke men
+26,BRA,sergio pinto pinto ribeiro,Disqualified,Montreal 1976,Swimming,200m breaststroke men
+27,PUR,carlos nazario,Disqualified,Montreal 1976,Swimming,200m breaststroke men
+28,GBR,paul charles naisby,Disqualified,Montreal 1976,Swimming,200m breaststroke men
+29,GDR,wolfram sperling,Did not start,Montreal 1976,Swimming,200m breaststroke men
+30,HUN,alban vermes,Did not start,Montreal 1976,Swimming,200m breaststroke men
+0,URS,marina koshevaya,,Montreal 1976,Swimming,200m breaststroke women
+1,URS,marina yurchenya,,Montreal 1976,Swimming,200m breaststroke women
+2,URS,lyubov rusanova,,Montreal 1976,Swimming,200m breaststroke women
+3,GDR,hannelore anke,,Montreal 1976,Swimming,200m breaststroke women
+4,GDR,karla linke,,Montreal 1976,Swimming,200m breaststroke women
+5,GDR,carola nitschke,,Montreal 1976,Swimming,200m breaststroke women
+6,GBR,margaret kelly-hohmann,,Montreal 1976,Swimming,200m breaststroke women
+7,GBR,deborah rudd,,Montreal 1976,Swimming,200m breaststroke women
+8,CAN,joann baker,,Montreal 1976,Swimming,200m breaststroke women
+9,NED,wijda mazereeuw,,Montreal 1976,Swimming,200m breaststroke women
+10,CAN,lisa borsholt,,Montreal 1976,Swimming,200m breaststroke women
+11,DEN,susanne schultz nielsson,,Montreal 1976,Swimming,200m breaststroke women
+12,SWE,ann-sofi roos,,Montreal 1976,Swimming,200m breaststroke women
+13,GBR,christine anne jarvis,,Montreal 1976,Swimming,200m breaststroke women
+14,USA,laura gail siering,,Montreal 1976,Swimming,200m breaststroke women
+15,USA,marcia helen morey,,Montreal 1976,Swimming,200m breaststroke women
+16,FRG,dagmar rehak,,Montreal 1976,Swimming,200m breaststroke women
+17,POL,anna skolarczyk,,Montreal 1976,Swimming,200m breaststroke women
+18,FRG,gabriele askamp,,Montreal 1976,Swimming,200m breaststroke women
+19,AUS,judith hudson,,Montreal 1976,Swimming,200m breaststroke women
+20,JPN,kazuyo inaba,,Montreal 1976,Swimming,200m breaststroke women
+21,JPN,toshiko haruoka,,Montreal 1976,Swimming,200m breaststroke women
+22,CAN,melanie mackay,,Montreal 1976,Swimming,200m breaststroke women
+23,SWE,anette fredriksson,,Montreal 1976,Swimming,200m breaststroke women
+24,USA,janis lynn hape,,Montreal 1976,Swimming,200m breaststroke women
+25,FRA,annick de susini,,Montreal 1976,Swimming,200m breaststroke women
+26,DEN,karin sonja deleurand,,Montreal 1976,Swimming,200m breaststroke women
+27,JPN,chiharu mori,,Montreal 1976,Swimming,200m breaststroke women
+28,BEL,colette crabbe,,Montreal 1976,Swimming,200m breaststroke women
+29,BEL,veronique brisy,,Montreal 1976,Swimming,200m breaststroke women
+30,BRA,cristina bassani teixeira,,Montreal 1976,Swimming,200m breaststroke women
+31,AUS,allison smith,,Montreal 1976,Swimming,200m breaststroke women
+32,MEX,beatriz camunas,,Montreal 1976,Swimming,200m breaststroke women
+33,PUR,angela lopez,,Montreal 1976,Swimming,200m breaststroke women
+34,PHI,nancy deano,,Montreal 1976,Swimming,200m breaststroke women
+35,URU,elena ospitaletche,,Montreal 1976,Swimming,200m breaststroke women
+36,VEN,dacyl perez,,Montreal 1976,Swimming,200m breaststroke women
+37,ARG,patricia spohn,,Montreal 1976,Swimming,200m breaststroke women
+38,HUN,eva kiss,Did not start,Montreal 1976,Swimming,200m breaststroke women
+0,USA,mike bruner,,Montreal 1976,Swimming,200m butterfly men
+1,USA,steven garrett gregg,,Montreal 1976,Swimming,200m butterfly men
+2,USA,"william ronald, jr. forrester",,Montreal 1976,Swimming,200m butterfly men
+3,GDR,roger pyttel,,Montreal 1976,Swimming,200m butterfly men
+4,FRG,michael kraus,,Montreal 1976,Swimming,200m butterfly men
+5,GBR,brian brinkley,,Montreal 1976,Swimming,200m butterfly men
+6,ECU,jorge delgado,,Montreal 1976,Swimming,200m butterfly men
+7,URS,aleksandr manachinsky,,Montreal 1976,Swimming,200m butterfly men
+8,URS,mikhail gorelik,,Montreal 1976,Swimming,200m butterfly men
+9,CAN,george nagy,,Montreal 1976,Swimming,200m butterfly men
+10,SWE,pär arvidsson,,Montreal 1976,Swimming,200m butterfly men
+11,FRG,peter broscienski,,Montreal 1976,Swimming,200m butterfly men
+12,COL,jorge jaramillo,,Montreal 1976,Swimming,200m butterfly men
+13,CAN,bruce rogers,,Montreal 1976,Swimming,200m butterfly men
+14,JPN,hideaki hara,,Montreal 1976,Swimming,200m butterfly men
+15,NZL,john coutts,,Montreal 1976,Swimming,200m butterfly men
+16,AUS,jeffrey van de graaf,,Montreal 1976,Swimming,200m butterfly men
+17,GDR,hartmut flöckner,,Montreal 1976,Swimming,200m butterfly men
+18,GBR,sean lyndon maher,,Montreal 1976,Swimming,200m butterfly men
+19,HUN,andras hargitay,,Montreal 1976,Swimming,200m butterfly men
+20,HUN,scaba sos,,Montreal 1976,Swimming,200m butterfly men
+21,CAN,douglas martin,,Montreal 1976,Swimming,200m butterfly men
+22,SWE,anders bellbring,,Montreal 1976,Swimming,200m butterfly men
+23,PUR,john daly,,Montreal 1976,Swimming,200m butterfly men
+24,NED,ronald woutering,,Montreal 1976,Swimming,200m butterfly men
+25,JPN,shinsuke kayama,,Montreal 1976,Swimming,200m butterfly men
+26,GBR,gordon davison hewitt,,Montreal 1976,Swimming,200m butterfly men
+27,ESP,miguel lang-lenton leon,,Montreal 1976,Swimming,200m butterfly men
+28,MEX,ricardo marmolejo,,Montreal 1976,Swimming,200m butterfly men
+29,ISR,adi prag,,Montreal 1976,Swimming,200m butterfly men
+30,URS,anatoli smirnov,,Montreal 1976,Swimming,200m butterfly men
+31,PHI,edwin borja,,Montreal 1976,Swimming,200m butterfly men
+32,VEN,hugo cuenca,,Montreal 1976,Swimming,200m butterfly men
+33,BEL,françois deley,,Montreal 1976,Swimming,200m butterfly men
+34,PAR,emilio abreu,,Montreal 1976,Swimming,200m butterfly men
+35,ISV,steven newkirk,,Montreal 1976,Swimming,200m butterfly men
+36,POR,paulo jose frischknecht,,Montreal 1976,Swimming,200m butterfly men
+37,PAN,carlos gonzalez,,Montreal 1976,Swimming,200m butterfly men
+38,HKG,lawrence kwoh,Disqualified,Montreal 1976,Swimming,200m butterfly men
+39,AUS,ross seymour,Disqualified,Montreal 1976,Swimming,200m butterfly men
+40,TPE,tung-hsiung hsu,Did not start,Montreal 1976,Swimming,200m butterfly men
+41,HUN,tamas mikola,Did not start,Montreal 1976,Swimming,200m butterfly men
+42,FRG,volkert meeuw,Did not start,Montreal 1976,Swimming,200m butterfly men
+43,NGR,john ebito,Did not start,Montreal 1976,Swimming,200m butterfly men
+0,GDR,andrea pollack,,Montreal 1976,Swimming,200m butterfly women
+1,GDR,ulrike tauber,,Montreal 1976,Swimming,200m butterfly women
+2,GDR,rosemarie kother-gabriel,,Montreal 1976,Swimming,200m butterfly women
+3,USA,karen patricia moe-thornton,,Montreal 1976,Swimming,200m butterfly women
+4,CAN,wendy quirk,,Montreal 1976,Swimming,200m butterfly women
+5,CAN,cheryl gibson,,Montreal 1976,Swimming,200m butterfly women
+6,URS,tamara shelofastova,,Montreal 1976,Swimming,200m butterfly women
+7,URS,natalya popova,,Montreal 1976,Swimming,200m butterfly women
+8,USA,camille wright,,Montreal 1976,Swimming,200m butterfly women
+9,USA,donna lee wennerstrom,,Montreal 1976,Swimming,200m butterfly women
+10,CAN,becky smith,,Montreal 1976,Swimming,200m butterfly women
+11,AUS,linda hanel,,Montreal 1976,Swimming,200m butterfly women
+12,NZL,lynne rowe,,Montreal 1976,Swimming,200m butterfly women
+13,JPN,yasue hatsuda,,Montreal 1976,Swimming,200m butterfly women
+14,AUS,judith hudson,,Montreal 1976,Swimming,200m butterfly women
+15,AUS,michelle ford,,Montreal 1976,Swimming,200m butterfly women
+16,FRG,beate jasch,,Montreal 1976,Swimming,200m butterfly women
+17,GBR,joanne louise atkinson,,Montreal 1976,Swimming,200m butterfly women
+18,JPN,kuniko banno,,Montreal 1976,Swimming,200m butterfly women
+19,NED,josefine (jose) damen,,Montreal 1976,Swimming,200m butterfly women
+20,ITA,donatella talpo,,Montreal 1976,Swimming,200m butterfly women
+21,SWE,gunilla andersson,,Montreal 1976,Swimming,200m butterfly women
+22,GBR,anne wilma adams,,Montreal 1976,Swimming,200m butterfly women
+23,CRC,mariam paris,,Montreal 1976,Swimming,200m butterfly women
+24,VEN,maria hung,,Montreal 1976,Swimming,200m butterfly women
+25,PUR,maria mock,,Montreal 1976,Swimming,200m butterfly women
+26,BRA,rosemary ribeiro,,Montreal 1976,Swimming,200m butterfly women
+27,IRL,miriam hopkins,,Montreal 1976,Swimming,200m butterfly women
+28,BEL,chantal grimard,,Montreal 1976,Swimming,200m butterfly women
+29,GBR,jane elizabeth alexander,,Montreal 1976,Swimming,200m butterfly women
+30,ARG,rossana juncos,,Montreal 1976,Swimming,200m butterfly women
+31,ISL,þórunn alfreðsdóttir,,Montreal 1976,Swimming,200m butterfly women
+32,THA,sansanee changkasiri,Did not start,Montreal 1976,Swimming,200m butterfly women
+33,BRA,flavia nadalutti,Did not start,Montreal 1976,Swimming,200m butterfly women
+0,USA,bruce macfarlane furniss,,Montreal 1976,Swimming,200m freestyle men
+1,USA,john phillips naber,,Montreal 1976,Swimming,200m freestyle men
+2,USA,jim montgomery,,Montreal 1976,Swimming,200m freestyle men
+3,URS,andrei krylov,,Montreal 1976,Swimming,200m freestyle men
+4,FRG,klaus steinbach,,Montreal 1976,Swimming,200m freestyle men
+5,FRG,peter nocke,,Montreal 1976,Swimming,200m freestyle men
+6,GBR,gordon hunter downie,,Montreal 1976,Swimming,200m freestyle men
+7,URS,andrei bogdanov,,Montreal 1976,Swimming,200m freestyle men
+8,GBR,brian brinkley,,Montreal 1976,Swimming,200m freestyle men
+9,URS,sergei koplyakov,,Montreal 1976,Swimming,200m freestyle men
+10,ITA,marcello guarducci,,Montreal 1976,Swimming,200m freestyle men
+11,CAN,stephen badger,,Montreal 1976,Swimming,200m freestyle men
+12,CAN,william sawchuk,,Montreal 1976,Swimming,200m freestyle men
+13,ECU,jorge delgado,,Montreal 1976,Swimming,200m freestyle men
+14,AUS,graham claud windeatt,,Montreal 1976,Swimming,200m freestyle men
+15,AUS,mark kerry,,Montreal 1976,Swimming,200m freestyle men
+16,ESP,david lopez-zubero purcell,,Montreal 1976,Swimming,200m freestyle men
+17,AUS,peter dawson,,Montreal 1976,Swimming,200m freestyle men
+18,GDR,rainer strohbach,,Montreal 1976,Swimming,200m freestyle men
+19,ITA,roberto pangaro,,Montreal 1976,Swimming,200m freestyle men
+20,GDR,frank pfütze,,Montreal 1976,Swimming,200m freestyle men
+21,CAN,james hett,,Montreal 1976,Swimming,200m freestyle men
+22,NED,rene van der kul,,Montreal 1976,Swimming,200m freestyle men
+23,TUN,ali gharbi,,Montreal 1976,Swimming,200m freestyle men
+24,GBR,alan mcclatchey,,Montreal 1976,Swimming,200m freestyle men
+25,FRG,werner lampe,,Montreal 1976,Swimming,200m freestyle men
+26,SWE,bengt gingsjo,,Montreal 1976,Swimming,200m freestyle men
+27,SWE,peter pettersson,,Montreal 1976,Swimming,200m freestyle men
+28,SWE,anders bellbring,,Montreal 1976,Swimming,200m freestyle men
+29,ITA,paolo revelli,,Montreal 1976,Swimming,200m freestyle men
+30,NOR,fritz warncke,,Montreal 1976,Swimming,200m freestyle men
+31,NED,andre in e weld,,Montreal 1976,Swimming,200m freestyle men
+32,NZL,john mcconnochie,,Montreal 1976,Swimming,200m freestyle men
+33,JPN,tsuyoshi yanagidate,,Montreal 1976,Swimming,200m freestyle men
+34,MEX,guillermo garcia,,Montreal 1976,Swimming,200m freestyle men
+35,GRE,georgios karponzis,,Montreal 1976,Swimming,200m freestyle men
+36,MEX,eduardo perez,,Montreal 1976,Swimming,200m freestyle men
+37,PUR,francisco canales,,Montreal 1976,Swimming,200m freestyle men
+38,VEN,luis goicoechea,,Montreal 1976,Swimming,200m freestyle men
+39,ISV,steven newkirk,,Montreal 1976,Swimming,200m freestyle men
+40,IRL,kevin williamson,,Montreal 1976,Swimming,200m freestyle men
+41,BAH,andy knowles,,Montreal 1976,Swimming,200m freestyle men
+42,BUL,nikolai ganev,,Montreal 1976,Swimming,200m freestyle men
+43,BUL,petar georgiev,,Montreal 1976,Swimming,200m freestyle men
+44,COL,tomas alberto becerra,,Montreal 1976,Swimming,200m freestyle men
+45,HKG,marcus anthony crocker,,Montreal 1976,Swimming,200m freestyle men
+46,GDR,lutz loscher,,Montreal 1976,Swimming,200m freestyle men
+47,INA,kris sumono,,Montreal 1976,Swimming,200m freestyle men
+48,ISL,sigurdur olafsson,,Montreal 1976,Swimming,200m freestyle men
+49,PAN,gianni versari,,Montreal 1976,Swimming,200m freestyle men
+50,POR,paulo jose frischknecht,,Montreal 1976,Swimming,200m freestyle men
+51,PHI,gerardo rosario,,Montreal 1976,Swimming,200m freestyle men
+52,POR,jose gomes pereira,,Montreal 1976,Swimming,200m freestyle men
+53,MON,patrick novaretti,,Montreal 1976,Swimming,200m freestyle men
+54,NCA,frank richardson,,Montreal 1976,Swimming,200m freestyle men
+55,TPE,william chao,Did not start,Montreal 1976,Swimming,200m freestyle men
+56,NZL,brett naylor,Did not start,Montreal 1976,Swimming,200m freestyle men
+57,NGR,john ebito,Did not start,Montreal 1976,Swimming,200m freestyle men
+58,VEN,gerardo vera,Did not start,Montreal 1976,Swimming,200m freestyle men
+0,GDR,kornelia ender,,Montreal 1976,Swimming,200m freestyle women
+1,USA,shirley farber babashoff,,Montreal 1976,Swimming,200m freestyle women
+2,NED,enith brigitha,,Montreal 1976,Swimming,200m freestyle women
+3,NED,annelies maas,,Montreal 1976,Swimming,200m freestyle women
+4,CAN,gail amundrud,,Montreal 1976,Swimming,200m freestyle women
+5,USA,jennifer leigh hooker,,Montreal 1976,Swimming,200m freestyle women
+6,GDR,claudia hempel,,Montreal 1976,Swimming,200m freestyle women
+7,URS,irina vlasova,,Montreal 1976,Swimming,200m freestyle women
+8,NZL,rebecca perrott,,Montreal 1976,Swimming,200m freestyle women
+9,USA,jill sterkel,,Montreal 1976,Swimming,200m freestyle women
+10,URS,larisa tsareva,,Montreal 1976,Swimming,200m freestyle women
+11,NED,catharina (ineke) ran,,Montreal 1976,Swimming,200m freestyle women
+12,CAN,deborah clarke,,Montreal 1976,Swimming,200m freestyle women
+13,CAN,anne elizabeth jardin,,Montreal 1976,Swimming,200m freestyle women
+14,URS,lyubov kobzeva,,Montreal 1976,Swimming,200m freestyle women
+15,AUS,michelle ford,,Montreal 1976,Swimming,200m freestyle women
+16,GDR,andrea pollack,,Montreal 1976,Swimming,200m freestyle women
+17,FRG,marion platten,,Montreal 1976,Swimming,200m freestyle women
+18,FRA,guylaine berger,,Montreal 1976,Swimming,200m freestyle women
+19,BEL,anne richard,,Montreal 1976,Swimming,200m freestyle women
+20,FRG,judith (jutta) weber,,Montreal 1976,Swimming,200m freestyle women
+21,AUS,lesleigh harvey,,Montreal 1976,Swimming,200m freestyle women
+22,GBR,susan barnard,,Montreal 1976,Swimming,200m freestyle women
+23,SWE,gunilla lundberg,,Montreal 1976,Swimming,200m freestyle women
+24,SWE,pia martensson,,Montreal 1976,Swimming,200m freestyle women
+25,GBR,susan stewart edmondson,,Montreal 1976,Swimming,200m freestyle women
+26,AUS,sonia gray,,Montreal 1976,Swimming,200m freestyle women
+27,GBR,ann patricia mary bradshaw,,Montreal 1976,Swimming,200m freestyle women
+28,THA,rachaniw bulakul,,Montreal 1976,Swimming,200m freestyle women
+29,CRC,mariam paris,,Montreal 1976,Swimming,200m freestyle women
+30,VEN,vania vazquez,,Montreal 1976,Swimming,200m freestyle women
+31,VEN,maria perez,,Montreal 1976,Swimming,200m freestyle women
+32,ISL,vilborg sverrisdottir,,Montreal 1976,Swimming,200m freestyle women
+33,FRG,regina nissen,,Montreal 1976,Swimming,200m freestyle women
+34,ISV,shelley katherine cramer,,Montreal 1976,Swimming,200m freestyle women
+35,IRL,dierdre sheehan,,Montreal 1976,Swimming,200m freestyle women
+36,PAN,georgina osorio,,Montreal 1976,Swimming,200m freestyle women
+37,ARG,susana coppo,,Montreal 1976,Swimming,200m freestyle women
+38,PUR,jane fayer,,Montreal 1976,Swimming,200m freestyle women
+39,HKG,raphaelynne lee,,Montreal 1976,Swimming,200m freestyle women
+40,CUB,maria ramon,Did not start,Montreal 1976,Swimming,200m freestyle women
+41,TUN,myriam mizouni,Did not start,Montreal 1976,Swimming,200m freestyle women
+0,USA,brian stuart goodell,,Montreal 1976,Swimming,400m freestyle men
+1,USA,timothy andrew shaw,,Montreal 1976,Swimming,400m freestyle men
+2,URS,vladimir raskatov,,Montreal 1976,Swimming,400m freestyle men
+3,BRA,djan garrido madruga,,Montreal 1976,Swimming,400m freestyle men
+4,AUS,stephen holland,,Montreal 1976,Swimming,400m freestyle men
+5,HUN,sandor nagy,,Montreal 1976,Swimming,400m freestyle men
+6,URS,vladimir mikheev,,Montreal 1976,Swimming,400m freestyle men
+7,CAN,stephen badger,,Montreal 1976,Swimming,400m freestyle men
+8,FRA,pierre andraca,,Montreal 1976,Swimming,400m freestyle men
+9,NZL,brett naylor,,Montreal 1976,Swimming,400m freestyle men
+10,HUN,zoltan wladar,,Montreal 1976,Swimming,400m freestyle men
+11,USA,keith cawthon converse,,Montreal 1976,Swimming,400m freestyle men
+12,AUS,maxwell metzker,,Montreal 1976,Swimming,400m freestyle men
+13,GBR,gordon hunter downie,,Montreal 1976,Swimming,400m freestyle men
+14,GBR,alan mcclatchey,,Montreal 1976,Swimming,400m freestyle men
+15,NED,hendrik (henk) elzerman,,Montreal 1976,Swimming,400m freestyle men
+16,CAN,william sawchuk,,Montreal 1976,Swimming,400m freestyle men
+17,GDR,rainer strohbach,,Montreal 1976,Swimming,400m freestyle men
+18,URS,vladimir salnikov,,Montreal 1976,Swimming,400m freestyle men
+19,FRG,werner lampe,,Montreal 1976,Swimming,400m freestyle men
+20,NED,rene van der kul,,Montreal 1976,Swimming,400m freestyle men
+21,NOR,arne borgstrom,,Montreal 1976,Swimming,400m freestyle men
+22,ESP,david lopez-zubero purcell,,Montreal 1976,Swimming,400m freestyle men
+23,HUN,istvan koczka,,Montreal 1976,Swimming,400m freestyle men
+24,SWE,peter pettersson,,Montreal 1976,Swimming,400m freestyle men
+25,AUS,graham claud windeatt,,Montreal 1976,Swimming,400m freestyle men
+26,GDR,frank pfütze,,Montreal 1976,Swimming,400m freestyle men
+27,SWE,bengt gingsjo,,Montreal 1976,Swimming,400m freestyle men
+28,CAN,thomas alexander,,Montreal 1976,Swimming,400m freestyle men
+29,FRG,stephan wenz,,Montreal 1976,Swimming,400m freestyle men
+30,SWE,bengt jonsson,,Montreal 1976,Swimming,400m freestyle men
+31,YUG,borut petric,,Montreal 1976,Swimming,400m freestyle men
+32,BEL,johan van steenberghe,,Montreal 1976,Swimming,400m freestyle men
+33,SUI,gerhard waldmann,,Montreal 1976,Swimming,400m freestyle men
+34,IRL,kevin williamson,,Montreal 1976,Swimming,400m freestyle men
+35,BAH,andy knowles,,Montreal 1976,Swimming,400m freestyle men
+36,GRE,georgios karponzis,,Montreal 1976,Swimming,400m freestyle men
+37,GDR,lutz loscher,,Montreal 1976,Swimming,400m freestyle men
+38,FRG,andreas schmidt,,Montreal 1976,Swimming,400m freestyle men
+39,COL,tomas alberto becerra,,Montreal 1976,Swimming,400m freestyle men
+40,PUR,francisco canales,,Montreal 1976,Swimming,400m freestyle men
+41,INA,kris sumono,,Montreal 1976,Swimming,400m freestyle men
+42,ISL,sigurdur olafsson,,Montreal 1976,Swimming,400m freestyle men
+43,PHI,edwin borja,,Montreal 1976,Swimming,400m freestyle men
+44,MON,patrick novaretti,,Montreal 1976,Swimming,400m freestyle men
+45,POR,rui pinto abreu,,Montreal 1976,Swimming,400m freestyle men
+46,NCA,frank richardson,,Montreal 1976,Swimming,400m freestyle men
+47,MEX,guillermo garcia,Did not start,Montreal 1976,Swimming,400m freestyle men
+48,GBR,brian brinkley,Did not start,Montreal 1976,Swimming,400m freestyle men
+49,TUN,ali gharbi,Did not start,Montreal 1976,Swimming,400m freestyle men
+0,GDR,petra thümer,,Montreal 1976,Swimming,400m freestyle women
+1,USA,shirley farber babashoff,,Montreal 1976,Swimming,400m freestyle women
+2,CAN,shannon smith,,Montreal 1976,Swimming,400m freestyle women
+3,NZL,rebecca perrott,,Montreal 1976,Swimming,400m freestyle women
+4,USA,kathy heddy,,Montreal 1976,Swimming,400m freestyle women
+5,USA,brenda grace borgh,,Montreal 1976,Swimming,400m freestyle women
+6,NED,annelies maas,,Montreal 1976,Swimming,400m freestyle women
+7,GDR,sabine kahle,,Montreal 1976,Swimming,400m freestyle women
+8,CAN,wendy quirk,,Montreal 1976,Swimming,400m freestyle women
+9,GDR,regina jäger,,Montreal 1976,Swimming,400m freestyle women
+10,CAN,wendy lee,,Montreal 1976,Swimming,400m freestyle women
+11,URS,irina vlasova,,Montreal 1976,Swimming,400m freestyle women
+12,AUS,rosemary milgate,,Montreal 1976,Swimming,400m freestyle women
+13,AUS,jenny turrall,,Montreal 1976,Swimming,400m freestyle women
+14,NZL,allison calder,,Montreal 1976,Swimming,400m freestyle women
+15,AUS,tracey wickham,,Montreal 1976,Swimming,400m freestyle women
+16,BEL,carine verbauwen,,Montreal 1976,Swimming,400m freestyle women
+17,ITA,laura bortoletti,,Montreal 1976,Swimming,400m freestyle women
+18,GBR,susan barnard,,Montreal 1976,Swimming,400m freestyle women
+19,ESP,antonia real horrach,,Montreal 1976,Swimming,400m freestyle women
+20,BRA,maria guimaraes,,Montreal 1976,Swimming,400m freestyle women
+21,THA,rachaniw bulakul,,Montreal 1976,Swimming,400m freestyle women
+22,GBR,susan stewart edmondson,,Montreal 1976,Swimming,400m freestyle women
+23,ITA,eleonora pandini,,Montreal 1976,Swimming,400m freestyle women
+24,NED,linda faber,,Montreal 1976,Swimming,400m freestyle women
+25,VEN,maria perez,,Montreal 1976,Swimming,400m freestyle women
+26,CRC,mariam paris,,Montreal 1976,Swimming,400m freestyle women
+27,TUN,myriam mizouni,,Montreal 1976,Swimming,400m freestyle women
+28,COL,fernanda perez,,Montreal 1976,Swimming,400m freestyle women
+29,ISL,vilborg sverrisdottir,,Montreal 1976,Swimming,400m freestyle women
+30,PUR,diana hatler,,Montreal 1976,Swimming,400m freestyle women
+31,PAN,georgina osorio,,Montreal 1976,Swimming,400m freestyle women
+32,ARG,susana coppo,,Montreal 1976,Swimming,400m freestyle women
+33,HKG,karen robertson,,Montreal 1976,Swimming,400m freestyle women
+34,CUB,maria ramon,Did not start,Montreal 1976,Swimming,400m freestyle women
+0,USA,rodney strachan,,Montreal 1976,Swimming,400m individual medley men
+1,USA,alexander timothy mckee,,Montreal 1976,Swimming,400m individual medley men
+2,URS,andrei smirnov,,Montreal 1976,Swimming,400m individual medley men
+3,HUN,andras hargitay,,Montreal 1976,Swimming,400m individual medley men
+4,CAN,graham smith,,Montreal 1976,Swimming,400m individual medley men
+5,USA,steven charles furniss,,Montreal 1976,Swimming,400m individual medley men
+6,CAN,andrew ritchie,,Montreal 1976,Swimming,400m individual medley men
+7,FRG,hans-joachim geisler,,Montreal 1976,Swimming,400m individual medley men
+8,CAN,william sawchuk,,Montreal 1976,Swimming,400m individual medley men
+9,AUS,peter dawson,,Montreal 1976,Swimming,400m individual medley men
+10,URS,anatoli smirnov,,Montreal 1976,Swimming,400m individual medley men
+11,GBR,alan mcclatchey,,Montreal 1976,Swimming,400m individual medley men
+12,HUN,scaba sos,,Montreal 1976,Swimming,400m individual medley men
+13,TCH,miloslav rolko,,Montreal 1976,Swimming,400m individual medley men
+14,AUS,jeffrey van de graaf,,Montreal 1976,Swimming,400m individual medley men
+15,JPN,tsuyoshi yanagidate,,Montreal 1976,Swimming,400m individual medley men
+16,NZL,john mcconnochie,,Montreal 1976,Swimming,400m individual medley men
+17,NZL,marcus treffers,,Montreal 1976,Swimming,400m individual medley men
+18,NOR,gunnar adolf gundersen,,Montreal 1976,Swimming,400m individual medley men
+19,GBR,james carter,,Montreal 1976,Swimming,400m individual medley men
+20,PUR,jose ricardo de jesus,,Montreal 1976,Swimming,400m individual medley men
+21,GBR,john duncan cleworth,,Montreal 1976,Swimming,400m individual medley men
+22,BEL,françois deley,,Montreal 1976,Swimming,400m individual medley men
+23,MEX,ricardo marmolejo,,Montreal 1976,Swimming,400m individual medley men
+24,PAR,emilio abreu,,Montreal 1976,Swimming,400m individual medley men
+25,NED,ronald woutering,,Montreal 1976,Swimming,400m individual medley men
+26,ISR,dov nisman,,Montreal 1976,Swimming,400m individual medley men
+27,HUN,zoltan verraszto,,Montreal 1976,Swimming,400m individual medley men
+28,MEX,guillermo zavala,,Montreal 1976,Swimming,400m individual medley men
+29,PHI,edwin borja,,Montreal 1976,Swimming,400m individual medley men
+30,POR,antonio botelho melo,,Montreal 1976,Swimming,400m individual medley men
+31,MON,patrick novaretti,Disqualified,Montreal 1976,Swimming,400m individual medley men
+32,URS,mikhail gorelik,Disqualified,Montreal 1976,Swimming,400m individual medley men
+33,ISV,steven newkirk,Did not start,Montreal 1976,Swimming,400m individual medley men
+34,COL,jorge jaramillo,Did not start,Montreal 1976,Swimming,400m individual medley men
+0,GDR,ulrike tauber,,Montreal 1976,Swimming,400m individual medley women
+1,CAN,cheryl gibson,,Montreal 1976,Swimming,400m individual medley women
+2,CAN,becky smith,,Montreal 1976,Swimming,400m individual medley women
+3,GDR,birgit treiber,,Montreal 1976,Swimming,400m individual medley women
+4,GDR,sabine kahle,,Montreal 1976,Swimming,400m individual medley women
+5,USA,donna lee wennerstrom,,Montreal 1976,Swimming,400m individual medley women
+6,CAN,joann baker,,Montreal 1976,Swimming,400m individual medley women
+7,NZL,monique rodahl,,Montreal 1976,Swimming,400m individual medley women
+8,AUS,judith hudson,,Montreal 1976,Swimming,400m individual medley women
+9,NZL,susan hunter,,Montreal 1976,Swimming,400m individual medley women
+10,GBR,susan jane richardson,,Montreal 1976,Swimming,400m individual medley women
+11,BEL,colette crabbe,,Montreal 1976,Swimming,400m individual medley women
+12,NZL,lynne rowe,,Montreal 1976,Swimming,400m individual medley women
+13,GBR,anne wilma adams,,Montreal 1976,Swimming,400m individual medley women
+14,USA,jeanne marie haney,,Montreal 1976,Swimming,400m individual medley women
+15,GBR,ann patricia mary bradshaw,,Montreal 1976,Swimming,400m individual medley women
+16,URS,natalya popova,,Montreal 1976,Swimming,400m individual medley women
+17,BEL,pierette michel,,Montreal 1976,Swimming,400m individual medley women
+18,AUS,allison smith,,Montreal 1976,Swimming,400m individual medley women
+19,PHI,nancy deano,,Montreal 1976,Swimming,400m individual medley women
+20,USA,shirley farber babashoff,Did not start,Montreal 1976,Swimming,400m individual medley women
+21,DEN,susanne schultz nielsson,Did not start,Montreal 1976,Swimming,400m individual medley women
+22,HUN,gabriella verraszto,Did not start,Montreal 1976,Swimming,400m individual medley women
+23,THA,sansanee changkasiri,Did not start,Montreal 1976,Swimming,400m individual medley women
+0,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+1,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+2,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+3,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+4,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+5,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+6,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+7,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+8,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+9,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+10,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+11,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+12,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+13,,,,Montreal 1976,Swimming,4x100m freestyle relay women
+14,,,Did not start,Montreal 1976,Swimming,4x100m freestyle relay women
+0,,,,Montreal 1976,Swimming,4x100m medley relay men
+1,,,,Montreal 1976,Swimming,4x100m medley relay men
+2,,,,Montreal 1976,Swimming,4x100m medley relay men
+3,,,,Montreal 1976,Swimming,4x100m medley relay men
+4,,,,Montreal 1976,Swimming,4x100m medley relay men
+5,,,,Montreal 1976,Swimming,4x100m medley relay men
+6,,,,Montreal 1976,Swimming,4x100m medley relay men
+7,,,,Montreal 1976,Swimming,4x100m medley relay men
+8,,,,Montreal 1976,Swimming,4x100m medley relay men
+9,,,,Montreal 1976,Swimming,4x100m medley relay men
+10,,,,Montreal 1976,Swimming,4x100m medley relay men
+11,,,,Montreal 1976,Swimming,4x100m medley relay men
+12,,,,Montreal 1976,Swimming,4x100m medley relay men
+13,,,,Montreal 1976,Swimming,4x100m medley relay men
+14,,,Did not start,Montreal 1976,Swimming,4x100m medley relay men
+0,,,,Montreal 1976,Swimming,4x100m medley relay women
+1,,,,Montreal 1976,Swimming,4x100m medley relay women
+2,,,,Montreal 1976,Swimming,4x100m medley relay women
+3,,,,Montreal 1976,Swimming,4x100m medley relay women
+4,,,,Montreal 1976,Swimming,4x100m medley relay women
+5,,,,Montreal 1976,Swimming,4x100m medley relay women
+6,,,,Montreal 1976,Swimming,4x100m medley relay women
+7,,,,Montreal 1976,Swimming,4x100m medley relay women
+8,,,,Montreal 1976,Swimming,4x100m medley relay women
+9,,,,Montreal 1976,Swimming,4x100m medley relay women
+10,,,,Montreal 1976,Swimming,4x100m medley relay women
+11,,,,Montreal 1976,Swimming,4x100m medley relay women
+12,,,,Montreal 1976,Swimming,4x100m medley relay women
+13,,,,Montreal 1976,Swimming,4x100m medley relay women
+14,,,,Montreal 1976,Swimming,4x100m medley relay women
+15,,,,Montreal 1976,Swimming,4x100m medley relay women
+16,,,Disqualified,Montreal 1976,Swimming,4x100m medley relay women
+0,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+1,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+2,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+3,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+4,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+5,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+6,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+7,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+8,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+9,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+10,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+11,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+12,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+13,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+14,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+15,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+16,,,,Montreal 1976,Swimming,4x200m freestyle relay men
+17,,,Disqualified,Montreal 1976,Swimming,4x200m freestyle relay men
+18,,,Did not start,Montreal 1976,Swimming,4x200m freestyle relay men
+0,GDR,petra thümer,,Montreal 1976,Swimming,800m freestyle women
+1,USA,shirley farber babashoff,,Montreal 1976,Swimming,800m freestyle women
+2,USA,wendy elizabeth weinberg,,Montreal 1976,Swimming,800m freestyle women
+3,AUS,rosemary milgate,,Montreal 1976,Swimming,800m freestyle women
+4,USA,nicole kramer,,Montreal 1976,Swimming,800m freestyle women
+5,CAN,shannon smith,,Montreal 1976,Swimming,800m freestyle women
+6,GDR,regina jäger,,Montreal 1976,Swimming,800m freestyle women
+7,AUS,jenny turrall,,Montreal 1976,Swimming,800m freestyle women
+8,CAN,wendy quirk,,Montreal 1976,Swimming,800m freestyle women
+9,CAN,lisa geary,,Montreal 1976,Swimming,800m freestyle women
+10,NZL,allison calder,,Montreal 1976,Swimming,800m freestyle women
+11,BEL,carine verbauwen,,Montreal 1976,Swimming,800m freestyle women
+12,NED,annelies maas,,Montreal 1976,Swimming,800m freestyle women
+13,ITA,laura bortoletti,,Montreal 1976,Swimming,800m freestyle women
+14,AUS,tracey wickham,,Montreal 1976,Swimming,800m freestyle women
+15,ESP,antonia real horrach,,Montreal 1976,Swimming,800m freestyle women
+16,ITA,eleonora pandini,,Montreal 1976,Swimming,800m freestyle women
+17,COL,fernanda perez,,Montreal 1976,Swimming,800m freestyle women
+18,PUR,diana hatler,,Montreal 1976,Swimming,800m freestyle women
+19,THA,rachaniw bulakul,Did not start,Montreal 1976,Swimming,800m freestyle women
+20,BRA,maria guimaraes,Did not start,Montreal 1976,Swimming,800m freestyle women
+21,URS,irina vlasova,Did not start,Montreal 1976,Swimming,800m freestyle women

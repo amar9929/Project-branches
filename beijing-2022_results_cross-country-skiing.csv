@@ -1,0 +1,725 @@
+,country,participant,result,olympic_game,discipline,event
+0,ROC,alexander bolshunov,1:16:09.8,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+1,ROC,denis spitsov,1:17:20.8,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+2,FIN,iivo niskanen,1:18:10.0,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+3,NOR,hans christer holund,1:18:40.7,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+4,NOR,paal golberg,1:19:02.3,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+5,SWE,william poromaa,1:19:03.7,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+6,FIN,perttu hyvarinen,1:19:22.4,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+7,ITA,francesco de fabiani,1:19:47.6,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+8,ROC,artem maltsev,1:20:04.6,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+9,FRA,clement parisse,1:20:07.0,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+10,USA,scott patterson,1:20:10.0,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+11,GER,lucas boegl,1:20:12.5,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+12,GER,friedrich moch,1:20:16.4,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+13,FRA,jules lapierre,1:20:21.8,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+14,SUI,jonas baumann,1:20:32.5,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+15,AUT,mika vermeulen,1:20:40.0,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+16,GBR,andrew musgrave,1:20:46.9,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+17,CZE,michal novak,1:20:50.9,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+18,GER,florian notz,1:21:00.4,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+19,AND,irineu esteve altimiras,1:21:08.2,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+20,ESP,imanol rojo,1:21:09.2,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+21,SUI,candide pralong,1:21:13.6,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+22,FRA,maurice manificat,1:21:17.5,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+23,SWE,jens burman,1:21:43.3,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+24,FIN,remi lindholm,1:21:49.4,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+25,POL,dominik bury,1:22:40.6,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+26,SUI,jason rueesch,1:22:41.3,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+27,ROU,paul constantin pepene,1:22:41.4,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+28,ISL,snorri eythor einarsson,1:22:50.1,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+29,SWE,calle halfvarsson,1:22:56.3,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+30,CAN,olivier leveille,1:23:42.0,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+31,KAZ,vitaliy pukhkalo,1:23:45.1,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+32,EST,alvar johannes alev,1:23:50.5,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+33,ITA,paolo ventura,1:24:00.4,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+34,JPN,naoto baba,1:24:43.9,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+35,ROC,alexey chervotkin,1:24:59.5,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+36,SWE,leo johansson,1:24:59.6,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+37,CHN,rongsheng liu,1:24:59.6,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+38,USA,gus schumacher,1:25:14.3,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+39,NOR,johannes hoesflot klaebo,1:25:15.8,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+40,JPN,ryo hirose,1:25:17.7,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+41,CAN,antoine cyr,1:25:26.0,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+42,IRL,thomas maloney westgaard,1:25:29.8,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+43,CZE,petr knop,1:25:38.4,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+44,SVK,jan koristek,1:25:38.7,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+45,CZE,adam fellner,1:25:39.5,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+46,ARM,mikayel mikayelyan,1:25:53.7,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+47,ITA,giandomenico salvadori,1:26:10.7,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+48,CHN,jincai shang,1:26:48.2,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+49,CHN,hadesi badelihan,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+50,LAT,raimo vigants ,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+51,POL,mateusz haratyk,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+52,BEL,thibaut de marre ,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+53,JPN,haruki yamashita,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+54,KAZ,yevgeniy velichko,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+55,SLO,miha licef,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+56,CAN,remi drolet,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+57,UKR,oleksii krasovskyi,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+58,CHN,degen chen,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+59,KOR,minwoo kim,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+60,THA,mark chanloung,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+61,AUS,seve de campo,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+62,AUS,phillip bellingham,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+63,UKR,ruslan perekhoda,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+64,ARG,franco dal farra,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+65,KOR,jongwon jeong,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+66,BRA,manex silva,LAP,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+67,NOR,sjur roethe,Did not finish,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+68,FRA,hugo lapalus,Did not finish,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+69,GER,jonas dobler,Did not start,Beijing 2022,Cross Country Skiing,Men's 15km + 15km Skiathlon
+0,FIN,iivo niskanen,37:54.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+1,ROC,alexander bolshunov,38:18.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+2,NOR,johannes hoesflot klaebo,38:32.3,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+3,NOR,hans christer holund,38:44.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+4,ROC,alexey chervotkin,38:51.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+5,FIN,perttu hyvarinen,39:00.2,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+6,FRA,hugo lapalus,39:09.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+7,SWE,jens burman,39:26.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+8,ROC,ilia semikov,39:34.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+9,SWE,william poromaa,39:42.5,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+10,NOR,paal golberg,39:47.4,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+11,FRA,maurice manificat,39:49.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+12,ROC,ivan yakimushkin,39:52.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+13,IRL,thomas maloney westgaard,40:01.5,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+14,NOR,erik valnes,40:06.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+15,SUI,jonas baumann,40:09.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+16,GER,lucas boegl,40:13.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+17,ITA,francesco de fabiani,40:16.4,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+18,GER,jonas dobler,40:21.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+19,GER,janosch brugger,40:24.5,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+20,SWE,johan haeggstroem,40:30.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+21,ITA,giandomenico salvadori,40:33.2,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+22,AUT,mika vermeulen,40:37.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+23,AND,irineu esteve altimiras,40:39.4,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+24,KAZ,vitaliy pukhkalo,40:39.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+25,SWE,calle halfvarsson,40:46.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+26,POL,dominik bury,40:48.4,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+27,FIN,ristomatti hakola,40:49.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+28,CAN,olivier leveille,40:52.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+29,ROU,paul constantin pepene,40:52.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+30,CZE,adam fellner,41:01.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+31,GER,albert kuchler,41:07.1,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+32,CAN,remi drolet,41:07.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+33,ITA,paolo ventura,41:12.2,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+34,EST,alvar johannes alev,41:12.5,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+35,ISL,snorri eythor einarsson,41:17.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+36,CAN,antoine cyr,41:17.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+37,USA,scott patterson,41:23.1,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+38,ESP,imanol rojo,41:24.2,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+39,KAZ,yevgeniy velichko,41:27.3,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+40,CHN,jincai shang,41:29.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+41,USA,ben ogden,41:29.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+42,JPN,ryo hirose,41:30.5,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+43,SUI,dario cologna,41:39.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+44,FIN,remi lindholm,41:40.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+45,GBR,andrew musgrave,41:44.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+46,CHN,rongsheng liu,41:51.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+47,USA,gus schumacher,41:53.4,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+48,FRA,richard jouve,41:56.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+49,CZE,michal novak,42:06.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+50,GBR,andrew young,42:24.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+51,ITA,maicol rastelli,42:25.4,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+52,SUI,jason rueesch,42:29.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+53,CZE,petr knop,42:34.4,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+54,SLO,miha licef,42:43.4,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+55,EST,martin himma,42:44.4,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+56,CHN,hadesi badelihan,42:48.1,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+57,SVK,peter mlynar,42:49.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+58,BEL,thibaut de marre ,42:56.7,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+59,POL,mateusz haratyk,43:00.3,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+60,ARM,mikayel mikayelyan,43:09.1,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+61,LAT,raimo vigants ,43:10.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+62,CHN,cirenzhandui ,43:22.2,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+63,ROU,raul mihai popa,43:25.3,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+64,MGL,achbadrakh batmunkh,43:29.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+65,USA,james clinton schoonmaker,43:31.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+66,JPN,hiroyuki miyazawa,43:47.5,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+67,BLR,yahor shpuntau,44:05.2,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+68,SLO,vili crv,44:12.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+69,EST,henri roos,44:17.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+70,SLO,miha simenc,44:20.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+71,AUS,seve de campo,44:21.2,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+72,THA,mark chanloung,44:27.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+73,LAT,roberts slotins,44:44.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+74,AUS,phillip bellingham,44:46.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+75,AUS,lars young vik,44:50.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+76,UKR,oleksii krasovskyi,44:59.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+77,UKR,ruslan perekhoda,45:05.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+78,KOR,minwoo kim,45:21.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+79,HUN,adam konya,45:48.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+80,AUS,hugo hinckfuss,46:05.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+81,KOR,jongwon jeong,46:34.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+82,LTU,tautvydas strolia,46:53.1,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+83,IRI,danyal saveh shemshaki,47:26.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+84,CRO,marko skender,48:30.8,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+85,ARG,franco dal farra,48:35.5,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+86,BIH,strahinja eric,48:38.3,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+87,POR,jose cabeca,49:12.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+88,BOL,timo juhani gronlund,49:27.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+89,BRA,manex silva,50:35.1,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+90,CHI,yonathan jesus fernandez,50:36.6,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+91,LBN,elie tawk,51:46.5,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+92,MNE,aleksandar grbovic,52:44.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+93,MEX,jonathan soto moreno,53:30.0,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+94,COL,carlos andres quintana,55:41.9,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+95,TUR,yusuf emre firat,Did not finish,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+96,NGR,samuel uduigowme ikpefan,Did not finish,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+97,CZE,jan pechousek,Did not start,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+98,BLR,aliaksandr voranau,Did not start,Beijing 2022,Cross Country Skiing,Men's 15km Classic
+0,,,1:54:50.7,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+1,,,1:55:57.9,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+2,,,1:56:07.1,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+3,,,1:57:00.4,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+4,,,1:57:46.5,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+5,,,1:59:28.6,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+6,,,2:00:13.3,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+7,,,2:00:16.6,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+8,,,2:02:56.3,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+9,,,2:03:01.5,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+10,,,2:04:01.1,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+11,,,2:04:57.8,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+12,,,LAP,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+13,,,LAP,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+14,,,LAP,Beijing 2022,Cross Country Skiing,Men's 4 x 10km Relay
+0,ROC,alexander bolshunov,1:11:32.7,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+1,ROC,ivan yakimushkin,1:11:38.2,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+2,NOR,simen hegstad krueger,1:11:39.7,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+3,ROC,artem maltsev,1:11:43.4,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+4,NOR,sjur roethe,1:11:48.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+5,ROC,denis spitsov,1:11:58.9,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+6,FRA,clement parisse,1:12:01.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+7,USA,scott patterson,1:12:06.6,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+8,SWE,william poromaa,1:12:29.1,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+9,FRA,maurice manificat,1:12:30.3,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+10,SUI,roman furger,1:13:24.8,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+11,GBR,andrew musgrave,1:13:29.3,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+12,NOR,hans christer holund,1:13:30.2,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+13,SUI,dario cologna,1:13:31.1,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+14,FRA,jules lapierre,1:13:50.3,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+15,SWE,jens burman,1:14:22.3,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+16,SUI,jason rueesch,1:14:48.4,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+17,ITA,giandomenico salvadori,1:14:49.1,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+18,FIN,perttu hyvarinen,1:14:49.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+19,GER,jonas dobler,1:14:50.0,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+20,ESP,imanol rojo,1:14:50.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+21,SUI,candide pralong,1:14:50.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+22,ISL,snorri eythor einarsson,1:14:51.6,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+23,JPN,naoto baba,1:14:52.7,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+24,AND,irineu esteve altimiras,1:15:09.8,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+25,GER,florian notz,1:15:32.2,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+26,CAN,olivier leveille,1:15:54.3,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+27,FIN,remi lindholm,1:15:55.6,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+28,IRL,thomas maloney westgaard,1:15:59.0,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+29,POL,dominik bury,1:16:01.0,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+30,GER,friedrich moch,1:16:03.6,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+31,ITA,paolo ventura,1:16:05.4,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+32,GER,lucas boegl,1:16:11.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+33,FRA,adrien backscheider,1:16:16.6,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+34,CAN,remi drolet,1:16:27.1,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+35,EST,alvar johannes alev,1:16:28.4,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+36,CZE,petr knop,1:16:35.0,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+37,SWE,calle halfvarsson,1:16:47.6,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+38,SWE,leo johansson,1:17:16.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+39,SVK,jan koristek,1:17:26.0,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+40,CHN,degen chen,1:18:14.1,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+41,CZE,adam fellner,1:18:14.3,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+42,KAZ,yevgeniy velichko,1:18:43.8,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+43,LAT,raimo vigants ,1:18:55.2,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+44,CHN,hadesi badelihan,1:19:45.9,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+45,CHN,qiang wang,1:19:53.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+46,BEL,thibaut de marre ,1:19:53.8,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+47,CHN,rongsheng liu,1:19:58.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+48,THA,mark chanloung,1:20:11.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+49,POL,mateusz haratyk,1:20:24.0,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+50,AUS,seve de campo,1:21:02.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+51,BIH,strahinja eric,1:21:07.6,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+52,AUS,phillip bellingham,1:23:03.8,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+53,LAT,roberts slotins,1:24:46.4,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+54,HUN,adam konya,1:25:21.4,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+55,MKD,stavre jada,1:25:41.8,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+56,CRO,marko skender,1:30:34.5,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+57,BRA,manex silva,1:33:11.8,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+58,GRE,apostolos angelis,1:34:04.2,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+59,NOR,johannes hoesflot klaebo,Did not finish,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+60,CZE,michal novak,Did not start,Beijing 2022,Cross Country Skiing,Men's 50km Mass Start Free
+0,NOR,johannes hoesflot klaebo,2:58.06,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+1,ITA,federico pellegrino,2:58.32,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+2,ROC,alexander terentev,2:59.37,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+3,FIN,joni maeki,3:00.18,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+4,ROC,artem maltsev,3:01.65,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+5,SWE,oskar svensson,3:04.23,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+6,FRA,richard jouve,2:52.31,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+7,ROC,sergey ustiugov,2:52.35,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+8,FRA,lucas chanavat,2:52.92,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+9,NOR,haavard solaas taugboel,2:52.46,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+10,NOR,erik valnes,3:13.28,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+11,USA,ben ogden,2:53.41,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+12,SWE,johan haeggstroem,2:58.01,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+13,FIN,lauri vuorinen,2:54.64,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+14,USA,james clinton schoonmaker,2:58.13,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+15,SWE,marcus grate,2:53.71,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+16,USA,kevin bolger,2:58.54,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+17,SUI,valerio grond,2:54.12,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+18,POL,maciej starega,2:58.56,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+19,LAT,raimo vigants ,3:06.63,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+20,NOR,paal golberg,3:14.81,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+21,SUI,jovian hediger,2:58.87,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+22,CZE,michal novak,2:55.36,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+23,SWE,anton persson,2:53.35,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+24,USA,luke jager,2:59.14,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+25,CZE,ondrej cerny,3:10.62,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+26,FRA,renaud jay,3:35.80,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+27,ITA,davide graz,2:56.09,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+28,CZE,ludek seller,3:01.83,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+29,CHN,qiang wang,RAL,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+30,SUI,roman schaad,2:54.57,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+31,JPN,hiroyuki miyazawa,2:54.64,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+32,CZE,jan pechousek,2:55.03,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+33,CAN,graham ritchie,2:55.04,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+34,ITA,francesco de fabiani,2:55.56,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+35,GBR,andrew young,2:55.60,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+36,ESP,jaume pueyo,2:55.76,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+37,GER,janosch brugger,2:56.01,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+38,AUT,michael foettinger,2:56.58,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+39,GBR,james clugnet,2:56.72,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+40,EST,henri roos,2:57.15,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+41,SLO,vili crv,2:57.39,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+42,AUT,benjamin moser,2:58.07,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+43,SLO,miha simenc,2:58.14,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+44,EST,marko kilp,2:58.95,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+45,UKR,ruslan perekhoda,2:59.34,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+46,ROU,raul mihai popa,2:59.85,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+47,EST,martin himma,3:00.07,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+48,LTU,modestas vaiciulis,3:01.28,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+49,AUS,phillip bellingham,3:01.57,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+50,ITA,maicol rastelli,3:02.04,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+51,THA,mark chanloung,3:02.12,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+52,BLR,yahor shpuntau,3:02.17,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+53,CAN,olivier leveille,3:02.26,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+54,AUS,lars young vik,3:02.52,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+55,CAN,antoine cyr,3:02.59,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+56,JPN,haruki yamashita,3:02.60,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+57,POL,kamil bury,3:02.73,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+58,BIH,strahinja eric,3:03.05,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+59,CHN,cirenzhandui ,3:03.22,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+60,AUS,hugo hinckfuss,3:04.44,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+61,KAZ,yevgeniy velichko,3:04.52,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+62,AUS,seve de campo,3:04.81,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+63,UKR,oleksii krasovskyi,3:05.52,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+64,SLO,miha licef,3:05.98,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+65,KAZ,vitaliy pukhkalo,3:06.31,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+66,CHN,jincai shang,3:06.52,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+67,LTU,tautvydas strolia,3:06.76,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+68,CRO,marko skender,3:06.86,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+69,LAT,roberts slotins,3:07.41,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+70,BRA,manex silva,3:08.64,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+71,HUN,adam konya,3:09.43,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+72,NGR,samuel uduigowme ikpefan,3:09.57,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+73,SLO,janez lampic,3:09.95,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+74,ARG,franco dal farra,3:09.95,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+75,BEL,thibaut de marre ,3:10.66,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+76,MGL,achbadrakh batmunkh,3:11.60,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+77,ISL,isak stianson pedersen,3:11.95,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+78,CHN,rongsheng liu,3:12.14,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+79,TUR,yusuf emre firat,3:15.96,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+80,KOR,jongwon jeong,3:16.15,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+81,KOR,minwoo kim,3:19.76,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+82,GRE,apostolos angelis,3:20.87,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+83,MNE,aleksandar grbovic,3:24.12,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+84,CHI,yonathan jesus fernandez,3:26.12,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+85,MKD,stavre jada,3:29.13,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+86,LBN,elie tawk,3:47.73,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+87,COL,carlos andres quintana,4:08.66,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+88,BLR,aliaksandr voranau,Did not start,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+89,ROC,alexander bolshunov,Did not start,Beijing 2022,Cross Country Skiing,Men's Sprint Free
+0,NOR,johannes hoesflot klaebo,19:22.99,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+1,FIN,joni maeki,19:25.45,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+2,ROC,alexander bolshunov,19:27.28,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+3,SWE,william poromaa,19:38.05,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+4,CAN,graham ritchie,19:45.30,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+5,ITA,federico pellegrino,19:48.42,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+6,FRA,richard jouve,19:58.37,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+7,SUI,jovian hediger,20:04.35,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+8,USA,james clinton schoonmaker,20:28.07,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+9,AUT,benjamin moser,21:15.00,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+10,EST,henri roos,20:24.29,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+11,BLR,yahor shpuntau,20:34.07,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+12,CHN,jincai shang,20:12.40,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+13,CZE,michal novak,20:36.70,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+14,POL,kamil bury,20:19.87,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+15,SLO,vili crv,20:43.03,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+16,UKR,oleksii krasovskyi,20:48.40,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+17,ROU,raul mihai popa,21:03.35,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+18,ISL,snorri eythor einarsson,21:05.66,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+19,GBR,james clugnet,21:15.27,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+20,LAT,roberts slotins,21:06.82,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+21,AUS,phillip bellingham,21:17.35,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+22,GER,albert kuchler,21:20.39,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+23,LTU,tautvydas strolia,22:17.79,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+24,KOR,jongwon jeong,22:56.16,Beijing 2022,Cross Country Skiing,Men's Team Sprint Classic
+0,NOR,therese johaug,28:06.3,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+1,FIN,kerttu niskanen,28:06.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+2,FIN,krista parmakoski,28:37.8,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+3,ROC,natalia nepryaeva,28:37.9,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+4,GER,katharina hennig,28:49.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+5,SWE,ebba andersson,28:57.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+6,ROC,yulia stupak,29:03.8,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+7,USA,jessica diggins,29:15.1,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+8,AUT,teresa stadlober,29:16.9,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+9,ROC,tatiana sorina,29:17.4,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+10,GER,katherine sauerbrey,29:27.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+11,SWE,frida karlsson,29:28.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+12,USA,rosie brennan,29:28.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+13,FIN,johanna matintalo,29:31.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+14,ROC,lilia vasileva,29:32.4,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+15,FIN,anne kylloenen,29:42.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+16,SLO,anamarija lampic,29:55.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+17,CAN,dahria beatty,30:00.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+18,SWE,emma ribom,30:05.8,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+19,SWE,charlotte kalla,30:07.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+20,NOR,tiril udnes weng,30:22.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+21,SUI,nadine faehndrich,30:23.8,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+22,LAT,patricija eiduka,30:34.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+23,USA,novie mccabe,30:34.9,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+24,NOR,lotta udnes weng,30:37.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+25,ITA,anna comarella,30:45.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+26,JPN,masako ishida,30:50.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+27,GER,antonia fraebel,30:51.4,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+28,POL,izabela marcisz,30:54.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+29,CZE,petra novakova,31:00.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+30,AUT,lisa unterweger,31:02.1,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+31,USA,hailey swirbul,31:05.3,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+32,GER,laura gimmler,31:05.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+33,CZE,katerina janatova,31:07.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+34,ITA,caterina ganz,31:08.1,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+35,CAN,katherine stewart jones,31:08.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+36,ITA,martina di centa,31:08.8,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+37,ITA,lucia scardoni,31:09.5,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+38,CHN,chunxue chi,31:10.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+39,FRA,coralie bentz,31:17.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+40,FRA,melissa gal,31:25.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+41,CZE,petra hyncicova,31:28.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+42,SUI,nadja kaelin,31:29.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+43,NOR,mathilde myhrvold,31:36.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+44,CHN,xin li,31:36.9,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+45,JPN,masae tsuchiya,31:41.5,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+46,AND,carola vila obiols,31:45.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+47,CAN,cendrine browne,31:47.9,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+48,POL,monika skinder,31:49.9,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+49,CHN,qinghua ma,31:52.3,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+50,AUS,jessica yeaton,31:54.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+51,KAZ,angelina shuryga,32:08.8,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+52,KAZ,kseniya shalygina,32:09.9,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+53,JPN,chika kobayashi,32:10.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+54,SUI,anja weber,32:13.4,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+55,CHN,dinigeer yilamujiang,32:23.8,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+56,KAZ,nadezhda stepashkina,32:27.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+57,UKR,maryna antsybor,32:36.5,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+58,KAZ,valeriya tyuleneva,32:52.1,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+59,EST,keidy kaasiku,32:55.4,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+60,CAN,olivia bouffard-nesbitt,33:01.1,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+61,SLO,anita klemencic,33:09.3,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+62,THA,karen chanloung,33:14.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+63,POL,karolina kukuczka,33:16.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+64,SVK,alena prochazkova,33:18.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+65,SLO,anja mandeljc,33:19.5,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+66,AUS,casey wright,33:21.1,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+67,LAT,kitija auzina,33:26.3,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+68,LIE,nina riedener,33:49.0,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+69,EST,kaidy kaasiku,33:50.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+70,SLO,neza zerjav,33:56.8,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+71,KOR,eui jin lee,34:07.9,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+72,CRO,vedrana malec,34:31.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+73,ARM,katya galstyan,34:37.5,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+74,KOR,chaewon lee,34:45.5,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+75,UKR,viktoriia olekh,34:58.1,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+76,SVK,barbora klementova,34:59.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+77,POL,magdalena kobielusz,35:40.3,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+78,EST,aveli uustalu,35:46.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+79,SVK,kristina sivokova,36:12.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+80,BRA,jaqueline mourao,36:14.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+81,CRO,tena hadzic,36:27.5,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+82,LAT,estere volfa,36:36.9,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+83,MGL,enkhtuul ariunsanaa,37:02.5,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+84,ROU,timea lorincz,37:15.3,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+85,TUR,aysenur duman,37:36.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+86,GRE,maria ntanou,37:39.4,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+87,LTU,egle savickaite,38:26.5,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+88,BRA,eduarda ribera,38:58.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+89,LTU,ieva dainyte,39:07.4,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+90,TUR,ozlem ceren dursun,39:17.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+91,LAT,samanta krampe,39:34.2,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+92,ARM,angelina muradyan,39:43.4,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+93,MKD,ana cvetanovska,39:57.7,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+94,ARG,nahiara diaz gonzalez,40:30.8,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+95,HUN,sara ponya,41:13.6,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+96,GRE,nefeli tita,42:12.1,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+97,UKR,valentyna kaminska,Disqualified,Beijing 2022,Cross Country Skiing,Women's 10km Classic
+0,NOR,therese johaug,1:24:54.0,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+1,USA,jessica diggins,1:26:37.3,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+2,FIN,kerttu niskanen,1:27:27.3,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+3,SWE,jonna sundling,1:27:29.4,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+4,ROC,tatiana sorina,1:27:31.2,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+5,USA,rosie brennan,1:27:32.7,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+6,FRA,delphine claudel,1:27:34.0,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+7,SWE,ebba andersson,1:27:35.5,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+8,ROC,mariya istomina,1:28:00.1,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+9,FIN,krista parmakoski,1:28:35.0,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+10,AUT,teresa stadlober,1:28:36.5,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+11,GER,victoria carl,1:30:08.4,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+12,NOR,lotta udnes weng,1:31:14.3,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+13,NOR,tiril udnes weng,1:31:15.4,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+14,USA,sophia laukli,1:31:21.2,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+15,CAN,cendrine browne,1:31:21.6,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+16,ROC,anastasia rygalina,1:31:22.1,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+17,USA,novie mccabe,1:31:22.5,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+18,GER,antonia fraebel,1:31:23.6,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+19,FIN,anne kylloenen,1:31:41.0,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+20,POL,izabela marcisz,1:31:43.0,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+21,CZE,katerina janatova,1:31:43.2,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+22,FIN,johanna matintalo,1:32:01.7,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+23,FRA,flora dolci,1:32:04.7,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+24,GER,pia fink,1:32:06.3,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+25,JPN,masako ishida,1:32:06.3,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+26,SUI,lydia hiernickel,1:32:12.3,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+27,NOR,ragnhild gløersen haga,1:32:19.9,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+28,SWE,emma ribom,1:32:27.8,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+29,CAN,katherine stewart jones,1:32:33.3,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+30,LAT,baiba bendika,1:33:37.8,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+31,LAT,patricija eiduka,1:33:51.2,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+32,ITA,cristina pittin,1:33:54.8,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+33,ITA,martina di centa,1:33:56.6,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+34,SWE,charlotte kalla,1:34:45.4,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+35,JPN,masae tsuchiya,1:34:47.6,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+36,UKR,maryna antsybor,1:35:31.3,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+37,CHN,chunxue chi,1:35:41.0,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+38,CAN,dahria beatty,1:36:08.2,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+39,ITA,anna comarella,1:36:12.4,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+40,CZE,petra hyncicova,1:36:26.6,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+41,KAZ,angelina shuryga,1:36:29.6,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+42,AUS,jessica yeaton,1:37:06.1,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+43,FRA,coralie bentz,1:38:08.2,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+44,ITA,caterina ganz,1:38:19.5,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+45,CHN,xin li,1:38:39.2,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+46,CHN,bayani jialin,1:39:14.8,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+47,AND,carola vila obiols,1:39:18.1,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+48,KAZ,nadezhda stepashkina,1:39:38.8,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+49,JPN,miki kodama,1:39:53.8,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+50,CAN,laura leclair,1:40:14.5,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+51,CRO,vedrana malec,1:41:18.6,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+52,SLO,neza zerjav,1:42:14.2,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+53,KAZ,irina bykova,1:42:42.0,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+54,JPN,chika kobayashi,1:43:33.1,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+55,AUS,casey wright,1:44:19.9,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+56,POL,magdalena kobielusz,1:44:48.8,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+57,UKR,viktoriia olekh,1:46:22.1,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+58,SLO,anita klemencic,1:46:37.6,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+59,CHN,dinigeer yilamujiang,1:50:04.2,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+60,GRE,maria ntanou,LAP,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+61,ROC,natalia nepryaeva,Did not finish,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+62,CZE,petra novakova,Did not finish,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+63,BLR,hanna karaliova,Did not start,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+64,BIH,sanja kusmuk,Did not start,Beijing 2022,Cross Country Skiing,Women's 30km Mass Start Free
+0,,,53:41.0,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+1,,,53:59.2,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+2,,,54:01.7,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+3,,,54:02.2,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+4,,,54:09.8,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+5,,,55:09.2,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+6,,,56:41.5,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+7,,,57:20.5,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+8,,,57:20.9,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+9,,,57:49.7,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+10,,,58:40.6,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+11,,,59:03.9,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+12,,,59:32.6,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+13,,,1:00:21.5,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+14,,,1:01:15.4,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+15,,,1:01:18.9,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+16,,,1:01:20.6,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+17,,,Disqualified,Beijing 2022,Cross Country Skiing,Women's 4 x 5km Relay
+0,NOR,therese johaug,44:13.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+1,ROC,natalia nepryaeva,44:43.9,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+2,AUT,teresa stadlober,44:44.2,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+3,FIN,kerttu niskanen,44:49.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+4,SWE,frida karlsson,44:56.2,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+5,USA,jessica diggins,45:04.2,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+6,FIN,krista parmakoski,45:12.1,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+7,ROC,anastasia rygalina,45:30.9,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+8,FRA,delphine claudel,45:31.5,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+9,SWE,ebba andersson,45:41.3,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+10,ROC,tatiana sorina,46:31.3,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+11,FIN,johanna matintalo,46:36.5,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+12,GER,katherine sauerbrey,46:37.5,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+13,USA,rosie brennan,47:05.4,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+14,GER,katharina hennig,47:11.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+15,POL,izabela marcisz,47:30.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+16,GER,sofie krehl,47:41.6,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+17,NOR,helene marie fossesholm,47:49.0,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+18,SWE,charlotte kalla,47:53.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+19,CAN,cendrine browne,47:58.1,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+20,SUI,nadja kaelin,47:59.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+21,FIN,anne kylloenen,48:10.0,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+22,CAN,katherine stewart jones,48:17.3,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+23,ROC,yulia stupak,48:27.5,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+24,GER,pia fink,48:29.6,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+25,CZE,petra hyncicova,48:40.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+26,JPN,masako ishida,48:44.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+27,CAN,dahria beatty,48:52.0,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+28,NOR,ragnhild gløersen haga,48:52.5,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+29,CZE,petra novakova,48:52.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+30,AUS,jessica yeaton,48:54.0,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+31,SUI,lydia hiernickel,48:59.0,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+32,CHN,xin li,49:07.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+33,CHN,chunxue chi,49:08.3,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+34,JPN,masae tsuchiya,49:13.6,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+35,ITA,martina di centa,49:22.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+36,ITA,anna comarella,49:27.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+37,FRA,coralie bentz,49:34.4,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+38,EST,keidy kaasiku,49:40.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+39,USA,hailey swirbul,49:42.5,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+40,ITA,cristina pittin,49:48.6,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+41,ITA,caterina ganz,49:53.9,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+42,CHN,dinigeer yilamujiang,50:10.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+43,CAN,olivia bouffard-nesbitt,50:11.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+44,SWE,moa olsson,50:12.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+45,CHN,bayani jialin,50:20.2,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+46,AND,carola vila obiols,50:28.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+47,KAZ,kseniya shalygina,50:37.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+48,KAZ,angelina shuryga,50:55.3,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+49,JPN,chika kobayashi,50:55.4,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+50,KAZ,valeriya tyuleneva,51:30.8,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+51,JPN,miki kodama,51:48.3,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+52,USA,julia kern,52:05.5,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+53,EST,kaidy kaasiku,52:12.6,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+54,SLO,neza zerjav,52:33.1,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+55,UKR,maryna antsybor,52:54.0,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+56,LIE,nina riedener,52:55.1,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+57,KAZ,nadezhda stepashkina,53:35.3,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+58,POL,magdalena kobielusz,54:12.0,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+59,UKR,viktoriia olekh,54:55.7,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+60,KOR,chaewon lee,55:52.6,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+61,UKR,yuliia krol,57:04.4,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+62,UKR,daria rublova,LAP,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+63,KOR,dasom han,Did not finish,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+64,LAT,patricija eiduka,Did not start,Beijing 2022,Cross Country Skiing,Women's 7.5km + 7.5km Skiathlon
+0,SWE,jonna sundling,3:09.68,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+1,SWE,maja dahlqvist,3:12.56,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+2,USA,jessica diggins,3:12.84,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+3,USA,rosie brennan,3:14.17,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+4,SUI,nadine faehndrich,3:16.89,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+5,SWE,emma ribom,3:20.79,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+6,ROC,veronika stepanova,3:16.22,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+7,NOR,maiken caspersen falla,3:16.41,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+8,NOR,tiril udnes weng,3:14.29,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+9,GER,victoria carl,3:16.83,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+10,GER,sofie krehl,3:21.32,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+11,SLO,anamarija lampic,3:19.26,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+12,SUI,alina meier,3:21.12,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+13,ROC,natalia nepryaeva,3:21.34,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+14,GER,pia fink,3:19.72,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+15,ROC,yulia stupak,3:18.65,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+16,SWE,anna dyvik,3:19.00,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+17,USA,julia kern,3:21.68,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+18,CZE,katerina janatova,3:20.12,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+19,CZE,tereza beranova,3:22.59,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+20,NOR,mathilde myhrvold,3:24.62,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+21,NOR,lotta udnes weng,3:21.21,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+22,FIN,katri lylynpera,3:24.29,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+23,SUI,laurien van der graaff,3:24.32,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+24,CAN,dahria beatty,3:18.73,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+25,FIN,jasmin kahara,3:30.52,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+26,FIN,jasmi joensuu,3:49.93,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+27,ITA,greta laurent,3:26.96,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+28,ITA,lucia scardoni,3:27.07,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+29,ITA,caterina ganz,3:24.04,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+30,FRA,lena quintin,3:24.19,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+31,LAT,patricija eiduka,3:24.32,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+32,CZE,petra hyncicova,3:24.51,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+33,AUT,lisa unterweger,3:24.83,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+34,CAN,cendrine browne,3:24.85,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+35,CHN,qinghua ma,3:25.05,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+36,GER,coletta rydzek,3:25.09,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+37,CHN,chunxue chi,3:25.31,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+38,POL,izabela marcisz,3:25.62,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+39,CAN,olivia bouffard-nesbitt,3:25.92,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+40,EST,mariel merlii pulles,3:27.71,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+41,POL,monika skinder,3:27.93,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+42,USA,hannah halvorsen,3:29.13,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+43,CZE,zuzana holikova,3:29.63,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+44,ROC,hristina matsokina,3:29.64,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+45,SLO,eva urevc,3:30.43,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+46,ITA,cristina pittin,3:30.64,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+47,EST,kaidy kaasiku,3:31.54,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+48,SUI,anja weber,3:31.60,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+49,POL,weronika kaleta,3:32.28,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+50,KAZ,nadezhda stepashkina,3:32.56,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+51,AUS,jessica yeaton,3:32.85,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+52,CRO,vedrana malec,3:33.12,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+53,UKR,maryna antsybor,3:33.80,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+54,SLO,anita klemencic,3:34.12,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+55,CHN,dinigeer yilamujiang,3:34.55,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+56,SVK,barbora klementova,3:34.87,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+57,CAN,laura leclair,3:35.31,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+58,SLO,anja mandeljc,3:35.90,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+59,KAZ,angelina shuryga,3:35.93,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+60,THA,karen chanloung,3:36.00,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+61,EST,keidy kaasiku,3:36.82,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+62,SVK,alena prochazkova,3:36.84,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+63,EST,aveli uustalu,3:37.10,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+64,AUS,casey wright,3:39.22,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+65,CHN,bayani jialin,3:39.27,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+66,KAZ,kseniya shalygina,3:41.55,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+67,KAZ,irina bykova,3:42.70,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+68,UKR,viktoriia olekh,3:42.78,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+69,CRO,tena hadzic,3:45.60,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+70,SVK,kristina sivokova,3:46.25,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+71,LAT,samanta krampe,3:46.66,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+72,ISL,kristrun gudnadottir,3:49.59,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+73,KOR,dasom han,3:51.34,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+74,LAT,kitija auzina,3:51.60,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+75,KOR,eui jin lee,3:52.05,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+76,ROU,timea lorincz,3:55.15,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+77,MGL,enkhtuul ariunsanaa,3:58.25,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+78,ARM,katya galstyan,4:00.48,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+79,LAT,estere volfa,4:03.36,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+80,LTU,egle savickaite,4:03.60,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+81,ARG,nahiara diaz gonzalez,4:05.46,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+82,BRA,jaqueline mourao,4:05.60,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+83,TUR,aysenur duman,4:08.47,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+84,LTU,ieva dainyte,4:10.99,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+85,GRE,nefeli tita,4:14.48,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+86,BRA,eduarda ribera,4:14.53,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+87,GRE,maria ntanou,4:19.66,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+88,BIH,sanja kusmuk,4:27.99,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+89,KOR,chaewon lee,Did not start,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+90,UKR,valentyna kaminska,Disqualified,Beijing 2022,Cross Country Skiing,Women's Sprint Free
+0,GER,victoria carl,22:09.85,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+1,SWE,maja dahlqvist,22:10.02,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+2,ROC,natalia nepryaeva,22:10.56,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+3,FIN,kerttu niskanen,22:13.71,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+4,USA,jessica diggins,22:22.78,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+5,AUT,lisa unterweger,22:55.25,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+6,SUI,laurien van der graaff,23:02.09,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+7,NOR,tiril udnes weng,23:15.28,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+8,POL,izabela marcisz,23:48.01,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+9,FRA,lena quintin,24:04.92,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+10,CHN,xin li,23:43.93,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+11,CAN,dahria beatty,24:03.72,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+12,ITA,lucia scardoni,23:47.06,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+13,SLO,eva urevc,24:10.14,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+14,CZE,katerina janatova,23:55.59,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+15,AUS,jessica yeaton,25:13.42,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+16,EST,keidy kaasiku,24:47.51,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+17,UKR,maryna antsybor,25:46.04,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+18,KAZ,kseniya shalygina,24:57.59,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+19,CRO,tena hadzic,26:29.23,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+20,LAT,kitija auzina,26:46.26,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+21,KOR,dasom han,26:55.52,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+22,BRA,jaqueline mourao,LAP,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+23,GRE,maria ntanou,LAP,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+24,LTU,egle savickaite,LAP,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+25,TUR,ozlem ceren dursun,LAP,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic
+26,BLR,anastasia kirillova,Did not start,Beijing 2022,Cross Country Skiing,Women's Team Sprint Classic

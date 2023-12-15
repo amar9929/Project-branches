@@ -1,0 +1,92 @@
+,country,participant,result,olympic_game,discipline,event
+0,CAN,tessa virtue,221.57,Vancouver 2010,Figure skating,Ice dancing mixed
+1,USA,meryl davis,215.74,Vancouver 2010,Figure skating,Ice dancing mixed
+2,RUS,maxim shabalin,207.64,Vancouver 2010,Figure skating,Ice dancing mixed
+3,USA,benjamin agosto,203.07,Vancouver 2010,Figure skating,Ice dancing mixed
+4,ITA,massimo scali,199.17,Vancouver 2010,Figure skating,Ice dancing mixed
+5,FRA,isabelle delobel,193.73,Vancouver 2010,Figure skating,Ice dancing mixed
+6,FRA,fabian bourzat,190.49,Vancouver 2010,Figure skating,Ice dancing mixed
+7,GBR,john kerr,186.01,Vancouver 2010,Figure skating,Ice dancing mixed
+8,RUS,jana khokhlova,185.86,Vancouver 2010,Figure skating,Ice dancing mixed
+9,ISR,alexandra zaretski,180.26,Vancouver 2010,Figure skating,Ice dancing mixed
+10,USA,emily samuelson,174.30,Vancouver 2010,Figure skating,Ice dancing mixed
+11,ITA,anna cappellini,167.32,Vancouver 2010,Figure skating,Ice dancing mixed
+12,HUN,nora hoffmann,167.23,Vancouver 2010,Figure skating,Ice dancing mixed
+13,CAN,vanessa crone,164.60,Vancouver 2010,Figure skating,Ice dancing mixed
+14,RUS,dmitry solovyov,163.35,Vancouver 2010,Figure skating,Ice dancing mixed
+15,UKR,sergei verbillo,163.15,Vancouver 2010,Figure skating,Ice dancing mixed
+16,JPN,cathy reed,159.60,Vancouver 2010,Figure skating,Ice dancing mixed
+17,GER,christina beier,149.64,Vancouver 2010,Figure skating,Ice dancing mixed
+18,CHN,xintong huang,145.52,Vancouver 2010,Figure skating,Ice dancing mixed
+19,GBR,penny coomes,143.61,Vancouver 2010,Figure skating,Ice dancing mixed
+20,CZE,david vincour,133.81,Vancouver 2010,Figure skating,Ice dancing mixed
+21,GEO,allison reed,132.32,Vancouver 2010,Figure skating,Ice dancing mixed
+22,EST,irina shtork,115.18,Vancouver 2010,Figure skating,Ice dancing mixed
+0,USA,evan lysacek,257.67,Vancouver 2010,Figure skating,Individual men
+1,RUS,evgeni viktorovich plushenko,256.36,Vancouver 2010,Figure skating,Individual men
+2,JPN,daisuke takahashi,247.23,Vancouver 2010,Figure skating,Individual men
+3,SUI,stephane lambiel,246.72,Vancouver 2010,Figure skating,Individual men
+4,CAN,patrick chan,241.42,Vancouver 2010,Figure skating,Individual men
+5,USA,johnny weir,238.87,Vancouver 2010,Figure skating,Individual men
+6,JPN,nobunari oda,238.54,Vancouver 2010,Figure skating,Individual men
+7,JPN,takahiko kozuka,231.19,Vancouver 2010,Figure skating,Individual men
+8,USA,jeremy abbott,218.96,Vancouver 2010,Figure skating,Individual men
+9,CZE,michal brezina,216.73,Vancouver 2010,Figure skating,Individual men
+10,KAZ,denis ten,211.25,Vancouver 2010,Figure skating,Individual men
+11,FRA,florent amodio,210.30,Vancouver 2010,Figure skating,Individual men
+12,RUS,artem borodulin,210.16,Vancouver 2010,Figure skating,Individual men
+13,ESP,javier fernandez,206.68,Vancouver 2010,Figure skating,Individual men
+14,SWE,adrian schultheiss,200.44,Vancouver 2010,Figure skating,Individual men
+15,FRA,brian joubert,200.22,Vancouver 2010,Figure skating,Individual men
+16,BEL,kevin van der perren,189.84,Vancouver 2010,Figure skating,Individual men
+17,ITA,samuel contesti,187.50,Vancouver 2010,Figure skating,Individual men
+18,CZE,tomas verner,184.74,Vancouver 2010,Figure skating,Individual men
+19,ITA,paolo bacchini,177.21,Vancouver 2010,Figure skating,Individual men
+20,AUT,viktor pfeifer,175.93,Vancouver 2010,Figure skating,Individual men
+21,GER,stefan lindemann,171.98,Vancouver 2010,Figure skating,Individual men
+22,CAN,vaughn chipeur,170.92,Vancouver 2010,Figure skating,Individual men
+23,UKR,anton kovalevski,165.90,Vancouver 2010,Figure skating,Individual men
+0,KOR,yuna kim,228.56,Vancouver 2010,Figure skating,Individual women
+1,JPN,mao asada,205.50,Vancouver 2010,Figure skating,Individual women
+2,CAN,joannie rochette,202.64,Vancouver 2010,Figure skating,Individual women
+3,USA,mirai nagasu,190.15,Vancouver 2010,Figure skating,Individual women
+4,JPN,miki ando,188.86,Vancouver 2010,Figure skating,Individual women
+5,FIN,laura lepisto,187.97,Vancouver 2010,Figure skating,Individual women
+6,USA,rachael flatt,182.49,Vancouver 2010,Figure skating,Individual women
+7,JPN,akiko suzuki,181.44,Vancouver 2010,Figure skating,Individual women
+8,RUS,alena leonova,172.46,Vancouver 2010,Figure skating,Individual women
+9,RUS,ksenia makarova,171.91,Vancouver 2010,Figure skating,Individual women
+10,FIN,kiira korpi,161.57,Vancouver 2010,Figure skating,Individual women
+11,CAN,cynthia phaneuf,156.62,Vancouver 2010,Figure skating,Individual women
+12,KOR,min-jeong gwak,155.53,Vancouver 2010,Figure skating,Individual women
+13,GEO,elene gedevanishvili,155.24,Vancouver 2010,Figure skating,Individual women
+14,SUI,sarah meier,152.81,Vancouver 2010,Figure skating,Individual women
+15,ITA,carolina kostner,151.90,Vancouver 2010,Figure skating,Individual women
+16,HUN,julia sebestyen,151.26,Vancouver 2010,Figure skating,Individual women
+17,GER,sarah hecken,143.94,Vancouver 2010,Figure skating,Individual women
+18,CHN,yan liu,143.47,Vancouver 2010,Figure skating,Individual women
+19,AUS,cheltzie lee,138.16,Vancouver 2010,Figure skating,Individual women
+20,EST,elena glebova,134.19,Vancouver 2010,Figure skating,Individual women
+21,ESP,sonia lafuente,133.51,Vancouver 2010,Figure skating,Individual women
+22,UZB,anastasia gimazetdinova,131.65,Vancouver 2010,Figure skating,Individual women
+23,TUR,tugba karademir,129.54,Vancouver 2010,Figure skating,Individual women
+0,CHN,xue shen,216.57,Vancouver 2010,Figure skating,Pairs mixed
+1,CHN,qing pang,213.31,Vancouver 2010,Figure skating,Pairs mixed
+2,GER,robin szolkowy,210.60,Vancouver 2010,Figure skating,Pairs mixed
+3,RUS,yuko kavaguti,194.77,Vancouver 2010,Figure skating,Pairs mixed
+4,CHN,dan zhang,194.34,Vancouver 2010,Figure skating,Pairs mixed
+5,CAN,jessica dube,187.11,Vancouver 2010,Figure skating,Pairs mixed
+6,RUS,maxim trankov,185.79,Vancouver 2010,Figure skating,Pairs mixed
+7,UKR,tatiana volosozhar,181.78,Vancouver 2010,Figure skating,Pairs mixed
+8,CAN,cody hay,179.97,Vancouver 2010,Figure skating,Pairs mixed
+9,USA,mark ladwig,171.92,Vancouver 2010,Figure skating,Pairs mixed
+10,RUS,vera bazarova,163.50,Vancouver 2010,Figure skating,Pairs mixed
+11,ITA,yannick kocon,161.60,Vancouver 2010,Figure skating,Pairs mixed
+12,USA,caydee denney,158.33,Vancouver 2010,Figure skating,Pairs mixed
+13,FRA,vanessa james,145.10,Vancouver 2010,Figure skating,Pairs mixed
+14,SUI,antoine dorsaz,144.42,Vancouver 2010,Figure skating,Pairs mixed
+15,GBR,stacey kemp,139.94,Vancouver 2010,Figure skating,Pairs mixed
+16,GER,maylin wende,138.74,Vancouver 2010,Figure skating,Pairs mixed
+17,POL,joanna sulej,125.82,Vancouver 2010,Figure skating,Pairs mixed
+18,EST,ilja glebov,124.90,Vancouver 2010,Figure skating,Pairs mixed
+19,UKR,roman talan,120.98,Vancouver 2010,Figure skating,Pairs mixed

@@ -1,0 +1,584 @@
+,country,participant,result,olympic_game,discipline,event
+0,,,01:08:34.300,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+1,,,01:08:55.200,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+2,,,01:09:01.200,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+3,,,01:09:01.500,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+4,,,01:09:29.800,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+5,,,01:09:38.200,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+6,,,01:09:46.400,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+7,,,01:10:13.600,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+8,,,01:10:49.100,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+9,,,01:10:56.300,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+10,,,01:11:07.500,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+11,,,01:11:11.000,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+12,,,01:11:31.400,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+13,,,01:11:55.600,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+14,,,01:12:05.400,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+15,,,01:12:17.900,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+16,,,01:12:31.700,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+17,,,01:14:13.700,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+18,,,lapped,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+19,,,lapped,PyeongChang 2018,Biathlon,2x6km Women + 2x7.5km Men Mixed Relay
+0,GER,arnd peiffer,00:23:38.800,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+1,CZE,michal krcmar,00:23:43.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+2,ITA,dominik windisch,00:23:46.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+3,AUT,julian eberhard,00:23:47.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+4,NOR,erlend bjoentegaard,00:23:56.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+5,GER,benedikt doll,00:23:56.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+6,GER,simon schempp,00:24:00.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+7,FRA,martin fourcade,00:24:00.900,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+8,SUI,serafin wiestner,00:24:02.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+9,ITA,lukas hofer,00:24:09.800,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+10,GER,erik lesser,00:24:10.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+11,FRA,simon desthieux,00:24:11.100,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+12,NOR,tarjei boe,00:24:12.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+13,SWE,sebastian samuelsson,00:24:12.600,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+14,SUI,benjamin weger,00:24:15.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+15,KOR,timofei lapshin,00:24:22.600,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+16,LTU,tomas kaukenas,00:24:23.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+17,NOR,emil hegle svendsen,00:24:23.800,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+18,FIN,olli hiidensalo,00:24:26.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+19,FIN,tero seppala,00:24:27.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+20,UKR,dmytro pidruchnyi,00:24:27.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+21,SVK,matej kazar,00:24:33.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+22,SLO,jakov fak,00:24:34.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+23,LAT,andrejs rastorgujevs,00:24:34.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+24,AUT,dominik landertinger,00:24:36.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+25,SLO,klemen bauer,00:24:36.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+26,FRA,antonin guigonnat,00:24:37.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+27,AUT,simon eder,00:24:42.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+28,CZE,ondrej moravec,00:24:46.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+29,SWE,jesper nelin,00:24:46.800,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+30,NOR,johannes thingnes boe,00:24:51.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+31,SWE,peppe femling,00:24:52.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+32,USA,lowell bailey,00:24:54.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+33,BLR,vladimir chepelin,00:25:04.800,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+34,BLR,anton smolski,00:25:05.900,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+35,EST,kalev ermits,00:25:07.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+36,BUL,krasimir anev,00:25:08.800,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+37,BEL,michael roesch,00:25:09.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+38,SWE,fredrik lindstroem,00:25:14.100,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+39,UKR,artem pryma,00:25:14.900,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+40,EST,roland lessing,00:25:19.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+41,BLR,sergey bocharnikov,00:25:20.900,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+42,KAZ,roman yeryomin,00:25:21.900,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+43,CAN,nathan smith,00:25:22.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+44,FIN,tuomas grönman,00:25:24.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+45,UKR,sergii semenov,00:25:24.900,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+46,USA,tim burke,00:25:26.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+47,FRA,quentin fillon maillet,00:25:28.100,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+48,LTU,vytautas strolia,00:25:32.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+49,ITA,giuseppe montello,00:25:35.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+50,ITA,thomas bormolini,00:25:39.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+51,SVK,martin otcenas,00:25:39.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+52,SLO,miha dovzan,00:25:42.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+53,BUL,vladimir iliev,00:25:42.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+54,BEL,florent claude,00:25:43.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+55,BUL,anton sinapov,00:25:47.900,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+56,ROC,anton babikov,00:25:48.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+57,USA,leif nordgren,00:25:49.000,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+58,POL,grzegorz guzik,00:25:52.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+59,ROU,cornel puchianu,00:25:52.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+60,CAN,scott gow,00:25:52.800,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+61,CAN,christian gow,00:25:53.500,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+62,SUI,jeremy finello,00:25:54.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+63,SUI,mario dolder,00:25:54.800,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+64,USA,sean doherty,00:25:55.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+65,LAT,oskars muiznieks,00:25:56.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+66,POL,andrzej nedza-kubiniec,00:25:59.200,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+67,ROU,remus faur,00:26:03.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+68,CZE,michal slesingr,00:26:06.000,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+69,SVK,tomas hasilla,00:26:10.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+70,BLR,raman yaliotnau,00:26:12.600,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+71,SLO,mitja drinovec,00:26:13.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+72,CZE,adam vaclavik,00:26:15.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+73,SVK,simon bartko,00:26:18.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+74,EST,rene zahkna,00:26:19.900,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+75,EST,kauri koiv,00:26:23.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+76,AUT,tobias eberhard,00:26:24.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+77,UKR,volodymyr siemakov,00:26:31.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+78,KAZ,vladislav vitenko,00:26:32.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+79,KAZ,vassiliy podkorytov,00:26:34.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+80,BUL,dimitar gerdzhikov,00:26:47.900,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+81,CAN,brendan green,00:26:48.000,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+82,ROC,matvey eliseev,00:26:59.300,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+83,JPN,mikito tachizaki,00:27:27.100,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+84,KAZ,maxim braun,00:27:46.700,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+85,ROU,gheorghe pop,00:28:04.400,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+86,ROU,marius ungureanu,00:28:59.100,PyeongChang 2018,Biathlon,Men’s 10km Sprint
+0,FRA,martin fourcade,00:32:51.700,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+1,SWE,sebastian samuelsson,00:33:03.700,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+2,GER,benedikt doll,00:33:06.800,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+3,NOR,tarjei boe,00:33:54.300,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+4,GER,simon schempp,00:33:54.400,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+5,SUI,benjamin weger,00:33:54.800,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+6,FRA,simon desthieux,00:33:55.400,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+7,GER,arnd peiffer,00:34:05.800,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+8,NOR,erlend bjoentegaard,00:34:18.000,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+9,ITA,lukas hofer,00:34:24.400,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+10,GER,erik lesser,00:34:27.600,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+11,LAT,andrejs rastorgujevs,00:34:29.300,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+12,LTU,tomas kaukenas,00:34:31.800,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+13,AUT,simon eder,00:34:33.100,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+14,AUT,julian eberhard,00:34:36.900,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+15,ITA,dominik windisch,00:34:57.900,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+16,USA,tim burke,00:35:11.300,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+17,SWE,jesper nelin,00:35:15.500,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+18,FRA,antonin guigonnat,00:35:27.900,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+19,NOR,emil hegle svendsen,00:35:33.200,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+20,NOR,johannes thingnes boe,00:35:42.700,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+21,KOR,timofei lapshin,00:35:50.700,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+22,BEL,michael roesch,00:35:55.100,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+23,SLO,klemen bauer,00:35:55.900,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+24,FIN,tero seppala,00:36:09.900,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+25,AUT,dominik landertinger,00:36:22.200,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+26,SVK,martin otcenas,00:36:22.500,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+27,SUI,serafin wiestner,00:36:37.000,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+28,SWE,fredrik lindstroem,00:36:41.500,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+29,CZE,michal krcmar,00:36:41.600,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+30,SVK,matej kazar,00:36:42.400,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+31,USA,lowell bailey,00:36:43.300,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+32,BLR,anton smolski,00:36:44.100,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+33,UKR,dmytro pidruchnyi,00:36:53.200,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+34,FIN,olli hiidensalo,00:37:03.900,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+35,BLR,vladimir chepelin,00:37:04.600,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+36,BLR,sergey bocharnikov,00:37:15.600,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+37,UKR,artem pryma,00:37:16.300,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+38,ITA,giuseppe montello,00:37:21.700,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+39,ROC,anton babikov,00:37:21.800,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+40,EST,kalev ermits,00:37:43.000,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+41,SWE,peppe femling,00:37:45.800,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+42,LTU,vytautas strolia,00:37:47.300,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+43,FRA,quentin fillon maillet,00:37:57.200,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+44,BUL,krasimir anev,00:37:57.900,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+45,BUL,vladimir iliev,00:38:08.700,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+46,SLO,jakov fak,00:38:10.400,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+47,ITA,thomas bormolini,00:38:10.700,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+48,UKR,sergii semenov,00:38:23.700,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+49,USA,leif nordgren,00:38:40.400,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+50,CZE,ondrej moravec,00:38:45.900,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+51,KAZ,roman yeryomin,00:38:51.100,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+52,EST,roland lessing,00:38:54.400,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+53,CAN,nathan smith,00:38:58.200,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+54,FIN,tuomas grönman,00:38:58.900,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+55,POL,grzegorz guzik,00:39:07.300,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+56,BEL,florent claude,00:39:22.700,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+57,ROU,cornel puchianu,00:39:37.600,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+58,SLO,miha dovzan,00:40:13.200,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+59,BUL,anton sinapov,00:40:49.100,PyeongChang 2018,Biathlon,Men’s 12.5km Pursuit
+0,FRA,martin fourcade,00:35:47.300,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+1,GER,simon schempp,00:35:47.300,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+2,NOR,emil hegle svendsen,00:35:58.500,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+3,GER,erik lesser,00:35:58.900,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+4,GER,benedikt doll,00:36:06.100,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+5,AUT,julian eberhard,00:36:18.000,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+6,NOR,erlend bjoentegaard,00:36:19.400,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+7,NOR,tarjei boe,00:36:21.900,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+8,SWE,jesper nelin,00:36:21.900,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+9,SLO,jakov fak,00:36:23.400,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+10,CZE,ondrej moravec,00:36:23.600,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+11,AUT,dominik landertinger,00:36:47.300,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+12,GER,arnd peiffer,00:36:47.500,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+13,AUT,simon eder,00:37:01.000,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+14,SWE,fredrik lindstroem,00:37:02.600,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+15,NOR,johannes thingnes boe,00:37:07.300,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+16,ITA,dominik windisch,00:37:07.700,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+17,ITA,lukas hofer,00:37:07.700,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+18,FRA,antonin guigonnat,00:37:15.300,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+19,SLO,klemen bauer,00:37:19.800,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+20,FIN,tero seppala,00:37:25.000,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+21,FRA,simon desthieux,00:37:45.900,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+22,SWE,sebastian samuelsson,00:37:58.800,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+23,SUI,serafin wiestner,00:38:00.900,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+24,KOR,timofei lapshin,00:38:07.400,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+25,CZE,michal krcmar,00:38:09.900,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+26,SUI,benjamin weger,00:38:10.500,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+27,LAT,andrejs rastorgujevs,00:38:47.400,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+28,FRA,quentin fillon maillet,00:38:57.500,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+29,LTU,tomas kaukenas,00:38:58.000,PyeongChang 2018,Biathlon,Men’s 15km Mass Start
+0,NOR,johannes thingnes boe,00:48:03.800,PyeongChang 2018,Biathlon,Men’s 20km Individual
+1,SLO,jakov fak,00:48:09.300,PyeongChang 2018,Biathlon,Men’s 20km Individual
+2,AUT,dominik landertinger,00:48:18.000,PyeongChang 2018,Biathlon,Men’s 20km Individual
+3,SWE,sebastian samuelsson,00:48:32.900,PyeongChang 2018,Biathlon,Men’s 20km Individual
+4,FRA,martin fourcade,00:48:46.200,PyeongChang 2018,Biathlon,Men’s 20km Individual
+5,SUI,benjamin weger,00:48:52.400,PyeongChang 2018,Biathlon,Men’s 20km Individual
+6,CZE,michal krcmar,00:49:19.300,PyeongChang 2018,Biathlon,Men’s 20km Individual
+7,SWE,fredrik lindstroem,00:49:25.900,PyeongChang 2018,Biathlon,Men’s 20km Individual
+8,GER,erik lesser,00:49:31.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+9,NOR,emil hegle svendsen,00:49:40.500,PyeongChang 2018,Biathlon,Men’s 20km Individual
+10,AUT,simon eder,00:49:55.800,PyeongChang 2018,Biathlon,Men’s 20km Individual
+11,CZE,ondrej moravec,00:49:56.900,PyeongChang 2018,Biathlon,Men’s 20km Individual
+12,NOR,tarjei boe,00:50:05.300,PyeongChang 2018,Biathlon,Men’s 20km Individual
+13,CAN,scott gow,00:50:06.300,PyeongChang 2018,Biathlon,Men’s 20km Individual
+14,SLO,klemen bauer,00:50:07.000,PyeongChang 2018,Biathlon,Men’s 20km Individual
+15,ROC,anton babikov,00:50:08.000,PyeongChang 2018,Biathlon,Men’s 20km Individual
+16,AUT,julian eberhard,00:50:15.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+17,BLR,sergey bocharnikov,00:50:25.300,PyeongChang 2018,Biathlon,Men’s 20km Individual
+18,BUL,vladimir iliev,00:50:25.900,PyeongChang 2018,Biathlon,Men’s 20km Individual
+19,KOR,timofei lapshin,00:50:28.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+20,GER,arnd peiffer,00:50:29.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+21,CAN,brendan green,00:50:30.400,PyeongChang 2018,Biathlon,Men’s 20km Individual
+22,FRA,antonin guigonnat,00:50:33.500,PyeongChang 2018,Biathlon,Men’s 20km Individual
+23,SWE,jesper nelin,00:50:37.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+24,BUL,krasimir anev,00:50:41.800,PyeongChang 2018,Biathlon,Men’s 20km Individual
+25,CAN,christian gow,00:51:01.000,PyeongChang 2018,Biathlon,Men’s 20km Individual
+26,FRA,simon desthieux,00:51:03.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+27,ROC,matvey eliseev,00:51:07.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+28,UKR,artem tyshchenko,00:51:15.200,PyeongChang 2018,Biathlon,Men’s 20km Individual
+29,BLR,vladimir chepelin,00:51:27.900,PyeongChang 2018,Biathlon,Men’s 20km Individual
+30,UKR,volodymyr siemakov,00:51:32.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+31,EST,kalev ermits,00:51:43.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+32,POL,grzegorz guzik,00:51:51.800,PyeongChang 2018,Biathlon,Men’s 20km Individual
+33,SVK,matej kazar,00:51:52.400,PyeongChang 2018,Biathlon,Men’s 20km Individual
+34,SLO,miha dovzan,00:51:54.200,PyeongChang 2018,Biathlon,Men’s 20km Individual
+35,GER,simon schempp,00:51:54.800,PyeongChang 2018,Biathlon,Men’s 20km Individual
+36,ROU,george buta,00:51:55.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+37,SWE,martin ponsiluoma,00:51:56.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+38,BLR,maksim varabei,00:52:01.300,PyeongChang 2018,Biathlon,Men’s 20km Individual
+39,ITA,giuseppe montello,00:52:01.900,PyeongChang 2018,Biathlon,Men’s 20km Individual
+40,USA,tim burke,00:52:05.700,PyeongChang 2018,Biathlon,Men’s 20km Individual
+41,LAT,oskars muiznieks,00:52:06.000,PyeongChang 2018,Biathlon,Men’s 20km Individual
+42,BUL,dimitar gerdzhikov,00:52:12.000,PyeongChang 2018,Biathlon,Men’s 20km Individual
+43,USA,sean doherty,00:52:25.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+44,CZE,michal slesingr,00:52:35.500,PyeongChang 2018,Biathlon,Men’s 20km Individual
+45,UKR,artem pryma,00:52:36.500,PyeongChang 2018,Biathlon,Men’s 20km Individual
+46,SUI,jeremy finello,00:52:37.500,PyeongChang 2018,Biathlon,Men’s 20km Individual
+47,FIN,tuomas grönman,00:52:44.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+48,SUI,mario dolder,00:52:46.500,PyeongChang 2018,Biathlon,Men’s 20km Individual
+49,ITA,dominik windisch,00:52:54.300,PyeongChang 2018,Biathlon,Men’s 20km Individual
+50,USA,lowell bailey,00:52:56.800,PyeongChang 2018,Biathlon,Men’s 20km Individual
+51,BLR,raman yaliotnau,00:52:57.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+52,UKR,sergii semenov,00:52:57.900,PyeongChang 2018,Biathlon,Men’s 20km Individual
+53,BEL,florent claude,00:53:03.200,PyeongChang 2018,Biathlon,Men’s 20km Individual
+54,ROU,cornel puchianu,00:53:12.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+55,ITA,thomas bormolini,00:53:26.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+56,AUT,tobias eberhard,00:53:33.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+57,GER,johannes kuehn,00:53:36.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+58,LAT,andrejs rastorgujevs,00:53:41.800,PyeongChang 2018,Biathlon,Men’s 20km Individual
+59,NOR,lars helge birkeland,00:53:46.800,PyeongChang 2018,Biathlon,Men’s 20km Individual
+60,KAZ,maxim braun,00:53:50.700,PyeongChang 2018,Biathlon,Men’s 20km Individual
+61,KAZ,vassiliy podkorytov,00:53:52.500,PyeongChang 2018,Biathlon,Men’s 20km Individual
+62,ITA,lukas hofer,00:53:54.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+63,JPN,mikito tachizaki,00:54:11.500,PyeongChang 2018,Biathlon,Men’s 20km Individual
+64,EST,rene zahkna,00:54:20.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+65,USA,leif nordgren,00:54:31.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+66,CZE,adam vaclavik,00:54:31.700,PyeongChang 2018,Biathlon,Men’s 20km Individual
+67,EST,kauri koiv,00:54:36.400,PyeongChang 2018,Biathlon,Men’s 20km Individual
+68,ROU,gheorghe pop,00:54:40.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+69,EST,roland lessing,00:54:46.000,PyeongChang 2018,Biathlon,Men’s 20km Individual
+70,BUL,anton sinapov,00:54:48.400,PyeongChang 2018,Biathlon,Men’s 20km Individual
+71,KAZ,timur khamitgatin,00:54:52.700,PyeongChang 2018,Biathlon,Men’s 20km Individual
+72,FIN,olli hiidensalo,00:54:57.600,PyeongChang 2018,Biathlon,Men’s 20km Individual
+73,ROU,remus faur,00:55:01.500,PyeongChang 2018,Biathlon,Men’s 20km Individual
+74,BEL,michael roesch,00:55:10.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+75,FIN,tero seppala,00:55:10.800,PyeongChang 2018,Biathlon,Men’s 20km Individual
+76,FRA,emilien jacquelin,00:55:26.100,PyeongChang 2018,Biathlon,Men’s 20km Individual
+77,LTU,tomas kaukenas,00:55:38.400,PyeongChang 2018,Biathlon,Men’s 20km Individual
+78,POL,andrzej nedza-kubiniec,00:55:39.900,PyeongChang 2018,Biathlon,Men’s 20km Individual
+79,SLO,mitja drinovec,00:56:06.400,PyeongChang 2018,Biathlon,Men’s 20km Individual
+80,CAN,nathan smith,00:56:15.700,PyeongChang 2018,Biathlon,Men’s 20km Individual
+81,LTU,vytautas strolia,00:56:27.000,PyeongChang 2018,Biathlon,Men’s 20km Individual
+82,KAZ,vladislav vitenko,00:57:11.300,PyeongChang 2018,Biathlon,Men’s 20km Individual
+83,SVK,martin otcenas,00:57:16.000,PyeongChang 2018,Biathlon,Men’s 20km Individual
+84,SVK,michal sima,00:57:52.300,PyeongChang 2018,Biathlon,Men’s 20km Individual
+85,SVK,tomas hasilla,00:58:55.200,PyeongChang 2018,Biathlon,Men’s 20km Individual
+0,,,01:15:16.500,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+1,,,01:16:12.000,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+2,,,01:17:23.600,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+3,,,01:18:09.000,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+4,,,01:18:43.100,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+5,,,01:19:06.700,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+6,,,01:19:23.600,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+7,,,01:20:06.000,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+8,,,01:20:17.300,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+9,,,01:20:17.300,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+10,,,01:20:56.800,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+11,,,01:21:35.600,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+12,,,01:22:26.400,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+13,,,01:22:51.100,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+14,,,01:23:06.100,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+15,,,lapped,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+16,,,lapped,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+17,,,lapped,PyeongChang 2018,Biathlon,Men’s 4x7.5km Relay
+0,GER,laura dahlmeier,00:30:35.300,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+1,SVK,anastasiya kuzmina,00:31:04.700,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+2,FRA,anais bescond,00:31:04.900,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+3,NOR,marte olsbu roeiseland,00:31:42.600,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+4,SWE,hanna oeberg,00:31:44.200,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+5,GER,denise herrmann,00:31:54.700,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+6,CZE,veronika vitkova,00:32:12.600,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+7,SUI,lena haecki,00:32:16.800,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+8,NOR,tiril eckhoff,00:32:23.100,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+9,SWE,mona brorsson,00:32:29.800,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+10,ITA,lisa vittozzi,00:32:34.600,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+11,GER,franziska hildebrand,00:32:36.500,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+12,GER,vanessa hinz,00:32:41.400,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+13,BLR,nadezhda skardino,00:32:42.700,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+14,ITA,dorothea wierer,00:32:48.400,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+15,SUI,irene cadurisch,00:32:52.800,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+16,BLR,iryna kryuko,00:32:54.000,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+17,UKR,vita semerenko,00:32:54.400,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+18,CAN,rosanna crawford,00:33:03.000,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+19,KAZ,galina vishnevskaya,00:33:05.900,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+20,SWE,linn persson,00:33:21.700,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+21,FIN,kaisa makarainen,00:33:22.200,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+22,CZE,jessica jislova,00:33:24.300,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+23,FRA,anais chevalier,00:33:28.000,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+24,CZE,marketa davidova,00:33:29.800,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+25,EST,johanna talihaerm,00:33:34.700,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+26,FRA,marie dorin habert,00:33:37.800,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+27,CAN,julia ransom,00:33:38.300,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+28,SWE,elisabeth hoegberg,00:33:45.100,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+29,POL,weronika nowakowska,00:33:46.200,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+30,ROC,tatiana akimova,00:33:50.800,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+31,CZE,eva puskarcikova,00:33:53.800,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+32,LAT,baiba bendika,00:33:59.400,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+33,FRA,justine braisaz,00:34:08.000,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+34,SUI,elisa gasparin,00:34:11.200,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+35,POL,krystyna guzik,00:34:24.300,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+36,BLR,darya domracheva,00:34:26.800,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+37,SVK,paulina fialkova,00:34:33.600,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+38,SUI,selina gasparin,00:34:40.200,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+39,AUT,katharina innerhofer,00:34:41.200,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+40,NOR,synnoeve solemdal,00:34:45.500,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+41,NOR,ingrid landmark tandrevold,00:34:56.800,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+42,POL,monika hojnisz,00:35:05.600,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+43,BLR,nadzeya pisareva,00:35:10.300,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+44,CHN,yan zhang,00:35:16.700,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+45,UKR,anastasiya merkushyna,00:35:30.400,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+46,USA,emily dreissigacker,00:35:36.700,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+47,ITA,nicole gontier,00:35:37.600,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+48,POL,magdalena gwizdon,00:36:07.000,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+49,KOR,anna frolina,00:36:14.200,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+50,SLO,anja erzen,00:36:22.600,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+51,ROC,uliana kaysheva,00:36:33.600,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+52,CAN,emma lunder,00:36:52.100,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+53,JPN,sari furuya,00:37:02.100,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+54,BUL,emilia yordanova,00:37:04.300,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+55,JPN,fuyuko tachizaki,00:37:07.900,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+56,KAZ,darya klimina,00:38:00.000,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+57,AUT,dunja zdouc,00:38:39.100,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+58,UKR,valj semerenko,Did not start,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+59,CAN,megan tandy,Did not start,PyeongChang 2018,Biathlon,Women’s 10km Pursuit
+0,SVK,anastasiya kuzmina,00:35:23.000,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+1,BLR,darya domracheva,00:35:41.800,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+2,NOR,tiril eckhoff,00:35:50.700,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+3,ITA,lisa vittozzi,00:36:08.600,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+4,SWE,hanna oeberg,00:36:09.500,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+5,ITA,dorothea wierer,00:36:10.300,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+6,BLR,nadezhda skardino,00:36:10.900,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+7,NOR,marte olsbu roeiseland,00:36:14.600,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+8,FRA,marie dorin habert,00:36:20.900,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+9,FIN,kaisa makarainen,00:36:23.900,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+10,GER,denise herrmann,00:36:27.200,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+11,GER,franziska preuss,00:36:38.900,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+12,SWE,mona brorsson,00:36:55.300,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+13,CZE,veronika vitkova,00:36:57.800,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+14,POL,monika hojnisz,00:36:59.200,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+15,GER,laura dahlmeier,00:37:10.100,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+16,FRA,anais bescond,00:37:23.500,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+17,CZE,marketa davidova,00:37:23.800,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+18,UKR,valj semerenko,00:37:39.900,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+19,FRA,justine braisaz,00:37:49.600,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+20,SVK,paulina fialkova,00:37:52.600,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+21,SWE,linn persson,00:37:54.500,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+22,SUI,lena haecki,00:38:22.300,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+23,UKR,vita semerenko,00:38:25.300,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+24,GER,vanessa hinz,00:38:52.400,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+25,BLR,iryna kryuko,00:39:04.000,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+26,SUI,elisa gasparin,00:39:21.000,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+27,SUI,irene cadurisch,00:39:44.700,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+28,FRA,anais chevalier,00:40:39.700,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+29,ROC,tatiana akimova,00:41:32.400,PyeongChang 2018,Biathlon,Women’s 12.5km Mass Start
+0,SWE,hanna oeberg,00:41:07.200,PyeongChang 2018,Biathlon,Women’s 15km Individual
+1,SVK,anastasiya kuzmina,00:41:31.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+2,GER,laura dahlmeier,00:41:48.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+3,GER,franziska preuss,00:42:06.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+4,SVK,paulina fialkova,00:42:09.500,PyeongChang 2018,Biathlon,Women’s 15km Individual
+5,POL,monika hojnisz,00:43:02.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+6,ITA,dorothea wierer,00:43:15.800,PyeongChang 2018,Biathlon,Women’s 15km Individual
+7,SUI,elisa gasparin,00:43:22.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+8,GER,franziska hildebrand,00:43:38.600,PyeongChang 2018,Biathlon,Women’s 15km Individual
+9,BLR,nadezhda skardino,00:43:40.200,PyeongChang 2018,Biathlon,Women’s 15km Individual
+10,SWE,linn persson,00:43:41.500,PyeongChang 2018,Biathlon,Women’s 15km Individual
+11,SLO,urska poje,00:43:52.700,PyeongChang 2018,Biathlon,Women’s 15km Individual
+12,FIN,kaisa makarainen,00:43:57.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+13,SWE,mona brorsson,00:44:13.800,PyeongChang 2018,Biathlon,Women’s 15km Individual
+14,ROC,tatiana akimova,00:44:17.600,PyeongChang 2018,Biathlon,Women’s 15km Individual
+15,KOR,ekaterina avvakumova,00:44:25.300,PyeongChang 2018,Biathlon,Women’s 15km Individual
+16,GER,maren hammerschmidt,00:44:28.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+17,CZE,veronika vitkova,00:44:31.500,PyeongChang 2018,Biathlon,Women’s 15km Individual
+18,USA,susan dunklee,00:44:33.500,PyeongChang 2018,Biathlon,Women’s 15km Individual
+19,UKR,juliya dzhyma,00:44:33.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+20,POL,weronika nowakowska,00:44:34.600,PyeongChang 2018,Biathlon,Women’s 15km Individual
+21,USA,joanne firesteel reid,00:44:41.300,PyeongChang 2018,Biathlon,Women’s 15km Individual
+22,NOR,tiril eckhoff,00:44:41.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+23,ROC,uliana kaysheva,00:44:47.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+24,UKR,valj semerenko,00:44:53.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+25,CAN,rosanna crawford,00:44:55.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+26,BLR,darya domracheva,00:44:57.800,PyeongChang 2018,Biathlon,Women’s 15km Individual
+27,FRA,anais chevalier,00:45:01.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+28,CAN,sarah beaudry,00:45:05.600,PyeongChang 2018,Biathlon,Women’s 15km Individual
+29,LTU,natalja kocergina,00:45:09.100,PyeongChang 2018,Biathlon,Women’s 15km Individual
+30,FRA,anais bescond,00:45:10.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+31,ITA,lisa vittozzi,00:45:11.800,PyeongChang 2018,Biathlon,Women’s 15km Individual
+32,ITA,alexia runggaldier,00:45:15.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+33,SUI,lena haecki,00:45:22.500,PyeongChang 2018,Biathlon,Women’s 15km Individual
+34,SLO,anja erzen,00:45:22.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+35,BLR,iryna kryuko,00:45:26.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+36,SWE,anna magnusson,00:45:27.200,PyeongChang 2018,Biathlon,Women’s 15km Individual
+37,ITA,nicole gontier,00:45:32.500,PyeongChang 2018,Biathlon,Women’s 15km Individual
+38,LAT,baiba bendika,00:45:32.800,PyeongChang 2018,Biathlon,Women’s 15km Individual
+39,NOR,synnoeve solemdal,00:45:33.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+40,AUT,lisa theresa hauser,00:45:35.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+41,FIN,mari laukkanen,00:46:03.700,PyeongChang 2018,Biathlon,Women’s 15km Individual
+42,NOR,ingrid landmark tandrevold,00:46:14.700,PyeongChang 2018,Biathlon,Women’s 15km Individual
+43,CZE,eva puskarcikova,00:46:22.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+44,KAZ,galina vishnevskaya,00:46:23.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+45,KAZ,olga poltoranina,00:46:36.500,PyeongChang 2018,Biathlon,Women’s 15km Individual
+46,KAZ,alina raikova,00:46:37.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+47,FRA,celia aymonier,00:46:40.300,PyeongChang 2018,Biathlon,Women’s 15km Individual
+48,FIN,laura toivanen,00:46:42.600,PyeongChang 2018,Biathlon,Women’s 15km Individual
+49,EST,johanna talihaerm,00:46:44.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+50,KAZ,darya klimina,00:46:44.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+51,POL,krystyna guzik,00:46:49.500,PyeongChang 2018,Biathlon,Women’s 15km Individual
+52,BUL,daniela kadeva,00:46:52.700,PyeongChang 2018,Biathlon,Women’s 15km Individual
+53,CAN,emma lunder,00:46:56.600,PyeongChang 2018,Biathlon,Women’s 15km Individual
+54,FRA,justine braisaz,00:46:57.200,PyeongChang 2018,Biathlon,Women’s 15km Individual
+55,BLR,dzinara alimbekava,00:47:04.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+56,CZE,marketa davidova,00:47:06.700,PyeongChang 2018,Biathlon,Women’s 15km Individual
+57,AUT,dunja zdouc,00:47:09.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+58,CHN,yan zhang,00:47:29.600,PyeongChang 2018,Biathlon,Women’s 15km Individual
+59,AUT,katharina innerhofer,00:47:34.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+60,KOR,anna frolina,00:47:50.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+61,USA,clare egan,00:48:00.800,PyeongChang 2018,Biathlon,Women’s 15km Individual
+62,UKR,vita semerenko,00:48:03.800,PyeongChang 2018,Biathlon,Women’s 15km Individual
+63,SVK,ivona fialkova,00:48:04.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+64,SUI,selina gasparin,00:48:07.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+65,CHN,jialin tang,00:48:12.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+66,USA,emily dreissigacker,00:48:16.400,PyeongChang 2018,Biathlon,Women’s 15km Individual
+67,SUI,aita gasparin,00:48:26.200,PyeongChang 2018,Biathlon,Women’s 15km Individual
+68,FIN,suvi minkkinen,00:48:27.700,PyeongChang 2018,Biathlon,Women’s 15km Individual
+69,UKR,anastasiya merkushyna,00:48:42.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+70,NOR,marte olsbu roeiseland,00:48:58.800,PyeongChang 2018,Biathlon,Women’s 15km Individual
+71,CZE,jessica jislova,00:49:00.600,PyeongChang 2018,Biathlon,Women’s 15km Individual
+72,GBR,amanda lightfoot,00:49:14.700,PyeongChang 2018,Biathlon,Women’s 15km Individual
+73,CAN,julia ransom,00:49:38.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+74,LTU,diana rasimoviciute,00:49:53.300,PyeongChang 2018,Biathlon,Women’s 15km Individual
+75,JPN,fuyuko tachizaki,00:50:06.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+76,BUL,stefani popova,00:50:20.300,PyeongChang 2018,Biathlon,Women’s 15km Individual
+77,KOR,jihee mun,00:50:21.500,PyeongChang 2018,Biathlon,Women’s 15km Individual
+78,BUL,desislava stoyanova,00:50:25.900,PyeongChang 2018,Biathlon,Women’s 15km Individual
+79,JPN,yurie tanaka,00:50:28.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+80,JPN,asuka hachisuka,00:50:30.200,PyeongChang 2018,Biathlon,Women’s 15km Individual
+81,BUL,emilia yordanova,00:50:56.300,PyeongChang 2018,Biathlon,Women’s 15km Individual
+82,POL,magdalena gwizdon,00:51:49.700,PyeongChang 2018,Biathlon,Women’s 15km Individual
+83,ROU,eva tofalvi,00:52:13.700,PyeongChang 2018,Biathlon,Women’s 15km Individual
+84,JPN,sari furuya,00:53:11.000,PyeongChang 2018,Biathlon,Women’s 15km Individual
+85,KOR,jumi jung,00:53:32.800,PyeongChang 2018,Biathlon,Women’s 15km Individual
+86,SVK,terezia poliakova,00:54:46.300,PyeongChang 2018,Biathlon,Women’s 15km Individual
+0,,,01:12:03.400,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+1,,,01:12:14.100,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+2,,,01:12:21.000,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+3,,,01:12:33.100,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+4,,,01:12:41.800,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+5,,,01:12:46.900,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+6,,,01:12:47.000,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+7,,,01:12:57.300,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+8,,,01:13:07.500,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+9,,,01:13:36.800,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+10,,,01:13:44.800,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+11,,,01:13:59.700,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+12,,,01:14:05.300,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+13,,,01:14:18.000,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+14,,,01:14:37.200,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+15,,,01:14:38.000,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+16,,,01:15:47.700,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+17,,,01:20:20.600,PyeongChang 2018,Biathlon,Women’s 4x6km Relay
+0,GER,laura dahlmeier,00:21:06.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+1,NOR,marte olsbu roeiseland,00:21:30.400,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+2,CZE,veronika vitkova,00:21:32.000,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+3,FRA,marie dorin habert,00:21:39.300,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+4,GER,vanessa hinz,00:21:46.500,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+5,ITA,lisa vittozzi,00:21:46.700,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+6,SWE,hanna oeberg,00:21:47.000,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+7,SUI,irene cadurisch,00:21:51.700,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+8,BLR,darya domracheva,00:21:52.400,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+9,FRA,justine braisaz,00:21:54.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+10,SVK,paulina fialkova,00:21:56.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+11,GER,franziska hildebrand,00:21:59.900,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+12,SVK,anastasiya kuzmina,00:22:00.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+13,UKR,vita semerenko,00:22:00.700,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+14,CZE,marketa davidova,00:22:03.300,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+15,FRA,anais chevalier,00:22:15.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+16,BLR,iryna kryuko,00:22:17.400,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+17,ITA,dorothea wierer,00:22:20.300,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+18,FRA,anais bescond,00:22:20.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+19,ROC,tatiana akimova,00:22:24.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+20,GER,denise herrmann,00:22:25.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+21,EST,johanna talihaerm,00:22:27.000,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+22,CZE,jessica jislova,00:22:29.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+23,NOR,tiril eckhoff,00:22:32.400,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+24,FIN,kaisa makarainen,00:22:36.400,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+25,SUI,lena haecki,00:22:39.700,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+26,SWE,mona brorsson,00:22:42.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+27,POL,krystyna guzik,00:22:43.300,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+28,AUT,katharina innerhofer,00:22:51.500,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+29,KAZ,galina vishnevskaya,00:22:52.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+30,SUI,elisa gasparin,00:22:52.400,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+31,KOR,anna frolina,00:22:56.900,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+32,ROC,uliana kaysheva,00:22:58.500,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+33,POL,weronika nowakowska,00:23:03.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+34,SWE,elisabeth hoegberg,00:23:05.900,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+35,BLR,nadezhda skardino,00:23:07.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+36,SWE,linn persson,00:23:11.500,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+37,CHN,yan zhang,00:23:14.000,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+38,LAT,baiba bendika,00:23:14.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+39,CAN,julia ransom,00:23:15.000,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+40,SUI,selina gasparin,00:23:18.400,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+41,JPN,fuyuko tachizaki,00:23:19.700,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+42,CZE,eva puskarcikova,00:23:19.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+43,ITA,nicole gontier,00:23:20.000,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+44,POL,monika hojnisz,00:23:20.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+45,UKR,valj semerenko,00:23:20.900,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+46,SLO,anja erzen,00:23:20.900,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+47,AUT,dunja zdouc,00:23:21.000,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+48,JPN,sari furuya,00:23:21.500,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+49,NOR,synnoeve solemdal,00:23:23.900,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+50,USA,emily dreissigacker,00:23:27.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+51,BLR,nadzeya pisareva,00:23:29.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+52,CAN,rosanna crawford,00:23:29.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+53,CAN,emma lunder,00:23:30.400,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+54,UKR,anastasiya merkushyna,00:23:32.300,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+55,POL,magdalena gwizdon,00:23:35.700,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+56,CAN,megan tandy,00:23:42.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+57,KAZ,darya klimina,00:23:47.700,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+58,NOR,ingrid landmark tandrevold,00:23:49.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+59,BUL,emilia yordanova,00:23:50.000,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+60,USA,clare egan,00:23:51.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+61,AUT,lisa theresa hauser,00:23:58.900,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+62,KAZ,olga poltoranina,00:23:59.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+63,FIN,mari laukkanen,00:24:00.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+64,LTU,diana rasimoviciute,00:24:00.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+65,USA,susan dunklee,00:24:13.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+66,GBR,amanda lightfoot,00:24:15.300,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+67,JPN,yurie tanaka,00:24:21.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+68,ITA,federica sanfilippo,00:24:30.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+69,CHN,jialin tang,00:24:30.300,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+70,KAZ,alina raikova,00:24:33.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+71,BUL,daniela kadeva,00:24:39.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+72,UKR,iryna varvynets,00:24:48.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+73,SVK,ivona fialkova,00:24:48.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+74,SLO,urska poje,00:24:52.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+75,BUL,desislava stoyanova,00:24:54.300,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+76,FIN,laura toivanen,00:24:55.400,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+77,KOR,eunjung ko,00:25:12.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+78,FIN,venla lehtonen,00:25:13.700,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+79,LTU,natalja kocergina,00:25:16.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+80,ROU,eva tofalvi,00:25:20.000,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+81,KOR,jihee mun,00:25:26.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+82,SVK,terezia poliakova,00:25:32.200,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+83,BUL,milena todorova,00:25:33.600,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+84,JPN,rina mitsuhashi,00:25:53.100,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+85,USA,joanne firesteel reid,00:26:18.800,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint
+86,KOR,ekaterina avvakumova,00:26:24.900,PyeongChang 2018,Biathlon,Women’s 7.5km Sprint

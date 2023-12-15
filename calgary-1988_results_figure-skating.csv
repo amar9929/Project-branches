@@ -1,0 +1,83 @@
+,country,participant,result,olympic_game,discipline,event
+0,URS,natalya bestemyanova,2.0,Calgary 1988,Figure skating,Ice dancing mixed
+1,URS,marina klimova,4.0,Calgary 1988,Figure skating,Ice dancing mixed
+2,CAN,tracy wilson,6.0,Calgary 1988,Figure skating,Ice dancing mixed
+3,URS,natalia annenko,8.0,Calgary 1988,Figure skating,Ice dancing mixed
+4,AUT,kathrin beck,10.0,Calgary 1988,Figure skating,Ice dancing mixed
+5,USA,scott gregory,12.0,Calgary 1988,Figure skating,Ice dancing mixed
+6,HUN,attila toth,14.0,Calgary 1988,Figure skating,Ice dancing mixed
+7,FRA,isabelle duchesnay-dean,16.0,Calgary 1988,Figure skating,Ice dancing mixed
+8,FRG,antonia becherer,18.0,Calgary 1988,Figure skating,Ice dancing mixed
+9,ITA,lia trovati,20.0,Calgary 1988,Figure skating,Ice dancing mixed
+10,USA,joseph druar,22.0,Calgary 1988,Figure skating,Ice dancing mixed
+11,CAN,karyn garossino,24.0,Calgary 1988,Figure skating,Ice dancing mixed
+12,GBR,sharon jones,26.0,Calgary 1988,Figure skating,Ice dancing mixed
+13,FRA,didier courtois,28.6,Calgary 1988,Figure skating,Ice dancing mixed
+14,TCH,ivan havranek,29.4,Calgary 1988,Figure skating,Ice dancing mixed
+15,CAN,mélanie cole,32.0,Calgary 1988,Figure skating,Ice dancing mixed
+16,POL,andrzej dostatni,34.0,Calgary 1988,Figure skating,Ice dancing mixed
+17,JPN,hiroyuki suzuki,36.0,Calgary 1988,Figure skating,Ice dancing mixed
+18,CHN,xiao-lei zhao,38.0,Calgary 1988,Figure skating,Ice dancing mixed
+19,AUS,monica macdonald,40.0,Calgary 1988,Figure skating,Ice dancing mixed
+0,USA,brian boitano,3.0,Calgary 1988,Figure skating,Individual men
+1,CAN,brian orser,4.2,Calgary 1988,Figure skating,Individual men
+2,URS,viktor petrenko,7.8,Calgary 1988,Figure skating,Individual men
+3,URS,aleksandr fadeev,8.2,Calgary 1988,Figure skating,Individual men
+4,POL,grzegorz filipowski,10.8,Calgary 1988,Figure skating,Individual men
+5,URS,vladimir kotine,13.4,Calgary 1988,Figure skating,Individual men
+6,USA,christopher bowman,13.8,Calgary 1988,Figure skating,Individual men
+7,CAN,kurt browning,15.4,Calgary 1988,Figure skating,Individual men
+8,FRG,heiko fischer,16.8,Calgary 1988,Figure skating,Individual men
+9,USA,paul wylie,19.4,Calgary 1988,Figure skating,Individual men
+10,FRG,richard zander,23.2,Calgary 1988,Figure skating,Individual men
+11,SUI,oliver höner,24.0,Calgary 1988,Figure skating,Individual men
+12,TCH,petr barna,27.0,Calgary 1988,Figure skating,Individual men
+13,DEN,lars dresler,28.2,Calgary 1988,Figure skating,Individual men
+14,FRA,axel mederic,30.4,Calgary 1988,Figure skating,Individual men
+15,CAN,neil paterson,31.4,Calgary 1988,Figure skating,Individual men
+16,JPN,makoto kano,32.0,Calgary 1988,Figure skating,Individual men
+17,GBR,paul robinson,36.0,Calgary 1988,Figure skating,Individual men
+18,AUS,cameron bradley medhurst,37.2,Calgary 1988,Figure skating,Individual men
+19,CHN,shu-bin zhang,39.4,Calgary 1988,Figure skating,Individual men
+20,ITA,alessandro riccitelli,42.0,Calgary 1988,Figure skating,Individual men
+21,KOR,sung-il jung,45.0,Calgary 1988,Figure skating,Individual men
+22,GDR,michael huth,45.6,Calgary 1988,Figure skating,Individual men
+23,SWE,peter johansson,46.6,Calgary 1988,Figure skating,Individual men
+0,GDR,katarina witt,4.2,Calgary 1988,Figure skating,Individual women
+1,CAN,elizabeth manley,4.6,Calgary 1988,Figure skating,Individual women
+2,USA,debra thomas,6.0,Calgary 1988,Figure skating,Individual women
+3,USA,jill trenary,10.4,Calgary 1988,Figure skating,Individual women
+4,JPN,midori ito,10.6,Calgary 1988,Figure skating,Individual women
+5,FRG,claudia leistner,13.2,Calgary 1988,Figure skating,Individual women
+6,URS,kira ivanova,13.6,Calgary 1988,Figure skating,Individual women
+7,URS,anna kondracheva,15.2,Calgary 1988,Figure skating,Individual women
+8,GDR,simone koch,19.6,Calgary 1988,Figure skating,Individual women
+9,FRG,marina kielmann,21.6,Calgary 1988,Figure skating,Individual women
+10,ITA,beatrice gelmini,26.8,Calgary 1988,Figure skating,Individual women
+11,GBR,joanne conway,28.0,Calgary 1988,Figure skating,Individual women
+12,CAN,charlene wong,29.4,Calgary 1988,Figure skating,Individual women
+13,JPN,junko yaginuma,29.6,Calgary 1988,Figure skating,Individual women
+14,SUI,stéfanie schmid,31.0,Calgary 1988,Figure skating,Individual women
+15,FRA,agnès gosselin,34.2,Calgary 1988,Figure skating,Individual women
+16,BEL,katrien pauwels,34.6,Calgary 1988,Figure skating,Individual women
+17,ESP,yvonne gomez-munoz,34.8,Calgary 1988,Figure skating,Individual women
+18,HUN,tamara teglassy,35.2,Calgary 1988,Figure skating,Individual women
+19,TCH,iveta voralova,37.0,Calgary 1988,Figure skating,Individual women
+20,SWE,lotta falkenbäck,41.2,Calgary 1988,Figure skating,Individual women
+21,YUG,zeljka cizmesija,44.0,Calgary 1988,Figure skating,Individual women
+22,GBR,gina fulton,47.0,Calgary 1988,Figure skating,Individual women
+0,URS,sergey grinkov,1.4,Calgary 1988,Figure skating,Pairs mixed
+1,URS,yelena valova,2.8,Calgary 1988,Figure skating,Pairs mixed
+2,USA,jill watson,4.2,Calgary 1988,Figure skating,Pairs mixed
+3,URS,larisa seleznyova,6.4,Calgary 1988,Figure skating,Pairs mixed
+4,USA,gillian wachsman,6.6,Calgary 1988,Figure skating,Pairs mixed
+5,CAN,lyndon johnston,9.0,Calgary 1988,Figure skating,Pairs mixed
+6,GDR,peggy schwarz,10.4,Calgary 1988,Figure skating,Pairs mixed
+7,CAN,christine hough,11.2,Calgary 1988,Figure skating,Pairs mixed
+8,CAN,lloyd eisler,11.8,Calgary 1988,Figure skating,Pairs mixed
+9,USA,natalie seybold,14.0,Calgary 1988,Figure skating,Pairs mixed
+10,FRG,holger maletz,16.2,Calgary 1988,Figure skating,Pairs mixed
+11,GBR,andrew naylor,16.8,Calgary 1988,Figure skating,Pairs mixed
+12,GBR,lisa cushley,18.6,Calgary 1988,Figure skating,Pairs mixed
+13,CHN,zhi-bin mei,20.0,Calgary 1988,Figure skating,Pairs mixed
+14,TCH,lenka knapova,Did not finish,Calgary 1988,Figure skating,Pairs mixed
