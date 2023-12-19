@@ -1,5 +1,5 @@
 # Project Name -Olympic road to gold
-Project status(Active, On-Hold, Completed)
+Project status - Active
 
 # Project objective
 from historical data of Olympic, the objetive of this project is to answer:
@@ -8,16 +8,19 @@ from historical data of Olympic, the objetive of this project is to answer:
 
 # Methods
 
-
 Filtering
 Grouping
 Visualization
 Technologies
+Web scrapping
 
 # List with used technologies, ex:
-Python
-Pandas
-MySQL
+selenium 
+BeautifulSoup
+requests
+pandas
+os
+re
 
 # Project Description
 
