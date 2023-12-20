@@ -1,0 +1,729 @@
+,country,participant,result,olympic_game,discipline,event
+0,NOR,karsten warholm,45.94,Tokyo 2020,Athletics,Men's 400m Hurdles
+1,USA,rai benjamin,46.17,Tokyo 2020,Athletics,Men's 400m Hurdles
+2,BRA,alison dos santos,46.72,Tokyo 2020,Athletics,Men's 400m Hurdles
+3,IVB,kyron mcmaster,47.08,Tokyo 2020,Athletics,Men's 400m Hurdles
+4,QAT,abderrahaman samba,47.12,Tokyo 2020,Athletics,Men's 400m Hurdles
+5,TUR,yasmani copello,47.81,Tokyo 2020,Athletics,Men's 400m Hurdles
+6,EST,rasmus magi,48.11,Tokyo 2020,Athletics,Men's 400m Hurdles
+7,ITA,alessandro sibilio,48.77,Tokyo 2020,Athletics,Men's 400m Hurdles
+0,UGA,joshua kiprui cheptegei,12:58.15,Tokyo 2020,Athletics,Men's 5000m
+1,CAN,mohammed ahmed,12:58.61,Tokyo 2020,Athletics,Men's 5000m
+2,USA,paul kipkemoi chelimo,12:59.05,Tokyo 2020,Athletics,Men's 5000m
+3,KEN,nicholas kipkorir kimeli,12:59.17,Tokyo 2020,Athletics,Men's 5000m
+4,UGA,jacob kiplimo,13:02.40,Tokyo 2020,Athletics,Men's 5000m
+5,BRN,birhanu balew,13:03.20,Tokyo 2020,Athletics,Men's 5000m
+6,CAN,justyn knight,13:04.38,Tokyo 2020,Athletics,Men's 5000m
+7,ESP,mohamed katir,13:06.60,Tokyo 2020,Athletics,Men's 5000m
+8,USA,grant fisher,13:08.40,Tokyo 2020,Athletics,Men's 5000m
+9,ETH,milkesa mengesha,13:08.50,Tokyo 2020,Athletics,Men's 5000m
+10,GBR,andrew butchart,13:09.97,Tokyo 2020,Athletics,Men's 5000m
+11,GUA,luis grijalva,13:10.09,Tokyo 2020,Athletics,Men's 5000m
+12,FRA,jimmy gressier,13:11.33,Tokyo 2020,Athletics,Men's 5000m
+13,USA,william kincaid,13:17.20,Tokyo 2020,Athletics,Men's 5000m
+14,BRN,dawit fikadu,13:20.24,Tokyo 2020,Athletics,Men's 5000m
+15,UGA,oscar chelimo,13:44.45,Tokyo 2020,Athletics,Men's 5000m
+0,POL,dawid tomala,3:50:08,Tokyo 2020,Athletics,Men's 50km Race Walk
+1,GER,jonathan hilbert,3:50:44,Tokyo 2020,Athletics,Men's 50km Race Walk
+2,CAN,evan dunfee,3:50:59,Tokyo 2020,Athletics,Men's 50km Race Walk
+3,ESP,marc tur,3:51:08,Tokyo 2020,Athletics,Men's 50km Race Walk
+4,POR,joao vieira,3:51:28,Tokyo 2020,Athletics,Men's 50km Race Walk
+5,JPN,masatora kawano,3:51:56,Tokyo 2020,Athletics,Men's 50km Race Walk
+6,CHN,tongda bian,3:52:01,Tokyo 2020,Athletics,Men's 50km Race Walk
+7,AUS,rhydian cowley,3:52:01,Tokyo 2020,Athletics,Men's 50km Race Walk
+8,FIN,veli-matti partanen,3:52:39,Tokyo 2020,Athletics,Men's 50km Race Walk
+9,IRL,brendan boyce,3:53:40,Tokyo 2020,Athletics,Men's 50km Race Walk
+10,COL,jose leonardo montana,3:53:50,Tokyo 2020,Athletics,Men's 50km Race Walk
+11,POL,artur brzozowski,3:54:08,Tokyo 2020,Athletics,Men's 50km Race Walk
+12,COL,jorge armando ruiz,3:55:30,Tokyo 2020,Athletics,Men's 50km Race Walk
+13,SVK,matej toth,3:56:23,Tokyo 2020,Athletics,Men's 50km Race Walk
+14,MEX,jose leyver,3:56:53,Tokyo 2020,Athletics,Men's 50km Race Walk
+15,NZL,quentin rew,3:57:33,Tokyo 2020,Athletics,Men's 50km Race Walk
+16,HUN,mate helebrandt,3:57:53,Tokyo 2020,Athletics,Men's 50km Race Walk
+17,COL,diego pinzon,3:57:54,Tokyo 2020,Athletics,Men's 50km Race Walk
+18,ECU,andres chocho,3:59:03,Tokyo 2020,Athletics,Men's 50km Race Walk
+19,HUN,bence venyercsan,3:59:05,Tokyo 2020,Athletics,Men's 50km Race Walk
+20,CHN,qin wang,3:59:35,Tokyo 2020,Athletics,Men's 50km Race Walk
+21,BLR,dzmitry dziubin,4:00:25,Tokyo 2020,Athletics,Men's 50km Race Walk
+22,ITA,andrea agrusti,4:01:10,Tokyo 2020,Athletics,Men's 50km Race Walk
+23,ROU,marius cocioran,4:01:43,Tokyo 2020,Athletics,Men's 50km Race Walk
+24,UKR,maryan zakalnytskyy,4:02:53,Tokyo 2020,Athletics,Men's 50km Race Walk
+25,FIN,jarkko kinnunen,4:04:28,Tokyo 2020,Athletics,Men's 50km Race Walk
+26,ECU,jhonatan javier amores carua,4:05:47,Tokyo 2020,Athletics,Men's 50km Race Walk
+27,CHN,yadong luo,4:06:17,Tokyo 2020,Athletics,Men's 50km Race Walk
+28,IRL,alex wright,4:06:20,Tokyo 2020,Athletics,Men's 50km Race Walk
+29,JPN,hayato katsuki,4:06:32,Tokyo 2020,Athletics,Men's 50km Race Walk
+30,LTU,artur mastianica,4:06:43,Tokyo 2020,Athletics,Men's 50km Race Walk
+31,JPN,satoshi maruo,4:06:44,Tokyo 2020,Athletics,Men's 50km Race Walk
+32,GER,carl dohmann,4:07:18,Tokyo 2020,Athletics,Men's 50km Race Walk
+33,GUA,bernardo uriel barrondo,4:08:34,Tokyo 2020,Athletics,Men's 50km Race Walk
+34,ESP,jesus angel garcia,4:10:03,Tokyo 2020,Athletics,Men's 50km Race Walk
+35,GRE,alexandros papamichail,4:12:49,Tokyo 2020,Athletics,Men's 50km Race Walk
+36,LAT,arnis rumbenieks,4:13:33,Tokyo 2020,Athletics,Men's 50km Race Walk
+37,FIN,aleksi ojala,4:14:02,Tokyo 2020,Athletics,Men's 50km Race Walk
+38,UKR,valeriy litaniuk,4:14:05,Tokyo 2020,Athletics,Men's 50km Race Walk
+39,RSA,marc mundell,4:14:37,Tokyo 2020,Athletics,Men's 50km Race Walk
+40,SVK,michal morvay,4:15:22,Tokyo 2020,Athletics,Men's 50km Race Walk
+41,GER,nathaniel seiler,4:15:37,Tokyo 2020,Athletics,Men's 50km Race Walk
+42,CZE,vit hlavac,4:15:40,Tokyo 2020,Athletics,Men's 50km Race Walk
+43,MEX,horacio nava,4:19:00,Tokyo 2020,Athletics,Men's 50km Race Walk
+44,CAN,mathieu bilodeau,4:20:36,Tokyo 2020,Athletics,Men's 50km Race Walk
+45,CZE,lukas gdula,4:33:06,Tokyo 2020,Athletics,Men's 50km Race Walk
+46,ECU,claudio villanueva,4:53:09,Tokyo 2020,Athletics,Men's 50km Race Walk
+47,ITA,teodorico caporaso,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+48,POL,rafal augustyn,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+49,NOR,havard haukenes,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+50,ESP,luis manuel corchete,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+51,IND,gurpreet singh,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+52,GUA,luis angel sanchez,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+53,UKR,ivan banzeruk,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+54,MEX,isaac palma,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+55,FRA,yohann diniz,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+56,ITA,marco de luca,Did not finish,Tokyo 2020,Athletics,Men's 50km Race Walk
+57,GUA,erick barrondo,Disqualified,Tokyo 2020,Athletics,Men's 50km Race Walk
+58,LAT,ruslans smolonskis,Disqualified,Tokyo 2020,Athletics,Men's 50km Race Walk
+0,KEN,emmanuel kipkurui korir,1:45.06,Tokyo 2020,Athletics,Men's 800m
+1,KEN,ferguson cheruiyot rotich,1:45.23,Tokyo 2020,Athletics,Men's 800m
+2,POL,patryk dobek,1:45.39,Tokyo 2020,Athletics,Men's 800m
+3,AUS,peter bol,1:45.92,Tokyo 2020,Athletics,Men's 800m
+4,ESP,adrian ben,1:45.96,Tokyo 2020,Athletics,Men's 800m
+5,BIH,amel tuka,1:45.98,Tokyo 2020,Athletics,Men's 800m
+6,FRA,gabriel tual,1:46.03,Tokyo 2020,Athletics,Men's 800m
+7,BOT,nijel amos,1:46.41,Tokyo 2020,Athletics,Men's 800m
+8,USA,clayton murphy,1:46.53,Tokyo 2020,Athletics,Men's 800m
+0,CAN,damian warner,,Tokyo 2020,Athletics,Men's Decathlon
+1,FRA,kevin mayer,,Tokyo 2020,Athletics,Men's Decathlon
+2,AUS,ashley moloney,,Tokyo 2020,Athletics,Men's Decathlon
+3,USA,garrett scantling,,Tokyo 2020,Athletics,Men's Decathlon
+4,CAN,pierce lepage,,Tokyo 2020,Athletics,Men's Decathlon
+5,USA,zachery ziemek,,Tokyo 2020,Athletics,Men's Decathlon
+6,GRN,lindon victor,,Tokyo 2020,Athletics,Men's Decathlon
+7,ROC,ilya shkurenyov,,Tokyo 2020,Athletics,Men's Decathlon
+8,ESP,jorge urena,,Tokyo 2020,Athletics,Men's Decathlon
+9,USA,steven bastien,,Tokyo 2020,Athletics,Men's Decathlon
+10,EST,johannes erm,,Tokyo 2020,Athletics,Men's Decathlon
+11,POL,pawel wiesiolek,,Tokyo 2020,Athletics,Men's Decathlon
+12,BLR,vitaliy zhuk,,Tokyo 2020,Athletics,Men's Decathlon
+13,GER,kai kazmirek,,Tokyo 2020,Athletics,Men's Decathlon
+14,EST,maicel uibo,,Tokyo 2020,Athletics,Men's Decathlon
+15,CZE,adam sebastian helcelet,,Tokyo 2020,Athletics,Men's Decathlon
+16,CZE,jiri sykora,,Tokyo 2020,Athletics,Men's Decathlon
+17,BRA,felipe dos santos,,Tokyo 2020,Athletics,Men's Decathlon
+18,NOR,martin roe,,Tokyo 2020,Athletics,Men's Decathlon
+19,EST,karel tilga,,Tokyo 2020,Athletics,Men's Decathlon
+20,AUS,cedric dubler,,Tokyo 2020,Athletics,Men's Decathlon
+21,GER,niklas kaul,,Tokyo 2020,Athletics,Men's Decathlon
+22,BEL,thomas van der plaetsen,,Tokyo 2020,Athletics,Men's Decathlon
+0,SWE,daniel stahl,68.90,Tokyo 2020,Athletics,Men's Discus Throw
+1,SWE,simon pettersson,67.39,Tokyo 2020,Athletics,Men's Discus Throw
+2,AUT,lukas weisshaidinger,67.07,Tokyo 2020,Athletics,Men's Discus Throw
+3,AUS,matthew denny,67.02,Tokyo 2020,Athletics,Men's Discus Throw
+4,SLO,kristjan ceh,66.37,Tokyo 2020,Athletics,Men's Discus Throw
+5,LTU,andrius gudzius,64.11,Tokyo 2020,Athletics,Men's Discus Throw
+6,COL,mauricio ortega,64.08,Tokyo 2020,Athletics,Men's Discus Throw
+7,USA,sam mattis,63.88,Tokyo 2020,Athletics,Men's Discus Throw
+8,JAM,chad wright,62.56,Tokyo 2020,Athletics,Men's Discus Throw
+9,GER,daniel jasinski,62.44,Tokyo 2020,Athletics,Men's Discus Throw
+10,GER,clemens prufer,61.75,Tokyo 2020,Athletics,Men's Discus Throw
+11,NOR,ola stunes isene,61.18,Tokyo 2020,Athletics,Men's Discus Throw
+0,POL,wojciech nowicki,82.52,Tokyo 2020,Athletics,Men's Hammer Throw
+1,NOR,eivind henriksen,81.58,Tokyo 2020,Athletics,Men's Hammer Throw
+2,POL,pawel fajdek,81.53,Tokyo 2020,Athletics,Men's Hammer Throw
+3,UKR,mykhaylo kokhan,80.39,Tokyo 2020,Athletics,Men's Hammer Throw
+4,FRA,quentin bigot,79.39,Tokyo 2020,Athletics,Men's Hammer Throw
+5,GBR,nick miller,78.15,Tokyo 2020,Athletics,Men's Hammer Throw
+6,USA,rudy winkler,77.08,Tokyo 2020,Athletics,Men's Hammer Throw
+7,ROC,valeriy pronkin,76.72,Tokyo 2020,Athletics,Men's Hammer Throw
+8,TUR,esref apak,76.71,Tokyo 2020,Athletics,Men's Hammer Throw
+9,ESP,javier cienfuegos,76.30,Tokyo 2020,Athletics,Men's Hammer Throw
+10,USA,daniel haugh,76.22,Tokyo 2020,Athletics,Men's Hammer Throw
+11,MDA,serghei marghiev,75.24,Tokyo 2020,Athletics,Men's Hammer Throw
+0,QAT,mutaz essa barshim,2.37,Tokyo 2020,Athletics,Men's High Jump
+1,ITA,gianmarco tamberi,2.37,Tokyo 2020,Athletics,Men's High Jump
+2,BLR,maksim nedasekau,2.37,Tokyo 2020,Athletics,Men's High Jump
+3,KOR,sanghyeok woo,2.35,Tokyo 2020,Athletics,Men's High Jump
+4,AUS,brandon starc,2.35,Tokyo 2020,Athletics,Men's High Jump
+5,ROC,mikhail akimenko,2.33,Tokyo 2020,Athletics,Men's High Jump
+6,USA,juvaughn harrison,2.33,Tokyo 2020,Athletics,Men's High Jump
+7,CAN,django lovett,2.30,Tokyo 2020,Athletics,Men's High Jump
+8,ROC,ilya ivanyuk,2.30,Tokyo 2020,Athletics,Men's High Jump
+9,NZL,hamish kerr,2.30,Tokyo 2020,Athletics,Men's High Jump
+10,GBR,tom gale,2.27,Tokyo 2020,Athletics,Men's High Jump
+11,USA,shelby mcewen,2.27,Tokyo 2020,Athletics,Men's High Jump
+12,JPN,naoto tobe,2.24,Tokyo 2020,Athletics,Men's High Jump
+0,IND,neeraj chopra,87.58,Tokyo 2020,Athletics,Men's Javelin Throw
+1,CZE,jakub vadlejch,86.67,Tokyo 2020,Athletics,Men's Javelin Throw
+2,CZE,vitezslav vesely,85.44,Tokyo 2020,Athletics,Men's Javelin Throw
+3,GER,julian weber,85.30,Tokyo 2020,Athletics,Men's Javelin Throw
+4,PAK,arshad nadeem,84.62,Tokyo 2020,Athletics,Men's Javelin Throw
+5,BLR,aliaksei katkavets,83.71,Tokyo 2020,Athletics,Men's Javelin Throw
+6,MDA,andrian mardare,83.30,Tokyo 2020,Athletics,Men's Javelin Throw
+7,FIN,lassi etelatalo,83.28,Tokyo 2020,Athletics,Men's Javelin Throw
+8,GER,johannes vetter,82.52,Tokyo 2020,Athletics,Men's Javelin Throw
+9,BLR,pavel mialeshka,82.28,Tokyo 2020,Athletics,Men's Javelin Throw
+10,SWE,kim amb,79.69,Tokyo 2020,Athletics,Men's Javelin Throw
+11,ROU,alexandru mihaita novac,79.29,Tokyo 2020,Athletics,Men's Javelin Throw
+0,GRE,miltiadis tentoglou,8.41,Tokyo 2020,Athletics,Men's Long Jump
+1,CUB,juan miguel echevarria,8.41,Tokyo 2020,Athletics,Men's Long Jump
+2,CUB,maykel masso,8.21,Tokyo 2020,Athletics,Men's Long Jump
+3,ESP,eusebio caceres,8.18,Tokyo 2020,Athletics,Men's Long Jump
+4,USA,juvaughn harrison,8.15,Tokyo 2020,Athletics,Men's Long Jump
+5,JPN,yuki hashioka,8.10,Tokyo 2020,Athletics,Men's Long Jump
+6,SWE,thobias montler,8.08,Tokyo 2020,Athletics,Men's Long Jump
+7,ITA,filippo randazzo,7.99,Tokyo 2020,Athletics,Men's Long Jump
+8,FIN,kristian pulli,7.92,Tokyo 2020,Athletics,Men's Long Jump
+9,CHN,changzhou huang,7.72,Tokyo 2020,Athletics,Men's Long Jump
+10,JAM,tajay gayle,7.69,Tokyo 2020,Athletics,Men's Long Jump
+11,GER,fabian heinle,7.62,Tokyo 2020,Athletics,Men's Long Jump
+0,KEN,eliud kipchoge,2:08:38,Tokyo 2020,Athletics,Men's Marathon
+1,NED,abdi nageeye,2:09:58,Tokyo 2020,Athletics,Men's Marathon
+2,BEL,bashir abdi,2:10:00,Tokyo 2020,Athletics,Men's Marathon
+3,KEN,lawrence cherono,2:10:02,Tokyo 2020,Athletics,Men's Marathon
+4,ESP,ayad lamdassem,2:10:16,Tokyo 2020,Athletics,Men's Marathon
+5,JPN,suguru osako,2:10:41,Tokyo 2020,Athletics,Men's Marathon
+6,TAN,alphonce felix simbu,2:11:35,Tokyo 2020,Athletics,Men's Marathon
+7,USA,galen rupp,2:11:41,Tokyo 2020,Athletics,Men's Marathon
+8,MAR,othmane el goumri,2:11:58,Tokyo 2020,Athletics,Men's Marathon
+9,BEL,koen naert,2:12:13,Tokyo 2020,Athletics,Men's Marathon
+10,MAR,mohamed reda el aaraby,2:12:22,Tokyo 2020,Athletics,Men's Marathon
+11,FRA,nicolas navarro,2:12:50,Tokyo 2020,Athletics,Men's Marathon
+12,ISR,maru teferi,2:13:02,Tokyo 2020,Athletics,Men's Marathon
+13,ERI,goitom kifle,2:13:22,Tokyo 2020,Athletics,Men's Marathon
+14,COL,jeison alexander suarez,2:13:29,Tokyo 2020,Athletics,Men's Marathon
+15,XXB,tachlowini gabriyesos,2:14:02,Tokyo 2020,Athletics,Men's Marathon
+16,FRA,morhad amdouni,2:14:33,Tokyo 2020,Athletics,Men's Marathon
+17,MAR,hamza sahli,2:14:48,Tokyo 2020,Athletics,Men's Marathon
+18,CHN,shaohui yang,2:14:58,Tokyo 2020,Athletics,Men's Marathon
+19,ITA,eyob ghebrehiwet faniel,2:15:11,Tokyo 2020,Athletics,Men's Marathon
+20,ESP,daniel mateo,2:15:21,Tokyo 2020,Athletics,Men's Marathon
+21,ERI,yohanes ghebregergis,2:15:34,Tokyo 2020,Athletics,Men's Marathon
+22,DEN,abdi hakin ulad,2:15:50,Tokyo 2020,Athletics,Men's Marathon
+23,AUS,liam adams,2:15:51,Tokyo 2020,Athletics,Men's Marathon
+24,GER,richard ringer,2:16:08,Tokyo 2020,Athletics,Men's Marathon
+25,EST,tiidrek nurme,2:16:16,Tokyo 2020,Athletics,Men's Marathon
+26,ISR,girmaw amare,2:16:17,Tokyo 2020,Athletics,Men's Marathon
+27,USA,jacob riley,2:16:26,Tokyo 2020,Athletics,Men's Marathon
+28,GER,amanal petros,2:16:33,Tokyo 2020,Athletics,Men's Marathon
+29,ARG,eulalio munoz,2:16:35,Tokyo 2020,Athletics,Men's Marathon
+30,CHN,jianhua peng,2:16:39,Tokyo 2020,Athletics,Men's Marathon
+31,ESP,javier guerra,2:16:42,Tokyo 2020,Athletics,Men's Marathon
+32,RSA,elroy gelant,2:16:43,Tokyo 2020,Athletics,Men's Marathon
+33,ERI,oqbe kibrom ruesom,2:16:57,Tokyo 2020,Athletics,Men's Marathon
+34,NZL,zane robertson,2:17:04,Tokyo 2020,Athletics,Men's Marathon
+35,ISR,haimro alame,2:17:17,Tokyo 2020,Athletics,Men's Marathon
+36,POL,adam nowicki,2:17:19,Tokyo 2020,Athletics,Men's Marathon
+37,BDI,olivier irabaruta,2:17:44,Tokyo 2020,Athletics,Men's Marathon
+38,NOR,sondre nordstad moen,2:17:59,Tokyo 2020,Athletics,Men's Marathon
+39,USA,abdi abdirahman,2:18:27,Tokyo 2020,Athletics,Men's Marathon
+40,NAM,tomas hilifa rainhold,2:18:28,Tokyo 2020,Athletics,Men's Marathon
+41,PAR,derlys ayala,2:18:34,Tokyo 2020,Athletics,Men's Marathon
+42,UGA,fred musobo,2:18:39,Tokyo 2020,Athletics,Men's Marathon
+43,FRA,sidi-hassan chahdi,2:18:40,Tokyo 2020,Athletics,Men's Marathon
+44,CAN,ben preisner,2:19:27,Tokyo 2020,Athletics,Men's Marathon
+45,ITA,yassine el fathaoui,2:19:44,Tokyo 2020,Athletics,Men's Marathon
+46,CAN,trevor hofbauer,2:19:57,Tokyo 2020,Athletics,Men's Marathon
+47,KOR,jungsub shim,2:20:36,Tokyo 2020,Athletics,Men's Marathon
+48,GER,hendrik pfeiffer,2:20:43,Tokyo 2020,Athletics,Men's Marathon
+49,UGA,filex chemongesi,2:20:53,Tokyo 2020,Athletics,Men's Marathon
+50,TUR,yavuz agrali,2:21:00,Tokyo 2020,Athletics,Men's Marathon
+51,ARG,joaquin arbe,2:21:15,Tokyo 2020,Athletics,Men's Marathon
+52,GBR,christopher thompson,2:21:29,Tokyo 2020,Athletics,Men's Marathon
+53,MGL,byambajav tseveenravdan,2:21:32,Tokyo 2020,Athletics,Men's Marathon
+54,MEX,jose luis santana marin,2:21:32,Tokyo 2020,Athletics,Men's Marathon
+55,CHN,guojian dong,2:21:35,Tokyo 2020,Athletics,Men's Marathon
+56,IRL,kevin seaward,2:21:45,Tokyo 2020,Athletics,Men's Marathon
+57,BEL,dieter kersten,2:22:06,Tokyo 2020,Athletics,Men's Marathon
+58,PER,cristhian pacheco,2:22:12,Tokyo 2020,Athletics,Men's Marathon
+59,AUT,peter herzog,2:22:15,Tokyo 2020,Athletics,Men's Marathon
+60,JPN,shogo nakamura,2:22:23,Tokyo 2020,Athletics,Men's Marathon
+61,POL,arkadiusz gardzielewski,2:22:50,Tokyo 2020,Athletics,Men's Marathon
+62,NZL,malcolm hicks,2:23:12,Tokyo 2020,Athletics,Men's Marathon
+63,MEX,juan pacheco,2:23:41,Tokyo 2020,Athletics,Men's Marathon
+64,AUS,brett robinson,2:24:04,Tokyo 2020,Athletics,Men's Marathon
+65,LES,khoarahlane seutloali,2:25:03,Tokyo 2020,Athletics,Men's Marathon
+66,EST,roman fosti,2:25:37,Tokyo 2020,Athletics,Men's Marathon
+67,BRA,paulo roberto paula,2:26:08,Tokyo 2020,Athletics,Men's Marathon
+68,DEN,thijs nijhuis,2:26:59,Tokyo 2020,Athletics,Men's Marathon
+69,IRL,paul pollock,2:27:48,Tokyo 2020,Athletics,Men's Marathon
+70,CAN,cameron levins,2:28:43,Tokyo 2020,Athletics,Men's Marathon
+71,JPN,yuma hattori,2:30:08,Tokyo 2020,Athletics,Men's Marathon
+72,MEX,jesus arturo esparza,2:31:51,Tokyo 2020,Athletics,Men's Marathon
+73,PAN,jorge castelblanco,2:33:22,Tokyo 2020,Athletics,Men's Marathon
+74,HON,ivan zarco alvarez,2:44:36,Tokyo 2020,Athletics,Men's Marathon
+75,KEN,amos kipruto,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+76,NED,bart van nunen,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+77,RSA,stephen mokoka,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+78,ETH,lelisa desisa,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+79,RWA,john hakizimana,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+80,NED,khalid choukoud,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+81,POL,marcin chabowski,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+82,GBR,ben connor,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+83,RSA,pheeha mokgobo,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+84,MGL,ser-od bat-ochir,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+85,BRA,daniel ferreira do nascimento,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+86,SUI,tadesse abraham,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+87,ITA,yassine rachik,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+88,GBR,callum hawkins,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+89,UKR,bohdan-ivan horodyskyy,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+90,TUR,polat kemboi arikan,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+91,COL,ivan dario gonzalez,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+92,ETH,sisay lemma,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+93,BRN,shumi dechasa,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+94,UKR,mykola nyzhnyk,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+95,AUT,lemawork ketema,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+96,IRL,stephen scullion,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+97,KOR,joohan oh,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+98,BRN,alemu bekele,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+99,UGA,stephen kiprotich,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+100,TAN,gabriel gerald geay,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+101,BRA,daniel da silva,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+102,UKR,oleksandr sitkovskiy,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+103,ETH,shura kitata,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+104,AUS,jack rayner,Did not finish,Tokyo 2020,Athletics,Men's Marathon
+105,BRN,el hassan elabbassi,Disqualified,Tokyo 2020,Athletics,Men's Marathon
+0,SWE,armand duplantis,6.02,Tokyo 2020,Athletics,Men's Pole Vault
+1,USA,christopher nilsen,5.97,Tokyo 2020,Athletics,Men's Pole Vault
+2,BRA,thiago braz,5.87,Tokyo 2020,Athletics,Men's Pole Vault
+3,GRE,emmanouil karalis,5.80,Tokyo 2020,Athletics,Men's Pole Vault
+4,USA,kc lightfoot,5.80,Tokyo 2020,Athletics,Men's Pole Vault
+5,POL,piotr lisek,5.80,Tokyo 2020,Athletics,Men's Pole Vault
+6,GBR,harry coppell,5.80,Tokyo 2020,Athletics,Men's Pole Vault
+7,FRA,renaud lavillenie,5.70,Tokyo 2020,Athletics,Men's Pole Vault
+8,GER,oleg zernikel,5.70,Tokyo 2020,Athletics,Men's Pole Vault
+9,TUR,ersu sasma,5.70,Tokyo 2020,Athletics,Men's Pole Vault
+10,GER,bo kanda lita baehre,5.70,Tokyo 2020,Athletics,Men's Pole Vault
+11,PHI,ernest john obiena,5.70,Tokyo 2020,Athletics,Men's Pole Vault
+12,NED,menno vloon,5.55,Tokyo 2020,Athletics,Men's Pole Vault
+13,AUS,kurtis marschall,No mark,Tokyo 2020,Athletics,Men's Pole Vault
+0,USA,ryan crouser,23.30,Tokyo 2020,Athletics,Men's Shot Put
+1,USA,joe kovacs,22.65,Tokyo 2020,Athletics,Men's Shot Put
+2,NZL,tomas walsh,22.47,Tokyo 2020,Athletics,Men's Shot Put
+3,BRA,darlan romani,21.88,Tokyo 2020,Athletics,Men's Shot Put
+4,ITA,zane weir,21.41,Tokyo 2020,Athletics,Men's Shot Put
+5,RSA,kyle blignaut,21.00,Tokyo 2020,Athletics,Men's Shot Put
+6,SRB,armin sinancevic,20.89,Tokyo 2020,Athletics,Men's Shot Put
+7,EGY,mostafa amr hassan,20.73,Tokyo 2020,Athletics,Men's Shot Put
+8,NZL,jacko gill,20.71,Tokyo 2020,Athletics,Men's Shot Put
+9,USA,payton otterdahl,20.32,Tokyo 2020,Athletics,Men's Shot Put
+10,BIH,mesud pezer,20.08,Tokyo 2020,Athletics,Men's Shot Put
+11,NGR,chukwuebuka enekwechi,19.74,Tokyo 2020,Athletics,Men's Shot Put
+0,POR,pedro p. pichardo,17.98,Tokyo 2020,Athletics,Men's Triple Jump
+1,CHN,yaming zhu,17.57,Tokyo 2020,Athletics,Men's Triple Jump
+2,BUR,fabrice zango hugues,17.47,Tokyo 2020,Athletics,Men's Triple Jump
+3,USA,will claye,17.44,Tokyo 2020,Athletics,Men's Triple Jump
+4,ALG,yasser triki,17.43,Tokyo 2020,Athletics,Men's Triple Jump
+5,TUR,necati er,17.25,Tokyo 2020,Athletics,Men's Triple Jump
+6,USA,donald scott,17.18,Tokyo 2020,Athletics,Men's Triple Jump
+7,CHN,yaoqing fang,17.01,Tokyo 2020,Athletics,Men's Triple Jump
+8,ITA,andrea dallavalle,16.85,Tokyo 2020,Athletics,Men's Triple Jump
+9,CUB,cristian napoles,16.63,Tokyo 2020,Athletics,Men's Triple Jump
+10,ITA,emanuel ihemeje,16.52,Tokyo 2020,Athletics,Men's Triple Jump
+11,FRA,melvin raffin,No mark,Tokyo 2020,Athletics,Men's Triple Jump
+0,NED,sifan hassan,29:55.32,Tokyo 2020,Athletics,"Women's 10,000m"
+1,BRN,kalkidan gezahegne,29:56.18,Tokyo 2020,Athletics,"Women's 10,000m"
+2,ETH,letesenbet gidey,30:01.72,Tokyo 2020,Athletics,"Women's 10,000m"
+3,KEN,hellen onsando obiri,30:24.27,Tokyo 2020,Athletics,"Women's 10,000m"
+4,BDI,francine niyonsaba,30:41.93,Tokyo 2020,Athletics,"Women's 10,000m"
+5,KEN,irene chepet cheptai,30:44.00,Tokyo 2020,Athletics,"Women's 10,000m"
+6,JPN,ririka hironaka,31:00.71,Tokyo 2020,Athletics,"Women's 10,000m"
+7,GER,konstanze klosterhalfen,31:01.97,Tokyo 2020,Athletics,"Women's 10,000m"
+8,GBR,eilish mccolgan,31:04.46,Tokyo 2020,Athletics,"Women's 10,000m"
+9,USA,emily sisson,31:09.58,Tokyo 2020,Athletics,"Women's 10,000m"
+10,TUR,yasemin can,31:10.05,Tokyo 2020,Athletics,"Women's 10,000m"
+11,USA,karissa schweizer,31:19.96,Tokyo 2020,Athletics,"Women's 10,000m"
+12,USA,alicia monson,31:21.36,Tokyo 2020,Athletics,"Women's 10,000m"
+13,CAN,andrea seccafien,31:36.36,Tokyo 2020,Athletics,"Women's 10,000m"
+14,ERI,dolshi tesfu,31:37.98,Tokyo 2020,Athletics,"Women's 10,000m"
+15,KEN,sheila chelangat,31:48.23,Tokyo 2020,Athletics,"Women's 10,000m"
+16,GBR,jessica judd,31:56.80,Tokyo 2020,Athletics,"Women's 10,000m"
+17,SWE,meraf bahta,32:10.49,Tokyo 2020,Athletics,"Women's 10,000m"
+18,NZL,camille buscomb,32:10.49,Tokyo 2020,Athletics,"Women's 10,000m"
+19,RSA,dominique scott,32:14.05,Tokyo 2020,Athletics,"Women's 10,000m"
+20,JPN,hitomi niiya,32:23.87,Tokyo 2020,Athletics,"Women's 10,000m"
+21,JPN,yuka ando,32:40.77,Tokyo 2020,Athletics,"Women's 10,000m"
+22,ISR,selamawit teferi,32:46.46,Tokyo 2020,Athletics,"Women's 10,000m"
+23,UGA,mercyline chelangat,33:10.90,Tokyo 2020,Athletics,"Women's 10,000m"
+24,ETH,tsigie gebreselama,Did not finish,Tokyo 2020,Athletics,"Women's 10,000m"
+25,NOR,karoline bjerkeli grovdal,Did not finish,Tokyo 2020,Athletics,"Women's 10,000m"
+26,NED,susan kuijken,Did not finish,Tokyo 2020,Athletics,"Women's 10,000m"
+27,SWE,sarah lahti,Did not finish,Tokyo 2020,Athletics,"Women's 10,000m"
+28,ETH,tsehay gemechu,Disqualified,Tokyo 2020,Athletics,"Women's 10,000m"
+0,JAM,elaine thompson-herah,10.61,Tokyo 2020,Athletics,Women's 100m
+1,JAM,shelly-ann fraser-pryce,10.74,Tokyo 2020,Athletics,Women's 100m
+2,JAM,shericka jackson,10.76,Tokyo 2020,Athletics,Women's 100m
+3,CIV,marie-josee ta lou,10.91,Tokyo 2020,Athletics,Women's 100m
+4,SUI,ajla del ponte,10.97,Tokyo 2020,Athletics,Women's 100m
+5,SUI,mujinga kambundji,10.99,Tokyo 2020,Athletics,Women's 100m
+6,USA,teahna daniels,11.02,Tokyo 2020,Athletics,Women's 100m
+7,GBR,daryll neita,11.12,Tokyo 2020,Athletics,Women's 100m
+0,PUR,jasmine camacho-quinn,12.37,Tokyo 2020,Athletics,Women's 100m Hurdles
+1,USA,kendra harrison,12.52,Tokyo 2020,Athletics,Women's 100m Hurdles
+2,JAM,megan tapper,12.55,Tokyo 2020,Athletics,Women's 100m Hurdles
+3,NGR,oluwatobiloba amusan,12.60,Tokyo 2020,Athletics,Women's 100m Hurdles
+4,NED,nadine visser,12.73,Tokyo 2020,Athletics,Women's 100m Hurdles
+5,BAH,devynne charlton,12.74,Tokyo 2020,Athletics,Women's 100m Hurdles
+6,USA,gabriele cunningham,13.01,Tokyo 2020,Athletics,Women's 100m Hurdles
+7,JAM,britany anderson,13.24,Tokyo 2020,Athletics,Women's 100m Hurdles
+0,KEN,faith chepngetich kipyegon,3:53.11,Tokyo 2020,Athletics,Women's 1500m
+1,GBR,laura muir,3:54.50,Tokyo 2020,Athletics,Women's 1500m
+2,NED,sifan hassan,3:55.86,Tokyo 2020,Athletics,Women's 1500m
+3,ETH,freweyni gebreezibeher,3:57.60,Tokyo 2020,Athletics,Women's 1500m
+4,CAN,gabriela stafford,3:58.93,Tokyo 2020,Athletics,Women's 1500m
+5,AUS,linden hall,3:59.01,Tokyo 2020,Athletics,Women's 1500m
+6,UGA,winnie nanyondo,3:59.80,Tokyo 2020,Athletics,Women's 1500m
+7,JPN,nozomi tanaka,3:59.95,Tokyo 2020,Athletics,Women's 1500m
+8,ESP,marta perez,4:00.12,Tokyo 2020,Athletics,Women's 1500m
+9,USA,elinor purrier st. pierre,4:01.75,Tokyo 2020,Athletics,Women's 1500m
+10,AUS,jessica hull,4:02.63,Tokyo 2020,Athletics,Women's 1500m
+11,USA,cory ann mcgee,4:05.50,Tokyo 2020,Athletics,Women's 1500m
+12,CZE,kristiina maki,4:11.76,Tokyo 2020,Athletics,Women's 1500m
+0,JAM,elaine thompson-herah,21.53,Tokyo 2020,Athletics,Women's 200m
+1,NAM,christine mboma,21.81,Tokyo 2020,Athletics,Women's 200m
+2,USA,gabrielle thomas,21.87,Tokyo 2020,Athletics,Women's 200m
+3,JAM,shelly-ann fraser-pryce,21.94,Tokyo 2020,Athletics,Women's 200m
+4,CIV,marie-josee ta lou,22.27,Tokyo 2020,Athletics,Women's 200m
+5,NAM,beatrice masilingi,22.28,Tokyo 2020,Athletics,Women's 200m
+6,SUI,mujinga kambundji,22.30,Tokyo 2020,Athletics,Women's 200m
+7,BAH,shaunae miller-uibo,24.00,Tokyo 2020,Athletics,Women's 200m
+0,ITA,antonella palmisano,1:29:12,Tokyo 2020,Athletics,Women's 20km Race Walk
+1,COL,sandra arenas,1:29:37,Tokyo 2020,Athletics,Women's 20km Race Walk
+2,CHN,hong liu,1:29:57,Tokyo 2020,Athletics,Women's 20km Race Walk
+3,ESP,maria perez,1:30:05,Tokyo 2020,Athletics,Women's 20km Race Walk
+4,MEX,alegna gonzalez,1:30:33,Tokyo 2020,Athletics,Women's 20km Race Walk
+5,AUS,jemima montag,1:30:39,Tokyo 2020,Athletics,Women's 20km Race Walk
+6,CHN,shijie qieyang,1:31:04,Tokyo 2020,Athletics,Women's 20km Race Walk
+7,GRE,antigoni drisbioti,1:31:24,Tokyo 2020,Athletics,Women's 20km Race Walk
+8,ECU,paola perez,1:31:26,Tokyo 2020,Athletics,Women's 20km Race Walk
+9,POL,katarzyna zdzieblo,1:31:29,Tokyo 2020,Athletics,Women's 20km Race Walk
+10,BRA,erica de sena,1:31:39,Tokyo 2020,Athletics,Women's 20km Race Walk
+11,CHN,jiayu yang,1:31:54,Tokyo 2020,Athletics,Women's 20km Race Walk
+12,JPN,nanako fujii,1:31:55,Tokyo 2020,Athletics,Women's 20km Race Walk
+13,ESP,raquel gonzalez,1:31:57,Tokyo 2020,Athletics,Women's 20km Race Walk
+14,JPN,kumiko okada,1:31:57,Tokyo 2020,Athletics,Women's 20km Race Walk
+15,ROC,elvira khasanova,1:31:58,Tokyo 2020,Athletics,Women's 20km Race Walk
+16,IND,. priyanka,1:32:36,Tokyo 2020,Athletics,Women's 20km Race Walk
+17,ITA,valentina trapletti,1:33:12,Tokyo 2020,Athletics,Women's 20km Race Walk
+18,UKR,mariia sakharuk,1:34:04,Tokyo 2020,Athletics,Women's 20km Race Walk
+19,POR,ana cabecinha,1:34:08,Tokyo 2020,Athletics,Women's 20km Race Walk
+20,CRC,noelia vargas,1:35:07,Tokyo 2020,Athletics,Women's 20km Race Walk
+21,TUR,meryem bekmez,1:35:08,Tokyo 2020,Athletics,Women's 20km Race Walk
+22,BLR,anastasiya rarovskaya,1:35:09,Tokyo 2020,Athletics,Women's 20km Race Walk
+23,PER,mary luz andia,1:35:25,Tokyo 2020,Athletics,Women's 20km Race Walk
+24,COL,sandra galvis,1:35:36,Tokyo 2020,Athletics,Women's 20km Race Walk
+25,LTU,brigita virbalyte-dimsiene,1:35:56,Tokyo 2020,Athletics,Women's 20km Race Walk
+26,UKR,hanna shevchuk,1:36:27,Tokyo 2020,Athletics,Women's 20km Race Walk
+27,ECU,karla johana jaramillo navarrete,1:36:32,Tokyo 2020,Athletics,Women's 20km Race Walk
+28,GRE,kiriaki filitisakou,1:36:51,Tokyo 2020,Athletics,Women's 20km Race Walk
+29,CZE,tereza durdiakova,1:36:58,Tokyo 2020,Athletics,Women's 20km Race Walk
+30,BLR,anna terlyukevich,1:37:22,Tokyo 2020,Athletics,Women's 20km Race Walk
+31,IND,bhawna jat,1:37:38,Tokyo 2020,Athletics,Women's 20km Race Walk
+32,USA,robyn stevens,1:37:42,Tokyo 2020,Athletics,Women's 20km Race Walk
+33,ESP,laura garcia-caro,1:37:48,Tokyo 2020,Athletics,Women's 20km Race Walk
+34,HKG,siu nga ching,1:37:53,Tokyo 2020,Athletics,Women's 20km Race Walk
+35,PER,leydi guerra,1:38:10,Tokyo 2020,Athletics,Women's 20km Race Walk
+36,AUS,katie hayward,1:38:11,Tokyo 2020,Athletics,Women's 20km Race Walk
+37,AUS,rebecca henderson,1:38:21,Tokyo 2020,Athletics,Women's 20km Race Walk
+38,TUR,ayse tekdal,1:38:40,Tokyo 2020,Athletics,Women's 20km Race Walk
+39,JPN,kaori kawazoe,1:39:31,Tokyo 2020,Athletics,Women's 20km Race Walk
+40,TUR,evin demir,1:39:55,Tokyo 2020,Athletics,Women's 20km Race Walk
+41,KAZ,aiman ratova,1:40:02,Tokyo 2020,Athletics,Women's 20km Race Walk
+42,UKR,lyudmila olyanovska,1:40:20,Tokyo 2020,Athletics,Women's 20km Race Walk
+43,GUA,mirna ortiz,1:40:23,Tokyo 2020,Athletics,Women's 20km Race Walk
+44,SVK,maria czakova,1:41:29,Tokyo 2020,Athletics,Women's 20km Race Walk
+45,HUN,barbara kovacs,1:41:49,Tokyo 2020,Athletics,Women's 20km Race Walk
+46,MEX,valeria ortuno martinez,1:41:50,Tokyo 2020,Athletics,Women's 20km Race Walk
+47,BOL,angela castro,1:42:25,Tokyo 2020,Athletics,Women's 20km Race Walk
+48,BLR,viktoryia rashchupkina,1:43:33,Tokyo 2020,Athletics,Women's 20km Race Walk
+49,GUA,mayra perez,1:44:30,Tokyo 2020,Athletics,Women's 20km Race Walk
+50,MEX,ilse guerrero,1:45:47,Tokyo 2020,Athletics,Women's 20km Race Walk
+51,ITA,eleonora giorgi,1:46:36,Tokyo 2020,Athletics,Women's 20km Race Walk
+52,GRE,panayiota tsinopoulou,1:47:19,Tokyo 2020,Athletics,Women's 20km Race Walk
+53,PER,kimberly garcia,Did not finish,Tokyo 2020,Athletics,Women's 20km Race Walk
+54,HUN,viktoria madarasz,Did not finish,Tokyo 2020,Athletics,Women's 20km Race Walk
+55,GER,saskia feige,Did not finish,Tokyo 2020,Athletics,Women's 20km Race Walk
+56,ECU,glenda morejon,Did not finish,Tokyo 2020,Athletics,Women's 20km Race Walk
+57,ETH,yehualeye beletew,Did not finish,Tokyo 2020,Athletics,Women's 20km Race Walk
+0,UGA,peruth chemutai,9:01.45,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+1,USA,courtney frerichs,9:04.79,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+2,KEN,hyvin kiyeng,9:05.39,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+3,ETH,mekides abebe,9:06.16,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+4,GER,gesa felicitas krause,9:14.00,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+5,SLO,marusa mismas,9:14.84,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+6,KEN,beatrice chepkoech,9:16.33,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+7,ETH,zerfe wondemagegn,9:16.41,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+8,GBR,elizabeth bird,9:19.68,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+9,BRN,winfred mutile yavi,9:19.74,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+10,CAN,genevieve lalonde,9:22.40,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+11,USA,valerie constien,9:31.61,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+12,ALB,luiza gega,9:34.10,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+13,ESP,carolina robles,9:50.96,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+14,AUS,genevieve gregson,Did not finish,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+15,USA,emma coburn,Disqualified,Tokyo 2020,Athletics,Women's 3000m Steeplechase
+0,,,41.02,Tokyo 2020,Athletics,Women's 4 x 100m Relay
+1,,,41.45,Tokyo 2020,Athletics,Women's 4 x 100m Relay
+2,,,41.88,Tokyo 2020,Athletics,Women's 4 x 100m Relay
+3,,,42.08,Tokyo 2020,Athletics,Women's 4 x 100m Relay
+4,,,42.12,Tokyo 2020,Athletics,Women's 4 x 100m Relay
+5,,,42.71,Tokyo 2020,Athletics,Women's 4 x 100m Relay
+6,,,42.89,Tokyo 2020,Athletics,Women's 4 x 100m Relay
+7,,,DNF,Tokyo 2020,Athletics,Women's 4 x 100m Relay
+0,,,3:16.85,Tokyo 2020,Athletics,Women's 4 x 400m Relay
+1,,,3:20.53,Tokyo 2020,Athletics,Women's 4 x 400m Relay
+2,,,3:21.24,Tokyo 2020,Athletics,Women's 4 x 400m Relay
+3,,,3:21.84,Tokyo 2020,Athletics,Women's 4 x 400m Relay
+4,,,3:22.59,Tokyo 2020,Athletics,Women's 4 x 400m Relay
+5,,,3:23.74,Tokyo 2020,Athletics,Women's 4 x 400m Relay
+6,,,3:23.96,Tokyo 2020,Athletics,Women's 4 x 400m Relay
+7,,,3:26.92,Tokyo 2020,Athletics,Women's 4 x 400m Relay
+0,BAH,shaunae miller-uibo,48.36,Tokyo 2020,Athletics,Women's 400m
+1,DOM,marileidy paulino,49.20,Tokyo 2020,Athletics,Women's 400m
+2,USA,allyson felix,49.46,Tokyo 2020,Athletics,Women's 400m
+3,JAM,stephenie ann mcpherson,49.61,Tokyo 2020,Athletics,Women's 400m
+4,JAM,candice mcleod,49.87,Tokyo 2020,Athletics,Women's 400m
+5,GBR,jodie williams,49.97,Tokyo 2020,Athletics,Women's 400m
+6,USA,quanera hayes,50.88,Tokyo 2020,Athletics,Women's 400m
+7,CUB,roxana gomez,Did not finish,Tokyo 2020,Athletics,Women's 400m
+0,USA,sydney mclaughlin-levrone,51.46,Tokyo 2020,Athletics,Women's 400m Hurdles
+1,USA,dalilah muhammad,51.58,Tokyo 2020,Athletics,Women's 400m Hurdles
+2,NED,femke bol,52.03,Tokyo 2020,Athletics,Women's 400m Hurdles
+3,JAM,janieve russell,53.08,Tokyo 2020,Athletics,Women's 400m Hurdles
+4,UKR,anna ryzhykova,53.48,Tokyo 2020,Athletics,Women's 400m Hurdles
+5,UKR,viktoriya tkachuk,53.79,Tokyo 2020,Athletics,Women's 400m Hurdles
+6,PAN,gianna woodruff,55.84,Tokyo 2020,Athletics,Women's 400m Hurdles
+7,USA,anna cockrell,Disqualified,Tokyo 2020,Athletics,Women's 400m Hurdles
+0,NED,sifan hassan,14:36.79,Tokyo 2020,Athletics,Women's 5000m
+1,KEN,hellen onsando obiri,14:38.36,Tokyo 2020,Athletics,Women's 5000m
+2,ETH,gudaf tsegay,14:38.87,Tokyo 2020,Athletics,Women's 5000m
+3,KEN,agnes jebet tirop,14:39.62,Tokyo 2020,Athletics,Women's 5000m
+4,ETH,ejgayehu taye,14:41.24,Tokyo 2020,Athletics,Women's 5000m
+5,ETH,senbere teferi,14:45.11,Tokyo 2020,Athletics,Women's 5000m
+6,ITA,nadia battocletti,14:46.29,Tokyo 2020,Athletics,Women's 5000m
+7,TUR,yasemin can,14:46.49,Tokyo 2020,Athletics,Women's 5000m
+8,JPN,ririka hironaka,14:52.84,Tokyo 2020,Athletics,Women's 5000m
+9,ISR,selamawit teferi,14:54.39,Tokyo 2020,Athletics,Women's 5000m
+10,USA,karissa schweizer,14:55.80,Tokyo 2020,Athletics,Women's 5000m
+11,KEN,lilian kasait rengeruk,14:55.85,Tokyo 2020,Athletics,Women's 5000m
+12,USA,elise cranny,14:55.98,Tokyo 2020,Athletics,Women's 5000m
+13,NOR,karoline bjerkeli grovdal,15:09.37,Tokyo 2020,Athletics,Women's 5000m
+14,CAN,andrea seccafien,15:12.09,Tokyo 2020,Athletics,Women's 5000m
+0,USA,athing mu,1:55.21,Tokyo 2020,Athletics,Women's 800m
+1,GBR,keely hodgkinson,1:55.88,Tokyo 2020,Athletics,Women's 800m
+2,USA,raevyn rogers,1:56.81,Tokyo 2020,Athletics,Women's 800m
+3,GBR,jemma reekie,1:56.90,Tokyo 2020,Athletics,Women's 800m
+4,CHN,chunyu wang,1:57.00,Tokyo 2020,Athletics,Women's 800m
+5,ETH,habitam alemu,1:57.56,Tokyo 2020,Athletics,Women's 800m
+6,GBR,alexandra bell,1:57.66,Tokyo 2020,Athletics,Women's 800m
+7,JAM,natoya goule,1:58.26,Tokyo 2020,Athletics,Women's 800m
+0,USA,valarie allman,68.98,Tokyo 2020,Athletics,Women's Discus Throw
+1,GER,kristin pudenz,66.86,Tokyo 2020,Athletics,Women's Discus Throw
+2,CUB,yaime perez,65.72,Tokyo 2020,Athletics,Women's Discus Throw
+3,CRO,sandra perkovic,65.01,Tokyo 2020,Athletics,Women's Discus Throw
+4,POR,liliana ca,63.93,Tokyo 2020,Athletics,Women's Discus Throw
+5,IND,kamalpreet kaur,63.70,Tokyo 2020,Athletics,Women's Discus Throw
+6,JAM,shadae lawrence,62.12,Tokyo 2020,Athletics,Women's Discus Throw
+7,GER,marike steinacker,62.02,Tokyo 2020,Athletics,Women's Discus Throw
+8,GER,claudine vita,61.80,Tokyo 2020,Athletics,Women's Discus Throw
+9,CHN,yang chen,61.57,Tokyo 2020,Athletics,Women's Discus Throw
+10,BRA,izabela da silva,60.39,Tokyo 2020,Athletics,Women's Discus Throw
+11,ITA,daisy osakue,59.97,Tokyo 2020,Athletics,Women's Discus Throw
+0,POL,anita wlodarczyk,78.48,Tokyo 2020,Athletics,Women's Hammer Throw
+1,CHN,zheng wang,77.03,Tokyo 2020,Athletics,Women's Hammer Throw
+2,POL,malwina kopron,75.49,Tokyo 2020,Athletics,Women's Hammer Throw
+3,FRA,alexandra tavernier,74.41,Tokyo 2020,Athletics,Women's Hammer Throw
+4,CAN,camryn rogers,74.35,Tokyo 2020,Athletics,Women's Hammer Throw
+5,ROU,bianca florentina ghelber,74.18,Tokyo 2020,Athletics,Women's Hammer Throw
+6,POL,joanna fiodorow,73.83,Tokyo 2020,Athletics,Women's Hammer Throw
+7,USA,deanna price,73.09,Tokyo 2020,Athletics,Women's Hammer Throw
+8,NZL,julia ratcliffe,72.69,Tokyo 2020,Athletics,Women's Hammer Throw
+9,USA,brooke andersen,72.16,Tokyo 2020,Athletics,Women's Hammer Throw
+10,USA,gwen berry,71.35,Tokyo 2020,Athletics,Women's Hammer Throw
+11,ITA,sara fantini,69.10,Tokyo 2020,Athletics,Women's Hammer Throw
+0,BEL,nafissatou thiam,,Tokyo 2020,Athletics,Women's Heptathlon
+1,NED,anouk vetter,,Tokyo 2020,Athletics,Women's Heptathlon
+2,NED,emma oosterwegel,,Tokyo 2020,Athletics,Women's Heptathlon
+3,BEL,noor vidts,,Tokyo 2020,Athletics,Women's Heptathlon
+4,USA,kendell williams,,Tokyo 2020,Athletics,Women's Heptathlon
+5,USA,annie kunz,,Tokyo 2020,Athletics,Women's Heptathlon
+6,GER,carolin schafer,,Tokyo 2020,Athletics,Women's Heptathlon
+7,AUT,ivona dadic,,Tokyo 2020,Athletics,Women's Heptathlon
+8,USA,erica bougard,,Tokyo 2020,Athletics,Women's Heptathlon
+9,CHN,ninali zheng,,Tokyo 2020,Athletics,Women's Heptathlon
+10,AUT,verena mayr,,Tokyo 2020,Athletics,Women's Heptathlon
+11,UZB,ekaterina voronina,,Tokyo 2020,Athletics,Women's Heptathlon
+12,HUN,xenia krizsan,,Tokyo 2020,Athletics,Women's Heptathlon
+13,COL,evelis aguilar,,Tokyo 2020,Athletics,Women's Heptathlon
+14,BEN,odile ahouanwanou,,Tokyo 2020,Athletics,Women's Heptathlon
+15,POL,adrianna sulek,,Tokyo 2020,Athletics,Women's Heptathlon
+16,FIN,maria huntington,,Tokyo 2020,Athletics,Women's Heptathlon
+17,ESP,maria vicente,,Tokyo 2020,Athletics,Women's Heptathlon
+18,GER,vanessa grimm,,Tokyo 2020,Athletics,Women's Heptathlon
+19,CAN,georgia ellenwood,,Tokyo 2020,Athletics,Women's Heptathlon
+20,NED,nadine broersen,,Tokyo 2020,Athletics,Women's Heptathlon
+21,GBR,katarina johnson-thompson,,Tokyo 2020,Athletics,Women's Heptathlon
+22,BUR,marthe koala,,Tokyo 2020,Athletics,Women's Heptathlon
+23,CUB,yorgelis rodriguez,,Tokyo 2020,Athletics,Women's Heptathlon
+0,ROC,mariya lasitskene,2.04,Tokyo 2020,Athletics,Women's High Jump
+1,AUS,nicola mcdermott,2.02,Tokyo 2020,Athletics,Women's High Jump
+2,UKR,yaroslava mahuchikh,2.00,Tokyo 2020,Athletics,Women's High Jump
+3,UKR,iryna gerashchenko,1.98,Tokyo 2020,Athletics,Women's High Jump
+4,AUS,eleanor patterson,1.96,Tokyo 2020,Athletics,Women's High Jump
+5,USA,vashti cunningham,1.96,Tokyo 2020,Athletics,Women's High Jump
+6,UZB,safina sadullayeva,1.96,Tokyo 2020,Athletics,Women's High Jump
+7,UKR,yuliia levchenko,1.96,Tokyo 2020,Athletics,Women's High Jump
+8,MNE,marija vukovic,1.96,Tokyo 2020,Athletics,Women's High Jump
+9,GER,marie-laurence jungfleisch,1.93,Tokyo 2020,Athletics,Women's High Jump
+10,POL,kamila licwinko,1.93,Tokyo 2020,Athletics,Women's High Jump
+11,BUL,mirela demireva,1.93,Tokyo 2020,Athletics,Women's High Jump
+12,SWE,maja nilsson,1.84,Tokyo 2020,Athletics,Women's High Jump
+13,GBR,morgan lake,Did not start,Tokyo 2020,Athletics,Women's High Jump
+0,CHN,shiying liu,66.34,Tokyo 2020,Athletics,Women's Javelin Throw
+1,POL,maria andrejczyk,64.61,Tokyo 2020,Athletics,Women's Javelin Throw
+2,AUS,kelsey-lee roberts,64.56,Tokyo 2020,Athletics,Women's Javelin Throw
+3,TUR,eda tugsuz,64.00,Tokyo 2020,Athletics,Women's Javelin Throw
+4,CHN,huihui lyu,63.41,Tokyo 2020,Athletics,Women's Javelin Throw
+5,AUS,kathryn mitchell,61.82,Tokyo 2020,Athletics,Women's Javelin Throw
+6,LTU,liveta jasiunaite,60.06,Tokyo 2020,Athletics,Women's Javelin Throw
+7,AUS,mackenzie little,59.96,Tokyo 2020,Athletics,Women's Javelin Throw
+8,GER,christin hussong,59.94,Tokyo 2020,Athletics,Women's Javelin Throw
+9,USA,maggie malone,59.82,Tokyo 2020,Athletics,Women's Javelin Throw
+10,LAT,madara palameika,58.70,Tokyo 2020,Athletics,Women's Javelin Throw
+11,JPN,haruka kitaguchi,55.42,Tokyo 2020,Athletics,Women's Javelin Throw
+0,GER,malaika mihambo,7.00,Tokyo 2020,Athletics,Women's Long Jump
+1,USA,brittney reese,6.97,Tokyo 2020,Athletics,Women's Long Jump
+2,NGR,ese brume,6.97,Tokyo 2020,Athletics,Women's Long Jump
+3,SRB,ivana spanovic,6.91,Tokyo 2020,Athletics,Women's Long Jump
+4,UKR,maryna bekh-romanchuk,6.88,Tokyo 2020,Athletics,Women's Long Jump
+5,USA,tara davis,6.84,Tokyo 2020,Athletics,Women's Long Jump
+6,AUS,brooke stratton,6.83,Tokyo 2020,Athletics,Women's Long Jump
+7,GBR,jazmin sawyers,6.80,Tokyo 2020,Athletics,Women's Long Jump
+8,SWE,khaddi sagnia,6.67,Tokyo 2020,Athletics,Women's Long Jump
+9,TTO,tyra gittens,6.60,Tokyo 2020,Athletics,Women's Long Jump
+10,GBR,abigail irozuru,6.51,Tokyo 2020,Athletics,Women's Long Jump
+11,IVB,chantel malone,6.50,Tokyo 2020,Athletics,Women's Long Jump
+0,KEN,peres jepchirchir,2:27:20,Tokyo 2020,Athletics,Women's Marathon
+1,KEN,brigid kosgei,2:27:36,Tokyo 2020,Athletics,Women's Marathon
+2,USA,molly seidel,2:27:46,Tokyo 2020,Athletics,Women's Marathon
+3,ETH,roza dereje,2:28:38,Tokyo 2020,Athletics,Women's Marathon
+4,BLR,volha mazuronak,2:29:06,Tokyo 2020,Athletics,Women's Marathon
+5,GER,melat yisak kejeta,2:29:16,Tokyo 2020,Athletics,Women's Marathon
+6,BRN,eunice chebichii chumba,2:29:36,Tokyo 2020,Athletics,Women's Marathon
+7,JPN,mao ichiyama,2:30:13,Tokyo 2020,Athletics,Women's Marathon
+8,CAN,malindi elmore,2:30:59,Tokyo 2020,Athletics,Women's Marathon
+9,AUS,sinead diver,2:31:14,Tokyo 2020,Athletics,Women's Marathon
+10,NAM,helalia johannes,2:31:22,Tokyo 2020,Athletics,Women's Marathon
+11,SUI,fabienne schlumpf,2:31:36,Tokyo 2020,Athletics,Women's Marathon
+12,CAN,natasha wodak,2:31:41,Tokyo 2020,Athletics,Women's Marathon
+13,POL,karolina nadolska,2:32:04,Tokyo 2020,Athletics,Women's Marathon
+14,RSA,gerda steyn,2:32:10,Tokyo 2020,Athletics,Women's Marathon
+15,UGA,immaculate chemutai,2:32:23,Tokyo 2020,Athletics,Women's Marathon
+16,USA,sally jepkosgei kipyego,2:32:53,Tokyo 2020,Athletics,Women's Marathon
+17,GER,deborah schoneborn,2:33:08,Tokyo 2020,Athletics,Women's Marathon
+18,JPN,ayuko suzuki,2:33:14,Tokyo 2020,Athletics,Women's Marathon
+19,LES,neheng khatala,2:33:15,Tokyo 2020,Athletics,Women's Marathon
+20,CRO,matea parlov kostro,2:33:18,Tokyo 2020,Athletics,Women's Marathon
+21,SWE,carolina wikstrom,2:33:19,Tokyo 2020,Athletics,Women's Marathon
+22,AUS,ellie pashley,2:33:39,Tokyo 2020,Athletics,Women's Marathon
+23,TAN,failuna matanga,2:33:58,Tokyo 2020,Athletics,Women's Marathon
+24,IRL,fionnuala mccormack,2:34:09,Tokyo 2020,Athletics,Women's Marathon
+25,AUS,lisa jane weightman,2:34:19,Tokyo 2020,Athletics,Women's Marathon
+26,PER,gladys tejeda,2:34:21,Tokyo 2020,Athletics,Women's Marathon
+27,BEL,mieke gorissen,2:34:24,Tokyo 2020,Athletics,Women's Marathon
+28,ESP,elena loyo,2:34:38,Tokyo 2020,Athletics,Women's Marathon
+29,POR,carla salome rocha,2:34:52,Tokyo 2020,Athletics,Women's Marathon
+30,GER,katharina steinruck,2:35:00,Tokyo 2020,Athletics,Women's Marathon
+31,ITA,giovanna epis,2:35:09,Tokyo 2020,Athletics,Women's Marathon
+32,JPN,honami maeda,2:35:28,Tokyo 2020,Athletics,Women's Marathon
+33,KOR,kyungsun choi,2:35:33,Tokyo 2020,Athletics,Women's Marathon
+34,POL,aleksandra lisowska,2:35:33,Tokyo 2020,Athletics,Women's Marathon
+35,KGZ,darya maslova,2:35:35,Tokyo 2020,Athletics,Women's Marathon
+36,ESP,marta galimany,2:35:39,Tokyo 2020,Athletics,Women's Marathon
+37,FRA,susan jeptooo,2:36:29,Tokyo 2020,Athletics,Women's Marathon
+38,GBR,stephanie davis,2:36:33,Tokyo 2020,Athletics,Women's Marathon
+39,PER,jovana de la cruz,2:36:38,Tokyo 2020,Athletics,Women's Marathon
+40,ECU,rosa chacha,2:36:44,Tokyo 2020,Athletics,Women's Marathon
+41,UKR,yevheniya prokofyeva,2:36:47,Tokyo 2020,Athletics,Women's Marathon
+42,ERI,nazret weldu,2:37:01,Tokyo 2020,Athletics,Women's Marathon
+43,NED,andrea deelstra,2:37:05,Tokyo 2020,Athletics,Women's Marathon
+44,MGL,munkhzaya bayartsogt,2:37:08,Tokyo 2020,Athletics,Women's Marathon
+45,KAZ,zhanna mamazhanova,2:37:42,Tokyo 2020,Athletics,Women's Marathon
+46,CHN,deshun zhang,2:37:45,Tokyo 2020,Athletics,Women's Marathon
+47,ISR,maor tiyouri,2:37:52,Tokyo 2020,Athletics,Women's Marathon
+48,BEL,hanne verbruggen,2:38:03,Tokyo 2020,Athletics,Women's Marathon
+49,BLR,nina savina,2:38:41,Tokyo 2020,Athletics,Women's Marathon
+50,SUI,martina strahl,2:39:25,Tokyo 2020,Athletics,Women's Marathon
+51,CZE,marcela joglova,2:39:29,Tokyo 2020,Athletics,Women's Marathon
+52,CRO,bojana bjeljac,2:39:32,Tokyo 2020,Athletics,Women's Marathon
+53,MDA,lilia fisikowici,2:39:59,Tokyo 2020,Athletics,Women's Marathon
+54,COL,angie orjuela,2:40:04,Tokyo 2020,Athletics,Women's Marathon
+55,MAR,rkia el moukim,2:40:10,Tokyo 2020,Athletics,Women's Marathon
+56,KOR,seulki an,2:41:11,Tokyo 2020,Athletics,Women's Marathon
+57,CZE,tereza hrochova,2:42:25,Tokyo 2020,Athletics,Women's Marathon
+58,POL,angelika mach,2:42:26,Tokyo 2020,Athletics,Women's Marathon
+59,ECU,andrea paola bonilla,2:43:30,Tokyo 2020,Athletics,Women's Marathon
+60,ARG,marcela cristina gomez,2:44:09,Tokyo 2020,Athletics,Women's Marathon
+61,CHN,zhixuan li,2:45:23,Tokyo 2020,Athletics,Women's Marathon
+62,NED,jill holterman,2:45:27,Tokyo 2020,Athletics,Women's Marathon
+63,MEX,ursula patricia sanchez,2:45:45,Tokyo 2020,Athletics,Women's Marathon
+64,MEX,daniela torres,2:47:15,Tokyo 2020,Athletics,Women's Marathon
+65,ISR,lonah chemtai salpeter,2:48:31,Tokyo 2020,Athletics,Women's Marathon
+66,CHN,li bai,2:49:21,Tokyo 2020,Athletics,Women's Marathon
+67,GBR,stephanie twell,2:53:26,Tokyo 2020,Athletics,Women's Marathon
+68,UGA,juliet chekwel,2:53:40,Tokyo 2020,Athletics,Women's Marathon
+69,POR,catarina ribeiro,2:55:01,Tokyo 2020,Athletics,Women's Marathon
+70,GBR,jess piasecki,2:55:39,Tokyo 2020,Athletics,Women's Marathon
+71,SOL,sharon firisua,3:02:10,Tokyo 2020,Athletics,Women's Marathon
+72,CAN,dayna pidhoresky,3:03:10,Tokyo 2020,Athletics,Women's Marathon
+73,MEX,andrea soraya ramirez limon,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+74,KEN,ruth chepngetich,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+75,ESP,laura mendez,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+76,ETH,birhane dibaba,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+77,BRN,tejitu daba,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+78,ERI,kokob tesfagaber solomon,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+79,UKR,viktoriia kaliuzhna,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+80,RSA,irvette van zyl,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+81,POR,sara moreira,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+82,USA,aliphine chepkerker tuliamuk,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+83,IRL,aoife cooke,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+84,UKR,darya mykhaylova,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+85,ETH,zeineba yimer,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+86,CZE,eva vrabcova - nyvltova,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+87,TUR,meryem erdogan,Did not finish,Tokyo 2020,Athletics,Women's Marathon
+0,USA,katie moon,4.90,Tokyo 2020,Athletics,Women's Pole Vault
+1,ROC,anzhelika sidorova,4.85,Tokyo 2020,Athletics,Women's Pole Vault
+2,GBR,holly bleasdale-bradshaw,4.85,Tokyo 2020,Athletics,Women's Pole Vault
+3,GRE,katerina stefanidi,4.80,Tokyo 2020,Athletics,Women's Pole Vault
+4,UKR,maryna kylypko,4.50,Tokyo 2020,Athletics,Women's Pole Vault
+5,FIN,wilma murto,4.50,Tokyo 2020,Athletics,Women's Pole Vault
+6,SLO,tina sutej,4.50,Tokyo 2020,Athletics,Women's Pole Vault
+7,GRE,nikoleta kyriakopoulou,4.50,Tokyo 2020,Athletics,Women's Pole Vault
+8,VEN,robeilys peinado,4.50,Tokyo 2020,Athletics,Women's Pole Vault
+9,CUB,yarisley silva,4.50,Tokyo 2020,Athletics,Women's Pole Vault
+10,CHN,huiqin xu,4.50,Tokyo 2020,Athletics,Women's Pole Vault
+11,BLR,iryna zhuk,4.50,Tokyo 2020,Athletics,Women's Pole Vault
+12,SWE,angelica bengtsson,4.50,Tokyo 2020,Athletics,Women's Pole Vault
+13,USA,morgan leleux,No mark,Tokyo 2020,Athletics,Women's Pole Vault
+14,CAN,anicka newell,No mark,Tokyo 2020,Athletics,Women's Pole Vault
+0,CHN,lijiao gong,20.58,Tokyo 2020,Athletics,Women's Shot Put
+1,USA,raven saunders,19.79,Tokyo 2020,Athletics,Women's Shot Put
+2,NZL,valerie adams,19.62,Tokyo 2020,Athletics,Women's Shot Put
+3,POR,auriole dongmo,19.57,Tokyo 2020,Athletics,Women's Shot Put
+4,CHN,jiayuan song,19.14,Tokyo 2020,Athletics,Women's Shot Put
+5,NZL,maddison-lee wesche,18.98,Tokyo 2020,Athletics,Women's Shot Put
+6,SWE,fanny roos,18.91,Tokyo 2020,Athletics,Women's Shot Put
+7,GER,sara gambetta,18.88,Tokyo 2020,Athletics,Women's Shot Put
+8,BLR,aliona dubitskaya,18.73,Tokyo 2020,Athletics,Women's Shot Put
+9,CHN,yang gao,18.67,Tokyo 2020,Athletics,Women's Shot Put
+10,TTO,portious warren,18.32,Tokyo 2020,Athletics,Women's Shot Put
+11,USA,jessica ramsey,No mark,Tokyo 2020,Athletics,Women's Shot Put
+0,CHN,lijiao gong,20.58,Tokyo 2020,Athletics,Women's Triple Jump
+1,USA,raven saunders,19.79,Tokyo 2020,Athletics,Women's Triple Jump
+2,NZL,valerie adams,19.62,Tokyo 2020,Athletics,Women's Triple Jump
+3,POR,auriole dongmo,19.57,Tokyo 2020,Athletics,Women's Triple Jump
+4,CHN,jiayuan song,19.14,Tokyo 2020,Athletics,Women's Triple Jump
+5,NZL,maddison-lee wesche,18.98,Tokyo 2020,Athletics,Women's Triple Jump
+6,SWE,fanny roos,18.91,Tokyo 2020,Athletics,Women's Triple Jump
+7,GER,sara gambetta,18.88,Tokyo 2020,Athletics,Women's Triple Jump
+8,BLR,aliona dubitskaya,18.73,Tokyo 2020,Athletics,Women's Triple Jump
+9,CHN,yang gao,18.67,Tokyo 2020,Athletics,Women's Triple Jump
+10,TTO,portious warren,18.32,Tokyo 2020,Athletics,Women's Triple Jump
+11,USA,jessica ramsey,No mark,Tokyo 2020,Athletics,Women's Triple Jump
