@@ -1,0 +1,665 @@
+,country,participant,result,olympic_game,discipline,event
+0,ESP,daniel plaza montero,01:21:45.000,Barcelona 1992,Athletics,20km walk men
+1,CAN,guillaume leblanc,01:22:25.000,Barcelona 1992,Athletics,20km walk men
+2,ITA,giovanni de benedictis,01:23:11.000,Barcelona 1992,Athletics,20km walk men
+3,ITA,maurizio damilano,01:23:39.000,Barcelona 1992,Athletics,20km walk men
+4,CHN,shaoguo chen,01:24:06.000,Barcelona 1992,Athletics,20km walk men
+5,IRL,jimmy mcdonald,01:25:16.000,Barcelona 1992,Athletics,20km walk men
+6,MEX,daniel garcia,01:25:35.000,Barcelona 1992,Athletics,20km walk men
+7,HUN,sandor urbanik,01:26:08.000,Barcelona 1992,Athletics,20km walk men
+8,COL,hector jose moreno moreno,01:26:23.000,Barcelona 1992,Athletics,20km walk men
+9,ESP,miguel angel prieto,01:26:38.000,Barcelona 1992,Athletics,20km walk men
+10,GER,robert ihly,01:26:56.000,Barcelona 1992,Athletics,20km walk men
+11,EUN,mikhail shchennikov,01:27:17.000,Barcelona 1992,Athletics,20km walk men
+12,EUN,vladimir andreyev,01:28:25.000,Barcelona 1992,Athletics,20km walk men
+13,CAN,tim berrett,01:28:25.000,Barcelona 1992,Athletics,20km walk men
+14,SWE,stefan johansson,01:28:37.000,Barcelona 1992,Athletics,20km walk men
+15,GBR,chris maddocks,01:28:45.000,Barcelona 1992,Athletics,20km walk men
+16,TCH,pavel blazek,01:29:23.000,Barcelona 1992,Athletics,20km walk men
+17,ITA,walter arena,01:29:34.000,Barcelona 1992,Athletics,20km walk men
+18,TCH,igor kollar,01:29:38.000,Barcelona 1992,Athletics,20km walk men
+19,GER,axel noack,01:29:55.000,Barcelona 1992,Athletics,20km walk men
+20,MEX,erick joel sanchez,01:30:12.000,Barcelona 1992,Athletics,20km walk men
+21,AUS,nicholas mark a'hern,01:31:39.000,Barcelona 1992,Athletics,20km walk men
+22,GBR,andrew shaun penn,01:31:40.000,Barcelona 1992,Athletics,20km walk men
+23,GBR,martin gavin anthony rush,01:31:56.000,Barcelona 1992,Athletics,20km walk men
+24,ETH,shemisu hassan,01:32:39.000,Barcelona 1992,Athletics,20km walk men
+25,LTU,viktoras meskauskas,01:33:24.000,Barcelona 1992,Athletics,20km walk men
+26,BRA,sergio vieira galdino,01:33:32.000,Barcelona 1992,Athletics,20km walk men
+27,TCH,jan zahoncik,01:33:37.000,Barcelona 1992,Athletics,20km walk men
+28,MEX,ernesto canto gudino,01:33:51.000,Barcelona 1992,Athletics,20km walk men
+29,USA,allen morford james,01:35:12.000,Barcelona 1992,Athletics,20km walk men
+30,AUS,andrew jachno,01:36:49.000,Barcelona 1992,Athletics,20km walk men
+31,BRA,marcelo moreira palma,01:40:11.000,Barcelona 1992,Athletics,20km walk men
+32,CHN,mingcai li,Did not finish,Barcelona 1992,Athletics,20km walk men
+33,POL,robert korzeniowski,Did not finish,Barcelona 1992,Athletics,20km walk men
+34,EUN,oleg trochin,Did not finish,Barcelona 1992,Athletics,20km walk men
+35,BRA,ademar jose kammler,Did not finish,Barcelona 1992,Athletics,20km walk men
+36,ECU,jefferson perez,Did not finish,Barcelona 1992,Athletics,20km walk men
+37,ESP,valentin massana,Disqualified,Barcelona 1992,Athletics,20km walk men
+38,FRA,thierry toutain,Disqualified,Barcelona 1992,Athletics,20km walk men
+39,POR,jose urbano,Disqualified,Barcelona 1992,Athletics,20km walk men
+40,IRL,bobby o'leary,Disqualified,Barcelona 1992,Athletics,20km walk men
+41,LAO,saleumphone sopraseut,Disqualified,Barcelona 1992,Athletics,20km walk men
+0,KEN,mathew birir,00:08:08.840,Barcelona 1992,Athletics,3000m steeplechase men
+1,KEN,patrick sang,00:08:09.550,Barcelona 1992,Athletics,3000m steeplechase men
+2,KEN,william mutwol,00:08:10.740,Barcelona 1992,Athletics,3000m steeplechase men
+3,ITA,alessandro lambruschini,00:08:15.520,Barcelona 1992,Athletics,3000m steeplechase men
+4,GER,steffen brand,00:08:16.600,Barcelona 1992,Athletics,3000m steeplechase men
+5,GBR,tom hanlon,00:08:18.140,Barcelona 1992,Athletics,3000m steeplechase men
+6,USA,brian lee diemer,00:08:18.770,Barcelona 1992,Athletics,3000m steeplechase men
+7,ALG,azzeddine brahmi,00:08:20.710,Barcelona 1992,Athletics,3000m steeplechase men
+8,BEL,william van dijck,00:08:22.510,Barcelona 1992,Athletics,3000m steeplechase men
+9,MAR,el arbi khattabi,00:08:23.820,Barcelona 1992,Athletics,3000m steeplechase men
+10,BRA,clodoaldo lopes do carmo,00:08:25.920,Barcelona 1992,Athletics,3000m steeplechase men
+11,URU,ricardo cirilo vera rebollo,00:08:26.350,Barcelona 1992,Athletics,3000m steeplechase men
+12,MAR,abdelaziz sahere,Did not start,Barcelona 1992,Athletics,3000m steeplechase men
+0,EUN,elena romanova,00:08:46.040,Barcelona 1992,Athletics,3000m women
+1,EUN,tatyana samolenko-dorovskikh,00:08:46.850,Barcelona 1992,Athletics,3000m women
+2,CAN,angela chalmers-espinoza,00:08:47.220,Barcelona 1992,Athletics,3000m women
+3,IRL,sonia o'sullivan,00:08:47.410,Barcelona 1992,Athletics,3000m women
+4,USA,patti sue plumer,00:08:48.290,Barcelona 1992,Athletics,3000m women
+5,EUN,ebru kavaklioglu,00:08:49.550,Barcelona 1992,Athletics,3000m women
+6,USA,shelly steely,00:08:52.670,Barcelona 1992,Athletics,3000m women
+7,GBR,yvonne murray,00:08:55.850,Barcelona 1992,Athletics,3000m women
+8,GBR,alison wyeth,00:09:00.230,Barcelona 1992,Athletics,3000m women
+9,ITA,roberta brunet,00:09:01.260,Barcelona 1992,Athletics,3000m women
+10,ROU,margareta keszeg,00:09:03.160,Barcelona 1992,Athletics,3000m women
+11,FRA,marie-pierre duros,Did not finish,Barcelona 1992,Athletics,3000m women
+12,BOL,sandra cortez,Did not start,Barcelona 1992,Athletics,3000m women
+0,USA,kevin curtis young,46.780,Barcelona 1992,Athletics,400m hurdles men
+1,JAM,winthrop graham,47.660,Barcelona 1992,Athletics,400m hurdles men
+2,GBR,kriss kezie uche akabusi,47.820,Barcelona 1992,Athletics,400m hurdles men
+3,FRA,stephane diagana,48.130,Barcelona 1992,Athletics,400m hurdles men
+4,SWE,niklas wallenlind,48.630,Barcelona 1992,Athletics,400m hurdles men
+5,EUN,oleg tverdokhleb,48.630,Barcelona 1992,Athletics,400m hurdles men
+6,FRA,stephane caristan,48.860,Barcelona 1992,Athletics,400m hurdles men
+7,USA,david patrick,49.260,Barcelona 1992,Athletics,400m hurdles men
+8,ZAM,samuel matete,,Barcelona 1992,Athletics,400m hurdles men
+9,BRA,pedro paulo chiamulera,,Barcelona 1992,Athletics,400m hurdles men
+10,GBR,max robertson,,Barcelona 1992,Athletics,400m hurdles men
+11,JAM,mark anthony thompson,,Barcelona 1992,Athletics,400m hurdles men
+12,TUN,fadhel khayati,Did not start,Barcelona 1992,Athletics,400m hurdles men
+13,SYR,zaid abou hamed,Did not start,Barcelona 1992,Athletics,400m hurdles men
+0,GBR,sally janet jane gunnell,53.230,Barcelona 1992,Athletics,400m hurdles women
+1,USA,sandra farmer-patrick,53.690,Barcelona 1992,Athletics,400m hurdles women
+2,USA,janeene vickers,54.310,Barcelona 1992,Athletics,400m hurdles women
+3,EUN,tatiana ledovskaya,54.310,Barcelona 1992,Athletics,400m hurdles women
+4,EUN,vera ordina,54.830,Barcelona 1992,Athletics,400m hurdles women
+5,EUN,margarita ponomareva,54.830,Barcelona 1992,Athletics,400m hurdles women
+6,JAM,deon marie hemmings,55.580,Barcelona 1992,Athletics,400m hurdles women
+7,RSA,myrtle bothama,Did not finish,Barcelona 1992,Athletics,400m hurdles women
+8,CGO,addo ndala,,Barcelona 1992,Athletics,400m hurdles women
+9,GER,linda kisabaka,Did not start,Barcelona 1992,Athletics,400m hurdles women
+0,USA,quincy watts,43.500,Barcelona 1992,Athletics,400m men
+1,USA,steve lewis,44.210,Barcelona 1992,Athletics,400m men
+2,KEN,samson kitur,44.240,Barcelona 1992,Athletics,400m men
+3,TTO,ian morris,44.250,Barcelona 1992,Athletics,400m men
+4,CUB,roberto hernandez prendes,44.520,Barcelona 1992,Athletics,400m men
+5,GBR,david allan grindley,44.750,Barcelona 1992,Athletics,400m men
+6,QAT,ibrahim ismail muftah,45.100,Barcelona 1992,Athletics,400m men
+7,JPN,susumu takano,45.180,Barcelona 1992,Athletics,400m men
+8,GBR,derek redmond,,Barcelona 1992,Athletics,400m men
+9,GHA,solomon amegatcher,,Barcelona 1992,Athletics,400m men
+10,ZAM,cephas lemba,,Barcelona 1992,Athletics,400m men
+11,GAM,lamin mrikong,,Barcelona 1992,Athletics,400m men
+12,ISV,desi wynter,,Barcelona 1992,Athletics,400m men
+13,VIN,michael williams,Did not start,Barcelona 1992,Athletics,400m men
+0,FRA,marie-jose perec,48.830,Barcelona 1992,Athletics,400m women
+1,EUN,olga bryzgina,49.050,Barcelona 1992,Athletics,400m women
+2,COL,ximena restrepo gaviria,49.640,Barcelona 1992,Athletics,400m women
+3,EUN,olga nazarova,49.690,Barcelona 1992,Athletics,400m women
+4,CAN,jillian richardson-briscoe,49.930,Barcelona 1992,Athletics,400m women
+5,USA,rochelle stevens,50.110,Barcelona 1992,Athletics,400m women
+6,JAM,alexandra richards,50.190,Barcelona 1992,Athletics,400m women
+7,GBR,phylis smith,50.870,Barcelona 1992,Athletics,400m women
+0,,,37.400,Barcelona 1992,Athletics,4x100m relay men
+1,,,37.980,Barcelona 1992,Athletics,4x100m relay men
+2,,,38.000,Barcelona 1992,Athletics,4x100m relay men
+3,,,38.080,Barcelona 1992,Athletics,4x100m relay men
+4,,,38.170,Barcelona 1992,Athletics,4x100m relay men
+5,,,38.770,Barcelona 1992,Athletics,4x100m relay men
+6,,,39.300,Barcelona 1992,Athletics,4x100m relay men
+7,,,39.310,Barcelona 1992,Athletics,4x100m relay men
+8,,,,Barcelona 1992,Athletics,4x100m relay men
+9,,,,Barcelona 1992,Athletics,4x100m relay men
+10,,,,Barcelona 1992,Athletics,4x100m relay men
+11,,,,Barcelona 1992,Athletics,4x100m relay men
+12,,,,Barcelona 1992,Athletics,4x100m relay men
+0,,,42.110,Barcelona 1992,Athletics,4x100m relay women
+1,,,42.160,Barcelona 1992,Athletics,4x100m relay women
+2,,,42.810,Barcelona 1992,Athletics,4x100m relay women
+3,,,42.850,Barcelona 1992,Athletics,4x100m relay women
+4,,,43.120,Barcelona 1992,Athletics,4x100m relay women
+5,,,43.770,Barcelona 1992,Athletics,4x100m relay women
+6,,,DNF,Barcelona 1992,Athletics,4x100m relay women
+7,,,DNF,Barcelona 1992,Athletics,4x100m relay women
+8,,,,Barcelona 1992,Athletics,4x100m relay women
+0,,,00:02:55.740,Barcelona 1992,Athletics,4x400m relay men
+1,,,00:02:59.510,Barcelona 1992,Athletics,4x400m relay men
+2,,,00:02:59.730,Barcelona 1992,Athletics,4x400m relay men
+3,,,00:03:01.610,Barcelona 1992,Athletics,4x400m relay men
+4,,,00:03:01.710,Barcelona 1992,Athletics,4x400m relay men
+5,,,00:03:02.180,Barcelona 1992,Athletics,4x400m relay men
+6,,,00:03:03.310,Barcelona 1992,Athletics,4x400m relay men
+7,,,DNF,Barcelona 1992,Athletics,4x400m relay men
+8,,,,Barcelona 1992,Athletics,4x400m relay men
+9,,,,Barcelona 1992,Athletics,4x400m relay men
+10,,,,Barcelona 1992,Athletics,4x400m relay men
+0,,,00:03:20.200,Barcelona 1992,Athletics,4x400m relay women
+1,,,00:03:20.920,Barcelona 1992,Athletics,4x400m relay women
+2,,,00:03:24.230,Barcelona 1992,Athletics,4x400m relay women
+3,,,00:03:25.200,Barcelona 1992,Athletics,4x400m relay women
+4,,,00:03:25.680,Barcelona 1992,Athletics,4x400m relay women
+5,,,00:03:26.370,Barcelona 1992,Athletics,4x400m relay women
+6,,,00:03:26.420,Barcelona 1992,Athletics,4x400m relay women
+7,,,00:03:36.850,Barcelona 1992,Athletics,4x400m relay women
+8,,,,Barcelona 1992,Athletics,4x400m relay women
+0,GER,dieter baumann,00:13:12.520,Barcelona 1992,Athletics,5000m men
+1,KEN,paul bitok,00:13:12.710,Barcelona 1992,Athletics,5000m men
+2,ETH,fita bayissa,00:13:13.030,Barcelona 1992,Athletics,5000m men
+3,MAR,moulay brahim boutayeb,00:13:13.270,Barcelona 1992,Athletics,5000m men
+4,KEN,yobes ondieki,00:13:17.500,Barcelona 1992,Athletics,5000m men
+5,ETH,worku bikila,00:13:23.520,Barcelona 1992,Athletics,5000m men
+6,GBR,robert neil denmark,00:13:27.760,Barcelona 1992,Athletics,5000m men
+7,ESP,abel anton rodrigo,00:13:27.800,Barcelona 1992,Athletics,5000m men
+8,MAR,mohamed issangar,00:13:28.970,Barcelona 1992,Athletics,5000m men
+9,TAN,andrew sambu,00:13:37.200,Barcelona 1992,Athletics,5000m men
+10,POR,domingos castro,00:13:38.080,Barcelona 1992,Athletics,5000m men
+11,USA,kennedy ,00:13:39.720,Barcelona 1992,Athletics,5000m men
+12,FRA,pascal thiebault,00:13:43.390,Barcelona 1992,Athletics,5000m men
+13,KEN,dominic kirui,00:13:45.160,Barcelona 1992,Athletics,5000m men
+14,NED,marcel versteeg,00:13:48.320,Barcelona 1992,Athletics,5000m men
+15,ITA,salvatore antibo,00:14:02.470,Barcelona 1992,Athletics,5000m men
+16,BUL,evgeni ignatov ignatov,,Barcelona 1992,Athletics,5000m men
+17,USA,john lawrence trautmann,,Barcelona 1992,Athletics,5000m men
+18,YEM,hussein salah joaim,Did not start,Barcelona 1992,Athletics,5000m men
+19,ARG,antonio fabian silio,Did not start,Barcelona 1992,Athletics,5000m men
+20,BEL,vincent rousseau,Did not start,Barcelona 1992,Athletics,5000m men
+21,HON,polin belisle,Did not start,Barcelona 1992,Athletics,5000m men
+22,FIJ,davendra prakash singh,Did not start,Barcelona 1992,Athletics,5000m men
+23,COD,willy kalombo,Did not start,Barcelona 1992,Athletics,5000m men
+0,EUN,andrey perlov,03:50:13.000,Barcelona 1992,Athletics,50km walk men
+1,MEX,carlos mercenario carbajal,03:52:09.000,Barcelona 1992,Athletics,50km walk men
+2,GER,ronald weigel,03:53:45.000,Barcelona 1992,Athletics,50km walk men
+3,EUN,valery spitsyn,03:54:39.000,Barcelona 1992,Athletics,50km walk men
+4,TCH,roman mrazek,03:55:21.000,Barcelona 1992,Athletics,50km walk men
+5,GER,hartwig gauder,03:56:47.000,Barcelona 1992,Athletics,50km walk men
+6,FIN,valentin kononen,03:57:21.000,Barcelona 1992,Athletics,50km walk men
+7,MEX,miguel angel rodriguez,03:58:26.000,Barcelona 1992,Athletics,50km walk men
+8,ESP,jose marin sospedra,03:58:41.000,Barcelona 1992,Athletics,50km walk men
+9,ESP,jesus angel garcia,03:58:43.000,Barcelona 1992,Athletics,50km walk men
+10,SWE,stefan johansson,03:58:56.000,Barcelona 1992,Athletics,50km walk men
+11,ITA,giuseppe de gaetano,03:59:13.000,Barcelona 1992,Athletics,50km walk men
+12,ITA,massimo quiriconi,04:00:28.000,Barcelona 1992,Athletics,50km walk men
+13,ESP,jaime barroso,04:02:08.000,Barcelona 1992,Athletics,50km walk men
+14,FRA,rene piller,04:02:40.000,Barcelona 1992,Athletics,50km walk men
+15,FRA,alain lemercier,04:06:31.000,Barcelona 1992,Athletics,50km walk men
+16,FRA,martial fesselier,04:07:30.000,Barcelona 1992,Athletics,50km walk men
+17,JPN,fumio imamura,04:07:45.000,Barcelona 1992,Athletics,50km walk men
+18,AUS,simon baker,04:08:11.000,Barcelona 1992,Athletics,50km walk men
+19,SUI,pascal charriere,04:08:32.000,Barcelona 1992,Athletics,50km walk men
+20,GBR,leslie morton,04:09:34.000,Barcelona 1992,Athletics,50km walk men
+21,JPN,takehiro sonohara,04:13:22.000,Barcelona 1992,Athletics,50km walk men
+22,USA,carl francis schueler,04:13:38.000,Barcelona 1992,Athletics,50km walk men
+23,JPN,tadahiro kosaka,04:14:24.000,Barcelona 1992,Athletics,50km walk men
+24,POR,jose urbano,04:16:31.000,Barcelona 1992,Athletics,50km walk men
+25,AUT,stefan wögerbauer,04:17:25.000,Barcelona 1992,Athletics,50km walk men
+26,TCH,pavel szikora,04:17:49.000,Barcelona 1992,Athletics,50km walk men
+27,POR,jose magalhaes,04:20:12.000,Barcelona 1992,Athletics,50km walk men
+28,TCH,pavel blazek,04:22:33.000,Barcelona 1992,Athletics,50km walk men
+29,GBR,paul blagg,04:23:10.000,Barcelona 1992,Athletics,50km walk men
+30,NED,harold van beek,04:24:28.000,Barcelona 1992,Athletics,50km walk men
+31,USA,herman nelson,04:25:48.000,Barcelona 1992,Athletics,50km walk men
+32,ITA,giovanni perricelli,Did not finish,Barcelona 1992,Athletics,50km walk men
+33,SUI,aldo bertoldi,Did not finish,Barcelona 1992,Athletics,50km walk men
+34,USA,marco ray evoniuk,Did not finish,Barcelona 1992,Athletics,50km walk men
+35,POL,robert korzeniowski,Disqualified,Barcelona 1992,Athletics,50km walk men
+36,CAN,guillaume leblanc,Disqualified,Barcelona 1992,Athletics,50km walk men
+37,MEX,german sanchez,Disqualified,Barcelona 1992,Athletics,50km walk men
+38,CAN,tim berrett,Disqualified,Barcelona 1992,Athletics,50km walk men
+39,BEL,godfried de jonckheere,Disqualified,Barcelona 1992,Athletics,50km walk men
+40,POR,jose pinto,Disqualified,Barcelona 1992,Athletics,50km walk men
+41,EUN,aleksandr potashev,Disqualified,Barcelona 1992,Athletics,50km walk men
+0,KEN,william tanui,00:01:43.660,Barcelona 1992,Athletics,800m men
+1,KEN,nixon kiprotich,00:01:43.700,Barcelona 1992,Athletics,800m men
+2,USA,johnny lee jr gray,00:01:43.970,Barcelona 1992,Athletics,800m men
+3,BRA,jose luiz barbosa,00:01:45.060,Barcelona 1992,Athletics,800m men
+4,ITA,andrea benvenuti,00:01:45.230,Barcelona 1992,Athletics,800m men
+5,GBR,curtis alexander robb,00:01:45.570,Barcelona 1992,Athletics,800m men
+6,ALG,reda abdenouz,00:01:48.340,Barcelona 1992,Athletics,800m men
+7,USA,mark everett,Did not finish,Barcelona 1992,Athletics,800m men
+8,POL,piotr piekarski,,Barcelona 1992,Athletics,800m men
+9,BEN,idrissou tamimou,,Barcelona 1992,Athletics,800m men
+10,BIZ,john maurice palacio,,Barcelona 1992,Athletics,800m men
+11,GAM,momodov bello n'jie,Did not start,Barcelona 1992,Athletics,800m men
+12,ITA,giuseppe d'urso,Did not start,Barcelona 1992,Athletics,800m men
+0,NED,ellen van langen,00:01:55.540,Barcelona 1992,Athletics,800m women
+1,EUN,lilia nurutdinova,00:01:55.990,Barcelona 1992,Athletics,800m women
+2,CUB,ana fidelia quirot,00:01:56.800,Barcelona 1992,Athletics,800m women
+3,EUN,inna evseeva,00:01:57.200,Barcelona 1992,Athletics,800m women
+4,MOZ,maria mutola,00:01:57.490,Barcelona 1992,Athletics,800m women
+5,ROU,ella kovacs,00:01:57.950,Barcelona 1992,Athletics,800m women
+6,USA,joetta clark,00:01:58.060,Barcelona 1992,Athletics,800m women
+7,EUN,lyubov gurina,00:01:58.130,Barcelona 1992,Athletics,800m women
+8,CHA,rosalie baguepeng gangue,,Barcelona 1992,Athletics,800m women
+9,MLT,carol galea,,Barcelona 1992,Athletics,800m women
+0,TCH,robert zmelik,8611,Barcelona 1992,Athletics,decathlon men
+1,ESP,antonio penalver asensio,8412,Barcelona 1992,Athletics,decathlon men
+2,USA,dave johnson,8309,Barcelona 1992,Athletics,decathlon men
+3,HUN,dezso szabo,8199,Barcelona 1992,Athletics,decathlon men
+4,USA,robert stanley muzzio,8195,Barcelona 1992,Athletics,decathlon men
+5,GER,paul meier,8192,Barcelona 1992,Athletics,decathlon men
+6,FRA,william motti,8164,Barcelona 1992,Athletics,decathlon men
+7,EUN,ramil ganiyev,8160,Barcelona 1992,Athletics,decathlon men
+8,SWE,sten ekberg,8136,Barcelona 1992,Athletics,decathlon men
+9,NED,robert de wit,8109,Barcelona 1992,Athletics,decathlon men
+10,AUT,gernot kellermayr,8076,Barcelona 1992,Athletics,decathlon men
+11,EUN,viktor radchenko,8071,Barcelona 1992,Athletics,decathlon men
+12,GER,frank müller,8066,Barcelona 1992,Athletics,decathlon men
+13,EST,andrey nazarov,8052,Barcelona 1992,Athletics,decathlon men
+14,FRA,alain blondel,8031,Barcelona 1992,Athletics,decathlon men
+15,ESP,alvaro burrell bustos,7952,Barcelona 1992,Athletics,decathlon men
+16,GER,thorsten dauth,7951,Barcelona 1992,Athletics,decathlon men
+17,GBR,david bigham,7754,Barcelona 1992,Athletics,decathlon men
+18,AUS,dean bryan smith,7703,Barcelona 1992,Athletics,decathlon men
+19,HUN,sandor munkacsy,7698,Barcelona 1992,Athletics,decathlon men
+20,SUI,beat gahwiler,7676,Barcelona 1992,Athletics,decathlon men
+21,ESP,francisco javier benet,7484,Barcelona 1992,Athletics,decathlon men
+22,TUR,alper kasapoglu,7205,Barcelona 1992,Athletics,decathlon men
+23,FIJ,albert barry miller,6971,Barcelona 1992,Athletics,decathlon men
+24,PNG,erich momberger,6780,Barcelona 1992,Athletics,decathlon men
+25,TGA,homelo vi,6768,Barcelona 1992,Athletics,decathlon men
+26,UAE,ibrahim al matrooshi,6124,Barcelona 1992,Athletics,decathlon men
+27,HON,jorge a. flores maradiaga,5746,Barcelona 1992,Athletics,decathlon men
+28,EST,erki nool,Did not finish,Barcelona 1992,Athletics,decathlon men
+29,BRA,pedro da silva filho,Did not finish,Barcelona 1992,Athletics,decathlon men
+30,USA,aric s. long,Did not finish,Barcelona 1992,Athletics,decathlon men
+31,CAN,michael cameron smith,Did not finish,Barcelona 1992,Athletics,decathlon men
+32,FRA,christian plaziat,Did not finish,Barcelona 1992,Athletics,decathlon men
+33,EUN,eduard hamalainen,Did not finish,Barcelona 1992,Athletics,decathlon men
+34,FIN,petri juhani keskitalo,Did not finish,Barcelona 1992,Athletics,decathlon men
+35,NZL,simon roderick poelman,Did not finish,Barcelona 1992,Athletics,decathlon men
+0,LTU,romas ubartas,65.12,Barcelona 1992,Athletics,discus throw men
+1,GER,jürgen schult,64.94,Barcelona 1992,Athletics,discus throw men
+2,CUB,roberto s. moya,64.12,Barcelona 1992,Athletics,discus throw men
+3,ROU,costel grasu,62.86,Barcelona 1992,Athletics,discus throw men
+4,HUN,attila horvath,62.82,Barcelona 1992,Athletics,discus throw men
+5,CUB,juan martínez,62.64,Barcelona 1992,Athletics,discus throw men
+6,EUN,dmitry kovtsun,62.04,Barcelona 1992,Athletics,discus throw men
+7,EUN,dmitriy shevchenko,61.78,Barcelona 1992,Athletics,discus throw men
+8,ESP,david martinez,60.16,Barcelona 1992,Athletics,discus throw men
+9,AUS,werner reiterer,60.12,Barcelona 1992,Athletics,discus throw men
+10,ISL,vesteinn hafsteinsson,60.06,Barcelona 1992,Athletics,discus throw men
+11,USA,tony washington,59.96,Barcelona 1992,Athletics,discus throw men
+12,ITA,luciano zerbini,,Barcelona 1992,Athletics,discus throw men
+0,CUB,maritza marten,70.06,Barcelona 1992,Athletics,discus throw women
+1,BUL,tzvetanka pavlova khristova,67.78,Barcelona 1992,Athletics,discus throw women
+2,AUS,daniela costian,66.24,Barcelona 1992,Athletics,discus throw women
+3,EUN,larisa korotkevich,65.52,Barcelona 1992,Athletics,discus throw women
+4,EUN,olga chernyavskaya,64.02,Barcelona 1992,Athletics,discus throw women
+5,CUB,hilda elisa ramos manez,63.8,Barcelona 1992,Athletics,discus throw women
+6,EUN,iryna yatchenko,63.74,Barcelona 1992,Athletics,discus throw women
+7,BUL,stefania svetoslavova simova,63.42,Barcelona 1992,Athletics,discus throw women
+8,GER,ilke wyludda,62.16,Barcelona 1992,Athletics,discus throw women
+9,ITA,agnese maffeis,61.22,Barcelona 1992,Athletics,discus throw women
+10,CHN,chunfeng min,60.82,Barcelona 1992,Athletics,discus throw women
+11,GER,franka dietzsch,60.24,Barcelona 1992,Athletics,discus throw women
+0,EUN,andrey abduvaliev,82.54,Barcelona 1992,Athletics,hammer throw men
+1,EUN,igor astapkovich,81.96,Barcelona 1992,Athletics,hammer throw men
+2,EUN,igor nikouline,81.38,Barcelona 1992,Athletics,hammer throw men
+3,HUN,tibor gecsek,77.78,Barcelona 1992,Athletics,hammer throw men
+4,EST,juri augustovitch tamm,77.52,Barcelona 1992,Athletics,hammer throw men
+5,GER,heinrich weis,76.9,Barcelona 1992,Athletics,hammer throw men
+6,USA,lance earl deal,76.84,Barcelona 1992,Athletics,hammer throw men
+7,AUS,sean carlin,76.16,Barcelona 1992,Athletics,hammer throw men
+8,AUT,johann lindner,75.14,Barcelona 1992,Athletics,hammer throw men
+9,FRA,christophe epalle,74.84,Barcelona 1992,Athletics,hammer throw men
+10,ITA,enrico sgrulletti,72.98,Barcelona 1992,Athletics,hammer throw men
+11,USA,jud logan,Disqualified,Barcelona 1992,Athletics,hammer throw men
+0,USA,jackie joyner-kersee,7044,Barcelona 1992,Athletics,heptathlon women
+1,EUN,irina belova,6845,Barcelona 1992,Athletics,heptathlon women
+2,GER,sabine braun,6649,Barcelona 1992,Athletics,heptathlon women
+3,ROU,liliana nastase,6619,Barcelona 1992,Athletics,heptathlon women
+4,BUL,svetla pishtikova,6464,Barcelona 1992,Athletics,heptathlon women
+5,GER,peggy beer,6434,Barcelona 1992,Athletics,heptathlon women
+6,GER,birgit clarius,6388,Barcelona 1992,Athletics,heptathlon women
+7,POL,urszula wlodarczyk,6333,Barcelona 1992,Athletics,heptathlon women
+8,USA,cindy greiner,6300,Barcelona 1992,Athletics,heptathlon women
+9,POL,maria kamrowska,6263,Barcelona 1992,Athletics,heptathlon women
+10,USA,kym carter,6256,Barcelona 1992,Athletics,heptathlon women
+11,EUN,anzhela atroshchenko,6251,Barcelona 1992,Athletics,heptathlon women
+12,ROU,petra vaidianu,6152,Barcelona 1992,Athletics,heptathlon women
+13,LTU,remigija nazaroviene,6142,Barcelona 1992,Athletics,heptathlon women
+14,FRA,odile lesage,6141,Barcelona 1992,Athletics,heptathlon women
+15,CHN,yuqing zhu,6123,Barcelona 1992,Athletics,heptathlon women
+16,EST,anu kaljurand,6095,Barcelona 1992,Athletics,heptathlon women
+17,FIN,helle aro,6030,Barcelona 1992,Athletics,heptathlon women
+18,GBR,clova court,5994,Barcelona 1992,Athletics,heptathlon women
+19,FIN,tina maria rattya,5993,Barcelona 1992,Athletics,heptathlon women
+20,CAN,catherine bond-mills,5897,Barcelona 1992,Athletics,heptathlon women
+21,NOR,anne brit skjaeveland,5869,Barcelona 1992,Athletics,heptathlon women
+22,FRA,nathalie teppe,5847,Barcelona 1992,Athletics,heptathlon women
+23,LIE,manuela marxer,5749,Barcelona 1992,Athletics,heptathlon women
+24,SYR,ghada shouaa,5278,Barcelona 1992,Athletics,heptathlon women
+25,SLE,eunice barber,4530,Barcelona 1992,Athletics,heptathlon women
+26,ALB,alma qeramixhi,Did not finish,Barcelona 1992,Athletics,heptathlon women
+27,TPE,chun-ping ma,Did not finish,Barcelona 1992,Athletics,heptathlon women
+28,HUN,rita inancsi,Did not finish,Barcelona 1992,Athletics,heptathlon women
+29,FIN,satu marianne ruotsalainen,Did not finish,Barcelona 1992,Athletics,heptathlon women
+30,NZL,joanne carol henry,Did not finish,Barcelona 1992,Athletics,heptathlon women
+31,AUS,jane christina flemming,Did not finish,Barcelona 1992,Athletics,heptathlon women
+32,ALG,yasmina azizi,Did not start,Barcelona 1992,Athletics,heptathlon women
+0,CUB,javier sotomayor,2.34,Barcelona 1992,Athletics,high jump men
+1,SWE,patrick sjöberg,2.34,Barcelona 1992,Athletics,high jump men
+2,AUS,timothy forsyth,2.34,Barcelona 1992,Athletics,high jump men
+3,POL,artur partyka,2.34,Barcelona 1992,Athletics,high jump men
+4,USA,hollis conway,2.34,Barcelona 1992,Athletics,high jump men
+5,GER,ralf sonn,2.31,Barcelona 1992,Athletics,high jump men
+6,BAH,troy kemp,2.31,Barcelona 1992,Athletics,high jump men
+7,CUB,marino rafael drake rodriguez,2.28,Barcelona 1992,Athletics,high jump men
+8,IOA,dragutin topic,2.28,Barcelona 1992,Athletics,high jump men
+9,USA,charles austin,2.28,Barcelona 1992,Athletics,high jump men
+10,ESP,gustavo adolfo becquer,2.28,Barcelona 1992,Athletics,high jump men
+11,GBR,stephen james smith,2.24,Barcelona 1992,Athletics,high jump men
+12,ROU,sorin matei,2.24,Barcelona 1992,Athletics,high jump men
+13,BUL,gueorgui kroumov dakov,2.24,Barcelona 1992,Athletics,high jump men
+14,BER,clarence nicholas saunders,,Barcelona 1992,Athletics,high jump men
+0,GER,heike henkel,2.02,Barcelona 1992,Athletics,high jump women
+1,ROU,alina astafei,2,Barcelona 1992,Athletics,high jump women
+2,CUB,ioamnet quintero,1.97,Barcelona 1992,Athletics,high jump women
+3,BUL,stefka kostadinova,1.94,Barcelona 1992,Athletics,high jump women
+4,AUT,sigrid kirchmann,1.94,Barcelona 1992,Athletics,high jump women
+5,CUB,silvia costa acosta,1.94,Barcelona 1992,Athletics,high jump women
+6,JPN,megumi sato,1.91,Barcelona 1992,Athletics,high jump women
+7,AUS,alison inverarity,1.91,Barcelona 1992,Athletics,high jump women
+8,GBR,debbie marti,1.91,Barcelona 1992,Athletics,high jump women
+9,POL,donata jancewicz,1.88,Barcelona 1992,Athletics,high jump women
+10,GER,birgit kähler,1.88,Barcelona 1992,Athletics,high jump women
+11,USA,tanya hughes,1.88,Barcelona 1992,Athletics,high jump women
+12,EUN,olga turchak,1.83,Barcelona 1992,Athletics,high jump women
+13,LAT,valentina gotovska,1.83,Barcelona 1992,Athletics,high jump women
+14,SLO,britta bilac,1.83,Barcelona 1992,Athletics,high jump women
+15,EUN,tatiana shevchik,1.83,Barcelona 1992,Athletics,high jump women
+16,SRI,m.a.sriyani kulawansa,Did not start,Barcelona 1992,Athletics,high jump women
+0,TCH,jan železný,89.66,Barcelona 1992,Athletics,javelin throw men
+1,FIN,seppo henrik raty,86.6,Barcelona 1992,Athletics,javelin throw men
+2,GBR,steve backley,83.38,Barcelona 1992,Athletics,javelin throw men
+3,FIN,kimmo paavali kinnunen,82.62,Barcelona 1992,Athletics,javelin throw men
+4,ISL,sigurdur einarsson,80.34,Barcelona 1992,Athletics,javelin throw men
+5,FIN,juha lauri laukkanen,79.2,Barcelona 1992,Athletics,javelin throw men
+6,USA,michael h. barnett,78.64,Barcelona 1992,Athletics,javelin throw men
+7,EUN,andrey shevchuk,77.74,Barcelona 1992,Athletics,javelin throw men
+8,NZL,gavin brian lovegrove,77.08,Barcelona 1992,Athletics,javelin throw men
+9,USA,thomas pukstys,76.72,Barcelona 1992,Athletics,javelin throw men
+10,GBR,michael christopher hill,75.5,Barcelona 1992,Athletics,javelin throw men
+11,GER,volker hadwich,75.28,Barcelona 1992,Athletics,javelin throw men
+12,KUW,ghanem zaid,,Barcelona 1992,Athletics,javelin throw men
+0,GER,silke renk,68.34,Barcelona 1992,Athletics,javelin throw women
+1,EUN,natalia shikolenko,68.26,Barcelona 1992,Athletics,javelin throw women
+2,GER,karen forkel,66.86,Barcelona 1992,Athletics,javelin throw women
+3,GBR,teresa sanderson,63.58,Barcelona 1992,Athletics,javelin throw women
+4,NOR,trine hattestad,63.54,Barcelona 1992,Athletics,javelin throw women
+5,FIN,heli orvokki rantanen,62.34,Barcelona 1992,Athletics,javelin throw women
+6,GER,petra felke-meier,59.02,Barcelona 1992,Athletics,javelin throw women
+7,CUB,dulce margarita garcia gil,58.26,Barcelona 1992,Athletics,javelin throw women
+8,EUN,yelena svezhentseva,57.32,Barcelona 1992,Athletics,javelin throw women
+9,HUN,kinga zsigmond,56.54,Barcelona 1992,Athletics,javelin throw women
+10,AUS,louise mcpaul,56,Barcelona 1992,Athletics,javelin throw women
+11,USA,donna lee mayhew,55.68,Barcelona 1992,Athletics,javelin throw women
+12,FIN,paivi jaana maarit alafrantti,,Barcelona 1992,Athletics,javelin throw women
+0,USA,carl lewis,8.67,Barcelona 1992,Athletics,long jump men
+1,USA,michael anthony powell,8.64,Barcelona 1992,Athletics,long jump men
+2,USA,joe greene,8.34,Barcelona 1992,Athletics,long jump men
+3,CUB,ivan pedroso,8.11,Barcelona 1992,Athletics,long jump men
+4,CUB,jaime jefferson,8.08,Barcelona 1992,Athletics,long jump men
+5,GRE,konstantinos koukodimos,8.04,Barcelona 1992,Athletics,long jump men
+6,EUN,dmitry bagryanov,7.98,Barcelona 1992,Athletics,long jump men
+7,CHN,geng huang,7.87,Barcelona 1992,Athletics,long jump men
+8,SLO,borut bilac,7.76,Barcelona 1992,Athletics,long jump men
+9,CHN,zunrong chen,7.75,Barcelona 1992,Athletics,long jump men
+10,AUS,david culbert,7.73,Barcelona 1992,Athletics,long jump men
+11,ROU,bogdan tudor,7.61,Barcelona 1992,Athletics,long jump men
+12,ESP,angel hernandez yañez,,Barcelona 1992,Athletics,long jump men
+13,GUI,soryba diakite,,Barcelona 1992,Athletics,long jump men
+14,ITA,giovanni evangelisti,,Barcelona 1992,Athletics,long jump men
+15,SWZ,sizwe mdluli,,Barcelona 1992,Athletics,long jump men
+16,SEN,badara mbengue,Did not start,Barcelona 1992,Athletics,long jump men
+17,UAE,musabeh al-hadhrami,Did not start,Barcelona 1992,Athletics,long jump men
+18,ANG,afonso ferraz,Did not start,Barcelona 1992,Athletics,long jump men
+0,GER,heike drechsler,7.14,Barcelona 1992,Athletics,long jump women
+1,EUN,inessa kravets,7.12,Barcelona 1992,Athletics,long jump women
+2,USA,jackie joyner-kersee,7.07,Barcelona 1992,Athletics,long jump women
+3,ROU,mirela dulgheru,6.71,Barcelona 1992,Athletics,long jump women
+4,EUN,irina muchailova,6.68,Barcelona 1992,Athletics,long jump women
+5,USA,sharon couch,6.66,Barcelona 1992,Athletics,long jump women
+6,USA,sheila echols,6.62,Barcelona 1992,Athletics,long jump women
+7,GER,susen tiedtke,6.6,Barcelona 1992,Athletics,long jump women
+8,ISV,flora hyacinth,6.52,Barcelona 1992,Athletics,long jump women
+9,POL,agata karczmarek,6.41,Barcelona 1992,Athletics,long jump women
+10,DEN,renata nielsen,6.06,Barcelona 1992,Athletics,long jump women
+11,AUS,nicole boegman,,Barcelona 1992,Athletics,long jump women
+12,EUN,larisa berezhnaya,,Barcelona 1992,Athletics,long jump women
+13,GBR,fiona may,,Barcelona 1992,Athletics,long jump women
+14,HUN,rita inancsi,,Barcelona 1992,Athletics,long jump women
+15,JAM,diane claire guthrie-gresham,,Barcelona 1992,Athletics,long jump women
+16,LTU,nijole medvedeva,Disqualified,Barcelona 1992,Athletics,long jump women
+17,COD,muyegbe mubala,Did not start,Barcelona 1992,Athletics,long jump women
+0,KOR,young-cho hwang,02:13:23.000,Barcelona 1992,Athletics,marathon men
+1,JPN,koichi morishita,02:13:45.000,Barcelona 1992,Athletics,marathon men
+2,GER,stephan timo freigang,02:14:00.000,Barcelona 1992,Athletics,marathon men
+3,JPN,takeyuki nakayama,02:14:02.000,Barcelona 1992,Athletics,marathon men
+4,ITA,salvatore bettiol,02:14:15.000,Barcelona 1992,Athletics,marathon men
+5,MAR,salah kokaich,02:14:25.000,Barcelona 1992,Athletics,marathon men
+6,POL,jan huruk,02:14:32.000,Barcelona 1992,Athletics,marathon men
+7,JPN,hiromi taniguchi,02:14:42.000,Barcelona 1992,Athletics,marathon men
+8,ESP,diego garcia,02:14:56.000,Barcelona 1992,Athletics,marathon men
+9,KOR,jae-yong kim,02:15:01.000,Barcelona 1992,Athletics,marathon men
+10,FIN,harri johannes hanninen,02:15:19.000,Barcelona 1992,Athletics,marathon men
+11,USA,steven anthony spence,02:15:21.000,Barcelona 1992,Athletics,marathon men
+12,USA,ed eyestone,02:15:23.000,Barcelona 1992,Athletics,marathon men
+13,KEN,boniface merande,02:15:46.000,Barcelona 1992,Athletics,marathon men
+14,NED,albert van vlaanderen,02:15:47.000,Barcelona 1992,Athletics,marathon men
+15,NZL,rex albert wilson,02:15:51.000,Barcelona 1992,Athletics,marathon men
+16,USA,robert kempainen,02:15:53.000,Barcelona 1992,Athletics,marathon men
+17,ESP,rodrigo gavela rodriguez,02:16:23.000,Barcelona 1992,Athletics,marathon men
+18,TCH,karel david,02:16:34.000,Barcelona 1992,Athletics,marathon men
+19,POL,leszek beblo,02:16:38.000,Barcelona 1992,Athletics,marathon men
+20,POL,wieslaw perszke,02:16:38.000,Barcelona 1992,Athletics,marathon men
+21,EUN,iakov tolstikov,02:17:04.000,Barcelona 1992,Athletics,marathon men
+22,ETH,tena megere,02:17:07.000,Barcelona 1992,Athletics,marathon men
+23,BRA,osmiro de souza silva,02:17:16.000,Barcelona 1992,Athletics,marathon men
+24,RSA,abel mokibe,02:17:24.000,Barcelona 1992,Athletics,marathon men
+25,AUS,rob de castella,02:17:44.000,Barcelona 1992,Athletics,marathon men
+26,GBR,steve brace,02:17:49.000,Barcelona 1992,Athletics,marathon men
+27,KOR,wan-ki kim,02:18:32.000,Barcelona 1992,Athletics,marathon men
+28,MEX,jose isidro rico rangel,02:18:52.000,Barcelona 1992,Athletics,marathon men
+29,DJI,hussein ahmed salah,02:19:04.000,Barcelona 1992,Athletics,marathon men
+30,FRA,dominique chauvelier,02:19:09.000,Barcelona 1992,Athletics,marathon men
+31,ESP,jose esteban montiel gomez,02:19:15.000,Barcelona 1992,Athletics,marathon men
+32,LES,thabiso paul moqhali,02:19:28.000,Barcelona 1992,Athletics,marathon men
+33,TAN,juma ikangaa,02:19:34.000,Barcelona 1992,Athletics,marathon men
+34,NZL,derek froude,02:19:37.000,Barcelona 1992,Athletics,marathon men
+35,KEN,douglas wakiihuri,02:19:38.000,Barcelona 1992,Athletics,marathon men
+36,KEN,ibrahim hussein,02:19:49.000,Barcelona 1992,Athletics,marathon men
+37,HUN,gyula borka,02:20:46.000,Barcelona 1992,Athletics,marathon men
+38,GBR,david long,02:20:51.000,Barcelona 1992,Athletics,marathon men
+39,SLO,miroslav vindis,02:21:03.000,Barcelona 1992,Athletics,marathon men
+40,GBR,paul davies-hale,02:21:15.000,Barcelona 1992,Athletics,marathon men
+41,SWZ,elphas ginindza,02:21:15.000,Barcelona 1992,Athletics,marathon men
+42,ECU,rolando vera,02:21:30.000,Barcelona 1992,Athletics,marathon men
+43,ITA,alessio faustini,02:21:37.000,Barcelona 1992,Athletics,marathon men
+44,FRA,luis soares,02:21:57.000,Barcelona 1992,Athletics,marathon men
+45,CMR,paul kuete,02:22:43.000,Barcelona 1992,Athletics,marathon men
+46,AUT,helmut schmuck,02:23:38.000,Barcelona 1992,Athletics,marathon men
+47,AUS,stephen moneghetti,02:23:42.000,Barcelona 1992,Athletics,marathon men
+48,GER,konrad waldemar dobler,02:23:44.000,Barcelona 1992,Athletics,marathon men
+49,COD,willy kalombo,02:23:47.000,Barcelona 1992,Athletics,marathon men
+50,IRL,john treacy,02:24:11.000,Barcelona 1992,Athletics,marathon men
+51,PHI,herman suizo,02:25:18.000,Barcelona 1992,Athletics,marathon men
+52,ARU,kimball peter reynierse,02:25:31.000,Barcelona 1992,Athletics,marathon men
+53,URU,nelson e. zamora villalba,02:25:32.000,Barcelona 1992,Athletics,marathon men
+54,SUI,daniel boltz,02:25:50.000,Barcelona 1992,Athletics,marathon men
+55,BRA,joseildo rocha da silva,02:26:00.000,Barcelona 1992,Athletics,marathon men
+56,BOL,juan rodrigo camacho,02:26:01.000,Barcelona 1992,Athletics,marathon men
+57,ZIM,cephas matafi,02:26:17.000,Barcelona 1992,Athletics,marathon men
+58,ALG,mohamed salmi,02:26:56.000,Barcelona 1992,Athletics,marathon men
+59,RWA,ildephonse sehirwa,02:27:44.000,Barcelona 1992,Athletics,marathon men
+60,ETH,zerehune gizaw,02:28:25.000,Barcelona 1992,Athletics,marathon men
+61,CHI,jaime enrique ojeda paredes,02:28:39.000,Barcelona 1992,Athletics,marathon men
+62,MAW,smartex godfrey tambala,02:29:02.000,Barcelona 1992,Athletics,marathon men
+63,FRA,pascal zilliox,02:30:02.000,Barcelona 1992,Athletics,marathon men
+64,CRC,luis lopez rocer,02:30:26.000,Barcelona 1992,Athletics,marathon men
+65,SMR,gian luigi macina,02:30:45.000,Barcelona 1992,Athletics,marathon men
+66,NIG,abdou manzo,02:31:15.000,Barcelona 1992,Athletics,marathon men
+67,LIE,roland wille,02:31:32.000,Barcelona 1992,Athletics,marathon men
+68,NAM,tuihaleni frank kayele,02:31:41.000,Barcelona 1992,Athletics,marathon men
+69,NEP,haribahadur rokaya,02:32:26.000,Barcelona 1992,Athletics,marathon men
+70,SRI,kuruppu a. karunaratne,02:32:26.000,Barcelona 1992,Athletics,marathon men
+71,IRL,thomas joseph hughes,02:32:55.000,Barcelona 1992,Athletics,marathon men
+72,NCA,william aguirre,02:34:18.000,Barcelona 1992,Athletics,marathon men
+73,CAF,ferdinand amadi,02:35:39.000,Barcelona 1992,Athletics,marathon men
+74,LBA,mohamed khamis taher,02:35:46.000,Barcelona 1992,Athletics,marathon men
+75,HAI,dieudonne lamothe,02:36:11.000,Barcelona 1992,Athletics,marathon men
+76,MYA,myint kan,02:37:39.000,Barcelona 1992,Athletics,marathon men
+77,ISV,calvin dallas,02:38:11.000,Barcelona 1992,Athletics,marathon men
+78,BRN,saad mubarak ali ali,02:39:19.000,Barcelona 1992,Athletics,marathon men
+79,PRK,okhyon ryu,02:40:51.000,Barcelona 1992,Athletics,marathon men
+80,MAD,alain clerk razahasoa,02:41:41.000,Barcelona 1992,Athletics,marathon men
+81,UGA,michael lopeyok,02:42:54.000,Barcelona 1992,Athletics,marathon men
+82,BOT,benjamin keleketu,02:45:57.000,Barcelona 1992,Athletics,marathon men
+83,SYR,moussa alhariri,02:47:06.000,Barcelona 1992,Athletics,marathon men
+84,VIE,văn hùng lưu,02:56:42.000,Barcelona 1992,Athletics,marathon men
+85,MDV,hussein haleem,03:04:16.000,Barcelona 1992,Athletics,marathon men
+86,MGL,tuul pyambuugiin,04:00:44.000,Barcelona 1992,Athletics,marathon men
+87,DJI,talan omar abdillahi,Did not finish,Barcelona 1992,Athletics,marathon men
+88,HON,polin belisle,Did not finish,Barcelona 1992,Athletics,marathon men
+89,ITA,gelindo bordin,Did not finish,Barcelona 1992,Athletics,marathon men
+90,TAN,john burra,Did not finish,Barcelona 1992,Athletics,marathon men
+91,POR,dionisio castro,Did not finish,Barcelona 1992,Athletics,marathon men
+92,MEX,dionicio ceron,Did not finish,Barcelona 1992,Athletics,marathon men
+93,CUB,ignacio alberto cuba carrero,Did not finish,Barcelona 1992,Athletics,marathon men
+94,NED,tonnie dirks,Did not finish,Barcelona 1992,Athletics,marathon men
+95,BRA,diamantino dos santos,Did not finish,Barcelona 1992,Athletics,marathon men
+96,PUR,jorge gonzalez rivera,Did not finish,Barcelona 1992,Athletics,marathon men
+97,CAN,peter kevin maher,Did not finish,Barcelona 1992,Athletics,marathon men
+98,ETH,abebe mekonnen,Did not finish,Barcelona 1992,Athletics,marathon men
+99,MTN,mohamed ould khalifa,Did not finish,Barcelona 1992,Athletics,marathon men
+100,POR,joaquim pinheiro,Did not finish,Barcelona 1992,Athletics,marathon men
+101,POR,antonio pinto,Did not finish,Barcelona 1992,Athletics,marathon men
+102,FIJ,bineshwar prasad,Did not finish,Barcelona 1992,Athletics,marathon men
+103,COL,carlos mario grisales,Did not finish,Barcelona 1992,Athletics,marathon men
+104,IRL,andrew ronan,Did not finish,Barcelona 1992,Athletics,marathon men
+105,RSA,zithulele sinqe,Did not finish,Barcelona 1992,Athletics,marathon men
+106,NAM,lucketz swartbooi,Did not finish,Barcelona 1992,Athletics,marathon men
+107,HUN,csaba szucs,Did not finish,Barcelona 1992,Athletics,marathon men
+108,TAN,simon robert naali,Did not finish,Barcelona 1992,Athletics,marathon men
+109,RSA,jan tau,Did not finish,Barcelona 1992,Athletics,marathon men
+110,MEX,salvador garcía,Did not start,Barcelona 1992,Athletics,marathon men
+111,EUN,vladimir bukhanov,Did not start,Barcelona 1992,Athletics,marathon men
+0,EUN,valentina yegorova,02:32:41.000,Barcelona 1992,Athletics,marathon women
+1,JPN,yuko arimori,02:32:49.000,Barcelona 1992,Athletics,marathon women
+2,NZL,lorraine mary moller,02:33:59.000,Barcelona 1992,Athletics,marathon women
+3,JPN,sachiko yamashita,02:36:26.000,Barcelona 1992,Athletics,marathon women
+4,GER,katrin dörre,02:36:48.000,Barcelona 1992,Athletics,marathon women
+5,PRK,gyong-ae mun,02:37:03.000,Barcelona 1992,Athletics,marathon women
+6,POR,manuela machado,02:38:22.000,Barcelona 1992,Athletics,marathon women
+7,EUN,ramilia burangulova,02:38:46.000,Barcelona 1992,Athletics,marathon women
+8,RSA,colleen de reuck,02:39:03.000,Barcelona 1992,Athletics,marathon women
+9,USA,cathy o'brien,02:39:42.000,Barcelona 1992,Athletics,marathon women
+10,HUN,karolina szabo,02:40:10.000,Barcelona 1992,Athletics,marathon women
+11,USA,francie larrieu-smith,02:41:09.000,Barcelona 1992,Athletics,marathon women
+12,GBR,sally rose eastall,02:41:20.000,Barcelona 1992,Athletics,marathon women
+13,FIN,ritva k. lemettinen,02:41:48.000,Barcelona 1992,Athletics,marathon women
+14,GER,birgit jerschabek,02:42:45.000,Barcelona 1992,Athletics,marathon women
+15,GBR,marie antoinette marot,02:42:55.000,Barcelona 1992,Athletics,marathon women
+16,BRA,marcia narloch,02:44:32.000,Barcelona 1992,Athletics,marathon women
+17,ITA,emma scaunich,02:46:14.000,Barcelona 1992,Athletics,marathon women
+18,CAN,odette lapierre,02:46:18.000,Barcelona 1992,Athletics,marathon women
+19,ITA,anna villani,02:46:44.000,Barcelona 1992,Athletics,marathon women
+20,USA,janis klecker,02:47:17.000,Barcelona 1992,Athletics,marathon women
+21,POL,wanda panfil,02:47:27.000,Barcelona 1992,Athletics,marathon women
+22,ITA,bettina sabatini,02:50:09.000,Barcelona 1992,Athletics,marathon women
+23,TCH,alena peterkova,02:53:30.000,Barcelona 1992,Athletics,marathon women
+24,KOR,mi-ok lee,02:54:21.000,Barcelona 1992,Athletics,marathon women
+25,POL,malgorzata birbach,02:54:33.000,Barcelona 1992,Athletics,marathon women
+26,GBR,sally ellis,02:54:41.000,Barcelona 1992,Athletics,marathon women
+27,KEN,pascaline wangui,02:56:46.000,Barcelona 1992,Athletics,marathon women
+28,JPN,yumi kokamo,02:58:18.000,Barcelona 1992,Athletics,marathon women
+29,ETH,addis gezahegn,02:58:57.000,Barcelona 1992,Athletics,marathon women
+30,BRA,janete mayal,03:00:23.000,Barcelona 1992,Athletics,marathon women
+31,ROU,elena murgoci,03:01:46.000,Barcelona 1992,Athletics,marathon women
+32,CRC,vilma pena sanchez,03:03:34.000,Barcelona 1992,Athletics,marathon women
+33,PER,ena guevara,03:05:50.000,Barcelona 1992,Athletics,marathon women
+34,ISV,ana gutierrez wittmann,03:14:02.000,Barcelona 1992,Athletics,marathon women
+35,GUM,jen allred,03:14:45.000,Barcelona 1992,Athletics,marathon women
+36,COD,christine bakombo,03:29:10.000,Barcelona 1992,Athletics,marathon women
+37,FRA,maria lelut-rebelo,Did not finish,Barcelona 1992,Athletics,marathon women
+38,AUS,lisa martin-ondieki-o'dea,Did not finish,Barcelona 1992,Athletics,marathon women
+39,VIE,thị tèo đặng,Did not finish,Barcelona 1992,Athletics,marathon women
+40,MEX,olga appell,Did not finish,Barcelona 1992,Athletics,marathon women
+41,NZL,marguerite gay buist,Did not finish,Barcelona 1992,Athletics,marathon women
+42,POR,arnaldo cunha,Did not finish,Barcelona 1992,Athletics,marathon women
+43,ARU,cornelia marina melis,Did not finish,Barcelona 1992,Athletics,marathon women
+44,CAN,lizanne bussieres,Did not finish,Barcelona 1992,Athletics,marathon women
+45,SUI,franziska rochat-moser,Did not finish,Barcelona 1992,Athletics,marathon women
+46,EUN,madina biktagirova,Disqualified,Barcelona 1992,Athletics,marathon women
+0,EUN,maksim tarasov,5.8,Barcelona 1992,Athletics,pole vault men
+1,EUN,igor trandenkov,5.8,Barcelona 1992,Athletics,pole vault men
+2,ESP,javier garcia chico,5.75,Barcelona 1992,Athletics,pole vault men
+3,USA,kory merrill tarpenning,5.75,Barcelona 1992,Athletics,pole vault men
+4,USA,david volz,5.65,Barcelona 1992,Athletics,pole vault men
+5,FIN,asko antero peltoniemi,5.6,Barcelona 1992,Athletics,pole vault men
+6,FRA,philippe collet,5.55,Barcelona 1992,Athletics,pole vault men
+7,ISR,evgeny krasnov,5.4,Barcelona 1992,Athletics,pole vault men
+8,HUN,istvan bagyula,5.3,Barcelona 1992,Athletics,pole vault men
+9,ESP,alberto ruiz benito,5.3,Barcelona 1992,Athletics,pole vault men
+10,EUN,sergii bubka,,Barcelona 1992,Athletics,pole vault men
+11,USA,timothy william bright,,Barcelona 1992,Athletics,pole vault men
+12,CHI,tomás riether,,Barcelona 1992,Athletics,pole vault men
+13,JPN,hiroyuki sano,,Barcelona 1992,Athletics,pole vault men
+14,KOR,cheol-gyun kim,,Barcelona 1992,Athletics,pole vault men
+15,LAT,aleksandrs obizajevs,,Barcelona 1992,Athletics,pole vault men
+16,NZL,paul kendall gibbons,,Barcelona 1992,Athletics,pole vault men
+17,AUT,hermann fehringer,Did not start,Barcelona 1992,Athletics,pole vault men
+0,USA,michael d. stulce,21.7,Barcelona 1992,Athletics,shot put men
+1,USA,james doehring,20.96,Barcelona 1992,Athletics,shot put men
+2,EUN,viatcheslav lykho,20.94,Barcelona 1992,Athletics,shot put men
+3,SUI,werner günthör,20.91,Barcelona 1992,Athletics,shot put men
+4,GER,ulf timmermann,20.49,Barcelona 1992,Athletics,shot put men
+5,AUT,klaus bodenmüller,20.48,Barcelona 1992,Athletics,shot put men
+6,IOA,dragan peric,20.32,Barcelona 1992,Athletics,shot put men
+7,EUN,alexander klymenko,20.23,Barcelona 1992,Athletics,shot put men
+8,ITA,luciano zerbini,19.88,Barcelona 1992,Athletics,shot put men
+9,USA,ronald l. backes,19.75,Barcelona 1992,Athletics,shot put men
+10,ITA,alessandro andrei,19.62,Barcelona 1992,Athletics,shot put men
+11,SWE,soren tallhem,19.32,Barcelona 1992,Athletics,shot put men
+12,GER,kalman konya,Did not start,Barcelona 1992,Athletics,shot put men
+0,EUN,svetlana krivelyova,21.06,Barcelona 1992,Athletics,shot put women
+1,CHN,zhihong huang,20.47,Barcelona 1992,Athletics,shot put women
+2,GER,kathrin neimke,19.78,Barcelona 1992,Athletics,shot put women
+3,CUB,belsy laza,19.7,Barcelona 1992,Athletics,shot put women
+4,CHN,tianhua zhou,19.26,Barcelona 1992,Athletics,shot put women
+5,BUL,svetla ivanova mitkova,19.23,Barcelona 1992,Athletics,shot put women
+6,GER,stephanie storp,19.1,Barcelona 1992,Athletics,shot put women
+7,EUN,vita pavlysh,18.69,Barcelona 1992,Athletics,shot put women
+8,EUN,natalya lisovskaya,18.6,Barcelona 1992,Athletics,shot put women
+9,POL,krystyna zabawska,18.29,Barcelona 1992,Athletics,shot put women
+10,USA,ramona pagel,18.24,Barcelona 1992,Athletics,shot put women
+11,CHN,wenhua zhen,17.81,Barcelona 1992,Athletics,shot put women
+12,USA,bonnie dasse,Disqualified,Barcelona 1992,Athletics,shot put women
+0,USA,mike conley,18.17w,Barcelona 1992,Athletics,triple jump men
+1,USA,charles simpkins,17.6,Barcelona 1992,Athletics,triple jump men
+2,BAH,frank rutherford,17.36,Barcelona 1992,Athletics,triple jump men
+3,EUN,leonid voloshin,17.32,Barcelona 1992,Athletics,triple jump men
+4,BER,brian p. wellman,17.24,Barcelona 1992,Athletics,triple jump men
+5,CUB,yoelbi quesada,17.18,Barcelona 1992,Athletics,triple jump men
+6,EUN,alexandre kovalenko,17.06,Barcelona 1992,Athletics,triple jump men
+7,CHN,sixin zou,17,Barcelona 1992,Athletics,triple jump men
+8,EUN,vassili sokov,16.86,Barcelona 1992,Athletics,triple jump men
+9,LAT,maris bruziks,16.8,Barcelona 1992,Athletics,triple jump men
+10,FRA,pierre camara,16.52,Barcelona 1992,Athletics,triple jump men
+11,POL,eugeniusz bedeniczuk,16.23,Barcelona 1992,Athletics,triple jump men
+12,BUL,galin georgiev,,Barcelona 1992,Athletics,triple jump men
+13,CAN,oral mishach ogilvie,,Barcelona 1992,Athletics,triple jump men
+14,GHA,francis dodoo,,Barcelona 1992,Athletics,triple jump men

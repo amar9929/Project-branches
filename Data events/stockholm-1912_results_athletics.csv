@@ -1,0 +1,978 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,ted meredith,00:01:51.900,Stockholm 1912,Athletics,800m men
+1,USA,melvin sheppard,00:01:52.000,Stockholm 1912,Athletics,800m men
+2,USA,ira nelson davenport,00:01:52.000,Stockholm 1912,Athletics,800m men
+3,USA,david story caldwell,1:52.8est,Stockholm 1912,Athletics,800m men
+4,CAN,george melville brock,1:53.0est,Stockholm 1912,Athletics,800m men
+5,GER,hans braun,1:53.0est,Stockholm 1912,Athletics,800m men
+6,USA,clarence sinclair edmundson,,Stockholm 1912,Athletics,800m men
+7,USA,herbert nathan putnam,,Stockholm 1912,Athletics,800m men
+8,GBR,frederick henry hulford,,Stockholm 1912,Athletics,800m men
+9,GBR,james tindal soutter,,Stockholm 1912,Athletics,800m men
+10,GBR,ernest john henley,,Stockholm 1912,Athletics,800m men
+11,POR,armando zusarte cortesao,,Stockholm 1912,Athletics,800m men
+12,SWE,evert björn,,Stockholm 1912,Athletics,800m men
+13,USA,harland ware holden,,Stockholm 1912,Athletics,800m men
+14,CHI,leopoldo e. palmas,,Stockholm 1912,Athletics,800m men
+15,ITA,guido calvi,,Stockholm 1912,Athletics,800m men
+16,GBR,robert burton,,Stockholm 1912,Athletics,800m men
+17,BOH,zdenek mestecky,,Stockholm 1912,Athletics,800m men
+18,GBR,philip john noel-baker,,Stockholm 1912,Athletics,800m men
+19,CHI,federico mueller,,Stockholm 1912,Athletics,800m men
+20,HUN,ferenc forgacz,,Stockholm 1912,Athletics,800m men
+21,RUS,aleksandr yelizarov,,Stockholm 1912,Athletics,800m men
+22,TUR,vahram papazyan,,Stockholm 1912,Athletics,800m men
+23,HUN,janos antal,,Stockholm 1912,Athletics,800m men
+24,GBR,alan patterson,,Stockholm 1912,Athletics,800m men
+25,FIN,lauri pihkala,,Stockholm 1912,Athletics,800m men
+26,HUN,karoly radoczy,,Stockholm 1912,Athletics,800m men
+27,FRA,eugène goriot,Did not start,Stockholm 1912,Athletics,800m men
+28,NOR,erling søiland,Did not start,Stockholm 1912,Athletics,800m men
+29,RUS,naum filimonov,Did not start,Stockholm 1912,Athletics,800m men
+30,AUT,zdzisław latawiec,Did not start,Stockholm 1912,Athletics,800m men
+31,SWE,lennart andrén,Did not start,Stockholm 1912,Athletics,800m men
+32,GBR,james hill,Did not start,Stockholm 1912,Athletics,800m men
+33,FRA,jean etcheparré,Did not start,Stockholm 1912,Athletics,800m men
+34,HUN,otto palotai,Did not start,Stockholm 1912,Athletics,800m men
+35,GBR,bob hales,Did not start,Stockholm 1912,Athletics,800m men
+36,SWE,josef lindblom,Did not start,Stockholm 1912,Athletics,800m men
+37,FRA,andré dubourg,Did not start,Stockholm 1912,Athletics,800m men
+38,USA,harry gissing,Did not start,Stockholm 1912,Athletics,800m men
+39,FRA,georges berretrot,Did not start,Stockholm 1912,Athletics,800m men
+40,USA,lester bermond,Did not start,Stockholm 1912,Athletics,800m men
+41,RUS,konstantin gern,Did not start,Stockholm 1912,Athletics,800m men
+42,RUS,august meos,Did not start,Stockholm 1912,Athletics,800m men
+43,HUN,imre lászló,Did not start,Stockholm 1912,Athletics,800m men
+44,BOH,vaclav labik,Did not start,Stockholm 1912,Athletics,800m men
+45,FRA,henri auguste arnaud,Did not start,Stockholm 1912,Athletics,800m men
+46,GBR,gerald rupert lawrence anderson,Did not start,Stockholm 1912,Athletics,800m men
+47,HUN,teofil savniki,Did not start,Stockholm 1912,Athletics,800m men
+48,RUS,pyotr gayevsky,Did not start,Stockholm 1912,Athletics,800m men
+49,SWE,johan dahlin,Did not start,Stockholm 1912,Athletics,800m men
+50,SWE,nils frykberg,Did not start,Stockholm 1912,Athletics,800m men
+51,SWE,thorild ohlsson,Did not start,Stockholm 1912,Athletics,800m men
+52,SWE,ernest wide,Did not start,Stockholm 1912,Athletics,800m men
+0,FIN,hannes kolehmainen,00:45:11.600,Stockholm 1912,Athletics,cross country individual men
+1,SWE,hjalmar andersson,00:45:44.800,Stockholm 1912,Athletics,cross country individual men
+2,SWE,john eke,00:46:37.600,Stockholm 1912,Athletics,cross country individual men
+3,FIN,jalmari eskola,00:46:54.800,Stockholm 1912,Athletics,cross country individual men
+4,SWE,josef ternström,00:47:07.700,Stockholm 1912,Athletics,cross country individual men
+5,FIN,albin oskar stenroos,00:47:23.400,Stockholm 1912,Athletics,cross country individual men
+6,FIN,ville kyrönen,00:47:32.000,Stockholm 1912,Athletics,cross country individual men
+7,RSA,len richardson,00:47:33.500,Stockholm 1912,Athletics,cross country individual men
+8,SWE,brynolf larsson,00:47:37.400,Stockholm 1912,Athletics,cross country individual men
+9,SWE,johan sundkvist,00:47:40.000,Stockholm 1912,Athletics,cross country individual men
+10,FIN,frans wiljam johansson,00:48:03.000,Stockholm 1912,Athletics,cross country individual men
+11,USA,harry hallas hellawell,00:48:12.000,Stockholm 1912,Athletics,cross country individual men
+12,SWE,klas lundström,00:48:45.400,Stockholm 1912,Athletics,cross country individual men
+13,DEN,lauritz christiansen,00:49:06.400,Stockholm 1912,Athletics,cross country individual men
+14,GBR,frederick newton hibbins,00:49:18.200,Stockholm 1912,Athletics,cross country individual men
+15,GBR,ernest glover,00:49:53.700,Stockholm 1912,Athletics,cross country individual men
+16,SWE,bror fock,00:50:15.800,Stockholm 1912,Athletics,cross country individual men
+17,GBR,thomas humphreys,00:50:28.000,Stockholm 1912,Athletics,cross country individual men
+18,NOR,olaf sigvart hovdenak,00:50:40.800,Stockholm 1912,Athletics,cross country individual men
+19,NOR,parelius finnerud,00:51:16.200,Stockholm 1912,Athletics,cross country individual men
+20,SWE,gustaf carlen,00:51:26.800,Stockholm 1912,Athletics,cross country individual men
+21,NOR,johannes andersen,00:51:47.400,Stockholm 1912,Athletics,cross country individual men
+22,DEN,viggo christoffer pedersen,00:53:00.800,Stockholm 1912,Athletics,cross country individual men
+23,USA,henry louis scott,00:53:51.400,Stockholm 1912,Athletics,cross country individual men
+24,FIN,väinö heikkilä,00:54:08.000,Stockholm 1912,Athletics,cross country individual men
+25,DEN,gerhard topp,00:54:24.900,Stockholm 1912,Athletics,cross country individual men
+26,GER,gregor vietz,00:54:40.600,Stockholm 1912,Athletics,cross country individual men
+27,DEN,steen rasmussen,00:55:27.000,Stockholm 1912,Athletics,cross country individual men
+28,AUT,emmerich rath,Did not finish,Stockholm 1912,Athletics,cross country individual men
+29,DEN,holger baden,Did not finish,Stockholm 1912,Athletics,cross country individual men
+30,DEN,fritz danild,Did not finish,Stockholm 1912,Athletics,cross country individual men
+31,DEN,karl julius jensen,Did not finish,Stockholm 1912,Athletics,cross country individual men
+32,FIN,eefferi harju,Did not finish,Stockholm 1912,Athletics,cross country individual men
+33,FIN,aarne karl lindholm,Did not finish,Stockholm 1912,Athletics,cross country individual men
+34,FRA,jean bouin,Did not finish,Stockholm 1912,Athletics,cross country individual men
+35,GBR,william cottrill,Did not finish,Stockholm 1912,Athletics,cross country individual men
+36,GBR,william scott,Did not finish,Stockholm 1912,Athletics,cross country individual men
+37,NOR,nils dahl,Did not finish,Stockholm 1912,Athletics,cross country individual men
+38,SWE,edvin hellgren,Did not finish,Stockholm 1912,Athletics,cross country individual men
+39,SWE,john klintberg,Did not finish,Stockholm 1912,Athletics,cross country individual men
+40,SWE,axel lindahl,Did not finish,Stockholm 1912,Athletics,cross country individual men
+41,SWE,henrik nordström,Did not finish,Stockholm 1912,Athletics,cross country individual men
+42,USA,george v. bonhag,Did not finish,Stockholm 1912,Athletics,cross country individual men
+43,USA,tell schirnding berna,Did not finish,Stockholm 1912,Athletics,cross country individual men
+44,USA,william k. kramer,Did not finish,Stockholm 1912,Athletics,cross country individual men
+45,DEN,carl holmberg,Did not start,Stockholm 1912,Athletics,cross country individual men
+46,RUS,pyotr timofeyev,Did not start,Stockholm 1912,Athletics,cross country individual men
+47,HUN,mihály váradi,Did not start,Stockholm 1912,Athletics,cross country individual men
+48,RUS,iosif zaytsev,Did not start,Stockholm 1912,Athletics,cross country individual men
+49,ANZ,william murray,Did not start,Stockholm 1912,Athletics,cross country individual men
+50,BOH,vladimir penc,Did not start,Stockholm 1912,Athletics,cross country individual men
+51,BOH,rudolf richter,Did not start,Stockholm 1912,Athletics,cross country individual men
+52,BOH,františek slavík,Did not start,Stockholm 1912,Athletics,cross country individual men
+53,FRA,henri auguste arnaud,Did not start,Stockholm 1912,Athletics,cross country individual men
+54,FRA,henri teyssedou,Did not start,Stockholm 1912,Athletics,cross country individual men
+55,GBR,george lee,Did not start,Stockholm 1912,Athletics,cross country individual men
+56,GBR,charles henry ruffell,Did not start,Stockholm 1912,Athletics,cross country individual men
+57,GBR,george curtis l. wallach,Did not start,Stockholm 1912,Athletics,cross country individual men
+58,RUS,nikolay khorkov,Did not start,Stockholm 1912,Athletics,cross country individual men
+0,,,10,Stockholm 1912,Athletics,cross country team men
+1,,,11,Stockholm 1912,Athletics,cross country team men
+2,,,49,Stockholm 1912,Athletics,cross country team men
+3,,,61,Stockholm 1912,Athletics,cross country team men
+4,,,63,Stockholm 1912,Athletics,cross country team men
+5,,,Did not finish,Stockholm 1912,Athletics,cross country team men
+0,USA,jim thorpe,779.8,Stockholm 1912,Athletics,decathlon men
+1,SWE,hugo k. wieslander,750.4,Stockholm 1912,Athletics,decathlon men
+2,SWE,charles lomberg,587.2,Stockholm 1912,Athletics,decathlon men
+3,SWE,gösta holmer,769.0,Stockholm 1912,Athletics,decathlon men
+4,USA,jim donahue,756.4,Stockholm 1912,Athletics,decathlon men
+5,USA,eugene leroy mercer,742.6,Stockholm 1912,Athletics,decathlon men
+6,FIN,woldemar julius wickholm,757.0,Stockholm 1912,Athletics,decathlon men
+7,SWE,erik kugelberg,759.4,Stockholm 1912,Athletics,decathlon men
+8,GER,karl ferdinand ritter von halt,643.6,Stockholm 1912,Athletics,decathlon men
+9,AUT,josef schäffer,628.6,Stockholm 1912,Athletics,decathlon men
+10,RUS,aleksandr schultz,742.0,Stockholm 1912,Athletics,decathlon men
+11,RUS,alfreds alsleben,608.8,Stockholm 1912,Athletics,decathlon men
+12,USA,george warren philbrook,Did not finish,Stockholm 1912,Athletics,decathlon men
+13,NOR,ferdinand reinhardt bie,Did not finish,Stockholm 1912,Athletics,decathlon men
+14,CAN,frank lukeman,Did not finish,Stockholm 1912,Athletics,decathlon men
+15,USA,avery brundage,Did not finish,Stockholm 1912,Athletics,decathlon men
+16,FRA,géo andré,Did not finish,Stockholm 1912,Athletics,decathlon men
+17,ITA,alfredo pagani,Did not finish,Stockholm 1912,Athletics,decathlon men
+18,SWE,einar nilsson,Did not finish,Stockholm 1912,Athletics,decathlon men
+19,GER,otto röhr,Did not finish,Stockholm 1912,Athletics,decathlon men
+20,SWE,skotte jacobsson,Did not finish,Stockholm 1912,Athletics,decathlon men
+21,SWE,gunnar rönström,Did not finish,Stockholm 1912,Athletics,decathlon men
+22,GER,alex abraham,Did not finish,Stockholm 1912,Athletics,decathlon men
+23,FRA,pierre failliot,Did not finish,Stockholm 1912,Athletics,decathlon men
+24,USA,harry stoddard babcock,Did not finish,Stockholm 1912,Athletics,decathlon men
+25,DEN,svend langkjaer,Did not finish,Stockholm 1912,Athletics,decathlon men
+26,SWE,viktor hackberg,Did not finish,Stockholm 1912,Athletics,decathlon men
+27,ITA,manlio legat,Did not finish,Stockholm 1912,Athletics,decathlon men
+28,TUR,mkrtich mkryan,Did not finish,Stockholm 1912,Athletics,decathlon men
+29,USA,eugene schobinger,Did not start,Stockholm 1912,Athletics,decathlon men
+30,DEN,jørgen kornerup-bang,Did not start,Stockholm 1912,Athletics,decathlon men
+31,FRA,clément mentrel,Did not start,Stockholm 1912,Athletics,decathlon men
+32,GRE,emmanuel tsaloumas,Did not start,Stockholm 1912,Athletics,decathlon men
+33,ITA,giulio alvisi,Did not start,Stockholm 1912,Athletics,decathlon men
+34,ITA,furio bini,Did not start,Stockholm 1912,Athletics,decathlon men
+35,LUX,paul fournelle,Did not start,Stockholm 1912,Athletics,decathlon men
+36,LUX,nicolas kanive,Did not start,Stockholm 1912,Athletics,decathlon men
+37,LUX,jean-pierre thommes,Did not start,Stockholm 1912,Athletics,decathlon men
+38,BOH,jindrich jirsak,Did not start,Stockholm 1912,Athletics,decathlon men
+39,FRA,andré foussard,Did not start,Stockholm 1912,Athletics,decathlon men
+40,FRA,raoul lucien paoli,Did not start,Stockholm 1912,Athletics,decathlon men
+41,GER,josef waitzer,Did not start,Stockholm 1912,Athletics,decathlon men
+42,GRE,kostas tsiklitiras,Did not start,Stockholm 1912,Athletics,decathlon men
+43,RUS,ulrick baasch,Did not start,Stockholm 1912,Athletics,decathlon men
+44,SUI,bruno julius wagner,Did not start,Stockholm 1912,Athletics,decathlon men
+45,SWE,bertil uggla,Did not start,Stockholm 1912,Athletics,decathlon men
+46,BOH,boris honzátko,Did not start,Stockholm 1912,Athletics,decathlon men
+47,USA,richard leslie byrd,Did not start,Stockholm 1912,Athletics,decathlon men
+48,USA,jack eller,Did not start,Stockholm 1912,Athletics,decathlon men
+49,USA,james august menaul,Did not start,Stockholm 1912,Athletics,decathlon men
+0,FIN,armas rudolf taipale,82.86,Stockholm 1912,Athletics,discus throw both hands men
+1,FIN,elmer konstantin niklander,77.96,Stockholm 1912,Athletics,discus throw both hands men
+2,SWE,emil magnusson,77.37,Stockholm 1912,Athletics,discus throw both hands men
+3,SWE,einar nilsson,,Stockholm 1912,Athletics,discus throw both hands men
+4,USA,james henry duncan,,Stockholm 1912,Athletics,discus throw both hands men
+5,USA,emil joseph muller,,Stockholm 1912,Athletics,discus throw both hands men
+6,SWE,folke fleetwood,,Stockholm 1912,Athletics,discus throw both hands men
+7,SWE,carl johan lind,,Stockholm 1912,Athletics,discus throw both hands men
+8,SWE,nils linde,,Stockholm 1912,Athletics,discus throw both hands men
+9,SWE,gunar nilsson,,Stockholm 1912,Athletics,discus throw both hands men
+10,SWE,eric lemming,,Stockholm 1912,Athletics,discus throw both hands men
+11,FIN,werner järvinen,,Stockholm 1912,Athletics,discus throw both hands men
+12,AUT,hans tronner,,Stockholm 1912,Athletics,discus throw both hands men
+13,HUN,rezső ujlaki,,Stockholm 1912,Athletics,discus throw both hands men
+14,USA,arlie max mucks,,Stockholm 1912,Athletics,discus throw both hands men
+15,AUT,josef schäffer,,Stockholm 1912,Athletics,discus throw both hands men
+16,USA,richard leslie byrd,,Stockholm 1912,Athletics,discus throw both hands men
+17,HUN,karoly kobulszky,,Stockholm 1912,Athletics,discus throw both hands men
+18,RUS,vasily molokanov,,Stockholm 1912,Athletics,discus throw both hands men
+19,HUN,györgy lunzer,,Stockholm 1912,Athletics,discus throw both hands men
+20,USA,andrew sheridan,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+21,SWE,knut thelning,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+22,HUN,károly nyilassy,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+23,HUN,pál antal,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+24,HUN,vilmos zöldi,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+25,HUN,peter fúle,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+26,GRE,nikolaos georgantas,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+27,HUN,samu foti,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+28,HUN,mor kovacs,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+29,HUN,imre mudin,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+30,HUN,istvan mudin,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+31,NOR,john falckenberg,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+32,SWE,gunnar bolander,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+33,SWE,henning möller,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+34,SWE,otto nilsson,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+35,SWE,hugo k. wieslander,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+36,USA,platt adams,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+37,USA,avery brundage,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+38,USA,pat mcdonald,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+39,USA,matt mcgrath,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+40,USA,george warren philbrook,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+41,USA,ralph rose,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+42,USA,laurence atwood whitney,Did not start,Stockholm 1912,Athletics,discus throw both hands men
+0,FIN,armas rudolf taipale,45.21,Stockholm 1912,Athletics,discus throw men
+1,USA,richard leslie byrd,42.32,Stockholm 1912,Athletics,discus throw men
+2,USA,james henry duncan,42.28,Stockholm 1912,Athletics,discus throw men
+3,FIN,elmer konstantin niklander,,Stockholm 1912,Athletics,discus throw men
+4,AUT,hans tronner,,Stockholm 1912,Athletics,discus throw men
+5,USA,arlie max mucks,,Stockholm 1912,Athletics,discus throw men
+6,USA,george warren philbrook,,Stockholm 1912,Athletics,discus throw men
+7,SWE,emil magnusson,,Stockholm 1912,Athletics,discus throw men
+8,HUN,rezső ujlaki,,Stockholm 1912,Athletics,discus throw men
+9,SWE,einar nilsson,,Stockholm 1912,Athletics,discus throw men
+10,USA,ralph rose,,Stockholm 1912,Athletics,discus throw men
+11,USA,emil joseph muller,,Stockholm 1912,Athletics,discus throw men
+12,GRE,mikhail dorizas,,Stockholm 1912,Athletics,discus throw men
+13,CAN,duncan gillis,,Stockholm 1912,Athletics,discus throw men
+14,FIN,werner järvinen,,Stockholm 1912,Athletics,discus throw men
+15,GER,josef waitzer,,Stockholm 1912,Athletics,discus throw men
+16,BOH,frantisek janda-suk,,Stockholm 1912,Athletics,discus throw men
+17,ITA,aurelio lenzi,,Stockholm 1912,Athletics,discus throw men
+18,HUN,karoly kobulszky,,Stockholm 1912,Athletics,discus throw men
+19,USA,laurence atwood whitney,,Stockholm 1912,Athletics,discus throw men
+20,HUN,györgy lunzer,,Stockholm 1912,Athletics,discus throw men
+21,USA,avery brundage,,Stockholm 1912,Athletics,discus throw men
+22,SWE,gunar nilsson,,Stockholm 1912,Athletics,discus throw men
+23,GER,emil welz,,Stockholm 1912,Athletics,discus throw men
+24,HUN,samu foti,,Stockholm 1912,Athletics,discus throw men
+25,SWE,gunnar bolander,,Stockholm 1912,Athletics,discus throw men
+26,SWE,carl johan lind,,Stockholm 1912,Athletics,discus throw men
+27,SWE,folke fleetwood,,Stockholm 1912,Athletics,discus throw men
+28,AUT,josef schäffer,,Stockholm 1912,Athletics,discus throw men
+29,FRA,andré tison,,Stockholm 1912,Athletics,discus throw men
+30,LUX,marcel pelletier,,Stockholm 1912,Athletics,discus throw men
+31,GBR,walter edward bonhote henderson,,Stockholm 1912,Athletics,discus throw men
+32,HUN,mor kovacs,,Stockholm 1912,Athletics,discus throw men
+33,TUR,mkrtich mkryan,,Stockholm 1912,Athletics,discus throw men
+34,RUS,nikolay neklepayev,,Stockholm 1912,Athletics,discus throw men
+35,FRA,charles lagarde,,Stockholm 1912,Athletics,discus throw men
+36,SWE,henning möller,,Stockholm 1912,Athletics,discus throw men
+37,BOH,miroslav sustera,,Stockholm 1912,Athletics,discus throw men
+38,SWE,otto nilsson,,Stockholm 1912,Athletics,discus throw men
+39,RUS,eriks wannag,,Stockholm 1912,Athletics,discus throw men
+40,GER,paul willführ,NM,Stockholm 1912,Athletics,discus throw men
+41,USA,andrew sheridan,Did not start,Stockholm 1912,Athletics,discus throw men
+42,ITA,cesare rosini,Did not start,Stockholm 1912,Athletics,discus throw men
+43,ITA,pietro erculei,Did not start,Stockholm 1912,Athletics,discus throw men
+44,SWE,knut thelning,Did not start,Stockholm 1912,Athletics,discus throw men
+45,HUN,károly nyilassy,Did not start,Stockholm 1912,Athletics,discus throw men
+46,FRA,henri pelissier,Did not start,Stockholm 1912,Athletics,discus throw men
+47,USA,john hooker,Did not start,Stockholm 1912,Athletics,discus throw men
+48,HUN,pál antal,Did not start,Stockholm 1912,Athletics,discus throw men
+49,HUN,vilmos zöldi,Did not start,Stockholm 1912,Athletics,discus throw men
+50,HUN,peter fúle,Did not start,Stockholm 1912,Athletics,discus throw men
+51,USA,russell beatty,Did not start,Stockholm 1912,Athletics,discus throw men
+52,RUS,august kihlart,Did not start,Stockholm 1912,Athletics,discus throw men
+53,AUT,karl michl,Did not start,Stockholm 1912,Athletics,discus throw men
+54,FRA,gustave lemasson,Did not start,Stockholm 1912,Athletics,discus throw men
+55,FRA,gustave amoly,Did not start,Stockholm 1912,Athletics,discus throw men
+56,FIN,paavo aho,Did not start,Stockholm 1912,Athletics,discus throw men
+57,FRA,raoul lucien paoli,Did not start,Stockholm 1912,Athletics,discus throw men
+58,GBR,ned barrett,Did not start,Stockholm 1912,Athletics,discus throw men
+59,GBR,patrick quinn,Did not start,Stockholm 1912,Athletics,discus throw men
+60,GRE,nikolaos georgantas,Did not start,Stockholm 1912,Athletics,discus throw men
+61,HUN,imre mudin,Did not start,Stockholm 1912,Athletics,discus throw men
+62,HUN,istvan mudin,Did not start,Stockholm 1912,Athletics,discus throw men
+63,ITA,umberto avattaneo,Did not start,Stockholm 1912,Athletics,discus throw men
+64,ITA,carlo butti,Did not start,Stockholm 1912,Athletics,discus throw men
+65,ITA,giuseppe tugnoli,Did not start,Stockholm 1912,Athletics,discus throw men
+66,NOR,john falckenberg,Did not start,Stockholm 1912,Athletics,discus throw men
+67,RUS,arvids ohsol-berne,Did not start,Stockholm 1912,Athletics,discus throw men
+68,SWE,eric lemming,Did not start,Stockholm 1912,Athletics,discus throw men
+69,SWE,nils linde,Did not start,Stockholm 1912,Athletics,discus throw men
+70,SWE,hugo k. wieslander,Did not start,Stockholm 1912,Athletics,discus throw men
+71,USA,pat mcdonald,Did not start,Stockholm 1912,Athletics,discus throw men
+72,FRA,andré désfarges,Did not start,Stockholm 1912,Athletics,discus throw men
+0,USA,matt mcgrath,54.74,Stockholm 1912,Athletics,hammer throw men
+1,CAN,duncan gillis,47.24,Stockholm 1912,Athletics,hammer throw men
+2,USA,clarence chester childs,,Stockholm 1912,Athletics,hammer throw men
+3,SWE,c. robert olsson,,Stockholm 1912,Athletics,hammer throw men
+4,SWE,carl johan lind,,Stockholm 1912,Athletics,hammer throw men
+5,GBR,denis carey,,Stockholm 1912,Athletics,hammer throw men
+6,SWE,nils linde,,Stockholm 1912,Athletics,hammer throw men
+7,USA,ralph rose,,Stockholm 1912,Athletics,hammer throw men
+8,SWE,carl jahnzon,,Stockholm 1912,Athletics,hammer throw men
+9,SWE,arvid aberg,,Stockholm 1912,Athletics,hammer throw men
+10,SWE,gunnar johnsson,,Stockholm 1912,Athletics,hammer throw men
+11,USA,benjamin franklin sherman,,Stockholm 1912,Athletics,hammer throw men
+12,SWE,viktor hackberg,,Stockholm 1912,Athletics,hammer throw men
+13,USA,simon patrick gillis,NM,Stockholm 1912,Athletics,hammer throw men
+14,SWE,erik larsson,Did not start,Stockholm 1912,Athletics,hammer throw men
+15,USA,will ziegler,Did not start,Stockholm 1912,Athletics,hammer throw men
+16,USA,john hooker,Did not start,Stockholm 1912,Athletics,hammer throw men
+17,USA,harold marden,Did not start,Stockholm 1912,Athletics,hammer throw men
+18,USA,alfred tilley,Did not start,Stockholm 1912,Athletics,hammer throw men
+19,AUT,hans tronner,Did not start,Stockholm 1912,Athletics,hammer throw men
+20,BOH,miroslav sustera,Did not start,Stockholm 1912,Athletics,hammer throw men
+21,GBR,thomas rae nicolson,Did not start,Stockholm 1912,Athletics,hammer throw men
+22,HUN,istvan mudin,Did not start,Stockholm 1912,Athletics,hammer throw men
+23,LUX,marcel pelletier,Did not start,Stockholm 1912,Athletics,hammer throw men
+0,USA,alma wilfred richards,1.93,Stockholm 1912,Athletics,high jump men
+1,GER,hans liesche,1.91,Stockholm 1912,Athletics,high jump men
+2,USA,george leslie horine,1.89,Stockholm 1912,Athletics,high jump men
+3,USA,egon r. erickson,1.87,Stockholm 1912,Athletics,high jump men
+4,USA,jim thorpe,1.87,Stockholm 1912,Athletics,high jump men
+5,USA,harry john grumpelt,1.85,Stockholm 1912,Athletics,high jump men
+6,USA,john oliver johnstone,1.85,Stockholm 1912,Athletics,high jump men
+7,SWE,karl-axel kullerstrand,1.83,Stockholm 1912,Athletics,high jump men
+8,GBR,timothy carroll,1.80,Stockholm 1912,Athletics,high jump men
+9,HUN,ivan wardener,1.80,Stockholm 1912,Athletics,high jump men
+10,GBR,benjamin howard baker,1.75,Stockholm 1912,Athletics,high jump men
+11,CHI,rodolfo hammersley,,Stockholm 1912,Athletics,high jump men
+12,FIN,arvo anselm laine,,Stockholm 1912,Athletics,high jump men
+13,FRA,andré labat,,Stockholm 1912,Athletics,high jump men
+14,FRA,géo andré,,Stockholm 1912,Athletics,high jump men
+15,FRA,michel méert,,Stockholm 1912,Athletics,high jump men
+16,FRA,marius françois l. delaby,,Stockholm 1912,Athletics,high jump men
+17,FRA,armand estang,,Stockholm 1912,Athletics,high jump men
+18,GBR,thomas o'donohue,,Stockholm 1912,Athletics,high jump men
+19,GER,otto röhr,,Stockholm 1912,Athletics,high jump men
+20,HUN,lajos ludinszky,,Stockholm 1912,Athletics,high jump men
+21,ITA,alfredo pagani,,Stockholm 1912,Athletics,high jump men
+22,ITA,angelo tonini,,Stockholm 1912,Athletics,high jump men
+23,NOR,otto monsen,,Stockholm 1912,Athletics,high jump men
+24,NOR,gerhard olsen,,Stockholm 1912,Athletics,high jump men
+25,NOR,olav aarnes,,Stockholm 1912,Athletics,high jump men
+26,SWE,gösta hallberg,,Stockholm 1912,Athletics,high jump men
+27,SWE,richard sjöberg,,Stockholm 1912,Athletics,high jump men
+28,SWE,ragnar mattson,,Stockholm 1912,Athletics,high jump men
+29,SWE,paulus ah uhr,,Stockholm 1912,Athletics,high jump men
+30,SWE,gösta holmer,,Stockholm 1912,Athletics,high jump men
+31,USA,jervis watson burdick,,Stockholm 1912,Athletics,high jump men
+32,USA,harold bradford enright,,Stockholm 1912,Athletics,high jump men
+33,USA,wesley marion oler,,Stockholm 1912,Athletics,high jump men
+34,USA,platt adams,,Stockholm 1912,Athletics,high jump men
+35,USA,john patrick nicholson,,Stockholm 1912,Athletics,high jump men
+36,GBR,daniel campbell,Did not start,Stockholm 1912,Athletics,high jump men
+37,HUN,andrás somodi,Did not start,Stockholm 1912,Athletics,high jump men
+38,HUN,miklós nagy,Did not start,Stockholm 1912,Athletics,high jump men
+39,HUN,géza vadon,Did not start,Stockholm 1912,Athletics,high jump men
+40,FRA,félix mathey,Did not start,Stockholm 1912,Athletics,high jump men
+41,SWE,georg holmqvist,Did not start,Stockholm 1912,Athletics,high jump men
+42,FRA,maurice meunier,Did not start,Stockholm 1912,Athletics,high jump men
+43,ITA,giulio alvisi,Did not start,Stockholm 1912,Athletics,high jump men
+44,HUN,béla szabó,Did not start,Stockholm 1912,Athletics,high jump men
+45,GBR,clive taylor,Did not start,Stockholm 1912,Athletics,high jump men
+46,FRA,victor doré,Did not start,Stockholm 1912,Athletics,high jump men
+47,USA,edward beeson,Did not start,Stockholm 1912,Athletics,high jump men
+48,ITA,furio bini,Did not start,Stockholm 1912,Athletics,high jump men
+49,AUT,fritz weinzinger,Did not start,Stockholm 1912,Athletics,high jump men
+50,FRA,andré jean rené labat,Did not start,Stockholm 1912,Athletics,high jump men
+51,GRE,kostas tsiklitiras,Did not start,Stockholm 1912,Athletics,high jump men
+52,HUN,istvan somody,Did not start,Stockholm 1912,Athletics,high jump men
+53,ITA,carlo butti,Did not start,Stockholm 1912,Athletics,high jump men
+54,ITA,manlio legat,Did not start,Stockholm 1912,Athletics,high jump men
+55,SWE,folke hellstedt,Did not start,Stockholm 1912,Athletics,high jump men
+56,SWE,charles lomberg,Did not start,Stockholm 1912,Athletics,high jump men
+57,SWE,einar nilsson,Did not start,Stockholm 1912,Athletics,high jump men
+58,SWE,tage brauer,Did not start,Stockholm 1912,Athletics,high jump men
+0,USA,platt adams,1.63,Stockholm 1912,Athletics,high jump standing men
+1,USA,benjamin w. adams,1.6,Stockholm 1912,Athletics,high jump standing men
+2,GRE,kostas tsiklitiras,1.55,Stockholm 1912,Athletics,high jump standing men
+3,SWE,edvard möller,1.5,Stockholm 1912,Athletics,high jump standing men
+4,USA,richard leslie byrd,1.5,Stockholm 1912,Athletics,high jump standing men
+5,USA,leo goehring,1.5,Stockholm 1912,Athletics,high jump standing men
+6,CHI,rodolfo hammersley,,Stockholm 1912,Athletics,high jump standing men
+7,FRA,géo andré,,Stockholm 1912,Athletics,high jump standing men
+8,GBR,benjamin howard baker,,Stockholm 1912,Athletics,high jump standing men
+9,HUN,andor horvay,,Stockholm 1912,Athletics,high jump standing men
+10,NOR,birger brodtkorb,,Stockholm 1912,Athletics,high jump standing men
+11,RUS,alfred schwarz,,Stockholm 1912,Athletics,high jump standing men
+12,SWE,karl bergh,,Stockholm 1912,Athletics,high jump standing men
+13,SWE,rolf smedmark,,Stockholm 1912,Athletics,high jump standing men
+14,SWE,leif ekman,,Stockholm 1912,Athletics,high jump standing men
+15,USA,forest fletcher,,Stockholm 1912,Athletics,high jump standing men
+16,USA,frank v. belote,,Stockholm 1912,Athletics,high jump standing men
+17,SWE,john johansson,Did not start,Stockholm 1912,Athletics,high jump standing men
+18,SWE,carl frick,Did not start,Stockholm 1912,Athletics,high jump standing men
+19,FRA,isaac kahn,Did not start,Stockholm 1912,Athletics,high jump standing men
+20,HUN,endré száll,Did not start,Stockholm 1912,Athletics,high jump standing men
+21,HUN,andor szende,Did not start,Stockholm 1912,Athletics,high jump standing men
+22,GBR,daniel campbell,Did not start,Stockholm 1912,Athletics,high jump standing men
+23,FRA,maurice garon,Did not start,Stockholm 1912,Athletics,high jump standing men
+24,HUN,géza vadon,Did not start,Stockholm 1912,Athletics,high jump standing men
+25,USA,russ palmer,Did not start,Stockholm 1912,Athletics,high jump standing men
+26,ITA,leone linardi,Did not start,Stockholm 1912,Athletics,high jump standing men
+27,USA,russell beatty,Did not start,Stockholm 1912,Athletics,high jump standing men
+28,BOH,paul smutný,Did not start,Stockholm 1912,Athletics,high jump standing men
+29,NOR,martin jacobsen,Did not start,Stockholm 1912,Athletics,high jump standing men
+30,SWE,georg holmqvist,Did not start,Stockholm 1912,Athletics,high jump standing men
+31,ITA,giulio alvisi,Did not start,Stockholm 1912,Athletics,high jump standing men
+32,FRA,andré peux,Did not start,Stockholm 1912,Athletics,high jump standing men
+33,GBR,clive taylor,Did not start,Stockholm 1912,Athletics,high jump standing men
+34,FIN,rafael peltonen,Did not start,Stockholm 1912,Athletics,high jump standing men
+35,ITA,colombo zevola,Did not start,Stockholm 1912,Athletics,high jump standing men
+36,ITA,andré pettre,Did not start,Stockholm 1912,Athletics,high jump standing men
+37,ITA,francesco d'ercole,Did not start,Stockholm 1912,Athletics,high jump standing men
+38,DEN,hans langkjær,Did not start,Stockholm 1912,Athletics,high jump standing men
+39,BOH,ladislav jiranek,Did not start,Stockholm 1912,Athletics,high jump standing men
+40,DEN,svend langkjaer,Did not start,Stockholm 1912,Athletics,high jump standing men
+41,FRA,marius françois l. delaby,Did not start,Stockholm 1912,Athletics,high jump standing men
+42,FRA,armand estang,Did not start,Stockholm 1912,Athletics,high jump standing men
+43,FRA,henri alphonse jardin,Did not start,Stockholm 1912,Athletics,high jump standing men
+44,FRA,alfred motte,Did not start,Stockholm 1912,Athletics,high jump standing men
+45,GBR,timothy carroll,Did not start,Stockholm 1912,Athletics,high jump standing men
+46,GBR,walter edward bonhote henderson,Did not start,Stockholm 1912,Athletics,high jump standing men
+47,GBR,thomas o'donohue,Did not start,Stockholm 1912,Athletics,high jump standing men
+48,HUN,ivan wardener,Did not start,Stockholm 1912,Athletics,high jump standing men
+49,ITA,manlio legat,Did not start,Stockholm 1912,Athletics,high jump standing men
+50,ITA,angelo tonini,Did not start,Stockholm 1912,Athletics,high jump standing men
+51,SWE,georg aberg,Did not start,Stockholm 1912,Athletics,high jump standing men
+52,SWE,douglas melin,Did not start,Stockholm 1912,Athletics,high jump standing men
+53,SWE,gunar nilsson,Did not start,Stockholm 1912,Athletics,high jump standing men
+54,USA,john biller,Did not start,Stockholm 1912,Athletics,high jump standing men
+55,USA,francis c. irons,Did not start,Stockholm 1912,Athletics,high jump standing men
+0,FIN,juho julius saaristo,109.42,Stockholm 1912,Athletics,javelin throw both hands men
+1,FIN,väinö siikaniemi,101.13,Stockholm 1912,Athletics,javelin throw both hands men
+2,FIN,urho pellervo peltonen,100.24,Stockholm 1912,Athletics,javelin throw both hands men
+3,SWE,eric lemming,98.59,Stockholm 1912,Athletics,javelin throw both hands men
+4,NOR,arne halse,96.92,Stockholm 1912,Athletics,javelin throw both hands men
+5,SWE,richard abrink,93.12,Stockholm 1912,Athletics,javelin throw both hands men
+6,NOR,daniel victor johansen,92.82,Stockholm 1912,Athletics,javelin throw both hands men
+7,SWE,otto nilsson,88.9,Stockholm 1912,Athletics,javelin throw both hands men
+8,FIN,juho halme,88.54,Stockholm 1912,Athletics,javelin throw both hands men
+9,SWE,arvid ohrling,87.17,Stockholm 1912,Athletics,javelin throw both hands men
+10,SWE,sten hagander,86.8,Stockholm 1912,Athletics,javelin throw both hands men
+11,HUN,mor kovacs,86.39,Stockholm 1912,Athletics,javelin throw both hands men
+12,SWE,william krigsman,85.8,Stockholm 1912,Athletics,javelin throw both hands men
+13,SWE,hilding sonne,84.96,Stockholm 1912,Athletics,javelin throw both hands men
+14,USA,harry lott,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+15,SWE,david nygren,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+16,GRE,mikhail nomikos,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+17,USA,henry klages,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+18,HUN,máté szákall,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+19,FIN,urho aaltonen,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+20,USA,jim mitchel,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+21,GRE,kostas tsiklitiras,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+22,HUN,istvan mudin,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+23,HUN,rezső ujlaki,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+24,RUS,vasily molokanov,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+25,SWE,janne dahl,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+26,SWE,algot larsson,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+27,SWE,bror olsson,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+28,SWE,hugo k. wieslander,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+29,USA,platt adams,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+30,USA,james august menaul,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+31,USA,george warren philbrook,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+32,USA,laurence atwood whitney,Did not start,Stockholm 1912,Athletics,javelin throw both hands men
+0,SWE,eric lemming,60.64,Stockholm 1912,Athletics,javelin throw men
+1,FIN,juho julius saaristo,58.66,Stockholm 1912,Athletics,javelin throw men
+2,HUN,mor kovacs,55.5,Stockholm 1912,Athletics,javelin throw men
+3,FIN,juho halme,,Stockholm 1912,Athletics,javelin throw men
+4,FIN,väinö siikaniemi,,Stockholm 1912,Athletics,javelin throw men
+5,SWE,richard abrink,,Stockholm 1912,Athletics,javelin throw men
+6,NOR,arne halse,,Stockholm 1912,Athletics,javelin throw men
+7,FIN,jonni myyrä,,Stockholm 1912,Athletics,javelin throw men
+8,FIN,urho pellervo peltonen,,Stockholm 1912,Athletics,javelin throw men
+9,SWE,otto nilsson,,Stockholm 1912,Athletics,javelin throw men
+10,SWE,hilding sonne,,Stockholm 1912,Athletics,javelin throw men
+11,NOR,daniel victor johansen,,Stockholm 1912,Athletics,javelin throw men
+12,SWE,bror olsson,,Stockholm 1912,Athletics,javelin throw men
+13,SWE,william krigsman,,Stockholm 1912,Athletics,javelin throw men
+14,SWE,janne dahl,,Stockholm 1912,Athletics,javelin throw men
+15,SWE,arvid ohrling,,Stockholm 1912,Athletics,javelin throw men
+16,RUS,nikolay neklepayev,,Stockholm 1912,Athletics,javelin throw men
+17,FIN,emil kukkola,,Stockholm 1912,Athletics,javelin throw men
+18,GER,josef waitzer,,Stockholm 1912,Athletics,javelin throw men
+19,RUS,nikolajs švedrēvics,,Stockholm 1912,Athletics,javelin throw men
+20,SWE,algot larsson,,Stockholm 1912,Athletics,javelin throw men
+21,GER,karl ferdinand ritter von halt,,Stockholm 1912,Athletics,javelin throw men
+22,GER,paul willführ,,Stockholm 1912,Athletics,javelin throw men
+23,AUT,gustav krojer,NM,Stockholm 1912,Athletics,javelin throw men
+24,SWE,eskil falk,NM,Stockholm 1912,Athletics,javelin throw men
+25,USA,harry lott,Did not start,Stockholm 1912,Athletics,javelin throw men
+26,NOR,olaf ingebretsen,Did not start,Stockholm 1912,Athletics,javelin throw men
+27,SWE,hugo ahrén,Did not start,Stockholm 1912,Athletics,javelin throw men
+28,DEN,jørgen kornerup-bang,Did not start,Stockholm 1912,Athletics,javelin throw men
+29,ITA,cesare frassine,Did not start,Stockholm 1912,Athletics,javelin throw men
+30,USA,bruno brodd,Did not start,Stockholm 1912,Athletics,javelin throw men
+31,USA,thomas lund,Did not start,Stockholm 1912,Athletics,javelin throw men
+32,GRE,mikhail nomikos,Did not start,Stockholm 1912,Athletics,javelin throw men
+33,HUN,máté szákall,Did not start,Stockholm 1912,Athletics,javelin throw men
+34,FIN,urho aaltonen,Did not start,Stockholm 1912,Athletics,javelin throw men
+35,FRA,gustave lemasson,Did not start,Stockholm 1912,Athletics,javelin throw men
+36,ITA,giulio alvisi,Did not start,Stockholm 1912,Athletics,javelin throw men
+37,ITA,colombo zevola,Did not start,Stockholm 1912,Athletics,javelin throw men
+38,ITA,furio bini,Did not start,Stockholm 1912,Athletics,javelin throw men
+39,ITA,ubaldo bianchi,Did not start,Stockholm 1912,Athletics,javelin throw men
+40,USA,jim mitchel,Did not start,Stockholm 1912,Athletics,javelin throw men
+41,FRA,pierre failliot,Did not start,Stockholm 1912,Athletics,javelin throw men
+42,FRA,charles lagarde,Did not start,Stockholm 1912,Athletics,javelin throw men
+43,FRA,raoul lucien paoli,Did not start,Stockholm 1912,Athletics,javelin throw men
+44,FRA,andré tison,Did not start,Stockholm 1912,Athletics,javelin throw men
+45,GRE,kostas tsiklitiras,Did not start,Stockholm 1912,Athletics,javelin throw men
+46,HUN,istvan mudin,Did not start,Stockholm 1912,Athletics,javelin throw men
+47,HUN,rezső ujlaki,Did not start,Stockholm 1912,Athletics,javelin throw men
+48,ITA,manlio legat,Did not start,Stockholm 1912,Athletics,javelin throw men
+49,LUX,marcel pelletier,Did not start,Stockholm 1912,Athletics,javelin throw men
+50,NOR,ferdinand reinhardt bie,Did not start,Stockholm 1912,Athletics,javelin throw men
+51,SUI,bruno julius wagner,Did not start,Stockholm 1912,Athletics,javelin throw men
+52,SWE,hugo k. wieslander,Did not start,Stockholm 1912,Athletics,javelin throw men
+53,TUR,mkrtich mkryan,Did not start,Stockholm 1912,Athletics,javelin throw men
+54,USA,platt adams,Did not start,Stockholm 1912,Athletics,javelin throw men
+55,USA,samuel harrison bellah,Did not start,Stockholm 1912,Athletics,javelin throw men
+56,USA,richard leslie byrd,Did not start,Stockholm 1912,Athletics,javelin throw men
+57,USA,laurence atwood whitney,Did not start,Stockholm 1912,Athletics,javelin throw men
+58,FRA,andré désfarges,Did not start,Stockholm 1912,Athletics,javelin throw men
+0,USA,albert lovejoy gutterson,7.18,Stockholm 1912,Athletics,long jump men
+1,CAN,cal bricker,7.04,Stockholm 1912,Athletics,long jump men
+2,SWE,georg aberg,7.18,Stockholm 1912,Athletics,long jump men
+3,USA,harry thomas worthington,,Stockholm 1912,Athletics,long jump men
+4,USA,eugene leroy mercer,,Stockholm 1912,Athletics,long jump men
+5,USA,fred harold allen,,Stockholm 1912,Athletics,long jump men
+6,USA,jim thorpe,,Stockholm 1912,Athletics,long jump men
+7,GER,robert pasemann,,Stockholm 1912,Athletics,long jump men
+8,USA,francis c. irons,,Stockholm 1912,Athletics,long jump men
+9,GBR,henry sherard osb. ashington,,Stockholm 1912,Athletics,long jump men
+10,NOR,ferdinand reinhardt bie,,Stockholm 1912,Athletics,long jump men
+11,GBR,sidney solomon abrahams,,Stockholm 1912,Athletics,long jump men
+12,NOR,nils fixdal,,Stockholm 1912,Athletics,long jump men
+13,USA,eddie farrell,,Stockholm 1912,Athletics,long jump men
+14,GBR,philip cave kingsford,,Stockholm 1912,Athletics,long jump men
+15,FRA,andré campana,,Stockholm 1912,Athletics,long jump men
+16,SWE,charles lomberg,,Stockholm 1912,Athletics,long jump men
+17,AUT,viktor franzl,,Stockholm 1912,Athletics,long jump men
+18,ITA,angelo tonini,,Stockholm 1912,Athletics,long jump men
+19,SWE,patrik ohlsson,,Stockholm 1912,Athletics,long jump men
+20,SWE,gustav betzen,,Stockholm 1912,Athletics,long jump men
+21,RUS,aleksandr schultz,,Stockholm 1912,Athletics,long jump men
+22,AUT,philipp ehrnreich,,Stockholm 1912,Athletics,long jump men
+23,FIN,emil kukkola,,Stockholm 1912,Athletics,long jump men
+24,HUN,pal szalai,,Stockholm 1912,Athletics,long jump men
+25,HUN,nandor kovacs,,Stockholm 1912,Athletics,long jump men
+26,ITA,alfredo pagani,,Stockholm 1912,Athletics,long jump men
+27,CAN,arthur maranda,,Stockholm 1912,Athletics,long jump men
+28,ITA,manlio legat,,Stockholm 1912,Athletics,long jump men
+29,LUX,paul fournelle,NM,Stockholm 1912,Athletics,long jump men
+30,FRA,louis saint-aubert,Did not start,Stockholm 1912,Athletics,long jump men
+31,FRA,henri puncet,Did not start,Stockholm 1912,Athletics,long jump men
+32,FRA,raymond de guanderax,Did not start,Stockholm 1912,Athletics,long jump men
+33,HUN,józsef kosa,Did not start,Stockholm 1912,Athletics,long jump men
+34,FRA,pierre glanzmann,Did not start,Stockholm 1912,Athletics,long jump men
+35,HUN,eornel kell,Did not start,Stockholm 1912,Athletics,long jump men
+36,BEL,gaston martens,Did not start,Stockholm 1912,Athletics,long jump men
+37,FRA,robert bergeyre,Did not start,Stockholm 1912,Athletics,long jump men
+38,HUN,miklós nagy,Did not start,Stockholm 1912,Athletics,long jump men
+39,HUN,géza vadon,Did not start,Stockholm 1912,Athletics,long jump men
+40,HUN,lászló tihanyi,Did not start,Stockholm 1912,Athletics,long jump men
+41,FRA,charles hervoche,Did not start,Stockholm 1912,Athletics,long jump men
+42,FRA,robert de la brosse,Did not start,Stockholm 1912,Athletics,long jump men
+43,ITA,leone linardi,Did not start,Stockholm 1912,Athletics,long jump men
+44,GRE,emmanuel tsaloumas,Did not start,Stockholm 1912,Athletics,long jump men
+45,BOH,zdislav prágr,Did not start,Stockholm 1912,Athletics,long jump men
+46,FRA,louis picolet,Did not start,Stockholm 1912,Athletics,long jump men
+47,GBR,billy leach,Did not start,Stockholm 1912,Athletics,long jump men
+48,SWE,georg holmqvist,Did not start,Stockholm 1912,Athletics,long jump men
+49,ITA,giulio alvisi,Did not start,Stockholm 1912,Athletics,long jump men
+50,HUN,béla szabó,Did not start,Stockholm 1912,Athletics,long jump men
+51,SWE,carl silfverstrand,Did not start,Stockholm 1912,Athletics,long jump men
+52,BOH,vaclav labik,Did not start,Stockholm 1912,Athletics,long jump men
+53,BOH,bedrich vygoda,Did not start,Stockholm 1912,Athletics,long jump men
+54,CAN,william halpenny,Did not start,Stockholm 1912,Athletics,long jump men
+55,CAN,frank lukeman,Did not start,Stockholm 1912,Athletics,long jump men
+56,CHI,rodolfo hammersley,Did not start,Stockholm 1912,Athletics,long jump men
+57,FRA,andré jean rené labat,Did not start,Stockholm 1912,Athletics,long jump men
+58,FRA,paul lagarde,Did not start,Stockholm 1912,Athletics,long jump men
+59,GBR,william hunter,Did not start,Stockholm 1912,Athletics,long jump men
+60,GER,hermann von bönning-hausen,Did not start,Stockholm 1912,Athletics,long jump men
+61,HUN,kálmán szathmáry,Did not start,Stockholm 1912,Athletics,long jump men
+62,HUN,ferenc szobota,Did not start,Stockholm 1912,Athletics,long jump men
+63,HUN,ivan wardener,Did not start,Stockholm 1912,Athletics,long jump men
+64,ITA,carlo butti,Did not start,Stockholm 1912,Athletics,long jump men
+65,NOR,daniel victor johansen,Did not start,Stockholm 1912,Athletics,long jump men
+66,NOR,edvard larsen,Did not start,Stockholm 1912,Athletics,long jump men
+67,NOR,erling winne,Did not start,Stockholm 1912,Athletics,long jump men
+68,SWE,erik almlöf,Did not start,Stockholm 1912,Athletics,long jump men
+69,SWE,skotte jacobsson,Did not start,Stockholm 1912,Athletics,long jump men
+70,SWE,gustav lindblom,Did not start,Stockholm 1912,Athletics,long jump men
+71,SWE,gustaf norden,Did not start,Stockholm 1912,Athletics,long jump men
+72,SWE,hjalmar ohlsson,Did not start,Stockholm 1912,Athletics,long jump men
+73,SWE,paul g. zerling,Did not start,Stockholm 1912,Athletics,long jump men
+74,USA,platt adams,Did not start,Stockholm 1912,Athletics,long jump men
+75,USA,samuel harrison bellah,Did not start,Stockholm 1912,Athletics,long jump men
+76,USA,jim donahue,Did not start,Stockholm 1912,Athletics,long jump men
+77,USA,john patrick nicholson,Did not start,Stockholm 1912,Athletics,long jump men
+0,GRE,kostas tsiklitiras,3.34,Stockholm 1912,Athletics,long jump standing men
+1,USA,platt adams,3.36,Stockholm 1912,Athletics,long jump standing men
+2,USA,benjamin w. adams,3.28,Stockholm 1912,Athletics,long jump standing men
+3,SWE,gustav malmsten,,Stockholm 1912,Athletics,long jump standing men
+4,USA,leo goehring,,Stockholm 1912,Athletics,long jump standing men
+5,SWE,edvard möller,,Stockholm 1912,Athletics,long jump standing men
+6,HUN,andrás baronyi,,Stockholm 1912,Athletics,long jump standing men
+7,USA,richard leslie byrd,,Stockholm 1912,Athletics,long jump standing men
+8,USA,forest fletcher,,Stockholm 1912,Athletics,long jump standing men
+9,FRA,alfred motte,,Stockholm 1912,Athletics,long jump standing men
+10,SWE,gusatv ljunggren,,Stockholm 1912,Athletics,long jump standing men
+11,NOR,birger brodtkorb,,Stockholm 1912,Athletics,long jump standing men
+12,SWE,o.ragnar b. ekberg,,Stockholm 1912,Athletics,long jump standing men
+13,SWE,douglas melin,,Stockholm 1912,Athletics,long jump standing men
+14,GBR,henry sherard osb. ashington,,Stockholm 1912,Athletics,long jump standing men
+15,FRA,géo andré,,Stockholm 1912,Athletics,long jump standing men
+16,CAN,arthur maranda,,Stockholm 1912,Athletics,long jump standing men
+17,SWE,karl bergh,,Stockholm 1912,Athletics,long jump standing men
+18,GBR,philip cave kingsford,,Stockholm 1912,Athletics,long jump standing men
+19,NOR,olaf ingebretsen,Did not start,Stockholm 1912,Athletics,long jump standing men
+20,FRA,louis saint-aubert,Did not start,Stockholm 1912,Athletics,long jump standing men
+21,ITA,angelo pedrelli,Did not start,Stockholm 1912,Athletics,long jump standing men
+22,SWE,john johansson,Did not start,Stockholm 1912,Athletics,long jump standing men
+23,SWE,carl frick,Did not start,Stockholm 1912,Athletics,long jump standing men
+24,FRA,isaac kahn,Did not start,Stockholm 1912,Athletics,long jump standing men
+25,HUN,endré száll,Did not start,Stockholm 1912,Athletics,long jump standing men
+26,ITA,claudio carpi,Did not start,Stockholm 1912,Athletics,long jump standing men
+27,FRA,fernand gillard,Did not start,Stockholm 1912,Athletics,long jump standing men
+28,HUN,andrás somodi,Did not start,Stockholm 1912,Athletics,long jump standing men
+29,FRA,laurent casson,Did not start,Stockholm 1912,Athletics,long jump standing men
+30,HUN,géza vadon,Did not start,Stockholm 1912,Athletics,long jump standing men
+31,HUN,lászló tihanyi,Did not start,Stockholm 1912,Athletics,long jump standing men
+32,USA,russ palmer,Did not start,Stockholm 1912,Athletics,long jump standing men
+33,FRA,robert de la brosse,Did not start,Stockholm 1912,Athletics,long jump standing men
+34,ITA,leone linardi,Did not start,Stockholm 1912,Athletics,long jump standing men
+35,USA,russell beatty,Did not start,Stockholm 1912,Athletics,long jump standing men
+36,GRE,emmanuel tsaloumas,Did not start,Stockholm 1912,Athletics,long jump standing men
+37,BOH,zdislav prágr,Did not start,Stockholm 1912,Athletics,long jump standing men
+38,HUN,ignácz akos,Did not start,Stockholm 1912,Athletics,long jump standing men
+39,NOR,martin jacobsen,Did not start,Stockholm 1912,Athletics,long jump standing men
+40,GBR,billy leach,Did not start,Stockholm 1912,Athletics,long jump standing men
+41,FIN,rafael peltonen,Did not start,Stockholm 1912,Athletics,long jump standing men
+42,SWE,helmer måhl,Did not start,Stockholm 1912,Athletics,long jump standing men
+43,FRA,maurice laraigné,Did not start,Stockholm 1912,Athletics,long jump standing men
+44,ITA,francesco d'ercole,Did not start,Stockholm 1912,Athletics,long jump standing men
+45,HUN,gyula pivnik,Did not start,Stockholm 1912,Athletics,long jump standing men
+46,DEN,hans langkjær,Did not start,Stockholm 1912,Athletics,long jump standing men
+47,NOR,sverre gröner,Did not start,Stockholm 1912,Athletics,long jump standing men
+48,BOH,ladislav jiranek,Did not start,Stockholm 1912,Athletics,long jump standing men
+49,CHI,rodolfo hammersley,Did not start,Stockholm 1912,Athletics,long jump standing men
+50,FRA,henri alphonse jardin,Did not start,Stockholm 1912,Athletics,long jump standing men
+51,GBR,sidney solomon abrahams,Did not start,Stockholm 1912,Athletics,long jump standing men
+52,GBR,william hunter,Did not start,Stockholm 1912,Athletics,long jump standing men
+53,ITA,alfredo pagani,Did not start,Stockholm 1912,Athletics,long jump standing men
+54,ITA,angelo tonini,Did not start,Stockholm 1912,Athletics,long jump standing men
+55,SWE,erik almlöf,Did not start,Stockholm 1912,Athletics,long jump standing men
+56,SWE,einar nilsson,Did not start,Stockholm 1912,Athletics,long jump standing men
+57,USA,frank v. belote,Did not start,Stockholm 1912,Athletics,long jump standing men
+58,USA,john biller,Did not start,Stockholm 1912,Athletics,long jump standing men
+59,USA,albert lovejoy gutterson,Did not start,Stockholm 1912,Athletics,long jump standing men
+60,USA,francis c. irons,Did not start,Stockholm 1912,Athletics,long jump standing men
+0,RSA,ken mcarthur,02:36:54.800,Stockholm 1912,Athletics,marathon men
+1,RSA,chris gitsham,02:37:52.000,Stockholm 1912,Athletics,marathon men
+2,USA,gaston strobino,02:38:42.400,Stockholm 1912,Athletics,marathon men
+3,USA,andrew sockalexis,02:42:07.900,Stockholm 1912,Athletics,marathon men
+4,CAN,james duffy,02:42:18.800,Stockholm 1912,Athletics,marathon men
+5,SWE,sigfrid jacobsson,02:43:24.900,Stockholm 1912,Athletics,marathon men
+6,USA,john james gallagher,02:44:19.400,Stockholm 1912,Athletics,marathon men
+7,USA,joseph erxleben,02:45:47.200,Stockholm 1912,Athletics,marathon men
+8,USA,richard francis piggott,02:46:40.700,Stockholm 1912,Athletics,marathon men
+9,USA,joe forshaw,02:49:49.400,Stockholm 1912,Athletics,marathon men
+10,CAN,ed fabre,02:50:36.200,Stockholm 1912,Athletics,marathon men
+11,USA,clarence harrison de mar,02:50:46.600,Stockholm 1912,Athletics,marathon men
+12,FRA,renon boissière,02:51:06.600,Stockholm 1912,Athletics,marathon men
+13,GBR,henry harold green,02:52:11.400,Stockholm 1912,Athletics,marathon men
+14,CAN,william charles forsyth,02:52:23.000,Stockholm 1912,Athletics,marathon men
+15,USA,lewis tewanima,02:52:41.400,Stockholm 1912,Athletics,marathon men
+16,USA,harry j. smith,02:52:53.800,Stockholm 1912,Athletics,marathon men
+17,USA,thomas h. lilley,02:59:35.400,Stockholm 1912,Athletics,marathon men
+18,GBR,arthur townsend,03:00:05.000,Stockholm 1912,Athletics,marathon men
+19,AUT,felix kwieton,03:00:48.000,Stockholm 1912,Athletics,marathon men
+20,GBR,frederick thomas lord,03:01:39.200,Stockholm 1912,Athletics,marathon men
+21,SWE,jacob westberg,03:02:05.200,Stockholm 1912,Athletics,marathon men
+22,NOR,axel g. simonsen,03:04:59.400,Stockholm 1912,Athletics,marathon men
+23,SWE,carl nicanor andersson,03:06:13.000,Stockholm 1912,Athletics,marathon men
+24,GBR,edgar william lloyd,03:09:25.000,Stockholm 1912,Athletics,marathon men
+25,GRE,herkules p. sakellaropoulos,03:11:37.000,Stockholm 1912,Athletics,marathon men
+26,SWE,hjalmar dahlberg,03:13:32.200,Stockholm 1912,Athletics,marathon men
+27,SWE,ivar lundberg,03:16:35.200,Stockholm 1912,Athletics,marathon men
+28,DEN,johannes laurs christensen,03:21:57.400,Stockholm 1912,Athletics,marathon men
+29,DEN,olaf lodal,03:21:57.600,Stockholm 1912,Athletics,marathon men
+30,HUN,ödön karpati,03:25:21.600,Stockholm 1912,Athletics,marathon men
+31,SWE,carl nilsson,03:26:56.400,Stockholm 1912,Athletics,marathon men
+32,AUT,emmerich rath,03:27:03.800,Stockholm 1912,Athletics,marathon men
+33,NOR,otto osen,03:36:35.200,Stockholm 1912,Athletics,marathon men
+34,ANZ,stuart poulter,Did not finish,Stockholm 1912,Athletics,marathon men
+35,AUT,karl hack,Did not finish,Stockholm 1912,Athletics,marathon men
+36,BOH,boris honzátko,Did not finish,Stockholm 1912,Athletics,marathon men
+37,BOH,vladimir penc,Did not finish,Stockholm 1912,Athletics,marathon men
+38,BOH,františek slavík,Did not finish,Stockholm 1912,Athletics,marathon men
+39,CAN,james corkery,Did not finish,Stockholm 1912,Athletics,marathon men
+40,FIN,aarne kallberg,Did not finish,Stockholm 1912,Athletics,marathon men
+41,FIN,taavetti heikki kolehmainen,Did not finish,Stockholm 1912,Athletics,marathon men
+42,FRA,louis pautex,Did not finish,Stockholm 1912,Athletics,marathon men
+43,GBR,henry fredreick barrett,Did not finish,Stockholm 1912,Athletics,marathon men
+44,GBR,james george beale,Did not finish,Stockholm 1912,Athletics,marathon men
+45,GBR,septimus francom,Did not finish,Stockholm 1912,Athletics,marathon men
+46,GBR,tim kellaway,Did not finish,Stockholm 1912,Athletics,marathon men
+47,HUN,henrik ripszam,Did not finish,Stockholm 1912,Athletics,marathon men
+48,ITA,francesco ruggero,Did not finish,Stockholm 1912,Athletics,marathon men
+49,ITA,carlo speroni,Did not finish,Stockholm 1912,Athletics,marathon men
+50,JPN,shizo kanaguri,Did not finish,Stockholm 1912,Athletics,marathon men
+51,NOR,oscar fonbæk,Did not finish,Stockholm 1912,Athletics,marathon men
+52,POR,francisco lázaro,Did not finish,Stockholm 1912,Athletics,marathon men
+53,RSA,arthur st. norman,Did not finish,Stockholm 1912,Athletics,marathon men
+54,RUS,andrejs kapmals,Did not finish,Stockholm 1912,Athletics,marathon men
+55,RUS,andrejs kruklins,Did not finish,Stockholm 1912,Athletics,marathon men
+56,RUS,nikolajs rasso,Did not finish,Stockholm 1912,Athletics,marathon men
+57,RUS,elmar reimann,Did not finish,Stockholm 1912,Athletics,marathon men
+58,RUS,aleksandrs upmals,Did not finish,Stockholm 1912,Athletics,marathon men
+59,SRB,dragutin tomaå evic,Did not finish,Stockholm 1912,Athletics,marathon men
+60,SWE,alexis ahlgren,Did not finish,Stockholm 1912,Athletics,marathon men
+61,SWE,j. thure bergvall,Did not finish,Stockholm 1912,Athletics,marathon men
+62,SWE,william grüner,Did not finish,Stockholm 1912,Athletics,marathon men
+63,SWE,david guttman,Did not finish,Stockholm 1912,Athletics,marathon men
+64,SWE,ivan lönnberg,Did not finish,Stockholm 1912,Athletics,marathon men
+65,SWE,gustaf törnros,Did not finish,Stockholm 1912,Athletics,marathon men
+66,USA,gavin john eugene reynolds,Did not finish,Stockholm 1912,Athletics,marathon men
+67,USA,mike ryan,Did not finish,Stockholm 1912,Athletics,marathon men
+68,CAN,jack tait,Did not start,Stockholm 1912,Athletics,marathon men
+69,FRA,ali ben allel,Did not start,Stockholm 1912,Athletics,marathon men
+70,FRA,gaston capelle,Did not start,Stockholm 1912,Athletics,marathon men
+71,FRA,paul coulond,Did not start,Stockholm 1912,Athletics,marathon men
+72,FRA,jean lespielle,Did not start,Stockholm 1912,Athletics,marathon men
+73,FRA,henri lorgnat,Did not start,Stockholm 1912,Athletics,marathon men
+74,FRA,edmond neyrinck,Did not start,Stockholm 1912,Athletics,marathon men
+75,FRA,ahmed djebelia,Did not start,Stockholm 1912,Athletics,marathon men
+76,GBR,charlie davenport,Did not start,Stockholm 1912,Athletics,marathon men
+77,GBR,george day,Did not start,Stockholm 1912,Athletics,marathon men
+78,GBR,henry lewis,Did not start,Stockholm 1912,Athletics,marathon men
+79,GBR,samuel raynes,Did not start,Stockholm 1912,Athletics,marathon men
+80,ITA,nino cazzaniga,Did not start,Stockholm 1912,Athletics,marathon men
+81,ITA,orlando cesaroni,Did not start,Stockholm 1912,Athletics,marathon men
+82,NOR,alfred nilsen,Did not start,Stockholm 1912,Athletics,marathon men
+83,NOR,ole olsen,Did not start,Stockholm 1912,Athletics,marathon men
+84,NOR,johannes pedersen,Did not start,Stockholm 1912,Athletics,marathon men
+85,POR,matias de carvalho,Did not start,Stockholm 1912,Athletics,marathon men
+86,RUS,aleksandr krachenin,Did not start,Stockholm 1912,Athletics,marathon men
+87,RUS,iosif zaytsev,Did not start,Stockholm 1912,Athletics,marathon men
+88,RUS,rené wilde,Did not start,Stockholm 1912,Athletics,marathon men
+89,SRB,zivko vastitsch,Did not start,Stockholm 1912,Athletics,marathon men
+90,CAN,alexander decouteau,Did not start,Stockholm 1912,Athletics,marathon men
+91,CAN,george goulding,Did not start,Stockholm 1912,Athletics,marathon men
+92,CAN,joe keeper,Did not start,Stockholm 1912,Athletics,marathon men
+93,CHI,alfonso sanchez rodriguez,Did not start,Stockholm 1912,Athletics,marathon men
+94,FRA,gaston heuet,Did not start,Stockholm 1912,Athletics,marathon men
+95,RSA,len richardson,Did not start,Stockholm 1912,Athletics,marathon men
+96,RUS,mikhail nikolsky,Did not start,Stockholm 1912,Athletics,marathon men
+97,RUS,nikolay khorkov,Did not start,Stockholm 1912,Athletics,marathon men
+0,USA,jim thorpe,1,Stockholm 1912,Athletics,pentathlon men
+1,NOR,ferdinand reinhardt bie,6,Stockholm 1912,Athletics,pentathlon men
+2,USA,jim donahue,3,Stockholm 1912,Athletics,pentathlon men
+3,CAN,frank lukeman,5,Stockholm 1912,Athletics,pentathlon men
+4,USA,james august menaul,2,Stockholm 1912,Athletics,pentathlon men
+5,USA,avery brundage,,Stockholm 1912,Athletics,pentathlon men
+6,SWE,hugo k. wieslander,4,Stockholm 1912,Athletics,pentathlon men
+7,SWE,gösta holmer,,Stockholm 1912,Athletics,pentathlon men
+8,SWE,inge lindholm,,Stockholm 1912,Athletics,pentathlon men
+9,SWE,oscar r. lemming,,Stockholm 1912,Athletics,pentathlon men
+10,SWE,nils fjästad,,Stockholm 1912,Athletics,pentathlon men
+11,FIN,emil kukkola,,Stockholm 1912,Athletics,pentathlon men
+12,GER,otto bäurle,,Stockholm 1912,Athletics,pentathlon men
+13,SWE,einar nilsson,,Stockholm 1912,Athletics,pentathlon men
+14,SWE,erik kugelberg,,Stockholm 1912,Athletics,pentathlon men
+15,SWE,charles lomberg,,Stockholm 1912,Athletics,pentathlon men
+16,FRA,pierre failliot,,Stockholm 1912,Athletics,pentathlon men
+17,SWE,hugo ericson,,Stockholm 1912,Athletics,pentathlon men
+18,USA,jack eller,,Stockholm 1912,Athletics,pentathlon men
+19,SUI,bruno julius wagner,,Stockholm 1912,Athletics,pentathlon men
+20,AUT,gustav krojer,,Stockholm 1912,Athletics,pentathlon men
+21,FRA,géo andré,,Stockholm 1912,Athletics,pentathlon men
+22,TUR,mkrtich mkryan,,Stockholm 1912,Athletics,pentathlon men
+23,ITA,alfredo pagani,,Stockholm 1912,Athletics,pentathlon men
+24,GER,karl ferdinand ritter von halt,Did not finish,Stockholm 1912,Athletics,pentathlon men
+25,GER,josef waitzer,Did not finish,Stockholm 1912,Athletics,pentathlon men
+26,ITA,angelo pedrelli,Did not start,Stockholm 1912,Athletics,pentathlon men
+27,HUN,ernö holescek,Did not start,Stockholm 1912,Athletics,pentathlon men
+28,GRE,mikhail nomikos,Did not start,Stockholm 1912,Athletics,pentathlon men
+29,USA,harry frykberg,Did not start,Stockholm 1912,Athletics,pentathlon men
+30,HUN,lászló lichteneckert,Did not start,Stockholm 1912,Athletics,pentathlon men
+31,FRA,clément mentrel,Did not start,Stockholm 1912,Athletics,pentathlon men
+32,ITA,leone linardi,Did not start,Stockholm 1912,Athletics,pentathlon men
+33,HUN,frigyes mezei,Did not start,Stockholm 1912,Athletics,pentathlon men
+34,DEN,kay schwendsen,Did not start,Stockholm 1912,Athletics,pentathlon men
+35,ITA,giulio alvisi,Did not start,Stockholm 1912,Athletics,pentathlon men
+36,BOH,jindrich jirsak,Did not start,Stockholm 1912,Athletics,pentathlon men
+37,CHI,rodolfo hammersley,Did not start,Stockholm 1912,Athletics,pentathlon men
+38,DEN,svend langkjaer,Did not start,Stockholm 1912,Athletics,pentathlon men
+39,FIN,aarne salovaara,Did not start,Stockholm 1912,Athletics,pentathlon men
+40,FRA,andré foussard,Did not start,Stockholm 1912,Athletics,pentathlon men
+41,FRA,raoul lucien paoli,Did not start,Stockholm 1912,Athletics,pentathlon men
+42,GER,alex abraham,Did not start,Stockholm 1912,Athletics,pentathlon men
+43,GRE,kostas tsiklitiras,Did not start,Stockholm 1912,Athletics,pentathlon men
+44,HUN,györgy lunzer,Did not start,Stockholm 1912,Athletics,pentathlon men
+45,ITA,carlo butti,Did not start,Stockholm 1912,Athletics,pentathlon men
+46,ITA,manlio legat,Did not start,Stockholm 1912,Athletics,pentathlon men
+47,RUS,ulrick baasch,Did not start,Stockholm 1912,Athletics,pentathlon men
+48,SWE,knut lindberg,Did not start,Stockholm 1912,Athletics,pentathlon men
+49,SWE,bertil uggla,Did not start,Stockholm 1912,Athletics,pentathlon men
+50,SWE,paul g. zerling,Did not start,Stockholm 1912,Athletics,pentathlon men
+51,USA,platt adams,Did not start,Stockholm 1912,Athletics,pentathlon men
+52,USA,harry stoddard babcock,Did not start,Stockholm 1912,Athletics,pentathlon men
+53,USA,richard leslie byrd,Did not start,Stockholm 1912,Athletics,pentathlon men
+54,USA,eugene leroy mercer,Did not start,Stockholm 1912,Athletics,pentathlon men
+55,USA,george warren philbrook,Did not start,Stockholm 1912,Athletics,pentathlon men
+0,USA,harry stoddard babcock,3.95,Stockholm 1912,Athletics,pole vault men
+1,USA,frank thayer nelson,3.85,Stockholm 1912,Athletics,pole vault men
+2,USA,marc snowell wright,3.85,Stockholm 1912,Athletics,pole vault men
+3,CAN,william halpenny,3.8,Stockholm 1912,Athletics,pole vault men
+4,SWE,bertil uggla,3.8,Stockholm 1912,Athletics,pole vault men
+5,USA,frank dwyer murphy,3.8,Stockholm 1912,Athletics,pole vault men
+6,USA,samuel harrison bellah,3.75,Stockholm 1912,Athletics,pole vault men
+7,USA,frank james coyle,3.65,Stockholm 1912,Athletics,pole vault men
+8,USA,gordon bennett dukes,3.65,Stockholm 1912,Athletics,pole vault men
+9,USA,william howard fritz,3.65,Stockholm 1912,Athletics,pole vault men
+10,GER,robert pasemann,3.4,Stockholm 1912,Athletics,pole vault men
+11,RUS,johann martin,,Stockholm 1912,Athletics,pole vault men
+12,HUN,jános szemere,Did not start,Stockholm 1912,Athletics,pole vault men
+13,SWE,erik simonsson,Did not start,Stockholm 1912,Athletics,pole vault men
+14,USA,barton haggard,Did not start,Stockholm 1912,Athletics,pole vault men
+15,FRA,maurice garon,Did not start,Stockholm 1912,Athletics,pole vault men
+16,ITA,leone linardi,Did not start,Stockholm 1912,Athletics,pole vault men
+17,USA,stanley wagoner,Did not start,Stockholm 1912,Athletics,pole vault men
+18,ITA,furio bini,Did not start,Stockholm 1912,Athletics,pole vault men
+19,FRA,andré francquenelle,Did not start,Stockholm 1912,Athletics,pole vault men
+20,FRA,charles lagarde,Did not start,Stockholm 1912,Athletics,pole vault men
+21,HUN,kálmán szathmáry,Did not start,Stockholm 1912,Athletics,pole vault men
+22,ITA,alfredo pagani,Did not start,Stockholm 1912,Athletics,pole vault men
+23,SWE,gösta holmer,Did not start,Stockholm 1912,Athletics,pole vault men
+24,SWE,skotte jacobsson,Did not start,Stockholm 1912,Athletics,pole vault men
+25,SWE,charles lomberg,Did not start,Stockholm 1912,Athletics,pole vault men
+26,SWE,hugo k. wieslander,Did not start,Stockholm 1912,Athletics,pole vault men
+27,USA,eugene leroy mercer,Did not start,Stockholm 1912,Athletics,pole vault men
+0,USA,ralph rose,27.7,Stockholm 1912,Athletics,shot put both hands men
+1,USA,pat mcdonald,27.53,Stockholm 1912,Athletics,shot put both hands men
+2,FIN,elmer konstantin niklander,27.14,Stockholm 1912,Athletics,shot put both hands men
+3,USA,laurence atwood whitney,,Stockholm 1912,Athletics,shot put both hands men
+4,SWE,einar nilsson,,Stockholm 1912,Athletics,shot put both hands men
+5,FIN,paavo aho,,Stockholm 1912,Athletics,shot put both hands men
+6,TUR,mkrtich mkryan,,Stockholm 1912,Athletics,shot put both hands men
+7,SWE,erik svensson,Did not start,Stockholm 1912,Athletics,shot put both hands men
+8,SWE,janne andersson,Did not start,Stockholm 1912,Athletics,shot put both hands men
+9,USA,al reich,Did not start,Stockholm 1912,Athletics,shot put both hands men
+10,HUN,géza pogány,Did not start,Stockholm 1912,Athletics,shot put both hands men
+11,USA,henry klages,Did not start,Stockholm 1912,Athletics,shot put both hands men
+12,USA,russell beatty,Did not start,Stockholm 1912,Athletics,shot put both hands men
+13,USA,herbert thatcher,Did not start,Stockholm 1912,Athletics,shot put both hands men
+14,HUN,kálmán kirchhoffer,Did not start,Stockholm 1912,Athletics,shot put both hands men
+15,HUN,szilárd joanovits,Did not start,Stockholm 1912,Athletics,shot put both hands men
+16,GRE,nikolaos georgantas,Did not start,Stockholm 1912,Athletics,shot put both hands men
+17,HUN,imre mudin,Did not start,Stockholm 1912,Athletics,shot put both hands men
+18,HUN,rezső ujlaki,Did not start,Stockholm 1912,Athletics,shot put both hands men
+19,SWE,eric lemming,Did not start,Stockholm 1912,Athletics,shot put both hands men
+20,SWE,carl johan lind,Did not start,Stockholm 1912,Athletics,shot put both hands men
+21,SWE,emil magnusson,Did not start,Stockholm 1912,Athletics,shot put both hands men
+22,SWE,henning möller,Did not start,Stockholm 1912,Athletics,shot put both hands men
+23,SWE,gunar nilsson,Did not start,Stockholm 1912,Athletics,shot put both hands men
+24,SWE,otto nilsson,Did not start,Stockholm 1912,Athletics,shot put both hands men
+25,SWE,c. robert olsson,Did not start,Stockholm 1912,Athletics,shot put both hands men
+26,SWE,hugo k. wieslander,Did not start,Stockholm 1912,Athletics,shot put both hands men
+27,USA,george warren philbrook,Did not start,Stockholm 1912,Athletics,shot put both hands men
+28,USA,jim thorpe,Did not start,Stockholm 1912,Athletics,shot put both hands men
+0,USA,pat mcdonald,15.34,Stockholm 1912,Athletics,shot put men
+1,USA,ralph rose,15.25,Stockholm 1912,Athletics,shot put men
+2,USA,laurence atwood whitney,13.93,Stockholm 1912,Athletics,shot put men
+3,FIN,elmer konstantin niklander,,Stockholm 1912,Athletics,shot put men
+4,USA,george warren philbrook,,Stockholm 1912,Athletics,shot put men
+5,HUN,imre mudin,,Stockholm 1912,Athletics,shot put men
+6,SWE,einar nilsson,,Stockholm 1912,Athletics,shot put men
+7,GBR,patrick quinn,,Stockholm 1912,Athletics,shot put men
+8,FRA,andré tison,,Stockholm 1912,Athletics,shot put men
+9,FIN,paavo aho,,Stockholm 1912,Athletics,shot put men
+10,GRE,mikhail dorizas,,Stockholm 1912,Athletics,shot put men
+11,ITA,aurelio lenzi,,Stockholm 1912,Athletics,shot put men
+12,AUT,josef schäffer,,Stockholm 1912,Athletics,shot put men
+13,GER,karl ferdinand ritter von halt,,Stockholm 1912,Athletics,shot put men
+14,BOH,frantisek janda-suk,,Stockholm 1912,Athletics,shot put men
+15,FRA,raoul lucien paoli,,Stockholm 1912,Athletics,shot put men
+16,LUX,marcel pelletier,,Stockholm 1912,Athletics,shot put men
+17,GER,paul willführ,,Stockholm 1912,Athletics,shot put men
+18,TUR,mkrtich mkryan,,Stockholm 1912,Athletics,shot put men
+19,RUS,eriks wannag,,Stockholm 1912,Athletics,shot put men
+20,RUS,arvids ohsol-berne,,Stockholm 1912,Athletics,shot put men
+21,FRA,charles lagarde,,Stockholm 1912,Athletics,shot put men
+22,SWE,erik svensson,Did not start,Stockholm 1912,Athletics,shot put men
+23,ITA,angelo pedrelli,Did not start,Stockholm 1912,Athletics,shot put men
+24,SWE,janne andersson,Did not start,Stockholm 1912,Athletics,shot put men
+25,USA,al reich,Did not start,Stockholm 1912,Athletics,shot put men
+26,ITA,pietro erculei,Did not start,Stockholm 1912,Athletics,shot put men
+27,HUN,géza pogány,Did not start,Stockholm 1912,Athletics,shot put men
+28,RUS,vencheslav ostrukhov,Did not start,Stockholm 1912,Athletics,shot put men
+29,USA,will ziegler,Did not start,Stockholm 1912,Athletics,shot put men
+30,USA,arthur bartlett,Did not start,Stockholm 1912,Athletics,shot put men
+31,USA,henry klages,Did not start,Stockholm 1912,Athletics,shot put men
+32,USA,russell beatty,Did not start,Stockholm 1912,Athletics,shot put men
+33,RUS,august kihlart,Did not start,Stockholm 1912,Athletics,shot put men
+34,USA,herbert thatcher,Did not start,Stockholm 1912,Athletics,shot put men
+35,HUN,kálmán kirchhoffer,Did not start,Stockholm 1912,Athletics,shot put men
+36,AUT,karl michl,Did not start,Stockholm 1912,Athletics,shot put men
+37,FRA,gustave lemasson,Did not start,Stockholm 1912,Athletics,shot put men
+38,FRA,gustave amoly,Did not start,Stockholm 1912,Athletics,shot put men
+39,USA,arthur kohler,Did not start,Stockholm 1912,Athletics,shot put men
+40,HUN,szilárd joanovits,Did not start,Stockholm 1912,Athletics,shot put men
+41,FRA,pierre failliot,Did not start,Stockholm 1912,Athletics,shot put men
+42,GBR,ned barrett,Did not start,Stockholm 1912,Athletics,shot put men
+43,GBR,thomas rae nicolson,Did not start,Stockholm 1912,Athletics,shot put men
+44,GER,alex abraham,Did not start,Stockholm 1912,Athletics,shot put men
+45,GER,josef waitzer,Did not start,Stockholm 1912,Athletics,shot put men
+46,GRE,nikolaos georgantas,Did not start,Stockholm 1912,Athletics,shot put men
+47,HUN,rezső ujlaki,Did not start,Stockholm 1912,Athletics,shot put men
+48,ITA,umberto avattaneo,Did not start,Stockholm 1912,Athletics,shot put men
+49,ITA,carlo butti,Did not start,Stockholm 1912,Athletics,shot put men
+50,ITA,giuseppe tugnoli,Did not start,Stockholm 1912,Athletics,shot put men
+51,SWE,eric lemming,Did not start,Stockholm 1912,Athletics,shot put men
+52,SWE,carl johan lind,Did not start,Stockholm 1912,Athletics,shot put men
+53,SWE,emil magnusson,Did not start,Stockholm 1912,Athletics,shot put men
+54,SWE,henning möller,Did not start,Stockholm 1912,Athletics,shot put men
+55,SWE,gunar nilsson,Did not start,Stockholm 1912,Athletics,shot put men
+56,SWE,otto nilsson,Did not start,Stockholm 1912,Athletics,shot put men
+57,SWE,c. robert olsson,Did not start,Stockholm 1912,Athletics,shot put men
+58,SWE,hugo k. wieslander,Did not start,Stockholm 1912,Athletics,shot put men
+59,USA,arlie max mucks,Did not start,Stockholm 1912,Athletics,shot put men
+60,FRA,andré désfarges,Did not start,Stockholm 1912,Athletics,shot put men
+0,SWE,gustav lindblom,14.35,Stockholm 1912,Athletics,triple jump men
+1,SWE,georg aberg,14.03,Stockholm 1912,Athletics,triple jump men
+2,SWE,erik almlöf,14.1,Stockholm 1912,Athletics,triple jump men
+3,NOR,erling winne,,Stockholm 1912,Athletics,triple jump men
+4,USA,platt adams,,Stockholm 1912,Athletics,triple jump men
+5,NOR,edvard larsen,,Stockholm 1912,Athletics,triple jump men
+6,SWE,hjalmar ohlsson,,Stockholm 1912,Athletics,triple jump men
+7,NOR,nils fixdal,,Stockholm 1912,Athletics,triple jump men
+8,USA,charles edward brickley,,Stockholm 1912,Athletics,triple jump men
+9,SWE,gustaf norden,,Stockholm 1912,Athletics,triple jump men
+10,FIN,juho halme,,Stockholm 1912,Athletics,triple jump men
+11,SWE,inge lindholm,,Stockholm 1912,Athletics,triple jump men
+12,USA,eddie farrell,,Stockholm 1912,Athletics,triple jump men
+13,GER,otto bäurle,,Stockholm 1912,Athletics,triple jump men
+14,SWE,patrik ohlsson,,Stockholm 1912,Athletics,triple jump men
+15,AUT,gustav krojer,,Stockholm 1912,Athletics,triple jump men
+16,SWE,skotte jacobsson,,Stockholm 1912,Athletics,triple jump men
+17,CAN,cal bricker,,Stockholm 1912,Athletics,triple jump men
+18,GBR,timothy carroll,,Stockholm 1912,Athletics,triple jump men
+19,CAN,arthur maranda,,Stockholm 1912,Athletics,triple jump men
+20,GBR,daniel campbell,Did not start,Stockholm 1912,Athletics,triple jump men
+21,HUN,géza vadon,Did not start,Stockholm 1912,Athletics,triple jump men
+22,HUN,lászló tihanyi,Did not start,Stockholm 1912,Athletics,triple jump men
+23,USA,james wilkinson,Did not start,Stockholm 1912,Athletics,triple jump men
+24,ITA,leone linardi,Did not start,Stockholm 1912,Athletics,triple jump men
+25,ITA,giulio alvisi,Did not start,Stockholm 1912,Athletics,triple jump men
+26,ITA,colombo zevola,Did not start,Stockholm 1912,Athletics,triple jump men
+27,ITA,furio bini,Did not start,Stockholm 1912,Athletics,triple jump men
+28,USA,james wasson,Did not start,Stockholm 1912,Athletics,triple jump men
+29,LUX,paul fournelle,Did not start,Stockholm 1912,Athletics,triple jump men
+30,AUT,viktor franzl,Did not start,Stockholm 1912,Athletics,triple jump men
+31,CAN,william halpenny,Did not start,Stockholm 1912,Athletics,triple jump men
+32,CHI,pablo eithel,Did not start,Stockholm 1912,Athletics,triple jump men
+33,CHI,rodolfo hammersley,Did not start,Stockholm 1912,Athletics,triple jump men
+34,GBR,sidney solomon abrahams,Did not start,Stockholm 1912,Athletics,triple jump men
+35,GBR,henry sherard osb. ashington,Did not start,Stockholm 1912,Athletics,triple jump men
+36,GBR,thomas o'donohue,Did not start,Stockholm 1912,Athletics,triple jump men
+37,GRE,dimitrios triantafyllakos,Did not start,Stockholm 1912,Athletics,triple jump men
+38,HUN,nandor kovacs,Did not start,Stockholm 1912,Athletics,triple jump men
+39,HUN,pal szalai,Did not start,Stockholm 1912,Athletics,triple jump men
+40,ITA,manlio legat,Did not start,Stockholm 1912,Athletics,triple jump men
+41,ITA,alfredo pagani,Did not start,Stockholm 1912,Athletics,triple jump men
+42,SWE,gustav betzen,Did not start,Stockholm 1912,Athletics,triple jump men
+43,SWE,sten hagander,Did not start,Stockholm 1912,Athletics,triple jump men
+44,SWE,sander santesson,Did not start,Stockholm 1912,Athletics,triple jump men
+45,USA,benjamin w. adams,Did not start,Stockholm 1912,Athletics,triple jump men
+46,USA,harry stoddard babcock,Did not start,Stockholm 1912,Athletics,triple jump men
+47,USA,leo goehring,Did not start,Stockholm 1912,Athletics,triple jump men
+48,USA,albert lovejoy gutterson,Did not start,Stockholm 1912,Athletics,triple jump men
+49,USA,francis c. irons,Did not start,Stockholm 1912,Athletics,triple jump men
+50,USA,jim thorpe,Did not start,Stockholm 1912,Athletics,triple jump men

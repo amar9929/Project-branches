@@ -1,0 +1,157 @@
+,country,participant,result,olympic_game,discipline,event
+0,GBR,alfred tysoe,00:02:01.200,Paris 1900,Athletics,800m men
+1,USA,john cregan,at 3 yards,Paris 1900,Athletics,800m men
+2,USA,david hall,at 8 yards,Paris 1900,Athletics,800m men
+3,FRA,henry deloge,,Paris 1900,Athletics,800m men
+4,HUN,zoltan speidl,,Paris 1900,Athletics,800m men
+5,USA,john bray,,Paris 1900,Athletics,800m men
+6,USA,alex grant,,Paris 1900,Athletics,800m men
+7,USA,walter drumheller,,Paris 1900,Athletics,800m men
+8,ITA,emilio banfi,,Paris 1900,Athletics,800m men
+9,USA,edward bushnell,,Paris 1900,Athletics,800m men
+10,USA,harrison smith,,Paris 1900,Athletics,800m men
+11,BOH,ondrej pukl,,Paris 1900,Athletics,800m men
+12,USA,edward mechling,,Paris 1900,Athletics,800m men
+13,AUT,cornelius von lubowiecki,Did not start,Paris 1900,Athletics,800m men
+14,GER,johannes runge,Did not start,Paris 1900,Athletics,800m men
+15,USA,william moloney,Did not start,Paris 1900,Athletics,800m men
+16,USA,george wood,Did not start,Paris 1900,Athletics,800m men
+0,HUN,rudolf bauer,OR,Paris 1900,Athletics,discus throw men
+1,BOH,frantisek janda-suk,35.14,Paris 1900,Athletics,discus throw men
+2,USA,richard sheldon,34.6,Paris 1900,Athletics,discus throw men
+3,GRE,panagiotis paraskevopoulos,34.5,Paris 1900,Athletics,discus throw men
+4,HUN,rezső crettier,,Paris 1900,Athletics,discus throw men
+5,SWE,gustaf söderström,,Paris 1900,Athletics,discus throw men
+6,USA,john joseph flanagan,,Paris 1900,Athletics,discus throw men
+7,SWE,eric lemming,,Paris 1900,Athletics,discus throw men
+8,DEN,charles winckler,,Paris 1900,Athletics,discus throw men
+9,USA,josiah mccracken,,Paris 1900,Athletics,discus throw men
+10,HUN,artúr coray,,Paris 1900,Athletics,discus throw men
+11,GBR,launceston elliot,,Paris 1900,Athletics,discus throw men
+12,FRA,émile gontier,,Paris 1900,Athletics,discus throw men
+13,HUN,gyula strausz,,Paris 1900,Athletics,discus throw men
+14,USA,bob garrett,NM,Paris 1900,Athletics,discus throw men
+15,USA,thomas truxton hare,NM,Paris 1900,Athletics,discus throw men
+16,AUT,cornelius von lubowiecki,,Paris 1900,Athletics,discus throw men
+17,FRA,andré roosevelt,Did not start,Paris 1900,Athletics,discus throw men
+18,GRE,sotirios versis,Did not start,Paris 1900,Athletics,discus throw men
+19,SWE,karl gustav staaf,Did not start,Paris 1900,Athletics,discus throw men
+0,USA,john joseph flanagan,OR,Paris 1900,Athletics,hammer throw men
+1,USA,thomas truxton hare,,Paris 1900,Athletics,hammer throw men
+2,USA,josiah mccracken,,Paris 1900,Athletics,hammer throw men
+3,SWE,eric lemming,,Paris 1900,Athletics,hammer throw men
+4,SWE,karl gustav staaf,,Paris 1900,Athletics,hammer throw men
+5,SWE,gustaf söderström,Did not start,Paris 1900,Athletics,hammer throw men
+0,USA,irving baxter,1.9,Paris 1900,Athletics,high jump men
+1,GBR,patrick joseph leahy,1.78,Paris 1900,Athletics,high jump men
+2,HUN,lajos gönczy,1.75,Paris 1900,Athletics,high jump men
+3,NOR,carl albert andersen,1.7,Paris 1900,Athletics,high jump men
+4,SWE,eric lemming,1.7,Paris 1900,Athletics,high jump men
+5,GER,waldemar steffen,1.7,Paris 1900,Athletics,high jump men
+6,FRA,louis monnier,1.6,Paris 1900,Athletics,high jump men
+7,SWE,tore blom,1.5,Paris 1900,Athletics,high jump men
+8,USA,walter carroll,Did not start,Paris 1900,Athletics,high jump men
+9,HUN,arpád danos,Did not start,Paris 1900,Athletics,high jump men
+10,USA,william procter remington,Did not start,Paris 1900,Athletics,high jump men
+11,GBR,peter o'connor,Did not start,Paris 1900,Athletics,high jump men
+0,USA,ray ewry,1.655,Paris 1900,Athletics,high jump standing men
+1,USA,irving baxter,1.525,Paris 1900,Athletics,high jump standing men
+2,USA,lewis pendleton sheldon,1.5,Paris 1900,Athletics,high jump standing men
+0,USA,alvin kraenzlein,7.185,Paris 1900,Athletics,long jump men
+1,USA,meyer prinstein,OR,Paris 1900,Athletics,long jump men
+2,GBR,patrick joseph leahy,6.95,Paris 1900,Athletics,long jump men
+3,USA,william procter remington,6.825,Paris 1900,Athletics,long jump men
+4,FRA,albert delannoy,,Paris 1900,Athletics,long jump men
+5,USA,john mclean,,Paris 1900,Athletics,long jump men
+6,USA,thaddeus mcclain,,Paris 1900,Athletics,long jump men
+7,GER,waldemar steffen,,Paris 1900,Athletics,long jump men
+8,HUN,erno schubert,,Paris 1900,Athletics,long jump men
+9,HUN,gyula strausz,,Paris 1900,Athletics,long jump men
+10,SWE,tore blom,,Paris 1900,Athletics,long jump men
+11,SWE,eric lemming,,Paris 1900,Athletics,long jump men
+12,USA,albert witbeck,Did not start,Paris 1900,Athletics,long jump men
+13,ITA,umberto colombo,Did not start,Paris 1900,Athletics,long jump men
+14,USA,lewis pendleton sheldon,Did not start,Paris 1900,Athletics,long jump men
+15,GBR,peter o'connor,Did not start,Paris 1900,Athletics,long jump men
+0,USA,ray ewry,OR,Paris 1900,Athletics,long jump standing men
+1,USA,irving baxter,,Paris 1900,Athletics,long jump standing men
+2,FRA,emile torcheboeuf,,Paris 1900,Athletics,long jump standing men
+3,USA,lewis pendleton sheldon,,Paris 1900,Athletics,long jump standing men
+4,USA,francis jarvis,Did not start,Paris 1900,Athletics,long jump standing men
+5,USA,bob garrett,Did not start,Paris 1900,Athletics,long jump standing men
+6,USA,william procter remington,Did not start,Paris 1900,Athletics,long jump standing men
+0,FRA,michel theato,02:59:45.000,Paris 1900,Athletics,marathon men
+1,FRA,emile champion,03:04:17.000,Paris 1900,Athletics,marathon men
+2,SWE,ernst fast,03:37:14.000,Paris 1900,Athletics,marathon men
+3,FRA,eugene besse,04:00:43.000,Paris 1900,Athletics,marathon men
+4,USA,arthur newton,04:04:12.000,Paris 1900,Athletics,marathon men
+5,USA,dick grant,,Paris 1900,Athletics,marathon men
+6,USA,ronald macdonald,,Paris 1900,Athletics,marathon men
+7,FRA,georges daunis-touquet,Did not finish,Paris 1900,Athletics,marathon men
+8,FRA,auguste marchais,Did not finish,Paris 1900,Athletics,marathon men
+9,GBR,william saward,Did not finish,Paris 1900,Athletics,marathon men
+10,GBR,ion pool,Did not finish,Paris 1900,Athletics,marathon men
+11,GBR,frederick randall,Did not finish,Paris 1900,Athletics,marathon men
+12,SWE,johan nyström,Did not finish,Paris 1900,Athletics,marathon men
+13,GBR,w. taylor,Did not finish,Paris 1900,Athletics,marathon men
+14,FRA,martens martens,Did not start,Paris 1900,Athletics,marathon men
+15,ITA,ettore zilia,Did not start,Paris 1900,Athletics,marathon men
+16,HUN,jakub wolf,Did not start,Paris 1900,Athletics,marathon men
+17,GBR,john maguire,Did not start,Paris 1900,Athletics,marathon men
+18,ITA,emilio banfi,Did not start,Paris 1900,Athletics,marathon men
+19,USA,john cregan,Did not start,Paris 1900,Athletics,marathon men
+20,USA,alex grant,Did not start,Paris 1900,Athletics,marathon men
+0,USA,irving baxter,3.3,Paris 1900,Athletics,pole vault men
+1,USA,meredith bright colkett,3.25,Paris 1900,Athletics,pole vault men
+2,NOR,carl albert andersen,3.2,Paris 1900,Athletics,pole vault men
+3,SWE,eric lemming,3.1,Paris 1900,Athletics,pole vault men
+4,HUN,jakab kauser,3.1,Paris 1900,Athletics,pole vault men
+5,FRA,émile gontier,3.1,Paris 1900,Athletics,pole vault men
+6,SWE,karl gustav staaf,2.8,Paris 1900,Athletics,pole vault men
+7,SWE,august nilsson,2.6,Paris 1900,Athletics,pole vault men
+8,USA,alex coleman,Did not start,Paris 1900,Athletics,pole vault men
+9,USA,bascom johnson,Did not start,Paris 1900,Athletics,pole vault men
+10,USA,charles dvorak,Did not start,Paris 1900,Athletics,pole vault men
+11,USA,daniel horton,Did not start,Paris 1900,Athletics,pole vault men
+0,USA,richard sheldon,14.1,Paris 1900,Athletics,shot put men
+1,USA,josiah mccracken,,Paris 1900,Athletics,shot put men
+2,USA,bob garrett,,Paris 1900,Athletics,shot put men
+3,HUN,rezső crettier,12.07,Paris 1900,Athletics,shot put men
+4,GRE,panagiotis paraskevopoulos,11.52,Paris 1900,Athletics,shot put men
+5,SWE,gustaf söderström,,Paris 1900,Athletics,shot put men
+6,HUN,artúr coray,,Paris 1900,Athletics,shot put men
+7,USA,thomas truxton hare,,Paris 1900,Athletics,shot put men
+8,SWE,august nilsson,,Paris 1900,Athletics,shot put men
+9,DEN,charles winckler,,Paris 1900,Athletics,shot put men
+10,GRE,sotirios versis,NM,Paris 1900,Athletics,shot put men
+11,FRA,emile torcheboeuf,Did not start,Paris 1900,Athletics,shot put men
+12,USA,john joseph flanagan,Did not start,Paris 1900,Athletics,shot put men
+13,USA,lewis pendleton sheldon,Did not start,Paris 1900,Athletics,shot put men
+0,USA,meyer prinstein,OR,Paris 1900,Athletics,triple jump men
+1,USA,james brendan connolly,,Paris 1900,Athletics,triple jump men
+2,USA,lewis pendleton sheldon,,Paris 1900,Athletics,triple jump men
+3,GBR,patrick joseph leahy,,Paris 1900,Athletics,triple jump men
+4,FRA,albert delannoy,,Paris 1900,Athletics,triple jump men
+5,FRA,alexandre tufferi,,Paris 1900,Athletics,triple jump men
+6,USA,francis jarvis,,Paris 1900,Athletics,triple jump men
+7,USA,john mclean,,Paris 1900,Athletics,triple jump men
+8,USA,daniel horton,,Paris 1900,Athletics,triple jump men
+9,SWE,karl gustav staaf,,Paris 1900,Athletics,triple jump men
+10,SWE,eric lemming,,Paris 1900,Athletics,triple jump men
+11,GER,waldemar steffen,,Paris 1900,Athletics,triple jump men
+12,HUN,pál koppán,,Paris 1900,Athletics,triple jump men
+0,USA,ray ewry,,Paris 1900,Athletics,triple jump standing men
+1,USA,irving baxter,,Paris 1900,Athletics,triple jump standing men
+2,USA,bob garrett,,Paris 1900,Athletics,triple jump standing men
+3,USA,lewis pendleton sheldon,,Paris 1900,Athletics,triple jump standing men
+4,USA,francis jarvis,,Paris 1900,Athletics,triple jump standing men
+5,USA,john mclean,,Paris 1900,Athletics,triple jump standing men
+6,USA,daniel horton,,Paris 1900,Athletics,triple jump standing men
+7,SWE,karl gustav staaf,,Paris 1900,Athletics,triple jump standing men
+8,GER,waldemar steffen,,Paris 1900,Athletics,triple jump standing men
+9,HUN,pál koppán,,Paris 1900,Athletics,triple jump standing men
+10,HUN,arpád danos,Did not start,Paris 1900,Athletics,triple jump standing men
+11,BOH,václav nový,Did not start,Paris 1900,Athletics,triple jump standing men
+12,SWE,eric lemming,Did not start,Paris 1900,Athletics,triple jump standing men
+13,USA,james brendan connolly,Did not start,Paris 1900,Athletics,triple jump standing men
+14,USA,meyer prinstein,Did not start,Paris 1900,Athletics,triple jump standing men

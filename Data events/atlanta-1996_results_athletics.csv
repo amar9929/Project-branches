@@ -1,0 +1,793 @@
+,country,participant,result,olympic_game,discipline,event
+0,ECU,jefferson perez,01:20:07.000,Atlanta 1996,Athletics,20km walk men
+1,RUS,ilya markov,01:20:16.000,Atlanta 1996,Athletics,20km walk men
+2,MEX,bernardo segura,01:20:23.000,Atlanta 1996,Athletics,20km walk men
+3,AUS,nicholas mark a'hern,01:20:31.000,Atlanta 1996,Athletics,20km walk men
+4,RUS,rishat shafikov,01:20:41.000,Atlanta 1996,Athletics,20km walk men
+5,LAT,aigars fadejevs,01:20:47.000,Atlanta 1996,Athletics,20km walk men
+6,RUS,mikhail shchennikov,01:21:09.000,Atlanta 1996,Athletics,20km walk men
+7,POL,robert korzeniowski,01:21:13.000,Atlanta 1996,Athletics,20km walk men
+8,BLR,yevgeniy misyulya,01:21:16.000,Atlanta 1996,Athletics,20km walk men
+9,FRA,thierry toutain,01:21:56.000,Atlanta 1996,Athletics,20km walk men
+10,BLR,mikhail khmelnitskiy,01:22:17.000,Atlanta 1996,Athletics,20km walk men
+11,HUN,sandor urbanik,01:22:18.000,Atlanta 1996,Athletics,20km walk men
+12,FRA,denis langlois,01:23:08.000,Atlanta 1996,Athletics,20km walk men
+13,GER,nischan daimer,01:23:23.000,Atlanta 1996,Athletics,20km walk men
+14,ITA,giovanni perricelli,01:23:41.000,Atlanta 1996,Athletics,20km walk men
+15,GER,robert ihly,01:23:47.000,Atlanta 1996,Athletics,20km walk men
+16,KAZ,valeriy borisov,01:23:52.000,Atlanta 1996,Athletics,20km walk men
+17,MEX,daniel garcia,01:24:10.000,Atlanta 1996,Athletics,20km walk men
+18,ESP,valentin massana,01:24:14.000,Atlanta 1996,Athletics,20km walk men
+19,CHN,guohui yu,01:24:30.000,Atlanta 1996,Athletics,20km walk men
+20,JPN,daisuke ikeshima,01:24:54.000,Atlanta 1996,Athletics,20km walk men
+21,KEN,david kimutai rotich,01:25:01.000,Atlanta 1996,Athletics,20km walk men
+22,GER,andreas erm,01:25:08.000,Atlanta 1996,Athletics,20km walk men
+23,CZE,jiri malysa,01:25:13.000,Atlanta 1996,Athletics,20km walk men
+24,BRA,sergio vieira galdino,01:25:14.000,Atlanta 1996,Athletics,20km walk men
+25,ITA,giovanni de benedictis,01:25:22.000,Atlanta 1996,Athletics,20km walk men
+26,CHN,zewen li,01:25:28.000,Atlanta 1996,Athletics,20km walk men
+27,DEN,claus jorgensen,01:25:28.000,Atlanta 1996,Athletics,20km walk men
+28,SWE,jan staf,01:25:30.000,Atlanta 1996,Athletics,20km walk men
+29,POR,jose urbano,01:25:32.000,Atlanta 1996,Athletics,20km walk men
+30,NZL,scott nelson,01:25:50.000,Atlanta 1996,Athletics,20km walk men
+31,TUN,hatem ghoula,01:25:52.000,Atlanta 1996,Athletics,20km walk men
+32,ITA,michele didoni,01:26:02.000,Atlanta 1996,Athletics,20km walk men
+33,FRA,jean-olivier brosseau,01:26:29.000,Atlanta 1996,Athletics,20km walk men
+34,CAN,martin st. pierre,01:26:37.000,Atlanta 1996,Athletics,20km walk men
+35,TUN,mohieddine beni daoud,01:27:15.000,Atlanta 1996,Athletics,20km walk men
+36,SVK,robert valicek,01:27:27.000,Atlanta 1996,Athletics,20km walk men
+37,ESP,fernando vazquez,01:27:35.000,Atlanta 1996,Athletics,20km walk men
+38,KEN,justus kavulanya,01:27:49.000,Atlanta 1996,Athletics,20km walk men
+39,MDA,fedosei ciumacenco,01:27:57.000,Atlanta 1996,Athletics,20km walk men
+40,CAN,arturo huerta,01:28:23.000,Atlanta 1996,Athletics,20km walk men
+41,GUA,luis fernando garcia,01:28:28.000,Atlanta 1996,Athletics,20km walk men
+42,LTU,valdas kazlauskas,01:28:33.000,Atlanta 1996,Athletics,20km walk men
+43,ROU,costica balan,01:29:36.000,Atlanta 1996,Athletics,20km walk men
+44,SVK,pavel blazek,01:29:41.000,Atlanta 1996,Athletics,20km walk men
+45,AUS,dion russell,01:30:04.000,Atlanta 1996,Athletics,20km walk men
+46,CZE,tomas kratochvil,01:30:11.000,Atlanta 1996,Athletics,20km walk men
+47,BRA,claudio bertolino,01:31:04.000,Atlanta 1996,Athletics,20km walk men
+48,USA,curt clausen,01:31:30.000,Atlanta 1996,Athletics,20km walk men
+49,IRL,jimmy mcdonald,01:32:11.000,Atlanta 1996,Athletics,20km walk men
+50,CZE,hubert sonnek,01:32:42.000,Atlanta 1996,Athletics,20km walk men
+51,MYA,myint htay,01:42:28.000,Atlanta 1996,Athletics,20km walk men
+52,COL,hector jose moreno moreno,Did not finish,Atlanta 1996,Athletics,20km walk men
+53,MEX,miguel angel rodriguez,Disqualified,Atlanta 1996,Athletics,20km walk men
+54,SVK,igor kollar,Disqualified,Atlanta 1996,Athletics,20km walk men
+55,GUA,julio rene martinez,Disqualified,Atlanta 1996,Athletics,20km walk men
+56,CHN,mingcai li,Disqualified,Atlanta 1996,Athletics,20km walk men
+57,GUA,roberto oscal,Disqualified,Atlanta 1996,Athletics,20km walk men
+58,KEN,julius sawe,Disqualified,Atlanta 1996,Athletics,20km walk men
+59,ESP,daniel plaza montero,Disqualified,Atlanta 1996,Athletics,20km walk men
+60,ALG,moussa aouanouk,Did not start,Atlanta 1996,Athletics,20km walk men
+0,KEN,joseph keter,00:08:07.120,Atlanta 1996,Athletics,3000m steeplechase men
+1,KEN,moses kiptanui,00:08:08.330,Atlanta 1996,Athletics,3000m steeplechase men
+2,ITA,alessandro lambruschini,00:08:11.280,Atlanta 1996,Athletics,3000m steeplechase men
+3,KEN,mathew birir,00:08:17.180,Atlanta 1996,Athletics,3000m steeplechase men
+4,USA,mark duane croghan,00:08:17.840,Atlanta 1996,Athletics,3000m steeplechase men
+5,GER,steffen brand,00:08:18.520,Atlanta 1996,Athletics,3000m steeplechase men
+6,MAR,brahim boulami,00:08:23.130,Atlanta 1996,Athletics,3000m steeplechase men
+7,NOR,jim svenoy,00:08:23.390,Atlanta 1996,Athletics,3000m steeplechase men
+8,ITA,angelo carosi,00:08:29.670,Atlanta 1996,Athletics,3000m steeplechase men
+9,GER,martin strege,00:08:30.310,Atlanta 1996,Athletics,3000m steeplechase men
+10,MAR,hicham bouaouiche,00:08:46.220,Atlanta 1996,Athletics,3000m steeplechase men
+11,USA,marc davis,00:09:51.960,Atlanta 1996,Athletics,3000m steeplechase men
+12,SOL,primo higa,,Atlanta 1996,Athletics,3000m steeplechase men
+0,USA,derrick adkins,47.540,Atlanta 1996,Athletics,400m hurdles men
+1,ZAM,samuel matete,47.780,Atlanta 1996,Athletics,400m hurdles men
+2,USA,calvin davis,47.960,Atlanta 1996,Athletics,400m hurdles men
+3,SWE,sven nylander,47.980,Atlanta 1996,Athletics,400m hurdles men
+4,AUS,rohan robinson,48.300,Atlanta 1996,Athletics,400m hurdles men
+5,ITA,fabrizio mori,48.410,Atlanta 1996,Athletics,400m hurdles men
+6,BRA,everson teixeira,48.570,Atlanta 1996,Athletics,400m hurdles men
+7,BRA,eronilde nunes de araujo,48.780,Atlanta 1996,Athletics,400m hurdles men
+8,JAM,winthrop graham,,Atlanta 1996,Athletics,400m hurdles men
+0,JAM,deon marie hemmings,52.820,Atlanta 1996,Athletics,400m hurdles women
+1,USA,kim batten,53.080,Atlanta 1996,Athletics,400m hurdles women
+2,USA,tonja buford-bailey,53.220,Atlanta 1996,Athletics,400m hurdles women
+3,JAM,debbie-ann parris,53.970,Atlanta 1996,Athletics,400m hurdles women
+4,GER,heike meissner,54.030,Atlanta 1996,Athletics,400m hurdles women
+5,CAN,rosaline edeh,54.390,Atlanta 1996,Athletics,400m hurdles women
+6,ROU,ionela tirlea-manolache,54.400,Atlanta 1996,Athletics,400m hurdles women
+7,GER,silvia rieger,54.570,Atlanta 1996,Athletics,400m hurdles women
+8,GBR,sally janet jane gunnell,,Atlanta 1996,Athletics,400m hurdles women
+9,USA,sandra farmer-patrick,Disqualified,Atlanta 1996,Athletics,400m hurdles women
+0,USA,michael johnson,43.490,Atlanta 1996,Athletics,400m men
+1,GBR,roger black,44.410,Atlanta 1996,Athletics,400m men
+2,UGA,davis kamoga,44.530,Atlanta 1996,Athletics,400m men
+3,USA,alvin harrison,44.620,Atlanta 1996,Athletics,400m men
+4,GBR,iwan thomas,44.700,Atlanta 1996,Athletics,400m men
+5,JAM,roxbert martin,44.830,Atlanta 1996,Athletics,400m men
+6,JAM,davian clarke,44.990,Atlanta 1996,Athletics,400m men
+7,QAT,ibrahim ismail muftah,Did not finish,Atlanta 1996,Athletics,400m men
+8,USA,harry butch . reynolds,,Atlanta 1996,Athletics,400m men
+9,NGR,jude monye,,Atlanta 1996,Athletics,400m men
+10,ALG,amar hecini,,Atlanta 1996,Athletics,400m men
+11,LBA,moustafa abdel naser,,Atlanta 1996,Athletics,400m men
+12,UGA,francis ogola,,Atlanta 1996,Athletics,400m men
+13,GHA,ibrahim hassan,,Atlanta 1996,Athletics,400m men
+14,BUR,ibrahim ouédraogo,Did not start,Atlanta 1996,Athletics,400m men
+15,BOT,justice dipeba,Did not start,Atlanta 1996,Athletics,400m men
+0,FRA,marie-jose perec,48.250,Atlanta 1996,Athletics,400m women
+1,AUS,cathy freeman,48.630,Atlanta 1996,Athletics,400m women
+2,NGR,falilat ogunkoya,49.100,Atlanta 1996,Athletics,400m women
+3,BAH,pauline elaine davis,49.280,Atlanta 1996,Athletics,400m women
+4,USA,jearl miles clark,49.550,Atlanta 1996,Athletics,400m women
+5,NGR,fatima yusuf-olukoju,49.770,Atlanta 1996,Athletics,400m women
+6,JAM,alexandra richards,50.450,Atlanta 1996,Athletics,400m women
+7,GER,grit breuer,50.710,Atlanta 1996,Athletics,400m women
+8,COL,ximena restrepo gaviria,,Atlanta 1996,Athletics,400m women
+0,,,37.690,Atlanta 1996,Athletics,4x100m relay men
+1,,,38.050,Atlanta 1996,Athletics,4x100m relay men
+2,,,38.410,Atlanta 1996,Athletics,4x100m relay men
+3,,,38.550,Atlanta 1996,Athletics,4x100m relay men
+4,,,38.670,Atlanta 1996,Athletics,4x100m relay men
+5,,,39.390,Atlanta 1996,Athletics,4x100m relay men
+6,,,DNF,Atlanta 1996,Athletics,4x100m relay men
+7,,,,Atlanta 1996,Athletics,4x100m relay men
+8,,,,Atlanta 1996,Athletics,4x100m relay men
+9,,,,Atlanta 1996,Athletics,4x100m relay men
+10,,,,Atlanta 1996,Athletics,4x100m relay men
+11,,,,Atlanta 1996,Athletics,4x100m relay men
+12,,,,Atlanta 1996,Athletics,4x100m relay men
+13,,,,Atlanta 1996,Athletics,4x100m relay men
+14,,,,Atlanta 1996,Athletics,4x100m relay men
+15,,,,Atlanta 1996,Athletics,4x100m relay men
+16,,,,Atlanta 1996,Athletics,4x100m relay men
+17,,,Did not start,Atlanta 1996,Athletics,4x100m relay men
+18,,,Did not start,Atlanta 1996,Athletics,4x100m relay men
+0,,,41.950,Atlanta 1996,Athletics,4x100m relay women
+1,,,42.140,Atlanta 1996,Athletics,4x100m relay women
+2,,,42.240,Atlanta 1996,Athletics,4x100m relay women
+3,,,42.270,Atlanta 1996,Athletics,4x100m relay women
+4,,,42.560,Atlanta 1996,Athletics,4x100m relay women
+5,,,42.760,Atlanta 1996,Athletics,4x100m relay women
+6,,,43.700,Atlanta 1996,Athletics,4x100m relay women
+7,,,43.930,Atlanta 1996,Athletics,4x100m relay women
+8,,,,Atlanta 1996,Athletics,4x100m relay women
+9,,,,Atlanta 1996,Athletics,4x100m relay women
+10,,,,Atlanta 1996,Athletics,4x100m relay women
+11,,,,Atlanta 1996,Athletics,4x100m relay women
+12,,,,Atlanta 1996,Athletics,4x100m relay women
+13,,,,Atlanta 1996,Athletics,4x100m relay women
+14,,,,Atlanta 1996,Athletics,4x100m relay women
+0,,,00:02:55.990,Atlanta 1996,Athletics,4x400m relay men
+1,,,00:02:56.600,Atlanta 1996,Athletics,4x400m relay men
+2,,,00:02:59.420,Atlanta 1996,Athletics,4x400m relay men
+3,,,00:03:00.640,Atlanta 1996,Athletics,4x400m relay men
+4,,,00:03:00.760,Atlanta 1996,Athletics,4x400m relay men
+5,,,00:03:00.960,Atlanta 1996,Athletics,4x400m relay men
+6,,,00:03:02.710,Atlanta 1996,Athletics,4x400m relay men
+7,,,,Atlanta 1996,Athletics,4x400m relay men
+8,,,,Atlanta 1996,Athletics,4x400m relay men
+9,,,,Atlanta 1996,Athletics,4x400m relay men
+10,,,,Atlanta 1996,Athletics,4x400m relay men
+0,,,00:03:20.910,Atlanta 1996,Athletics,4x400m relay women
+1,,,00:03:21.040,Atlanta 1996,Athletics,4x400m relay women
+2,,,00:03:21.140,Atlanta 1996,Athletics,4x400m relay women
+3,,,00:03:21.690,Atlanta 1996,Athletics,4x400m relay women
+4,,,00:03:22.220,Atlanta 1996,Athletics,4x400m relay women
+5,,,00:03:25.850,Atlanta 1996,Athletics,4x400m relay women
+6,,,00:03:26.990,Atlanta 1996,Athletics,4x400m relay women
+7,,,00:03:28.460,Atlanta 1996,Athletics,4x400m relay women
+8,,,,Atlanta 1996,Athletics,4x400m relay women
+9,,,Did not start,Atlanta 1996,Athletics,4x400m relay women
+0,BDI,venuste niyongabo,00:13:07.960,Atlanta 1996,Athletics,5000m men
+1,KEN,paul bitok,00:13:08.160,Atlanta 1996,Athletics,5000m men
+2,MAR,khalid boulami,00:13:08.370,Atlanta 1996,Athletics,5000m men
+3,GER,dieter baumann,00:13:08.810,Atlanta 1996,Athletics,5000m men
+4,KEN,tom nyariki,00:13:12.290,Atlanta 1996,Athletics,5000m men
+5,USA,kennedy ,00:13:12.350,Atlanta 1996,Athletics,5000m men
+6,ESP,enrique molina,00:13:12.910,Atlanta 1996,Athletics,5000m men
+7,MAR,brahim lahlafi,00:13:13.260,Atlanta 1996,Athletics,5000m men
+8,KEN,shem kororia,00:13:14.630,Atlanta 1996,Athletics,5000m men
+9,ETH,fita bayissa,00:13:18.300,Atlanta 1996,Athletics,5000m men
+10,MAR,ismail sghyr,00:13:22.890,Atlanta 1996,Athletics,5000m men
+11,ITA,gennaro di napoli,00:13:28.360,Atlanta 1996,Athletics,5000m men
+12,ALG,reda benzine,00:13:42.340,Atlanta 1996,Athletics,5000m men
+13,GER,stephane oliver franke,00:13:44.640,Atlanta 1996,Athletics,5000m men
+14,ALG,aissa belaout,00:14:06.520,Atlanta 1996,Athletics,5000m men
+15,BDI,aloys nizigama,Did not start,Atlanta 1996,Athletics,5000m men
+16,ETH,haile gebrselassie,Did not start,Atlanta 1996,Athletics,5000m men
+17,KSA,alyan al-qahtani,Did not start,Atlanta 1996,Athletics,5000m men
+18,MEX,armando quintanilla,Did not start,Atlanta 1996,Athletics,5000m men
+0,CHN,junxia wang,00:14:59.880,Atlanta 1996,Athletics,5000m women
+1,KEN,pauline konga,00:15:03.490,Atlanta 1996,Athletics,5000m women
+2,ITA,roberta brunet,00:15:07.520,Atlanta 1996,Athletics,5000m women
+3,JPN,michiko shimizu,00:15:09.050,Atlanta 1996,Athletics,5000m women
+4,GBR,paula radcliffe,00:15:13.110,Atlanta 1996,Athletics,5000m women
+5,RUS,elena romanova,00:15:14.090,Atlanta 1996,Athletics,5000m women
+6,ROU,elena fidatov,00:15:16.710,Atlanta 1996,Athletics,5000m women
+7,KEN,rose cheruiyot,00:15:17.330,Atlanta 1996,Athletics,5000m women
+8,USA,lynn a. jennings,00:15:17.500,Atlanta 1996,Athletics,5000m women
+9,USA,amy rudolph,00:15:19.770,Atlanta 1996,Athletics,5000m women
+10,SWE,sara wedlund,00:15:22.980,Atlanta 1996,Athletics,5000m women
+11,ETH,ayelech worku,00:15:28.810,Atlanta 1996,Athletics,5000m women
+12,NZL,anne hare,00:15:29.110,Atlanta 1996,Athletics,5000m women
+13,SUI,anita weyermann,00:15:44.400,Atlanta 1996,Athletics,5000m women
+14,IRL,sonia o'sullivan,Did not finish,Atlanta 1996,Athletics,5000m women
+15,USA,mary slaney,Disqualified,Atlanta 1996,Athletics,5000m women
+16,AUS,carolyn jeni schuwalow,Did not start,Atlanta 1996,Athletics,5000m women
+17,RSA,gwen griffiths,Did not start,Atlanta 1996,Athletics,5000m women
+0,POL,robert korzeniowski,03:43:30.000,Atlanta 1996,Athletics,50km walk men
+1,RUS,mikhail shchennikov,03:43:46.000,Atlanta 1996,Athletics,50km walk men
+2,ESP,valentin massana,03:44:19.000,Atlanta 1996,Athletics,50km walk men
+3,ITA,arturo di mezza,03:44:52.000,Atlanta 1996,Athletics,50km walk men
+4,BLR,viktor ginko,03:45:27.000,Atlanta 1996,Athletics,50km walk men
+5,MEX,ignacio zamudio,03:46:07.000,Atlanta 1996,Athletics,50km walk men
+6,FIN,valentin kononen,03:47:40.000,Atlanta 1996,Athletics,50km walk men
+7,KAZ,sergey korepanov,03:48:42.000,Atlanta 1996,Athletics,50km walk men
+8,MEX,daniel garcia,03:50:05.000,Atlanta 1996,Athletics,50km walk men
+9,CAN,tim berrett,03:51:28.000,Atlanta 1996,Athletics,50km walk men
+10,SCG,aleksandar rakovic,03:51:31.000,Atlanta 1996,Athletics,50km walk men
+11,GER,axel noack,03:51:55.000,Atlanta 1996,Athletics,50km walk men
+12,ITA,giovanni perricelli,03:52:31.000,Atlanta 1996,Athletics,50km walk men
+13,CHN,huiqiang zhang,03:53:10.000,Atlanta 1996,Athletics,50km walk men
+14,GER,thomas wallstab,03:54:48.000,Atlanta 1996,Athletics,50km walk men
+15,COL,hector jose moreno moreno,03:54:57.000,Atlanta 1996,Athletics,50km walk men
+16,GUA,julio urias,03:56:27.000,Atlanta 1996,Athletics,50km walk men
+17,MEX,german sanchez,03:57:47.000,Atlanta 1996,Athletics,50km walk men
+18,FRA,rene piller,03:58:00.000,Atlanta 1996,Athletics,50km walk men
+19,SVK,roman mrazek,03:58:20.000,Atlanta 1996,Athletics,50km walk men
+20,SVK,stefan malik,03:58:40.000,Atlanta 1996,Athletics,50km walk men
+21,ESP,jaime barroso,04:01:09.000,Atlanta 1996,Athletics,50km walk men
+22,LAT,modris liepins,04:01:12.000,Atlanta 1996,Athletics,50km walk men
+23,USA,allen morford james,04:01:18.000,Atlanta 1996,Athletics,50km walk men
+24,RUS,nikolay matyukhin,04:01:49.000,Atlanta 1996,Athletics,50km walk men
+25,USA,andrzej chylinski,04:03:13.000,Atlanta 1996,Athletics,50km walk men
+26,CZE,milos holusa,04:03:16.000,Atlanta 1996,Athletics,50km walk men
+27,FRA,martial fesselier,04:04:42.000,Atlanta 1996,Athletics,50km walk men
+28,JPN,tadahiro kosaka,04:05:57.000,Atlanta 1996,Athletics,50km walk men
+29,FIN,antero lindman,04:07:58.000,Atlanta 1996,Athletics,50km walk men
+30,SUI,pascal charriere,04:10:20.000,Atlanta 1996,Athletics,50km walk men
+31,SVK,peter tichy,04:10:55.000,Atlanta 1996,Athletics,50km walk men
+32,NZL,craig barrett,04:15:15.000,Atlanta 1996,Athletics,50km walk men
+33,GBR,chris maddocks,04:18:41.000,Atlanta 1996,Athletics,50km walk men
+34,LTU,daugvinas zujus,04:23:35.000,Atlanta 1996,Athletics,50km walk men
+35,POR,jose magalhaes,04:27:37.000,Atlanta 1996,Athletics,50km walk men
+36,AUS,duane cousins,Did not finish,Atlanta 1996,Athletics,50km walk men
+37,ESP,jesus angel garcia,Did not finish,Atlanta 1996,Athletics,50km walk men
+38,FIN,jani lehtinen,Did not finish,Atlanta 1996,Athletics,50km walk men
+39,ITA,giovanni de benedictis,Did not finish,Atlanta 1996,Athletics,50km walk men
+40,BLR,yevgeniy misyulya,Did not finish,Atlanta 1996,Athletics,50km walk men
+41,CZE,hubert sonnek,Did not finish,Atlanta 1996,Athletics,50km walk men
+42,UKR,vitali popovych,Did not finish,Atlanta 1996,Athletics,50km walk men
+43,RUS,andrey plotnikov,Did not finish,Atlanta 1996,Athletics,50km walk men
+44,GER,ronald weigel,Did not finish,Atlanta 1996,Athletics,50km walk men
+45,FRA,thierry toutain,Disqualified,Atlanta 1996,Athletics,50km walk men
+46,AUS,simon baker,Disqualified,Atlanta 1996,Athletics,50km walk men
+47,GUA,hugo lopez,Disqualified,Atlanta 1996,Athletics,50km walk men
+48,CHN,yongsheng zhao,Disqualified,Atlanta 1996,Athletics,50km walk men
+49,CHN,xinyuan mao,Disqualified,Atlanta 1996,Athletics,50km walk men
+50,USA,herman nelson,Disqualified,Atlanta 1996,Athletics,50km walk men
+51,MDA,fedosei ciumacenco,Did not start,Atlanta 1996,Athletics,50km walk men
+0,NOR,vebjorn rodal,00:01:42.580,Atlanta 1996,Athletics,800m men
+1,RSA,hezekiel sepeng,00:01:42.740,Atlanta 1996,Athletics,800m men
+2,KEN,fred onyancha,00:01:42.790,Atlanta 1996,Athletics,800m men
+3,CUB,norberto tellez,00:01:42.850,Atlanta 1996,Athletics,800m men
+4,GER,nico motchebon,00:01:43.910,Atlanta 1996,Athletics,800m men
+5,KEN,david kiptoo,00:01:44.190,Atlanta 1996,Athletics,800m men
+6,USA,johnny lee jr gray,00:01:44.210,Atlanta 1996,Athletics,800m men
+7,MAR,lahlou ben younès,00:01:45.520,Atlanta 1996,Athletics,800m men
+8,ITA,andrea benvenuti,,Atlanta 1996,Athletics,800m men
+9,ESP,roberto parra,Did not start,Atlanta 1996,Athletics,800m men
+0,RUS,svetlana masterkova,00:01:57.730,Atlanta 1996,Athletics,800m women
+1,CUB,ana fidelia quirot,00:01:58.110,Atlanta 1996,Athletics,800m women
+2,MOZ,maria mutola,00:01:58.710,Atlanta 1996,Athletics,800m women
+3,GBR,kelly holmes,00:01:58.810,Atlanta 1996,Athletics,800m women
+4,RUS,yelena afanasyeva,00:01:59.570,Atlanta 1996,Athletics,800m women
+5,FRA,patricia djate-taillard,00:01:59.610,Atlanta 1996,Athletics,800m women
+6,BLR,natasha dukhnova,00:02:00.320,Atlanta 1996,Athletics,800m women
+7,NZL,toni hodgkinson,00:02:00.540,Atlanta 1996,Athletics,800m women
+8,NED,stella jongmans,,Atlanta 1996,Athletics,800m women
+9,GBR,diane modahl,,Atlanta 1996,Athletics,800m women
+10,ESP,ana menendez,,Atlanta 1996,Athletics,800m women
+11,GAM,adama njie,,Atlanta 1996,Athletics,800m women
+12,MOZ,argentina paulino,Did not start,Atlanta 1996,Athletics,800m women
+0,USA,dan o'brien,8824,Atlanta 1996,Athletics,decathlon men
+1,GER,frank busemann,8706,Atlanta 1996,Athletics,decathlon men
+2,CZE,tomas dvorak,8664,Atlanta 1996,Athletics,decathlon men
+3,USA,steve fritz,8644,Atlanta 1996,Athletics,decathlon men
+4,BLR,eduard hamalainen,8613,Atlanta 1996,Athletics,decathlon men
+5,EST,erki nool,8543,Atlanta 1996,Athletics,decathlon men
+6,CZE,robert zmelik,8422,Atlanta 1996,Athletics,decathlon men
+7,UZB,ramil ganiyev,8318,Atlanta 1996,Athletics,decathlon men
+8,ESP,antonio penalver asensio,8307,Atlanta 1996,Athletics,decathlon men
+9,USA,chris huffins,8300,Atlanta 1996,Athletics,decathlon men
+10,FRA,christian plaziat,8282,Atlanta 1996,Athletics,decathlon men
+11,ISL,jon arnar magnusson,8274,Atlanta 1996,Athletics,decathlon men
+12,CAN,michael cameron smith,8271,Atlanta 1996,Athletics,decathlon men
+13,GER,frank müller,8253,Atlanta 1996,Athletics,decathlon men
+14,POL,sebastian chmara,8249,Atlanta 1996,Athletics,decathlon men
+15,CZE,kamil damasek,8229,Atlanta 1996,Athletics,decathlon men
+16,FRA,sebastien levicq,8192,Atlanta 1996,Athletics,decathlon men
+17,NED,marcel dost,8111,Atlanta 1996,Athletics,decathlon men
+18,ESP,francisco javier benet,8107,Atlanta 1996,Athletics,decathlon men
+19,GER,dirk-achim pajonk,8045,Atlanta 1996,Athletics,decathlon men
+20,NED,jack rosendaal,8035,Atlanta 1996,Athletics,decathlon men
+21,UKR,vitaliy kolpakov,8025,Atlanta 1996,Athletics,decathlon men
+22,LAT,rojs piziks,7994,Atlanta 1996,Athletics,decathlon men
+23,NZL,doug pirini,7961,Atlanta 1996,Athletics,decathlon men
+24,CUB,eugenio balanque,7873,Atlanta 1996,Athletics,decathlon men
+25,CUB,raul duany,7802,Atlanta 1996,Athletics,decathlon men
+26,HUN,zsolt kurtosi,7755,Atlanta 1996,Athletics,decathlon men
+27,SUI,philipp huber,7743,Atlanta 1996,Athletics,decathlon men
+28,TUR,alper kasapoglu,7575,Atlanta 1996,Athletics,decathlon men
+29,ITA,beniamino poserina,7013,Atlanta 1996,Athletics,decathlon men
+30,RUS,nikolay afanasyev,6711,Atlanta 1996,Athletics,decathlon men
+31,EST,indrek kaseorg,Did not finish,Atlanta 1996,Athletics,decathlon men
+32,UKR,lev lobodin,Did not finish,Atlanta 1996,Athletics,decathlon men
+33,UZB,oleg veretelnikov,Did not finish,Atlanta 1996,Athletics,decathlon men
+34,BAR,victor houston,Did not finish,Atlanta 1996,Athletics,decathlon men
+35,AUS,scott ferrier,Did not finish,Atlanta 1996,Athletics,decathlon men
+36,AUS,peter winter,Did not finish,Atlanta 1996,Athletics,decathlon men
+37,GBR,alexander eaton kruger,Did not finish,Atlanta 1996,Athletics,decathlon men
+38,EST,andrey nazarov,Did not finish,Atlanta 1996,Athletics,decathlon men
+39,HUN,dezso szabo,Did not finish,Atlanta 1996,Athletics,decathlon men
+0,GER,lars riedel,69.4,Atlanta 1996,Athletics,discus throw men
+1,BLR,vladimir dubrovshchik,66.6,Atlanta 1996,Athletics,discus throw men
+2,BLR,vasiliy kaptyukh,65.8,Atlanta 1996,Athletics,discus throw men
+3,USA,tony washington,65.42,Atlanta 1996,Athletics,discus throw men
+4,LTU,virgilijus alekna,65.3,Atlanta 1996,Athletics,discus throw men
+5,GER,jürgen schult,64.62,Atlanta 1996,Athletics,discus throw men
+6,UKR,vitaliy sidorov,63.78,Atlanta 1996,Athletics,discus throw men
+7,LTU,vaclovas kidykas,62.78,Atlanta 1996,Athletics,discus throw men
+8,CUB,alexis elizalde,62.7,Atlanta 1996,Athletics,discus throw men
+9,HUN,attila horvath,62.28,Atlanta 1996,Athletics,discus throw men
+10,RUS,sergey lyakhov,60.62,Atlanta 1996,Athletics,discus throw men
+11,USA,adam setliff,56.3,Atlanta 1996,Athletics,discus throw men
+12,ESP,david martinez,,Atlanta 1996,Athletics,discus throw men
+0,GER,ilke wyludda,69.66,Atlanta 1996,Athletics,discus throw women
+1,RUS,natalya sadova,66.48,Atlanta 1996,Athletics,discus throw women
+2,BLR,ellina zvereva,65.64,Atlanta 1996,Athletics,discus throw women
+3,GER,franka dietzsch,65.48,Atlanta 1996,Athletics,discus throw women
+4,CHN,yanling xiao,64.72,Atlanta 1996,Athletics,discus throw women
+5,RUS,olga chernyavskaya,64.7,Atlanta 1996,Athletics,discus throw women
+6,ROU,nicoleta gradinaru,63.28,Atlanta 1996,Athletics,discus throw women
+7,AUS,lisa-marie vizaniari,62.48,Atlanta 1996,Athletics,discus throw women
+8,NOR,mette bergmann,62.28,Atlanta 1996,Athletics,discus throw women
+9,POR,teresa machado,61.38,Atlanta 1996,Athletics,discus throw women
+10,GER,anja guendler,61.16,Atlanta 1996,Athletics,discus throw women
+11,BLR,iryna yatchenko,60.46,Atlanta 1996,Athletics,discus throw women
+0,HUN,balazs kiss,81.24,Atlanta 1996,Athletics,hammer throw men
+1,USA,lance earl deal,81.12,Atlanta 1996,Athletics,hammer throw men
+2,UKR,oleksandr krykun,80.02,Atlanta 1996,Athletics,hammer throw men
+3,UKR,andriy skvaruk,79.92,Atlanta 1996,Athletics,hammer throw men
+4,GER,heinrich weis,79.78,Atlanta 1996,Athletics,hammer throw men
+5,RUS,ilya konovalov,78.72,Atlanta 1996,Athletics,hammer throw men
+6,BLR,igor astapkovich,78.2,Atlanta 1996,Athletics,hammer throw men
+7,BLR,sergey alay,77.38,Atlanta 1996,Athletics,hammer throw men
+8,ITA,enrico sgrulletti,76.98,Atlanta 1996,Athletics,hammer throw men
+9,POL,szymon ziolkowski,76.64,Atlanta 1996,Athletics,hammer throw men
+10,FRA,raphael piolanti,75.24,Atlanta 1996,Athletics,hammer throw men
+11,RUS,vasiliy sidorenko,74.68,Atlanta 1996,Athletics,hammer throw men
+12,GRE,khristos polykhroniou,,Atlanta 1996,Athletics,hammer throw men
+0,SYR,ghada shouaa,6780,Atlanta 1996,Athletics,heptathlon women
+1,BLR,natalya sazanovich,6563,Atlanta 1996,Athletics,heptathlon women
+2,GBR,denise lewis,6489,Atlanta 1996,Athletics,heptathlon women
+3,POL,urszula wlodarczyk,6484,Atlanta 1996,Athletics,heptathlon women
+4,SLE,eunice barber,6342,Atlanta 1996,Athletics,heptathlon women
+5,HUN,rita inancsi,6336,Atlanta 1996,Athletics,heptathlon women
+6,GER,sabine braun,6317,Atlanta 1996,Athletics,heptathlon women
+7,USA,kelly blair,6307,Atlanta 1996,Athletics,heptathlon women
+8,USA,sharon hanson,6292,Atlanta 1996,Athletics,heptathlon women
+9,LTU,remigija nazaroviene,6254,Atlanta 1996,Athletics,heptathlon women
+10,GER,mona steigauf,6246,Atlanta 1996,Athletics,heptathlon women
+11,CUB,regla cardenas,6246,Atlanta 1996,Athletics,heptathlon women
+12,GER,peggy beer,6234,Atlanta 1996,Athletics,heptathlon women
+13,RUS,svetlana moskalets,6118,Atlanta 1996,Athletics,heptathlon women
+14,CUB,magalys garcia,6109,Atlanta 1996,Athletics,heptathlon women
+15,JAM,diane claire guthrie-gresham,6087,Atlanta 1996,Athletics,heptathlon women
+16,RUS,yelena lebedenko,6082,Atlanta 1996,Athletics,heptathlon women
+17,KAZ,svetlana kazanina,6002,Atlanta 1996,Athletics,heptathlon women
+18,RUS,irina tyukhay,5903,Atlanta 1996,Athletics,heptathlon women
+19,AUS,jane jamieson,5897,Atlanta 1996,Athletics,heptathlon women
+20,FIN,tiia hautala,5887,Atlanta 1996,Athletics,heptathlon women
+21,ROU,liliana nastase,5847,Atlanta 1996,Athletics,heptathlon women
+22,SUI,patricia nadler,5803,Atlanta 1996,Athletics,heptathlon women
+23,ESP,inma clopes,5602,Atlanta 1996,Athletics,heptathlon women
+24,CAN,catherine bond-mills,5235,Atlanta 1996,Athletics,heptathlon women
+25,BLR,anzhela atroshchenko,Did not finish,Atlanta 1996,Athletics,heptathlon women
+26,LIE,manuela marxer,Did not finish,Atlanta 1996,Athletics,heptathlon women
+27,USA,jackie joyner-kersee,Did not finish,Atlanta 1996,Athletics,heptathlon women
+28,ITA,giuliana spada,Did not finish,Atlanta 1996,Athletics,heptathlon women
+0,USA,charles austin,2.39,Atlanta 1996,Athletics,high jump men
+1,POL,artur partyka,2.37,Atlanta 1996,Athletics,high jump men
+2,GBR,stephen james smith,2.35,Atlanta 1996,Athletics,high jump men
+3,SCG,dragutin topic,2.32,Atlanta 1996,Athletics,high jump men
+4,NOR,steinar hoen,2.32,Atlanta 1996,Athletics,high jump men
+5,GRE,lambros papakostas,2.32,Atlanta 1996,Athletics,high jump men
+6,AUS,timothy forsyth,2.32,Atlanta 1996,Athletics,high jump men
+7,KOR,jin-tack lee,2.29,Atlanta 1996,Athletics,high jump men
+8,GER,wolfgang kreissig,2.29,Atlanta 1996,Athletics,high jump men
+9,POL,przemyslaw radkiewicz,2.29,Atlanta 1996,Athletics,high jump men
+10,CUB,javier sotomayor,2.25,Atlanta 1996,Athletics,high jump men
+11,POL,jaroslaw kotewicz,2.25,Atlanta 1996,Athletics,high jump men
+12,BAH,troy kemp,2.25,Atlanta 1996,Athletics,high jump men
+13,CZE,tomas janku,2.25,Atlanta 1996,Athletics,high jump men
+14,BUR,olivier sanou,,Atlanta 1996,Athletics,high jump men
+15,PER,hugo munoz,,Atlanta 1996,Athletics,high jump men
+16,SGP,yew tong wong,,Atlanta 1996,Athletics,high jump men
+17,SWE,patrick sjöberg,Did not start,Atlanta 1996,Athletics,high jump men
+0,BUL,stefka kostadinova,2.05,Atlanta 1996,Athletics,high jump women
+1,GRE,niki bakogianni,2.03,Atlanta 1996,Athletics,high jump women
+2,UKR,inha babakova,2.01,Atlanta 1996,Athletics,high jump women
+3,RUS,yelena gulyayeva,1.99,Atlanta 1996,Athletics,high jump women
+4,GER,alina astafei,1.96,Atlanta 1996,Athletics,high jump women
+5,LTU,nele zilinskiene,1.96,Atlanta 1996,Athletics,high jump women
+6,RUS,tatyana motkova,1.96,Atlanta 1996,Athletics,high jump women
+7,NOR,hanne haugland,1.96,Atlanta 1996,Athletics,high jump women
+8,SLO,britta bilac,1.93,Atlanta 1996,Athletics,high jump women
+9,USA,tisha waller,1.93,Atlanta 1996,Athletics,high jump women
+10,CZE,zuzana hlavonova,1.93,Atlanta 1996,Athletics,high jump women
+11,MDA,olga bolsova,1.93,Atlanta 1996,Athletics,high jump women
+12,KAZ,svetlana zalevskaya,1.93,Atlanta 1996,Athletics,high jump women
+13,AUS,alison inverarity,,Atlanta 1996,Athletics,high jump women
+14,ITA,antonella bevilacqua,Disqualified,Atlanta 1996,Athletics,high jump women
+15,IVB,coralea cline,Did not start,Atlanta 1996,Athletics,high jump women
+16,AUT,sigrid kirchmann,Did not start,Atlanta 1996,Athletics,high jump women
+0,CZE,jan železný,88.16,Atlanta 1996,Athletics,javelin throw men
+1,GBR,steve backley,87.44,Atlanta 1996,Athletics,javelin throw men
+2,FIN,seppo henrik raty,86.98,Atlanta 1996,Athletics,javelin throw men
+3,GER,raymond hecht,86.88,Atlanta 1996,Athletics,javelin throw men
+4,GER,boris henry,85.68,Atlanta 1996,Athletics,javelin throw men
+5,RUS,sergey makarov,85.3,Atlanta 1996,Athletics,javelin throw men
+6,FIN,kimmo paavali kinnunen,84.02,Atlanta 1996,Athletics,javelin throw men
+7,USA,thomas pukstys,83.58,Atlanta 1996,Athletics,javelin throw men
+8,GER,peter blank,81.82,Atlanta 1996,Athletics,javelin throw men
+9,GRE,kostas gatsioudis,81.46,Atlanta 1996,Athletics,javelin throw men
+10,CHN,lianbiao zhang,80.96,Atlanta 1996,Athletics,javelin throw men
+11,GBR,michael christopher hill,78.58,Atlanta 1996,Athletics,javelin throw men
+12,BLR,vladimir sasimovich,,Atlanta 1996,Athletics,javelin throw men
+0,FIN,heli orvokki rantanen,67.94,Atlanta 1996,Athletics,javelin throw women
+1,AUS,louise mcpaul,65.54,Atlanta 1996,Athletics,javelin throw women
+2,NOR,trine hattestad,64.98,Atlanta 1996,Athletics,javelin throw women
+3,CUB,isel lopez,64.68,Atlanta 1996,Athletics,javelin throw women
+4,CUB,xiomara rivero,64.48,Atlanta 1996,Athletics,javelin throw women
+5,GER,karen forkel,64.18,Atlanta 1996,Athletics,javelin throw women
+6,FIN,mikaela ingberg,61.52,Atlanta 1996,Athletics,javelin throw women
+7,CHN,lei li,60.74,Atlanta 1996,Athletics,javelin throw women
+8,GER,steffi nerius,60.2,Atlanta 1996,Athletics,javelin throw women
+9,ROU,felicia țilea-moldovan,59.94,Atlanta 1996,Athletics,javelin throw women
+10,CUB,odelmye palma,59.7,Atlanta 1996,Athletics,javelin throw women
+11,BLR,natalia shikolenko,58.56,Atlanta 1996,Athletics,javelin throw women
+12,BUL,sonya radicheva,Did not start,Atlanta 1996,Athletics,javelin throw women
+0,USA,carl lewis,8.5,Atlanta 1996,Athletics,long jump men
+1,JAM,james beckford,8.29,Atlanta 1996,Athletics,long jump men
+2,USA,joe greene,8.24,Atlanta 1996,Athletics,long jump men
+3,FRA,emmanuel bangue,8.19,Atlanta 1996,Athletics,long jump men
+4,USA,michael anthony powell,8.17,Atlanta 1996,Athletics,long jump men
+5,SLO,gregor cankar,8.11,Atlanta 1996,Athletics,long jump men
+6,BLR,aleksandr glavatskiy,8.07,Atlanta 1996,Athletics,long jump men
+7,SWE,mattias sunneborn,8.06,Atlanta 1996,Athletics,long jump men
+8,CHN,geng huang,7.99,Atlanta 1996,Athletics,long jump men
+9,RUS,yuriy naumkin,7.96,Atlanta 1996,Athletics,long jump men
+10,RUS,andrey ignatov,7.83,Atlanta 1996,Athletics,long jump men
+11,CUB,ivan pedroso,7.75,Atlanta 1996,Athletics,long jump men
+12,BEL,erik nijs,7.72,Atlanta 1996,Athletics,long jump men
+13,AHO,ellsworth manuel,,Atlanta 1996,Athletics,long jump men
+14,BUL,ivaylo mladenov,,Atlanta 1996,Athletics,long jump men
+15,BUR,franck olivier zio,,Atlanta 1996,Athletics,long jump men
+16,CRO,sinisa ergotic,,Atlanta 1996,Athletics,long jump men
+17,GAM,ousman sallah,,Atlanta 1996,Athletics,long jump men
+18,GER,hans-peter lott,,Atlanta 1996,Athletics,long jump men
+19,KOR,hui-jun seong,,Atlanta 1996,Athletics,long jump men
+20,SRI,benny fernando,,Atlanta 1996,Athletics,long jump men
+21,TKM,vladimir malyavin,,Atlanta 1996,Athletics,long jump men
+22,BAH,craig daniel hepburn,Did not start,Atlanta 1996,Athletics,long jump men
+0,NGR,chioma ajunwa,7.12,Atlanta 1996,Athletics,long jump women
+1,ITA,fiona may,7.02,Atlanta 1996,Athletics,long jump women
+2,USA,jackie joyner-kersee,7,Atlanta 1996,Athletics,long jump women
+3,GRE,niki xanthou,6.97,Atlanta 1996,Athletics,long jump women
+4,UKR,olena shekhovtsova,6.97,Atlanta 1996,Athletics,long jump women
+5,POL,agata karczmarek,6.9,Atlanta 1996,Athletics,long jump women
+6,AUS,nicole boegman,6.73,Atlanta 1996,Athletics,long jump women
+7,HUN,tunde vaszi,6.6,Atlanta 1996,Athletics,long jump women
+8,NZL,chantal brunner,6.49w,Atlanta 1996,Athletics,long jump women
+9,GRE,paraskevi voula patoulidou,6.37,Atlanta 1996,Athletics,long jump women
+10,NED,sharon jaklofsky,,Atlanta 1996,Athletics,long jump women
+11,AUT,ljudmila ninova,,Atlanta 1996,Athletics,long jump women
+12,BLR,natalya sazanovich,,Atlanta 1996,Athletics,long jump women
+13,DEN,renata nielsen,,Atlanta 1996,Athletics,long jump women
+14,FIN,heli koivula,,Atlanta 1996,Athletics,long jump women
+15,JAM,lacena golding-clarke,,Atlanta 1996,Athletics,long jump women
+16,ROU,mihaela gheorghiu,,Atlanta 1996,Athletics,long jump women
+17,RUS,lyudmila galkina,,Atlanta 1996,Athletics,long jump women
+18,UKR,inessa kravets,,Atlanta 1996,Athletics,long jump women
+19,UKR,viktoriya vershynina,,Atlanta 1996,Athletics,long jump women
+20,USA,shana williams,,Atlanta 1996,Athletics,long jump women
+21,BUL,iva prandzheva,Disqualified,Atlanta 1996,Athletics,long jump women
+22,JAM,dionne marie rose,Did not start,Atlanta 1996,Athletics,long jump women
+23,LCA,michelle baptiste,Did not start,Atlanta 1996,Athletics,long jump women
+0,RSA,josia thugwane,02:12:36.000,Atlanta 1996,Athletics,marathon men
+1,KOR,bong-ju lee,02:12:39.000,Atlanta 1996,Athletics,marathon men
+2,KEN,erick wainaina,02:12:44.000,Atlanta 1996,Athletics,marathon men
+3,ESP,martin fiz,02:13:20.000,Atlanta 1996,Athletics,marathon men
+4,GBR,richard david nerurkar,02:13:39.000,Atlanta 1996,Athletics,marathon men
+5,MEX,german silva martinez,02:14:29.000,Atlanta 1996,Athletics,marathon men
+6,AUS,stephen moneghetti,02:14:35.000,Atlanta 1996,Athletics,marathon men
+7,MEX,benjamin paredes,02:14:55.000,Atlanta 1996,Athletics,marathon men
+8,ITA,danilo goffi,02:15:08.000,Atlanta 1996,Athletics,marathon men
+9,BRA,luis antonio dos santos,02:15:55.000,Atlanta 1996,Athletics,marathon men
+10,COL,carlos mario grisales,02:15:56.000,Atlanta 1996,Athletics,marathon men
+11,KOR,yi-yong kim,02:16:17.000,Atlanta 1996,Athletics,marathon men
+12,ZIM,tendai chimusasa,02:16:31.000,Atlanta 1996,Athletics,marathon men
+13,POR,antonio pinto,02:16:41.000,Atlanta 1996,Athletics,marathon men
+14,MEX,dionicio ceron,02:16:48.000,Atlanta 1996,Athletics,marathon men
+15,COD,willy kalombo,02:17:01.000,Atlanta 1996,Athletics,marathon men
+16,POL,leszek beblo,02:17:04.000,Atlanta 1996,Athletics,marathon men
+17,ESP,alberto juzdado,02:17:24.000,Atlanta 1996,Athletics,marathon men
+18,JPN,hiromi taniguchi,02:17:26.000,Atlanta 1996,Athletics,marathon men
+19,ITA,salvatore bettiol,02:17:27.000,Atlanta 1996,Athletics,marathon men
+20,CAN,peter fonseca,02:17:28.000,Atlanta 1996,Athletics,marathon men
+21,ECU,rolando vera,02:17:40.000,Atlanta 1996,Athletics,marathon men
+22,AUS,rod de highden,02:17:42.000,Atlanta 1996,Athletics,marathon men
+23,CRC,jose luis molina,02:17:49.000,Atlanta 1996,Athletics,marathon men
+24,POR,domingos castro,02:18:03.000,Atlanta 1996,Athletics,marathon men
+25,TUN,tahar mansouri,02:18:06.000,Atlanta 1996,Athletics,marathon men
+26,RSA,lawrence peu,02:18:09.000,Atlanta 1996,Athletics,marathon men
+27,USA,keith brantly,02:18:17.000,Atlanta 1996,Athletics,marathon men
+28,LES,thabiso ralekhetla,02:18:26.000,Atlanta 1996,Athletics,marathon men
+29,BUL,hristo stefanov,02:18:29.000,Atlanta 1996,Athletics,marathon men
+30,USA,robert kempainen,02:18:38.000,Atlanta 1996,Athletics,marathon men
+31,FIN,harri johannes hanninen,02:18:41.000,Atlanta 1996,Athletics,marathon men
+32,RSA,gert thys,02:18:55.000,Atlanta 1996,Athletics,marathon men
+33,AUS,sean quilty,02:19:35.000,Atlanta 1996,Athletics,marathon men
+34,CAN,carey nelson,02:19:39.000,Atlanta 1996,Athletics,marathon men
+35,GRE,spyridon andriopoulos,02:19:41.000,Atlanta 1996,Athletics,marathon men
+36,RUS,oleg strizhakov,02:19:51.000,Atlanta 1996,Athletics,marathon men
+37,PRK,jung-ok kim,02:19:54.000,Atlanta 1996,Athletics,marathon men
+38,CAN,bruce deacon,02:19:56.000,Atlanta 1996,Athletics,marathon men
+39,PRK,jong-ok kim,02:20:19.000,Atlanta 1996,Athletics,marathon men
+40,USA,mark coogan,02:20:27.000,Atlanta 1996,Athletics,marathon men
+41,DJI,hussein ahmed salah,02:20:33.000,Atlanta 1996,Athletics,marathon men
+42,UKR,petro sarafyniuk,02:20:37.000,Atlanta 1996,Athletics,marathon men
+43,MAR,abdel kader el-mouaziz,02:20:39.000,Atlanta 1996,Athletics,marathon men
+44,NED,albert van vlaanderen,02:20:48.000,Atlanta 1996,Athletics,marathon men
+45,POR,manuel matias,02:20:58.000,Atlanta 1996,Athletics,marathon men
+46,BRA,vanderlei de lima,02:21:01.000,Atlanta 1996,Athletics,marathon men
+47,GER,konrad waldemar dobler,02:21:12.000,Atlanta 1996,Athletics,marathon men
+48,SCG,borislav devic,02:21:22.000,Atlanta 1996,Athletics,marathon men
+49,ITA,davide milesi,02:21:45.000,Atlanta 1996,Athletics,marathon men
+50,LAT,aleksandrs prokopčuks,02:21:50.000,Atlanta 1996,Athletics,marathon men
+51,KEN,lameck aguta,02:22:04.000,Atlanta 1996,Athletics,marathon men
+52,ESP,diego garcia,02:22:11.000,Atlanta 1996,Athletics,marathon men
+53,JPN,masaki oya,02:22:13.000,Atlanta 1996,Athletics,marathon men
+54,GBR,peter whitehead,02:22:37.000,Atlanta 1996,Athletics,marathon men
+55,KEN,ezequiel bitok,02:23:03.000,Atlanta 1996,Athletics,marathon men
+56,TPE,gi-sheng hsu,02:23:04.000,Atlanta 1996,Athletics,marathon men
+57,EST,pavel loskutov,02:23:14.000,Atlanta 1996,Athletics,marathon men
+58,VEN,ruben maza,02:23:24.000,Atlanta 1996,Athletics,marathon men
+59,GBR,steve brace,02:23:28.000,Atlanta 1996,Athletics,marathon men
+60,POL,grzegorz gajdus,02:23:41.000,Atlanta 1996,Athletics,marathon men
+61,SWZ,isaac simelane,02:23:43.000,Atlanta 1996,Athletics,marathon men
+62,KGZ,nazirdin akylbekov,02:23:59.000,Atlanta 1996,Athletics,marathon men
+63,SWE,anders szalkai,02:24:27.000,Atlanta 1996,Athletics,marathon men
+64,MAW,john mwathiwa,02:24:45.000,Atlanta 1996,Athletics,marathon men
+65,RUS,leonid shvetsov,02:24:49.000,Atlanta 1996,Athletics,marathon men
+66,BEL,eddy hellebuyck,02:25:04.000,Atlanta 1996,Athletics,marathon men
+67,SUD,ahmed adam salah,02:25:12.000,Atlanta 1996,Athletics,marathon men
+68,TAN,ikaji salim,02:25:29.000,Atlanta 1996,Athletics,marathon men
+69,LTU,pavelas fedorenko,02:25:41.000,Atlanta 1996,Athletics,marathon men
+70,PER,miguel mallqui,02:25:56.000,Atlanta 1996,Athletics,marathon men
+71,INA,ethel hudson,02:26:02.000,Atlanta 1996,Athletics,marathon men
+72,BRA,diamantino dos santos,02:26:53.000,Atlanta 1996,Athletics,marathon men
+73,NEP,tika bogati,02:27:04.000,Atlanta 1996,Athletics,marathon men
+74,TTO,ronnie holassie,02:27:20.000,Atlanta 1996,Athletics,marathon men
+75,NAM,joseph tjitunga,02:27:52.000,Atlanta 1996,Athletics,marathon men
+76,MDA,valeri vlas,02:28:36.000,Atlanta 1996,Athletics,marathon men
+77,SWZ,daniel sibandze,02:28:49.000,Atlanta 1996,Athletics,marathon men
+78,URU,waldemar cotelo,02:28:50.000,Atlanta 1996,Athletics,marathon men
+79,BUL,petko stefanov,02:29:06.000,Atlanta 1996,Athletics,marathon men
+80,ETH,abebe mekonnen,02:29:45.000,Atlanta 1996,Athletics,marathon men
+81,GUA,luis martinez,02:29:55.000,Atlanta 1996,Athletics,marathon men
+82,NZL,sean wade,02:30:35.000,Atlanta 1996,Athletics,marathon men
+83,MAR,abderrahim benredouane,02:30:49.000,Atlanta 1996,Athletics,marathon men
+84,NIG,abdou manzo,02:30:57.000,Atlanta 1996,Athletics,marathon men
+85,CHI,marcelo barrientos,02:31:05.000,Atlanta 1996,Athletics,marathon men
+86,AND,antoni bernado,02:31:28.000,Atlanta 1996,Athletics,marathon men
+87,LBA,adel adili,02:32:12.000,Atlanta 1996,Athletics,marathon men
+88,VEN,carlos tarazona,02:32:35.000,Atlanta 1996,Athletics,marathon men
+89,BDI,tharcisse gashaka,02:32:55.000,Atlanta 1996,Athletics,marathon men
+90,BOL,policarpio calizaya,02:33:08.000,Atlanta 1996,Athletics,marathon men
+91,TAN,simon qamunga,02:33:11.000,Atlanta 1996,Athletics,marathon men
+92,JPN,kenjiro jitsui,02:33:27.000,Atlanta 1996,Athletics,marathon men
+93,CPV,antonio carlos zeferino,02:34:13.000,Atlanta 1996,Athletics,marathon men
+94,VIN,pamenos avorsant ballantyne,02:34:16.000,Atlanta 1996,Athletics,marathon men
+95,COD,kaleka mutoke,02:34:40.000,Atlanta 1996,Athletics,marathon men
+96,CAF,ernest ndissipou,02:35:55.000,Atlanta 1996,Athletics,marathon men
+97,MAR,ali ettounsi,02:36:01.000,Atlanta 1996,Athletics,marathon men
+98,NCA,william aguirre,02:37:02.000,Atlanta 1996,Athletics,marathon men
+99,PHI,roy vence,02:37:10.000,Atlanta 1996,Athletics,marathon men
+100,YEM,mohamed brahim,02:40:41.000,Atlanta 1996,Athletics,marathon men
+101,COL,julio hernandez,02:41:56.000,Atlanta 1996,Athletics,marathon men
+102,MRI,ajay chuttoo,02:42:07.000,Atlanta 1996,Athletics,marathon men
+103,JAM,nils antonio,02:44:10.000,Atlanta 1996,Athletics,marathon men
+104,CAM,rithya to,02:47:01.000,Atlanta 1996,Athletics,marathon men
+105,PUR,maximo oliveras,02:47:15.000,Atlanta 1996,Athletics,marathon men
+106,BIH,islam djugum,02:47:38.000,Atlanta 1996,Athletics,marathon men
+107,ISV,marlon selwyn williams,02:48:26.000,Atlanta 1996,Athletics,marathon men
+108,BIZ,eugene muslar,02:51:41.000,Atlanta 1996,Athletics,marathon men
+109,SOM,abdi isak,02:59:55.000,Atlanta 1996,Athletics,marathon men
+110,AFG,a baser wasiqi,04:24:17.000,Atlanta 1996,Athletics,marathon men
+111,ETH,tumo turbo,Did not finish,Atlanta 1996,Athletics,marathon men
+112,RWA,patrick ishyaka,Did not finish,Atlanta 1996,Athletics,marathon men
+113,ETH,belayneh dinsamo,Did not finish,Atlanta 1996,Athletics,marathon men
+114,ARG,antonio fabian silio,Did not finish,Atlanta 1996,Athletics,marathon men
+115,MAD,victor razafindrakoto,Did not finish,Atlanta 1996,Athletics,marathon men
+116,LTU,ceslovas kundrotas,Did not finish,Atlanta 1996,Athletics,marathon men
+117,GER,stephan timo freigang,Did not finish,Atlanta 1996,Athletics,marathon men
+118,TAN,julius sumaye,Did not finish,Atlanta 1996,Athletics,marathon men
+119,BOT,benjamin keleketu,Did not finish,Atlanta 1996,Athletics,marathon men
+120,LTU,dainius virbickas,Did not finish,Atlanta 1996,Athletics,marathon men
+121,FIN,risto ulmala,Did not finish,Atlanta 1996,Athletics,marathon men
+122,DJI,omar moussa,Did not finish,Atlanta 1996,Athletics,marathon men
+123,KOR,wan-ki kim,Did not finish,Atlanta 1996,Athletics,marathon men
+0,ETH,fatuma roba,02:26:05.000,Atlanta 1996,Athletics,marathon women
+1,RUS,valentina yegorova,02:28:05.000,Atlanta 1996,Athletics,marathon women
+2,JPN,yuko arimori,02:28:39.000,Atlanta 1996,Athletics,marathon women
+3,GER,katrin dörre,02:28:45.000,Atlanta 1996,Athletics,marathon women
+4,ESP,rocio rios,02:30:50.000,Atlanta 1996,Athletics,marathon women
+5,ROU,lidia simon,02:31:04.000,Atlanta 1996,Athletics,marathon women
+6,POR,manuela machado,02:31:11.000,Atlanta 1996,Athletics,marathon women
+7,GER,sonja krolik,02:31:16.000,Atlanta 1996,Athletics,marathon women
+8,CHN,xiujuan ren,02:31:21.000,Atlanta 1996,Athletics,marathon women
+9,USA,anne marie lauck,02:31:30.000,Atlanta 1996,Athletics,marathon women
+10,POL,malgorzata sobanska,02:31:52.000,Atlanta 1996,Athletics,marathon women
+11,JPN,izumi maki,02:32:35.000,Atlanta 1996,Athletics,marathon women
+12,ITA,ornella ferrara,02:33:09.000,Atlanta 1996,Athletics,marathon women
+13,ESP,monica pont,02:33:27.000,Atlanta 1996,Athletics,marathon women
+14,KEN,angeline kanana,02:34:19.000,Atlanta 1996,Athletics,marathon women
+15,GBR,liz mccolgan,02:34:30.000,Atlanta 1996,Athletics,marathon women
+16,JPN,junko asari,02:34:31.000,Atlanta 1996,Athletics,marathon women
+17,SUI,franziska rochat-moser,02:34:48.000,Atlanta 1996,Athletics,marathon women
+18,ARG,griselda gonzalez,02:35:12.000,Atlanta 1996,Athletics,marathon women
+19,PRK,song ok jong,02:35:31.000,Atlanta 1996,Athletics,marathon women
+20,KGZ,irina bogacheva,02:35:44.000,Atlanta 1996,Athletics,marathon women
+21,COL,inglandini gonzalez,02:35:45.000,Atlanta 1996,Athletics,marathon women
+22,TUR,serap aktas,02:36:14.000,Atlanta 1996,Athletics,marathon women
+23,BLR,yelena mazovka,02:36:22.000,Atlanta 1996,Athletics,marathon women
+24,BEL,marleen renders,02:36:27.000,Atlanta 1996,Athletics,marathon women
+25,PRK,chang ok kim,02:36:31.000,Atlanta 1996,Athletics,marathon women
+26,POR,albertina dias,02:36:39.000,Atlanta 1996,Athletics,marathon women
+27,AUS,kerryn mccann,02:36:41.000,Atlanta 1996,Athletics,marathon women
+28,POL,aniela nikiel,02:36:44.000,Atlanta 1996,Athletics,marathon women
+29,KOR,mi-ja oh,02:36:54.000,Atlanta 1996,Athletics,marathon women
+30,USA,linda somers,02:36:58.000,Atlanta 1996,Athletics,marathon women
+31,CAN,danuta bartoszek,02:37:06.000,Atlanta 1996,Athletics,marathon women
+32,MEX,mari carmen diaz,02:37:14.000,Atlanta 1996,Athletics,marathon women
+33,SUI,nelly glauser,02:37:19.000,Atlanta 1996,Athletics,marathon women
+34,RUS,ramilia burangulova,02:38:04.000,Atlanta 1996,Athletics,marathon women
+35,HUN,judit nagy-földing,02:38:43.000,Atlanta 1996,Athletics,marathon women
+36,CHI,erika olivera,02:39:06.000,Atlanta 1996,Athletics,marathon women
+37,SGP,yvonne danson,02:39:18.000,Atlanta 1996,Athletics,marathon women
+38,BRA,marcia narloch,02:39:33.000,Atlanta 1996,Athletics,marathon women
+39,LTU,stefanija statkuviene,02:39:51.000,Atlanta 1996,Athletics,marathon women
+40,NED,antje van schuppen,02:40:46.000,Atlanta 1996,Athletics,marathon women
+41,GRE,maria polyzou,02:41:33.000,Atlanta 1996,Athletics,marathon women
+42,MEX,guadaloupe loma,02:41:56.000,Atlanta 1996,Athletics,marathon women
+43,ROU,anuta catuna,02:42:01.000,Atlanta 1996,Athletics,marathon women
+44,GBR,karen macleod,02:42:08.000,Atlanta 1996,Athletics,marathon women
+45,NZL,lorraine mary moller,02:42:21.000,Atlanta 1996,Athletics,marathon women
+46,POR,maria albertina machado,02:43:44.000,Atlanta 1996,Athletics,marathon women
+47,NOR,anita haakenstad,02:43:58.000,Atlanta 1996,Athletics,marathon women
+48,ESP,ana isabel alonso,02:44:12.000,Atlanta 1996,Athletics,marathon women
+49,BLR,natasha galushko,02:44:21.000,Atlanta 1996,Athletics,marathon women
+50,MEX,adriana fernandez,02:44:23.000,Atlanta 1996,Athletics,marathon women
+51,CAN,may allison,02:44:38.000,Atlanta 1996,Athletics,marathon women
+52,SLO,helena javornik,02:46:58.000,Atlanta 1996,Athletics,marathon women
+53,PER,marilu salazar,02:48:58.000,Atlanta 1996,Athletics,marathon women
+54,SCG,suzana ciric,02:49:30.000,Atlanta 1996,Athletics,marathon women
+55,FRA,nadia prasad,02:50:05.000,Atlanta 1996,Athletics,marathon women
+56,AUS,sue malaxos,02:50:46.000,Atlanta 1996,Athletics,marathon women
+57,GBR,suzanne rigg,02:52:09.000,Atlanta 1996,Athletics,marathon women
+58,NAM,elizabeth mongudhi,02:56:19.000,Atlanta 1996,Athletics,marathon women
+59,BRA,solange de souza,02:56:23.000,Atlanta 1996,Athletics,marathon women
+60,TJK,gulsara dadabaeva,03:09:08.000,Atlanta 1996,Athletics,marathon women
+61,NEP,bimala ranamagar,03:16:19.000,Atlanta 1996,Athletics,marathon women
+62,MGL,davaajargal erkhemsaikhany,03:19:06.000,Atlanta 1996,Athletics,marathon women
+63,LAO,sirivanh ketavong,03:25:16.000,Atlanta 1996,Athletics,marathon women
+64,GUM,marie benito,03:27:28.000,Atlanta 1996,Athletics,marathon women
+65,MDA,valentina enache,Disqualified,Atlanta 1996,Athletics,marathon women
+66,CAF,virginie gloum,Disqualified,Atlanta 1996,Athletics,marathon women
+67,GER,uta pippig,Did not finish,Atlanta 1996,Athletics,marathon women
+68,ROU,cristina pomacu,Did not finish,Atlanta 1996,Athletics,marathon women
+69,DEN,gitte karlshoj,Did not finish,Atlanta 1996,Athletics,marathon women
+70,KOR,sun-deok gang,Did not finish,Atlanta 1996,Athletics,marathon women
+71,UKR,lyubov klochko,Did not finish,Atlanta 1996,Athletics,marathon women
+72,POL,kamila gradus,Did not finish,Atlanta 1996,Athletics,marathon women
+73,FIN,kirsi rauta,Did not finish,Atlanta 1996,Athletics,marathon women
+74,ITA,maura viceconte,Did not finish,Atlanta 1996,Athletics,marathon women
+75,BRA,carmen de oliveira,Did not finish,Atlanta 1996,Athletics,marathon women
+76,RUS,alla zhilyayeva,Did not finish,Atlanta 1996,Athletics,marathon women
+77,ECU,martha tenorio,Did not finish,Atlanta 1996,Athletics,marathon women
+78,RSA,elana meyer,Did not finish,Atlanta 1996,Athletics,marathon women
+79,EST,jane salumae,Did not finish,Atlanta 1996,Athletics,marathon women
+80,KOR,mi-gyeong lee,Did not finish,Atlanta 1996,Athletics,marathon women
+81,AUS,lisa martin-ondieki-o'dea,Did not finish,Atlanta 1996,Athletics,marathon women
+82,BLR,madina biktagirova,Did not finish,Atlanta 1996,Athletics,marathon women
+83,MLT,carol galea,Did not finish,Atlanta 1996,Athletics,marathon women
+84,ITA,maria curatolo,Did not finish,Atlanta 1996,Athletics,marathon women
+85,KEN,joyce chepchumba,Did not finish,Atlanta 1996,Athletics,marathon women
+86,KEN,selina chirchir,Did not finish,Atlanta 1996,Athletics,marathon women
+87,USA,jenny spangler,Did not finish,Atlanta 1996,Athletics,marathon women
+0,FRA,jean galfione,5.92,Atlanta 1996,Athletics,pole vault men
+1,RUS,igor trandenkov,5.92,Atlanta 1996,Athletics,pole vault men
+2,GER,andrej tiwontschik,5.92,Atlanta 1996,Athletics,pole vault men
+3,KAZ,igor potapovich,5.86,Atlanta 1996,Athletics,pole vault men
+4,RUS,pyotr bochkaryov,5.86,Atlanta 1996,Athletics,pole vault men
+5,BLR,dmitri markov,5.86,Atlanta 1996,Athletics,pole vault men
+6,GER,tim lobinger,5.8,Atlanta 1996,Athletics,pole vault men
+7,USA,lawrence johnson,5.7,Atlanta 1996,Athletics,pole vault men
+8,FRA,alain andji,5.7,Atlanta 1996,Athletics,pole vault men
+9,GER,michael stolle,5.7,Atlanta 1996,Athletics,pole vault men
+10,ISR,evgeny krasnov,5.6,Atlanta 1996,Athletics,pole vault men
+11,USA,jeff hartwig,5.6,Atlanta 1996,Athletics,pole vault men
+12,USA,scott huffman,5.6,Atlanta 1996,Athletics,pole vault men
+13,RSA,riaan botha,5.6,Atlanta 1996,Athletics,pole vault men
+14,AUS,simon arkell,,Atlanta 1996,Athletics,pole vault men
+15,ESP,juan gabriel concepcion,,Atlanta 1996,Athletics,pole vault men
+16,EST,valeri bukrejev,,Atlanta 1996,Athletics,pole vault men
+17,LCA,dominic laurence johnson,,Atlanta 1996,Athletics,pole vault men
+18,MRI,kersley gardenne,,Atlanta 1996,Athletics,pole vault men
+19,RSA,okkert brits,,Atlanta 1996,Athletics,pole vault men
+20,UKR,vasiliy bubka,,Atlanta 1996,Athletics,pole vault men
+21,UKR,sergii bubka,Did not start,Atlanta 1996,Athletics,pole vault men
+0,USA,eric randolph barnes,21.62,Atlanta 1996,Athletics,shot put men
+1,USA,john godina,20.79,Atlanta 1996,Athletics,shot put men
+2,UKR,oleksandr bagach,20.75,Atlanta 1996,Athletics,shot put men
+3,ITA,paolo dal soglio,20.74,Atlanta 1996,Athletics,shot put men
+4,GER,oliver-sven buder,20.51,Atlanta 1996,Athletics,shot put men
+5,UKR,roman virastyuk,20.45,Atlanta 1996,Athletics,shot put men
+6,USA,c.j. hunter,20.39,Atlanta 1996,Athletics,shot put men
+7,SCG,dragan peric,20.07,Atlanta 1996,Athletics,shot put men
+8,BLR,dzmitry hancharuk,19.79,Atlanta 1996,Athletics,shot put men
+9,QAT,bilal saad mubarak,19.33,Atlanta 1996,Athletics,shot put men
+10,ITA,corrado fantini,19.3,Atlanta 1996,Athletics,shot put men
+11,UKR,alexander klymenko,,Atlanta 1996,Athletics,shot put men
+12,HUN,jeno koczian,,Atlanta 1996,Athletics,shot put men
+13,KAZ,sergey rubtsov,,Atlanta 1996,Athletics,shot put men
+0,GER,astrid kumbernuss,20.56,Atlanta 1996,Athletics,shot put women
+1,CHN,xinmei sui,19.88,Atlanta 1996,Athletics,shot put women
+2,RUS,irina khudoroshkina,19.35,Atlanta 1996,Athletics,shot put women
+3,UKR,vita pavlysh,19.3,Atlanta 1996,Athletics,shot put women
+4,USA,connie marie price-smith,19.22,Atlanta 1996,Athletics,shot put women
+5,GER,stephanie storp,19.06,Atlanta 1996,Athletics,shot put women
+6,GER,kathrin neimke,18.92,Atlanta 1996,Athletics,shot put women
+7,RUS,irina korzhanenko,18.68,Atlanta 1996,Athletics,shot put women
+8,USA,ramona pagel,18.48,Atlanta 1996,Athletics,shot put women
+9,CUB,belsy laza,18.4,Atlanta 1996,Athletics,shot put women
+10,GBR,judith miriam oakes,18.34,Atlanta 1996,Athletics,shot put women
+11,UKR,walentina fedjuschina,17.99,Atlanta 1996,Athletics,shot put women
+12,CHN,zhihong huang,Did not start,Atlanta 1996,Athletics,shot put women
+13,NED,corrie de bruin,Did not start,Atlanta 1996,Athletics,shot put women
+0,USA,kenny harrison,18.09,Atlanta 1996,Athletics,triple jump men
+1,GBR,jonathan david edwards,17.88,Atlanta 1996,Athletics,triple jump men
+2,CUB,yoelbi quesada,17.44,Atlanta 1996,Athletics,triple jump men
+3,USA,mike conley,17.4,Atlanta 1996,Athletics,triple jump men
+4,ARM,armen martirosyan,16.97,Atlanta 1996,Athletics,triple jump men
+5,BER,brian p. wellman,16.95,Atlanta 1996,Athletics,triple jump men
+6,BUL,galin georgiev,16.92,Atlanta 1996,Athletics,triple jump men
+7,USA,robert howard,16.9,Atlanta 1996,Athletics,triple jump men
+8,RUS,viktor sotnikov,16.84,Atlanta 1996,Athletics,triple jump men
+9,UKR,volodymyr kravchenko,16.62,Atlanta 1996,Athletics,triple jump men
+10,BAH,frank rutherford,16.38,Atlanta 1996,Athletics,triple jump men
+11,DMA,jerome romain,,Atlanta 1996,Athletics,triple jump men
+12,LAT,maris bruziks,Did not start,Atlanta 1996,Athletics,triple jump men
+0,UKR,inessa kravets,15.33,Atlanta 1996,Athletics,triple jump women
+1,RUS,inna lasovskaya,14.98,Atlanta 1996,Athletics,triple jump women
+2,CZE,sarka kasparkova,14.98,Atlanta 1996,Athletics,triple jump women
+3,GBR,ashia hansen,14.49,Atlanta 1996,Athletics,triple jump women
+4,GRE,olga vasdeki,14.44,Atlanta 1996,Athletics,triple jump women
+5,CHN,ruiping ren,14.3,Atlanta 1996,Athletics,triple jump women
+6,ROU,rodica mateescu,14.21,Atlanta 1996,Athletics,triple jump women
+7,LAT,jelena blazevica,14.12,Atlanta 1996,Athletics,triple jump women
+8,UKR,olena hovorova,14.09,Atlanta 1996,Athletics,triple jump women
+9,USA,sheila hudson,14.02,Atlanta 1996,Athletics,triple jump women
+10,UKR,olena khlusovych,13.81,Atlanta 1996,Athletics,triple jump women
+11,BUL,iva prandzheva,Disqualified,Atlanta 1996,Athletics,triple jump women
+12,ESP,conchi paredes,,Atlanta 1996,Athletics,triple jump women
+13,GER,petra lobinger,,Atlanta 1996,Athletics,triple jump women
+14,HUN,zita balint,,Atlanta 1996,Athletics,triple jump women
+15,USA,diana orrange,,Atlanta 1996,Athletics,triple jump women
+16,CUB,yamilé aldama,Did not start,Atlanta 1996,Athletics,triple jump women
