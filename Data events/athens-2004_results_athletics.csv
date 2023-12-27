@@ -1,4 +1,211 @@
 ,country,participant,result,olympic_game,discipline,event
+0,ETH,kenenisa bekele,00:27:05.100,Athens 2004,Athletics,10000m men
+1,ETH,sileshi sihine,00:27:09.390,Athens 2004,Athletics,10000m men
+2,ERI,zersenay tadesse,00:27:22.570,Athens 2004,Athletics,10000m men
+3,UGA,boniface kiprop toroitich,00:27:25.480,Athens 2004,Athletics,10000m men
+4,ETH,haile gebrselassie,00:27:27.700,Athens 2004,Athletics,10000m men
+5,KEN,john cheruiyot korir,00:27:41.910,Athens 2004,Athletics,10000m men
+6,KEN,moses cheruiyot mosop,00:27:46.610,Athens 2004,Athletics,10000m men
+7,FRA,ismail sghyr,00:27:57.090,Athens 2004,Athletics,10000m men
+8,ESP,jose manuel martinez,00:27:57.610,Athens 2004,Athletics,10000m men
+9,TAN,fabiano joseph,00:28:01.940,Athens 2004,Athletics,10000m men
+10,UGA,wilson busienei,00:28:10.750,Athens 2004,Athletics,10000m men
+11,USA,daniel browne,00:28:14.530,Athens 2004,Athletics,10000m men
+12,KEN,charles kamathi,00:28:17.080,Athens 2004,Athletics,10000m men
+13,NED,kamiel maase,00:28:23.390,Athens 2004,Athletics,10000m men
+14,USA,abdi abdirahman,00:28:26.260,Athens 2004,Athletics,10000m men
+15,ERI,yonas kifle,00:28:29.870,Athens 2004,Athletics,10000m men
+16,RWA,dieudonne disi,00:28:43.190,Athens 2004,Athletics,10000m men
+17,MAR,mohamed amyn,00:28:55.960,Athens 2004,Athletics,10000m men
+18,JPN,ryuji ono,00:29:06.500,Athens 2004,Athletics,10000m men
+19,MEX,teodoro vega,00:29:06.550,Athens 2004,Athletics,10000m men
+20,MEX,josé david galván,00:29:38.050,Athens 2004,Athletics,10000m men
+21,NZL,john henwood,Did not finish,Athens 2004,Athletics,10000m men
+22,USA,dathan ritzenhein,Did not finish,Athens 2004,Athletics,10000m men
+23,TAN,john yuda,Did not finish,Athens 2004,Athletics,10000m men
+0,CHN,huina xing,00:30:24.360,Athens 2004,Athletics,10000m women
+1,ETH,ejegayehu dibaba,00:30:24.980,Athens 2004,Athletics,10000m women
+2,ETH,derartu tulu,00:30:26.420,Athens 2004,Athletics,10000m women
+3,ETH,werknesh kidane,00:30:28.300,Athens 2004,Athletics,10000m women
+4,NED,lornah kiplagat,00:30:31.920,Athens 2004,Athletics,10000m women
+5,CHN,yingjie sun,00:30:54.370,Athens 2004,Athletics,10000m women
+6,LAT,jelena prokopcuka,00:31:04.100,Athens 2004,Athletics,10000m women
+7,RUS,lidiya grigoryeva,00:31:04.620,Athens 2004,Athletics,10000m women
+8,KEN,lucy wangui kabuu,00:31:05.900,Athens 2004,Athletics,10000m women
+9,SLO,helena javornik,00:31:06.630,Athens 2004,Athletics,10000m women
+10,ROU,mihaela maria prundus,00:31:11.240,Athens 2004,Athletics,10000m women
+11,GBR,kathy butler,00:31:41.130,Athens 2004,Athletics,10000m women
+12,JPN,megumi tanaka,00:31:42.180,Athens 2004,Athletics,10000m women
+13,IRL,marie davenport,00:31:50.490,Athens 2004,Athletics,10000m women
+14,GER,sabrina mockenhaupt,00:32:00.850,Athens 2004,Athletics,10000m women
+15,KEN,alice timbilil,00:32:12.570,Athens 2004,Athletics,10000m women
+16,KEN,sally barsosio,00:32:14.000,Athens 2004,Athletics,10000m women
+17,JPN,harumi hiroyama,00:32:15.120,Athens 2004,Athletics,10000m women
+18,USA,elva dryer,00:32:18.160,Athens 2004,Athletics,10000m women
+19,HUN,aniko kalovics,00:32:21.470,Athens 2004,Athletics,10000m women
+20,USA,kate o'neill,00:32:24.040,Athens 2004,Athletics,10000m women
+21,RUS,galina bogomolova,00:32:25.100,Athens 2004,Athletics,10000m women
+22,MEX,adriana fernandez,00:32:29.570,Athens 2004,Athletics,10000m women
+23,AUS,benita willis,00:32:32.010,Athens 2004,Athletics,10000m women
+24,AUS,haley mcgregor,00:33:35.270,Athens 2004,Athletics,10000m women
+25,JPN,kayoko fukushi,00:33:48.660,Athens 2004,Athletics,10000m women
+26,MDA,natalia cerches,00:34:04.970,Athens 2004,Athletics,10000m women
+27,ALG,souad ait salem,Did not finish,Athens 2004,Athletics,10000m women
+28,UKR,nataliya berkut,Did not finish,Athens 2004,Athletics,10000m women
+29,GBR,paula radcliffe,Did not finish,Athens 2004,Athletics,10000m women
+30,POR,fernanda ribeiro,Did not finish,Athens 2004,Athletics,10000m women
+0,USA,joanna hayes,12.370,Athens 2004,Athletics,100m hurdles women
+1,UKR,olena ovcharova-krasovska,12.450,Athens 2004,Athletics,100m hurdles women
+2,USA,melissa morrison,12.560,Athens 2004,Athletics,100m hurdles women
+3,RUS,mariya koroteyeva,12.720,Athens 2004,Athletics,100m hurdles women
+4,JAM,lacena golding-clarke,12.730,Athens 2004,Athletics,100m hurdles women
+5,CAN,angela whyte,12.810,Athens 2004,Athletics,100m hurdles women
+6,CAN,perdita felicien,Did not finish,Athens 2004,Athletics,100m hurdles women
+7,RUS,irina shevchenko,Did not finish,Athens 2004,Athletics,100m hurdles women
+8,GER,kirsten bolm,,Athens 2004,Athletics,100m hurdles women
+9,USA,yolanda gail devers-roberts,,Athens 2004,Athletics,100m hurdles women
+10,BUL,svetla pishtikova,Did not start,Athens 2004,Athletics,100m hurdles women
+0,USA,justin gatlin,09.850,Athens 2004,Athletics,100m men
+1,POR,francis obikwelu,09.860,Athens 2004,Athletics,100m men
+2,USA,maurice greene,09.870,Athens 2004,Athletics,100m men
+3,USA,shawn crawford,09.890,Athens 2004,Athletics,100m men
+4,JAM,asafa powell,09.940,Athens 2004,Athletics,100m men
+5,SKN,kim collins,10.000,Athens 2004,Athletics,100m men
+6,BAR,obadele thompson,10.100,Athens 2004,Athletics,100m men
+7,GHA,aziz zakari,Did not finish,Athens 2004,Athletics,100m men
+8,TTO,marc burns,,Athens 2004,Athletics,100m men
+9,DOM,juan sainfleur,,Athens 2004,Athletics,100m men
+10,GRE,khristoforos khoides,Did not start,Athens 2004,Athletics,100m men
+11,CHA,djikoloum mobele,Did not start,Athens 2004,Athletics,100m men
+0,BLR,yuliya nestsiarenka,10.930,Athens 2004,Athletics,100m women
+1,USA,lauryn williams,10.960,Athens 2004,Athletics,100m women
+2,JAM,veronica campbell-brown,10.970,Athens 2004,Athletics,100m women
+3,BUL,ivet lalova-collio,11.000,Athens 2004,Athletics,100m women
+4,JAM,aleen bailey,11.050,Athens 2004,Athletics,100m women
+5,JAM,sherone simpson,11.070,Athens 2004,Athletics,100m women
+6,BAH,debbie ferguson-mckenzie,11.160,Athens 2004,Athletics,100m women
+7,USA,latasha colander,11.180,Athens 2004,Athletics,100m women
+8,GHA,vida anim,,Athens 2004,Athletics,100m women
+9,UKR,zhanna pintusevych,Disqualified,Athens 2004,Athletics,100m women
+0,CHN,xiang liu,12.910,Athens 2004,Athletics,110m hurdles men
+1,USA,terrence trammell,13.180,Athens 2004,Athletics,110m hurdles men
+2,CUB,anier garcia,13.200,Athens 2004,Athletics,110m hurdles men
+3,JAM,maurice wignall,13.210,Athens 2004,Athletics,110m hurdles men
+4,LAT,stanislavs olijars,13.210,Athens 2004,Athletics,110m hurdles men
+5,CAN,charles tyrone allen,13.480,Athens 2004,Athletics,110m hurdles men
+6,BRA,matheus facho inocêncio,13.490,Athens 2004,Athletics,110m hurdles men
+7,FRA,ladji doucoure,13.760,Athens 2004,Athletics,110m hurdles men
+8,NED,gregory sedoc,,Athens 2004,Athletics,110m hurdles men
+9,USA,allen johnson,,Athens 2004,Athletics,110m hurdles men
+10,USA,duane ross,Disqualified,Athens 2004,Athletics,110m hurdles men
+11,BRA,redelen dos santos,Did not start,Athens 2004,Athletics,110m hurdles men
+0,MAR,hicham el guerrouj,00:03:34.180,Athens 2004,Athletics,1500m men
+1,KEN,bernard lagat,00:03:34.300,Athens 2004,Athletics,1500m men
+2,POR,rui silva,00:03:34.680,Athens 2004,Athletics,1500m men
+3,KEN,timothy kiptanui,00:03:35.610,Athens 2004,Athletics,1500m men
+4,UKR,ivan heshko,00:03:35.820,Athens 2004,Athletics,1500m men
+5,GBR,michael east,00:03:36.330,Athens 2004,Athletics,1500m men
+6,ESP,reyes estevez,00:03:36.630,Athens 2004,Athletics,1500m men
+7,NED,gert-jan liefers,00:03:37.170,Athens 2004,Athletics,1500m men
+8,MAR,adil kaouch,00:03:38.260,Athens 2004,Athletics,1500m men
+9,ETH,mulugeta wendimu,00:03:38.330,Athens 2004,Athletics,1500m men
+10,ALG,kamel boulahfane,00:03:39.020,Athens 2004,Athletics,1500m men
+11,KEN,isaac songok,00:03:41.720,Athens 2004,Athletics,1500m men
+12,ALG,tarek boukensa,,Athens 2004,Athletics,1500m men
+13,SUD,peter ashak,Did not start,Athens 2004,Athletics,1500m men
+14,TAN,samwel mwera,Did not start,Athens 2004,Athletics,1500m men
+0,GBR,kelly holmes,00:03:57.900,Athens 2004,Athletics,1500m women
+1,RUS,tatyana tomashova,00:03:58.120,Athens 2004,Athletics,1500m women
+2,ROU,maria cioncan,00:03:58.390,Athens 2004,Athletics,1500m women
+3,RUS,natalya yevdokimova,00:03:59.050,Athens 2004,Athletics,1500m women
+4,BUL,daniela yordanova,00:03:59.100,Athens 2004,Athletics,1500m women
+5,POL,lidia chojecka,00:03:59.270,Athens 2004,Athletics,1500m women
+6,POL,anna jakubczak-pawelec,00:04:00.150,Athens 2004,Athletics,1500m women
+7,TUR,elvan abeylegesse,00:04:00.670,Athens 2004,Athletics,1500m women
+8,CAN,carmen douma-hussar,00:04:02.310,Athens 2004,Athletics,1500m women
+9,ESP,natalia rodriguez,00:04:03.010,Athens 2004,Athletics,1500m women
+10,RUS,olga yegorova,00:04:05.650,Athens 2004,Athletics,1500m women
+11,MAR,hasna benhassi,00:04:12.900,Athens 2004,Athletics,1500m women
+12,UKR,iryna lishchynska,,Athens 2004,Athletics,1500m women
+13,MAR,bouchra ghézielle,Did not start,Athens 2004,Athletics,1500m women
+14,ANG,rosa saul,Did not start,Athens 2004,Athletics,1500m women
+15,ALG,nouria merah-benida,Did not start,Athens 2004,Athletics,1500m women
+0,USA,shawn crawford,19.790,Athens 2004,Athletics,200m men
+1,USA,bernard williams,20.010,Athens 2004,Athletics,200m men
+2,USA,justin gatlin,20.030,Athens 2004,Athletics,200m men
+3,NAM,frank fredericks,20.140,Athens 2004,Athletics,200m men
+4,POR,francis obikwelu,20.140,Athens 2004,Athletics,200m men
+5,MRI,stephane buckland,20.240,Athens 2004,Athletics,200m men
+6,GER,tobias benjamin unger,20.640,Athens 2004,Athletics,200m men
+7,POL,marcin urbas,,Athens 2004,Athletics,200m men
+8,GBR,chris lambert,,Athens 2004,Athletics,200m men
+9,KSA,hamed hamadan al bishi,Did not start,Athens 2004,Athletics,200m men
+0,JAM,veronica campbell-brown,22.050,Athens 2004,Athletics,200m women
+1,USA,allyson felix,22.180,Athens 2004,Athletics,200m women
+2,BAH,debbie ferguson-mckenzie,22.300,Athens 2004,Athletics,200m women
+3,JAM,aleen bailey,22.420,Athens 2004,Athletics,200m women
+4,BUL,ivet lalova-collio,22.570,Athens 2004,Athletics,200m women
+5,BEL,kim gevaert,22.840,Athens 2004,Athletics,200m women
+6,GBR,abiodun oyepitan,22.870,Athens 2004,Athletics,200m women
+7,USA,muna lee,22.870,Athens 2004,Athletics,200m women
+8,SLO,merlene ottey-page,,Athens 2004,Athletics,200m women
+0,GRE,athanasia tsoumeleka,01:29:12.000,Athens 2004,Athletics,20km race walk women
+1,RUS,olimpiada ivanova,01:29:16.000,Athens 2004,Athletics,20km race walk women
+2,AUS,jane saville,01:29:25.000,Athens 2004,Athletics,20km race walk women
+3,BLR,margarita turova,01:29:39.000,Athens 2004,Athletics,20km race walk women
+4,GER,melanie seeger,01:29:52.000,Athens 2004,Athletics,20km race walk women
+5,ITA,elisa rigaudo,01:29:57.000,Athens 2004,Athletics,20km race walk women
+6,ESP,maria vasco,01:30:06.000,Athens 2004,Athletics,20km race walk women
+7,CHN,liping wang,01:30:16.000,Athens 2004,Athletics,20km race walk women
+8,BLR,elena ginko,01:30:22.000,Athens 2004,Athletics,20km race walk women
+9,GRE,athina papayianni,01:30:37.000,Athens 2004,Athletics,20km race walk women
+10,ITA,rossella giordano,01:30:39.000,Athens 2004,Athletics,20km race walk women
+11,NOR,kjersti platzer,01:30:49.000,Athens 2004,Athletics,20km race walk women
+12,RUS,yuliya voyevodina,01:31:02.000,Athens 2004,Athletics,20km race walk women
+13,CHN,hongjuan song,01:31:27.000,Athens 2004,Athletics,20km race walk women
+14,BLR,valentina tsybulskaya,01:31:49.000,Athens 2004,Athletics,20km race walk women
+15,GER,sabine krantz,01:31:59.000,Athens 2004,Athletics,20km race walk women
+16,RUS,yelena nikolayeva,01:32:16.000,Athens 2004,Athletics,20km race walk women
+17,ITA,elisabetta perrone,01:32:21.000,Athens 2004,Athletics,20km race walk women
+18,LTU,kristina saltanovic,01:32:22.000,Athens 2004,Athletics,20km race walk women
+19,POR,susana feitor,01:32:47.000,Athens 2004,Athletics,20km race walk women
+20,POL,sylwia korzeniowska,01:33:06.000,Athens 2004,Athletics,20km race walk women
+21,SVK,zuzana malikova,01:33:17.000,Athens 2004,Athletics,20km race walk women
+22,LTU,sonata milusauskaite,01:33:36.000,Athens 2004,Athletics,20km race walk women
+23,CZE,barbora dibelkova,01:33:37.000,Athens 2004,Athletics,20km race walk women
+24,POR,ines henriques,01:33:53.000,Athens 2004,Athletics,20km race walk women
+25,POR,maribel goncalves,01:33:59.000,Athens 2004,Athletics,20km race walk women
+26,ROU,norica cimpean,01:34:30.000,Athens 2004,Athletics,20km race walk women
+27,KAZ,svetlana tolstaya,01:34:43.000,Athens 2004,Athletics,20km race walk women
+28,ROU,ana maria groza,01:34:56.000,Athens 2004,Athletics,20km race walk women
+29,ESP,rocio florido,01:35:32.000,Athens 2004,Athletics,20km race walk women
+30,GRE,hristina kokotou,01:35:43.000,Athens 2004,Athletics,20km race walk women
+31,CHN,jing jiang,01:35:56.000,Athens 2004,Athletics,20km race walk women
+32,TUR,yeliz ay,01:36:02.000,Athens 2004,Athletics,20km race walk women
+33,MEX,victoria palacios,01:36:07.000,Athens 2004,Athletics,20km race walk women
+34,MAS,yufang yuan,01:36:34.000,Athens 2004,Athletics,20km race walk women
+35,AUS,natalie saville,01:36:54.000,Athens 2004,Athletics,20km race walk women
+36,ROU,daniela carlan,01:37:14.000,Athens 2004,Athletics,20km race walk women
+37,AUS,cheryl webb,01:37:40.000,Athens 2004,Athletics,20km race walk women
+38,SUI,marie polli,01:37:53.000,Athens 2004,Athletics,20km race walk women
+39,JPN,mayumi kawasaki,01:37:56.000,Athens 2004,Athletics,20km race walk women
+40,BOL,geovana irusta,01:38:36.000,Athens 2004,Athletics,20km race walk women
+41,UKR,vira zozulya,01:38:45.000,Athens 2004,Athletics,20km race walk women
+42,USA,teresa vaill,01:38:47.000,Athens 2004,Athletics,20km race walk women
+43,HUN,edina fusti,01:39:45.000,Athens 2004,Athletics,20km race walk women
+44,LAT,anita liepina,01:39:54.000,Athens 2004,Athletics,20km race walk women
+45,COL,sandra zapata,01:42:22.000,Athens 2004,Athletics,20km race walk women
+46,RSA,nicolene cronje,01:42:37.000,Athens 2004,Athletics,20km race walk women
+47,BRA,alessandra picagevicz,01:46:21.000,Athens 2004,Athletics,20km race walk women
+48,GUA,teresita natividad collado ramos,01:46:41.000,Athens 2004,Athletics,20km race walk women
+49,KAZ,yelena kuznetsova,01:49:08.000,Athens 2004,Athletics,20km race walk women
+50,MRI,yolene raffin,01:49:28.000,Athens 2004,Athletics,20km race walk women
+51,STP,fumilay fonseca,02:04:54.000,Athens 2004,Athletics,20km race walk women
+52,IRL,olive loughnane,Did not finish,Athens 2004,Athletics,20km race walk women
+53,MEX,maria del rosario sanchez,Did not finish,Athens 2004,Athletics,20km race walk women
+54,BUL,nevena mineva,Did not finish,Athens 2004,Athletics,20km race walk women
+55,ESP,maite gargallo,Disqualified,Athens 2004,Athletics,20km race walk women
+56,KOR,mi jeong kim,Disqualified,Athens 2004,Athletics,20km race walk women
 0,ITA,ivano brugnetti,01:19:40.000,Athens 2004,Athletics,20km walk men
 1,ESP,francisco javier fernandez,01:19:45.000,Athens 2004,Athletics,20km walk men
 2,AUS,nathan deakes,01:20:02.000,Athens 2004,Athletics,20km walk men

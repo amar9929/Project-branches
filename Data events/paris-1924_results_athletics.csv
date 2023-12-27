@@ -1,4 +1,258 @@
 ,country,participant,result,olympic_game,discipline,event
+0,FIN,ville ritola,00:30:23.200,Paris 1924,Athletics,10000m men
+1,SWE,edvin wide,00:30:55.200,Paris 1924,Athletics,10000m men
+2,FIN,eero berg,00:31:43.000,Paris 1924,Athletics,10000m men
+3,FIN,väinö jeremias sipilä,00:31:50.200,Paris 1924,Athletics,10000m men
+4,GBR,ernest harper,00:31:58.000,Paris 1924,Athletics,10000m men
+5,GBR,halland britton,00:32:06.000,Paris 1924,Athletics,10000m men
+6,FRA,guillaume tell,00:32:12.000,Paris 1924,Athletics,10000m men
+7,USA,robert earl johnson,00:32:17.000,Paris 1924,Athletics,10000m men
+8,FRA,robert marchal,00:32:33.000,Paris 1924,Athletics,10000m men
+9,LAT,arturs mottmillers,00:32:44.000,Paris 1924,Athletics,10000m men
+10,FRA,henri lauvaux,00:32:48.000,Paris 1924,Athletics,10000m men
+11,FRA,gaston heuet,00:32:52.000,Paris 1924,Athletics,10000m men
+12,SWE,sven thuresson,,Paris 1924,Athletics,10000m men
+13,GBR,charles thomas clibbon,,Paris 1924,Athletics,10000m men
+14,USA,john gray,,Paris 1924,Athletics,10000m men
+15,SWE,sidon ebeling,,Paris 1924,Athletics,10000m men
+16,GBR,eddie webster,Did not finish,Paris 1924,Athletics,10000m men
+17,SWE,gustaf bergström,Did not finish,Paris 1924,Athletics,10000m men
+18,USA,verne hobson booth,Did not finish,Paris 1924,Athletics,10000m men
+19,USA,wayne johnson,Did not finish,Paris 1924,Athletics,10000m men
+20,BEL,camiel vandevelde,Did not finish,Paris 1924,Athletics,10000m men
+21,BUL,anton tsvetanov,Did not finish,Paris 1924,Athletics,10000m men
+22,BUL,vasil venkov,Did not finish,Paris 1924,Athletics,10000m men
+23,HUN,pal kiraly,Did not finish,Paris 1924,Athletics,10000m men
+24,IRL,j. j. ryan,Did not finish,Paris 1924,Athletics,10000m men
+25,IND,pala singh,Did not finish,Paris 1924,Athletics,10000m men
+26,ITA,carlo speroni,Did not finish,Paris 1924,Athletics,10000m men
+27,LAT,vilis cimmermanis,Did not finish,Paris 1924,Athletics,10000m men
+28,ECU,alberto jarrín,Did not finish,Paris 1924,Athletics,10000m men
+29,GRE,vyron athanasiadis,Did not finish,Paris 1924,Athletics,10000m men
+30,GRE,alexandros kranis,Did not finish,Paris 1924,Athletics,10000m men
+31,MEX,pedro curiel,Did not finish,Paris 1924,Athletics,10000m men
+32,IRL,j.p. clarke,Did not start,Paris 1924,Athletics,10000m men
+33,MEX,josé francisco cuevas,Did not start,Paris 1924,Athletics,10000m men
+34,HUN,istván kultsár,Did not start,Paris 1924,Athletics,10000m men
+35,AUS,malcolm v. boyd,Did not start,Paris 1924,Athletics,10000m men
+36,AUT,hans kantor,Did not start,Paris 1924,Athletics,10000m men
+37,CHI,manuel plaza reyes,Did not start,Paris 1924,Athletics,10000m men
+38,JPN,yahei miura,Did not start,Paris 1924,Athletics,10000m men
+39,JPN,katsuo okazaki,Did not start,Paris 1924,Athletics,10000m men
+40,JPN,kikunosuke tashiro,Did not start,Paris 1924,Athletics,10000m men
+41,POL,stefan szelestowski,Did not start,Paris 1924,Athletics,10000m men
+42,RSA,len richardson,Did not start,Paris 1924,Athletics,10000m men
+0,ITA,ugo frigerio,00:47:49.000,Paris 1924,Athletics,10000m walk men
+1,GBR,gordon goodwin,00:48:37.900,Paris 1924,Athletics,10000m walk men
+2,RSA,cecil charles mcmaster,00:49:08.000,Paris 1924,Athletics,10000m walk men
+3,ITA,donato pavesi,00:49:17.000,Paris 1924,Athletics,10000m walk men
+4,SUI,arthur schwab,00:49:50.000,Paris 1924,Athletics,10000m walk men
+5,GBR,ernie clark,00:49:59.200,Paris 1924,Athletics,10000m walk men
+6,ITA,armando valente,00:50:07.000,Paris 1924,Athletics,10000m walk men
+7,ITA,luigi bosatra,00:50:09.000,Paris 1924,Athletics,10000m walk men
+8,USA,harry robert hinkel,00:50:16.800,Paris 1924,Athletics,10000m walk men
+9,FRA,henri clermont,00:51:41.600,Paris 1924,Athletics,10000m walk men
+10,AUS,ernie austen,,Paris 1924,Athletics,10000m walk men
+11,NED,henk keemink,,Paris 1924,Athletics,10000m walk men
+12,LAT,arvīds ķibilds,,Paris 1924,Athletics,10000m walk men
+13,LAT,alfreds ruks,,Paris 1924,Athletics,10000m walk men
+14,MEX,daniel eslava,,Paris 1924,Athletics,10000m walk men
+15,AUT,rudolf kühnel,,Paris 1924,Athletics,10000m walk men
+16,GBR,gordon h. watts,,Paris 1924,Athletics,10000m walk men
+17,HUN,mihaly fekete,,Paris 1924,Athletics,10000m walk men
+18,TCH,jan plichta,,Paris 1924,Athletics,10000m walk men
+19,TCH,františek havelka,Did not start,Paris 1924,Athletics,10000m walk men
+20,YUG,a. terković,Did not start,Paris 1924,Athletics,10000m walk men
+21,CHI,l. g. flores,Did not start,Paris 1924,Athletics,10000m walk men
+22,ESP,eduardo soler,Did not start,Paris 1924,Athletics,10000m walk men
+23,TCH,františek stetina,Did not start,Paris 1924,Athletics,10000m walk men
+24,POL,stefan szelestowski,Did not start,Paris 1924,Athletics,10000m walk men
+25,TCH,josef slehofer,Did not start,Paris 1924,Athletics,10000m walk men
+0,GBR,harold abrahams,10.600,Paris 1924,Athletics,100m men
+1,USA,jackson scholz,10.700,Paris 1924,Athletics,100m men
+2,NZL,arthur porritt,10.800,Paris 1924,Athletics,100m men
+3,USA,chester bowman,10.900,Paris 1924,Athletics,100m men
+4,USA,charles paddock,10.900,Paris 1924,Athletics,100m men
+5,USA,loren murchison,11.000,Paris 1924,Athletics,100m men
+6,EST,herbert kuttim,Did not start,Paris 1924,Athletics,100m men
+7,PHI,fortunato catalon,Did not start,Paris 1924,Athletics,100m men
+8,TCH,bohus fleischer,Did not start,Paris 1924,Athletics,100m men
+9,TUR,said odyak,Did not start,Paris 1924,Athletics,100m men
+10,DEN,johannes brock,Did not start,Paris 1924,Athletics,100m men
+11,AUT,rudolf rauch,Did not start,Paris 1924,Athletics,100m men
+12,BRA,narciso valdares costa,Did not start,Paris 1924,Athletics,100m men
+13,DEN,leo thorkild oscar jörgensen,Did not start,Paris 1924,Athletics,100m men
+14,RSA,christopher lodwijk steyn,Did not start,Paris 1924,Athletics,100m men
+15,TCH,jaroslav vykoupil,Did not start,Paris 1924,Athletics,100m men
+16,YUG,stane perpar,Did not start,Paris 1924,Athletics,100m men
+17,YUG,aleksa spahic,Did not start,Paris 1924,Athletics,100m men
+0,USA,daniel kinsey,15.000,Paris 1924,Athletics,110m hurdles men
+1,RSA,sidney atkinson,15.000,Paris 1924,Athletics,110m hurdles men
+2,SWE,sten pettersson,15.400,Paris 1924,Athletics,110m hurdles men
+3,SWE,carl-axel christiernsson,15.500,Paris 1924,Athletics,110m hurdles men
+4,USA,karl walter anderson,,Paris 1924,Athletics,110m hurdles men
+5,USA,george phineas guthrie,Disqualified,Paris 1924,Athletics,110m hurdles men
+6,ARG,guillermo newbery,,Paris 1924,Athletics,110m hurdles men
+7,FRA,henri pierre bernard,,Paris 1924,Athletics,110m hurdles men
+8,TCH,jaroslav lipcik,Did not start,Paris 1924,Athletics,110m hurdles men
+9,BRA,aldo travaglia,Did not start,Paris 1924,Athletics,110m hurdles men
+10,IND,bertie heathcote,Did not start,Paris 1924,Athletics,110m hurdles men
+11,NOR,gunnar larsen,Did not start,Paris 1924,Athletics,110m hurdles men
+12,AUT,eduard weilheim,Did not start,Paris 1924,Athletics,110m hurdles men
+13,ESP,josé maría peña,Did not start,Paris 1924,Athletics,110m hurdles men
+14,BEL,rené joannes-powell,Did not start,Paris 1924,Athletics,110m hurdles men
+15,BEL,josse ruth,Did not start,Paris 1924,Athletics,110m hurdles men
+16,BRA,eurico de freitas,Did not start,Paris 1924,Athletics,110m hurdles men
+17,FRA,géo andré,Did not start,Paris 1924,Athletics,110m hurdles men
+18,ITA,daciano colbachini,Did not start,Paris 1924,Athletics,110m hurdles men
+19,CAN,phil macdonald,Did not start,Paris 1924,Athletics,110m hurdles men
+0,FIN,paavo nurmi,00:03:53.600,Paris 1924,Athletics,1500m men
+1,SUI,wilhelm schärer,00:03:55.000,Paris 1924,Athletics,1500m men
+2,GBR,g. henry stallard,00:03:55.600,Paris 1924,Athletics,1500m men
+3,GBR,douglas gordon lowe,00:03:57.000,Paris 1924,Athletics,1500m men
+4,USA,raymond bates buker,00:03:58.600,Paris 1924,Athletics,1500m men
+5,USA,lloyd hahn,00:03:59.000,Paris 1924,Athletics,1500m men
+6,USA,raymond bates watson,00:04:00.000,Paris 1924,Athletics,1500m men
+7,FIN,frej liewendhal,00:04:00.300,Paris 1924,Athletics,1500m men
+8,FIN,aarne aatami peussa,00:04:00.600,Paris 1924,Athletics,1500m men
+9,FRA,rené wiriath,00:04:02.800,Paris 1924,Athletics,1500m men
+10,GBR,sonny spencer,00:04:03.700,Paris 1924,Athletics,1500m men
+11,FIN,jaakko artturi luoma,00:04:03.900,Paris 1924,Athletics,1500m men
+12,RSA,charles edward davis,,Paris 1924,Athletics,1500m men
+13,ITA,giovanni garaventa,,Paris 1924,Athletics,1500m men
+14,AUT,paul gasser,Did not start,Paris 1924,Athletics,1500m men
+15,IND,v. n. venkataramanaswamy,Did not start,Paris 1924,Athletics,1500m men
+16,AUT,rudolf heidegger,Did not start,Paris 1924,Athletics,1500m men
+17,BEL,alphonse van achten,Did not start,Paris 1924,Athletics,1500m men
+18,HUN,lajos bejczy,Did not start,Paris 1924,Athletics,1500m men
+19,HUN,jános benedek,Did not start,Paris 1924,Athletics,1500m men
+20,BRA,alfredo gomes,Did not start,Paris 1924,Athletics,1500m men
+21,CHI,manuel plaza reyes,Did not start,Paris 1924,Athletics,1500m men
+22,ESP,joaquín miquel,Did not start,Paris 1924,Athletics,1500m men
+23,ESP,miguel palau claveras,Did not start,Paris 1924,Athletics,1500m men
+24,EST,johannes villemson,Did not start,Paris 1924,Athletics,1500m men
+25,HAI,édouard armand,Did not start,Paris 1924,Athletics,1500m men
+26,JPN,katsuo okazaki,Did not start,Paris 1924,Athletics,1500m men
+27,MEX,guillermo amparan,Did not start,Paris 1924,Athletics,1500m men
+28,MEX,pedro curiel,Did not start,Paris 1924,Athletics,1500m men
+29,MEX,juan escutia,Did not start,Paris 1924,Athletics,1500m men
+30,POL,stefan oldak,Did not start,Paris 1924,Athletics,1500m men
+31,SWE,edvin wide,Did not start,Paris 1924,Athletics,1500m men
+32,TCH,karel nedobity,Did not start,Paris 1924,Athletics,1500m men
+33,TCH,vaclav vohralik,Did not start,Paris 1924,Athletics,1500m men
+34,TCH,eduard riedl,Did not start,Paris 1924,Athletics,1500m men
+0,USA,jackson scholz,21.600,Paris 1924,Athletics,200m men
+1,USA,charles paddock,21.700,Paris 1924,Athletics,200m men
+2,GBR,eric henry liddell,21.900,Paris 1924,Athletics,200m men
+3,USA,george leroy hill,22.000,Paris 1924,Athletics,200m men
+4,USA,bayes marshall norton,22.000,Paris 1924,Athletics,200m men
+5,GBR,harold abrahams,22.300,Paris 1924,Athletics,200m men
+6,IND,will hildreth,,Paris 1924,Athletics,200m men
+7,AUT,fritz bürger,Did not start,Paris 1924,Athletics,200m men
+8,EST,herbert kuttim,Did not start,Paris 1924,Athletics,200m men
+9,TUR,mazhar nazım resmer,Did not start,Paris 1924,Athletics,200m men
+10,TCH,bohus fleischer,Did not start,Paris 1924,Athletics,200m men
+11,DEN,johannes brock,Did not start,Paris 1924,Athletics,200m men
+12,PHI,fortunato catalon,Did not start,Paris 1924,Athletics,200m men
+13,ARG,e. emilio casanovas,Did not start,Paris 1924,Athletics,200m men
+14,BRA,narciso valdares costa,Did not start,Paris 1924,Athletics,200m men
+15,DEN,leo thorkild oscar jörgensen,Did not start,Paris 1924,Athletics,200m men
+16,DEN,poul schiang,Did not start,Paris 1924,Athletics,200m men
+17,FIN,hirsch drisin,Did not start,Paris 1924,Athletics,200m men
+18,FIN,reijo edvard halme,Did not start,Paris 1924,Athletics,200m men
+19,FIN,erkka wilén,Did not start,Paris 1924,Athletics,200m men
+20,LAT,arturs gedvillo,Did not start,Paris 1924,Athletics,200m men
+21,POR,karel pott,Did not start,Paris 1924,Athletics,200m men
+22,RSA,lawrence betts,Did not start,Paris 1924,Athletics,200m men
+23,RSA,christopher lodwijk steyn,Did not start,Paris 1924,Athletics,200m men
+24,SUI,walter strebi,Did not start,Paris 1924,Athletics,200m men
+25,TCH,antonin svoboda,Did not start,Paris 1924,Athletics,200m men
+26,BEL,henri cockuyt,Did not start,Paris 1924,Athletics,200m men
+0,FIN,ville ritola,00:09:33.600,Paris 1924,Athletics,3000m steeplechase men
+1,FIN,elias katz,00:09:44.000,Paris 1924,Athletics,3000m steeplechase men
+2,FRA,paul bontemps,00:09:45.200,Paris 1924,Athletics,3000m steeplechase men
+3,USA,edward marvin rick,00:09:56.400,Paris 1924,Athletics,3000m steeplechase men
+4,FIN,karl ebb,00:09:57.500,Paris 1924,Athletics,3000m steeplechase men
+5,GBR,edwin aubrey montague,00:09:58.000,Paris 1924,Athletics,3000m steeplechase men
+6,USA,michael aloysius devaney,00:10:01.000,Paris 1924,Athletics,3000m steeplechase men
+7,FRA,albert isola,00:10:14.800,Paris 1924,Athletics,3000m steeplechase men
+8,GBR,sidney newey,,Paris 1924,Athletics,3000m steeplechase men
+9,IRL,jim kelly,,Paris 1924,Athletics,3000m steeplechase men
+10,NED,jan zeegers,Did not finish,Paris 1924,Athletics,3000m steeplechase men
+11,TCH,josef hejret,Did not start,Paris 1924,Athletics,3000m steeplechase men
+12,MEX,josé francisco cuevas,Did not start,Paris 1924,Athletics,3000m steeplechase men
+13,USA,basil irwin,Did not start,Paris 1924,Athletics,3000m steeplechase men
+14,BRA,alfredo gomes,Did not start,Paris 1924,Athletics,3000m steeplechase men
+15,EST,aleksander antson,Did not start,Paris 1924,Athletics,3000m steeplechase men
+16,IRL,j. j. ryan,Did not start,Paris 1924,Athletics,3000m steeplechase men
+17,MEX,pedro curiel,Did not start,Paris 1924,Athletics,3000m steeplechase men
+18,MEX,juan escutia,Did not start,Paris 1924,Athletics,3000m steeplechase men
+19,MEX,daniel eslava,Did not start,Paris 1924,Athletics,3000m steeplechase men
+20,RSA,charles edward davis,Did not start,Paris 1924,Athletics,3000m steeplechase men
+21,SWE,edvin wide,Did not start,Paris 1924,Athletics,3000m steeplechase men
+0,,,8,Paris 1924,Athletics,3000m team men
+1,,,14,Paris 1924,Athletics,3000m team men
+2,,,25,Paris 1924,Athletics,3000m team men
+3,,,31,Paris 1924,Athletics,3000m team men
+4,,,Did not start,Paris 1924,Athletics,3000m team men
+0,USA,frederick morgan taylor,52.600,Paris 1924,Athletics,400m hurdles men
+1,FIN,erkka wilén,53.800,Paris 1924,Athletics,400m hurdles men
+2,USA,ivan riley,54.200,Paris 1924,Athletics,400m hurdles men
+3,FRA,géo andré,56.200,Paris 1924,Athletics,400m hurdles men
+4,GBR,frederick joseph blackett,Disqualified,Paris 1924,Athletics,400m hurdles men
+5,USA,charles robert brookins,Disqualified,Paris 1924,Athletics,400m hurdles men
+6,FRA,pierre arnaudin,,Paris 1924,Athletics,400m hurdles men
+7,IND,bertie heathcote,Did not start,Paris 1924,Athletics,400m hurdles men
+8,ITA,mario cavalleri,Did not start,Paris 1924,Athletics,400m hurdles men
+9,NOR,oli gulli,Did not start,Paris 1924,Athletics,400m hurdles men
+10,HUN,elemer somfay,Did not start,Paris 1924,Athletics,400m hurdles men
+11,IND,will hildreth,Did not start,Paris 1924,Athletics,400m hurdles men
+12,IND,cheruvari lakshmanan,Did not start,Paris 1924,Athletics,400m hurdles men
+13,RSA,sidney atkinson,Did not start,Paris 1924,Athletics,400m hurdles men
+14,SWE,erik kjellström,Did not start,Paris 1924,Athletics,400m hurdles men
+0,GBR,eric henry liddell,47.600,Paris 1924,Athletics,400m men
+1,USA,horatio fitch,48.400,Paris 1924,Athletics,400m men
+2,GBR,guy montagu butler,48.600,Paris 1924,Athletics,400m men
+3,CAN,david johnson,48.800,Paris 1924,Athletics,400m men
+4,USA,john-coard taylor,1:07.0est,Paris 1924,Athletics,400m men
+5,SUI,josef imbach,Did not finish,Paris 1924,Athletics,400m men
+6,DEN,johannes brock,Did not start,Paris 1924,Athletics,400m men
+7,EST,herbert kuttim,Did not start,Paris 1924,Athletics,400m men
+8,HUN,lajos fixl,Did not start,Paris 1924,Athletics,400m men
+9,ESP,luis larrañaga,Did not start,Paris 1924,Athletics,400m men
+10,AUT,otto benedek,Did not start,Paris 1924,Athletics,400m men
+11,AUT,karl schenner,Did not start,Paris 1924,Athletics,400m men
+12,TCH,j. reizman,Did not start,Paris 1924,Athletics,400m men
+13,AUT,karl swatonek,Did not start,Paris 1924,Athletics,400m men
+14,TCH,bohus fleischer,Did not start,Paris 1924,Athletics,400m men
+15,AUS,edwin william carr,Did not start,Paris 1924,Athletics,400m men
+16,BRA,álvaro ribeiro,Did not start,Paris 1924,Athletics,400m men
+17,ESP,miguel garcia-onsalo,Did not start,Paris 1924,Athletics,400m men
+18,ESP,fernando labourdette-liaresq,Did not start,Paris 1924,Athletics,400m men
+19,FIN,anton husgafvel,Did not start,Paris 1924,Athletics,400m men
+20,GRE,alexandros papafingos,Did not start,Paris 1924,Athletics,400m men
+21,IND,james s. hall,Did not start,Paris 1924,Athletics,400m men
+22,IND,will hildreth,Did not start,Paris 1924,Athletics,400m men
+23,ITA,puccio pucci,Did not start,Paris 1924,Athletics,400m men
+24,LUX,joseph hilger,Did not start,Paris 1924,Athletics,400m men
+25,POL,antoni cejzik,Did not start,Paris 1924,Athletics,400m men
+26,POL,zygmunt weiss,Did not start,Paris 1924,Athletics,400m men
+27,RSA,george dustan,Did not start,Paris 1924,Athletics,400m men
+28,RSA,howard kinsman,Did not start,Paris 1924,Athletics,400m men
+0,,,41.000,Paris 1924,Athletics,4x100m relay men
+1,,,41.200,Paris 1924,Athletics,4x100m relay men
+2,,,41.800,Paris 1924,Athletics,4x100m relay men
+3,,,42.000,Paris 1924,Athletics,4x100m relay men
+4,,,42.200,Paris 1924,Athletics,4x100m relay men
+5,,,DSQ,Paris 1924,Athletics,4x100m relay men
+6,,,Did not start,Paris 1924,Athletics,4x100m relay men
+7,,,Did not start,Paris 1924,Athletics,4x100m relay men
+8,,,Did not start,Paris 1924,Athletics,4x100m relay men
+9,,,Did not start,Paris 1924,Athletics,4x100m relay men
+10,,,Did not start,Paris 1924,Athletics,4x100m relay men
+11,,,Did not start,Paris 1924,Athletics,4x100m relay men
+12,,,Did not start,Paris 1924,Athletics,4x100m relay men
+13,,,Did not start,Paris 1924,Athletics,4x100m relay men
 0,,,00:03:16.000,Paris 1924,Athletics,4x400m relay men
 1,,,00:03:17.000,Paris 1924,Athletics,4x400m relay men
 2,,,00:03:17.400,Paris 1924,Athletics,4x400m relay men

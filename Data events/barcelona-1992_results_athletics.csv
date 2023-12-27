@@ -1,4 +1,201 @@
 ,country,participant,result,olympic_game,discipline,event
+0,MAR,khalid skah,00:27:46.700,Barcelona 1992,Athletics,10000m men
+1,KEN,richard chelimo,00:27:47.720,Barcelona 1992,Athletics,10000m men
+2,ETH,addis abebe,00:28:00.070,Barcelona 1992,Athletics,10000m men
+3,ITA,salvatore antibo,00:28:11.390,Barcelona 1992,Athletics,10000m men
+4,MEX,arturo barrios flores,00:28:17.790,Barcelona 1992,Athletics,10000m men
+5,MEX,german silva martinez,00:28:20.190,Barcelona 1992,Athletics,10000m men
+6,KEN,william koech,00:28:25.180,Barcelona 1992,Athletics,10000m men
+7,KEN,moses kiptarbet tanui,00:28:27.110,Barcelona 1992,Athletics,10000m men
+8,ETH,fita bayissa,00:28:27.680,Barcelona 1992,Athletics,10000m men
+9,USA,todd williams,00:28:29.380,Barcelona 1992,Athletics,10000m men
+10,GBR,paul william evans,00:28:29.830,Barcelona 1992,Athletics,10000m men
+11,HUN,zoltan kaldy,00:28:34.210,Barcelona 1992,Athletics,10000m men
+12,RSA,xolile yawa,00:28:37.180,Barcelona 1992,Athletics,10000m men
+13,JPN,haruo urata,00:28:37.610,Barcelona 1992,Athletics,10000m men
+14,FRA,antonio martins-bordelo,00:28:47.660,Barcelona 1992,Athletics,10000m men
+15,MEX,armando quintanilla,00:28:48.050,Barcelona 1992,Athletics,10000m men
+16,GBR,richard david nerurkar,00:28:48.480,Barcelona 1992,Athletics,10000m men
+17,ARG,antonio fabian silio,00:28:55.200,Barcelona 1992,Athletics,10000m men
+18,NOR,john halvorsen,00:29:53.910,Barcelona 1992,Athletics,10000m men
+19,MAR,hammou boutayeb,Did not finish,Barcelona 1992,Athletics,10000m men
+20,BRN,abdullah husain al doseri,,Barcelona 1992,Athletics,10000m men
+21,ESP,alejandro gomez cabral,,Barcelona 1992,Athletics,10000m men
+22,FIN,risto ulmala,,Barcelona 1992,Athletics,10000m men
+23,FRA,thierry pantel,,Barcelona 1992,Athletics,10000m men
+24,MTN,sidi ahmed ould mohamedou,,Barcelona 1992,Athletics,10000m men
+25,POR,domingos castro,,Barcelona 1992,Athletics,10000m men
+0,CHN,yueling chen,00:44:32.000,Barcelona 1992,Athletics,10000m walk women
+1,EUN,yelena nikolayeva,00:44:33.000,Barcelona 1992,Athletics,10000m walk women
+2,CHN,chunxiu li,00:44:41.000,Barcelona 1992,Athletics,10000m walk women
+3,FIN,sari miriam essayah,00:45:08.000,Barcelona 1992,Athletics,10000m walk women
+4,CHN,yingzi cui,00:45:15.000,Barcelona 1992,Athletics,10000m walk women
+5,SWE,madelein svensson,00:45:17.000,Barcelona 1992,Athletics,10000m walk women
+6,ITA,anna rita sidoti,00:45:23.000,Barcelona 1992,Athletics,10000m walk women
+7,EUN,yelena sayko,00:45:23.000,Barcelona 1992,Athletics,10000m walk women
+8,NZL,anne maree judkins,00:45:28.000,Barcelona 1992,Athletics,10000m walk women
+9,ESP,maria cruz diaz garcia,00:45:32.000,Barcelona 1992,Athletics,10000m walk women
+10,POL,katarzyna radtke,00:45:45.000,Barcelona 1992,Athletics,10000m walk women
+11,HUN,maria urbanikne rozsa,00:45:50.000,Barcelona 1992,Athletics,10000m walk women
+12,HUN,ildiko ilyes,00:45:54.000,Barcelona 1992,Athletics,10000m walk women
+13,ESP,encarna granados,00:46:00.000,Barcelona 1992,Athletics,10000m walk women
+14,AUS,kerry saxby-junna,00:46:01.000,Barcelona 1992,Athletics,10000m walk women
+15,GER,helga-beate gummelt,00:46:31.000,Barcelona 1992,Athletics,10000m walk women
+16,POL,beata kaczmarska,00:46:34.000,Barcelona 1992,Athletics,10000m walk women
+17,HUN,andrea alfoldi,00:46:35.000,Barcelona 1992,Athletics,10000m walk women
+18,ITA,elisabetta perrone,00:46:43.000,Barcelona 1992,Athletics,10000m walk women
+19,USA,michelle rohl,00:46:45.000,Barcelona 1992,Athletics,10000m walk women
+20,CAN,tina poitras,00:46:50.000,Barcelona 1992,Athletics,10000m walk women
+21,ESP,emilia cano camacho,00:47:03.000,Barcelona 1992,Athletics,10000m walk women
+22,JPN,miki itakura,00:47:11.000,Barcelona 1992,Athletics,10000m walk women
+23,JPN,yuko sato,00:47:43.000,Barcelona 1992,Athletics,10000m walk women
+24,CAN,janice leslie mccaffrey,00:48:05.000,Barcelona 1992,Athletics,10000m walk women
+25,USA,debbi a. lawrence,00:48:23.000,Barcelona 1992,Athletics,10000m walk women
+26,USA,victoria s. herazo,00:48:26.000,Barcelona 1992,Athletics,10000m walk women
+27,MEX,maricela chavez reyes,00:48:39.000,Barcelona 1992,Athletics,10000m walk women
+28,CAN,pascale grand,00:49:14.000,Barcelona 1992,Athletics,10000m walk women
+29,MEX,eva yolanda machuca villasana,00:50:02.000,Barcelona 1992,Athletics,10000m walk women
+30,AUS,gabrielle therese blythe,00:50:13.000,Barcelona 1992,Athletics,10000m walk women
+31,GBR,betty sworowski,00:50:14.000,Barcelona 1992,Athletics,10000m walk women
+32,GER,kathrin boyde,00:50:21.000,Barcelona 1992,Athletics,10000m walk women
+33,POR,izilda gonçalves,00:50:23.000,Barcelona 1992,Athletics,10000m walk women
+34,GBR,lisa kehler,00:51:44.000,Barcelona 1992,Athletics,10000m walk women
+35,ECU,miriam ramon,00:51:56.000,Barcelona 1992,Athletics,10000m walk women
+36,IRL,perri williams,00:54:53.000,Barcelona 1992,Athletics,10000m walk women
+37,BIH,kada delic,00:55:24.000,Barcelona 1992,Athletics,10000m walk women
+38,EUN,alina ivanova,Disqualified,Barcelona 1992,Athletics,10000m walk women
+39,ITA,ileana salvador,Disqualified,Barcelona 1992,Athletics,10000m walk women
+40,MYA,ma kyin lwan,Disqualified,Barcelona 1992,Athletics,10000m walk women
+41,GBR,vicky lupton,Disqualified,Barcelona 1992,Athletics,10000m walk women
+42,MEX,graciela mendoza,Disqualified,Barcelona 1992,Athletics,10000m walk women
+43,POR,susana feitor,Disqualified,Barcelona 1992,Athletics,10000m walk women
+0,ETH,derartu tulu,00:31:06.020,Barcelona 1992,Athletics,10000m women
+1,RSA,elana meyer,00:31:11.750,Barcelona 1992,Athletics,10000m women
+2,USA,lynn a. jennings,00:31:19.890,Barcelona 1992,Athletics,10000m women
+3,CHN,huandi zhong,00:31:21.080,Barcelona 1992,Athletics,10000m women
+4,GBR,liz mccolgan,00:31:26.110,Barcelona 1992,Athletics,10000m women
+5,CHN,xiuting wang,00:31:28.060,Barcelona 1992,Athletics,10000m women
+6,GER,uta pippig,00:31:36.450,Barcelona 1992,Athletics,10000m women
+7,USA,judi anne st. hilaire,00:31:38.040,Barcelona 1992,Athletics,10000m women
+8,KEN,helen kimaiyo,00:31:38.910,Barcelona 1992,Athletics,10000m women
+9,GBR,jill hunter,00:31:46.490,Barcelona 1992,Athletics,10000m women
+10,NED,christine toonstra,00:31:47.380,Barcelona 1992,Athletics,10000m women
+11,JPN,izumi maki,00:31:55.060,Barcelona 1992,Athletics,10000m women
+12,POR,albertina dias,00:32:03.930,Barcelona 1992,Athletics,10000m women
+13,JPN,miki igarashi,00:32:09.580,Barcelona 1992,Athletics,10000m women
+14,BEL,godelieve slegers,00:32:14.170,Barcelona 1992,Athletics,10000m women
+15,ITA,rosanna munerotto,00:32:37.910,Barcelona 1992,Athletics,10000m women
+16,KEN,tegla loroupe,00:32:53.090,Barcelona 1992,Athletics,10000m women
+17,ETH,tigist moreda,00:34:05.560,Barcelona 1992,Athletics,10000m women
+18,POR,fernanda marques,Did not finish,Barcelona 1992,Athletics,10000m women
+19,POR,conceiçao ferreira,Did not finish,Barcelona 1992,Athletics,10000m women
+20,BEL,veronique collard,,Barcelona 1992,Athletics,10000m women
+21,EUN,olga bondarenko,,Barcelona 1992,Athletics,10000m women
+22,FIN,paivi tikkanen,,Barcelona 1992,Athletics,10000m women
+23,LAT,anita klapote,,Barcelona 1992,Athletics,10000m women
+24,EUN,yelena zhupiyeva-vyazova,,Barcelona 1992,Athletics,10000m women
+25,GER,kathrin ullrich-wessel,,Barcelona 1992,Athletics,10000m women
+26,BOL,sandra cortez,Did not start,Barcelona 1992,Athletics,10000m women
+27,ISV,ana gutierrez wittmann,Did not start,Barcelona 1992,Athletics,10000m women
+0,GRE,paraskevi voula patoulidou,12.640,Barcelona 1992,Athletics,100m hurdles women
+1,USA,la vona ann martin,12.690,Barcelona 1992,Athletics,100m hurdles women
+2,BUL,yordanka donkova,12.700,Barcelona 1992,Athletics,100m hurdles women
+3,USA,lynda tolbert-goode,12.750,Barcelona 1992,Athletics,100m hurdles women
+4,USA,yolanda gail devers-roberts,12.750,Barcelona 1992,Athletics,100m hurdles women
+5,CUB,aliuska lopez,12.870,Barcelona 1992,Athletics,100m hurdles women
+6,EUN,natalia kolovanova,13.010,Barcelona 1992,Athletics,100m hurdles women
+7,CUB,odalys adams castillo,13.570,Barcelona 1992,Athletics,100m hurdles women
+8,GER,karen jung,,Barcelona 1992,Athletics,100m hurdles women
+9,SUI,julie baumann,Did not start,Barcelona 1992,Athletics,100m hurdles women
+10,ALG,yasmina azizi,Did not start,Barcelona 1992,Athletics,100m hurdles women
+0,GBR,linford christie,09.960,Barcelona 1992,Athletics,100m men
+1,NAM,frank fredericks,10.020,Barcelona 1992,Athletics,100m men
+2,USA,dennis mitchell,10.040,Barcelona 1992,Athletics,100m men
+3,CAN,bruny surin,10.090,Barcelona 1992,Athletics,100m men
+4,USA,leroy burrell,10.100,Barcelona 1992,Athletics,100m men
+5,NGR,olapade adeniken,10.120,Barcelona 1992,Athletics,100m men
+6,JAM,ray stewart,10.220,Barcelona 1992,Athletics,100m men
+7,NGR,davidson ezinwa,10.260,Barcelona 1992,Athletics,100m men
+8,USA,mark witherspoon,,Barcelona 1992,Athletics,100m men
+9,AUT,andreas berger,,Barcelona 1992,Athletics,100m men
+10,GAB,charles tayot,,Barcelona 1992,Athletics,100m men
+11,BUR,patrice traore zeba,,Barcelona 1992,Athletics,100m men
+0,USA,yolanda gail devers-roberts,10.820,Barcelona 1992,Athletics,100m women
+1,JAM,juliet cuthbert,10.830,Barcelona 1992,Athletics,100m women
+2,EUN,irina privalova,10.840,Barcelona 1992,Athletics,100m women
+3,USA,gwen torrence,10.860,Barcelona 1992,Athletics,100m women
+4,JAM,merlene ottey-page,10.880,Barcelona 1992,Athletics,100m women
+5,BUL,aneliya vechernikova-nuneva,11.100,Barcelona 1992,Athletics,100m women
+6,NGR,mary onyali-omagbemi,11.150,Barcelona 1992,Athletics,100m women
+7,CUB,liliana allen,11.190,Barcelona 1992,Athletics,100m women
+8,GEQ,magdalena ansue,,Barcelona 1992,Athletics,100m women
+9,ANG,antonia de jesus,Did not start,Barcelona 1992,Athletics,100m women
+0,CAN,mark mckoy,13.120,Barcelona 1992,Athletics,110m hurdles men
+1,USA,tony dees,13.240,Barcelona 1992,Athletics,110m hurdles men
+2,USA,jack pierce,13.260,Barcelona 1992,Athletics,110m hurdles men
+3,GBR,tony jarrett,13.260,Barcelona 1992,Athletics,110m hurdles men
+4,GER,florian schwarthoff,13.290,Barcelona 1992,Athletics,110m hurdles men
+5,CUB,emilio valle,13.410,Barcelona 1992,Athletics,110m hurdles men
+6,GBR,colin jackson,13.460,Barcelona 1992,Athletics,110m hurdles men
+7,GBR,hughie teape,14.000,Barcelona 1992,Athletics,110m hurdles men
+8,USA,arthur j. blake,,Barcelona 1992,Athletics,110m hurdles men
+0,ESP,fermin cacho ruiz,00:03:40.120,Barcelona 1992,Athletics,1500m men
+1,MAR,rachid el basir,00:03:40.620,Barcelona 1992,Athletics,1500m men
+2,QAT,mohammed suleiman,00:03:40.690,Barcelona 1992,Athletics,1500m men
+3,KEN,joseph chesire,00:03:41.120,Barcelona 1992,Athletics,1500m men
+4,KEN,jonah birir,00:03:41.270,Barcelona 1992,Athletics,1500m men
+5,GER,jens-peter herold,00:03:41.530,Barcelona 1992,Athletics,1500m men
+6,ALG,nourredine morceli,00:03:41.700,Barcelona 1992,Athletics,1500m men
+7,USA,jim spivey,00:03:41.740,Barcelona 1992,Athletics,1500m men
+8,CAN,graham colin hood,00:03:42.550,Barcelona 1992,Athletics,1500m men
+9,KEN,david kibet,00:03:42.620,Barcelona 1992,Athletics,1500m men
+10,ESP,manuel pancorbo chica,00:03:43.510,Barcelona 1992,Athletics,1500m men
+11,EUN,azat rakipov,00:03:44.660,Barcelona 1992,Athletics,1500m men
+12,BIZ,ian rupert emerson gray,,Barcelona 1992,Athletics,1500m men
+13,NED,robin anthony van helden,,Barcelona 1992,Athletics,1500m men
+14,MAR,said aouita,Did not start,Barcelona 1992,Athletics,1500m men
+0,ALG,hassiba boulmerka,00:03:55.300,Barcelona 1992,Athletics,1500m women
+1,EUN,lyudmila rogachova,00:03:56.910,Barcelona 1992,Athletics,1500m women
+2,CHN,yunxia qu,00:03:57.080,Barcelona 1992,Athletics,1500m women
+3,EUN,tatyana samolenko-dorovskikh,00:03:57.920,Barcelona 1992,Athletics,1500m women
+4,CHN,li liu,00:04:00.200,Barcelona 1992,Athletics,1500m women
+5,ESP,maite zuniga dominguez,00:04:00.590,Barcelona 1992,Athletics,1500m women
+6,POL,malgorzata rydz,00:04:01.910,Barcelona 1992,Athletics,1500m women
+7,EUN,yekaterina podkopayeva,00:04:02.030,Barcelona 1992,Athletics,1500m women
+8,MOZ,maria mutola,00:04:02.600,Barcelona 1992,Athletics,1500m women
+9,USA,patti sue plumer,00:04:03.420,Barcelona 1992,Athletics,1500m women
+10,ROU,elena fidatov,00:04:06.440,Barcelona 1992,Athletics,1500m women
+11,ROU,doina besliu-melinte,Did not finish,Barcelona 1992,Athletics,1500m women
+12,GBR,ann margaret williams,,Barcelona 1992,Athletics,1500m women
+13,GER,ellen kiessling,,Barcelona 1992,Athletics,1500m women
+14,ECU,janeth caizalitin,Did not start,Barcelona 1992,Athletics,1500m women
+15,FIN,paivi tikkanen,Did not start,Barcelona 1992,Athletics,1500m women
+0,USA,michael marsh,20.010,Barcelona 1992,Athletics,200m men
+1,NAM,frank fredericks,20.130,Barcelona 1992,Athletics,200m men
+2,USA,michael d. bates,20.380,Barcelona 1992,Athletics,200m men
+3,BRA,robson da silva,20.450,Barcelona 1992,Athletics,200m men
+4,NGR,olapade adeniken,20.500,Barcelona 1992,Athletics,200m men
+5,GBR,john paul lyndon regis,20.550,Barcelona 1992,Athletics,200m men
+6,NGR,oluyemi kayode,20.670,Barcelona 1992,Athletics,200m men
+7,GBR,marcus adam,20.800,Barcelona 1992,Athletics,200m men
+8,TTO,neil de silva,,Barcelona 1992,Athletics,200m men
+9,FRA,jean-charles trouabal,,Barcelona 1992,Athletics,200m men
+10,GEQ,juan vicente matala,,Barcelona 1992,Athletics,200m men
+11,ANG,afonso ferraz,Did not start,Barcelona 1992,Athletics,200m men
+12,VAN,fletcher wamilee,Did not start,Barcelona 1992,Athletics,200m men
+0,USA,gwen torrence,21.810,Barcelona 1992,Athletics,200m women
+1,JAM,juliet cuthbert,22.020,Barcelona 1992,Athletics,200m women
+2,JAM,merlene ottey-page,22.090,Barcelona 1992,Athletics,200m women
+3,EUN,irina privalova,22.190,Barcelona 1992,Athletics,200m women
+4,USA,carlette d. guidry-white,22.300,Barcelona 1992,Athletics,200m women
+5,JAM,grace jackson small,22.580,Barcelona 1992,Athletics,200m women
+6,USA,michelle finn,22.610,Barcelona 1992,Athletics,200m women
+7,EUN,galina malchugina,22.630,Barcelona 1992,Athletics,200m women
+8,GUI,oumou sow,,Barcelona 1992,Athletics,200m women
+9,CHN,zhaojing chen,,Barcelona 1992,Athletics,200m women
+10,BOL,jaqueline m. soliz inturias,,Barcelona 1992,Athletics,200m women
+11,RSA,marcel winkler,Did not start,Barcelona 1992,Athletics,200m women
+12,SEN,ndeye bineta dia,Did not start,Barcelona 1992,Athletics,200m women
 0,ESP,daniel plaza montero,01:21:45.000,Barcelona 1992,Athletics,20km walk men
 1,CAN,guillaume leblanc,01:22:25.000,Barcelona 1992,Athletics,20km walk men
 2,ITA,giovanni de benedictis,01:23:11.000,Barcelona 1992,Athletics,20km walk men

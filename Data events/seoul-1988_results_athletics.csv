@@ -1,4 +1,208 @@
 ,country,participant,result,olympic_game,discipline,event
+0,MAR,moulay brahim boutayeb,00:27:21.460,Seoul 1988,Athletics,10000m men
+1,ITA,salvatore antibo,00:27:23.550,Seoul 1988,Athletics,10000m men
+2,KEN,kipkemboi kimeli,00:27:25.160,Seoul 1988,Athletics,10000m men
+3,FRA,jean-louis prianon,00:27:36.430,Seoul 1988,Athletics,10000m men
+4,MEX,arturo barrios flores,00:27:39.320,Seoul 1988,Athletics,10000m men
+5,GDR,hansjörg kunze,00:27:39.350,Seoul 1988,Athletics,10000m men
+6,FRA,paul arpin,00:27:39.360,Seoul 1988,Athletics,10000m men
+7,KEN,moses kiptarbet tanui,00:27:47.230,Seoul 1988,Athletics,10000m men
+8,NED,martin ten kate,00:27:50.300,Seoul 1988,Athletics,10000m men
+9,ESP,antonio prieto velasco,00:27:52.780,Seoul 1988,Athletics,10000m men
+10,MEX,mauricio gonzalez,00:27:59.900,Seoul 1988,Athletics,10000m men
+11,BUL,evgeni ignatov ignatov,00:28:09.320,Seoul 1988,Athletics,10000m men
+12,POR,antonio pinto,00:28:09.530,Seoul 1988,Athletics,10000m men
+13,JPN,kozo akutsu,00:28:09.700,Seoul 1988,Athletics,10000m men
+14,ECU,rolando vera,00:28:17.640,Seoul 1988,Athletics,10000m men
+15,NOR,john halvorsen,00:28:29.210,Seoul 1988,Athletics,10000m men
+16,JPN,shuichi yoneshige,00:29:04.440,Seoul 1988,Athletics,10000m men
+17,USA,bruce emery bickford,00:29:09.740,Seoul 1988,Athletics,10000m men
+18,GBR,eamonn thomas martin,Did not finish,Seoul 1988,Athletics,10000m men
+19,KEN,boniface merande,Did not finish,Seoul 1988,Athletics,10000m men
+20,AUS,andrew lloyd,,Seoul 1988,Athletics,10000m men
+21,CAN,paul gregory williams,,Seoul 1988,Athletics,10000m men
+22,ESP,jose manuel albentosa ferrer,,Seoul 1988,Athletics,10000m men
+23,GBR,michael mcleod,,Seoul 1988,Athletics,10000m men
+24,POR,dionisio castro,,Seoul 1988,Athletics,10000m men
+25,COD,kamana koji,,Seoul 1988,Athletics,10000m men
+26,JPN,tsukasa endo,,Seoul 1988,Athletics,10000m men
+27,TCH,martin vrabel,,Seoul 1988,Athletics,10000m men
+28,USA,steven michael plasencia,,Seoul 1988,Athletics,10000m men
+0,URS,olga bondarenko,00:31:05.210,Seoul 1988,Athletics,10000m women
+1,GBR,liz mccolgan,00:31:08.440,Seoul 1988,Athletics,10000m women
+2,URS,yelena zhupiyeva-vyazova,00:31:19.820,Seoul 1988,Athletics,10000m women
+3,GDR,kathrin ullrich-wessel,00:31:29.270,Seoul 1988,Athletics,10000m women
+4,USA,francie larrieu-smith,00:31:35.520,Seoul 1988,Athletics,10000m women
+5,USA,lynn a. jennings,00:31:39.930,Seoul 1988,Athletics,10000m women
+6,CHN,xiuting wang,00:31:40.230,Seoul 1988,Athletics,10000m women
+7,CAN,susan french-lee,00:31:50.510,Seoul 1988,Athletics,10000m women
+8,POR,maria albertina machado,00:32:02.130,Seoul 1988,Athletics,10000m women
+9,POR,albertina dias,00:32:07.130,Seoul 1988,Athletics,10000m women
+10,NZL,anne audain,00:32:10.470,Seoul 1988,Athletics,10000m women
+11,URS,lyudmila matveeva,00:32:12.270,Seoul 1988,Athletics,10000m women
+12,CAN,nancy tinary,00:32:14.050,Seoul 1988,Athletics,10000m women
+13,ITA,rosanna munerotto,00:32:29.840,Seoul 1988,Athletics,10000m women
+14,USA,lynn marie nelson,00:32:32.240,Seoul 1988,Athletics,10000m women
+15,CAN,carole rouillard,00:32:41.430,Seoul 1988,Athletics,10000m women
+16,AUS,carolyn jeni schuwalow,00:32:45.070,Seoul 1988,Athletics,10000m women
+17,CHN,qing-huan wang,00:32:49.860,Seoul 1988,Athletics,10000m women
+18,FRA,annette sergent-palluy,00:33:17.380,Seoul 1988,Athletics,10000m women
+19,NOR,ingrid kristiansen-christensen,Did not finish,Seoul 1988,Athletics,10000m women
+20,HUN,erika fazekas,,Seoul 1988,Athletics,10000m women
+21,FIN,paivi tikkanen,Did not start,Seoul 1988,Athletics,10000m women
+22,FIN,tuija toivonen,Did not start,Seoul 1988,Athletics,10000m women
+23,FRG,kerstin pressler,Did not start,Seoul 1988,Athletics,10000m women
+24,LUX,daniele kaber,Did not start,Seoul 1988,Athletics,10000m women
+25,MRI,maryse justin,Did not start,Seoul 1988,Athletics,10000m women
+26,MYA,mar mar min,Did not start,Seoul 1988,Athletics,10000m women
+27,POL,wanda panfil,Did not start,Seoul 1988,Athletics,10000m women
+28,TCH,ludmila melicherova,Did not start,Seoul 1988,Athletics,10000m women
+0,BUL,yordanka donkova,12.380,Seoul 1988,Athletics,100m hurdles women
+1,GDR,gloria siebert,12.610,Seoul 1988,Athletics,100m hurdles women
+2,FRG,claudia zaczkiewicz-reidick,12.750,Seoul 1988,Athletics,100m hurdles women
+3,URS,nataliya hrygor'ieva,12.790,Seoul 1988,Athletics,100m hurdles women
+4,FRA,florence colle,12.980,Seoul 1988,Athletics,100m hurdles women
+5,CAN,julie baumann,12.990,Seoul 1988,Athletics,100m hurdles women
+6,FRA,monique ewanje-epee-tourret,13.140,Seoul 1988,Athletics,100m hurdles women
+7,GDR,cornelia oschkenat,13.730,Seoul 1988,Athletics,100m hurdles women
+8,URS,ludmila engquist,,Seoul 1988,Athletics,100m hurdles women
+9,FRA,anne piquereau,,Seoul 1988,Athletics,100m hurdles women
+10,NGR,maria usifo,,Seoul 1988,Athletics,100m hurdles women
+11,BEL,sylvia dethier,,Seoul 1988,Athletics,100m hurdles women
+12,BUL,ginka zagortcheva,,Seoul 1988,Athletics,100m hurdles women
+13,SRI,tilaka jinadasa,,Seoul 1988,Athletics,100m hurdles women
+14,VIN,michelle johnson,Did not start,Seoul 1988,Athletics,100m hurdles women
+0,USA,carl lewis,09.920,Seoul 1988,Athletics,100m men
+1,GBR,linford christie,09.970,Seoul 1988,Athletics,100m men
+2,USA,calvin smith,09.990,Seoul 1988,Athletics,100m men
+3,USA,dennis mitchell,10.040,Seoul 1988,Athletics,100m men
+4,BRA,robson da silva,10.110,Seoul 1988,Athletics,100m men
+5,CAN,desai williams,10.110,Seoul 1988,Athletics,100m men
+6,JAM,ray stewart,12.260,Seoul 1988,Athletics,100m men
+7,POR,pedro agostinho,,Seoul 1988,Athletics,100m men
+8,CAN,ben johnson,Disqualified,Seoul 1988,Athletics,100m men
+9,KOR,jae-geun jang,Did not start,Seoul 1988,Athletics,100m men
+0,USA,florence griffith-joyner,10.54w,Seoul 1988,Athletics,100m women
+1,USA,evelyn ashford,10.83w,Seoul 1988,Athletics,100m women
+2,GDR,heike drechsler,10.85w,Seoul 1988,Athletics,100m women
+3,JAM,grace jackson small,10.97w,Seoul 1988,Athletics,100m women
+4,USA,gwen torrence,10.97w,Seoul 1988,Athletics,100m women
+5,URS,nataliya pomoshchnikova-voronova,11.00w,Seoul 1988,Athletics,100m women
+6,JAM,juliet cuthbert,11.26w,Seoul 1988,Athletics,100m women
+7,BUL,aneliya vechernikova-nuneva,11.49w,Seoul 1988,Athletics,100m women
+0,USA,roger kingdom,12.980,Seoul 1988,Athletics,110m hurdles men
+1,GBR,colin jackson,13.280,Seoul 1988,Athletics,110m hurdles men
+2,USA,anthony eugene campbell,13.380,Seoul 1988,Athletics,110m hurdles men
+3,URS,vladimir shishkin,13.510,Seoul 1988,Athletics,110m hurdles men
+4,GBR,jonathan peter ridgeon,13.520,Seoul 1988,Athletics,110m hurdles men
+5,GBR,tony jarrett,13.540,Seoul 1988,Athletics,110m hurdles men
+6,CAN,mark mckoy,13.610,Seoul 1988,Athletics,110m hurdles men
+7,USA,arthur j. blake,13.960,Seoul 1988,Athletics,110m hurdles men
+8,CAN,stephen kerho,,Seoul 1988,Athletics,110m hurdles men
+9,BRA,lyndon campos,Did not start,Seoul 1988,Athletics,110m hurdles men
+10,SLE,benjamin grant,Did not start,Seoul 1988,Athletics,110m hurdles men
+0,KEN,peter rono,00:03:35.960,Seoul 1988,Athletics,1500m men
+1,GBR,peter elliott,00:03:36.150,Seoul 1988,Athletics,1500m men
+2,GDR,jens-peter herold,00:03:36.210,Seoul 1988,Athletics,1500m men
+3,GBR,stephen cram,00:03:36.240,Seoul 1988,Athletics,1500m men
+4,USA,steven michael scott,00:03:36.990,Seoul 1988,Athletics,1500m men
+5,NED,johanes nicolaas maria kulker,00:03:37.080,Seoul 1988,Athletics,1500m men
+6,KEN,robert kipkoech cheruiyot,00:03:37.940,Seoul 1988,Athletics,1500m men
+7,IRL,marcus o'sullivan,00:03:38.390,Seoul 1988,Athletics,1500m men
+8,POR,mário da silva,00:03:38.770,Seoul 1988,Athletics,1500m men
+9,USA,jeffrey patrick atkinson,00:03:40.800,Seoul 1988,Athletics,1500m men
+10,KEN,joseph chesire,00:03:40.820,Seoul 1988,Athletics,1500m men
+11,SUD,omer khalifa,00:03:41.070,Seoul 1988,Athletics,1500m men
+12,MAR,abdel majid moncef,,Seoul 1988,Athletics,1500m men
+13,SUI,peter wirz,,Seoul 1988,Athletics,1500m men
+14,LBR,nimley twegbe,Did not start,Seoul 1988,Athletics,1500m men
+0,ROU,paula ivan,00:03:53.960,Seoul 1988,Athletics,1500m women
+1,URS,lailute baikauskaite,00:04:00.240,Seoul 1988,Athletics,1500m women
+2,URS,tatyana samolenko-dorovskikh,00:04:00.300,Seoul 1988,Athletics,1500m women
+3,GBR,christina boxer-cahill,00:04:00.640,Seoul 1988,Athletics,1500m women
+4,CAN,lynn williams,00:04:00.860,Seoul 1988,Athletics,1500m women
+5,GDR,andrea hahmann,00:04:00.960,Seoul 1988,Athletics,1500m women
+6,GBR,shireen bailey,00:04:02.320,Seoul 1988,Athletics,1500m women
+7,USA,mary slaney,00:04:02.490,Seoul 1988,Athletics,1500m women
+8,ROU,doina besliu-melinte,00:04:02.890,Seoul 1988,Athletics,1500m women
+9,MAR,fatima aouman,00:04:08.000,Seoul 1988,Athletics,1500m women
+10,USA,kimberley ann gallagher,00:04:16.250,Seoul 1988,Athletics,1500m women
+11,CAN,deborah scott-bowker,00:04:17.950,Seoul 1988,Athletics,1500m women
+0,USA,joseph nathaniel jr. deloach,19.750,Seoul 1988,Athletics,200m men
+1,USA,carl lewis,19.790,Seoul 1988,Athletics,200m men
+2,BRA,robson da silva,20.040,Seoul 1988,Athletics,200m men
+3,GBR,linford christie,20.090,Seoul 1988,Athletics,200m men
+4,CAN,atlee mahorn,20.390,Seoul 1988,Athletics,200m men
+5,FRA,gilles queneherve,20.400,Seoul 1988,Athletics,200m men
+6,GBR,michael rosswess,20.510,Seoul 1988,Athletics,200m men
+7,FRA,bruno marie-rose,20.580,Seoul 1988,Athletics,200m men
+8,ANG,armenio gaspar,,Seoul 1988,Athletics,200m men
+9,KEN,simeon kipkemboi,Did not start,Seoul 1988,Athletics,200m men
+10,LBR,samuel birch,Did not start,Seoul 1988,Athletics,200m men
+11,TOG,boeviyoulou lawson,Did not start,Seoul 1988,Athletics,200m men
+0,USA,florence griffith-joyner,21.340,Seoul 1988,Athletics,200m women
+1,JAM,grace jackson small,21.720,Seoul 1988,Athletics,200m women
+2,GDR,heike drechsler,21.950,Seoul 1988,Athletics,200m women
+3,JAM,merlene ottey-page,21.990,Seoul 1988,Athletics,200m women
+4,GDR,silke möller,22.090,Seoul 1988,Athletics,200m women
+5,USA,gwen torrence,22.170,Seoul 1988,Athletics,200m women
+6,URS,maya azarashvili,22.330,Seoul 1988,Athletics,200m women
+7,URS,galina malchugina,22.420,Seoul 1988,Athletics,200m women
+8,USA,pamela marshall,,Seoul 1988,Athletics,200m women
+9,AUS,maree holland,Did not start,Seoul 1988,Athletics,200m women
+0,TCH,jozef pribilinec,01:19:57.000,Seoul 1988,Athletics,20km walk men
+1,GDR,ronald weigel,01:20:00.000,Seoul 1988,Athletics,20km walk men
+2,ITA,maurizio damilano,01:20:14.000,Seoul 1988,Athletics,20km walk men
+3,ESP,jose marin sospedra,01:20:34.000,Seoul 1988,Athletics,20km walk men
+4,TCH,roman mrazek,01:20:43.000,Seoul 1988,Athletics,20km walk men
+5,URS,mikhail shchennikov,01:20:47.000,Seoul 1988,Athletics,20km walk men
+6,MEX,carlos mercenario carbajal,01:20:53.000,Seoul 1988,Athletics,20km walk men
+7,GDR,axel noack,01:21:14.000,Seoul 1988,Athletics,20km walk men
+8,ITA,giovanni de benedictis,01:21:18.000,Seoul 1988,Athletics,20km walk men
+9,CAN,guillaume leblanc,01:21:29.000,Seoul 1988,Athletics,20km walk men
+10,AUS,simon baker,01:21:47.000,Seoul 1988,Athletics,20km walk men
+11,ESP,daniel plaza montero,01:21:53.000,Seoul 1988,Athletics,20km walk men
+12,GBR,ian peter mccombie,01:22:03.000,Seoul 1988,Athletics,20km walk men
+13,URS,aleksei pershin,01:22:32.000,Seoul 1988,Athletics,20km walk men
+14,TCH,pavel blazek,01:22:39.000,Seoul 1988,Athletics,20km walk men
+15,FRA,martial fesselier,01:22:43.000,Seoul 1988,Athletics,20km walk men
+16,IRL,jimmy mcdonald,01:22:45.000,Seoul 1988,Athletics,20km walk men
+17,FRA,thierry toutain,01:22:55.000,Seoul 1988,Athletics,20km walk men
+18,ITA,carlo mattioli,01:22:58.000,Seoul 1988,Athletics,20km walk men
+19,FRA,jean-claude corre,01:23:09.000,Seoul 1988,Athletics,20km walk men
+20,HUN,sandor urbanik,01:23:18.000,Seoul 1988,Athletics,20km walk men
+21,NOR,erling andersen,01:23:30.000,Seoul 1988,Athletics,20km walk men
+22,ESP,ricardo pueyo,01:23:40.000,Seoul 1988,Athletics,20km walk men
+23,GBR,chris maddocks,01:23:46.000,Seoul 1988,Athletics,20km walk men
+24,SWE,stefan johansson,01:23:51.000,Seoul 1988,Athletics,20km walk men
+25,JPN,hirofumi sakai,01:24:08.000,Seoul 1988,Athletics,20km walk men
+26,URS,yevgeniy misyulya,01:24:39.000,Seoul 1988,Athletics,20km walk men
+27,AUS,andrew jachno,01:24:52.000,Seoul 1988,Athletics,20km walk men
+28,POR,jose urbano,01:24:56.000,Seoul 1988,Athletics,20km walk men
+29,SWE,jan staf,01:24:59.000,Seoul 1988,Athletics,20km walk men
+30,POR,jose pinto,01:26:33.000,Seoul 1988,Athletics,20km walk men
+31,ALG,abdelouahab ferguene,01:26:33.000,Seoul 1988,Athletics,20km walk men
+32,COL,hector jose moreno moreno,01:27:06.000,Seoul 1988,Athletics,20km walk men
+33,ALG,mohamed bouhalla,01:27:10.000,Seoul 1988,Athletics,20km walk men
+34,BEL,godfried de jonckheere,01:27:14.000,Seoul 1988,Athletics,20km walk men
+35,POL,zdzislaw szlapkin,01:27:23.000,Seoul 1988,Athletics,20km walk men
+36,USA,gary f. morgan,01:27:26.000,Seoul 1988,Athletics,20km walk men
+37,USA,james anthony heiring,01:27:30.000,Seoul 1988,Athletics,20km walk men
+38,POR,helder oliveira,01:27:39.000,Seoul 1988,Athletics,20km walk men
+39,HON,santiago fonseca,01:27:41.000,Seoul 1988,Athletics,20km walk men
+40,CHN,bao-jin li,01:27:57.000,Seoul 1988,Athletics,20km walk men
+41,FIN,reima salonen,01:28:25.000,Seoul 1988,Athletics,20km walk men
+42,BUL,lubomir ivanov,01:28:43.000,Seoul 1988,Athletics,20km walk men
+43,USA,tim lewis,01:31:00.000,Seoul 1988,Athletics,20km walk men
+44,BRA,marcelo moreira palma,01:31:42.000,Seoul 1988,Athletics,20km walk men
+45,KOR,pil-hwa chung,01:32:23.000,Seoul 1988,Athletics,20km walk men
+46,JPN,tadahiro kosaka,01:32:46.000,Seoul 1988,Athletics,20km walk men
+47,HON,rafael valladares lopez,01:37:09.000,Seoul 1988,Athletics,20km walk men
+48,KOR,myeong-oh jeong,01:40:09.000,Seoul 1988,Athletics,20km walk men
+49,COL,jose querubin moreno moreno,Did not finish,Seoul 1988,Athletics,20km walk men
+50,MEX,ernesto canto gudino,Disqualified,Seoul 1988,Athletics,20km walk men
+51,LUX,marc sowa,Disqualified,Seoul 1988,Athletics,20km walk men
+52,MEX,erick joel sanchez,Disqualified,Seoul 1988,Athletics,20km walk men
 0,KEN,julius kariuki,00:08:05.510,Seoul 1988,Athletics,3000m steeplechase men
 1,KEN,peter koech,00:08:06.790,Seoul 1988,Athletics,3000m steeplechase men
 2,GBR,mark robert rowland,00:08:07.960,Seoul 1988,Athletics,3000m steeplechase men

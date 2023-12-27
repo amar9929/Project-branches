@@ -1,0 +1,62 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,warren paoa kealoha,00:01:15.200,Antwerp 1920,Swimming,100m backstroke men
+1,USA,raymond kegeris,00:01:16.800,Antwerp 1920,Swimming,100m backstroke men
+2,BEL,gerard blitz,00:01:19.000,Antwerp 1920,Swimming,100m backstroke men
+3,USA,perry mcgillivray,00:01:19.400,Antwerp 1920,Swimming,100m backstroke men
+4,USA,stubby kruger,,Antwerp 1920,Swimming,100m backstroke men
+0,USA,duke paoa kahanamoku,00:01:01.400,Antwerp 1920,Swimming,100m freestyle men
+1,USA,pua kela kealoha,00:01:02.600,Antwerp 1920,Swimming,100m freestyle men
+2,USA,william harris,00:01:03.000,Antwerp 1920,Swimming,100m freestyle men
+3,AUS,billy herald,00:01:03.800,Antwerp 1920,Swimming,100m freestyle men
+4,USA,norman ross,Disqualified,Antwerp 1920,Swimming,100m freestyle men
+0,USA,ethelda bleibtrey,00:01:13.600,Antwerp 1920,Swimming,100m freestyle women
+1,USA,irene guest,00:01:17.000,Antwerp 1920,Swimming,100m freestyle women
+2,USA,frances schroth,00:01:17.200,Antwerp 1920,Swimming,100m freestyle women
+3,GBR,constance mabel jeans,00:01:22.800,Antwerp 1920,Swimming,100m freestyle women
+4,NZL,violet walrond,,Antwerp 1920,Swimming,100m freestyle women
+5,SWE,jane gylling,,Antwerp 1920,Swimming,100m freestyle women
+6,USA,charlotte boyle,Did not finish,Antwerp 1920,Swimming,100m freestyle women
+0,USA,norman ross,00:22:23.200,Antwerp 1920,Swimming,1500m freestyle men
+1,CAN,george vernot,22:36.4est,Antwerp 1920,Swimming,1500m freestyle men
+2,AUS,frank de beaurepaire,23:04.0est,Antwerp 1920,Swimming,1500m freestyle men
+3,USA,fred kahele,23:59.1est,Antwerp 1920,Swimming,1500m freestyle men
+4,USA,eugene bolden,24:04.3est,Antwerp 1920,Swimming,1500m freestyle men
+5,GBR,henry taylor,Did not finish,Antwerp 1920,Swimming,1500m freestyle men
+6,SUI,rené ricolfi-doria,Did not finish,Antwerp 1920,Swimming,1500m freestyle men
+7,JPN,masaren uchida,Did not finish,Antwerp 1920,Swimming,1500m freestyle men
+8,FRA,pierre lavraie,Did not finish,Antwerp 1920,Swimming,1500m freestyle men
+0,SWE,hakan malmrot,00:03:04.400,Antwerp 1920,Swimming,200m breaststroke men
+1,SWE,tor henning,00:03:09.200,Antwerp 1920,Swimming,200m breaststroke men
+2,FIN,arvo ossian aaltonen,00:03:12.200,Antwerp 1920,Swimming,200m breaststroke men
+3,USA,jack zophar howell,,Antwerp 1920,Swimming,200m breaststroke men
+4,AUS,ivan stedman,,Antwerp 1920,Swimming,200m breaststroke men
+5,SWE,per cederblom,Did not finish,Antwerp 1920,Swimming,200m breaststroke men
+0,USA,ethelda bleibtrey,00:04:34.000,Antwerp 1920,Swimming,300m freestyle women
+1,USA,margaret woodbridge,00:04:42.800,Antwerp 1920,Swimming,300m freestyle women
+2,USA,frances schroth,00:04:52.000,Antwerp 1920,Swimming,300m freestyle women
+3,GBR,constance mabel jeans,00:04:52.400,Antwerp 1920,Swimming,300m freestyle women
+4,USA,eleanor uhl,,Antwerp 1920,Swimming,300m freestyle women
+5,SWE,jane gylling,,Antwerp 1920,Swimming,300m freestyle women
+6,NZL,violet walrond,,Antwerp 1920,Swimming,300m freestyle women
+0,SWE,hakan malmrot,00:06:31.800,Antwerp 1920,Swimming,400m breaststroke men
+1,SWE,tor henning,00:06:45.200,Antwerp 1920,Swimming,400m breaststroke men
+2,FIN,arvo ossian aaltonen,00:06:48.000,Antwerp 1920,Swimming,400m breaststroke men
+3,USA,jack zophar howell,00:06:51.000,Antwerp 1920,Swimming,400m breaststroke men
+4,SWE,per cederblom,,Antwerp 1920,Swimming,400m breaststroke men
+5,CAN,sydney gooday,Did not finish,Antwerp 1920,Swimming,400m breaststroke men
+6,ESP,luis balcells,Did not finish,Antwerp 1920,Swimming,400m breaststroke men
+0,USA,norman ross,00:05:26.800,Antwerp 1920,Swimming,400m freestyle men
+1,USA,ludy langer,00:05:29.000,Antwerp 1920,Swimming,400m freestyle men
+2,CAN,george vernot,00:05:29.600,Antwerp 1920,Swimming,400m freestyle men
+3,USA,fred kahele,,Antwerp 1920,Swimming,400m freestyle men
+4,AUS,frank de beaurepaire,Did not finish,Antwerp 1920,Swimming,400m freestyle men
+5,JPN,kenkichi saito,Did not finish,Antwerp 1920,Swimming,400m freestyle men
+6,AUS,keith kirkland,Did not finish,Antwerp 1920,Swimming,400m freestyle men
+0,,,00:05:11.600,Antwerp 1920,Swimming,4x100m freestyle relay women
+1,,,00:05:40.800,Antwerp 1920,Swimming,4x100m freestyle relay women
+2,,,00:05:43.600,Antwerp 1920,Swimming,4x100m freestyle relay women
+0,,,00:10:04.400,Antwerp 1920,Swimming,4x200m freestyle relay men
+1,,,00:10:25.400,Antwerp 1920,Swimming,4x200m freestyle relay men
+2,,,00:10:37.200,Antwerp 1920,Swimming,4x200m freestyle relay men
+3,,,00:10:50.200,Antwerp 1920,Swimming,4x200m freestyle relay men
+4,,,,Antwerp 1920,Swimming,4x200m freestyle relay men

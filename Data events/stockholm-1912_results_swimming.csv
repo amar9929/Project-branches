@@ -1,0 +1,241 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,harry j. hebner,00:01:21.200,Stockholm 1912,Swimming,100m backstroke men
+1,GER,otto fahr,00:01:22.400,Stockholm 1912,Swimming,100m backstroke men
+2,GER,paul kellner,00:01:24.000,Stockholm 1912,Swimming,100m backstroke men
+3,HUN,andrás baronyi,00:01:25.200,Stockholm 1912,Swimming,100m backstroke men
+4,GER,otto gross,00:01:25.800,Stockholm 1912,Swimming,100m backstroke men
+5,GER,oscar schiele,Disqualified,Stockholm 1912,Swimming,100m backstroke men
+6,HUN,jános wenk,Disqualified,Stockholm 1912,Swimming,100m backstroke men
+7,BEL,oscar gregoire,Disqualified,Stockholm 1912,Swimming,100m backstroke men
+8,FRA,daniel lehu,Did not start,Stockholm 1912,Swimming,100m backstroke men
+9,FRA,émile bangerter,Did not start,Stockholm 1912,Swimming,100m backstroke men
+10,FRA,henri dubois,Did not start,Stockholm 1912,Swimming,100m backstroke men
+11,FRA,victor pierre eggman,Did not start,Stockholm 1912,Swimming,100m backstroke men
+12,FRA,maurice quintard,Did not start,Stockholm 1912,Swimming,100m backstroke men
+13,GBR,james slane,Did not start,Stockholm 1912,Swimming,100m backstroke men
+14,GRE,andreas assimakopoulos,Did not start,Stockholm 1912,Swimming,100m backstroke men
+15,GRE,paudely psycha,Did not start,Stockholm 1912,Swimming,100m backstroke men
+16,HUN,nikolaus bartkó,Did not start,Stockholm 1912,Swimming,100m backstroke men
+17,HUN,ivan géczy,Did not start,Stockholm 1912,Swimming,100m backstroke men
+18,HUN,josef selmeczi,Did not start,Stockholm 1912,Swimming,100m backstroke men
+19,HUN,istván wendelin,Did not start,Stockholm 1912,Swimming,100m backstroke men
+20,ITA,david baiardo,Did not start,Stockholm 1912,Swimming,100m backstroke men
+21,ITA,mario massa,Did not start,Stockholm 1912,Swimming,100m backstroke men
+22,ITA,virgilio bellazza,Did not start,Stockholm 1912,Swimming,100m backstroke men
+23,ITA,aldo cigheri,Did not start,Stockholm 1912,Swimming,100m backstroke men
+24,ITA,mario portolongo,Did not start,Stockholm 1912,Swimming,100m backstroke men
+25,RSA,george a. godfrey,Did not start,Stockholm 1912,Swimming,100m backstroke men
+26,RUS,viktor baranov,Did not start,Stockholm 1912,Swimming,100m backstroke men
+27,RUS,aleksey andreyev,Did not start,Stockholm 1912,Swimming,100m backstroke men
+28,SWE,pontus hansson,Did not start,Stockholm 1912,Swimming,100m backstroke men
+0,USA,duke paoa kahanamoku,00:01:03.400,Stockholm 1912,Swimming,100m freestyle men
+1,ANZ,cecil healy,00:01:04.600,Stockholm 1912,Swimming,100m freestyle men
+2,USA,kenneth huszagh,00:01:05.600,Stockholm 1912,Swimming,100m freestyle men
+3,GER,kurt bretting,00:01:05.800,Stockholm 1912,Swimming,100m freestyle men
+4,GER,walther ramme,00:01:06.400,Stockholm 1912,Swimming,100m freestyle men
+5,ITA,mario massa,Did not finish,Stockholm 1912,Swimming,100m freestyle men
+6,GER,walther binner,,Stockholm 1912,Swimming,100m freestyle men
+7,HUN,alois ferenc kenyery,,Stockholm 1912,Swimming,100m freestyle men
+8,ITA,david baiardo,,Stockholm 1912,Swimming,100m freestyle men
+9,AUT,otto scheff,Did not start,Stockholm 1912,Swimming,100m freestyle men
+10,AUT,emanuel prüll,Did not start,Stockholm 1912,Swimming,100m freestyle men
+11,AUT,heinrich brandstetter,Did not start,Stockholm 1912,Swimming,100m freestyle men
+12,AUT,max rosenfeld,Did not start,Stockholm 1912,Swimming,100m freestyle men
+13,AUT,josef scheibler,Did not start,Stockholm 1912,Swimming,100m freestyle men
+14,CAN,george ritchie hodgson,Did not start,Stockholm 1912,Swimming,100m freestyle men
+15,FRA,henri decoin,Did not start,Stockholm 1912,Swimming,100m freestyle men
+16,FRA,henri dubois,Did not start,Stockholm 1912,Swimming,100m freestyle men
+17,FRA,jacques martin,Did not start,Stockholm 1912,Swimming,100m freestyle men
+18,FRA,jean martin,Did not start,Stockholm 1912,Swimming,100m freestyle men
+19,FRA,marcel pernot,Did not start,Stockholm 1912,Swimming,100m freestyle men
+20,FRA,jean roldes,Did not start,Stockholm 1912,Swimming,100m freestyle men
+21,GER,otto kühne,Did not start,Stockholm 1912,Swimming,100m freestyle men
+22,HUN,béla las torres,Did not start,Stockholm 1912,Swimming,100m freestyle men
+23,HUN,jozsef munk,Did not start,Stockholm 1912,Swimming,100m freestyle men
+24,HUN,jenő rimanóczy,Did not start,Stockholm 1912,Swimming,100m freestyle men
+25,ITA,virgilio bellazza,Did not start,Stockholm 1912,Swimming,100m freestyle men
+26,ITA,attilio bellezza,Did not start,Stockholm 1912,Swimming,100m freestyle men
+27,ITA,aldo cigheri,Did not start,Stockholm 1912,Swimming,100m freestyle men
+28,ITA,mario portolongo,Did not start,Stockholm 1912,Swimming,100m freestyle men
+29,RSA,george a. godfrey,Did not start,Stockholm 1912,Swimming,100m freestyle men
+30,RUS,aleksey andreyev,Did not start,Stockholm 1912,Swimming,100m freestyle men
+31,SWE,bengt wallin,Did not start,Stockholm 1912,Swimming,100m freestyle men
+32,USA,leo budd goodwin,Did not start,Stockholm 1912,Swimming,100m freestyle men
+33,USA,mike mcdermott,Did not start,Stockholm 1912,Swimming,100m freestyle men
+34,USA,leslie george rich,Did not start,Stockholm 1912,Swimming,100m freestyle men
+35,USA,eben cross,Did not start,Stockholm 1912,Swimming,100m freestyle men
+36,USA,richard frizell,Did not start,Stockholm 1912,Swimming,100m freestyle men
+0,ANZ,fanny durack,00:01:22.200,Stockholm 1912,Swimming,100m freestyle women
+1,ANZ,mina wylie,00:01:25.400,Stockholm 1912,Swimming,100m freestyle women
+2,GBR,jennie fletcher,00:01:27.000,Stockholm 1912,Swimming,100m freestyle women
+3,GER,grete rosenberg,00:01:27.200,Stockholm 1912,Swimming,100m freestyle women
+4,GBR,annie speirs,00:01:27.400,Stockholm 1912,Swimming,100m freestyle women
+5,GBR,irene steer,Disqualified,Stockholm 1912,Swimming,100m freestyle women
+6,NOR,aagot normann,Did not finish,Stockholm 1912,Swimming,100m freestyle women
+0,CAN,george ritchie hodgson,00:22:00.000,Stockholm 1912,Swimming,1500m freestyle men
+1,GBR,john gatenby hatfield,00:22:39.000,Stockholm 1912,Swimming,1500m freestyle men
+2,ANZ,harold h. hardwick,00:23:15.400,Stockholm 1912,Swimming,1500m freestyle men
+3,ANZ,malcolm champion,Did not finish,Stockholm 1912,Swimming,1500m freestyle men
+4,HUN,béla las torres,Did not finish,Stockholm 1912,Swimming,1500m freestyle men
+5,GBR,henry taylor,Did not finish,Stockholm 1912,Swimming,1500m freestyle men
+6,NOR,herbert mauritz wetter,Did not finish,Stockholm 1912,Swimming,1500m freestyle men
+7,FRA,auguste caby,Did not finish,Stockholm 1912,Swimming,1500m freestyle men
+8,ITA,mario massa,Did not finish,Stockholm 1912,Swimming,1500m freestyle men
+9,RUS,pavel avksentyev,Did not finish,Stockholm 1912,Swimming,1500m freestyle men
+10,AUT,wolfgang siller,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+11,BEL,joseph pletincx,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+12,BOH,alois broft,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+13,FRA,georges rigal,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+14,FRA,émile-georges drigny,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+15,FRA,jean thorailler,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+16,FRA,émile bangerter,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+17,FRA,louis bonzom,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+18,FRA,andré chenriet,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+19,FRA,henri dubois,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+20,FRA,georges hermant,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+21,FRA,marcel pernot,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+22,FRA,alfred vieilledent,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+23,FRA,rené voisard,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+24,GER,otto fahr,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+25,GER,otto kühne,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+26,HUN,alois ferenc kenyery,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+27,HUN,imre zachar,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+28,ITA,david baiardo,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+29,ITA,virgilio bellazza,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+30,ITA,attilio bellezza,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+31,ITA,aldo cigheri,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+32,ITA,mario portolongo,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+33,RSA,george a. godfrey,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+34,RUS,nikolay voronkov,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+35,USA,leo budd goodwin,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+36,USA,james h. reilly,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+37,USA,jack mantell,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+38,USA,joseph morris,Did not start,Stockholm 1912,Swimming,1500m freestyle men
+0,GER,walter bathe,00:03:01.800,Stockholm 1912,Swimming,200m breaststroke men
+1,GER,willy lützow,00:03:05.000,Stockholm 1912,Swimming,200m breaststroke men
+2,GER,kurt paul malisch,00:03:08.000,Stockholm 1912,Swimming,200m breaststroke men
+3,GBR,percy courtman,00:03:08.800,Stockholm 1912,Swimming,200m breaststroke men
+4,SWE,tor henning,Did not finish,Stockholm 1912,Swimming,200m breaststroke men
+5,SWE,pontus hansson,Did not finish,Stockholm 1912,Swimming,200m breaststroke men
+6,USA,mike mcdermott,Disqualified,Stockholm 1912,Swimming,200m breaststroke men
+7,GBR,george innocent,Disqualified,Stockholm 1912,Swimming,200m breaststroke men
+8,NOR,audun rusten,Disqualified,Stockholm 1912,Swimming,200m breaststroke men
+9,AUT,heinrich brandstetter,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+10,AUT,rudolf dlouchy,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+11,FRA,daniel lehu,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+12,FRA,louis laufray,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+13,FRA,henri dubois,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+14,FRA,victor pierre eggman,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+15,FRA,richard hallard,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+16,GER,walter krohn,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+17,GER,alfred stühmer,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+18,HUN,ödön toldi,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+19,HUN,jános wenk,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+20,HUN,andrás baronyi,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+21,HUN,imre elek,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+22,ITA,david baiardo,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+23,ITA,mario massa,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+24,ITA,virgilio bellazza,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+25,ITA,attilio bellezza,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+26,ITA,aldo cigheri,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+27,ITA,mario portolongo,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+28,NOR,john haakon johnsen,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+29,RSA,george a. godfrey,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+30,RUS,arno almqvist,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+31,RUS,nikolay voronkov,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+32,RUS,ilarion borisovsky,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+33,SWE,sven henning,Did not start,Stockholm 1912,Swimming,200m breaststroke men
+0,GER,walter bathe,00:06:29.600,Stockholm 1912,Swimming,400m breaststroke men
+1,SWE,tor henning,00:06:35.600,Stockholm 1912,Swimming,400m breaststroke men
+2,GBR,percy courtman,00:06:36.400,Stockholm 1912,Swimming,400m breaststroke men
+3,GER,kurt paul malisch,00:06:37.000,Stockholm 1912,Swimming,400m breaststroke men
+4,GER,willy lützow,Did not finish,Stockholm 1912,Swimming,400m breaststroke men
+5,AUT,zeno von siengalewicz,Did not finish,Stockholm 1912,Swimming,400m breaststroke men
+6,GBR,george innocent,Did not finish,Stockholm 1912,Swimming,400m breaststroke men
+7,AUT,josef wastl,Did not finish,Stockholm 1912,Swimming,400m breaststroke men
+8,HUN,oszkar demjan,Disqualified,Stockholm 1912,Swimming,400m breaststroke men
+9,USA,mike mcdermott,Disqualified,Stockholm 1912,Swimming,400m breaststroke men
+10,AUT,rudolf dlouchy,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+11,FIN,herman edvard cederberg,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+12,FRA,louis laufray,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+13,FRA,henri dubois,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+14,FRA,victor pierre eggman,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+15,FRA,louis andré fanger,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+16,FRA,paul harfort,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+17,FRA,georges lefevre,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+18,GBR,samuel blatherwick,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+19,HUN,ödön toldi,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+20,ITA,david baiardo,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+21,ITA,mario massa,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+22,ITA,virgilio bellazza,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+23,ITA,attilio bellezza,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+24,ITA,aldo cigheri,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+25,ITA,mario portolongo,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+26,NOR,audun rusten,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+27,RSA,george a. godfrey,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+28,RUS,arno almqvist,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+29,RUS,pavel avksentyev,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+30,RUS,nikolay voronkov,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+31,SWE,harald s.a. julin,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+32,SWE,pontus hansson,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+33,SWE,sven henning,Did not start,Stockholm 1912,Swimming,400m breaststroke men
+0,CAN,george ritchie hodgson,00:05:24.400,Stockholm 1912,Swimming,400m freestyle men
+1,GBR,john gatenby hatfield,00:05:25.800,Stockholm 1912,Swimming,400m freestyle men
+2,ANZ,harold h. hardwick,00:05:31.200,Stockholm 1912,Swimming,400m freestyle men
+3,ANZ,cecil healy,00:05:37.800,Stockholm 1912,Swimming,400m freestyle men
+4,HUN,béla las torres,00:05:42.000,Stockholm 1912,Swimming,400m freestyle men
+5,ITA,mario massa,Did not finish,Stockholm 1912,Swimming,400m freestyle men
+6,RUS,pavel avksentyev,Did not finish,Stockholm 1912,Swimming,400m freestyle men
+7,ANZ,theo tartakover,Did not finish,Stockholm 1912,Swimming,400m freestyle men
+8,SWE,b. david theander,Did not finish,Stockholm 1912,Swimming,400m freestyle men
+9,RUS,nikolay voronkov,Did not finish,Stockholm 1912,Swimming,400m freestyle men
+10,ANZ,leslie boardman,Did not start,Stockholm 1912,Swimming,400m freestyle men
+11,ANZ,william longworth,Did not start,Stockholm 1912,Swimming,400m freestyle men
+12,AUT,otto scheff,Did not start,Stockholm 1912,Swimming,400m freestyle men
+13,AUT,josef scheibler,Did not start,Stockholm 1912,Swimming,400m freestyle men
+14,AUT,wolfgang siller,Did not start,Stockholm 1912,Swimming,400m freestyle men
+15,BEL,joseph pletincx,Did not start,Stockholm 1912,Swimming,400m freestyle men
+16,BOH,josef černÿ,Did not start,Stockholm 1912,Swimming,400m freestyle men
+17,BOH,s. matucha,Did not start,Stockholm 1912,Swimming,400m freestyle men
+18,FRA,henri decoin,Did not start,Stockholm 1912,Swimming,400m freestyle men
+19,FRA,gérard meister,Did not start,Stockholm 1912,Swimming,400m freestyle men
+20,FRA,georges rigal,Did not start,Stockholm 1912,Swimming,400m freestyle men
+21,FRA,jean rodier,Did not start,Stockholm 1912,Swimming,400m freestyle men
+22,FRA,émile bangerter,Did not start,Stockholm 1912,Swimming,400m freestyle men
+23,FRA,henri dubois,Did not start,Stockholm 1912,Swimming,400m freestyle men
+24,FRA,georges hermant,Did not start,Stockholm 1912,Swimming,400m freestyle men
+25,FRA,marcel pernot,Did not start,Stockholm 1912,Swimming,400m freestyle men
+26,FRA,rené voisard,Did not start,Stockholm 1912,Swimming,400m freestyle men
+27,GBR,isaac bentham,Did not start,Stockholm 1912,Swimming,400m freestyle men
+28,GER,otto fahr,Did not start,Stockholm 1912,Swimming,400m freestyle men
+29,GRE,andreas assimakopoulos,Did not start,Stockholm 1912,Swimming,400m freestyle men
+30,HUN,imre zachar,Did not start,Stockholm 1912,Swimming,400m freestyle men
+31,ITA,virgilio bellazza,Did not start,Stockholm 1912,Swimming,400m freestyle men
+32,ITA,attilio bellezza,Did not start,Stockholm 1912,Swimming,400m freestyle men
+33,ITA,aldo cigheri,Did not start,Stockholm 1912,Swimming,400m freestyle men
+34,ITA,mario portolongo,Did not start,Stockholm 1912,Swimming,400m freestyle men
+35,NOR,harry svendsen,Did not start,Stockholm 1912,Swimming,400m freestyle men
+36,NOR,herbert mauritz wetter,Did not start,Stockholm 1912,Swimming,400m freestyle men
+37,RUS,viktor baranov,Did not start,Stockholm 1912,Swimming,400m freestyle men
+38,RUS,aleksey andreyev,Did not start,Stockholm 1912,Swimming,400m freestyle men
+39,RUS,ilarion borisovsky,Did not start,Stockholm 1912,Swimming,400m freestyle men
+40,SWE,robert t. andersson,Did not start,Stockholm 1912,Swimming,400m freestyle men
+41,SWE,vilhelm andersson,Did not start,Stockholm 1912,Swimming,400m freestyle men
+42,SWE,karl gustaf a. collin,Did not start,Stockholm 1912,Swimming,400m freestyle men
+43,USA,leo budd goodwin,Did not start,Stockholm 1912,Swimming,400m freestyle men
+44,USA,harry j. hebner,Did not start,Stockholm 1912,Swimming,400m freestyle men
+45,USA,kenneth huszagh,Did not start,Stockholm 1912,Swimming,400m freestyle men
+46,USA,perry mcgillivray,Did not start,Stockholm 1912,Swimming,400m freestyle men
+47,USA,leslie george rich,Did not start,Stockholm 1912,Swimming,400m freestyle men
+48,USA,richard frizell,Did not start,Stockholm 1912,Swimming,400m freestyle men
+49,USA,lincoln johnson,Did not start,Stockholm 1912,Swimming,400m freestyle men
+50,USA,jack mantell,Did not start,Stockholm 1912,Swimming,400m freestyle men
+51,USA,john shyrock,Did not start,Stockholm 1912,Swimming,400m freestyle men
+0,,,00:05:52.800,Stockholm 1912,Swimming,4x100m freestyle relay women
+1,,,00:06:04.600,Stockholm 1912,Swimming,4x100m freestyle relay women
+2,,,00:06:17.000,Stockholm 1912,Swimming,4x100m freestyle relay women
+3,,,,Stockholm 1912,Swimming,4x100m freestyle relay women
+0,,,00:10:11.200,Stockholm 1912,Swimming,4x200m freestyle relay men
+1,,,00:10:20.200,Stockholm 1912,Swimming,4x200m freestyle relay men
+2,,,00:10:28.600,Stockholm 1912,Swimming,4x200m freestyle relay men
+3,,,00:10:37.000,Stockholm 1912,Swimming,4x200m freestyle relay men

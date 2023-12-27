@@ -1,4 +1,171 @@
 ,country,participant,result,olympic_game,discipline,event
+0,,,3:09.87,Tokyo 2020,Athletics,4 x 400m Relay Mixed
+1,,,3:10.21,Tokyo 2020,Athletics,4 x 400m Relay Mixed
+2,,,3:10.22,Tokyo 2020,Athletics,4 x 400m Relay Mixed
+3,,,3:10.36,Tokyo 2020,Athletics,4 x 400m Relay Mixed
+4,,,3:11.51,Tokyo 2020,Athletics,4 x 400m Relay Mixed
+5,,,3:12.07,Tokyo 2020,Athletics,4 x 400m Relay Mixed
+6,,,3:14.95,Tokyo 2020,Athletics,4 x 400m Relay Mixed
+7,,,3:15.04,Tokyo 2020,Athletics,4 x 400m Relay Mixed
+8,,,DQ,Tokyo 2020,Athletics,4 x 400m Relay Mixed
+0,ETH,selemon barega,27:43.22,Tokyo 2020,Athletics,"Men's 10,000m"
+1,UGA,joshua kiprui cheptegei,27:43.63,Tokyo 2020,Athletics,"Men's 10,000m"
+2,UGA,jacob kiplimo,27:43.88,Tokyo 2020,Athletics,"Men's 10,000m"
+3,ETH,berihu aregawi,27:46.16,Tokyo 2020,Athletics,"Men's 10,000m"
+4,USA,grant fisher,27:46.39,Tokyo 2020,Athletics,"Men's 10,000m"
+5,CAN,mohammed ahmed,27:47.76,Tokyo 2020,Athletics,"Men's 10,000m"
+6,KEN,rodgers kwemoi,27:50.06,Tokyo 2020,Athletics,"Men's 10,000m"
+7,ETH,yomif kejelcha,27:52.03,Tokyo 2020,Athletics,"Men's 10,000m"
+8,KEN,rhonex kipruto,27:52.78,Tokyo 2020,Athletics,"Men's 10,000m"
+9,FRA,morhad amdouni,27:53.58,Tokyo 2020,Athletics,"Men's 10,000m"
+10,ITA,yemaneberhan crippa,27:54.05,Tokyo 2020,Athletics,"Men's 10,000m"
+11,ERI,aron kifle,28:04.06,Tokyo 2020,Athletics,"Men's 10,000m"
+12,ESP,carlos mayo,28:04.71,Tokyo 2020,Athletics,"Men's 10,000m"
+13,GBR,marc scott,28:09.23,Tokyo 2020,Athletics,"Men's 10,000m"
+14,USA,william kincaid,28:11.01,Tokyo 2020,Athletics,"Men's 10,000m"
+15,USA,joe klecker,28:14.18,Tokyo 2020,Athletics,"Men's 10,000m"
+16,JPN,akira aizawa,28:18.37,Tokyo 2020,Athletics,"Men's 10,000m"
+17,BEL,isaac kimeli,28:31.91,Tokyo 2020,Athletics,"Men's 10,000m"
+18,AUS,patrick tiernan,28:35.06,Tokyo 2020,Athletics,"Men's 10,000m"
+19,KEN,weldon langat,28:41.42,Tokyo 2020,Athletics,"Men's 10,000m"
+20,SUI,julien wanders,28:55.29,Tokyo 2020,Athletics,"Men's 10,000m"
+21,JPN,tatsuhiko ito,29:01.31,Tokyo 2020,Athletics,"Men's 10,000m"
+22,THA,kieran tuntivate,29:01.92,Tokyo 2020,Athletics,"Men's 10,000m"
+23,GBR,sam atkin,Did not finish,Tokyo 2020,Athletics,"Men's 10,000m"
+24,UGA,stephen kissa,Did not finish,Tokyo 2020,Athletics,"Men's 10,000m"
+0,ITA,lamont marcell jacobs,9.80,Tokyo 2020,Athletics,Men's 100m
+1,USA,fred kerley,9.84,Tokyo 2020,Athletics,Men's 100m
+2,CAN,andre de grasse,9.89,Tokyo 2020,Athletics,Men's 100m
+3,RSA,akani simbine,9.93,Tokyo 2020,Athletics,Men's 100m
+4,USA,ronnie baker,9.95,Tokyo 2020,Athletics,Men's 100m
+5,CHN,bingtian su,9.98,Tokyo 2020,Athletics,Men's 100m
+6,NGR,enoch adegoke,Did not finish,Tokyo 2020,Athletics,Men's 100m
+7,GBR,zharnel hughes,Disqualified,Tokyo 2020,Athletics,Men's 100m
+0,JAM,hansle parchment,13.04,Tokyo 2020,Athletics,Men's 110m Hurdles
+1,USA,grant holloway,13.09,Tokyo 2020,Athletics,Men's 110m Hurdles
+2,JAM,ronald levy,13.10,Tokyo 2020,Athletics,Men's 110m Hurdles
+3,USA,devon allen,13.14,Tokyo 2020,Athletics,Men's 110m Hurdles
+4,FRA,pascal martinot-lagarde,13.16,Tokyo 2020,Athletics,Men's 110m Hurdles
+5,ESP,asier martinez,13.22,Tokyo 2020,Athletics,Men's 110m Hurdles
+6,GBR,andrew pozzi,13.30,Tokyo 2020,Athletics,Men's 110m Hurdles
+7,FRA,aurel manga,13.38,Tokyo 2020,Athletics,Men's 110m Hurdles
+0,NOR,jakob ingebrigtsen,3:28.32,Tokyo 2020,Athletics,Men's 1500m
+1,KEN,timothy cheruiyot,3:29.01,Tokyo 2020,Athletics,Men's 1500m
+2,GBR,josh kerr,3:29.05,Tokyo 2020,Athletics,Men's 1500m
+3,KEN,abel kipsang,3:29.56,Tokyo 2020,Athletics,Men's 1500m
+4,ESP,adel mechaal,3:30.77,Tokyo 2020,Athletics,Men's 1500m
+5,USA,cole hocker,3:31.40,Tokyo 2020,Athletics,Men's 1500m
+6,AUS,stewart mcsweyn,3:31.91,Tokyo 2020,Athletics,Men's 1500m
+7,POL,michal rozmys,3:32.67,Tokyo 2020,Athletics,Men's 1500m
+8,GBR,jake heyward,3:34.43,Tokyo 2020,Athletics,Men's 1500m
+9,GBR,jake wightman,3:35.09,Tokyo 2020,Athletics,Men's 1500m
+10,AUS,oliver hoare,3:35.79,Tokyo 2020,Athletics,Men's 1500m
+11,LUX,charles grethen,3:36.80,Tokyo 2020,Athletics,Men's 1500m
+12,ESP,ignacio fontes,3:38.56,Tokyo 2020,Athletics,Men's 1500m
+0,CAN,andre de grasse,19.62,Tokyo 2020,Athletics,Men's 200m
+1,USA,kenneth bednarek,19.68,Tokyo 2020,Athletics,Men's 200m
+2,USA,noah lyles,19.74,Tokyo 2020,Athletics,Men's 200m
+3,USA,erriyon knighton,19.93,Tokyo 2020,Athletics,Men's 200m
+4,LBR,joseph fahnbulleh,19.98,Tokyo 2020,Athletics,Men's 200m
+5,CAN,aaron brown,20.20,Tokyo 2020,Athletics,Men's 200m
+6,JAM,rasheed dwyer,20.21,Tokyo 2020,Athletics,Men's 200m
+7,TTO,jereem richards,20.39,Tokyo 2020,Athletics,Men's 200m
+0,ITA,massimo stano,1:21:05,Tokyo 2020,Athletics,Men's 20km Race Walk
+1,JPN,koki ikeda,1:21:14,Tokyo 2020,Athletics,Men's 20km Race Walk
+2,JPN,toshikazu yamanishi,1:21:28,Tokyo 2020,Athletics,Men's 20km Race Walk
+3,ESP,alvaro martin,1:21:46,Tokyo 2020,Athletics,Men's 20km Race Walk
+4,GER,christopher linke,1:21:50,Tokyo 2020,Athletics,Men's 20km Race Walk
+5,ESP,diego garcia,1:21:57,Tokyo 2020,Athletics,Men's 20km Race Walk
+6,CHN,kaihua wang,1:22:03,Tokyo 2020,Athletics,Men's 20km Race Walk
+7,CHN,jun zhang,1:22:16,Tokyo 2020,Athletics,Men's 20km Race Walk
+8,SWE,perseus karlstrom,1:22:29,Tokyo 2020,Athletics,Men's 20km Race Walk
+9,GBR,callum wilkinson,1:22:38,Tokyo 2020,Athletics,Men's 20km Race Walk
+10,MEX,andres eduardo olivas nunez,1:22:46,Tokyo 2020,Athletics,Men's 20km Race Walk
+11,ECU,brian pintado,1:22:54,Tokyo 2020,Athletics,Men's 20km Race Walk
+12,BRA,caio bonfim,1:23:21,Tokyo 2020,Athletics,Men's 20km Race Walk
+13,COL,manuel esteban soto,1:23:32,Tokyo 2020,Athletics,Men's 20km Race Walk
+14,ITA,francesco fortunato,1:23:43,Tokyo 2020,Athletics,Men's 20km Race Walk
+15,FRA,kevin campion,1:23:53,Tokyo 2020,Athletics,Men's 20km Race Walk
+16,AUS,declan tingay,1:24:00,Tokyo 2020,Athletics,Men's 20km Race Walk
+17,COL,eider arevalo,1:24:10,Tokyo 2020,Athletics,Men's 20km Race Walk
+18,ECU,david hurtado,1:24:31,Tokyo 2020,Athletics,Men's 20km Race Walk
+19,RSA,wayne snyman,1:24:33,Tokyo 2020,Athletics,Men's 20km Race Walk
+20,PER,cesar rodriguez,1:24:40,Tokyo 2020,Athletics,Men's 20km Race Walk
+21,GER,leo kopp,1:24:46,Tokyo 2020,Athletics,Men's 20km Race Walk
+22,IND,sandeep kumar,1:25:07,Tokyo 2020,Athletics,Men's 20km Race Walk
+23,FRA,gabriel bordier,1:25:23,Tokyo 2020,Athletics,Men's 20km Race Walk
+24,GBR,tom bosworth,1:25:57,Tokyo 2020,Athletics,Men's 20km Race Walk
+25,CHN,zelin cai,1:26:39,Tokyo 2020,Athletics,Men's 20km Race Walk
+26,COL,jhon alexander castaneda,1:26:41,Tokyo 2020,Athletics,Men's 20km Race Walk
+27,GER,nils brembach,1:26:45,Tokyo 2020,Athletics,Men's 20km Race Walk
+28,IRL,david kenny,1:26:54,Tokyo 2020,Athletics,Men's 20km Race Walk
+29,GUA,jose oswaldo calel,1:26:55,Tokyo 2020,Athletics,Men's 20km Race Walk
+30,ESP,miguel angel lopez,1:27:12,Tokyo 2020,Athletics,Men's 20km Race Walk
+31,JPN,eiki takahashi,1:27:29,Tokyo 2020,Athletics,Men's 20km Race Walk
+32,LTU,marius ziukas,1:27:35,Tokyo 2020,Athletics,Men's 20km Race Walk
+33,TUR,sahin senoduncu,1:27:39,Tokyo 2020,Athletics,Men's 20km Race Walk
+34,ECU,jordy rafael jimenez arrobo,1:27:52,Tokyo 2020,Athletics,Men's 20km Race Walk
+35,AUS,kyle swan,1:27:55,Tokyo 2020,Athletics,Men's 20km Race Walk
+36,KOR,byeongkwang choe,1:28:12,Tokyo 2020,Athletics,Men's 20km Race Walk
+37,MEX,noel ali chama almazan,1:28:23,Tokyo 2020,Athletics,Men's 20km Race Walk
+38,KAZ,georgiy sheiko,1:28:38,Tokyo 2020,Athletics,Men's 20km Race Walk
+39,GUA,jose ortiz,1:28:57,Tokyo 2020,Athletics,Men's 20km Race Walk
+40,SVK,miroslav uradnik,1:29:25,Tokyo 2020,Athletics,Men's 20km Race Walk
+41,MEX,jesus vega,1:30:37,Tokyo 2020,Athletics,Men's 20km Race Walk
+42,PER,luis henry campos,1:30:58,Tokyo 2020,Athletics,Men's 20km Race Walk
+43,ITA,federico tontodonati,1:31:19,Tokyo 2020,Athletics,Men's 20km Race Walk
+44,BLR,aliaksandr liakhovich,1:31:28,Tokyo 2020,Athletics,Men's 20km Race Walk
+45,BRA,matheus correa,1:31:47,Tokyo 2020,Athletics,Men's 20km Race Walk
+46,IND,. rahul,1:32:06,Tokyo 2020,Athletics,Men's 20km Race Walk
+47,TUR,abdulselam imuk,1:32:27,Tokyo 2020,Athletics,Men's 20km Race Walk
+48,UKR,ivan losev,1:33:26,Tokyo 2020,Athletics,Men's 20km Race Walk
+49,USA,nick christie,1:34:37,Tokyo 2020,Athletics,Men's 20km Race Walk
+50,IND,irfan kolothum thodi,1:34:41,Tokyo 2020,Athletics,Men's 20km Race Walk
+51,UKR,eduard zabuzhenko,1:39:38,Tokyo 2020,Athletics,Men's 20km Race Walk
+52,BRA,lucas mazzo,Did not finish,Tokyo 2020,Athletics,Men's 20km Race Walk
+53,POL,lukasz niedzialek,Did not finish,Tokyo 2020,Athletics,Men's 20km Race Walk
+54,TUR,salih korkmaz,Did not finish,Tokyo 2020,Athletics,Men's 20km Race Walk
+55,GUA,jose alejandro barrondo,Disqualified,Tokyo 2020,Athletics,Men's 20km Race Walk
+56,ROC,vasiliy mizinov,Disqualified,Tokyo 2020,Athletics,Men's 20km Race Walk
+0,MAR,soufiane elbakkali,8:08.90,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+1,ETH,lamecha girma,8:10.38,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+2,KEN,benjamin kigen,8:11.45,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+3,ETH,getnet wale,8:14.97,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+4,ERI,yemane haileselassie,8:15.34,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+5,CAN,matthew hughes,8:16.03,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+6,JPN,ryuji miura,8:16.90,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+7,FIN,topi raitanen,8:17.44,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+8,ITA,ala zoghlami,8:18.50,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+9,KEN,abraham kibiwot,8:19.41,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+10,USA,benard keter,8:22.12,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+11,FRA,alexis phelut,8:23.14,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+12,MAR,mohamed tindouft,8:23.56,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+13,ITA,ahmed abdelwahed,8:24.34,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+14,CAN,john gay,8:35.41,Tokyo 2020,Athletics,Men's 3000m Steeplechase
+0,,,37.50,Tokyo 2020,Athletics,Men's 4 x 100m Relay
+1,,,37.70,Tokyo 2020,Athletics,Men's 4 x 100m Relay
+2,,,37.79,Tokyo 2020,Athletics,Men's 4 x 100m Relay
+3,,,37.84,Tokyo 2020,Athletics,Men's 4 x 100m Relay
+4,,,38.12,Tokyo 2020,Athletics,Men's 4 x 100m Relay
+5,,,DNF,Tokyo 2020,Athletics,Men's 4 x 100m Relay
+6,,,DQ,Tokyo 2020,Athletics,Men's 4 x 100m Relay
+7,,,Disqualified,Tokyo 2020,Athletics,Men's 4 x 100m Relay
+0,,,2:55.70,Tokyo 2020,Athletics,Men's 4 x 400m Relay
+1,,,2:57.18,Tokyo 2020,Athletics,Men's 4 x 400m Relay
+2,,,2:57.27,Tokyo 2020,Athletics,Men's 4 x 400m Relay
+3,,,2:57.88,Tokyo 2020,Athletics,Men's 4 x 400m Relay
+4,,,2:58.46,Tokyo 2020,Athletics,Men's 4 x 400m Relay
+5,,,2:58.76,Tokyo 2020,Athletics,Men's 4 x 400m Relay
+6,,,2:58.81,Tokyo 2020,Athletics,Men's 4 x 400m Relay
+7,,,3:00.85,Tokyo 2020,Athletics,Men's 4 x 400m Relay
+0,BAH,steven gardiner,43.85,Tokyo 2020,Athletics,Men's 400m
+1,COL,anthony zambrano,44.08,Tokyo 2020,Athletics,Men's 400m
+2,GRN,kirani james,44.19,Tokyo 2020,Athletics,Men's 400m
+3,USA,michael cherry,44.21,Tokyo 2020,Athletics,Men's 400m
+4,USA,michael norman,44.31,Tokyo 2020,Athletics,Men's 400m
+5,JAM,christopher taylor,44.79,Tokyo 2020,Athletics,Men's 400m
+6,BOT,isaac makwala,44.94,Tokyo 2020,Athletics,Men's 400m
+7,NED,liemarvin bonevacia,45.07,Tokyo 2020,Athletics,Men's 400m
 0,NOR,karsten warholm,45.94,Tokyo 2020,Athletics,Men's 400m Hurdles
 1,USA,rai benjamin,46.17,Tokyo 2020,Athletics,Men's 400m Hurdles
 2,BRA,alison dos santos,46.72,Tokyo 2020,Athletics,Men's 400m Hurdles

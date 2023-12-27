@@ -1,4 +1,226 @@
 ,country,participant,result,olympic_game,discipline,event
+0,GBR,mohamed farah,00:27:30.420,London 2012,Athletics,10000m men
+1,USA,galen rupp,00:27:30.900,London 2012,Athletics,10000m men
+2,ETH,tariku bekele,00:27:31.430,London 2012,Athletics,10000m men
+3,ETH,kenenisa bekele,00:27:32.440,London 2012,Athletics,10000m men
+4,KEN,bedan karoki muchiri,00:27:32.940,London 2012,Athletics,10000m men
+5,ERI,zersenay tadesse,00:27:33.510,London 2012,Athletics,10000m men
+6,ERI,teklemariam medhin,00:27:34.760,London 2012,Athletics,10000m men
+7,ETH,gebre egziabher gebremariam,00:27:36.340,London 2012,Athletics,10000m men
+8,TUR,polat kemboi arikan,00:27:38.810,London 2012,Athletics,10000m men
+9,UGA,moses kipsiro,00:27:39.220,London 2012,Athletics,10000m men
+10,CAN,cameron levins,00:27:40.680,London 2012,Athletics,10000m men
+11,KEN,moses ndiema masai,00:27:41.340,London 2012,Athletics,10000m men
+12,USA,dathan ritzenhein,00:27:45.890,London 2012,Athletics,10000m men
+13,RWA,robert kajuga,00:27:56.670,London 2012,Athletics,10000m men
+14,ERI,nguse amlosom,00:27:56.780,London 2012,Athletics,10000m men
+15,UGA,thomas ayeko,00:27:58.960,London 2012,Athletics,10000m men
+16,KSA,moukheld al-outaibi,00:28:07.250,London 2012,Athletics,10000m men
+17,CAN,mohammed ahmed,00:28:13.910,London 2012,Athletics,10000m men
+18,USA,matthew tegenkamp,00:28:18.260,London 2012,Athletics,10000m men
+19,AUS,ben st lawrence,00:28:32.670,London 2012,Athletics,10000m men
+20,MEX,diego estrada,00:28:36.190,London 2012,Athletics,10000m men
+21,JPN,yuki sato,00:28:44.060,London 2012,Athletics,10000m men
+22,ESP,ayad lamdassem,00:28:49.850,London 2012,Athletics,10000m men
+23,ITA,daniele meucci,00:28:57.460,London 2012,Athletics,10000m men
+24,GBR,christopher thompson,00:29:06.140,London 2012,Athletics,10000m men
+25,UKR,mykola labovskyy,00:29:32.120,London 2012,Athletics,10000m men
+26,KEN,wilson kiprop,Did not finish,London 2012,Athletics,10000m men
+27,BRN,ali hasan mahbood,Did not finish,London 2012,Athletics,10000m men
+28,ECU,bayron piedra,Did not finish,London 2012,Athletics,10000m men
+0,ETH,tirunesh dibaba,00:30:20.750,London 2012,Athletics,10000m women
+1,KEN,sally jepkosgei kipyego,00:30:26.370,London 2012,Athletics,10000m women
+2,KEN,vivian jepkemoi cheruiyot,00:30:30.440,London 2012,Athletics,10000m women
+3,ETH,werknesh kidane,00:30:39.380,London 2012,Athletics,10000m women
+4,ETH,beleynesh oljira,00:30:45.560,London 2012,Athletics,10000m women
+5,BRN,shitaye eshete,00:30:47.250,London 2012,Athletics,10000m women
+6,GBR,joanne pavey,00:30:53.200,London 2012,Athletics,10000m women
+7,GBR,julia bleasdale,00:30:55.630,London 2012,Athletics,10000m women
+8,JPN,hitomi niiya,00:30:59.190,London 2012,Athletics,10000m women
+9,JPN,kayoko fukushi,00:31:10.350,London 2012,Athletics,10000m women
+10,USA,amy cragg,00:31:10.690,London 2012,Athletics,10000m women
+11,USA,janet cherobon-bawcom,00:31:12.680,London 2012,Athletics,10000m women
+12,USA,lisa uhl,00:31:12.800,London 2012,Athletics,10000m women
+13,POR,sara moreira,00:31:16.440,London 2012,Athletics,10000m women
+14,IRL,fionnuala mccormack,00:31:46.710,London 2012,Athletics,10000m women
+15,JPN,mika yoshikawa,00:31:47.670,London 2012,Athletics,10000m women
+16,GER,sabrina mockenhaupt,00:31:50.350,London 2012,Athletics,10000m women
+17,ITA,nadia ejjafini,00:31:57.030,London 2012,Athletics,10000m women
+18,UKR,olha skrypak,00:32:14.590,London 2012,Athletics,10000m women
+19,AUS,eloise wellings,00:32:25.430,London 2012,Athletics,10000m women
+20,KEN,joyce chepkirui,Did not finish,London 2012,Athletics,10000m women
+21,RUS,elizaveta grechishnikova,Disqualified,London 2012,Athletics,10000m women
+0,AUS,sally pearson,12.350,London 2012,Athletics,100m hurdles women
+1,USA,dawn harper,12.370,London 2012,Athletics,100m hurdles women
+2,USA,kellie wells,12.480,London 2012,Athletics,100m hurdles women
+3,USA,lolo jones,12.580,London 2012,Athletics,100m hurdles women
+4,CAN,phylicia george,12.650,London 2012,Athletics,100m hurdles women
+5,CAN,jessica zelinka,12.690,London 2012,Athletics,100m hurdles women
+6,AUT,beate schrott,13.070,London 2012,Athletics,100m hurdles women
+7,FRA,reina-flor okori,,London 2012,Athletics,100m hurdles women
+8,ITA,marzia caravelli,,London 2012,Athletics,100m hurdles women
+9,MLI,rahamatou drame,Disqualified,London 2012,Athletics,100m hurdles women
+10,BLR,ekaterina poplavskaya,Disqualified,London 2012,Athletics,100m hurdles women
+11,TUR,nevin yanit,Disqualified,London 2012,Athletics,100m hurdles women
+12,RUS,ekaterina galitskaya,Disqualified,London 2012,Athletics,100m hurdles women
+13,RUS,yuliya kondakova,Disqualified,London 2012,Athletics,100m hurdles women
+14,KAZ,natalya ivoninskaya,Disqualified,London 2012,Athletics,100m hurdles women
+15,GBR,jessica ennis,Did not start,London 2012,Athletics,100m hurdles women
+16,JAM,latoya greaves,Did not start,London 2012,Athletics,100m hurdles women
+0,JAM,usain bolt,09.630,London 2012,Athletics,100m men
+1,JAM,yohan blake,09.750,London 2012,Athletics,100m men
+2,USA,justin gatlin,09.790,London 2012,Athletics,100m men
+3,USA,ryan bailey,09.880,London 2012,Athletics,100m men
+4,NED,churandy martina,09.940,London 2012,Athletics,100m men
+5,TTO,richard thompson,09.980,London 2012,Athletics,100m men
+6,JAM,asafa powell,11.990,London 2012,Athletics,100m men
+7,CMR,idrissa adam,Did not finish,London 2012,Athletics,100m men
+8,USA,tyson gay,Disqualified,London 2012,Athletics,100m men
+9,SKN,kim collins,Did not start,London 2012,Athletics,100m men
+0,JAM,shelly-ann fraser-pryce,10.750,London 2012,Athletics,100m women
+1,USA,carmelita jeter,10.780,London 2012,Athletics,100m women
+2,JAM,veronica campbell-brown,10.810,London 2012,Athletics,100m women
+3,USA,tianna bartoletta,10.850,London 2012,Athletics,100m women
+4,USA,allyson felix,10.890,London 2012,Athletics,100m women
+5,TTO,kelly-ann baptiste,10.940,London 2012,Athletics,100m women
+6,CIV,murielle ahoure,11.000,London 2012,Athletics,100m women
+7,NGR,blessing okagbare,11.010,London 2012,Athletics,100m women
+8,QAT,noor hussain al-malki,,London 2012,Athletics,100m women
+9,TTO,semoy hackett,Disqualified,London 2012,Athletics,100m women
+0,USA,aries merritt,12.920,London 2012,Athletics,110m hurdles men
+1,USA,jason richardson,13.040,London 2012,Athletics,110m hurdles men
+2,JAM,hansle parchment,13.120,London 2012,Athletics,110m hurdles men
+3,GBR,lawrence clarke,13.390,London 2012,Athletics,110m hurdles men
+4,BAR,ryan brathwaite,13.400,London 2012,Athletics,110m hurdles men
+5,CUB,orlando ortega,13.430,London 2012,Athletics,110m hurdles men
+6,RSA,lehann fourie,13.530,London 2012,Athletics,110m hurdles men
+7,CUB,dayron robles,Disqualified,London 2012,Athletics,110m hurdles men
+8,NED,gregory sedoc,,London 2012,Athletics,110m hurdles men
+9,JAM,richard phillips,,London 2012,Athletics,110m hurdles men
+10,PUR,enrique llanos,Did not finish,London 2012,Athletics,110m hurdles men
+11,GBR,andrew pozzi,Did not finish,London 2012,Athletics,110m hurdles men
+12,MAD,kame ali,Disqualified,London 2012,Athletics,110m hurdles men
+13,BAH,shamar sands,Disqualified,London 2012,Athletics,110m hurdles men
+14,BAR,shane brathwaite,Did not finish,London 2012,Athletics,110m hurdles men
+15,CHN,xiang liu,Did not finish,London 2012,Athletics,110m hurdles men
+16,POL,artur noga,Did not finish,London 2012,Athletics,110m hurdles men
+17,SEN,moussa dembele,Disqualified,London 2012,Athletics,110m hurdles men
+0,ALG,taoufik makhloufi,00:03:34.080,London 2012,Athletics,1500m men
+1,USA,leonel manzano,00:03:34.790,London 2012,Athletics,1500m men
+2,MAR,abdalaati iguider,00:03:35.130,London 2012,Athletics,1500m men
+3,USA,matthew centrowitz,00:03:35.170,London 2012,Athletics,1500m men
+4,NOR,henrik ingebrigtsen,00:03:35.430,London 2012,Athletics,1500m men
+5,ETH,mekonnen gebremedhin,00:03:35.440,London 2012,Athletics,1500m men
+6,KEN,silas kiplagat,00:03:36.190,London 2012,Athletics,1500m men
+7,TUR,ilham tanui ozbilen,00:03:36.720,London 2012,Athletics,1500m men
+8,NZL,nick willis,00:03:36.940,London 2012,Athletics,1500m men
+9,BRN,belal mansoor ali,00:03:37.980,London 2012,Athletics,1500m men
+10,KEN,nixon kiplimo chepseba,00:03:39.040,London 2012,Athletics,1500m men
+11,KEN,asbel kiprop,00:03:43.830,London 2012,Athletics,1500m men
+12,QAT,hamza driouch,Disqualified,London 2012,Athletics,1500m men
+13,KSA,mohammed shaween,Disqualified,London 2012,Athletics,1500m men
+14,MAR,amine laalou,Disqualified,London 2012,Athletics,1500m men
+0,BRN,maryam yusuf jamal,00:04:10.740,London 2012,Athletics,1500m women
+1,RUS,tatyana tomashova,00:04:10.900,London 2012,Athletics,1500m women
+2,ETH,abeba aregawi,00:04:11.030,London 2012,Athletics,1500m women
+3,USA,shannon rowbury,00:04:11.260,London 2012,Athletics,1500m women
+4,SVK,lucia hrivnak klocova,00:04:12.640,London 2012,Athletics,1500m women
+5,GBR,lisa dobriskey,00:04:13.020,London 2012,Athletics,1500m women
+6,GBR,laura weightman,00:04:15.600,London 2012,Athletics,1500m women
+7,KEN,hellen onsando obiri,00:04:16.570,London 2012,Athletics,1500m women
+8,USA,morgan uceny,Did not finish,London 2012,Athletics,1500m women
+9,MAR,btissam lakhouad,Did not finish,London 2012,Athletics,1500m women
+10,TUR,gamze bulut,Disqualified,London 2012,Athletics,1500m women
+11,UKR,anzhelika shevchenko,Disqualified,London 2012,Athletics,1500m women
+12,RUS,ekaterina kostetskaya,Disqualified,London 2012,Athletics,1500m women
+13,BLR,natallia kareyva,Disqualified,London 2012,Athletics,1500m women
+14,TUR,aslı çakır,Disqualified,London 2012,Athletics,1500m women
+15,UKR,anna mishchenko,Disqualified,London 2012,Athletics,1500m women
+16,RUS,ekaterina martynova,Disqualified,London 2012,Athletics,1500m women
+17,NOR,ingvill bovim,Did not start,London 2012,Athletics,1500m women
+0,JAM,usain bolt,19.320,London 2012,Athletics,200m men
+1,JAM,yohan blake,19.440,London 2012,Athletics,200m men
+2,JAM,warren weir,19.840,London 2012,Athletics,200m men
+3,USA,wallace spearmon,19.900,London 2012,Athletics,200m men
+4,NED,churandy martina,20.000,London 2012,Athletics,200m men
+5,FRA,christophe lemaitre,20.190,London 2012,Athletics,200m men
+6,ECU,alex quinonez,20.570,London 2012,Athletics,200m men
+7,RSA,anaso jobodwana,20.690,London 2012,Athletics,200m men
+8,SKN,antoine adams,,London 2012,Athletics,200m men
+9,BAH,michael mathieu,,London 2012,Athletics,200m men
+10,PAN,alonso edward,Disqualified,London 2012,Athletics,200m men
+11,CIV,ben youssef meite,Did not start,London 2012,Athletics,200m men
+0,USA,allyson felix,21.880,London 2012,Athletics,200m women
+1,JAM,shelly-ann fraser-pryce,22.090,London 2012,Athletics,200m women
+2,USA,carmelita jeter,22.140,London 2012,Athletics,200m women
+3,JAM,veronica campbell-brown,22.380,London 2012,Athletics,200m women
+4,USA,sanya richards-ross,22.390,London 2012,Athletics,200m women
+5,CIV,murielle ahoure,22.570,London 2012,Athletics,200m women
+6,FRA,myriam soumare,22.630,London 2012,Athletics,200m women
+7,TTO,semoy hackett,Disqualified,London 2012,Athletics,200m women
+8,HAI,marlena wesh,Did not start,London 2012,Athletics,200m women
+9,CAY,cydonie mothersille,Did not start,London 2012,Athletics,200m women
+0,CHN,shijie qieyang,01:25:16.000,London 2012,Athletics,20km race walk women
+1,CHN,hong liu,01:26:00.000,London 2012,Athletics,20km race walk women
+2,CHN,xiuzhi lu,01:27:10.000,London 2012,Athletics,20km race walk women
+3,ITA,elisa rigaudo,01:27:36.000,London 2012,Athletics,20km race walk women
+4,ESP,beatriz pascual,01:27:56.000,London 2012,Athletics,20km race walk women
+5,POR,ana cabecinha,01:28:03.000,London 2012,Athletics,20km race walk women
+6,ESP,maria vasco,01:28:14.000,London 2012,Athletics,20km race walk women
+7,JPN,masumi fuchise,01:28:41.000,London 2012,Athletics,20km race walk women
+8,ESP,maria jose poves,01:29:36.000,London 2012,Athletics,20km race walk women
+9,IRL,olive loughnane,01:29:39.000,London 2012,Athletics,20km race walk women
+10,ITA,eleonora giorgi,01:29:48.000,London 2012,Athletics,20km race walk women
+11,POR,ines henriques,01:29:54.000,London 2012,Athletics,20km race walk women
+12,UKR,nadiya borovska,01:30:03.000,London 2012,Athletics,20km race walk women
+13,AUS,regan lamble,01:30:08.000,London 2012,Athletics,20km race walk women
+14,JPN,mayumi kawasaki,01:30:20.000,London 2012,Athletics,20km race walk women
+15,GER,melanie seeger,01:30:44.000,London 2012,Athletics,20km race walk women
+16,IRL,laura reynolds,01:31:02.000,London 2012,Athletics,20km race walk women
+17,LTU,kristina saltanovic,01:31:04.000,London 2012,Athletics,20km race walk women
+18,POL,agnieszka szwarnog,01:31:14.000,London 2012,Athletics,20km race walk women
+19,POL,agnieszka dygacz,01:31:28.000,London 2012,Athletics,20km race walk women
+20,LAT,agnese pastare,01:31:54.000,London 2012,Athletics,20km race walk women
+21,BLR,hanna drabenia-terlyukevich,01:31:58.000,London 2012,Athletics,20km race walk women
+22,LTU,brigita virbalyte-dimsiene,01:31:58.000,London 2012,Athletics,20km race walk women
+23,UKR,olha iakovenko,01:32:07.000,London 2012,Athletics,20km race walk women
+24,AUS,beki lee,01:32:14.000,London 2012,Athletics,20km race walk women
+25,USA,maria michta-coffey,01:32:27.000,London 2012,Athletics,20km race walk women
+26,MEX,monica equihua,01:32:28.000,London 2012,Athletics,20km race walk women
+27,GUA,jamy franco,01:33:18.000,London 2012,Athletics,20km race walk women
+28,COL,sandra arenas,01:33:21.000,London 2012,Athletics,20km race walk women
+29,BOL,claudia balderrama,01:33:28.000,London 2012,Athletics,20km race walk women
+30,COL,ingrid hernandez,01:33:34.000,London 2012,Athletics,20km race walk women
+31,CZE,lucie pelantova,01:33:35.000,London 2012,Athletics,20km race walk women
+32,VIE,nguyen thi thanh phuc,01:33:36.000,London 2012,Athletics,20km race walk women
+33,JPN,kumi otoshi,01:33:50.000,London 2012,Athletics,20km race walk women
+34,ROU,claudia stef,01:33:56.000,London 2012,Athletics,20km race walk women
+35,LTU,neringa aidietyte,01:34:01.000,London 2012,Athletics,20km race walk women
+36,ECU,yadira guaman,01:34:47.000,London 2012,Athletics,20km race walk women
+37,HUN,viktoria madarasz,01:34:48.000,London 2012,Athletics,20km race walk women
+38,KAZ,ayman kozhakhmetova,01:35:00.000,London 2012,Athletics,20km race walk women
+39,COL,arabelly orjuela,01:35:05.000,London 2012,Athletics,20km race walk women
+40,GRE,despoina zapounidou,01:35:19.000,London 2012,Athletics,20km race walk women
+41,POL,paulina buziak,01:35:23.000,London 2012,Athletics,20km race walk women
+42,GUA,mayra carolina herrera,01:35:33.000,London 2012,Athletics,20km race walk women
+43,BLR,nastassia yatsevich,01:35:41.000,London 2012,Athletics,20km race walk women
+44,POR,vera santos,01:35:51.000,London 2012,Athletics,20km race walk women
+45,ECU,paola perez,01:37:05.000,London 2012,Athletics,20km race walk women
+46,CAN,rachel seaman,01:37:36.000,London 2012,Athletics,20km race walk women
+47,SVK,maria czakova,01:37:43.000,London 2012,Athletics,20km race walk women
+48,FIN,anne halkivaha,01:38:49.000,London 2012,Athletics,20km race walk women
+49,VEN,milangela rosales,01:42:46.000,London 2012,Athletics,20km race walk women
+50,GER,sabine krantz,Did not finish,London 2012,Athletics,20km race walk women
+51,KAZ,sholpan kozhakhmetova,Did not finish,London 2012,Athletics,20km race walk women
+52,GBR,johanna jackson,Disqualified,London 2012,Athletics,20km race walk women
+53,KOR,yeongeun jeon,Disqualified,London 2012,Athletics,20km race walk women
+54,GUA,mirna ortiz,Disqualified,London 2012,Athletics,20km race walk women
+55,AUS,claire tallent,Disqualified,London 2012,Athletics,20km race walk women
+56,RUS,olga kaniskina,Disqualified,London 2012,Athletics,20km race walk women
+57,TUR,semiha mutlu,Disqualified,London 2012,Athletics,20km race walk women
+58,UKR,olena shumkina,Disqualified,London 2012,Athletics,20km race walk women
+59,RUS,anisya kirdyapkina,Disqualified,London 2012,Athletics,20km race walk women
+60,RUS,elena lashmanova,01:25:02.000,London 2012,Athletics,20km race walk women
 0,CHN,ding chen,01:18:46.000,London 2012,Athletics,20km walk men
 1,GUA,erick barrondo,01:18:57.000,London 2012,Athletics,20km walk men
 2,CHN,zhen wang,01:19:25.000,London 2012,Athletics,20km walk men

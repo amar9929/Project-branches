@@ -1,4 +1,523 @@
 ,country,participant,result,olympic_game,discipline,event
+0,USA,aaron peirsol,,Athens 2004,Swimming,100m backstroke men
+1,AUT,markus rogan,,Athens 2004,Swimming,100m backstroke men
+2,JPN,tomomi morita,,Athens 2004,Swimming,100m backstroke men
+3,USA,lenny krayzelburg,,Athens 2004,Swimming,100m backstroke men
+4,AUS,matthew welsh,,Athens 2004,Swimming,100m backstroke men
+5,HUN,laszlo cseh,,Athens 2004,Swimming,100m backstroke men
+6,GER,steffen driesen,,Athens 2004,Swimming,100m backstroke men
+7,GER,marco di carli,,Athens 2004,Swimming,100m backstroke men
+8,RUS,arkady vyatchanin,,Athens 2004,Swimming,100m backstroke men
+9,ROU,razvan ionut florea,,Athens 2004,Swimming,100m backstroke men
+10,CHN,kunpeng ouyang,,Athens 2004,Swimming,100m backstroke men
+11,GBR,gregor tait,,Athens 2004,Swimming,100m backstroke men
+12,RSA,gerhard zandberg,,Athens 2004,Swimming,100m backstroke men
+13,CRO,gordan kozulj,,Athens 2004,Swimming,100m backstroke men
+14,MAS,alex lim,,Athens 2004,Swimming,100m backstroke men
+15,FRA,simon dufour,,Athens 2004,Swimming,100m backstroke men
+16,GRE,aristeidis grigoriadis,,Athens 2004,Swimming,100m backstroke men
+17,AUS,josh watson,,Athens 2004,Swimming,100m backstroke men
+18,RUS,yevgeny alyoshin,,Athens 2004,Swimming,100m backstroke men
+19,PNG,ryan pini,,Athens 2004,Swimming,100m backstroke men
+20,FRA,pierre roger,,Athens 2004,Swimming,100m backstroke men
+21,NZL,cameron gibson,,Athens 2004,Swimming,100m backstroke men
+22,POL,adam mania,,Athens 2004,Swimming,100m backstroke men
+23,LTU,darius grigalionis,,Athens 2004,Swimming,100m backstroke men
+24,BAR,nicholas neckles,,Athens 2004,Swimming,100m backstroke men
+25,TUR,derya buyukuncu,,Athens 2004,Swimming,100m backstroke men
+26,SVK,lubos krizko,,Athens 2004,Swimming,100m backstroke men
+27,CAN,matt rose,,Athens 2004,Swimming,100m backstroke men
+28,UKR,volodymyr nikolaychuk,,Athens 2004,Swimming,100m backstroke men
+29,KOR,min sung,,Athens 2004,Swimming,100m backstroke men
+30,EGY,ahmed hussein,,Athens 2004,Swimming,100m backstroke men
+31,BRA,paulo machado,,Athens 2004,Swimming,100m backstroke men
+32,ARG,eduardo german otero,,Athens 2004,Swimming,100m backstroke men
+33,HUN,peter horvath,,Athens 2004,Swimming,100m backstroke men
+34,ESP,aschwin wildeboer faber,,Athens 2004,Swimming,100m backstroke men
+35,FIN,matti maki,,Athens 2004,Swimming,100m backstroke men
+36,ISV,george gleason,,Athens 2004,Swimming,100m backstroke men
+37,BAH,christopher vythoulkas,,Athens 2004,Swimming,100m backstroke men
+38,ZIM,brendan ashby,,Athens 2004,Swimming,100m backstroke men
+39,SCG,igor beretic,,Athens 2004,Swimming,100m backstroke men
+40,KAZ,stanislav ossinskiy,,Athens 2004,Swimming,100m backstroke men
+41,MDA,alexandru ivlev,,Athens 2004,Swimming,100m backstroke men
+42,UZB,danil bugakov,,Athens 2004,Swimming,100m backstroke men
+43,JOR,omar abu-fares,,Athens 2004,Swimming,100m backstroke men
+44,VIN,donnie defreitas,Did not start,Athens 2004,Swimming,100m backstroke men
+0,USA,natalie coughlin,,Athens 2004,Swimming,100m backstroke women
+1,ZIM,kirsty leigh coventry,,Athens 2004,Swimming,100m backstroke women
+2,FRA,laure manaudou,,Athens 2004,Swimming,100m backstroke women
+3,JPN,reiko nakamura,,Athens 2004,Swimming,100m backstroke women
+4,ESP,nina alexandrovna zhivanevskaya,,Athens 2004,Swimming,100m backstroke women
+5,GER,antje buschschulte,,Athens 2004,Swimming,100m backstroke women
+6,DEN,louise ornstedt,,Athens 2004,Swimming,100m backstroke women
+7,USA,haley cope,,Athens 2004,Swimming,100m backstroke women
+8,AUS,giaan rooney,,Athens 2004,Swimming,100m backstroke women
+9,RUS,stanislava komarova,,Athens 2004,Swimming,100m backstroke women
+10,JPN,noriko inada,,Athens 2004,Swimming,100m backstroke women
+11,CZE,ilona hlavackova,,Athens 2004,Swimming,100m backstroke women
+12,GBR,katy sexton,,Athens 2004,Swimming,100m backstroke women
+13,CHN,shu zhan,,Athens 2004,Swimming,100m backstroke women
+14,CHN,chang gao,,Athens 2004,Swimming,100m backstroke women
+15,GBR,sarah price,,Athens 2004,Swimming,100m backstroke women
+16,CRO,sanja jovanovic,,Athens 2004,Swimming,100m backstroke women
+17,CAN,erin gammel,,Athens 2004,Swimming,100m backstroke women
+18,UKR,iryna amshennikova,,Athens 2004,Swimming,100m backstroke women
+19,AUS,marieke guehrer,,Athens 2004,Swimming,100m backstroke women
+20,HUN,nikolett szepesi,,Athens 2004,Swimming,100m backstroke women
+21,NZL,hannah mclean,,Athens 2004,Swimming,100m backstroke women
+22,GER,janine pietsch,,Athens 2004,Swimming,100m backstroke women
+23,KOR,min-ji shim,,Athens 2004,Swimming,100m backstroke women
+24,BLR,svetlana khokhlova,,Athens 2004,Swimming,100m backstroke women
+25,ITA,alessandra cappa,,Athens 2004,Swimming,100m backstroke women
+26,GUA,gisela morales,,Athens 2004,Swimming,100m backstroke women
+27,ISR,anna gostomelsky,,Athens 2004,Swimming,100m backstroke women
+28,FRA,alexandra putra,,Athens 2004,Swimming,100m backstroke women
+29,HKG,hiu wai sherry tsai,,Athens 2004,Swimming,100m backstroke women
+30,BER,kiera aitken,,Athens 2004,Swimming,100m backstroke women
+31,THA,chonlathorn vorathamrong,,Athens 2004,Swimming,100m backstroke women
+32,GRE,eirini karastergiou,,Athens 2004,Swimming,100m backstroke women
+33,TUR,sadan derya erke,,Athens 2004,Swimming,100m backstroke women
+34,URU,serrana fernandez,,Athens 2004,Swimming,100m backstroke women
+35,FIN,hanna-maria seppala,,Athens 2004,Swimming,100m backstroke women
+36,TPE,hsiao han fu,,Athens 2004,Swimming,100m backstroke women
+37,KAZ,anastassiya prilepa,,Athens 2004,Swimming,100m backstroke women
+38,NGR,lenient obia,,Athens 2004,Swimming,100m backstroke women
+39,HON,ana galindo,,Athens 2004,Swimming,100m backstroke women
+40,UZB,olga gnedovskaya,,Athens 2004,Swimming,100m backstroke women
+41,TKM,yelena rojkova,,Athens 2004,Swimming,100m backstroke women
+0,JPN,kosuke kitajima,,Athens 2004,Swimming,100m breaststroke men
+1,USA,brendan hansen,,Athens 2004,Swimming,100m breaststroke men
+2,FRA,hugues duboscq,,Athens 2004,Swimming,100m breaststroke men
+3,USA,mark gangloff,,Athens 2004,Swimming,100m breaststroke men
+4,KAZ,vladislav polyakov,,Athens 2004,Swimming,100m breaststroke men
+5,GBR,james gibson,,Athens 2004,Swimming,100m breaststroke men
+6,GBR,darren mew,,Athens 2004,Swimming,100m breaststroke men
+7,UKR,oleh lisohor,,Athens 2004,Swimming,100m breaststroke men
+8,RUS,roman sloudnov,,Athens 2004,Swimming,100m breaststroke men
+9,GER,jens kruppa,,Athens 2004,Swimming,100m breaststroke men
+10,GER,rene kolonko,,Athens 2004,Swimming,100m breaststroke men
+11,RUS,dmitry komornikov,,Athens 2004,Swimming,100m breaststroke men
+12,FIN,jarno pihlava,,Athens 2004,Swimming,100m breaststroke men
+13,HUN,richard bodor,,Athens 2004,Swimming,100m breaststroke men
+14,BRA,eduardo fischer,,Athens 2004,Swimming,100m breaststroke men
+15,NED,thijs van valkengoed,,Athens 2004,Swimming,100m breaststroke men
+16,SLO,emil tahirovic,,Athens 2004,Swimming,100m breaststroke men
+17,CAN,morgan knabe,,Athens 2004,Swimming,100m breaststroke men
+18,CAN,scott dickens,,Athens 2004,Swimming,100m breaststroke men
+19,AUS,jim piper,,Athens 2004,Swimming,100m breaststroke men
+20,NOR,alexander dale oen,,Athens 2004,Swimming,100m breaststroke men
+21,SWE,martin gustavsson,,Athens 2004,Swimming,100m breaststroke men
+22,ISL,jakob johann sveinsson,,Athens 2004,Swimming,100m breaststroke men
+23,RSA,terence parkin,,Athens 2004,Swimming,100m breaststroke men
+24,AUT,maxim podoprigora,,Athens 2004,Swimming,100m breaststroke men
+25,CRO,vanja rogulj,,Athens 2004,Swimming,100m breaststroke men
+26,LUX,alwin de prins,,Athens 2004,Swimming,100m breaststroke men
+27,CZE,daniel malek,,Athens 2004,Swimming,100m breaststroke men
+28,SCG,mladen tepavcevic,,Athens 2004,Swimming,100m breaststroke men
+29,CHN,haibo wang,,Athens 2004,Swimming,100m breaststroke men
+30,KOR,seung-hyeon yu,,Athens 2004,Swimming,100m breaststroke men
+31,ALG,sofiane daid,,Athens 2004,Swimming,100m breaststroke men
+32,POR,jose couto,,Athens 2004,Swimming,100m breaststroke men
+33,SUI,remo luetolf,,Athens 2004,Swimming,100m breaststroke men
+34,TPE,cho yi chen,,Athens 2004,Swimming,100m breaststroke men
+35,NZL,ben labowitch,,Athens 2004,Swimming,100m breaststroke men
+36,PUR,arsenio lopez,,Athens 2004,Swimming,100m breaststroke men
+37,LTU,aurimas valaitis,,Athens 2004,Swimming,100m breaststroke men
+38,GRE,christos papadopoulos,,Athens 2004,Swimming,100m breaststroke men
+39,SEN,malick fall,,Athens 2004,Swimming,100m breaststroke men
+40,BAR,bradley ally,,Athens 2004,Swimming,100m breaststroke men
+41,SWZ,wickus nienaber,,Athens 2004,Swimming,100m breaststroke men
+42,ARG,cristian mauro soldano,,Athens 2004,Swimming,100m breaststroke men
+43,HKG,chi kin tam,,Athens 2004,Swimming,100m breaststroke men
+44,GUA,alvaro fortuny lopez,,Athens 2004,Swimming,100m breaststroke men
+45,CYP,kyriakos dimosthenous,,Athens 2004,Swimming,100m breaststroke men
+46,MDA,andrei capitanciuc,,Athens 2004,Swimming,100m breaststroke men
+47,KSA,ahmad al-kudmani,,Athens 2004,Swimming,100m breaststroke men
+48,EST,aleksander baldin,,Athens 2004,Swimming,100m breaststroke men
+49,PHI,raphael matthew chua,,Athens 2004,Swimming,100m breaststroke men
+50,LAT,pavels murans,,Athens 2004,Swimming,100m breaststroke men
+51,VIE,huu viet nguyen,,Athens 2004,Swimming,100m breaststroke men
+52,NGR,eric williams,,Athens 2004,Swimming,100m breaststroke men
+53,MAD,jean luc razakarivony,,Athens 2004,Swimming,100m breaststroke men
+54,KGZ,evgeny petrashov,,Athens 2004,Swimming,100m breaststroke men
+55,UZB,oleg sidorov,,Athens 2004,Swimming,100m breaststroke men
+56,ZAM,chisela kanchela,,Athens 2004,Swimming,100m breaststroke men
+57,KEN,amar shah,,Athens 2004,Swimming,100m breaststroke men
+58,NEP,alice shrestha,,Athens 2004,Swimming,100m breaststroke men
+59,THA,ratapong sirisanont,Disqualified,Athens 2004,Swimming,100m breaststroke men
+0,CHN,xuejuan luo,,Athens 2004,Swimming,100m breaststroke women
+1,AUS,brooke hanson,,Athens 2004,Swimming,100m breaststroke women
+2,AUS,leisel jones,,Athens 2004,Swimming,100m breaststroke women
+3,USA,amanda beard,,Athens 2004,Swimming,100m breaststroke women
+4,GER,sarah poewe,,Athens 2004,Swimming,100m breaststroke women
+5,USA,tara kirk,,Athens 2004,Swimming,100m breaststroke women
+6,UKR,svitlana bondarenko,,Athens 2004,Swimming,100m breaststroke women
+7,CHN,hui qi,,Athens 2004,Swimming,100m breaststroke women
+8,JPN,masami tanaka,,Athens 2004,Swimming,100m breaststroke women
+9,HUN,agnes kovacs,,Athens 2004,Swimming,100m breaststroke women
+10,CAN,lauren van oosten,,Athens 2004,Swimming,100m breaststroke women
+11,CAN,rhiannon leier,,Athens 2004,Swimming,100m breaststroke women
+12,GER,vipa bernhardt,,Athens 2004,Swimming,100m breaststroke women
+13,AUT,mirna jukic,,Athens 2004,Swimming,100m breaststroke women
+14,RUS,elena bogomazova,,Athens 2004,Swimming,100m breaststroke women
+15,ITA,chiara boggiatto,,Athens 2004,Swimming,100m breaststroke women
+16,SWE,maria ostling,,Athens 2004,Swimming,100m breaststroke women
+17,BLR,inna kapishina,,Athens 2004,Swimming,100m breaststroke women
+18,DEN,majken thorup,,Athens 2004,Swimming,100m breaststroke women
+19,CRO,smiljana marinovic,,Athens 2004,Swimming,100m breaststroke women
+20,NED,madelon baans,,Athens 2004,Swimming,100m breaststroke women
+21,SCG,marina kuc,,Athens 2004,Swimming,100m breaststroke women
+22,FIN,eeva saarinen,,Athens 2004,Swimming,100m breaststroke women
+23,POR,diana gomes,,Athens 2004,Swimming,100m breaststroke women
+24,IRL,emma robinson,,Athens 2004,Swimming,100m breaststroke women
+25,TUR,ilkay dikmen,,Athens 2004,Swimming,100m breaststroke women
+26,CUB,imaday nunez gonzalez,,Athens 2004,Swimming,100m breaststroke women
+27,EGY,salama ismail,,Athens 2004,Swimming,100m breaststroke women
+28,ARG,javiera salcedo,,Athens 2004,Swimming,100m breaststroke women
+29,GRE,aikaterini sarakatsani,,Athens 2004,Swimming,100m breaststroke women
+30,PHI,jaclyn pangilinan,,Athens 2004,Swimming,100m breaststroke women
+31,JAM,alia atkinson,,Athens 2004,Swimming,100m breaststroke women
+32,SGP,nicolette teo,,Athens 2004,Swimming,100m breaststroke women
+33,KOR,ji-young lee,,Athens 2004,Swimming,100m breaststroke women
+34,NZL,annabelle carey,,Athens 2004,Swimming,100m breaststroke women
+35,MAS,yi ting siow,,Athens 2004,Swimming,100m breaststroke women
+36,PER,valeria silva,,Athens 2004,Swimming,100m breaststroke women
+37,MEX,adriana rebeca marmolejo vargas,,Athens 2004,Swimming,100m breaststroke women
+38,HKG,tsz wa yip,,Athens 2004,Swimming,100m breaststroke women
+39,ISL,iris edda heimisdottir,,Athens 2004,Swimming,100m breaststroke women
+40,BOL,katerine moreno maiser,,Athens 2004,Swimming,100m breaststroke women
+41,ARM,varduhi avetisyan,,Athens 2004,Swimming,100m breaststroke women
+42,SEY,shrone austin,,Athens 2004,Swimming,100m breaststroke women
+43,AZE,nataliya filina,,Athens 2004,Swimming,100m breaststroke women
+44,GRN,melissa ashby,,Athens 2004,Swimming,100m breaststroke women
+45,MLI,mariam pauline keita,,Athens 2004,Swimming,100m breaststroke women
+46,NEP,nayana shakya,,Athens 2004,Swimming,100m breaststroke women
+47,RWA,pamela girimbabazi rugabira,,Athens 2004,Swimming,100m breaststroke women
+0,USA,michael phelps,,Athens 2004,Swimming,100m butterfly men
+1,USA,ian crocker,,Athens 2004,Swimming,100m butterfly men
+2,UKR,andriy serdinov,,Athens 2004,Swimming,100m butterfly men
+3,GER,thomas rupprath,,Athens 2004,Swimming,100m butterfly men
+4,RUS,igor marchenko,,Athens 2004,Swimming,100m butterfly men
+5,BRA,gabriel mangabeira,,Athens 2004,Swimming,100m butterfly men
+6,CRO,duje draganja,,Athens 2004,Swimming,100m butterfly men
+7,AUS,geoffrey huegill,,Athens 2004,Swimming,100m butterfly men
+8,JPN,takashi yamamoto,,Athens 2004,Swimming,100m butterfly men
+9,RUS,evgeny korotyshkin,,Athens 2004,Swimming,100m butterfly men
+10,FRA,franck esposito,,Athens 2004,Swimming,100m butterfly men
+11,CAN,michael mintenko,,Athens 2004,Swimming,100m butterfly men
+12,GER,helge meeuw,,Athens 2004,Swimming,100m butterfly men
+13,NZL,corney swanepoel,,Athens 2004,Swimming,100m butterfly men
+14,GBR,james hickman,,Athens 2004,Swimming,100m butterfly men
+15,SCG,milorad cavic,,Athens 2004,Swimming,100m butterfly men
+16,BRA,kaio marcio,,Athens 2004,Swimming,100m butterfly men
+17,PNG,ryan pini,,Athens 2004,Swimming,100m butterfly men
+18,NED,joris keizer,,Athens 2004,Swimming,100m butterfly men
+19,AUS,adam pine,,Athens 2004,Swimming,100m butterfly men
+20,UKR,denys sylantiev,,Athens 2004,Swimming,100m butterfly men
+21,GBR,todd cooper,,Athens 2004,Swimming,100m butterfly men
+22,ITA,mattia nalesso,,Athens 2004,Swimming,100m butterfly men
+23,POR,simao morgado,,Athens 2004,Swimming,100m butterfly men
+24,FRA,frederick bousquet,,Athens 2004,Swimming,100m butterfly men
+25,BLR,pavel lagoun,,Athens 2004,Swimming,100m butterfly men
+26,ROU,ioan stefan gherghel,,Athens 2004,Swimming,100m butterfly men
+27,FIN,jere hard,,Athens 2004,Swimming,100m butterfly men
+28,SLO,peter mankoc,,Athens 2004,Swimming,100m butterfly men
+29,RSA,eugene botes,,Athens 2004,Swimming,100m butterfly men
+30,GRE,sotirios pastras,,Athens 2004,Swimming,100m butterfly men
+31,SWE,erik andersson,,Athens 2004,Swimming,100m butterfly men
+32,MEX,joshua ilika,,Athens 2004,Swimming,100m butterfly men
+33,HUN,zsolt gaspar,,Athens 2004,Swimming,100m butterfly men
+34,LTU,rimvydas salcius,,Athens 2004,Swimming,100m butterfly men
+35,VEN,luis rojas,,Athens 2004,Swimming,100m butterfly men
+36,COL,camilo becerra,,Athens 2004,Swimming,100m butterfly men
+37,KOR,doo-hee jeong,,Athens 2004,Swimming,100m butterfly men
+38,CZE,michal rubacek,,Athens 2004,Swimming,100m butterfly men
+39,BUL,georgi palazov,,Athens 2004,Swimming,100m butterfly men
+40,KAZ,rustam khudiyev,,Athens 2004,Swimming,100m butterfly men
+41,ISL,hjortur mar reynisson,,Athens 2004,Swimming,100m butterfly men
+42,CHN,peng wu,,Athens 2004,Swimming,100m butterfly men
+43,ARG,eduardo german otero,,Athens 2004,Swimming,100m butterfly men
+44,MKD,aleksandar miladinovski,,Athens 2004,Swimming,100m butterfly men
+45,UZB,oleg lyashko,,Athens 2004,Swimming,100m butterfly men
+46,PER,juan pablo valdivieso,,Athens 2004,Swimming,100m butterfly men
+47,ALG,aghiles slimani,,Athens 2004,Swimming,100m butterfly men
+48,TUR,onur uras,,Athens 2004,Swimming,100m butterfly men
+49,BAH,nick rees,,Athens 2004,Swimming,100m butterfly men
+50,SUR,gordon touw ngie tjouw,,Athens 2004,Swimming,100m butterfly men
+51,SRI,conrad francis,,Athens 2004,Swimming,100m butterfly men
+52,LAT,andrejs duda,,Athens 2004,Swimming,100m butterfly men
+53,INA,andy wibowo,,Athens 2004,Swimming,100m butterfly men
+54,GUM,daniel o'keeffe,,Athens 2004,Swimming,100m butterfly men
+55,ARU,davy bisslik,,Athens 2004,Swimming,100m butterfly men
+56,ANG,joao luis cardoso matias,,Athens 2004,Swimming,100m butterfly men
+57,NCA,fernando medrano-medina,,Athens 2004,Swimming,100m butterfly men
+58,PLE,rad aweisat,,Athens 2004,Swimming,100m butterfly men
+0,AUS,petria thomas,,Athens 2004,Swimming,100m butterfly women
+1,POL,otylia jedrzejczak,,Athens 2004,Swimming,100m butterfly women
+2,NED,inge de bruijn,,Athens 2004,Swimming,100m butterfly women
+3,AUS,jessicah schipper,,Athens 2004,Swimming,100m butterfly women
+4,USA,jenny thompson,,Athens 2004,Swimming,100m butterfly women
+5,SVK,martina moravcova,,Athens 2004,Swimming,100m butterfly women
+6,BLR,alena popchanka,,Athens 2004,Swimming,100m butterfly women
+7,JPN,junko onishi,,Athens 2004,Swimming,100m butterfly women
+8,FRA,malia metella,,Athens 2004,Swimming,100m butterfly women
+9,SWE,anna-karin kammerling,,Athens 2004,Swimming,100m butterfly women
+10,USA,rachel komisarz,,Athens 2004,Swimming,100m butterfly women
+11,CHN,yafei zhou,,Athens 2004,Swimming,100m butterfly women
+12,ITA,ambra migliori,,Athens 2004,Swimming,100m butterfly women
+13,JPN,yuko nakanishi,,Athens 2004,Swimming,100m butterfly women
+14,DEN,mette jacobsen,,Athens 2004,Swimming,100m butterfly women
+15,RUS,natalia sutyagina,,Athens 2004,Swimming,100m butterfly women
+16,GER,franziska van almsick,,Athens 2004,Swimming,100m butterfly women
+17,HUN,beatrix boulsevicz,,Athens 2004,Swimming,100m butterfly women
+18,GRE,eirini kavarnou,,Athens 2004,Swimming,100m butterfly women
+19,GBR,georgina lee,,Athens 2004,Swimming,100m butterfly women
+20,NED,chantal groot,,Athens 2004,Swimming,100m butterfly women
+21,ITA,francesca segat,,Athens 2004,Swimming,100m butterfly women
+22,NZL,elizabeth coster,,Athens 2004,Swimming,100m butterfly women
+23,SWE,johanna sjoberg,,Athens 2004,Swimming,100m butterfly women
+24,FRA,aurore mongel,,Athens 2004,Swimming,100m butterfly women
+25,ISR,vered borochovski,,Athens 2004,Swimming,100m butterfly women
+26,SGP,joscelin yeo,,Athens 2004,Swimming,100m butterfly women
+27,CHN,yanwei xu,,Athens 2004,Swimming,100m butterfly women
+28,CYP,maria papadopoulou,,Athens 2004,Swimming,100m butterfly women
+29,UKR,kateryna zubkova,,Athens 2004,Swimming,100m butterfly women
+30,ISL,kolbrun yr kristjansdottir,,Athens 2004,Swimming,100m butterfly women
+31,HKG,hang yu sze,,Athens 2004,Swimming,100m butterfly women
+32,KOR,kyung-hwa park,,Athens 2004,Swimming,100m butterfly women
+33,TPE,wan-jung cheng,,Athens 2004,Swimming,100m butterfly women
+34,TUR,gulsah gunenc,,Athens 2004,Swimming,100m butterfly women
+35,MLT,angela galea,,Athens 2004,Swimming,100m butterfly women
+36,UZB,mariya bugakova,,Athens 2004,Swimming,100m butterfly women
+37,LCA,natasha sara georgeos,,Athens 2004,Swimming,100m butterfly women
+0,NED,pieter van den hoogenband,,Athens 2004,Swimming,100m freestyle men
+1,RSA,roland schoeman,,Athens 2004,Swimming,100m freestyle men
+2,AUS,ian thorpe,,Athens 2004,Swimming,100m freestyle men
+3,RSA,ryk neethling,,Athens 2004,Swimming,100m freestyle men
+4,ITA,filippo magnini,,Athens 2004,Swimming,100m freestyle men
+5,CRO,duje draganja,,Athens 2004,Swimming,100m freestyle men
+6,ALG,salim iles,,Athens 2004,Swimming,100m freestyle men
+7,RUS,andrey kapralov,,Athens 2004,Swimming,100m freestyle men
+8,RUS,alexander popov,,Athens 2004,Swimming,100m freestyle men
+9,FRA,frederick bousquet,,Athens 2004,Swimming,100m freestyle men
+10,TTO,george bovell,,Athens 2004,Swimming,100m freestyle men
+11,FRA,romain barnier,,Athens 2004,Swimming,100m freestyle men
+12,SLO,peter mankoc,,Athens 2004,Swimming,100m freestyle men
+13,LTU,rolandas gimbutis,,Athens 2004,Swimming,100m freestyle men
+14,VEN,luis rojas,,Athens 2004,Swimming,100m freestyle men
+15,GER,torsten spanneberg,,Athens 2004,Swimming,100m freestyle men
+16,UKR,yuriy yegoshin,,Athens 2004,Swimming,100m freestyle men
+17,USA,ian crocker,,Athens 2004,Swimming,100m freestyle men
+18,SCG,milorad cavic,,Athens 2004,Swimming,100m freestyle men
+19,SWE,stefan nystrand,,Athens 2004,Swimming,100m freestyle men
+20,USA,jason lezak,,Athens 2004,Swimming,100m freestyle men
+21,SUI,karel novy,,Athens 2004,Swimming,100m freestyle men
+22,GBR,matthew kidd,,Athens 2004,Swimming,100m freestyle men
+23,ARG,jose martin meolans,,Athens 2004,Swimming,100m freestyle men
+24,ITA,lorenzo vismara,,Athens 2004,Swimming,100m freestyle men
+25,POR,tiago venancio,,Athens 2004,Swimming,100m freestyle men
+26,JPN,yoshihiro okumura,,Athens 2004,Swimming,100m freestyle men
+27,HUN,attila zubor,,Athens 2004,Swimming,100m freestyle men
+28,BLR,stanislav neverovsky,,Athens 2004,Swimming,100m freestyle men
+29,ESP,eduardo lorente,,Athens 2004,Swimming,100m freestyle men
+30,AUS,ashley callus,,Athens 2004,Swimming,100m freestyle men
+31,GRE,aristeidis grigoriadis,,Athens 2004,Swimming,100m freestyle men
+32,BRA,jader souza,,Athens 2004,Swimming,100m freestyle men
+33,FIN,matti rajakyla,,Athens 2004,Swimming,100m freestyle men
+34,LAT,romans miloslavskis,,Athens 2004,Swimming,100m freestyle men
+35,GER,stephan kunzelmann,,Athens 2004,Swimming,100m freestyle men
+36,EST,danil haustov,,Athens 2004,Swimming,100m freestyle men
+37,CYP,alexandros aresti,,Athens 2004,Swimming,100m freestyle men
+38,PNG,ryan pini,,Athens 2004,Swimming,100m freestyle men
+39,FIJ,carl probert,,Athens 2004,Swimming,100m freestyle men
+40,URU,paul alexander kutscher,,Athens 2004,Swimming,100m freestyle men
+41,TUR,kaan tayla,,Athens 2004,Swimming,100m freestyle men
+42,NZL,cameron gibson,,Athens 2004,Swimming,100m freestyle men
+43,ISV,george gleason,,Athens 2004,Swimming,100m freestyle men
+44,PAN,ismael ortiz,,Athens 2004,Swimming,100m freestyle men
+45,KOR,chung-hee lee,,Athens 2004,Swimming,100m freestyle men
+46,MDA,octavian gutu,,Athens 2004,Swimming,100m freestyle men
+47,BAR,damian alleyne,,Athens 2004,Swimming,100m freestyle men
+48,CHI,maximiliano schnettler,,Athens 2004,Swimming,100m freestyle men
+49,MAS,allen ong,,Athens 2004,Swimming,100m freestyle men
+50,KAZ,vyacheslav titarenko,,Athens 2004,Swimming,100m freestyle men
+51,BUL,raichin antonov,,Athens 2004,Swimming,100m freestyle men
+52,COL,camilo becerra,,Athens 2004,Swimming,100m freestyle men
+53,TPE,nien pin wu,,Athens 2004,Swimming,100m freestyle men
+54,BIH,zeljko panic,,Athens 2004,Swimming,100m freestyle men
+55,SGP,mark chay,,Athens 2004,Swimming,100m freestyle men
+56,UZB,aleksandr agafonov,,Athens 2004,Swimming,100m freestyle men
+57,UAE,obaid ahmed obaid al jassimi,,Athens 2004,Swimming,100m freestyle men
+58,GUY,onan orlando thom,,Athens 2004,Swimming,100m freestyle men
+59,CHN,shaohua huang,,Athens 2004,Swimming,100m freestyle men
+60,IRI,babak farhoudi,,Athens 2004,Swimming,100m freestyle men
+61,MON,jean laurent ravera,,Athens 2004,Swimming,100m freestyle men
+62,IRQ,mohammed abbas,,Athens 2004,Swimming,100m freestyle men
+63,MGL,tamir andryei,,Athens 2004,Swimming,100m freestyle men
+64,MOZ,leonel matonse,,Athens 2004,Swimming,100m freestyle men
+65,BRN,hesham shehab,,Athens 2004,Swimming,100m freestyle men
+66,AZE,serqey dyaçkov,,Athens 2004,Swimming,100m freestyle men
+67,PAK,mumtaz ahmed,,Athens 2004,Swimming,100m freestyle men
+68,BDI,emery nziyunvira,,Athens 2004,Swimming,100m freestyle men
+69,CAN,brent hayden,Did not start,Athens 2004,Swimming,100m freestyle men
+70,CAN,rick say,Did not start,Athens 2004,Swimming,100m freestyle men
+0,AUS,jodie henry,,Athens 2004,Swimming,100m freestyle women
+1,NED,inge de bruijn,,Athens 2004,Swimming,100m freestyle women
+2,USA,natalie coughlin,,Athens 2004,Swimming,100m freestyle women
+3,FRA,malia metella,,Athens 2004,Swimming,100m freestyle women
+4,USA,kara lynn joyce,,Athens 2004,Swimming,100m freestyle women
+5,GRE,nery mantey niangkouara,,Athens 2004,Swimming,100m freestyle women
+6,SVK,martina moravcova,,Athens 2004,Swimming,100m freestyle women
+7,BLR,alena popchanka,,Athens 2004,Swimming,100m freestyle women
+8,AUS,libby trickett,,Athens 2004,Swimming,100m freestyle women
+9,ITA,federica pellegrini,,Athens 2004,Swimming,100m freestyle women
+10,NED,marleen veldhuis,,Athens 2004,Swimming,100m freestyle women
+11,FIN,hanna-maria seppala,,Athens 2004,Swimming,100m freestyle women
+12,BLR,hanna shcherba-lorgeril,,Athens 2004,Swimming,100m freestyle women
+13,SWE,josefin lillhage,,Athens 2004,Swimming,100m freestyle women
+14,KOR,yoon-ji ryu,,Athens 2004,Swimming,100m freestyle women
+15,JPN,tomoko nagai,,Athens 2004,Swimming,100m freestyle women
+16,GER,franziska van almsick,,Athens 2004,Swimming,100m freestyle women
+17,DEN,jeanette ottesen,,Athens 2004,Swimming,100m freestyle women
+18,POL,paulina barzycka,,Athens 2004,Swimming,100m freestyle women
+19,BRA,rebeca gusmao,,Athens 2004,Swimming,100m freestyle women
+20,NZL,alison fitch,,Athens 2004,Swimming,100m freestyle women
+21,CHN,jiaru cheng,,Athens 2004,Swimming,100m freestyle women
+22,CZE,jana myskova,,Athens 2004,Swimming,100m freestyle women
+23,CHN,yanwei xu,,Athens 2004,Swimming,100m freestyle women
+24,SWE,johanna sjoberg,,Athens 2004,Swimming,100m freestyle women
+25,SLO,sara isakovic,,Athens 2004,Swimming,100m freestyle women
+26,SUI,dominique diezi,,Athens 2004,Swimming,100m freestyle women
+27,ARG,florencia szigeti,,Athens 2004,Swimming,100m freestyle women
+28,VEN,arlene semeco,,Athens 2004,Swimming,100m freestyle women
+29,PAN,eileen marie coparropa aleman,,Athens 2004,Swimming,100m freestyle women
+30,UKR,olga mukomol,,Athens 2004,Swimming,100m freestyle women
+31,ISR,anna gostomelsky,,Athens 2004,Swimming,100m freestyle women
+32,AUT,judith draxler,,Athens 2004,Swimming,100m freestyle women
+33,HKG,hannah jane arnett wilson,,Athens 2004,Swimming,100m freestyle women
+34,PUR,vanessa garcia,,Athens 2004,Swimming,100m freestyle women
+35,LUX,lara heinz,,Athens 2004,Swimming,100m freestyle women
+36,EST,jana kolukanova,,Athens 2004,Swimming,100m freestyle women
+37,HUN,agnes mutina,,Athens 2004,Swimming,100m freestyle women
+38,JAM,angela chuck,,Athens 2004,Swimming,100m freestyle women
+39,ISL,ragnheidur ragnarsdottir,,Athens 2004,Swimming,100m freestyle women
+40,KAZ,yelena skalinskaya,,Athens 2004,Swimming,100m freestyle women
+41,TTO,linda mceachrane,,Athens 2004,Swimming,100m freestyle women
+42,LAT,agnese ozolina,,Athens 2004,Swimming,100m freestyle women
+43,TPE,yi chieh sung,,Athens 2004,Swimming,100m freestyle women
+44,UZB,irina shlemova,,Athens 2004,Swimming,100m freestyle women
+45,IND,shikha tandon,,Athens 2004,Swimming,100m freestyle women
+46,MDA,nicoleta coica,,Athens 2004,Swimming,100m freestyle women
+47,AND,carolina cerqueda,,Athens 2004,Swimming,100m freestyle women
+48,BDI,larissa inangorore,,Athens 2004,Swimming,100m freestyle women
+49,BEN,gloria koussihouede,,Athens 2004,Swimming,100m freestyle women
+50,GBR,melanie marshall,Did not start,Athens 2004,Swimming,100m freestyle women
+0,AUS,grant hackett,,Athens 2004,Swimming,1500m freestyle men
+1,USA,larsen jensen,,Athens 2004,Swimming,1500m freestyle men
+2,GBR,david davies,,Athens 2004,Swimming,1500m freestyle men
+3,RUS,yuri prilukov,,Athens 2004,Swimming,1500m freestyle men
+4,GRE,spyridon gianniotis,,Athens 2004,Swimming,1500m freestyle men
+5,GBR,graeme smith,,Athens 2004,Swimming,1500m freestyle men
+6,ROU,dragos cristian coman,,Athens 2004,Swimming,1500m freestyle men
+7,AUS,craig stevens,,Athens 2004,Swimming,1500m freestyle men
+8,POL,pawel korzeniowski,,Athens 2004,Swimming,1500m freestyle men
+9,UKR,igor chervynskiy,,Athens 2004,Swimming,1500m freestyle men
+10,FRA,nicolas rostoucher,,Athens 2004,Swimming,1500m freestyle men
+11,GER,christian hein,,Athens 2004,Swimming,1500m freestyle men
+12,JPN,takeshi matsuda,,Athens 2004,Swimming,1500m freestyle men
+13,TUN,oussama mellouli,,Athens 2004,Swimming,1500m freestyle men
+14,VEN,ricardo monasterio,,Athens 2004,Swimming,1500m freestyle men
+15,USA,erik vendt,,Athens 2004,Swimming,1500m freestyle men
+16,BUL,petar stoychev,,Athens 2004,Swimming,1500m freestyle men
+17,CAN,andrew hurd,,Athens 2004,Swimming,1500m freestyle men
+18,RUS,alexei filipets,,Athens 2004,Swimming,1500m freestyle men
+19,SLO,bojan zdesar,,Athens 2004,Swimming,1500m freestyle men
+20,POR,fernando costa,,Athens 2004,Swimming,1500m freestyle men
+21,GER,thomas lurz,,Athens 2004,Swimming,1500m freestyle men
+22,HUN,gergo kis,,Athens 2004,Swimming,1500m freestyle men
+23,ITA,christian minotti,,Athens 2004,Swimming,1500m freestyle men
+24,KOR,seong-mo jo,,Athens 2004,Swimming,1500m freestyle men
+25,ARG,juan martin pereyra,,Athens 2004,Swimming,1500m freestyle men
+26,THA,charnvudth saengsri,,Athens 2004,Swimming,1500m freestyle men
+27,NZL,moss burmester,,Athens 2004,Swimming,1500m freestyle men
+28,CRO,nenad buljan,,Athens 2004,Swimming,1500m freestyle men
+29,CHI,giancarlo zolezzi,,Athens 2004,Swimming,1500m freestyle men
+30,GRE,georgios diamantidis,,Athens 2004,Swimming,1500m freestyle men
+31,MAS,yi-khy saw,,Athens 2004,Swimming,1500m freestyle men
+32,CHN,tong xin,,Athens 2004,Swimming,1500m freestyle men
+33,PHI,juan carlos miguel mendoza,,Athens 2004,Swimming,1500m freestyle men
+0,USA,aaron peirsol,,Athens 2004,Swimming,200m backstroke men
+1,AUT,markus rogan,,Athens 2004,Swimming,200m backstroke men
+2,ROU,razvan ionut florea,,Athens 2004,Swimming,200m backstroke men
+3,GBR,james goddard,,Athens 2004,Swimming,200m backstroke men
+4,JPN,tomomi morita,,Athens 2004,Swimming,200m backstroke men
+5,FRA,simon dufour,,Athens 2004,Swimming,200m backstroke men
+6,GBR,gregor tait,,Athens 2004,Swimming,200m backstroke men
+7,SLO,blaz medvesek,,Athens 2004,Swimming,200m backstroke men
+8,CRO,gordan kozulj,,Athens 2004,Swimming,200m backstroke men
+9,USA,bryce hunt,,Athens 2004,Swimming,200m backstroke men
+10,RUS,arkady vyatchanin,,Athens 2004,Swimming,200m backstroke men
+11,CAN,keith beavers,,Athens 2004,Swimming,200m backstroke men
+12,ESP,jorge sanchez,,Athens 2004,Swimming,200m backstroke men
+13,CAN,nathaniel o brien,,Athens 2004,Swimming,200m backstroke men
+14,BRA,rogerio romero,,Athens 2004,Swimming,200m backstroke men
+15,ITA,emanuele merisi,,Athens 2004,Swimming,200m backstroke men
+16,RUS,yevgeny alyoshin,,Athens 2004,Swimming,200m backstroke men
+17,AUS,patrick murphy,,Athens 2004,Swimming,200m backstroke men
+18,AUS,matthew welsh,,Athens 2004,Swimming,200m backstroke men
+19,NZL,cameron gibson,,Athens 2004,Swimming,200m backstroke men
+20,MAS,alex lim,,Athens 2004,Swimming,200m backstroke men
+21,TUR,derya buyukuncu,,Athens 2004,Swimming,200m backstroke men
+22,BAR,nicholas neckles,,Athens 2004,Swimming,200m backstroke men
+23,HUN,viktor bodrogi,,Athens 2004,Swimming,200m backstroke men
+24,UKR,volodymyr nikolaychuk,,Athens 2004,Swimming,200m backstroke men
+25,LTU,pavel suskov,,Athens 2004,Swimming,200m backstroke men
+26,POL,adam mania,,Athens 2004,Swimming,200m backstroke men
+27,GRE,antonios gkioulmpas,,Athens 2004,Swimming,200m backstroke men
+28,ESP,aschwin wildeboer faber,,Athens 2004,Swimming,200m backstroke men
+29,CHN,rui yu,,Athens 2004,Swimming,200m backstroke men
+30,EGY,ahmed hussein,,Athens 2004,Swimming,200m backstroke men
+31,KOR,min sung,,Athens 2004,Swimming,200m backstroke men
+32,FIN,matti maki,,Athens 2004,Swimming,200m backstroke men
+33,MDA,andrei mihailov,,Athens 2004,Swimming,200m backstroke men
+34,COL,omar andres pinzon garcia,,Athens 2004,Swimming,200m backstroke men
+35,KGZ,yury zaharov,,Athens 2004,Swimming,200m backstroke men
+0,ZIM,kirsty leigh coventry,,Athens 2004,Swimming,200m backstroke women
+1,RUS,stanislava komarova,,Athens 2004,Swimming,200m backstroke women
+2,JPN,reiko nakamura,,Athens 2004,Swimming,200m backstroke women
+3,GER,antje buschschulte,,Athens 2004,Swimming,200m backstroke women
+4,USA,margaret hoelzer,,Athens 2004,Swimming,200m backstroke women
+5,DEN,louise ornstedt,,Athens 2004,Swimming,200m backstroke women
+6,GBR,katy sexton,,Athens 2004,Swimming,200m backstroke women
+7,JPN,aya terakawa,,Athens 2004,Swimming,200m backstroke women
+8,CAN,jennifer fratesi,,Athens 2004,Swimming,200m backstroke women
+9,NZL,hannah mclean,,Athens 2004,Swimming,200m backstroke women
+10,GER,nicole hetzer,,Athens 2004,Swimming,200m backstroke women
+11,AUS,melissa morgan,,Athens 2004,Swimming,200m backstroke women
+12,CRO,sanja jovanovic,,Athens 2004,Swimming,200m backstroke women
+13,HUN,evelin verraszto,,Athens 2004,Swimming,200m backstroke women
+14,UKR,iryna amshennikova,,Athens 2004,Swimming,200m backstroke women
+15,AUS,frances adcock,,Athens 2004,Swimming,200m backstroke women
+16,USA,kristen caverly,,Athens 2004,Swimming,200m backstroke women
+17,CAN,elizabeth warden,,Athens 2004,Swimming,200m backstroke women
+18,CZE,katerina pivonkova,,Athens 2004,Swimming,200m backstroke women
+19,GBR,karen lee,,Athens 2004,Swimming,200m backstroke women
+20,ITA,alessia filippi,,Athens 2004,Swimming,200m backstroke women
+21,TUR,sadan derya erke,,Athens 2004,Swimming,200m backstroke women
+22,SLO,anja carman,,Athens 2004,Swimming,200m backstroke women
+23,TPE,man-hsu lin,,Athens 2004,Swimming,200m backstroke women
+24,KOR,da-hye lee,,Athens 2004,Swimming,200m backstroke women
+25,GUA,gisela morales,,Athens 2004,Swimming,200m backstroke women
+26,FRA,alexandra putra,,Athens 2004,Swimming,200m backstroke women
+27,HKG,hiu wai sherry tsai,,Athens 2004,Swimming,200m backstroke women
+28,THA,chonlathorn vorathamrong,,Athens 2004,Swimming,200m backstroke women
+29,GRE,eirini karastergiou,,Athens 2004,Swimming,200m backstroke women
+30,PUR,gretchen gotay cordero,,Athens 2004,Swimming,200m backstroke women
+31,UZB,saida iskandarova,,Athens 2004,Swimming,200m backstroke women
+32,CHN,shu zhan,,Athens 2004,Swimming,200m backstroke women
+33,CHN,xiujun chen,Disqualified,Athens 2004,Swimming,200m backstroke women
+34,SLO,alenka kejzar,Did not start,Athens 2004,Swimming,200m backstroke women
 0,JPN,kosuke kitajima,,Athens 2004,Swimming,200m breaststroke men
 1,HUN,daniel gyurta,,Athens 2004,Swimming,200m breaststroke men
 2,USA,brendan hansen,,Athens 2004,Swimming,200m breaststroke men

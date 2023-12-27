@@ -1,4 +1,201 @@
 ,country,participant,result,olympic_game,discipline,event
+0,ETH,haile gebrselassie,00:27:18.200,Sydney 2000,Athletics,10000m men
+1,KEN,paul tergat,00:27:18.290,Sydney 2000,Athletics,10000m men
+2,ETH,assefa mezgebu,00:27:19.750,Sydney 2000,Athletics,10000m men
+3,KEN,patrick mutuku ivuti,00:27:20.440,Sydney 2000,Athletics,10000m men
+4,KEN,john cheruiyot korir,00:27:24.750,Sydney 2000,Athletics,10000m men
+5,MAR,said berioui,00:27:37.830,Sydney 2000,Athletics,10000m men
+6,JPN,toshinari takaoka,00:27:40.440,Sydney 2000,Athletics,10000m men
+7,GBR,karl keska,00:27:44.090,Sydney 2000,Athletics,10000m men
+8,BDI,aloys nizigama,00:27:44.560,Sydney 2000,Athletics,10000m men
+9,USA,abdi abdirahman,00:27:46.170,Sydney 2000,Athletics,10000m men
+10,ETH,girma tolla,00:27:49.750,Sydney 2000,Athletics,10000m men
+11,USA,mebrahtom keflezighi,00:27:53.630,Sydney 2000,Athletics,10000m men
+12,MEX,josé david galván,00:27:54.560,Sydney 2000,Athletics,10000m men
+13,POR,josé ramos,00:28:07.430,Sydney 2000,Athletics,10000m men
+14,JPN,katsuhiko hanada,00:28:08.110,Sydney 2000,Athletics,10000m men
+15,ALG,samir moussaoui,00:28:17.250,Sydney 2000,Athletics,10000m men
+16,ITA,rachid berradi,00:28:45.960,Sydney 2000,Athletics,10000m men
+17,ESP,jose rios,00:28:50.310,Sydney 2000,Athletics,10000m men
+18,BEL,mohammed mourhit,Did not finish,Sydney 2000,Athletics,10000m men
+19,ESP,enrique molina,Did not finish,Sydney 2000,Athletics,10000m men
+0,ETH,derartu tulu,00:30:17.490,Sydney 2000,Athletics,10000m women
+1,ETH,gete wami,00:30:22.480,Sydney 2000,Athletics,10000m women
+2,POR,fernanda ribeiro,00:30:22.880,Sydney 2000,Athletics,10000m women
+3,GBR,paula radcliffe,00:30:26.970,Sydney 2000,Athletics,10000m women
+4,KEN,tegla loroupe,00:30:37.260,Sydney 2000,Athletics,10000m women
+5,IRL,sonia o'sullivan,00:30:53.370,Sydney 2000,Athletics,10000m women
+6,CHN,ji li,00:31:06.940,Sydney 2000,Athletics,10000m women
+7,RSA,elana meyer,00:31:14.700,Sydney 2000,Athletics,10000m women
+8,RUS,lidiya grigoryeva,00:31:21.270,Sydney 2000,Athletics,10000m women
+9,JPN,yuko kawakami,00:31:27.440,Sydney 2000,Athletics,10000m women
+10,SCG,olivera jevtic,00:31:29.650,Sydney 2000,Athletics,10000m women
+11,ETH,berhane adere,00:31:40.520,Sydney 2000,Athletics,10000m women
+12,RUS,lyudmila biktasheva,00:31:47.100,Sydney 2000,Athletics,10000m women
+13,KEN,alice timbilil,00:31:50.220,Sydney 2000,Athletics,10000m women
+14,JPN,chiemi takahashi,00:31:52.590,Sydney 2000,Athletics,10000m women
+15,USA,libbie hickman,00:31:56.940,Sydney 2000,Athletics,10000m women
+16,KEN,sally barsosio,00:31:57.410,Sydney 2000,Athletics,10000m women
+17,MAR,asmae leghzaoui,00:31:59.210,Sydney 2000,Athletics,10000m women
+18,LAT,jelena prokopcuka,00:32:17.720,Sydney 2000,Athletics,10000m women
+19,JPN,harumi hiroyama,00:32:24.170,Sydney 2000,Athletics,10000m women
+20,NOR,gunhild haugen,,Sydney 2000,Athletics,10000m women
+21,BEL,marleen renders,Did not start,Sydney 2000,Athletics,10000m women
+22,GRE,hrisostomia iakovou,Did not start,Sydney 2000,Athletics,10000m women
+23,CAN,carol montgomery,Did not start,Sydney 2000,Athletics,10000m women
+0,KAZ,olga shishigina,12.650,Sydney 2000,Athletics,100m hurdles women
+1,NGR,glory alozie,12.680,Sydney 2000,Athletics,100m hurdles women
+2,USA,melissa morrison,12.760,Sydney 2000,Athletics,100m hurdles women
+3,JAM,delloreen ennis-london,12.800,Sydney 2000,Athletics,100m hurdles women
+4,CUB,aliuska lopez,12.830,Sydney 2000,Athletics,100m hurdles women
+5,FRA,nicole ramalalanirina,12.910,Sydney 2000,Athletics,100m hurdles women
+6,FRA,linda ferga-khodadin,13.110,Sydney 2000,Athletics,100m hurdles women
+7,JAM,brigitte foster-hylton,13.490,Sydney 2000,Athletics,100m hurdles women
+8,USA,yolanda gail devers-roberts,,Sydney 2000,Athletics,100m hurdles women
+9,CAN,keturah anderson,,Sydney 2000,Athletics,100m hurdles women
+10,RUS,yuliya graudyn,,Sydney 2000,Athletics,100m hurdles women
+0,USA,maurice greene,09.870,Sydney 2000,Athletics,100m men
+1,TTO,ato boldon,09.990,Sydney 2000,Athletics,100m men
+2,BAR,obadele thompson,10.040,Sydney 2000,Athletics,100m men
+3,GBR,dwain chambers,10.080,Sydney 2000,Athletics,100m men
+4,USA,jon drummond,10.090,Sydney 2000,Athletics,100m men
+5,GBR,darren campbell,10.130,Sydney 2000,Athletics,100m men
+6,SKN,kim collins,10.170,Sydney 2000,Athletics,100m men
+7,GHA,aziz zakari,Did not finish,Sydney 2000,Athletics,100m men
+8,GBS,fernando arlete,,Sydney 2000,Athletics,100m men
+9,LCA,ronald promesse,,Sydney 2000,Athletics,100m men
+10,NRU,cherico detenamo,Did not start,Sydney 2000,Athletics,100m men
+11,GRE,angelos pavlakakis,Did not start,Sydney 2000,Athletics,100m men
+0,GRE,aikaterini thanou,11.120,Sydney 2000,Athletics,100m women
+1,JAM,tanya lawrence,11.180,Sydney 2000,Athletics,100m women
+2,JAM,merlene ottey-page,11.190,Sydney 2000,Athletics,100m women
+3,UKR,zhanna pintusevych,11.200,Sydney 2000,Athletics,100m women
+4,BAH,chandra sturrup,11.210,Sydney 2000,Athletics,100m women
+5,BAH,sevatheda fynes,11.220,Sydney 2000,Athletics,100m women
+6,BAH,debbie ferguson-mckenzie,11.290,Sydney 2000,Athletics,100m women
+7,USA,marion jones,Disqualified,Sydney 2000,Athletics,100m women
+0,CUB,anier garcia,13.000,Sydney 2000,Athletics,110m hurdles men
+1,USA,terrence trammell,13.160,Sydney 2000,Athletics,110m hurdles men
+2,USA,mark crear,13.220,Sydney 2000,Athletics,110m hurdles men
+3,USA,allen johnson,13.230,Sydney 2000,Athletics,110m hurdles men
+4,GBR,colin jackson,13.280,Sydney 2000,Athletics,110m hurdles men
+5,GER,florian schwarthoff,13.420,Sydney 2000,Athletics,110m hurdles men
+6,HAI,dudley dorival,13.490,Sydney 2000,Athletics,110m hurdles men
+7,SWE,robert kronberg,13.610,Sydney 2000,Athletics,110m hurdles men
+8,GBR,tony jarrett,,Sydney 2000,Athletics,110m hurdles men
+9,POL,marcin kuszewski,,Sydney 2000,Athletics,110m hurdles men
+10,KSA,mubarak ata mubarak,,Sydney 2000,Athletics,110m hurdles men
+11,BUL,zhivko videnov,,Sydney 2000,Athletics,110m hurdles men
+12,NED,robin korving,Did not start,Sydney 2000,Athletics,110m hurdles men
+13,SVK,igor kovac,Did not start,Sydney 2000,Athletics,110m hurdles men
+0,KEN,noah kiprono ngenyi,00:03:32.070,Sydney 2000,Athletics,1500m men
+1,MAR,hicham el guerrouj,00:03:32.320,Sydney 2000,Athletics,1500m men
+2,KEN,bernard lagat,00:03:32.440,Sydney 2000,Athletics,1500m men
+3,FRA,mehdi baala,00:03:34.140,Sydney 2000,Athletics,1500m men
+4,CAN,kevin sullivan,00:03:35.500,Sydney 2000,Athletics,1500m men
+5,ETH,danial zegeye,00:03:36.780,Sydney 2000,Athletics,1500m men
+6,ESP,andres diaz,00:03:37.270,Sydney 2000,Athletics,1500m men
+7,ESP,juan carlos higuero,00:03:38.910,Sydney 2000,Athletics,1500m men
+8,GBR,john mayock,00:03:39.410,Sydney 2000,Athletics,1500m men
+9,USA,jason pyrah,00:03:39.840,Sydney 2000,Athletics,1500m men
+10,FRA,driss maazouzi,00:03:45.460,Sydney 2000,Athletics,1500m men
+11,MAR,youssef baba,00:03:56.080,Sydney 2000,Athletics,1500m men
+12,GBR,anthony whiteman,,Sydney 2000,Athletics,1500m men
+0,ALG,nouria merah-benida,00:04:05.100,Sydney 2000,Athletics,1500m women
+1,ROU,violeta szekely,00:04:05.150,Sydney 2000,Athletics,1500m women
+2,ROU,gabriela szabo,00:04:05.270,Sydney 2000,Athletics,1500m women
+3,ETH,kutre dulecha,00:04:05.330,Sydney 2000,Athletics,1500m women
+4,POL,lidia chojecka,00:04:06.420,Sydney 2000,Athletics,1500m women
+5,POL,anna jakubczak-pawelec,00:04:06.490,Sydney 2000,Athletics,1500m women
+6,GBR,kelly holmes,00:04:08.020,Sydney 2000,Athletics,1500m women
+7,USA,marla runyan,00:04:08.300,Sydney 2000,Athletics,1500m women
+8,SUI,sabina fischer,00:04:08.840,Sydney 2000,Athletics,1500m women
+9,POR,carla sacramento,00:04:11.150,Sydney 2000,Athletics,1500m women
+10,GBR,hayley tullett,00:04:22.290,Sydney 2000,Athletics,1500m women
+11,USA,suzy favor hamilton,00:04:23.050,Sydney 2000,Athletics,1500m women
+12,CAN,leah marlee pells,,Sydney 2000,Athletics,1500m women
+13,RUS,svetlana masterkova,,Sydney 2000,Athletics,1500m women
+14,MAR,hasna benhassi,Did not start,Sydney 2000,Athletics,1500m women
+0,GRE,kostas kenteris,20.090,Sydney 2000,Athletics,200m men
+1,GBR,darren campbell,20.140,Sydney 2000,Athletics,200m men
+2,TTO,ato boldon,20.200,Sydney 2000,Athletics,200m men
+3,BAR,obadele thompson,20.200,Sydney 2000,Athletics,200m men
+4,GBR,christian malcolm,20.230,Sydney 2000,Athletics,200m men
+5,BRA,claudinei silva,20.280,Sydney 2000,Athletics,200m men
+6,USA,coby miller,20.350,Sydney 2000,Athletics,200m men
+7,USA,john capel,20.490,Sydney 2000,Athletics,200m men
+8,BAN,mohamed mahbub alam,,Sydney 2000,Athletics,200m men
+9,GHA,tanko braimah,,Sydney 2000,Athletics,200m men
+10,GRE,alexios alexopoulos,Did not start,Sydney 2000,Athletics,200m men
+0,BAH,pauline elaine davis,22.270,Sydney 2000,Athletics,200m women
+1,SRI,susanthika jayasinghe,22.280,Sydney 2000,Athletics,200m women
+2,JAM,beverly mcdonald,22.350,Sydney 2000,Athletics,200m women
+3,BAH,debbie ferguson-mckenzie,22.370,Sydney 2000,Athletics,200m women
+4,AUS,melinda gainsford-taylor,22.420,Sydney 2000,Athletics,200m women
+5,AUS,cathy freeman,22.530,Sydney 2000,Athletics,200m women
+6,UKR,zhanna pintusevych,22.660,Sydney 2000,Athletics,200m women
+7,JAM,astia walker,,Sydney 2000,Athletics,200m women
+8,ITA,manuela levorato,Did not start,Sydney 2000,Athletics,200m women
+9,ISV,ameerah bello,Did not start,Sydney 2000,Athletics,200m women
+10,GER,andrea philipp,Did not start,Sydney 2000,Athletics,200m women
+11,USA,marion jones,Disqualified for doping,Sydney 2000,Athletics,200m women
+0,CHN,liping wang,01:29:05.000,Sydney 2000,Athletics,20km race walk women
+1,NOR,kjersti platzer,01:29:33.000,Sydney 2000,Athletics,20km race walk women
+2,ESP,maria vasco,01:30:23.000,Sydney 2000,Athletics,20km race walk women
+3,ITA,erica alfridi,01:31:25.000,Sydney 2000,Athletics,20km race walk women
+4,MEX,maria guadalupe sanchez gomez,01:31:33.000,Sydney 2000,Athletics,20km race walk women
+5,ROU,norica cimpean,01:31:50.000,Sydney 2000,Athletics,20km race walk women
+6,AUS,kerry saxby-junna,01:32:02.000,Sydney 2000,Athletics,20km race walk women
+7,RUS,tatyana gudkova,01:32:35.000,Sydney 2000,Athletics,20km race walk women
+8,BLR,natallia misiulia,01:33:08.000,Sydney 2000,Athletics,20km race walk women
+9,IRL,gillian o'sullivan,01:33:10.000,Sydney 2000,Athletics,20km race walk women
+10,GRE,athina papayianni,01:33:14.000,Sydney 2000,Athletics,20km race walk women
+11,UKR,valentyna savchuk,01:33:22.000,Sydney 2000,Athletics,20km race walk women
+12,ROU,ana maria groza,01:33:38.000,Sydney 2000,Athletics,20km race walk women
+13,POR,susana feitor,01:33:53.000,Sydney 2000,Athletics,20km race walk women
+14,MAS,yufang yuan,01:34:19.000,Sydney 2000,Athletics,20km race walk women
+15,LTU,kristina saltanovic,01:34:24.000,Sydney 2000,Athletics,20km race walk women
+16,USA,michelle rohl,01:34:26.000,Sydney 2000,Athletics,20km race walk women
+17,HUN,maria urbanikne rozsa,01:34:45.000,Sydney 2000,Athletics,20km race walk women
+18,GER,helga-beate gummelt,01:34:59.000,Sydney 2000,Athletics,20km race walk women
+19,ESP,encarna granados,01:35:06.000,Sydney 2000,Athletics,20km race walk women
+20,KAZ,svetlana tolstaya,01:35:19.000,Sydney 2000,Athletics,20km race walk women
+21,FRA,nora leksir,01:35:29.000,Sydney 2000,Athletics,20km race walk women
+22,FRA,fatiha ouali,01:35:35.000,Sydney 2000,Athletics,20km race walk women
+23,UKR,vira zozulya,01:35:43.000,Sydney 2000,Athletics,20km race walk women
+24,KOR,mi jeong kim,01:36:09.000,Sydney 2000,Athletics,20km race walk women
+25,MEX,mara ibanez lopez,01:36:17.000,Sydney 2000,Athletics,20km race walk women
+26,ESP,eva perez,01:36:35.000,Sydney 2000,Athletics,20km race walk women
+27,BLR,valentina tsybulskaya,01:36:44.000,Sydney 2000,Athletics,20km race walk women
+28,HUN,aniko szebenzky,01:36:46.000,Sydney 2000,Athletics,20km race walk women
+29,LAT,jolanta dukure,01:36:54.000,Sydney 2000,Athletics,20km race walk women
+30,LTU,sonata milusauskaite,01:37:14.000,Sydney 2000,Athletics,20km race walk women
+31,BLR,larisa khmelnitskaya,01:37:39.000,Sydney 2000,Athletics,20km race walk women
+32,GBR,lisa kehler,01:37:47.000,Sydney 2000,Athletics,20km race walk women
+33,ESA,ivis haydee martinez,01:38:07.000,Sydney 2000,Athletics,20km race walk women
+34,IRL,olive loughnane,01:38:23.000,Sydney 2000,Athletics,20km race walk women
+35,GRE,hristina kokotou,01:38:52.000,Sydney 2000,Athletics,20km race walk women
+36,LAT,anita liepina,01:39:17.000,Sydney 2000,Athletics,20km race walk women
+37,USA,yueling chen,01:39:36.000,Sydney 2000,Athletics,20km race walk women
+38,AUS,lisa sheridan-paolini,01:40:57.000,Sydney 2000,Athletics,20km race walk women
+39,KAZ,yelena kuznetsova,01:42:45.000,Sydney 2000,Athletics,20km race walk women
+40,GUA,teresita natividad collado ramos,01:43:28.000,Sydney 2000,Athletics,20km race walk women
+41,BOL,geovana irusta,01:43:34.000,Sydney 2000,Athletics,20km race walk women
+42,SVK,zuzana blazekova,01:44:03.000,Sydney 2000,Athletics,20km race walk women
+43,USA,debbi a. lawrence,01:47:20.000,Sydney 2000,Athletics,20km race walk women
+44,ALG,bahia boussad,01:52:50.000,Sydney 2000,Athletics,20km race walk women
+45,KAZ,maiya sozonova,Did not finish,Sydney 2000,Athletics,20km race walk women
+46,GER,kathrin boyde,Did not finish,Sydney 2000,Athletics,20km race walk women
+47,ITA,anna rita sidoti,Did not finish,Sydney 2000,Athletics,20km race walk women
+48,POL,katarzyna radtke,Did not finish,Sydney 2000,Athletics,20km race walk women
+49,RUS,irina stankina,Did not finish,Sydney 2000,Athletics,20km race walk women
+50,RUS,olga polyakova,Did not finish,Sydney 2000,Athletics,20km race walk women
+51,AZE,aida isayeva,Did not finish,Sydney 2000,Athletics,20km race walk women
+52,CHN,hongyu liu,Disqualified,Sydney 2000,Athletics,20km race walk women
+53,AUS,jane saville,Disqualified,Sydney 2000,Athletics,20km race walk women
+54,ITA,elisabetta perrone,Disqualified,Sydney 2000,Athletics,20km race walk women
+55,MEX,graciela mendoza,Disqualified,Sydney 2000,Athletics,20km race walk women
+56,CAN,janice leslie mccaffrey,Disqualified,Sydney 2000,Athletics,20km race walk women
 0,POL,robert korzeniowski,01:18:59.000,Sydney 2000,Athletics,20km walk men
 1,MEX,noe hernandez,01:19:03.000,Sydney 2000,Athletics,20km walk men
 2,RUS,vladimir andreyev,01:19:27.000,Sydney 2000,Athletics,20km walk men

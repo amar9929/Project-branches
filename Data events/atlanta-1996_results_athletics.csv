@@ -1,4 +1,187 @@
 ,country,participant,result,olympic_game,discipline,event
+0,ETH,haile gebrselassie,00:27:07.340,Atlanta 1996,Athletics,10000m men
+1,KEN,paul tergat,00:27:08.170,Atlanta 1996,Athletics,10000m men
+2,MAR,salah hissou,00:27:24.670,Atlanta 1996,Athletics,10000m men
+3,BDI,aloys nizigama,00:27:33.790,Atlanta 1996,Athletics,10000m men
+4,KEN,josphat machuka,00:27:35.080,Atlanta 1996,Athletics,10000m men
+5,KEN,paul koech,00:27:35.190,Atlanta 1996,Athletics,10000m men
+6,MAR,khalid skah,00:27:46.980,Atlanta 1996,Athletics,10000m men
+7,RWA,mathias ntawulikura,00:27:50.730,Atlanta 1996,Athletics,10000m men
+8,GER,stephane oliver franke,00:27:59.080,Atlanta 1996,Athletics,10000m men
+9,GBR,jon brown,00:27:59.720,Atlanta 1996,Athletics,10000m men
+10,MEX,armando quintanilla,00:28:09.460,Atlanta 1996,Athletics,10000m men
+11,TAN,marko hhawu,00:28:20.580,Atlanta 1996,Athletics,10000m men
+12,ESP,abel anton rodrigo,00:28:29.370,Atlanta 1996,Athletics,10000m men
+13,ESP,carlos de la torre,00:28:32.110,Atlanta 1996,Athletics,10000m men
+14,ESP,alejandro gomez cabral,00:28:39.110,Atlanta 1996,Athletics,10000m men
+15,HUN,zoltan kaldy,00:28:45.480,Atlanta 1996,Athletics,10000m men
+16,ETH,worku bikila,00:28:59.150,Atlanta 1996,Athletics,10000m men
+17,ITA,stefano baldini,00:29:07.770,Atlanta 1996,Athletics,10000m men
+18,GBR,paul william evans,Did not finish,Atlanta 1996,Athletics,10000m men
+19,KSA,alyan al-qahtani,Did not finish,Atlanta 1996,Athletics,10000m men
+20,MAR,larbi zeroual,,Atlanta 1996,Athletics,10000m men
+21,FRA,abdellah behar,,Atlanta 1996,Athletics,10000m men
+22,POR,paulo guerra,,Atlanta 1996,Athletics,10000m men
+23,USA,todd williams,,Atlanta 1996,Athletics,10000m men
+24,JPN,yasuyuki watanabe,Did not start,Atlanta 1996,Athletics,10000m men
+25,AUS,julian paynter,Did not start,Atlanta 1996,Athletics,10000m men
+0,RUS,yelena nikolayeva,00:41:49.000,Atlanta 1996,Athletics,10000m walk women
+1,ITA,elisabetta perrone,00:42:12.000,Atlanta 1996,Athletics,10000m walk women
+2,CHN,yan wang,00:42:19.000,Atlanta 1996,Athletics,10000m walk women
+3,CHN,yan gu,00:42:34.000,Atlanta 1996,Athletics,10000m walk women
+4,ITA,rossella giordano,00:42:43.000,Atlanta 1996,Athletics,10000m walk women
+5,BLR,volha kardapoltsava,00:43:02.000,Atlanta 1996,Athletics,10000m walk women
+6,POL,katarzyna radtke,00:43:05.000,Atlanta 1996,Athletics,10000m walk women
+7,BLR,valentina tsybulskaya,00:43:21.000,Atlanta 1996,Athletics,10000m walk women
+8,HUN,maria urbanikne rozsa,00:43:32.000,Atlanta 1996,Athletics,10000m walk women
+9,RUS,yelena gruzinova,00:43:50.000,Atlanta 1996,Athletics,10000m walk women
+10,ITA,anna rita sidoti,00:43:57.000,Atlanta 1996,Athletics,10000m walk women
+11,AUS,kerry saxby-junna,00:43:59.000,Atlanta 1996,Athletics,10000m walk women
+12,POR,susana feitor,00:44:24.000,Atlanta 1996,Athletics,10000m walk women
+13,USA,michelle rohl,00:44:29.000,Atlanta 1996,Athletics,10000m walk women
+14,GER,kathrin boyde,00:44:50.000,Atlanta 1996,Athletics,10000m walk women
+15,FIN,sari miriam essayah,00:45:02.000,Atlanta 1996,Athletics,10000m walk women
+16,BLR,natallia misiulia,00:45:11.000,Atlanta 1996,Athletics,10000m walk women
+17,MEX,graciela mendoza,00:45:13.000,Atlanta 1996,Athletics,10000m walk women
+18,AUS,anne manning,00:45:27.000,Atlanta 1996,Athletics,10000m walk women
+19,USA,debbi a. lawrence,00:45:32.000,Atlanta 1996,Athletics,10000m walk women
+20,KAZ,svetlana tolstaya,00:45:35.000,Atlanta 1996,Athletics,10000m walk women
+21,LAT,anita liepina,00:45:35.000,Atlanta 1996,Athletics,10000m walk women
+22,IRL,deirdre gallagher,00:45:47.000,Atlanta 1996,Athletics,10000m walk women
+23,MAS,annastasia raj,00:45:47.000,Atlanta 1996,Athletics,10000m walk women
+24,CAN,janice leslie mccaffrey,00:45:47.000,Atlanta 1996,Athletics,10000m walk women
+25,AUS,jane saville,00:45:56.000,Atlanta 1996,Athletics,10000m walk women
+26,HUN,aniko szebenzky,00:45:57.000,Atlanta 1996,Athletics,10000m walk women
+27,ESP,maria vasco,00:46:09.000,Atlanta 1996,Athletics,10000m walk women
+28,ROU,norica cimpean,00:46:19.000,Atlanta 1996,Athletics,10000m walk women
+29,UKR,tetiana rahozina,00:46:25.000,Atlanta 1996,Athletics,10000m walk women
+30,FRA,nathalie fortain,00:46:43.000,Atlanta 1996,Athletics,10000m walk women
+31,CAN,tina poitras,00:46:51.000,Atlanta 1996,Athletics,10000m walk women
+32,GBR,vicky lupton,00:47:05.000,Atlanta 1996,Athletics,10000m walk women
+33,BOL,geovana irusta,00:47:13.000,Atlanta 1996,Athletics,10000m walk women
+34,KAZ,maiya sozonova,00:47:33.000,Atlanta 1996,Athletics,10000m walk women
+35,FRA,valerie nadaud-leveque,00:47:49.000,Atlanta 1996,Athletics,10000m walk women
+36,LTU,sonata milusauskaite,00:48:05.000,Atlanta 1996,Athletics,10000m walk women
+37,BIH,kada delic,00:48:47.000,Atlanta 1996,Athletics,10000m walk women
+38,ESP,encarna granados,Did not finish,Atlanta 1996,Athletics,10000m walk women
+39,CHN,hongmiao gao,Disqualified,Atlanta 1996,Athletics,10000m walk women
+40,GER,helga-beate gummelt,Disqualified,Atlanta 1996,Athletics,10000m walk women
+41,JPN,yuka mitsumori,Disqualified,Atlanta 1996,Athletics,10000m walk women
+42,USA,victoria s. herazo,Disqualified,Atlanta 1996,Athletics,10000m walk women
+43,RUS,irina stankina,Disqualified,Atlanta 1996,Athletics,10000m walk women
+0,POR,fernanda ribeiro,00:31:01.630,Atlanta 1996,Athletics,10000m women
+1,CHN,junxia wang,00:31:02.580,Atlanta 1996,Athletics,10000m women
+2,ETH,gete wami,00:31:06.650,Atlanta 1996,Athletics,10000m women
+3,ETH,derartu tulu,00:31:10.460,Atlanta 1996,Athletics,10000m women
+4,JPN,masako chiba,00:31:20.620,Atlanta 1996,Athletics,10000m women
+5,KEN,tegla loroupe,00:31:23.220,Atlanta 1996,Athletics,10000m women
+6,JPN,yuko kawakami,00:31:23.230,Atlanta 1996,Athletics,10000m women
+7,ROU,iulia negura,00:31:26.460,Atlanta 1996,Athletics,10000m women
+8,ESP,julia vaquero,00:31:27.070,Atlanta 1996,Athletics,10000m women
+9,KEN,sally barsosio,00:31:53.380,Atlanta 1996,Athletics,10000m women
+10,IRL,catherina mckiernan,00:32:00.380,Atlanta 1996,Athletics,10000m women
+11,FIN,annemari sandell,00:32:14.660,Atlanta 1996,Athletics,10000m women
+12,RSA,colleen de reuck,00:32:14.690,Atlanta 1996,Athletics,10000m women
+13,RUS,lyudmila petrova,00:32:25.890,Atlanta 1996,Athletics,10000m women
+14,CHN,mingxia wang,00:32:38.980,Atlanta 1996,Athletics,10000m women
+15,JPN,hiromi suzuki,00:32:43.390,Atlanta 1996,Athletics,10000m women
+16,AUS,susan elizabeth hobson,00:32:47.710,Atlanta 1996,Athletics,10000m women
+17,ETH,berhane adere,00:32:57.350,Atlanta 1996,Athletics,10000m women
+18,CHN,siju yang,00:33:15.290,Atlanta 1996,Athletics,10000m women
+19,AUS,kylie risk,,Atlanta 1996,Athletics,10000m women
+20,SUI,ursula jeitziner,,Atlanta 1996,Athletics,10000m women
+0,SWE,ludmila engquist,12.580,Atlanta 1996,Athletics,100m hurdles women
+1,SLO,brigitta bukovec,12.590,Atlanta 1996,Athletics,100m hurdles women
+2,FRA,patricia girard,12.650,Atlanta 1996,Athletics,100m hurdles women
+3,USA,yolanda gail devers-roberts,12.660,Atlanta 1996,Athletics,100m hurdles women
+4,JAM,dionne marie rose,12.740,Atlanta 1996,Athletics,100m hurdles women
+5,JAM,michele freeman,12.760,Atlanta 1996,Athletics,100m hurdles women
+6,USA,lynda tolbert-goode,13.110,Atlanta 1996,Athletics,100m hurdles women
+7,BUL,svetla pishtikova,,Atlanta 1996,Athletics,100m hurdles women
+8,UKR,nadiya bodrova,,Atlanta 1996,Athletics,100m hurdles women
+9,ROU,elisabeta anghel,,Atlanta 1996,Athletics,100m hurdles women
+10,ITA,carla tuzzi,,Atlanta 1996,Athletics,100m hurdles women
+11,RUS,natalya shekhodanova,Disqualified,Atlanta 1996,Athletics,100m hurdles women
+0,CAN,donovan bailey,09.840,Atlanta 1996,Athletics,100m men
+1,NAM,frank fredericks,09.890,Atlanta 1996,Athletics,100m men
+2,TTO,ato boldon,09.900,Atlanta 1996,Athletics,100m men
+3,USA,dennis mitchell,09.990,Atlanta 1996,Athletics,100m men
+4,USA,michael marsh,10.000,Atlanta 1996,Athletics,100m men
+5,NGR,davidson ezinwa,10.140,Atlanta 1996,Athletics,100m men
+6,JAM,michael green,10.160,Atlanta 1996,Athletics,100m men
+7,GBR,linford christie,Disqualified,Atlanta 1996,Athletics,100m men
+8,CPV,alfayaya embalo,Did not start,Atlanta 1996,Athletics,100m men
+9,BAH,andrew tynes,Did not start,Atlanta 1996,Athletics,100m men
+0,USA,yolanda gail devers-roberts,10.940,Atlanta 1996,Athletics,100m women
+1,JAM,merlene ottey-page,10.940,Atlanta 1996,Athletics,100m women
+2,USA,gwen torrence,10.960,Atlanta 1996,Athletics,100m women
+3,BAH,chandra sturrup,11.000,Atlanta 1996,Athletics,100m women
+4,RUS,marina trandenkova,11.060,Atlanta 1996,Athletics,100m women
+5,RUS,nataliya pomoshchnikova-voronova,11.100,Atlanta 1996,Athletics,100m women
+6,NGR,mary onyali-omagbemi,11.130,Atlanta 1996,Athletics,100m women
+7,UKR,zhanna pintusevych,11.140,Atlanta 1996,Athletics,100m women
+8,SRI,susanthika jayasinghe,,Atlanta 1996,Athletics,100m women
+0,USA,allen johnson,12.950,Atlanta 1996,Athletics,110m hurdles men
+1,USA,mark crear,13.090,Atlanta 1996,Athletics,110m hurdles men
+2,GER,florian schwarthoff,13.170,Atlanta 1996,Athletics,110m hurdles men
+3,GBR,colin jackson,13.190,Atlanta 1996,Athletics,110m hurdles men
+4,CUB,emilio valle,13.200,Atlanta 1996,Athletics,110m hurdles men
+5,USA,eugene swift,13.230,Atlanta 1996,Athletics,110m hurdles men
+6,AUS,kyle vander-kuyp,13.400,Atlanta 1996,Athletics,110m hurdles men
+7,CUB,erick batte,13.430,Atlanta 1996,Athletics,110m hurdles men
+8,BEL,johan lisabeth,,Atlanta 1996,Athletics,110m hurdles men
+9,GBR,tony jarrett,,Atlanta 1996,Athletics,110m hurdles men
+10,CPV,henry andrade,,Atlanta 1996,Athletics,110m hurdles men
+11,MAS,nurherman majid,Did not start,Atlanta 1996,Athletics,110m hurdles men
+12,PAN,curt young,Did not start,Atlanta 1996,Athletics,110m hurdles men
+0,ALG,nourredine morceli,00:03:35.780,Atlanta 1996,Athletics,1500m men
+1,ESP,fermin cacho ruiz,00:03:36.400,Atlanta 1996,Athletics,1500m men
+2,KEN,stephen kipkorir,00:03:36.720,Atlanta 1996,Athletics,1500m men
+3,KEN,laban rotich,00:03:37.390,Atlanta 1996,Athletics,1500m men
+4,KEN,william tanui,00:03:37.420,Atlanta 1996,Athletics,1500m men
+5,SOM,abdi bile,00:03:38.030,Atlanta 1996,Athletics,1500m men
+6,NED,marko koers,00:03:38.180,Atlanta 1996,Athletics,1500m men
+7,TUN,ali hakimi,00:03:38.190,Atlanta 1996,Athletics,1500m men
+8,QAT,mohammed suleiman,00:03:38.260,Atlanta 1996,Athletics,1500m men
+9,MAR,driss maazouzi,00:03:39.650,Atlanta 1996,Athletics,1500m men
+10,GBR,john mayock,00:03:40.180,Atlanta 1996,Athletics,1500m men
+11,MAR,hicham el guerrouj,00:03:40.750,Atlanta 1996,Athletics,1500m men
+12,CAN,graham colin hood,,Atlanta 1996,Athletics,1500m men
+0,RUS,svetlana masterkova,00:04:00.830,Atlanta 1996,Athletics,1500m women
+1,ROU,gabriela szabo,00:04:01.540,Atlanta 1996,Athletics,1500m women
+2,AUT,theresia kiesl,00:04:03.020,Atlanta 1996,Athletics,1500m women
+3,CAN,leah marlee pells,00:04:03.560,Atlanta 1996,Athletics,1500m women
+4,AUS,margaret crowley,00:04:03.790,Atlanta 1996,Athletics,1500m women
+5,POR,carla sacramento,00:04:03.910,Atlanta 1996,Athletics,1500m women
+6,RUS,lyudmila borisova,00:04:05.900,Atlanta 1996,Athletics,1500m women
+7,POL,malgorzata rydz,00:04:05.920,Atlanta 1996,Athletics,1500m women
+8,RSA,gwen griffiths,00:04:06.330,Atlanta 1996,Athletics,1500m women
+9,USA,regina jacobs,00:04:07.210,Atlanta 1996,Athletics,1500m women
+10,GBR,kelly holmes,00:04:07.460,Atlanta 1996,Athletics,1500m women
+11,POL,anna brzezinska,00:04:08.270,Atlanta 1996,Athletics,1500m women
+12,ROU,catalina gheorghiu,,Atlanta 1996,Athletics,1500m women
+0,USA,michael johnson,19.320,Atlanta 1996,Athletics,200m men
+1,NAM,frank fredericks,19.680,Atlanta 1996,Athletics,200m men
+2,TTO,ato boldon,19.800,Atlanta 1996,Athletics,200m men
+3,BAR,obadele thompson,20.140,Atlanta 1996,Athletics,200m men
+4,USA,jeff williams,20.170,Atlanta 1996,Athletics,200m men
+5,CUB,iván garcía,20.210,Atlanta 1996,Athletics,200m men
+6,BEL,patrick stevens,20.270,Atlanta 1996,Athletics,200m men
+7,USA,michael marsh,20.480,Atlanta 1996,Athletics,200m men
+8,BRA,claudinei silva,,Atlanta 1996,Athletics,200m men
+9,AUS,dean capobianco,Disqualified,Atlanta 1996,Athletics,200m men
+10,ESP,venancio jose,Did not start,Atlanta 1996,Athletics,200m men
+11,NGR,olapade adeniken,Did not start,Atlanta 1996,Athletics,200m men
+12,QAT,ibrahim ismail muftah,Did not start,Atlanta 1996,Athletics,200m men
+0,FRA,marie-jose perec,22.120,Atlanta 1996,Athletics,200m women
+1,JAM,merlene ottey-page,22.240,Atlanta 1996,Athletics,200m women
+2,NGR,mary onyali-omagbemi,22.380,Atlanta 1996,Athletics,200m women
+3,USA,inger miller,22.410,Atlanta 1996,Athletics,200m women
+4,RUS,galina malchugina,22.450,Atlanta 1996,Athletics,200m women
+5,BAH,chandra sturrup,22.540,Atlanta 1996,Athletics,200m women
+6,JAM,juliet cuthbert,22.600,Atlanta 1996,Athletics,200m women
+7,USA,carlette d. guidry-white,22.610,Atlanta 1996,Athletics,200m women
+8,RUS,marina trandenkova,Did not start,Atlanta 1996,Athletics,200m women
 0,ECU,jefferson perez,01:20:07.000,Atlanta 1996,Athletics,20km walk men
 1,RUS,ilya markov,01:20:16.000,Atlanta 1996,Athletics,20km walk men
 2,MEX,bernardo segura,01:20:23.000,Atlanta 1996,Athletics,20km walk men

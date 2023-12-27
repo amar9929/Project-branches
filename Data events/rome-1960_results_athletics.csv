@@ -1,4 +1,190 @@
 ,country,participant,result,olympic_game,discipline,event
+0,URS,pyotr bolotnikov,00:28:32.200,Rome 1960,Athletics,10000m men
+1,GER,hans grodotzki,00:28:37.000,Rome 1960,Athletics,10000m men
+2,AUS,david power,00:28:38.200,Rome 1960,Athletics,10000m men
+3,URS,aleksei desyatchikov,00:28:39.600,Rome 1960,Athletics,10000m men
+4,NZL,murray gordon halberg,00:28:48.500,Rome 1960,Athletics,10000m men
+5,USA,max edwin truex,00:28:50.200,Rome 1960,Athletics,10000m men
+6,POL,zdzislaw krzyszkowiak,00:28:52.400,Rome 1960,Athletics,10000m men
+7,GBR,john linden merriman,00:28:52.600,Rome 1960,Athletics,10000m men
+8,GBR,martin hyman,00:29:04.800,Rome 1960,Athletics,10000m men
+9,GBR,gordon pirie,00:29:15.200,Rome 1960,Athletics,10000m men
+10,HUN,sandor iharos,00:29:15.800,Rome 1960,Athletics,10000m men
+11,GER,gerhard honicke,00:29:20.400,Rome 1960,Athletics,10000m men
+12,FRA,robert bogey,00:29:22.400,Rome 1960,Athletics,10000m men
+13,MAR,abdesiem rhadi ben abdesselem,00:29:34.400,Rome 1960,Athletics,10000m men
+14,HUN,jozsef kovacs,00:29:42.200,Rome 1960,Athletics,10000m men
+15,URS,yevgeni zhukov,00:29:50.200,Rome 1960,Athletics,10000m men
+16,GER,xaver hoger,00:29:58.000,Rome 1960,Athletics,10000m men
+17,POL,stanislaw ozog,00:30:01.000,Rome 1960,Athletics,10000m men
+18,KEN,arere anentia,00:30:03.000,Rome 1960,Athletics,10000m men
+19,ROU,constantin grecescu,00:30:04.800,Rome 1960,Athletics,10000m men
+20,FIN,simo sakari saloranta,00:30:12.400,Rome 1960,Athletics,10000m men
+21,FRA,hamoud ameur,00:30:25.400,Rome 1960,Athletics,10000m men
+22,FRA,hamida addeche,00:30:27.200,Rome 1960,Athletics,10000m men
+23,CAN,douglas h. kyle,00:30:31.600,Rome 1960,Athletics,10000m men
+24,ESP,carlos perez alonso,00:30:35.800,Rome 1960,Athletics,10000m men
+25,NZL,arthur barry magee,00:30:39.400,Rome 1960,Athletics,10000m men
+26,ITA,ffanco antonelli,00:30:47.400,Rome 1960,Athletics,10000m men
+27,ZIM,cyprian tseriwa,00:30:47.800,Rome 1960,Athletics,10000m men
+28,TUR,fevzi pakel,00:32:06.200,Rome 1960,Athletics,10000m men
+29,POL,kazimierz zimny,Did not finish,Rome 1960,Athletics,10000m men
+30,ETH,gebru merawi,Did not finish,Rome 1960,Athletics,10000m men
+31,TCH,jaroslav bohaty,Did not finish,Rome 1960,Athletics,10000m men
+32,AUS,allan lawrence,Did not finish,Rome 1960,Athletics,10000m men
+33,IND,kulwant arora,Did not start,Rome 1960,Athletics,10000m men
+34,GRE,ioannis glezos,Did not start,Rome 1960,Athletics,10000m men
+35,KOR,sam song,Did not start,Rome 1960,Athletics,10000m men
+36,CHI,jose aceituno,Did not start,Rome 1960,Athletics,10000m men
+37,BEL,hedwig leenaert,Did not start,Rome 1960,Athletics,10000m men
+38,GUY,george de peana,Did not start,Rome 1960,Athletics,10000m men
+39,JPN,katsuo nishida,Did not start,Rome 1960,Athletics,10000m men
+40,MYA,naw myintung,Did not start,Rome 1960,Athletics,10000m men
+41,SRI,linus diaz,Did not start,Rome 1960,Athletics,10000m men
+42,TCH,miroslav jurek,Did not start,Rome 1960,Athletics,10000m men
+43,VNM,nguyen van ly,Did not start,Rome 1960,Athletics,10000m men
+0,GER,armin hary,10.200,Rome 1960,Athletics,100m men
+1,USA,david sime,10.200,Rome 1960,Athletics,100m men
+2,GBR,peter radford,10.300,Rome 1960,Athletics,100m men
+3,CUB,enrique figuerola camue,10.300,Rome 1960,Athletics,100m men
+4,USA,francis joseph budd,10.300,Rome 1960,Athletics,100m men
+5,USA,otis ray norton,10.400,Rome 1960,Athletics,100m men
+6,CAN,henry winston harry jerome,,Rome 1960,Athletics,100m men
+7,PAK,iftikhar shah,,Rome 1960,Athletics,100m men
+8,IRI,rouhollah rahmani,Did not start,Rome 1960,Athletics,100m men
+9,NGR,james omagbemi,Did not start,Rome 1960,Athletics,100m men
+0,USA,wilma rudolph,11.0w,Rome 1960,Athletics,100m women
+1,GBR,dorothy hyman,11.3w,Rome 1960,Athletics,100m women
+2,ITA,giuseppina leone,11.3w,Rome 1960,Athletics,100m women
+3,URS,mariya itkina,11.4w,Rome 1960,Athletics,100m women
+4,FRA,catherine capdevielle,11.5w,Rome 1960,Athletics,100m women
+5,GBR,jennifer ann smart,11.6w,Rome 1960,Athletics,100m women
+6,IND,siloo mystri,Did not start,Rome 1960,Athletics,100m women
+7,AUT,ulla flegel,Did not start,Rome 1960,Athletics,100m women
+8,HUN,erzsébet bartos-heldt,Did not start,Rome 1960,Athletics,100m women
+9,HUN,antonia munkacsi,Did not start,Rome 1960,Athletics,100m women
+10,TCH,alena stoltsova,Did not start,Rome 1960,Athletics,100m women
+11,URS,iryna press,Did not start,Rome 1960,Athletics,100m women
+0,USA,lee calhoun,13.800,Rome 1960,Athletics,110m hurdles men
+1,USA,william lee may,13.800,Rome 1960,Athletics,110m hurdles men
+2,USA,hayes jones,14.000,Rome 1960,Athletics,110m hurdles men
+3,GER,martin lauer,14.000,Rome 1960,Athletics,110m hurdles men
+4,WIF,keith alvin saint gardner,14.400,Rome 1960,Athletics,110m hurdles men
+5,URS,valentin chistyakov,14.600,Rome 1960,Athletics,110m hurdles men
+6,URS,anatoly mikhaylov,,Rome 1960,Athletics,110m hurdles men
+7,AFG,abdul hakim wardak,,Rome 1960,Athletics,110m hurdles men
+8,SUD,isaac elie,,Rome 1960,Athletics,110m hurdles men
+9,NED,evert kamerbeek,Did not start,Rome 1960,Athletics,110m hurdles men
+0,AUS,herbert elliott,00:03:35.600,Rome 1960,Athletics,1500m men
+1,FRA,michel jazy,00:03:38.400,Rome 1960,Athletics,1500m men
+2,HUN,istvan roszavölgyi,00:03:39.200,Rome 1960,Athletics,1500m men
+3,SWE,dan waern,00:03:40.000,Rome 1960,Athletics,1500m men
+4,ROU,zoltan vamos,00:03:40.800,Rome 1960,Athletics,1500m men
+5,USA,dyrol jay burleson,00:03:40.900,Rome 1960,Athletics,1500m men
+6,FRA,michel bernard,00:03:41.500,Rome 1960,Athletics,1500m men
+7,USA,james edward grelle,00:03:45.000,Rome 1960,Athletics,1500m men
+8,NOR,arne hammarsland,00:03:45.000,Rome 1960,Athletics,1500m men
+9,POL,zbigniew orywal,,Rome 1960,Athletics,1500m men
+10,HUN,peter parsch,,Rome 1960,Athletics,1500m men
+11,LIE,egon oehri,,Rome 1960,Athletics,1500m men
+12,SUI,karl schaller,Did not start,Rome 1960,Athletics,1500m men
+13,AFG,abdul ghafoori,Did not start,Rome 1960,Athletics,1500m men
+14,BEL,roger moens,Did not start,Rome 1960,Athletics,1500m men
+15,GUY,ralph gomes,Did not start,Rome 1960,Athletics,1500m men
+0,ITA,livio berruti,20.500,Rome 1960,Athletics,200m men
+1,USA,les carney,20.600,Rome 1960,Athletics,200m men
+2,FRA,abdoulaye seye,20.700,Rome 1960,Athletics,200m men
+3,POL,marian foik,20.800,Rome 1960,Athletics,200m men
+4,USA,stone edward johnson,20.800,Rome 1960,Athletics,200m men
+5,USA,otis ray norton,20.900,Rome 1960,Athletics,200m men
+6,GBR,david hugh segal,,Rome 1960,Athletics,200m men
+7,TCH,vilem mandlik,,Rome 1960,Athletics,200m men
+8,CAN,henry winston harry jerome,Did not start,Rome 1960,Athletics,200m men
+9,CUB,enrique figuerola camue,Did not start,Rome 1960,Athletics,200m men
+10,ETH,abebe hailou,Did not start,Rome 1960,Athletics,200m men
+11,GER,armin hary,Did not start,Rome 1960,Athletics,200m men
+12,ISL,hilmar rognvaldsson,Did not start,Rome 1960,Athletics,200m men
+13,LBR,emmanuel gbecy putu,Did not start,Rome 1960,Athletics,200m men
+14,PAK,iftikhar shah,Did not start,Rome 1960,Athletics,200m men
+15,THA,suthi manyakas,Did not start,Rome 1960,Athletics,200m men
+0,USA,wilma rudolph,24.000,Rome 1960,Athletics,200m women
+1,GER,judith (jutta) heine,24.400,Rome 1960,Athletics,200m women
+2,GBR,dorothy hyman,24.700,Rome 1960,Athletics,200m women
+3,URS,mariya itkina,24.700,Rome 1960,Athletics,200m women
+4,POL,barbara lerczak-janiszewska,24.800,Rome 1960,Athletics,200m women
+5,ITA,giuseppina leone,24.900,Rome 1960,Athletics,200m women
+6,ROU,maria ionescu,Did not start,Rome 1960,Athletics,200m women
+7,AUS,betty cuthbert,Did not start,Rome 1960,Athletics,200m women
+8,BUL,snejana angelova angelova-kerkova,Did not start,Rome 1960,Athletics,200m women
+9,GHA,christiana a. boateng,Did not start,Rome 1960,Athletics,200m women
+10,IND,stephanie d'souza,Did not start,Rome 1960,Athletics,200m women
+11,PAN,carlota gooden,Did not start,Rome 1960,Athletics,200m women
+12,PAN,jean holmes-mitchell,Did not start,Rome 1960,Athletics,200m women
+0,URS,vladimir golubnichy,01:34:07.200,Rome 1960,Athletics,20km walk men
+1,AUS,noel frederick freeman,01:34:16.400,Rome 1960,Athletics,20km walk men
+2,GBR,stanley frank vickers,01:34:56.400,Rome 1960,Athletics,20km walk men
+3,GER,dieter lindner,01:35:33.800,Rome 1960,Athletics,20km walk men
+4,NZL,norman richard read,01:36:59.000,Rome 1960,Athletics,20km walk men
+5,SWE,lennart back,01:37:17.000,Rome 1960,Athletics,20km walk men
+6,SWE,john artur ljunggren,01:37:59.000,Rome 1960,Athletics,20km walk men
+7,TCH,ladislav moc,01:38:32.400,Rome 1960,Athletics,20km walk men
+8,CAN,alex oakley,01:38:46.000,Rome 1960,Athletics,20km walk men
+9,GBR,eric william hall,01:38:54.000,Rome 1960,Athletics,20km walk men
+10,AUS,ronald crawford,01:39:16.200,Rome 1960,Athletics,20km walk men
+11,FRA,henri delerue,01:39:37.600,Rome 1960,Athletics,20km walk men
+12,RSA,george hazle,01:40:16.200,Rome 1960,Athletics,20km walk men
+13,SWE,lennart carlsson,01:40:25.000,Rome 1960,Athletics,20km walk men
+14,DEN,tommy kristensen,01:41:07.600,Rome 1960,Athletics,20km walk men
+15,GER,hannes koch,01:41:53.400,Rome 1960,Athletics,20km walk men
+16,SUI,louis marquis,01:41:59.600,Rome 1960,Athletics,20km walk men
+17,LUX,charel sowa,01:42:43.800,Rome 1960,Athletics,20km walk men
+18,USA,ronald lloyd zinn,01:42:47.000,Rome 1960,Athletics,20km walk men
+19,IND,zora singh,01:43:19.800,Rome 1960,Athletics,20km walk men
+20,ITA,stefano serchinich,01:43:58.600,Rome 1960,Athletics,20km walk men
+21,ITA,luigi de rosso,01:45:04.200,Rome 1960,Athletics,20km walk men
+22,USA,robert franklin mimm,01:45:09.000,Rome 1960,Athletics,20km walk men
+23,USA,rudolph john haluza,01:45:11.000,Rome 1960,Athletics,20km walk men
+24,DEN,leo rosschou larsen,01:46:35.800,Rome 1960,Athletics,20km walk men
+25,ITA,giovanni corsaro,01:46:47.200,Rome 1960,Athletics,20km walk men
+26,TUN,kalifa bahrouni,01:47:09.600,Rome 1960,Athletics,20km walk men
+27,TUN,naoui zlassi,01:55:21.000,Rome 1960,Athletics,20km walk men
+28,IND,ajit singh,Disqualified,Rome 1960,Athletics,20km walk men
+29,URS,anatoly vedyakov,Disqualified,Rome 1960,Athletics,20km walk men
+30,TUN,mohamed ben lazhar,Disqualified,Rome 1960,Athletics,20km walk men
+31,SUI,gabriel reymond,Disqualified,Rome 1960,Athletics,20km walk men
+32,URS,gennadi solodov,Disqualified,Rome 1960,Athletics,20km walk men
+33,GER,siegfried lefanczik,Disqualified,Rome 1960,Athletics,20km walk men
+34,HUN,tibor balajcza,Disqualified,Rome 1960,Athletics,20km walk men
+35,GBR,kenneth joseph matthews,Did not finish,Rome 1960,Athletics,20km walk men
+36,ROU,eugen filipescu,Did not start,Rome 1960,Athletics,20km walk men
+0,POL,zdzislaw krzyszkowiak,00:08:34.200,Rome 1960,Athletics,3000m steeplechase men
+1,URS,nikolai sokolov,00:08:36.400,Rome 1960,Athletics,3000m steeplechase men
+2,URS,semyon rzhishchin,00:08:42.200,Rome 1960,Athletics,3000m steeplechase men
+3,BEL,gaston roelants,00:08:47.600,Rome 1960,Athletics,3000m steeplechase men
+4,SWE,gunnar karlsson-tjornebo,00:08:58.600,Rome 1960,Athletics,3000m steeplechase men
+5,GER,ludwig muller,00:09:01.600,Rome 1960,Athletics,3000m steeplechase men
+6,USA,charles nicholas jones,00:09:18.200,Rome 1960,Athletics,3000m steeplechase men
+7,URS,aleksei konov,00:09:18.200,Rome 1960,Athletics,3000m steeplechase men
+8,GER,hans hunecke,Did not finish,Rome 1960,Athletics,3000m steeplechase men
+9,IND,balkrishan grewal,Did not start,Rome 1960,Athletics,3000m steeplechase men
+10,AUT,walter steinbach,Did not start,Rome 1960,Athletics,3000m steeplechase men
+11,BRA,sebastião mendes,Did not start,Rome 1960,Athletics,3000m steeplechase men
+0,USA,glenn ashby davis,49.300,Rome 1960,Athletics,400m hurdles men
+1,USA,clifton emmett cushman,49.600,Rome 1960,Athletics,400m hurdles men
+2,USA,richard wayne howard,49.700,Rome 1960,Athletics,400m hurdles men
+3,GER,helmuth janz,49.900,Rome 1960,Athletics,400m hurdles men
+4,FIN,jussi rintamaki,50.800,Rome 1960,Athletics,400m hurdles men
+5,SUI,bruno galliker,51.000,Rome 1960,Athletics,400m hurdles men
+6,INA,soedjanoedji soedjanoedji,Did not start,Rome 1960,Athletics,400m hurdles men
+7,AFG,habib sayed,Did not start,Rome 1960,Athletics,400m hurdles men
+0,USA,otis crandall davis,44.900,Rome 1960,Athletics,400m men
+1,GER,carl kaufmann,44.900,Rome 1960,Athletics,400m men
+2,RSA,malcolm clive spence,45.500,Rome 1960,Athletics,400m men
+3,IND,milkha singh,45.600,Rome 1960,Athletics,400m men
+4,GER,manfred kinder,45.900,Rome 1960,Athletics,400m men
+5,USA,earl verdelle young,45.900,Rome 1960,Athletics,400m men
+6,WIF,george ezekiel kerr,Did not start,Rome 1960,Athletics,400m men
+7,VEN,rafael romero sandrea,Did not start,Rome 1960,Athletics,400m men
 0,,,39.500,Rome 1960,Athletics,4x100m relay men
 1,,,40.100,Rome 1960,Athletics,4x100m relay men
 2,,,40.200,Rome 1960,Athletics,4x100m relay men

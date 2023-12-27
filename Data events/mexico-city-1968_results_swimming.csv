@@ -1,4 +1,477 @@
 ,country,participant,result,olympic_game,discipline,event
+0,GDR,roland matthes,58.700,Mexico City 1968,Swimming,100m backstroke men
+1,USA,charlie hickcox,00:01:00.200,Mexico City 1968,Swimming,100m backstroke men
+2,USA,ronald p. mills,00:01:00.500,Mexico City 1968,Swimming,100m backstroke men
+3,USA,lawrence edward barbiere,00:01:01.100,Mexico City 1968,Swimming,100m backstroke men
+4,CAN,james shaw,00:01:01.400,Mexico City 1968,Swimming,100m backstroke men
+5,NED,robert (bob) schoutsen,00:01:01.800,Mexico City 1968,Swimming,100m backstroke men
+6,FRG,reinhard blechert,00:01:01.900,Mexico City 1968,Swimming,100m backstroke men
+7,ITA,franco del campo,00:01:02.000,Mexico City 1968,Swimming,100m backstroke men
+8,AUS,karl byrom,,Mexico City 1968,Swimming,100m backstroke men
+9,ESP,santiago esteva escoda,,Mexico City 1968,Swimming,100m backstroke men
+10,URS,yury gromak,,Mexico City 1968,Swimming,100m backstroke men
+11,URS,viktor mazanov,,Mexico City 1968,Swimming,100m backstroke men
+12,ITA,franco chino,,Mexico City 1968,Swimming,100m backstroke men
+13,YUG,danijel vrhovsek,,Mexico City 1968,Swimming,100m backstroke men
+14,GBR,joseph jackson,,Mexico City 1968,Swimming,100m backstroke men
+15,DEN,ejvind bue stampe pedersen,,Mexico City 1968,Swimming,100m backstroke men
+16,ARG,leonardo barenboim,,Mexico City 1968,Swimming,100m backstroke men
+17,JPN,kishio tanaka,,Mexico City 1968,Swimming,100m backstroke men
+18,GBR,roderick stephen jones,,Mexico City 1968,Swimming,100m backstroke men
+19,MEX,jose joaquin santibanez,,Mexico City 1968,Swimming,100m backstroke men
+20,URS,yevgeni spiridonov,,Mexico City 1968,Swimming,100m backstroke men
+21,BEL,herman verbauwen,,Mexico City 1968,Swimming,100m backstroke men
+22,BRA,cesar augusto filardi,,Mexico City 1968,Swimming,100m backstroke men
+23,HUN,laszlo cseh,,Mexico City 1968,Swimming,100m backstroke men
+24,ESP,jesus cabrera balsa,,Mexico City 1968,Swimming,100m backstroke men
+25,MEX,jaime rivera,,Mexico City 1968,Swimming,100m backstroke men
+26,SWE,hans tegeback,,Mexico City 1968,Swimming,100m backstroke men
+27,SUI,gerald evard,,Mexico City 1968,Swimming,100m backstroke men
+28,PUR,gary goodner,,Mexico City 1968,Swimming,100m backstroke men
+29,CUB,eliseo vidal lopez,,Mexico City 1968,Swimming,100m backstroke men
+30,MEX,luis angel acosta,,Mexico City 1968,Swimming,100m backstroke men
+31,PUR,francisco ramis,,Mexico City 1968,Swimming,100m backstroke men
+32,HKG,man-chiu robert wong,,Mexico City 1968,Swimming,100m backstroke men
+33,LBN,yacoub masboungi,,Mexico City 1968,Swimming,100m backstroke men
+34,GUA,antonio cruz,,Mexico City 1968,Swimming,100m backstroke men
+35,ESA,friedrich jokisch arguello,,Mexico City 1968,Swimming,100m backstroke men
+36,ESA,arturo carranza,,Mexico City 1968,Swimming,100m backstroke men
+37,ARG,carlos van der math,Did not start,Mexico City 1968,Swimming,100m backstroke men
+38,JAM,paul nash,Did not start,Mexico City 1968,Swimming,100m backstroke men
+0,USA,kaye marie hall,00:01:06.200,Mexico City 1968,Swimming,100m backstroke women
+1,CAN,elaine tanner,00:01:06.700,Mexico City 1968,Swimming,100m backstroke women
+2,USA,jane ellen swagerty,00:01:08.100,Mexico City 1968,Swimming,100m backstroke women
+3,USA,kendis marion moore,00:01:08.300,Mexico City 1968,Swimming,100m backstroke women
+4,HUN,andrea gyarmati,00:01:09.100,Mexico City 1968,Swimming,100m backstroke women
+5,AUS,lynette watson,00:01:09.100,Mexico City 1968,Swimming,100m backstroke women
+6,FRA,sylvie canet-le noach,00:01:09.300,Mexico City 1968,Swimming,100m backstroke women
+7,NZL,glenda joy stirling,00:01:10.600,Mexico City 1968,Swimming,100m backstroke women
+8,JPN,yukiko goushi,,Mexico City 1968,Swimming,100m backstroke women
+9,FRA,benedicte duprez,,Mexico City 1968,Swimming,100m backstroke women
+10,NED,jacobje (cobie) j. buter,,Mexico City 1968,Swimming,100m backstroke women
+11,FRA,christine (kiki) caron,,Mexico City 1968,Swimming,100m backstroke women
+12,YUG,zdenka gasparac,,Mexico City 1968,Swimming,100m backstroke women
+13,ESP,maria paz corominas guerin,,Mexico City 1968,Swimming,100m backstroke women
+14,URS,tina lek'veishvili,,Mexico City 1968,Swimming,100m backstroke women
+15,FIN,ulla patrikka,,Mexico City 1968,Swimming,100m backstroke women
+16,URS,tatyana savelyeva,,Mexico City 1968,Swimming,100m backstroke women
+17,AUT,yvette hafner,,Mexico City 1968,Swimming,100m backstroke women
+18,ROU,anca andreiu,,Mexico City 1968,Swimming,100m backstroke women
+19,HUN,maria balla-lantos,,Mexico City 1968,Swimming,100m backstroke women
+20,NED,coby sikkens,,Mexico City 1968,Swimming,100m backstroke women
+21,GBR,wendy burrell,,Mexico City 1968,Swimming,100m backstroke women
+22,AUS,dianna rickard,,Mexico City 1968,Swimming,100m backstroke women
+23,NED,albertha (bep) weeteling,,Mexico City 1968,Swimming,100m backstroke women
+24,FRG,angelika kraus,,Mexico City 1968,Swimming,100m backstroke women
+25,CAN,anne walton,,Mexico City 1968,Swimming,100m backstroke women
+26,GBR,jacqueline elizabeth brown,,Mexico City 1968,Swimming,100m backstroke women
+27,ARG,patricia ines sentous lopez,,Mexico City 1968,Swimming,100m backstroke women
+28,ARG,adriana comolli gutierrez,,Mexico City 1968,Swimming,100m backstroke women
+29,FRG,doris meister,,Mexico City 1968,Swimming,100m backstroke women
+30,MEX,lidia ramirez,,Mexico City 1968,Swimming,100m backstroke women
+31,NZL,prudence marguerite chapman,,Mexico City 1968,Swimming,100m backstroke women
+32,BEL,francine dauwen,,Mexico City 1968,Swimming,100m backstroke women
+33,ARG,maria susana procopio darre,,Mexico City 1968,Swimming,100m backstroke women
+34,HUN,judith baranyi,,Mexico City 1968,Swimming,100m backstroke women
+35,URU,felicia ofelia ospitaletche,,Mexico City 1968,Swimming,100m backstroke women
+36,ESA,carmen ferracuti,,Mexico City 1968,Swimming,100m backstroke women
+37,VNM,thị mỹ lien nguyễn,,Mexico City 1968,Swimming,100m backstroke women
+38,ESA,rosa tatiana hasbun,,Mexico City 1968,Swimming,100m backstroke women
+39,TPE,bao-ni shen,,Mexico City 1968,Swimming,100m backstroke women
+40,PHI,hedvig garcia,Did not start,Mexico City 1968,Swimming,100m backstroke women
+0,USA,donald ward jr. mckenzie,00:01:07.700,Mexico City 1968,Swimming,100m breaststroke men
+1,URS,vladimir kosinsky,00:01:08.000,Mexico City 1968,Swimming,100m breaststroke men
+2,URS,nikolai pankin,00:01:08.000,Mexico City 1968,Swimming,100m breaststroke men
+3,BRA,jose sylvio fiolo,00:01:08.100,Mexico City 1968,Swimming,100m breaststroke men
+4,URS,yevgeny mikhaylov,00:01:08.400,Mexico City 1968,Swimming,100m breaststroke men
+5,AUS,lawrence ian o'brien,00:01:08.600,Mexico City 1968,Swimming,100m breaststroke men
+6,ARG,alberto forelli lopez,00:01:08.700,Mexico City 1968,Swimming,100m breaststroke men
+7,GDR,egon henninger,00:01:09.700,Mexico City 1968,Swimming,100m breaststroke men
+8,USA,david josep perkowski,,Mexico City 1968,Swimming,100m breaststroke men
+9,MEX,felipe munoz,,Mexico City 1968,Swimming,100m breaststroke men
+10,CAN,william mahony,,Mexico City 1968,Swimming,100m breaststroke men
+11,FRG,michael günther,,Mexico City 1968,Swimming,100m breaststroke men
+12,FRG,gregor betz,,Mexico City 1968,Swimming,100m breaststroke men
+13,ROU,ladislau koszta,,Mexico City 1968,Swimming,100m breaststroke men
+14,GDR,klaus katzur,,Mexico City 1968,Swimming,100m breaststroke men
+15,JPN,osamu tsurumine,,Mexico City 1968,Swimming,100m breaststroke men
+16,PHI,amman e. jalmaani,,Mexico City 1968,Swimming,100m breaststroke men
+17,POL,jozef klukowski,,Mexico City 1968,Swimming,100m breaststroke men
+18,SWE,thomas johnsson,,Mexico City 1968,Swimming,100m breaststroke men
+19,HUN,sandor szabo,,Mexico City 1968,Swimming,100m breaststroke men
+20,FRG,thomas aretz,,Mexico City 1968,Swimming,100m breaststroke men
+21,USA,kenneth owen merten,,Mexico City 1968,Swimming,100m breaststroke men
+22,ARG,armando osvaldo boretto mazzara,,Mexico City 1968,Swimming,100m breaststroke men
+23,YUG,slavko kurbanovic,,Mexico City 1968,Swimming,100m breaststroke men
+24,GBR,roger p. roberts,,Mexico City 1968,Swimming,100m breaststroke men
+25,IRL,liam patrick ball,,Mexico City 1968,Swimming,100m breaststroke men
+26,ESP,jose duran,,Mexico City 1968,Swimming,100m breaststroke men
+27,ISR,johan kende,,Mexico City 1968,Swimming,100m breaststroke men
+28,GBR,john stuart roberts,,Mexico City 1968,Swimming,100m breaststroke men
+29,SUI,nicolas gilliard,,Mexico City 1968,Swimming,100m breaststroke men
+30,MEX,eduardo moreno,,Mexico City 1968,Swimming,100m breaststroke men
+31,PHI,leroy goff,,Mexico City 1968,Swimming,100m breaststroke men
+32,COL,ivan gomina paurmier,,Mexico City 1968,Swimming,100m breaststroke men
+33,ISL,leiknir jonsson,,Mexico City 1968,Swimming,100m breaststroke men
+34,MEX,javier jimenez,,Mexico City 1968,Swimming,100m breaststroke men
+35,ESA,abel munoz,,Mexico City 1968,Swimming,100m breaststroke men
+36,ESA,arturo carranza,,Mexico City 1968,Swimming,100m breaststroke men
+37,ESA,eduardo mauricio ramos,,Mexico City 1968,Swimming,100m breaststroke men
+38,JPN,nobutaka taguchi,Disqualified,Mexico City 1968,Swimming,100m breaststroke men
+39,ITA,massimo sacchi,Did not start,Mexico City 1968,Swimming,100m breaststroke men
+40,HUN,istván zsadanyi,Did not start,Mexico City 1968,Swimming,100m breaststroke men
+0,YUG,djurdjica bjedov,00:01:15.800,Mexico City 1968,Swimming,100m breaststroke women
+1,URS,galina prozumenshchikova-stepanova,00:01:15.900,Mexico City 1968,Swimming,100m breaststroke women
+2,USA,sharon lynn wichman,00:01:16.100,Mexico City 1968,Swimming,100m breaststroke women
+3,FRG,uta frommater,00:01:16.200,Mexico City 1968,Swimming,100m breaststroke women
+4,USA,catherine ball,00:01:16.700,Mexico City 1968,Swimming,100m breaststroke women
+5,JPN,kiyoe nakagawa,00:01:17.000,Mexico City 1968,Swimming,100m breaststroke women
+6,URS,svetlana babanina,00:01:17.200,Mexico City 1968,Swimming,100m breaststroke women
+7,URU,ana-maria norbis,00:01:17.300,Mexico City 1968,Swimming,100m breaststroke women
+8,AUS,joanne barnes,,Mexico City 1968,Swimming,100m breaststroke women
+9,URS,alla grebennikova,,Mexico City 1968,Swimming,100m breaststroke women
+10,USA,susanne jean jones,,Mexico City 1968,Swimming,100m breaststroke women
+11,AUT,christine (christol) filippovits,,Mexico City 1968,Swimming,100m breaststroke women
+12,AUS,judith playfair,,Mexico City 1968,Swimming,100m breaststroke women
+13,GBR,diana adrienne harris,,Mexico City 1968,Swimming,100m breaststroke women
+14,GBR,dorothy elizabeth harrison,,Mexico City 1968,Swimming,100m breaststroke women
+15,GBR,jill slattery,,Mexico City 1968,Swimming,100m breaststroke women
+16,JPN,yukari takemoto,,Mexico City 1968,Swimming,100m breaststroke women
+17,SWE,yvonne brage,,Mexico City 1968,Swimming,100m breaststroke women
+18,AUS,susan mckenzie,,Mexico City 1968,Swimming,100m breaststroke women
+19,ISR,shlomit nir,,Mexico City 1968,Swimming,100m breaststroke women
+20,IRL,ann o'connor,,Mexico City 1968,Swimming,100m breaststroke women
+21,NED,maria catharina a. janus,,Mexico City 1968,Swimming,100m breaststroke women
+22,FRG,verena (vreni) eberle,,Mexico City 1968,Swimming,100m breaststroke women
+23,HUN,marta egervary,,Mexico City 1968,Swimming,100m breaststroke women
+24,ISL,ellen ingvadottir,,Mexico City 1968,Swimming,100m breaststroke women
+25,MEX,tamara oynick,,Mexico City 1968,Swimming,100m breaststroke women
+26,LUX,arlette wilmes,,Mexico City 1968,Swimming,100m breaststroke women
+27,MEX,victoria casas,,Mexico City 1968,Swimming,100m breaststroke women
+28,PUR,liana vicens,,Mexico City 1968,Swimming,100m breaststroke women
+29,ECU,tamara orejuela,,Mexico City 1968,Swimming,100m breaststroke women
+30,ESA,maria elena moreno,,Mexico City 1968,Swimming,100m breaststroke women
+31,ESA,maria elena castro,,Mexico City 1968,Swimming,100m breaststroke women
+32,ESA,celia jokisch arguello,,Mexico City 1968,Swimming,100m breaststroke women
+33,MEX,ana elena de la portilla,Did not start,Mexico City 1968,Swimming,100m breaststroke women
+34,PHI,hedvig garcia,Did not start,Mexico City 1968,Swimming,100m breaststroke women
+35,HUN,maria ballago szabo,Did not start,Mexico City 1968,Swimming,100m breaststroke women
+0,USA,douglas albert russell,55.900,Mexico City 1968,Swimming,100m butterfly men
+1,USA,mark spitz,56.400,Mexico City 1968,Swimming,100m butterfly men
+2,USA,ross elliott wales,57.200,Mexico City 1968,Swimming,100m butterfly men
+3,URS,vladimir nemshilov,58.100,Mexico City 1968,Swimming,100m butterfly men
+4,JPN,satoshi maruya,58.600,Mexico City 1968,Swimming,100m butterfly men
+5,URS,yuri suzdaltsev,58.800,Mexico City 1968,Swimming,100m butterfly men
+6,FRG,lutz stocklasa,58.900,Mexico City 1968,Swimming,100m butterfly men
+7,AUS,robert cusack,59.800,Mexico City 1968,Swimming,100m butterfly men
+8,GBR,joseph jackson,,Mexico City 1968,Swimming,100m butterfly men
+9,GBR,martyn john woodroffe,,Mexico City 1968,Swimming,100m butterfly men
+10,CAN,toomas arusoo,,Mexico City 1968,Swimming,100m butterfly men
+11,ISR,abraham melamed,,Mexico City 1968,Swimming,100m butterfly men
+12,JPN,yasuo takada,,Mexico City 1968,Swimming,100m butterfly men
+13,FRG,werner freitag,,Mexico City 1968,Swimming,100m butterfly men
+14,SWE,ingvar eriksson,,Mexico City 1968,Swimming,100m butterfly men
+15,SWE,bo westergren,,Mexico City 1968,Swimming,100m butterfly men
+16,PUR,gary goodner,,Mexico City 1968,Swimming,100m butterfly men
+17,ITA,antonio attanasio,,Mexico City 1968,Swimming,100m butterfly men
+18,CAN,ronald brian jacks,,Mexico City 1968,Swimming,100m butterfly men
+19,ITA,angelo tozzi,,Mexico City 1968,Swimming,100m butterfly men
+20,PUR,jose ferriouli,,Mexico City 1968,Swimming,100m butterfly men
+21,GBR,john philip thurley,,Mexico City 1968,Swimming,100m butterfly men
+22,ARG,luis alberto nicolao yanuzzi,,Mexico City 1968,Swimming,100m butterfly men
+23,ESP,arturo lang-lenton leon,,Mexico City 1968,Swimming,100m butterfly men
+24,GDR,horst-günther gregor,,Mexico City 1968,Swimming,100m butterfly men
+25,URS,sergei konov,,Mexico City 1968,Swimming,100m butterfly men
+26,ECU,eduardo orejuela,,Mexico City 1968,Swimming,100m butterfly men
+27,SUI,aris caperonis,,Mexico City 1968,Swimming,100m butterfly men
+28,HUN,istvan szentirmai,,Mexico City 1968,Swimming,100m butterfly men
+29,AUS,graham dunn,,Mexico City 1968,Swimming,100m butterfly men
+30,ITA,giampiero fossati,,Mexico City 1968,Swimming,100m butterfly men
+31,MEX,mario santibanez,,Mexico City 1968,Swimming,100m butterfly men
+32,PHI,leroy goff,,Mexico City 1968,Swimming,100m butterfly men
+33,BEL,joseph meyten,,Mexico City 1968,Swimming,100m butterfly men
+34,COL,tomas alberto becerra,,Mexico City 1968,Swimming,100m butterfly men
+35,BRA,nikita nikita,,Mexico City 1968,Swimming,100m butterfly men
+36,SWE,lars feil,,Mexico City 1968,Swimming,100m butterfly men
+37,IRL,donnacha niallan o'dea,,Mexico City 1968,Swimming,100m butterfly men
+38,GUA,ramiro benavides,,Mexico City 1968,Swimming,100m butterfly men
+39,ISL,gudmunður gíslason,,Mexico City 1968,Swimming,100m butterfly men
+40,MEX,maximiliano aguilar,,Mexico City 1968,Swimming,100m butterfly men
+41,TPE,tong-shing lee,,Mexico City 1968,Swimming,100m butterfly men
+42,ESA,salvador antonio vilanova,,Mexico City 1968,Swimming,100m butterfly men
+43,HKG,andrew loh,,Mexico City 1968,Swimming,100m butterfly men
+44,HKG,robert loh,,Mexico City 1968,Swimming,100m butterfly men
+45,ESA,ruben ernesto guerrero,,Mexico City 1968,Swimming,100m butterfly men
+46,ESA,friedrich jokisch arguello,,Mexico City 1968,Swimming,100m butterfly men
+47,HUN,laszlo cseh,Did not start,Mexico City 1968,Swimming,100m butterfly men
+48,TTO,geoffrey ferreira,Did not start,Mexico City 1968,Swimming,100m butterfly men
+0,AUS,lynette mcclements,00:01:05.500,Mexico City 1968,Swimming,100m butterfly women
+1,USA,eleanor suzanne daniel,00:01:05.800,Mexico City 1968,Swimming,100m butterfly women
+2,USA,susanne marie shields,00:01:06.200,Mexico City 1968,Swimming,100m butterfly women
+3,NED,aagje ada kok,00:01:06.200,Mexico City 1968,Swimming,100m butterfly women
+4,HUN,andrea gyarmati,00:01:06.800,Mexico City 1968,Swimming,100m butterfly women
+5,FRG,heike hustede-nagel,00:01:06.900,Mexico City 1968,Swimming,100m butterfly women
+6,USA,antonia (toni) hewitt,00:01:07.500,Mexico City 1968,Swimming,100m butterfly women
+7,GDR,helga lindner,00:01:07.600,Mexico City 1968,Swimming,100m butterfly women
+8,GDR,christine strubing,,Mexico City 1968,Swimming,100m butterfly women
+9,URS,tatyana devyatova,,Mexico City 1968,Swimming,100m butterfly women
+10,NED,petronella (nelly) bos,,Mexico City 1968,Swimming,100m butterfly women
+11,NZL,alexandra anne whittleston,,Mexico City 1968,Swimming,100m butterfly women
+12,GBR,margaret m. auton,,Mexico City 1968,Swimming,100m butterfly women
+13,JPN,yasuko fujii,,Mexico City 1968,Swimming,100m butterfly women
+14,CAN,jeanne warren,,Mexico City 1968,Swimming,100m butterfly women
+15,GBR,gillian treers,,Mexico City 1968,Swimming,100m butterfly women
+16,CAN,marilyn corson,,Mexico City 1968,Swimming,100m butterfly women
+17,TPE,liana oei,,Mexico City 1968,Swimming,100m butterfly women
+18,ISR,yvonne tobias,,Mexico City 1968,Swimming,100m butterfly women
+19,MEX,patricia obregon,,Mexico City 1968,Swimming,100m butterfly women
+20,IRL,vivienne smith,,Mexico City 1968,Swimming,100m butterfly women
+21,AUS,pauline gray,,Mexico City 1968,Swimming,100m butterfly women
+22,FRA,catherine grosjean,,Mexico City 1968,Swimming,100m butterfly women
+23,COL,carmen gomez camacho,,Mexico City 1968,Swimming,100m butterfly women
+24,URU,ruth evelyn apt,,Mexico City 1968,Swimming,100m butterfly women
+25,ARG,adriana comolli gutierrez,,Mexico City 1968,Swimming,100m butterfly women
+26,KOR,sang-nam nam,,Mexico City 1968,Swimming,100m butterfly women
+27,PUR,ana rosa marcial,,Mexico City 1968,Swimming,100m butterfly women
+28,CAN,elaine tanner,Did not start,Mexico City 1968,Swimming,100m butterfly women
+29,HUN,edit kovacs,Did not start,Mexico City 1968,Swimming,100m butterfly women
+30,PHI,hedvig garcia,Did not start,Mexico City 1968,Swimming,100m butterfly women
+31,PUR,kristina moir,Did not start,Mexico City 1968,Swimming,100m butterfly women
+32,SGP,patricia li yin-chan,Did not start,Mexico City 1968,Swimming,100m butterfly women
+33,SWE,lotten andersson,Did not start,Mexico City 1968,Swimming,100m butterfly women
+34,SWE,ingrid gustavsson,Did not start,Mexico City 1968,Swimming,100m butterfly women
+0,AUS,michael vincent wenden,52.200,Mexico City 1968,Swimming,100m freestyle men
+1,USA,kenneth marshall walsh,52.800,Mexico City 1968,Swimming,100m freestyle men
+2,USA,mark spitz,53.000,Mexico City 1968,Swimming,100m freestyle men
+3,GBR,robert bilsland mcgregor,53.500,Mexico City 1968,Swimming,100m freestyle men
+4,URS,leonid ilyichev,53.800,Mexico City 1968,Swimming,100m freestyle men
+5,URS,georgijs kuļikovs,53.800,Mexico City 1968,Swimming,100m freestyle men
+6,ARG,luis alberto nicolao yanuzzi,53.900,Mexico City 1968,Swimming,100m freestyle men
+7,USA,zachary zorn,53.900,Mexico City 1968,Swimming,100m freestyle men
+8,FRG,wolfgang kremer,,Mexico City 1968,Swimming,100m freestyle men
+9,FRA,michel rousseau,,Mexico City 1968,Swimming,100m freestyle men
+10,AUS,robert george windle,,Mexico City 1968,Swimming,100m freestyle men
+11,CAN,john alexander gilchrist,,Mexico City 1968,Swimming,100m freestyle men
+12,AUS,gregory rogers,,Mexico City 1968,Swimming,100m freestyle men
+13,ESP,jose antonio chicoy massa,,Mexico City 1968,Swimming,100m freestyle men
+14,SWE,lester eriksson,,Mexico City 1968,Swimming,100m freestyle men
+15,HUN,gabor kucsera,,Mexico City 1968,Swimming,100m freestyle men
+16,URS,sergei gusev,,Mexico City 1968,Swimming,100m freestyle men
+17,BEL,françois simons,,Mexico City 1968,Swimming,100m freestyle men
+18,GBR,mike turner,,Mexico City 1968,Swimming,100m freestyle men
+19,ITA,pietro boscaini,,Mexico City 1968,Swimming,100m freestyle men
+20,JPN,kunihiro iwasaki,,Mexico City 1968,Swimming,100m freestyle men
+21,PUR,gary goodner,,Mexico City 1968,Swimming,100m freestyle men
+22,FRG,olaf von schilling,,Mexico City 1968,Swimming,100m freestyle men
+23,PHI,roosevelt abdulgafur,,Mexico City 1968,Swimming,100m freestyle men
+24,CAN,glenn finch,,Mexico City 1968,Swimming,100m freestyle men
+25,PUR,jose ferriouli,,Mexico City 1968,Swimming,100m freestyle men
+26,FRA,bernard gruener,,Mexico City 1968,Swimming,100m freestyle men
+27,PHI,luis ayesa,,Mexico City 1968,Swimming,100m freestyle men
+28,SUI,pano caperonis,,Mexico City 1968,Swimming,100m freestyle men
+29,NOR,ørjan madsen,,Mexico City 1968,Swimming,100m freestyle men
+30,ARG,carlos van der math,,Mexico City 1968,Swimming,100m freestyle men
+31,MEX,salvador ruiz de chavez ochoa,,Mexico City 1968,Swimming,100m freestyle men
+32,GBR,tony jarvis,,Mexico City 1968,Swimming,100m freestyle men
+33,JPN,masayuki osawa,,Mexico City 1968,Swimming,100m freestyle men
+34,MEX,rafael cal y mayor,,Mexico City 1968,Swimming,100m freestyle men
+35,HUN,csaba csatlos,,Mexico City 1968,Swimming,100m freestyle men
+36,BRA,jose roberto diniz aranha,,Mexico City 1968,Swimming,100m freestyle men
+37,FRG,peter schornig,,Mexico City 1968,Swimming,100m freestyle men
+38,COL,ricardo gonzalez johnson,,Mexico City 1968,Swimming,100m freestyle men
+39,MEX,mario santibanez,,Mexico City 1968,Swimming,100m freestyle men
+40,AUT,peter schmid,,Mexico City 1968,Swimming,100m freestyle men
+41,FRA,gerard letast,,Mexico City 1968,Swimming,100m freestyle men
+42,ISR,amnon krauz,,Mexico City 1968,Swimming,100m freestyle men
+43,ITA,michele d'oppido,,Mexico City 1968,Swimming,100m freestyle men
+44,BEL,herman verbauwen,,Mexico City 1968,Swimming,100m freestyle men
+45,HKG,man-chiu robert wong,,Mexico City 1968,Swimming,100m freestyle men
+46,BAR,angus edghill,,Mexico City 1968,Swimming,100m freestyle men
+47,CUB,gregorio fiallo salazarte,,Mexico City 1968,Swimming,100m freestyle men
+48,PUR,michael goodner,,Mexico City 1968,Swimming,100m freestyle men
+49,ECU,fernando gonzalez,,Mexico City 1968,Swimming,100m freestyle men
+50,ISL,gudmunður gíslason,,Mexico City 1968,Swimming,100m freestyle men
+51,TTO,geoffrey ferreira,,Mexico City 1968,Swimming,100m freestyle men
+52,COL,federico sicard rincon,,Mexico City 1968,Swimming,100m freestyle men
+53,JAM,paul nash,,Mexico City 1968,Swimming,100m freestyle men
+54,IRL,donnacha niallan o'dea,,Mexico City 1968,Swimming,100m freestyle men
+55,ESA,salvador antonio vilanova,,Mexico City 1968,Swimming,100m freestyle men
+56,CUB,jose martinez naranjo,,Mexico City 1968,Swimming,100m freestyle men
+57,LBN,yacoub masboungi,,Mexico City 1968,Swimming,100m freestyle men
+58,HKG,andrew loh,,Mexico City 1968,Swimming,100m freestyle men
+59,TPE,tong-shing lee,,Mexico City 1968,Swimming,100m freestyle men
+60,HKG,robert loh,,Mexico City 1968,Swimming,100m freestyle men
+61,ESA,jose amilcar alvarado,,Mexico City 1968,Swimming,100m freestyle men
+62,ESA,ernest duron,,Mexico City 1968,Swimming,100m freestyle men
+63,CRC,luis aguilar brenes,,Mexico City 1968,Swimming,100m freestyle men
+64,SWE,ingvar eriksson,Did not start,Mexico City 1968,Swimming,100m freestyle men
+65,SWE,bo westergren,Did not start,Mexico City 1968,Swimming,100m freestyle men
+0,USA,jane margo henne,00:01:00.000,Mexico City 1968,Swimming,100m freestyle women
+1,USA,susan jane pedersen,00:01:00.300,Mexico City 1968,Swimming,100m freestyle women
+2,USA,linda lee gustavson,00:01:00.300,Mexico City 1968,Swimming,100m freestyle women
+3,CAN,marion beverly lay,00:01:00.500,Mexico City 1968,Swimming,100m freestyle women
+4,GDR,martina grunert,00:01:01.000,Mexico City 1968,Swimming,100m freestyle women
+5,GBR,alexandra elizabeth jackson,00:01:01.000,Mexico City 1968,Swimming,100m freestyle women
+6,YUG,mirjana šegrt,00:01:01.500,Mexico City 1968,Swimming,100m freestyle women
+7,HUN,judit turóczy,00:01:01.600,Mexico City 1968,Swimming,100m freestyle women
+8,AUS,lynette bell,,Mexico City 1968,Swimming,100m freestyle women
+9,GDR,roswitha krause,,Mexico City 1968,Swimming,100m freestyle women
+10,AUS,janet steinbeck,,Mexico City 1968,Swimming,100m freestyle women
+11,TCH,oľga kozičová,,Mexico City 1968,Swimming,100m freestyle women
+12,FRA,claude mandonnaud,,Mexico City 1968,Swimming,100m freestyle women
+13,GDR,uta schmuck,,Mexico City 1968,Swimming,100m freestyle women
+14,NED,petronella (nelly) bos,,Mexico City 1968,Swimming,100m freestyle women
+15,TPE,liana oei,,Mexico City 1968,Swimming,100m freestyle women
+16,AUS,lynette watson,,Mexico City 1968,Swimming,100m freestyle women
+17,JPN,shigeko kawanishi,,Mexico City 1968,Swimming,100m freestyle women
+18,URS,lidiya grebets,,Mexico City 1968,Swimming,100m freestyle women
+19,HUN,edit kovacs,,Mexico City 1968,Swimming,100m freestyle women
+20,SWE,gudrun berglund,,Mexico City 1968,Swimming,100m freestyle women
+21,HUN,magdolna patoh,,Mexico City 1968,Swimming,100m freestyle women
+22,FRA,simone hanner,,Mexico City 1968,Swimming,100m freestyle women
+23,URS,natalya ustinova,,Mexico City 1968,Swimming,100m freestyle women
+24,ITA,maria antonietta strumolo,,Mexico City 1968,Swimming,100m freestyle women
+25,FRG,heidemarie reineck,,Mexico City 1968,Swimming,100m freestyle women
+26,JPN,miwako kobayashi,,Mexico City 1968,Swimming,100m freestyle women
+27,URS,zoya dus,,Mexico City 1968,Swimming,100m freestyle women
+28,SWE,lotten andersson,,Mexico City 1968,Swimming,100m freestyle women
+29,PER,maria rosario de vivanco roca,,Mexico City 1968,Swimming,100m freestyle women
+30,FRA,catherine grosjean,,Mexico City 1968,Swimming,100m freestyle women
+31,BUL,mariya nikolova,,Mexico City 1968,Swimming,100m freestyle women
+32,FRG,helmi boxberger,,Mexico City 1968,Swimming,100m freestyle women
+33,PHI,helene elliott,,Mexico City 1968,Swimming,100m freestyle women
+34,SWE,vera kock,,Mexico City 1968,Swimming,100m freestyle women
+35,COL,patricia olano olano,,Mexico City 1968,Swimming,100m freestyle women
+36,MEX,marcia arriaga,,Mexico City 1968,Swimming,100m freestyle women
+37,YUG,ana boban,,Mexico City 1968,Swimming,100m freestyle women
+38,GBR,fiona j. kellock,,Mexico City 1968,Swimming,100m freestyle women
+39,FRG,ingeborg renner,,Mexico City 1968,Swimming,100m freestyle women
+40,NED,catharina johanna beumer,,Mexico City 1968,Swimming,100m freestyle women
+41,NED,mirjam van hemert,,Mexico City 1968,Swimming,100m freestyle women
+42,PHI,hedvig garcia,,Mexico City 1968,Swimming,100m freestyle women
+43,GBR,gillian treers,,Mexico City 1968,Swimming,100m freestyle women
+44,ISL,hrafnhildur gudmundsdottir,,Mexico City 1968,Swimming,100m freestyle women
+45,TPE,bao-ni shen,,Mexico City 1968,Swimming,100m freestyle women
+46,MEX,vivian ortiz,,Mexico City 1968,Swimming,100m freestyle women
+47,URU,ruth evelyn apt,,Mexico City 1968,Swimming,100m freestyle women
+48,URU,emilia monica figueroa,,Mexico City 1968,Swimming,100m freestyle women
+49,PUR,kristina moir,,Mexico City 1968,Swimming,100m freestyle women
+50,URU,lylian stella castillo,,Mexico City 1968,Swimming,100m freestyle women
+51,ESA,carmen ferracuti,,Mexico City 1968,Swimming,100m freestyle women
+52,VNM,nguyen minh tam,,Mexico City 1968,Swimming,100m freestyle women
+53,ESA,rosa tatiana hasbun,,Mexico City 1968,Swimming,100m freestyle women
+54,PUR,ana rosa marcial,,Mexico City 1968,Swimming,100m freestyle women
+55,GUA,silvana asturias morel,,Mexico City 1968,Swimming,100m freestyle women
+56,PUR,lorna blake,,Mexico City 1968,Swimming,100m freestyle women
+57,ARG,maria susana procopio darre,Did not start,Mexico City 1968,Swimming,100m freestyle women
+58,CAN,angela coughlaw,Did not start,Mexico City 1968,Swimming,100m freestyle women
+59,ITA,mara sacchi,Did not start,Mexico City 1968,Swimming,100m freestyle women
+60,SGP,patricia li yin-chan,Did not start,Mexico City 1968,Swimming,100m freestyle women
+0,USA,mike burton,00:16:38.900,Mexico City 1968,Swimming,1500m freestyle men
+1,USA,john pitann kinsella,00:16:57.300,Mexico City 1968,Swimming,1500m freestyle men
+2,AUS,gregory brough,00:17:04.700,Mexico City 1968,Swimming,1500m freestyle men
+3,AUS,graham rose white,00:17:08.000,Mexico City 1968,Swimming,1500m freestyle men
+4,CAN,ralph hutton,00:17:15.600,Mexico City 1968,Swimming,1500m freestyle men
+5,MEX,guillermo echevarria perez,00:17:36.400,Mexico City 1968,Swimming,1500m freestyle men
+6,MEX,juan carlos alanis,00:17:46.600,Mexico City 1968,Swimming,1500m freestyle men
+7,USA,john mauer nelson,00:18:05.100,Mexico City 1968,Swimming,1500m freestyle men
+8,GDR,karl-rudiger mann,,Mexico City 1968,Swimming,1500m freestyle men
+9,FRG,hans fassnacht,,Mexico City 1968,Swimming,1500m freestyle men
+10,JPN,katsuji ito,,Mexico City 1968,Swimming,1500m freestyle men
+11,COL,julio arango pagnamenta,,Mexico City 1968,Swimming,1500m freestyle men
+12,SWE,gunnar larsson,,Mexico City 1968,Swimming,1500m freestyle men
+13,MEX,jorge urreta,,Mexico City 1968,Swimming,1500m freestyle men
+14,FRA,jean françois ravelinghien,,Mexico City 1968,Swimming,1500m freestyle men
+15,ESP,antonio corell fornet,,Mexico City 1968,Swimming,1500m freestyle men
+16,URS,vladimir bure,,Mexico City 1968,Swimming,1500m freestyle men
+17,POL,wladyslaw wojtakajtis,,Mexico City 1968,Swimming,1500m freestyle men
+18,BEL,jacques henrard,,Mexico City 1968,Swimming,1500m freestyle men
+19,PUR,jorge gonzalez,,Mexico City 1968,Swimming,1500m freestyle men
+20,ESA,ruben ernesto guerrero,,Mexico City 1968,Swimming,1500m freestyle men
+21,COL,tomas alberto becerra,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+22,CUB,gregorio fiallo salazarte,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+23,SWE,sven von holst,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+24,HKG,robert loh,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+25,HUN,istvan kolossa,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+26,PHI,tony asamali,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+27,URS,semyon belits-geiman,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+28,CUB,jose martinez naranjo,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+29,SWE,lars feil,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+30,ECU,fernando gonzalez,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+31,FRA,francis luyce,Did not start,Mexico City 1968,Swimming,1500m freestyle men
+0,GDR,roland matthes,,Mexico City 1968,Swimming,200m backstroke men
+1,USA,mitchell ivey,,Mexico City 1968,Swimming,200m backstroke men
+2,USA,jack s. horsley,,Mexico City 1968,Swimming,200m backstroke men
+3,USA,gary jr. hall,,Mexico City 1968,Swimming,200m backstroke men
+4,ESP,santiago esteva escoda,,Mexico City 1968,Swimming,200m backstroke men
+5,URS,leonid dobroskokin,,Mexico City 1968,Swimming,200m backstroke men
+6,GDR,joachim rother,,Mexico City 1968,Swimming,200m backstroke men
+7,ITA,franco del campo,,Mexico City 1968,Swimming,200m backstroke men
+8,FRG,reinhard blechert,,Mexico City 1968,Swimming,200m backstroke men
+9,DEN,ejvind bue stampe pedersen,,Mexico City 1968,Swimming,200m backstroke men
+10,HUN,matyas borloi,,Mexico City 1968,Swimming,200m backstroke men
+11,NED,robert (bob) schoutsen,,Mexico City 1968,Swimming,200m backstroke men
+12,ITA,franco chino,,Mexico City 1968,Swimming,200m backstroke men
+13,ESP,jaime monzo cots,,Mexico City 1968,Swimming,200m backstroke men
+14,MEX,jose joaquin santibanez,,Mexico City 1968,Swimming,200m backstroke men
+15,AUS,karl byrom,,Mexico City 1968,Swimming,200m backstroke men
+16,MEX,jaime rivera,,Mexico City 1968,Swimming,200m backstroke men
+17,CAN,james shaw,,Mexico City 1968,Swimming,200m backstroke men
+18,NED,martinus cornelis van beek,,Mexico City 1968,Swimming,200m backstroke men
+19,CUB,eliseo vidal lopez,,Mexico City 1968,Swimming,200m backstroke men
+20,SWE,hans ljungberg,,Mexico City 1968,Swimming,200m backstroke men
+21,DEN,lars kraus jensen,,Mexico City 1968,Swimming,200m backstroke men
+22,MEX,luis angel acosta,,Mexico City 1968,Swimming,200m backstroke men
+23,SUI,gerald evard,,Mexico City 1968,Swimming,200m backstroke men
+24,ARG,leonardo barenboim,,Mexico City 1968,Swimming,200m backstroke men
+25,PHI,tony asamali,,Mexico City 1968,Swimming,200m backstroke men
+26,PUR,francisco ramis,,Mexico City 1968,Swimming,200m backstroke men
+27,GUA,antonio cruz,,Mexico City 1968,Swimming,200m backstroke men
+28,HKG,man-chiu robert wong,,Mexico City 1968,Swimming,200m backstroke men
+29,TPE,king-ming chan,,Mexico City 1968,Swimming,200m backstroke men
+30,ARG,carlos van der math,Did not start,Mexico City 1968,Swimming,200m backstroke men
+31,BRA,cesar augusto filardi,Did not start,Mexico City 1968,Swimming,200m backstroke men
+32,CAN,ralph hutton,Did not start,Mexico City 1968,Swimming,200m backstroke men
+33,SWE,hans tegeback,Did not start,Mexico City 1968,Swimming,200m backstroke men
+34,GBR,joseph jackson,Did not start,Mexico City 1968,Swimming,200m backstroke men
+35,SWE,sven ferm,Did not start,Mexico City 1968,Swimming,200m backstroke men
+0,USA,lillian debra watson,,Mexico City 1968,Swimming,200m backstroke women
+1,CAN,elaine tanner,,Mexico City 1968,Swimming,200m backstroke women
+2,USA,kaye marie hall,,Mexico City 1968,Swimming,200m backstroke women
+3,AUS,lynette watson,,Mexico City 1968,Swimming,200m backstroke women
+4,GBR,wendy burrell,,Mexico City 1968,Swimming,200m backstroke women
+5,YUG,zdenka gasparac,,Mexico City 1968,Swimming,200m backstroke women
+6,ESP,maria paz corominas guerin,,Mexico City 1968,Swimming,200m backstroke women
+7,FRA,benedicte duprez,,Mexico City 1968,Swimming,200m backstroke women
+8,GDR,doris kohardt,,Mexico City 1968,Swimming,200m backstroke women
+9,USA,susanne jean atwood,,Mexico City 1968,Swimming,200m backstroke women
+10,NED,albertha (bep) weeteling,,Mexico City 1968,Swimming,200m backstroke women
+11,URS,tatyana savelyeva,,Mexico City 1968,Swimming,200m backstroke women
+12,FRA,sylvie canet-le noach,,Mexico City 1968,Swimming,200m backstroke women
+13,FRG,angelika kraus,,Mexico City 1968,Swimming,200m backstroke women
+14,NED,coby sikkens,,Mexico City 1968,Swimming,200m backstroke women
+15,AUT,yvette hafner,,Mexico City 1968,Swimming,200m backstroke women
+16,CAN,jeanne warren,,Mexico City 1968,Swimming,200m backstroke women
+17,FIN,ulla patrikka,,Mexico City 1968,Swimming,200m backstroke women
+18,ROU,anca andreiu,,Mexico City 1968,Swimming,200m backstroke women
+19,CAN,anne walton,,Mexico City 1968,Swimming,200m backstroke women
+20,GBR,jacqueline elizabeth brown,,Mexico City 1968,Swimming,200m backstroke women
+21,NZL,glenda joy stirling,,Mexico City 1968,Swimming,200m backstroke women
+22,URS,tina lek'veishvili,,Mexico City 1968,Swimming,200m backstroke women
+23,FRA,christine (kiki) caron,,Mexico City 1968,Swimming,200m backstroke women
+24,ARG,patricia ines sentous lopez,,Mexico City 1968,Swimming,200m backstroke women
+25,BEL,francine dauwen,,Mexico City 1968,Swimming,200m backstroke women
+26,ARG,maria susana procopio darre,,Mexico City 1968,Swimming,200m backstroke women
+27,URU,felicia ofelia ospitaletche,,Mexico City 1968,Swimming,200m backstroke women
+28,ESA,carmen ferracuti,,Mexico City 1968,Swimming,200m backstroke women
+29,ESA,rosa tatiana hasbun,,Mexico City 1968,Swimming,200m backstroke women
+30,GUA,silvana asturias morel,Did not start,Mexico City 1968,Swimming,200m backstroke women
+31,HUN,judith baranyi,Did not start,Mexico City 1968,Swimming,200m backstroke women
+32,HUN,andrea gyarmati,Did not start,Mexico City 1968,Swimming,200m backstroke women
+33,HUN,maria balla-lantos,Did not start,Mexico City 1968,Swimming,200m backstroke women
+34,MEX,lidia ramirez,Did not start,Mexico City 1968,Swimming,200m backstroke women
+35,PHI,helene elliott,Did not start,Mexico City 1968,Swimming,200m backstroke women
+36,ARG,adriana comolli gutierrez,Did not start,Mexico City 1968,Swimming,200m backstroke women
 0,MEX,felipe munoz,,Mexico City 1968,Swimming,200m breaststroke men
 1,URS,vladimir kosinsky,,Mexico City 1968,Swimming,200m breaststroke men
 2,USA,brian gregory job,,Mexico City 1968,Swimming,200m breaststroke men

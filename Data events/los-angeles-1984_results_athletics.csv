@@ -1,4 +1,189 @@
 ,country,participant,result,olympic_game,discipline,event
+0,ITA,alberto cova,00:27:47.540,Los Angeles 1984,Athletics,10000m men
+1,GBR,michael mcleod,00:28:06.220,Los Angeles 1984,Athletics,10000m men
+2,KEN,michael musyoki,00:28:06.460,Los Angeles 1984,Athletics,10000m men
+3,ITA,salvatore antibo,00:28:06.500,Los Angeles 1984,Athletics,10000m men
+4,FRG,christoph herle,00:28:08.210,Los Angeles 1984,Athletics,10000m men
+5,KEN,sosthenes bitok,00:28:09.010,Los Angeles 1984,Athletics,10000m men
+6,JPN,yutaka kanai,00:28:27.060,Los Angeles 1984,Athletics,10000m men
+7,GBR,steven jones,00:28:28.080,Los Angeles 1984,Athletics,10000m men
+8,IRL,john treacy,00:28:28.680,Los Angeles 1984,Athletics,10000m men
+9,SUD,ahmed musa jouda,00:28:29.430,Los Angeles 1984,Athletics,10000m men
+10,ZIM,zephaniah ncube,00:28:31.610,Los Angeles 1984,Athletics,10000m men
+11,GBR,nicholas rose,00:28:31.730,Los Angeles 1984,Athletics,10000m men
+12,TAN,zakariah barie,00:28:32.280,Los Angeles 1984,Athletics,10000m men
+13,KEN,joseph nzau,00:28:32.570,Los Angeles 1984,Athletics,10000m men
+14,USA,pat porter,00:28:34.590,Los Angeles 1984,Athletics,10000m men
+15,JPN,masanari shintaku,00:28:55.540,Los Angeles 1984,Athletics,10000m men
+16,FIN,martti vainio,Disqualified,Los Angeles 1984,Athletics,10000m men
+17,POR,fernando mamede,Did not finish,Los Angeles 1984,Athletics,10000m men
+18,DOM,ruddy cornielle,,Los Angeles 1984,Athletics,10000m men
+19,PAR,ramon lopez,,Los Angeles 1984,Athletics,10000m men
+20,YAR,ali saleh al gadi,,Los Angeles 1984,Athletics,10000m men
+21,TUR,necdet ayaz,,Los Angeles 1984,Athletics,10000m men
+0,USA,benita fitzgerald-brown,12.840,Los Angeles 1984,Athletics,100m hurdles women
+1,GBR,shirley strong,12.880,Los Angeles 1984,Athletics,100m hurdles women
+2,FRA,michele chardonnet,13.060,Los Angeles 1984,Athletics,100m hurdles women
+3,USA,kim turner,13.060,Los Angeles 1984,Athletics,100m hurdles women
+4,AUS,glyniss leanne nunn-saunders-cearns,13.200,Los Angeles 1984,Athletics,100m hurdles women
+5,FRA,marie-noelle savigny,13.280,Los Angeles 1984,Athletics,100m hurdles women
+6,FRG,ulrike denk,13.320,Los Angeles 1984,Athletics,100m hurdles women
+7,USA,pam page,13.400,Los Angeles 1984,Athletics,100m hurdles women
+8,BRA,esmeralda de jesus freitas garcia,Did not start,Los Angeles 1984,Athletics,100m hurdles women
+9,FIJ,miriama tuisorisori-chambault,Did not start,Los Angeles 1984,Athletics,100m hurdles women
+10,GUA,christa schumann lottman,Did not start,Los Angeles 1984,Athletics,100m hurdles women
+0,USA,carl lewis,09.990,Los Angeles 1984,Athletics,100m men
+1,USA,samuel louis graddy,10.190,Los Angeles 1984,Athletics,100m men
+2,CAN,ben johnson,10.220,Los Angeles 1984,Athletics,100m men
+3,USA,ronald james brown,10.260,Los Angeles 1984,Athletics,100m men
+4,GBR,mike mcfarlane,10.270,Los Angeles 1984,Athletics,100m men
+5,JAM,ray stewart,10.290,Los Angeles 1984,Athletics,100m men
+6,GBR,donovan reid,10.330,Los Angeles 1984,Athletics,100m men
+7,CAN,anthony sharpe,10.350,Los Angeles 1984,Athletics,100m men
+8,GHA,ernie obeng,Did not start,Los Angeles 1984,Athletics,100m men
+9,CMR,emmanuel bitanga,Did not start,Los Angeles 1984,Athletics,100m men
+0,USA,evelyn ashford,10.970,Los Angeles 1984,Athletics,100m women
+1,USA,alice regina brown,11.130,Los Angeles 1984,Athletics,100m women
+2,JAM,merlene ottey-page,11.160,Los Angeles 1984,Athletics,100m women
+3,USA,jeanette bolden,11.250,Los Angeles 1984,Athletics,100m women
+4,JAM,grace jackson small,11.390,Los Angeles 1984,Athletics,100m women
+5,CAN,angela bailey,11.400,Los Angeles 1984,Athletics,100m women
+6,GBR,heather hunte-oakes,11.430,Los Angeles 1984,Athletics,100m women
+7,CAN,angella taylor-issajenko,11.620,Los Angeles 1984,Athletics,100m women
+0,USA,roger kingdom,13.200,Los Angeles 1984,Athletics,110m hurdles men
+1,USA,gregory foster,13.230,Los Angeles 1984,Athletics,110m hurdles men
+2,FIN,arto bryggare,13.400,Los Angeles 1984,Athletics,110m hurdles men
+3,CAN,mark mckoy,13.450,Los Angeles 1984,Athletics,110m hurdles men
+4,USA,anthony eugene campbell,13.550,Los Angeles 1984,Athletics,110m hurdles men
+5,FRA,stephane caristan,13.710,Los Angeles 1984,Athletics,110m hurdles men
+6,ESP,carlos sala molera,13.800,Los Angeles 1984,Athletics,110m hurdles men
+7,CAN,jeffrey glass,14.150,Los Angeles 1984,Athletics,110m hurdles men
+8,GBR,nigel keith walker,,Los Angeles 1984,Athletics,110m hurdles men
+9,GBR,mark holtom,,Los Angeles 1984,Athletics,110m hurdles men
+10,SAM,william fong,,Los Angeles 1984,Athletics,110m hurdles men
+0,GBR,sebastian coe,00:03:32.530,Los Angeles 1984,Athletics,1500m men
+1,GBR,stephen cram,00:03:33.400,Los Angeles 1984,Athletics,1500m men
+2,ESP,jose manuel abascal gomez,00:03:34.300,Los Angeles 1984,Athletics,1500m men
+3,KEN,joseph chesire,00:03:34.520,Los Angeles 1984,Athletics,1500m men
+4,USA,jim spivey,00:03:36.070,Los Angeles 1984,Athletics,1500m men
+5,SUI,peter wirz,00:03:36.970,Los Angeles 1984,Athletics,1500m men
+6,ESP,andres vera llorens,00:03:37.020,Los Angeles 1984,Athletics,1500m men
+7,SUD,omer khalifa,00:03:37.110,Los Angeles 1984,Athletics,1500m men
+8,NZL,anthony rogers,00:03:38.980,Los Angeles 1984,Athletics,1500m men
+9,USA,steven michael scott,00:03:39.860,Los Angeles 1984,Athletics,1500m men
+10,ITA,riccardo materazzi,00:03:40.740,Los Angeles 1984,Athletics,1500m men
+11,GBR,steve ovett,Did not finish,Los Angeles 1984,Athletics,1500m men
+12,BRA,agberto concei conceicao guimaraes,,Los Angeles 1984,Athletics,1500m men
+13,SOM,abdi bile,,Los Angeles 1984,Athletics,1500m men
+14,FIN,antti loikkanen,,Los Angeles 1984,Athletics,1500m men
+15,GUY,oslen barr,,Los Angeles 1984,Athletics,1500m men
+16,SUI,pierre deleze,,Los Angeles 1984,Athletics,1500m men
+17,UAE,ibrahim aziz,,Los Angeles 1984,Athletics,1500m men
+18,ARG,omar ortega,,Los Angeles 1984,Athletics,1500m men
+19,PAR,francisco figueredo,Did not start,Los Angeles 1984,Athletics,1500m men
+20,SOL,charles oliver,Did not start,Los Angeles 1984,Athletics,1500m men
+21,USA,sydney maree,Did not start,Los Angeles 1984,Athletics,1500m men
+22,VEN,william wuycke,Did not start,Los Angeles 1984,Athletics,1500m men
+23,YAR,abdul al-ghadi,Did not start,Los Angeles 1984,Athletics,1500m men
+24,YUG,dragan zdravkovic,Did not start,Los Angeles 1984,Athletics,1500m men
+0,ITA,gabriella dorio,00:04:03.250,Los Angeles 1984,Athletics,1500m women
+1,ROU,doina besliu-melinte,00:04:03.760,Los Angeles 1984,Athletics,1500m women
+2,ROU,maricica puica,00:04:04.150,Los Angeles 1984,Athletics,1500m women
+3,FRG,roswitha gerdes,00:04:04.410,Los Angeles 1984,Athletics,1500m women
+4,GBR,christine mary benning,00:04:04.700,Los Angeles 1984,Athletics,1500m women
+5,GBR,christina boxer-cahill,00:04:05.530,Los Angeles 1984,Athletics,1500m women
+6,CAN,brit mcroberts,00:04:05.980,Los Angeles 1984,Athletics,1500m women
+7,USA,ruth kleinsasser wysocki,00:04:08.920,Los Angeles 1984,Athletics,1500m women
+8,ROU,fita lovin,00:04:09.110,Los Angeles 1984,Athletics,1500m women
+9,CAN,deborah scott-bowker,00:04:10.410,Los Angeles 1984,Athletics,1500m women
+10,GBR,lynne macdougall,00:04:10.580,Los Angeles 1984,Athletics,1500m women
+11,NED,elisa (elly) van hulst,00:04:11.580,Los Angeles 1984,Athletics,1500m women
+12,FRG,margit klinger,Did not start,Los Angeles 1984,Athletics,1500m women
+0,USA,carl lewis,19.800,Los Angeles 1984,Athletics,200m men
+1,USA,kirk baptiste,19.960,Los Angeles 1984,Athletics,200m men
+2,USA,thomas theodore jefferson,20.260,Los Angeles 1984,Athletics,200m men
+3,BRA,joao batista da silva,20.300,Los Angeles 1984,Athletics,200m men
+4,FRG,ralf lubke,20.510,Los Angeles 1984,Athletics,200m men
+5,FRA,jean jacques boussemart,20.550,Los Angeles 1984,Athletics,200m men
+6,ITA,pietro mennea,20.550,Los Angeles 1984,Athletics,200m men
+7,GBR,adeoye o. mafe,20.850,Los Angeles 1984,Athletics,200m men
+8,JAM,leroy reid,,Los Angeles 1984,Athletics,200m men
+9,CMR,emmanuel bitanga,,Los Angeles 1984,Athletics,200m men
+10,BOT,kgosiemang khumoyarano,Did not start,Los Angeles 1984,Athletics,200m men
+11,GBR,allan wells,Did not start,Los Angeles 1984,Athletics,200m men
+12,FRG,christian haas,Did not start,Los Angeles 1984,Athletics,200m men
+13,TTO,hasely crawford,Did not start,Los Angeles 1984,Athletics,200m men
+0,USA,valerie ann brisco-hooks,21.810,Los Angeles 1984,Athletics,200m women
+1,USA,florence griffith-joyner,22.040,Los Angeles 1984,Athletics,200m women
+2,JAM,merlene ottey-page,22.090,Los Angeles 1984,Athletics,200m women
+3,GBR,kathryn smallwood-cook,22.100,Los Angeles 1984,Athletics,200m women
+4,JAM,grace jackson small,22.200,Los Angeles 1984,Athletics,200m women
+5,USA,randy jenelle givens,22.360,Los Angeles 1984,Athletics,200m women
+6,FRA,rose-aimee bacoul,22.780,Los Angeles 1984,Athletics,200m women
+7,FRA,liliane gaschet,22.860,Los Angeles 1984,Athletics,200m women
+8,AUS,deborah wells,Did not start,Los Angeles 1984,Athletics,200m women
+9,CAN,marita payne-wiggins,Did not start,Los Angeles 1984,Athletics,200m women
+10,CAN,angella taylor-issajenko,Did not start,Los Angeles 1984,Athletics,200m women
+11,DOM,felicia candelario,Did not start,Los Angeles 1984,Athletics,200m women
+12,GHA,mercy addy,Did not start,Los Angeles 1984,Athletics,200m women
+13,LBR,grace anne dinkins,Did not start,Los Angeles 1984,Athletics,200m women
+14,SLE,eugenia osho-williams,Did not start,Los Angeles 1984,Athletics,200m women
+15,TTO,gillian forde,Did not start,Los Angeles 1984,Athletics,200m women
+0,MEX,ernesto canto gudino,01:23:13.000,Los Angeles 1984,Athletics,20km walk men
+1,MEX,raúl gonzález,01:23:20.000,Los Angeles 1984,Athletics,20km walk men
+2,ITA,maurizio damilano,01:23:26.000,Los Angeles 1984,Athletics,20km walk men
+3,CAN,guillaume leblanc,01:24:29.000,Los Angeles 1984,Athletics,20km walk men
+4,ITA,carlo mattioli,01:25:07.000,Los Angeles 1984,Athletics,20km walk men
+5,ESP,jose marin sospedra,01:25:32.000,Los Angeles 1984,Athletics,20km walk men
+6,USA,marco ray evoniuk,01:25:42.000,Los Angeles 1984,Athletics,20km walk men
+7,NOR,erling andersen,01:25:54.000,Los Angeles 1984,Athletics,20km walk men
+8,COL,jose querubin moreno moreno,01:26:04.000,Los Angeles 1984,Athletics,20km walk men
+9,AUS,david smith,01:26:48.000,Los Angeles 1984,Athletics,20km walk men
+10,CAN,françois lapointe,01:27:06.000,Los Angeles 1984,Athletics,20km walk men
+11,COL,hector jose moreno moreno,01:27:12.000,Los Angeles 1984,Athletics,20km walk men
+12,GBR,philip john vesty,01:27:28.000,Los Angeles 1984,Athletics,20km walk men
+13,AUS,simon baker,01:27:43.000,Los Angeles 1984,Athletics,20km walk men
+14,FRA,gerard le lievre,01:27:50.000,Los Angeles 1984,Athletics,20km walk men
+15,AUS,willi sawall,01:28:24.000,Los Angeles 1984,Athletics,20km walk men
+16,MEX,marcelino colin,01:28:26.000,Los Angeles 1984,Athletics,20km walk men
+17,COL,francisco vargas,01:28:46.000,Los Angeles 1984,Athletics,20km walk men
+18,GBR,ian peter mccombie,01:28:53.000,Los Angeles 1984,Athletics,20km walk men
+19,FRA,martial fesselier,01:29:46.000,Los Angeles 1984,Athletics,20km walk men
+20,CAN,marcel jobin,01:29:49.000,Los Angeles 1984,Athletics,20km walk men
+21,IND,chand ram,01:30:06.000,Los Angeles 1984,Athletics,20km walk men
+22,USA,james anthony heiring,01:30:20.000,Los Angeles 1984,Athletics,20km walk men
+23,GBR,steven john barry,01:30:46.000,Los Angeles 1984,Athletics,20km walk men
+24,POR,jose pinto,01:30:54.000,Los Angeles 1984,Athletics,20km walk men
+25,ALG,abdelouahab ferguene,01:31:24.000,Los Angeles 1984,Athletics,20km walk men
+26,CHN,fu-xin zhang,01:32:10.000,Los Angeles 1984,Athletics,20km walk men
+27,ITA,alessandro pezzatini,01:32:27.000,Los Angeles 1984,Athletics,20km walk men
+28,AUT,martin toporek,01:33:58.000,Los Angeles 1984,Athletics,20km walk men
+29,ALG,benamar kechkouche,01:34:12.000,Los Angeles 1984,Athletics,20km walk men
+30,HON,santiago fonseca,01:34:47.000,Los Angeles 1984,Athletics,20km walk men
+31,KEN,pius munyasia,01:34:53.000,Los Angeles 1984,Athletics,20km walk men
+32,USA,daniel o'connor,01:35:12.000,Los Angeles 1984,Athletics,20km walk men
+33,GUA,jose victor alonzo alonzo,01:35:32.000,Los Angeles 1984,Athletics,20km walk men
+34,SMR,stefano casali,01:35:48.000,Los Angeles 1984,Athletics,20km walk men
+35,BOL,osvaldo morejon,01:44:42.000,Los Angeles 1984,Athletics,20km walk men
+36,ESA,luis campos,01:48:45.000,Los Angeles 1984,Athletics,20km walk men
+37,JOR,amjad tawalbeh,01:49:35.000,Los Angeles 1984,Athletics,20km walk men
+38,FRG,dieter hoffmann,Did not start,Los Angeles 1984,Athletics,20km walk men
+39,FIN,reima salonen,Did not start,Los Angeles 1984,Athletics,20km walk men
+40,FRA,dominique guebey,Did not start,Los Angeles 1984,Athletics,20km walk men
+41,NOR,lars ove moen,Did not start,Los Angeles 1984,Athletics,20km walk men
+0,KEN,julius korir,00:08:11.800,Los Angeles 1984,Athletics,3000m steeplechase men
+1,FRA,joseph mahmoud,00:08:13.310,Los Angeles 1984,Athletics,3000m steeplechase men
+2,USA,brian lee diemer,00:08:14.060,Los Angeles 1984,Athletics,3000m steeplechase men
+3,USA,henry dinwoody marsh,00:08:14.250,Los Angeles 1984,Athletics,3000m steeplechase men
+4,GBR,colin reitz,00:08:15.480,Los Angeles 1984,Athletics,3000m steeplechase men
+5,ESP,domingo ramon menargues,00:08:17.270,Los Angeles 1984,Athletics,3000m steeplechase men
+6,KEN,julius kariuki,00:08:17.470,Los Angeles 1984,Athletics,3000m steeplechase men
+7,FRA,pascal debacker,00:08:21.510,Los Angeles 1984,Athletics,3000m steeplechase men
+8,FIN,tommy ekblom,00:08:23.950,Los Angeles 1984,Athletics,3000m steeplechase men
+9,GBR,roger hackney,00:08:27.100,Los Angeles 1984,Athletics,3000m steeplechase men
+10,NZL,peter renner,00:08:29.810,Los Angeles 1984,Athletics,3000m steeplechase men
+11,TUN,fethi baccouche,00:08:43.400,Los Angeles 1984,Athletics,3000m steeplechase men
+12,TAN,filbert bayi,Did not start,Los Angeles 1984,Athletics,3000m steeplechase men
 0,ROU,maricica puica,00:08:35.960,Los Angeles 1984,Athletics,3000m women
 1,GBR,wendy sly,00:08:39.470,Los Angeles 1984,Athletics,3000m women
 2,CAN,lynn williams,00:08:42.140,Los Angeles 1984,Athletics,3000m women

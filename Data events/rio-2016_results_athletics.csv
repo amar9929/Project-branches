@@ -1,4 +1,241 @@
 ,country,participant,result,olympic_game,discipline,event
+0,GBR,mohamed farah,00:27:05.170,Rio 2016,Athletics,10000m men
+1,KEN,paul kipngetich tanui,00:27:05.640,Rio 2016,Athletics,10000m men
+2,ETH,tamirat tola,00:27:06.260,Rio 2016,Athletics,10000m men
+3,ETH,yigrem demelash,00:27:06.270,Rio 2016,Athletics,10000m men
+4,USA,galen rupp,00:27:08.920,Rio 2016,Athletics,10000m men
+5,UGA,joshua kiprui cheptegei,00:27:10.060,Rio 2016,Athletics,10000m men
+6,KEN,bedan karoki muchiri,00:27:22.930,Rio 2016,Athletics,10000m men
+7,ERI,zersenay tadesse,00:27:23.860,Rio 2016,Athletics,10000m men
+8,ERI,nguse amlosom,00:27:30.790,Rio 2016,Athletics,10000m men
+9,BRN,abraham naibei cheroben,00:27:31.860,Rio 2016,Athletics,10000m men
+10,KEN,geoffrey kipsang kamworor,00:27:31.940,Rio 2016,Athletics,10000m men
+11,NZL,zane robertson,00:27:33.670,Rio 2016,Athletics,10000m men
+12,TUR,polat kemboi arikan,00:27:35.500,Rio 2016,Athletics,10000m men
+13,USA,leonard essau korir,00:27:35.650,Rio 2016,Athletics,10000m men
+14,ETH,abadi hadis,00:27:36.340,Rio 2016,Athletics,10000m men
+15,AUS,david mcneill,00:27:51.710,Rio 2016,Athletics,10000m men
+16,JPN,suguru osako,00:27:51.940,Rio 2016,Athletics,10000m men
+17,RSA,stephen mokoka,00:27:54.570,Rio 2016,Athletics,10000m men
+18,USA,shadrack kipchirchir,00:27:58.320,Rio 2016,Athletics,10000m men
+19,BEL,bashir abdi,00:28:01.490,Rio 2016,Athletics,10000m men
+20,PER,luis ostos,00:28:02.030,Rio 2016,Athletics,10000m men
+21,UGA,moses martin kurong,00:28:03.380,Rio 2016,Athletics,10000m men
+22,UGA,timothy toroitich,00:28:04.840,Rio 2016,Athletics,10000m men
+23,ERI,goitom kifle,00:28:15.990,Rio 2016,Athletics,10000m men
+24,GBR,andrew vernon,00:28:19.360,Rio 2016,Athletics,10000m men
+25,BRN,el hassan elabbassi,00:28:20.170,Rio 2016,Athletics,10000m men
+26,BDI,olivier irabaruta,00:28:32.750,Rio 2016,Athletics,10000m men
+27,AUS,ben st lawrence,00:28:46.320,Rio 2016,Athletics,10000m men
+28,JPN,yuta shitara,00:28:55.230,Rio 2016,Athletics,10000m men
+29,JPN,kenta murayama,00:29:02.510,Rio 2016,Athletics,10000m men
+30,GBR,ross millington,00:29:14.950,Rio 2016,Athletics,10000m men
+31,CAN,mohammed ahmed,00:29:32.840,Rio 2016,Athletics,10000m men
+32,BRN,hassan chani,Did not finish,Rio 2016,Athletics,10000m men
+33,TUR,ali kaya,Did not finish,Rio 2016,Athletics,10000m men
+0,ETH,almaz ayana,00:29:17.450,Rio 2016,Athletics,10000m women
+1,KEN,vivian jepkemoi cheruiyot,00:29:32.530,Rio 2016,Athletics,10000m women
+2,ETH,tirunesh dibaba,00:29:42.560,Rio 2016,Athletics,10000m women
+3,KEN,alice aprot nawowuna,00:29:53.510,Rio 2016,Athletics,10000m women
+4,KEN,betsy saina,00:30:07.780,Rio 2016,Athletics,10000m women
+5,USA,molly huddle,00:30:13.170,Rio 2016,Athletics,10000m women
+6,TUR,yasemin can,00:30:26.410,Rio 2016,Athletics,10000m women
+7,ETH,gelete burka,00:30:26.660,Rio 2016,Athletics,10000m women
+8,NOR,karoline bjerkeli grovdal,00:31:14.070,Rio 2016,Athletics,10000m women
+9,AUS,eloise wellings,00:31:14.940,Rio 2016,Athletics,10000m women
+10,USA,emily infeld,00:31:26.940,Rio 2016,Athletics,10000m women
+11,SWE,sarah lahti,00:31:28.430,Rio 2016,Athletics,10000m women
+12,BDI,diane nukuri,00:31:28.690,Rio 2016,Athletics,10000m women
+13,NED,susan kuijken,00:31:32.430,Rio 2016,Athletics,10000m women
+14,GBR,joanne pavey,00:31:33.440,Rio 2016,Athletics,10000m women
+15,GBR,jessica andrews,00:31:35.920,Rio 2016,Athletics,10000m women
+16,GRE,alexi pappas,00:31:36.160,Rio 2016,Athletics,10000m women
+17,JPN,yuka takashima,00:31:36.440,Rio 2016,Athletics,10000m women
+18,KGZ,darya maslova,00:31:36.900,Rio 2016,Athletics,10000m women
+19,JPN,hanami sekine,00:31:44.440,Rio 2016,Athletics,10000m women
+20,RSA,dominique scott,00:31:51.470,Rio 2016,Athletics,10000m women
+21,CAN,natasha wodak,00:31:53.140,Rio 2016,Athletics,10000m women
+22,UAE,alia saeed mohammed,00:31:56.740,Rio 2016,Athletics,10000m women
+23,UZB,sitora hamidova,00:31:57.770,Rio 2016,Athletics,10000m women
+24,CAN,lanni marchant,00:32:04.210,Rio 2016,Athletics,10000m women
+25,POR,carla salome rocha,00:32:06.050,Rio 2016,Athletics,10000m women
+26,RWA,salome nyirarukundo,00:32:07.800,Rio 2016,Athletics,10000m women
+27,NED,jip vastenburg,00:32:08.920,Rio 2016,Athletics,10000m women
+28,ESP,trihas gebre,00:32:09.670,Rio 2016,Athletics,10000m women
+29,ITA,veronica inglese,00:32:11.670,Rio 2016,Athletics,10000m women
+30,BRA,tatiele roberta de carvalho,00:32:38.210,Rio 2016,Athletics,10000m women
+31,MEX,brenda flores,00:32:39.080,Rio 2016,Athletics,10000m women
+32,USA,marielle hall,00:32:39.320,Rio 2016,Athletics,10000m women
+33,GBR,beth potter,00:33:04.340,Rio 2016,Athletics,10000m women
+34,MEX,marisol romero,00:35:33.030,Rio 2016,Athletics,10000m women
+35,UGA,juliet chekwel,Did not finish,Rio 2016,Athletics,10000m women
+36,UZB,ekaterina tunguskova,Did not finish,Rio 2016,Athletics,10000m women
+0,USA,brianna rollins,12.480,Rio 2016,Athletics,100m hurdles women
+1,USA,nia ali,12.590,Rio 2016,Athletics,100m hurdles women
+2,USA,kristi castlin,12.610,Rio 2016,Athletics,100m hurdles women
+3,GBR,cindy ofili,12.630,Rio 2016,Athletics,100m hurdles women
+4,GER,cindy roleder,12.740,Rio 2016,Athletics,100m hurdles women
+5,BAH,pedrya seymour,12.760,Rio 2016,Athletics,100m hurdles women
+6,GBR,tiffany porter,12.760,Rio 2016,Athletics,100m hurdles women
+7,CAN,phylicia george,12.890,Rio 2016,Athletics,100m hurdles women
+8,PUR,jasmine camacho-quinn,,Rio 2016,Athletics,100m hurdles women
+9,CAN,nikkita holder,,Rio 2016,Athletics,100m hurdles women
+10,BEL,anne zagre,,Rio 2016,Athletics,100m hurdles women
+11,HAI,mulern jean,,Rio 2016,Athletics,100m hurdles women
+12,GEQ,reina-flor okori,Did not start,Rio 2016,Athletics,100m hurdles women
+0,JAM,usain bolt,09.810,Rio 2016,Athletics,100m men
+1,USA,justin gatlin,09.890,Rio 2016,Athletics,100m men
+2,CAN,andre de grasse,09.910,Rio 2016,Athletics,100m men
+3,JAM,yohan blake,09.930,Rio 2016,Athletics,100m men
+4,RSA,akani simbine,09.940,Rio 2016,Athletics,100m men
+5,CIV,ben youssef meite,09.960,Rio 2016,Athletics,100m men
+6,FRA,jimmy vicaut,10.040,Rio 2016,Athletics,100m men
+7,USA,trayvon bromell,10.060,Rio 2016,Athletics,100m men
+8,BRN,andrew fisher,,Rio 2016,Athletics,100m men
+0,JAM,elaine thompson-herah,10.710,Rio 2016,Athletics,100m women
+1,USA,tori bowie,10.830,Rio 2016,Athletics,100m women
+2,JAM,shelly-ann fraser-pryce,10.860,Rio 2016,Athletics,100m women
+3,CIV,marie-josee ta lou,10.860,Rio 2016,Athletics,100m women
+4,NED,dafne schippers,10.900,Rio 2016,Athletics,100m women
+5,TTO,michelle-lee ahye,10.920,Rio 2016,Athletics,100m women
+6,USA,english gardner,10.940,Rio 2016,Athletics,100m women
+7,JAM,christania williams,11.800,Rio 2016,Athletics,100m women
+8,UKR,olesya povkh,Disqualified,Rio 2016,Athletics,100m women
+0,JAM,omar mcleod,13.050,Rio 2016,Athletics,110m hurdles men
+1,ESP,orlando ortega,13.170,Rio 2016,Athletics,110m hurdles men
+2,FRA,dimitri bascou,13.240,Rio 2016,Athletics,110m hurdles men
+3,FRA,pascal martinot-lagarde,13.290,Rio 2016,Athletics,110m hurdles men
+4,USA,devon allen,13.310,Rio 2016,Athletics,110m hurdles men
+5,CAN,johnathan cabral,13.400,Rio 2016,Athletics,110m hurdles men
+6,CYP,milan trajkovic,13.410,Rio 2016,Athletics,110m hurdles men
+7,USA,ronnie ash,Disqualified,Rio 2016,Athletics,110m hurdles men
+8,HAI,jeffrey julmis,,Rio 2016,Athletics,110m hurdles men
+9,BRA,eder souza,,Rio 2016,Athletics,110m hurdles men
+10,FRA,wilhem belocian,,Rio 2016,Athletics,110m hurdles men
+11,CUB,jhoanis portilla,,Rio 2016,Athletics,110m hurdles men
+0,USA,matthew centrowitz,00:03:50.000,Rio 2016,Athletics,1500m men
+1,ALG,taoufik makhloufi,00:03:50.110,Rio 2016,Athletics,1500m men
+2,NZL,nick willis,00:03:50.240,Rio 2016,Athletics,1500m men
+3,DJI,ayanleh souleiman,00:03:50.290,Rio 2016,Athletics,1500m men
+4,MAR,abdalaati iguider,00:03:50.580,Rio 2016,Athletics,1500m men
+5,KEN,asbel kiprop,00:03:50.870,Rio 2016,Athletics,1500m men
+6,ESP,david bustos,00:03:51.060,Rio 2016,Athletics,1500m men
+7,USA,ben blankenship,00:03:51.090,Rio 2016,Athletics,1500m men
+8,AUS,ryan gregson,00:03:51.390,Rio 2016,Athletics,1500m men
+9,CAN,nathan brannen,00:03:51.450,Rio 2016,Athletics,1500m men
+10,UGA,ronald musagala,00:03:51.680,Rio 2016,Athletics,1500m men
+11,GBR,charlie grice,00:03:51.730,Rio 2016,Athletics,1500m men
+12,KEN,ronald kwemoi,00:03:56.760,Rio 2016,Athletics,1500m men
+13,USA,robby andrews,,Rio 2016,Athletics,1500m men
+14,NOR,filip ingebrigtsen,,Rio 2016,Athletics,1500m men
+15,DJI,abdi waiss mouhyadin,,Rio 2016,Athletics,1500m men
+16,ETH,aman wote,Did not start,Rio 2016,Athletics,1500m men
+0,KEN,faith chepngetich kipyegon,00:04:08.920,Rio 2016,Athletics,1500m women
+1,ETH,genzebe dibaba,00:04:10.270,Rio 2016,Athletics,1500m women
+2,USA,jenny barringer-simpson,00:04:10.530,Rio 2016,Athletics,1500m women
+3,USA,shannon rowbury,00:04:11.050,Rio 2016,Athletics,1500m women
+4,NED,sifan hassan,00:04:11.230,Rio 2016,Athletics,1500m women
+5,SWE,meraf bahta,00:04:12.590,Rio 2016,Athletics,1500m women
+6,GBR,laura muir,00:04:12.880,Rio 2016,Athletics,1500m women
+7,ETH,dawit seyaum,00:04:13.140,Rio 2016,Athletics,1500m women
+8,ETH,besu sado,00:04:13.580,Rio 2016,Athletics,1500m women
+9,POL,sofia ennaoui,00:04:14.720,Rio 2016,Athletics,1500m women
+10,GBR,laura weightman,00:04:14.950,Rio 2016,Athletics,1500m women
+11,MAR,rababe arafi,00:04:15.160,Rio 2016,Athletics,1500m women
+12,UAE,betlhem desalegn,Did not start,Rio 2016,Athletics,1500m women
+0,JAM,usain bolt,19.780,Rio 2016,Athletics,200m men
+1,CAN,andre de grasse,20.020,Rio 2016,Athletics,200m men
+2,FRA,christophe lemaitre,20.120,Rio 2016,Athletics,200m men
+3,GBR,adam gemili,20.120,Rio 2016,Athletics,200m men
+4,NED,churandy martina,20.130,Rio 2016,Athletics,200m men
+5,USA,lashawn merritt,20.190,Rio 2016,Athletics,200m men
+6,PAN,alonso edward,20.230,Rio 2016,Athletics,200m men
+7,TUR,ramil guliyev,20.430,Rio 2016,Athletics,200m men
+8,BAH,demetrius pinder,,Rio 2016,Athletics,200m men
+9,ANT,miguel francis,Did not start,Rio 2016,Athletics,200m men
+10,KEN,mike mokamba nyangau,Did not start,Rio 2016,Athletics,200m men
+0,JAM,elaine thompson-herah,21.780,Rio 2016,Athletics,200m women
+1,NED,dafne schippers,21.880,Rio 2016,Athletics,200m women
+2,USA,tori bowie,22.150,Rio 2016,Athletics,200m women
+3,CIV,marie-josee ta lou,22.210,Rio 2016,Athletics,200m women
+4,GBR,dina asher-smith,22.310,Rio 2016,Athletics,200m women
+5,TTO,michelle-lee ahye,22.340,Rio 2016,Athletics,200m women
+6,USA,deajah stevens,22.650,Rio 2016,Athletics,200m women
+7,BUL,ivet lalova-collio,22.690,Rio 2016,Athletics,200m women
+0,CHN,hong liu,01:28:35.000,Rio 2016,Athletics,20km race walk women
+1,MEX,maria guadalupe gonzalez,01:28:37.000,Rio 2016,Athletics,20km race walk women
+2,CHN,xiuzhi lu,01:28:42.000,Rio 2016,Athletics,20km race walk women
+3,ITA,antonella palmisano,01:29:03.000,Rio 2016,Athletics,20km race walk women
+4,CHN,shijie qieyang,01:29:04.000,Rio 2016,Athletics,20km race walk women
+5,POR,ana cabecinha,01:29:23.000,Rio 2016,Athletics,20km race walk women
+6,BRA,erica de sena,01:29:29.000,Rio 2016,Athletics,20km race walk women
+7,ESP,beatriz pascual,01:30:24.000,Rio 2016,Athletics,20km race walk women
+8,AUS,regan lamble,01:30:28.000,Rio 2016,Athletics,20km race walk women
+9,CZE,anezka drahotova,01:30:43.000,Rio 2016,Athletics,20km race walk women
+10,ITA,elisa rigaudo,01:31:04.000,Rio 2016,Athletics,20km race walk women
+11,POR,ines henriques,01:31:28.000,Rio 2016,Athletics,20km race walk women
+12,FRA,emilie menuet,01:32:04.000,Rio 2016,Athletics,20km race walk women
+13,PER,kimberly garcia,01:32:09.000,Rio 2016,Athletics,20km race walk women
+14,GRE,antigoni drisbioti,01:32:32.000,Rio 2016,Athletics,20km race walk women
+15,JPN,kumiko okada,01:32:42.000,Rio 2016,Athletics,20km race walk women
+16,BLR,nastassia yatsevich,01:32:53.000,Rio 2016,Athletics,20km race walk women
+17,BOL,angela castro,01:32:54.000,Rio 2016,Athletics,20km race walk women
+18,UKR,nadiya borovska,01:33:01.000,Rio 2016,Athletics,20km race walk women
+19,ESP,raquel gonzalez,01:33:03.000,Rio 2016,Athletics,20km race walk women
+20,UKR,inna kashyna,01:33:15.000,Rio 2016,Athletics,20km race walk women
+21,USA,maria michta-coffey,01:33:36.000,Rio 2016,Athletics,20km race walk women
+22,MEX,maria guadalupe sanchez,01:33:44.000,Rio 2016,Athletics,20km race walk women
+23,ECU,paola perez,01:33:53.000,Rio 2016,Athletics,20km race walk women
+24,HUN,viktoria madarasz,01:33:59.000,Rio 2016,Athletics,20km race walk women
+25,AUS,tanya holliday,01:34:22.000,Rio 2016,Athletics,20km race walk women
+26,ECU,magaly bonilla,01:34:54.000,Rio 2016,Athletics,20km race walk women
+27,POL,paulina buziak,01:35:01.000,Rio 2016,Athletics,20km race walk women
+28,LTU,brigita virbalyte-dimsiene,01:35:11.000,Rio 2016,Athletics,20km race walk women
+29,GUA,mirna ortiz,01:35:11.000,Rio 2016,Athletics,20km race walk women
+30,BOL,wendy cornejo,01:35:17.000,Rio 2016,Athletics,20km race walk women
+31,COL,sandra arenas,01:35:40.000,Rio 2016,Athletics,20km race walk women
+32,ESP,julia takacs,01:35:45.000,Rio 2016,Athletics,20km race walk women
+33,USA,miranda melville,01:35:48.000,Rio 2016,Athletics,20km race walk women
+34,NZL,alana barber,01:35:55.000,Rio 2016,Athletics,20km race walk women
+35,ECU,maritza guaman,01:35:56.000,Rio 2016,Athletics,20km race walk women
+36,POR,daniela cardoso,01:36:13.000,Rio 2016,Athletics,20km race walk women
+37,COL,yeseida carrillo,01:36:28.000,Rio 2016,Athletics,20km race walk women
+38,KOR,yeongeun jeon,01:36:31.000,Rio 2016,Athletics,20km race walk women
+39,AUS,rachel tallent,01:37:08.000,Rio 2016,Athletics,20km race walk women
+40,MEX,alejandra ortega,01:37:33.000,Rio 2016,Athletics,20km race walk women
+41,KEN,grace wanjiru njue,01:37:49.000,Rio 2016,Athletics,20km race walk women
+42,BOL,stefany coronado,01:37:56.000,Rio 2016,Athletics,20km race walk women
+43,POL,agnieszka szwarnog,01:38:01.000,Rio 2016,Athletics,20km race walk women
+44,ROU,andreea arsine,01:38:16.000,Rio 2016,Athletics,20km race walk women
+45,UKR,valentyna myronchuk,01:38:20.000,Rio 2016,Athletics,20km race walk women
+46,GRE,panayiota tsinopoulou,01:38:24.000,Rio 2016,Athletics,20km race walk women
+47,SVK,maria czakova,01:38:29.000,Rio 2016,Athletics,20km race walk women
+48,BRA,cisiane lopes,01:38:35.000,Rio 2016,Athletics,20km race walk women
+49,ROU,ana veronica rodean,01:38:42.000,Rio 2016,Athletics,20km race walk women
+50,PER,jessica hancco,01:39:08.000,Rio 2016,Athletics,20km race walk women
+51,GUA,maritza poncio,01:40:09.000,Rio 2016,Athletics,20km race walk women
+52,LAT,agnese pastare,01:40:15.000,Rio 2016,Athletics,20km race walk women
+53,IND,khushbir kaur,01:40:33.000,Rio 2016,Athletics,20km race walk women
+54,SVK,maria galikova,01:40:35.000,Rio 2016,Athletics,20km race walk women
+55,LTU,zivile vaiciukeviciute,01:41:28.000,Rio 2016,Athletics,20km race walk women
+56,ROU,claudia stef,01:41:47.000,Rio 2016,Athletics,20km race walk women
+57,HUN,barbara kovacs,01:42:11.000,Rio 2016,Athletics,20km race walk women
+58,HUN,rita recsei,01:42:41.000,Rio 2016,Athletics,20km race walk women
+59,TUN,chahinez nasri,01:42:57.000,Rio 2016,Athletics,20km race walk women
+60,ETH,askale tiksa,01:44:15.000,Rio 2016,Athletics,20km race walk women
+61,KAZ,diana aydosova,01:44:49.000,Rio 2016,Athletics,20km race walk women
+62,RSA,anel oosthuizen,01:45:06.000,Rio 2016,Athletics,20km race walk women
+63,POL,agnieszka dygacz,Did not finish,Rio 2016,Athletics,20km race walk women
+64,IND,sapna punia,Did not finish,Rio 2016,Athletics,20km race walk women
+65,ESA,yesenia miranda,Did not finish,Rio 2016,Athletics,20km race walk women
+66,COL,sandra galvis,Did not finish,Rio 2016,Athletics,20km race walk women
+67,LTU,neringa aidietyte,Did not finish,Rio 2016,Athletics,20km race walk women
+68,ITA,eleonora giorgi,Disqualified,Rio 2016,Athletics,20km race walk women
+69,GUA,mayra carolina herrera,Disqualified,Rio 2016,Athletics,20km race walk women
+70,ETH,yehualeye beletew,Disqualified,Rio 2016,Athletics,20km race walk women
+71,KOR,daseul lee,Disqualified,Rio 2016,Athletics,20km race walk women
+72,KOR,jeong eun lee,Disqualified,Rio 2016,Athletics,20km race walk women
+73,KAZ,polina repina,Disqualified,Rio 2016,Athletics,20km race walk women
 0,CHN,zhen wang,01:19:14.000,Rio 2016,Athletics,20km walk men
 1,CHN,zelin cai,01:19:26.000,Rio 2016,Athletics,20km walk men
 2,AUS,dane bird-smith,01:19:37.000,Rio 2016,Athletics,20km walk men

@@ -1,4 +1,212 @@
 ,country,participant,result,olympic_game,discipline,event
+0,FIN,paavo nurmi,00:31:45.800,Antwerp 1920,Athletics,10000m men
+1,FRA,joseph guillemot,31:50.5est,Antwerp 1920,Athletics,10000m men
+2,GBR,james wilson,31:56est,Antwerp 1920,Athletics,10000m men
+3,ITA,augusto maccario,32:04est,Antwerp 1920,Athletics,10000m men
+4,GBR,james hatton,32:10est,Antwerp 1920,Athletics,10000m men
+5,FRA,jean baptiste manhes,32:35est,Antwerp 1920,Athletics,10000m men
+6,FIN,heikki liimatainen,32:36est,Antwerp 1920,Athletics,10000m men
+7,USA,frederick william faller,32:46est,Antwerp 1920,Athletics,10000m men
+8,SUI,oscar garin,34:30est,Antwerp 1920,Athletics,10000m men
+9,DEN,albert andersen,Did not finish,Antwerp 1920,Athletics,10000m men
+10,FRA,gaston heuet,Did not finish,Antwerp 1920,Athletics,10000m men
+11,GBR,charles thomas clibbon,Did not finish,Antwerp 1920,Athletics,10000m men
+12,ITA,carlo speroni,Did not finish,Antwerp 1920,Athletics,10000m men
+13,SUI,alfred gaschen,Did not finish,Antwerp 1920,Athletics,10000m men
+14,SWE,erik backman,Did not finish,Antwerp 1920,Athletics,10000m men
+15,DEN,julius ebert,,Antwerp 1920,Athletics,10000m men
+16,EST,jüri lossman,,Antwerp 1920,Athletics,10000m men
+17,IND,phadeppa chaugule,,Antwerp 1920,Athletics,10000m men
+18,USA,amisoli patasoni,,Antwerp 1920,Athletics,10000m men
+19,AUS,sinton hewitt,,Antwerp 1920,Athletics,10000m men
+20,USA,robert earl johnson,,Antwerp 1920,Athletics,10000m men
+21,USA,george cornetta,,Antwerp 1920,Athletics,10000m men
+22,ITA,constantino lussana,,Antwerp 1920,Athletics,10000m men
+23,TCH,karel pacák,,Antwerp 1920,Athletics,10000m men
+24,JPN,zensaku motegi,,Antwerp 1920,Athletics,10000m men
+25,SWE,emanuel lundström,,Antwerp 1920,Athletics,10000m men
+26,FRA,louis corlet,Did not start,Antwerp 1920,Athletics,10000m men
+27,FIN,hannes kolehmainen,Did not start,Antwerp 1920,Athletics,10000m men
+28,BEL,julien van campenhout,Did not start,Antwerp 1920,Athletics,10000m men
+29,FRA,edmond bimont,Did not start,Antwerp 1920,Athletics,10000m men
+30,FRA,rené vignaud,Did not start,Antwerp 1920,Athletics,10000m men
+31,JPN,tomeichi ohura,Did not start,Antwerp 1920,Athletics,10000m men
+32,FIN,frederik teudor koskenniemi,Did not start,Antwerp 1920,Athletics,10000m men
+0,ITA,ugo frigerio,00:48:06.200,Antwerp 1920,Athletics,10000m walk men
+1,USA,joseph pearman,49:20.0est / at 200 metres,Antwerp 1920,Athletics,10000m walk men
+2,GBR,charlie gunn,49:23.0est / at 12 metres,Antwerp 1920,Athletics,10000m walk men
+3,RSA,cecil charles mcmaster,50:04.0est / at 130 metres,Antwerp 1920,Athletics,10000m walk men
+4,GBR,william hehir,50:25.0est / at 70 metres,Antwerp 1920,Athletics,10000m walk men
+5,USA,thomas maroney,50:37.0est / at 40 metres,Antwerp 1920,Athletics,10000m walk men
+6,BEL,jean seghers,50:45.0est / at 25 metres,Antwerp 1920,Athletics,10000m walk men
+7,BEL,antoine doyen,57:30.0est / at 1000 metres,Antwerp 1920,Athletics,10000m walk men
+8,AUS,george parker,Did not finish,Antwerp 1920,Athletics,10000m walk men
+9,ESP,luis meléndez,Did not finish,Antwerp 1920,Athletics,10000m walk men
+10,ITA,donato pavesi,Disqualified,Antwerp 1920,Athletics,10000m walk men
+11,BEL,paul verlaeckt,,Antwerp 1920,Athletics,10000m walk men
+12,DEN,gunnar rasmussen,,Antwerp 1920,Athletics,10000m walk men
+13,EST,eduard hermann,,Antwerp 1920,Athletics,10000m walk men
+14,FRA,martial simon,,Antwerp 1920,Athletics,10000m walk men
+15,GBR,charles dowson,,Antwerp 1920,Athletics,10000m walk men
+16,TCH,josef slehofer,,Antwerp 1920,Athletics,10000m walk men
+17,BEL,charles wiggers,,Antwerp 1920,Athletics,10000m walk men
+18,CAN,eversleigh freeman,,Antwerp 1920,Athletics,10000m walk men
+19,DEN,niels pedersen,,Antwerp 1920,Athletics,10000m walk men
+20,SUI,stanislas anselmetti,,Antwerp 1920,Athletics,10000m walk men
+21,TCH,k. jelinek,Did not start,Antwerp 1920,Athletics,10000m walk men
+22,TCH,jan plichta,Did not start,Antwerp 1920,Athletics,10000m walk men
+23,ITA,nando altimani,Did not start,Antwerp 1920,Athletics,10000m walk men
+24,USA,richard frederick remer,Did not start,Antwerp 1920,Athletics,10000m walk men
+0,USA,charles paddock,10.800,Antwerp 1920,Athletics,100m men
+1,USA,morris kirksey,10.9est / at ½ metre,Antwerp 1920,Athletics,100m men
+2,GBR,harry edward,10.9est / chest behind,Antwerp 1920,Athletics,100m men
+3,USA,jackson scholz,10.9est / chest behind,Antwerp 1920,Athletics,100m men
+4,FRA,émile ali khan,11.2est / at 2 metres,Antwerp 1920,Athletics,100m men
+5,USA,loren murchison,11.2est / close behind,Antwerp 1920,Athletics,100m men
+6,EST,reinhold saulmann,Did not start,Antwerp 1920,Athletics,100m men
+7,ESP,carlos pajarón,Did not start,Antwerp 1920,Athletics,100m men
+8,FRA,rené caste,Did not start,Antwerp 1920,Athletics,100m men
+9,TCH,františek skokan,Did not start,Antwerp 1920,Athletics,100m men
+0,CAN,earl john thomson,14.800,Antwerp 1920,Athletics,110m hurdles men
+1,USA,harold barron,15.1est / at 2 metres,Antwerp 1920,Athletics,110m hurdles men
+2,USA,frederick murray,15.3est / at 2 metres,Antwerp 1920,Athletics,110m hurdles men
+3,NZL,harry wilson,15.3est / at ½ metres,Antwerp 1920,Athletics,110m hurdles men
+4,USA,walker breeze smith,15.3est / close behind,Antwerp 1920,Athletics,110m hurdles men
+5,SWE,carl-axel christiernsson,15.5est / at 1 metre,Antwerp 1920,Athletics,110m hurdles men
+6,FRA,charles audinot,Did not start,Antwerp 1920,Athletics,110m hurdles men
+7,FRA,yves durier,Did not start,Antwerp 1920,Athletics,110m hurdles men
+8,FRA,maxime girard,Did not start,Antwerp 1920,Athletics,110m hurdles men
+9,FRA,géo andré,Did not start,Antwerp 1920,Athletics,110m hurdles men
+10,FRA,marcel orfidan,Did not start,Antwerp 1920,Athletics,110m hurdles men
+11,RSA,attie van heerden,Did not start,Antwerp 1920,Athletics,110m hurdles men
+12,NOR,helge andreas løvland,Did not start,Antwerp 1920,Athletics,110m hurdles men
+13,TCH,josef voňavka,Did not start,Antwerp 1920,Athletics,110m hurdles men
+0,GBR,albert hill,00:04:01.800,Antwerp 1920,Athletics,1500m men
+1,GBR,philip john noel-baker,4:02.4est / at 3 metres,Antwerp 1920,Athletics,1500m men
+2,USA,marion lawrence shields,4:04.3est / at 8 metres,Antwerp 1920,Athletics,1500m men
+3,TCH,vaclav vohralik,4:08.0est / at 25 metres,Antwerp 1920,Athletics,1500m men
+4,SWE,sven emil lundgren,4:12.0est / at 25 metres,Antwerp 1920,Athletics,1500m men
+5,FRA,andré audinet,4:12.2est / at 1 metre,Antwerp 1920,Athletics,1500m men
+6,ITA,arturo porro,4:12.4est / at 1 metre,Antwerp 1920,Athletics,1500m men
+7,USA,joseph ray,4:13.0est / at 20 metres,Antwerp 1920,Athletics,1500m men
+8,BEL,léon m. fourneau,4:16.0est / at 20 metres,Antwerp 1920,Athletics,1500m men
+9,FRA,rené leray,00:04:25.000,Antwerp 1920,Athletics,1500m men
+10,GBR,duncan mcphee,Did not finish,Antwerp 1920,Athletics,1500m men
+11,SWE,john zander,Did not finish,Antwerp 1920,Athletics,1500m men
+12,USA,james joseph connolly,Did not finish,Antwerp 1920,Athletics,1500m men
+13,BEL,lucien bangels,,Antwerp 1920,Athletics,1500m men
+14,ESP,juan muguerza,,Antwerp 1920,Athletics,1500m men
+15,EST,johannes villemson,,Antwerp 1920,Athletics,1500m men
+16,ITA,carlo martinenghi,Did not start,Antwerp 1920,Athletics,1500m men
+17,FRA,henri protais,Did not start,Antwerp 1920,Athletics,1500m men
+18,FRA,georges guillon,Did not start,Antwerp 1920,Athletics,1500m men
+19,JPN,tomeichi ohura,Did not start,Antwerp 1920,Athletics,1500m men
+20,FIN,paavo nurmi,Did not start,Antwerp 1920,Athletics,1500m men
+21,RSA,bevil gordon d'urban rudd,Did not start,Antwerp 1920,Athletics,1500m men
+22,ESP,josé luis grasset,Did not start,Antwerp 1920,Athletics,1500m men
+23,GRE,panagiotis retelas,Did not start,Antwerp 1920,Athletics,1500m men
+24,DEN,søren nielsen,Did not start,Antwerp 1920,Athletics,1500m men
+25,TCH,jaroslav procházka,Did not start,Antwerp 1920,Athletics,1500m men
+26,GBR,arnold jackson,Did not start,Antwerp 1920,Athletics,1500m men
+27,SUI,alfred gaschen,Did not start,Antwerp 1920,Athletics,1500m men
+28,ITA,ernesto ambrosini,Did not start,Antwerp 1920,Athletics,1500m men
+0,USA,allen woodring,22.000,Antwerp 1920,Athletics,200m men
+1,USA,charles paddock,22.0est / at 10 cm,Antwerp 1920,Athletics,200m men
+2,GBR,harry edward,22.2est / at 1 metre,Antwerp 1920,Athletics,200m men
+3,USA,loren murchison,22.2est / close behind,Antwerp 1920,Athletics,200m men
+4,NZL,george davidson,22.3est,Antwerp 1920,Athletics,200m men
+5,RSA,jack oosterlaak,22.3est,Antwerp 1920,Athletics,200m men
+6,SUI,josef imbach,,Antwerp 1920,Athletics,200m men
+7,FRA,louis renard,Did not start,Antwerp 1920,Athletics,200m men
+8,ESP,carlos botin,Did not start,Antwerp 1920,Athletics,200m men
+9,FRA,rené mourlon,Did not start,Antwerp 1920,Athletics,200m men
+10,CAN,cyril h. coaffee,Did not start,Antwerp 1920,Athletics,200m men
+0,GBR,percy hodge,00:10:00.400,Antwerp 1920,Athletics,3000m steeplechase men
+1,USA,pat flynn,10:22est / at 100 metres,Antwerp 1920,Athletics,3000m steeplechase men
+2,ITA,ernesto ambrosini,10:33est / at 50 metres,Antwerp 1920,Athletics,3000m steeplechase men
+3,SWE,gustaf mattsson,10:33est / chest behind,Antwerp 1920,Athletics,3000m steeplechase men
+4,USA,michael aloysius devaney,10:35est / at 10 metres,Antwerp 1920,Athletics,3000m steeplechase men
+5,USA,albert joseph hulsebosch,10:38est / at 15 metres,Antwerp 1920,Athletics,3000m steeplechase men
+6,SWE,lars hedwall,10:42est / at 20 metres,Antwerp 1920,Athletics,3000m steeplechase men
+7,USA,raymond bates watson,10:50est / at 35 metres,Antwerp 1920,Athletics,3000m steeplechase men
+8,ITA,carlo martinenghi,,Antwerp 1920,Athletics,3000m steeplechase men
+9,SWE,josef holsner,,Antwerp 1920,Athletics,3000m steeplechase men
+10,FRA,maurice de coninck,Did not start,Antwerp 1920,Athletics,3000m steeplechase men
+11,FRA,gaston heuet,Did not start,Antwerp 1920,Athletics,3000m steeplechase men
+12,AUS,sinton hewitt,Did not start,Antwerp 1920,Athletics,3000m steeplechase men
+13,CAN,tommy town,Did not start,Antwerp 1920,Athletics,3000m steeplechase men
+14,FIN,paavo nurmi,Did not start,Antwerp 1920,Athletics,3000m steeplechase men
+15,SWE,emanuel lundström,Did not start,Antwerp 1920,Athletics,3000m steeplechase men
+16,ITA,carlo speroni,Did not start,Antwerp 1920,Athletics,3000m steeplechase men
+17,FIN,frederik teudor koskenniemi,Did not start,Antwerp 1920,Athletics,3000m steeplechase men
+18,CAN,eddie lawrence,Did not start,Antwerp 1920,Athletics,3000m steeplechase men
+0,,,10,Antwerp 1920,Athletics,3000m team men
+1,,,20,Antwerp 1920,Athletics,3000m team men
+2,,,24,Antwerp 1920,Athletics,3000m team men
+3,,,30,Antwerp 1920,Athletics,3000m team men
+4,,,36,Antwerp 1920,Athletics,3000m team men
+0,ITA,ugo frigerio,00:13:14.200,Antwerp 1920,Athletics,3000m walk men
+1,AUS,george parker,13:21.0est / at 25 metres,Antwerp 1920,Athletics,3000m walk men
+2,USA,richard frederick remer,13:23.7est / at 10 metres,Antwerp 1920,Athletics,3000m walk men
+3,RSA,cecil charles mcmaster,13:25.1est / at 5 metres,Antwerp 1920,Athletics,3000m walk men
+4,USA,thomas maroney,13:26.5est / at 5 metres,Antwerp 1920,Athletics,3000m walk men
+5,GBR,charles dowson,13:29.2est / at 10 metres,Antwerp 1920,Athletics,3000m walk men
+6,GBR,william hehir,13:30.6est / at 5 metres,Antwerp 1920,Athletics,3000m walk men
+7,USA,winfred rolker,13:32.0est / at 5 metres,Antwerp 1920,Athletics,3000m walk men
+8,BEL,jean seghers,13:32.8est / at 3 metres,Antwerp 1920,Athletics,3000m walk men
+9,GBR,charlie gunn,13:35.6est / at 10 metres,Antwerp 1920,Athletics,3000m walk men
+10,DEN,niels pedersen,13:38.4est / at 10 metres,Antwerp 1920,Athletics,3000m walk men
+11,ITA,donato pavesi,Disqualified,Antwerp 1920,Athletics,3000m walk men
+12,EST,eduard hermann,,Antwerp 1920,Athletics,3000m walk men
+13,NED,cor gubbels,,Antwerp 1920,Athletics,3000m walk men
+14,BEL,paul verlaeckt,,Antwerp 1920,Athletics,3000m walk men
+15,USA,joseph pearman,,Antwerp 1920,Athletics,3000m walk men
+16,DEN,gunnar rasmussen,,Antwerp 1920,Athletics,3000m walk men
+17,SUI,stanislas anselmetti,,Antwerp 1920,Athletics,3000m walk men
+18,ESP,luis meléndez,Did not start,Antwerp 1920,Athletics,3000m walk men
+19,USA,william plant,Did not start,Antwerp 1920,Athletics,3000m walk men
+0,USA,frank loomis,54.000,Antwerp 1920,Athletics,400m hurdles men
+1,USA,john kelley norton,54.6est / at 4 metres,Antwerp 1920,Athletics,400m hurdles men
+2,USA,gus desch,54.8est / at 1 metre,Antwerp 1920,Athletics,400m hurdles men
+3,FRA,géo andré,54.8est / at 1 metre,Antwerp 1920,Athletics,400m hurdles men
+4,SWE,carl-axel christiernsson,55.4est / at 4 metres,Antwerp 1920,Athletics,400m hurdles men
+5,USA,charles daniel daggs,56.5est / at 9 metres,Antwerp 1920,Athletics,400m hurdles men
+6,FRA,antony jarrety,,Antwerp 1920,Athletics,400m hurdles men
+7,RSA,attie van heerden,,Antwerp 1920,Athletics,400m hurdles men
+8,BEL,omer smets,,Antwerp 1920,Athletics,400m hurdles men
+9,FRA,georges daullé,Did not start,Antwerp 1920,Athletics,400m hurdles men
+10,FRA,henri pierre bernard,Did not start,Antwerp 1920,Athletics,400m hurdles men
+11,FRA,étienne proux,Did not start,Antwerp 1920,Athletics,400m hurdles men
+12,CAN,earl john thomson,Did not start,Antwerp 1920,Athletics,400m hurdles men
+13,ITA,giuseppe bernardoni,Did not start,Antwerp 1920,Athletics,400m hurdles men
+14,BEL,albert van dyck,Did not start,Antwerp 1920,Athletics,400m hurdles men
+15,SWE,torwald norling,Did not start,Antwerp 1920,Athletics,400m hurdles men
+0,RSA,bevil gordon d'urban rudd,49.600,Antwerp 1920,Athletics,400m men
+1,GBR,guy montagu butler,50.1est / at 4 metres,Antwerp 1920,Athletics,400m men
+2,SWE,nils engdahl,50.2est / close behind,Antwerp 1920,Athletics,400m men
+3,USA,frank shea,50.4est,Antwerp 1920,Athletics,400m men
+4,GBR,john creyghton ainsworth-davis,50.6est,Antwerp 1920,Athletics,400m men
+5,RSA,henning johannes dafel,50.6est,Antwerp 1920,Athletics,400m men
+6,SWE,erik sundblad,,Antwerp 1920,Athletics,400m men
+7,EGY,ahmed abbas khairy,,Antwerp 1920,Athletics,400m men
+8,FRA,jules guichard,Did not start,Antwerp 1920,Athletics,400m men
+9,MON,émile barral,Did not start,Antwerp 1920,Athletics,400m men
+10,SUI,henri nozieres,Did not start,Antwerp 1920,Athletics,400m men
+11,AUS,william hunt,Did not start,Antwerp 1920,Athletics,400m men
+12,DEN,fritjoff normann andersen,Did not start,Antwerp 1920,Athletics,400m men
+13,DEN,august emanuel sörensen,Did not start,Antwerp 1920,Athletics,400m men
+14,EST,johannes villemson,Did not start,Antwerp 1920,Athletics,400m men
+15,GBR,cecil richmond griffiths,Did not start,Antwerp 1920,Athletics,400m men
+16,GBR,philip john noel-baker,Did not start,Antwerp 1920,Athletics,400m men
+17,GRE,dimitrios karabatis,Did not start,Antwerp 1920,Athletics,400m men
+18,ITA,ernesto ambrosini,Did not start,Antwerp 1920,Athletics,400m men
+19,JPN,gensabulo noguchi,Did not start,Antwerp 1920,Athletics,400m men
+20,JPN,shinichi yamaoka,Did not start,Antwerp 1920,Athletics,400m men
+21,LUX,jean colbach,Did not start,Antwerp 1920,Athletics,400m men
+22,LUX,paul hammer,Did not start,Antwerp 1920,Athletics,400m men
+23,TCH,eduard hašek,Did not start,Antwerp 1920,Athletics,400m men
+24,TCH,josef teplý,Did not start,Antwerp 1920,Athletics,400m men
+25,FRA,andré désfarges,Did not start,Antwerp 1920,Athletics,400m men
 0,,,42.200,Antwerp 1920,Athletics,4x100m relay men
 1,,,42.600,Antwerp 1920,Athletics,4x100m relay men
 2,,,42.8est / at 2 metres,Antwerp 1920,Athletics,4x100m relay men

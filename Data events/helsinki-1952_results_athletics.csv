@@ -1,4 +1,220 @@
 ,country,participant,result,olympic_game,discipline,event
+0,TCH,emil zatopek,00:29:17.000,Helsinki 1952,Athletics,10000m men
+1,FRA,alain mimoun,00:29:32.800,Helsinki 1952,Athletics,10000m men
+2,URS,aleksandr anufriyev,00:29:48.200,Helsinki 1952,Athletics,10000m men
+3,FIN,hannu kalevi posti,00:29:51.400,Helsinki 1952,Athletics,10000m men
+4,GBR,frank dennis sando,00:29:51.800,Helsinki 1952,Athletics,10000m men
+5,SWE,valter nystrom,00:29:54.800,Helsinki 1952,Athletics,10000m men
+6,GBR,gordon pirie,00:30:04.200,Helsinki 1952,Athletics,10000m men
+7,GBR,fred norris,00:30:09.800,Helsinki 1952,Athletics,10000m men
+8,URS,ivan pozhidayev,00:30:13.400,Helsinki 1952,Athletics,10000m men
+9,NOR,martin stokken,00:30:22.200,Helsinki 1952,Athletics,10000m men
+10,URS,nikifor popov,00:30:24.200,Helsinki 1952,Athletics,10000m men
+11,SWE,bertil albertsson,00:30:34.600,Helsinki 1952,Athletics,10000m men
+12,SWE,bertil karlsson,00:30:35.800,Helsinki 1952,Athletics,10000m men
+13,HUN,bela juhasz,00:30:39.600,Helsinki 1952,Athletics,10000m men
+14,TUR,osman cosgül,00:30:42.400,Helsinki 1952,Athletics,10000m men
+15,FIN,väinö koskela,00:30:43.000,Helsinki 1952,Athletics,10000m men
+16,FRA,ould lamine abdallah,00:30:53.000,Helsinki 1952,Athletics,10000m men
+17,YUG,franjo mihalic,00:30:53.200,Helsinki 1952,Athletics,10000m men
+18,FIN,hugo olavi niskanen,00:30:59.600,Helsinki 1952,Athletics,10000m men
+19,USA,curtis charles stone,00:31:02.600,Helsinki 1952,Athletics,10000m men
+20,USA,frederick loren wilt,00:31:04.000,Helsinki 1952,Athletics,10000m men
+21,BEL,marcel eugene van de wattyne,00:31:15.800,Helsinki 1952,Athletics,10000m men
+22,CHI,raúl inostroza,00:31:28.600,Helsinki 1952,Athletics,10000m men
+23,DEN,thyge pedersen thogersen,00:31:47.800,Helsinki 1952,Athletics,10000m men
+24,FRA,ali ben labidi,00:31:52.200,Helsinki 1952,Athletics,10000m men
+25,ISL,kristjan johannsson,00:32:00.000,Helsinki 1952,Athletics,10000m men
+26,AUT,helmuth perz,00:32:13.200,Helsinki 1952,Athletics,10000m men
+27,RSA,william charles keith,00:32:32.400,Helsinki 1952,Athletics,10000m men
+28,BEL,alphonse vandenrydt,00:33:13.400,Helsinki 1952,Athletics,10000m men
+29,PAK,abdul rashid,00:33:50.400,Helsinki 1952,Athletics,10000m men
+30,GUA,luis velasquez,00:35:34.000,Helsinki 1952,Athletics,10000m men
+31,VNM,tran van ly,00:37:33.000,Helsinki 1952,Athletics,10000m men
+32,AUS,leslie john perry,Did not finish,Helsinki 1952,Athletics,10000m men
+33,DEN,rikard greenfort,Did not start,Helsinki 1952,Athletics,10000m men
+34,ESP,antonio amorós,Did not start,Helsinki 1952,Athletics,10000m men
+35,ESP,josé coll,Did not start,Helsinki 1952,Athletics,10000m men
+36,POL,jan szwargot,Did not start,Helsinki 1952,Athletics,10000m men
+37,TCH,milan švajgr,Did not start,Helsinki 1952,Athletics,10000m men
+38,YUG,domeniko cetinić,Did not start,Helsinki 1952,Athletics,10000m men
+39,ARG,delfo cabrera,Did not start,Helsinki 1952,Athletics,10000m men
+40,ARG,corsino fernandez,Did not start,Helsinki 1952,Athletics,10000m men
+41,ARG,reinaldo gorno,Did not start,Helsinki 1952,Athletics,10000m men
+42,GER,herbert schade,Did not start,Helsinki 1952,Athletics,10000m men
+43,GRE,vasilios mavrapostolos,Did not start,Helsinki 1952,Athletics,10000m men
+44,GUA,doroteo flores,Did not start,Helsinki 1952,Athletics,10000m men
+45,HUN,jozsef kovacs,Did not start,Helsinki 1952,Athletics,10000m men
+46,JPN,osamu inone,Did not start,Helsinki 1952,Athletics,10000m men
+47,LUX,paul frieden,Did not start,Helsinki 1952,Athletics,10000m men
+48,RSA,thomas sidney andrew luyt,Did not start,Helsinki 1952,Athletics,10000m men
+49,SUI,hans frischknecht,Did not start,Helsinki 1952,Athletics,10000m men
+50,USA,horace iii ashenfelter,Did not start,Helsinki 1952,Athletics,10000m men
+0,SWE,john mikaelsson,00:45:02.800,Helsinki 1952,Athletics,10000m walk men
+1,SUI,erich arthur fritz schwab,00:45:41.000,Helsinki 1952,Athletics,10000m walk men
+2,URS,bruno junk,00:45:41.000,Helsinki 1952,Athletics,10000m walk men
+3,FRA,louis françois chevalier,00:45:50.400,Helsinki 1952,Athletics,10000m walk men
+4,GBR,george william coleman,00:46:06.800,Helsinki 1952,Athletics,10000m walk men
+5,URS,ivan yarmysh,00:46:07.000,Helsinki 1952,Athletics,10000m walk men
+6,FRA,emile maggi,00:46:08.000,Helsinki 1952,Athletics,10000m walk men
+7,ITA,bruno fait,00:46:25.600,Helsinki 1952,Athletics,10000m walk men
+8,SUI,gabriel reymond,00:46:38.600,Helsinki 1952,Athletics,10000m walk men
+9,AUS,donald michael keane,00:47:37.000,Helsinki 1952,Athletics,10000m walk men
+10,SWE,lars hindmar,Disqualified,Helsinki 1952,Athletics,10000m walk men
+11,GBR,roland hardy,,Helsinki 1952,Athletics,10000m walk men
+12,PAK,allah ditta,,Helsinki 1952,Athletics,10000m walk men
+13,USA,henry helmut laskau,,Helsinki 1952,Athletics,10000m walk men
+14,GBR,lawrence allen,,Helsinki 1952,Athletics,10000m walk men
+15,URS,pēteris zeltiņš,,Helsinki 1952,Athletics,10000m walk men
+16,CAN,harry ferdinand hayward,Did not start,Helsinki 1952,Athletics,10000m walk men
+17,ITA,salvatore cascino,Did not start,Helsinki 1952,Athletics,10000m walk men
+0,USA,lindy remigino,10.400,Helsinki 1952,Athletics,100m men
+1,JAM,herbert mckenley,10.400,Helsinki 1952,Athletics,100m men
+2,GBR,emmanuel mcdonald bailey,10.400,Helsinki 1952,Athletics,100m men
+3,USA,finis dean smith,10.400,Helsinki 1952,Athletics,100m men
+4,URS,vladimir sukharev,10.500,Helsinki 1952,Athletics,100m men
+5,AUS,john frank treloar,10.500,Helsinki 1952,Athletics,100m men
+6,BUL,angel dimitrov kolev,,Helsinki 1952,Athletics,100m men
+7,ARG,enrique jaime beckles,,Helsinki 1952,Athletics,100m men
+8,IRL,noel flanagan,Did not start,Helsinki 1952,Athletics,100m men
+9,GHA,k. k. korsah,Did not start,Helsinki 1952,Athletics,100m men
+10,SWE,bo åhlen,Did not start,Helsinki 1952,Athletics,100m men
+11,YUG,radovan pejin,Did not start,Helsinki 1952,Athletics,100m men
+12,IRL,louis crowe,Did not start,Helsinki 1952,Athletics,100m men
+13,GUA,roy fearon,Did not start,Helsinki 1952,Athletics,100m men
+14,AUS,morris joseph curotta,Did not start,Helsinki 1952,Athletics,100m men
+15,AUS,raymond henry weinberg,Did not start,Helsinki 1952,Athletics,100m men
+16,GER,heinz fütterer,Did not start,Helsinki 1952,Athletics,100m men
+17,JAM,les laing,Did not start,Helsinki 1952,Athletics,100m men
+18,RSA,neville graham price,Did not start,Helsinki 1952,Athletics,100m men
+0,AUS,marjorie jackson,11.500,Helsinki 1952,Athletics,100m women
+1,RSA,daphne lilian evelyn robb-hasenjäger,11.800,Helsinki 1952,Athletics,100m women
+2,AUS,shirley strickland-de la hunty,11.900,Helsinki 1952,Athletics,100m women
+3,AUS,winsome cripps-dennis,11.900,Helsinki 1952,Athletics,100m women
+4,GER,maria sander-domagella,12.000,Helsinki 1952,Athletics,100m women
+5,USA,mae heriwentha faggs,12.100,Helsinki 1952,Athletics,100m women
+6,CHI,adriana millard pacheco,Did not start,Helsinki 1952,Athletics,100m women
+7,FIN,maire alexandra osterdahl,Did not start,Helsinki 1952,Athletics,100m women
+8,ISR,leah horowitz,Did not start,Helsinki 1952,Athletics,100m women
+0,USA,harrison dillard,13.700,Helsinki 1952,Athletics,110m hurdles men
+1,USA,jack davis,13.700,Helsinki 1952,Athletics,110m hurdles men
+2,USA,arthur barnard,14.100,Helsinki 1952,Athletics,110m hurdles men
+3,URS,yevgeny bulanchik,14.500,Helsinki 1952,Athletics,110m hurdles men
+4,AUS,kenneth leslie doubleday,14.700,Helsinki 1952,Athletics,110m hurdles men
+5,AUS,raymond henry weinberg,14.800,Helsinki 1952,Athletics,110m hurdles men
+6,ESP,sebastián junqueras,Did not start,Helsinki 1952,Athletics,110m hurdles men
+7,GRE,mikhail mikhail,Did not start,Helsinki 1952,Athletics,110m hurdles men
+8,HUN,imre retezar,Did not start,Helsinki 1952,Athletics,110m hurdles men
+9,TUR,hakan eper,Did not start,Helsinki 1952,Athletics,110m hurdles men
+10,BRA,wilson gomes carneiro,Did not start,Helsinki 1952,Athletics,110m hurdles men
+0,LUX,joseph barthel,00:03:45.200,Helsinki 1952,Athletics,1500m men
+1,USA,robert mcmillen,00:03:45.200,Helsinki 1952,Athletics,1500m men
+2,GER,werner lueg,00:03:45.400,Helsinki 1952,Athletics,1500m men
+3,GBR,roger gilbert bannister,00:03:46.000,Helsinki 1952,Athletics,1500m men
+4,FRA,patrick el mabrouk,00:03:46.000,Helsinki 1952,Athletics,1500m men
+5,GER,rolf lamers,00:03:46.800,Helsinki 1952,Athletics,1500m men
+6,SWE,olle aberg,00:03:47.000,Helsinki 1952,Athletics,1500m men
+7,SWE,ingvar ericsson,00:03:47.600,Helsinki 1952,Athletics,1500m men
+8,AUS,donald robertson macmillan,00:03:49.600,Helsinki 1952,Athletics,1500m men
+9,FIN,denis severus johansson,00:03:49.800,Helsinki 1952,Athletics,1500m men
+10,NOR,audun boysen,00:03:51.400,Helsinki 1952,Athletics,1500m men
+11,USA,warren oliver druetzler,00:03:56.000,Helsinki 1952,Athletics,1500m men
+12,NED,hans harting,,Helsinki 1952,Athletics,1500m men
+13,NED,willem slijkhuis,,Helsinki 1952,Athletics,1500m men
+14,CHI,hugo nutini,Did not start,Helsinki 1952,Athletics,1500m men
+15,GUA,augusto robles,Did not start,Helsinki 1952,Athletics,1500m men
+16,PAN,frank prince,Did not start,Helsinki 1952,Athletics,1500m men
+17,AUS,leslie john perry,Did not start,Helsinki 1952,Athletics,1500m men
+18,BEL,gaston etienne reiff,Did not start,Helsinki 1952,Athletics,1500m men
+19,CAN,john william milton hutchins,Did not start,Helsinki 1952,Athletics,1500m men
+20,CHI,guillermo sola,Did not start,Helsinki 1952,Athletics,1500m men
+21,DEN,niels gunnar nielsen,Did not start,Helsinki 1952,Athletics,1500m men
+22,GUA,victorio solares,Did not start,Helsinki 1952,Athletics,1500m men
+23,JPN,yoshitaka muroya,Did not start,Helsinki 1952,Athletics,1500m men
+0,USA,andrew william stanfield,20.700,Helsinki 1952,Athletics,200m men
+1,USA,walter thane baker,20.800,Helsinki 1952,Athletics,200m men
+2,USA,jimmy gathers,20.800,Helsinki 1952,Athletics,200m men
+3,GBR,emmanuel mcdonald bailey,21.000,Helsinki 1952,Athletics,200m men
+4,JAM,les laing,21.200,Helsinki 1952,Athletics,200m men
+5,ARG,gerardo bonnhoff,21.300,Helsinki 1952,Athletics,200m men
+6,AUS,john frank treloar,,Helsinki 1952,Athletics,200m men
+7,GUA,roy fearon,Did not start,Helsinki 1952,Athletics,200m men
+8,POR,álvaro dias,Did not start,Helsinki 1952,Athletics,200m men
+9,IRL,lexie tynan,Did not start,Helsinki 1952,Athletics,200m men
+10,PAN,cirilo mcsween,Did not start,Helsinki 1952,Athletics,200m men
+11,ROU,ion moina,Did not start,Helsinki 1952,Athletics,200m men
+12,GER,leo lickes,Did not start,Helsinki 1952,Athletics,200m men
+13,URS,feodosiy golubev,Did not start,Helsinki 1952,Athletics,200m men
+14,GHA,k. k. korsah,Did not start,Helsinki 1952,Athletics,200m men
+15,ARG,romeo alberto galan,Did not start,Helsinki 1952,Athletics,200m men
+16,AUS,morris joseph curotta,Did not start,Helsinki 1952,Athletics,200m men
+17,BRA,josé telles da conceição,Did not start,Helsinki 1952,Athletics,200m men
+18,BUL,angel gavrilov merdjanov,Did not start,Helsinki 1952,Athletics,200m men
+19,CHI,gustavo ehlers tröstel,Did not start,Helsinki 1952,Athletics,200m men
+20,GHA,george wilson acquaah,Did not start,Helsinki 1952,Athletics,200m men
+21,HUN,bela goldovanyi,Did not start,Helsinki 1952,Athletics,200m men
+22,JAM,herbert mckenley,Did not start,Helsinki 1952,Athletics,200m men
+23,JAM,vincent george rhoden,Did not start,Helsinki 1952,Athletics,200m men
+24,RSA,neville graham price,Did not start,Helsinki 1952,Athletics,200m men
+0,AUS,marjorie jackson,23.700,Helsinki 1952,Athletics,200m women
+1,NED,bertha brouwer,24.200,Helsinki 1952,Athletics,200m women
+2,URS,nadezhda khnykina-dvalishvili,24.200,Helsinki 1952,Athletics,200m women
+3,AUS,winsome cripps-dennis,24.200,Helsinki 1952,Athletics,200m women
+4,GER,helga klein,24.600,Helsinki 1952,Athletics,200m women
+5,RSA,daphne lilian evelyn robb-hasenjäger,24.600,Helsinki 1952,Athletics,200m women
+6,USA,dolores ann dwyer,,Helsinki 1952,Athletics,200m women
+7,ARG,lilian reyna buglia,Did not start,Helsinki 1952,Athletics,200m women
+8,AUS,shirley strickland-de la hunty,Did not start,Helsinki 1952,Athletics,200m women
+9,GER,maria sander-domagella,Did not start,Helsinki 1952,Athletics,200m women
+10,ITA,maria musso,Did not start,Helsinki 1952,Athletics,200m women
+11,NED,fanny blankers-koen,Did not start,Helsinki 1952,Athletics,200m women
+12,SUI,sonja pretot,Did not start,Helsinki 1952,Athletics,200m women
+13,NOR,jorunn askersrud-tangen,Did not start,Helsinki 1952,Athletics,200m women
+0,USA,horace iii ashenfelter,00:08:45.400,Helsinki 1952,Athletics,3000m steeplechase men
+1,URS,vladimir kazantsev,00:08:51.600,Helsinki 1952,Athletics,3000m steeplechase men
+2,GBR,john ivor disley,00:08:51.800,Helsinki 1952,Athletics,3000m steeplechase men
+3,FIN,olavi osvald rintenpaa,00:08:55.200,Helsinki 1952,Athletics,3000m steeplechase men
+4,SWE,curt soderberg,00:08:55.600,Helsinki 1952,Athletics,3000m steeplechase men
+5,GER,günter heßelmann,00:08:55.800,Helsinki 1952,Athletics,3000m steeplechase men
+6,URS,mikhail saltykov,00:08:56.200,Helsinki 1952,Athletics,3000m steeplechase men
+7,GER,helmut gude,00:09:01.400,Helsinki 1952,Athletics,3000m steeplechase men
+8,HUN,jozsef apro,00:09:04.200,Helsinki 1952,Athletics,3000m steeplechase men
+9,TUR,cahit önel,00:09:04.400,Helsinki 1952,Athletics,3000m steeplechase men
+10,GBR,christopher william brasher,00:09:14.000,Helsinki 1952,Athletics,3000m steeplechase men
+11,SWE,gunnar karlsson-tjornebo,00:10:26.400,Helsinki 1952,Athletics,3000m steeplechase men
+12,USA,william nymyn ashenfelter,,Helsinki 1952,Athletics,3000m steeplechase men
+13,GUA,victorio solares,,Helsinki 1952,Athletics,3000m steeplechase men
+14,GUA,augusto robles,Did not start,Helsinki 1952,Athletics,3000m steeplechase men
+15,GRE,vasilios mavrapostolos,Did not start,Helsinki 1952,Athletics,3000m steeplechase men
+16,NOR,martin stokken,Did not start,Helsinki 1952,Athletics,3000m steeplechase men
+17,TUR,osman cosgül,Did not start,Helsinki 1952,Athletics,3000m steeplechase men
+0,USA,charles hewes jr. moore,50.800,Helsinki 1952,Athletics,400m hurdles men
+1,URS,yury lituyev,51.300,Helsinki 1952,Athletics,400m hurdles men
+2,NZL,john macfarlane holland,52.200,Helsinki 1952,Athletics,400m hurdles men
+3,URS,anatoli yulin,52.800,Helsinki 1952,Athletics,400m hurdles men
+4,GBR,harold whittle,53.100,Helsinki 1952,Athletics,400m hurdles men
+5,ITA,armando filiput,54.400,Helsinki 1952,Athletics,400m hurdles men
+6,ESP,josé fórmica,Did not start,Helsinki 1952,Athletics,400m hurdles men
+7,CUB,samuel aurelio anderson schweyer,Did not start,Helsinki 1952,Athletics,400m hurdles men
+8,YUG,zdravko sabolovic,Did not start,Helsinki 1952,Athletics,400m hurdles men
+0,JAM,vincent george rhoden,45.900,Helsinki 1952,Athletics,400m men
+1,JAM,herbert mckenley,45.900,Helsinki 1952,Athletics,400m men
+2,USA,oliver adrian matson,46.800,Helsinki 1952,Athletics,400m men
+3,GER,karl-friedrich haas,47.000,Helsinki 1952,Athletics,400m men
+4,JAM,arthur wint,47.000,Helsinki 1952,Athletics,400m men
+5,USA,malvin groston whitfield,47.100,Helsinki 1952,Athletics,400m men
+6,SWE,tage ekfeldt,,Helsinki 1952,Athletics,400m men
+7,PAN,cirilo mcsween,Did not start,Helsinki 1952,Athletics,400m men
+8,DEN,knud schibsbye,Did not start,Helsinki 1952,Athletics,400m men
+9,PAN,sam labeach,Did not start,Helsinki 1952,Athletics,400m men
+10,ESP,josé fórmica,Did not start,Helsinki 1952,Athletics,400m men
+11,PAN,clayton clark,Did not start,Helsinki 1952,Athletics,400m men
+12,CHI,gustavo ehlers tröstel,Did not start,Helsinki 1952,Athletics,400m men
+13,GRE,vasilios mavroidis,Did not start,Helsinki 1952,Athletics,400m men
+14,IRL,jimmy reardon,Did not start,Helsinki 1952,Athletics,400m men
+15,JPN,eitaro okano,Did not start,Helsinki 1952,Athletics,400m men
+16,KOR,pal-yong eom,Did not start,Helsinki 1952,Athletics,400m men
+17,TUR,ekrem kocak,Did not start,Helsinki 1952,Athletics,400m men
 0,,,40.100,Helsinki 1952,Athletics,4x100m relay men
 1,,,40.300,Helsinki 1952,Athletics,4x100m relay men
 2,,,40.500,Helsinki 1952,Athletics,4x100m relay men

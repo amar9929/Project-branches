@@ -1,4 +1,554 @@
 ,country,participant,result,olympic_game,discipline,event
+0,USA,aaron peirsol,,Beijing 2008,Swimming,100m backstroke men
+1,USA,matt grevers,,Beijing 2008,Swimming,100m backstroke men
+2,RUS,arkady vyatchanin,,Beijing 2008,Swimming,100m backstroke men
+3,AUS,hayden stoeckel,,Beijing 2008,Swimming,100m backstroke men
+4,AUS,ashley delaney,,Beijing 2008,Swimming,100m backstroke men
+5,GBR,liam tancock,,Beijing 2008,Swimming,100m backstroke men
+6,ESP,aschwin wildeboer faber,,Beijing 2008,Swimming,100m backstroke men
+7,JPN,junichi miyashita,,Beijing 2008,Swimming,100m backstroke men
+8,AUT,markus rogan,,Beijing 2008,Swimming,100m backstroke men
+9,JPN,tomomi morita,,Beijing 2008,Swimming,100m backstroke men
+10,RSA,gerhard zandberg,,Beijing 2008,Swimming,100m backstroke men
+11,GBR,gregor tait,,Beijing 2008,Swimming,100m backstroke men
+12,SVK,lubos krizko,,Beijing 2008,Swimming,100m backstroke men
+13,RUS,stanislav donets,,Beijing 2008,Swimming,100m backstroke men
+14,ITA,mirco di tora,,Beijing 2008,Swimming,100m backstroke men
+15,ISR,guy barnea,,Beijing 2008,Swimming,100m backstroke men
+16,GRE,aristeidis grigoriadis,,Beijing 2008,Swimming,100m backstroke men
+17,ITA,damiano lestingi,,Beijing 2008,Swimming,100m backstroke men
+18,GER,helge meeuw,,Beijing 2008,Swimming,100m backstroke men
+19,BRA,guilherme guido,,Beijing 2008,Swimming,100m backstroke men
+20,ROU,razvan ionut florea,,Beijing 2008,Swimming,100m backstroke men
+21,RSA,george du rand,,Beijing 2008,Swimming,100m backstroke men
+22,KOR,min sung,,Beijing 2008,Swimming,100m backstroke men
+23,CRO,gordan kozulj,,Beijing 2008,Swimming,100m backstroke men
+24,FRA,benjamin stasiulis,,Beijing 2008,Swimming,100m backstroke men
+25,COL,omar andres pinzon garcia,,Beijing 2008,Swimming,100m backstroke men
+26,SUI,jonathan massacand,,Beijing 2008,Swimming,100m backstroke men
+27,NED,nick driebergen,,Beijing 2008,Swimming,100m backstroke men
+28,BLR,pavel sankovich,,Beijing 2008,Swimming,100m backstroke men
+29,TUR,derya buyukuncu,,Beijing 2008,Swimming,100m backstroke men
+30,CAN,jake tapp,,Beijing 2008,Swimming,100m backstroke men
+31,LTU,vytautas janusaitis,,Beijing 2008,Swimming,100m backstroke men
+32,GER,thomas rupprath,,Beijing 2008,Swimming,100m backstroke men
+33,CRO,marko strahija,,Beijing 2008,Swimming,100m backstroke men
+34,ISL,orn arnarson,,Beijing 2008,Swimming,100m backstroke men
+35,HUN,roland rudolf,,Beijing 2008,Swimming,100m backstroke men
+36,CHN,xiaolei sun,,Beijing 2008,Swimming,100m backstroke men
+37,UKR,oleksandr isakov,,Beijing 2008,Swimming,100m backstroke men
+38,UZB,danil bugakov,,Beijing 2008,Swimming,100m backstroke men
+39,ARG,eduardo german otero,,Beijing 2008,Swimming,100m backstroke men
+40,CZE,tomas fucik,,Beijing 2008,Swimming,100m backstroke men
+41,KAZ,stanislav ossinskiy,,Beijing 2008,Swimming,100m backstroke men
+42,MHL,jared j heine,,Beijing 2008,Swimming,100m backstroke men
+43,SYR,souhaib kalala,,Beijing 2008,Swimming,100m backstroke men
+44,BAN,mohammad rubel rana,,Beijing 2008,Swimming,100m backstroke men
+0,USA,natalie coughlin,,Beijing 2008,Swimming,100m backstroke women
+1,ZIM,kirsty leigh coventry,,Beijing 2008,Swimming,100m backstroke women
+2,USA,margaret hoelzer,,Beijing 2008,Swimming,100m backstroke women
+3,GBR,gemma spofforth,,Beijing 2008,Swimming,100m backstroke women
+4,RUS,anastasia zueva,,Beijing 2008,Swimming,100m backstroke women
+5,JPN,reiko nakamura,,Beijing 2008,Swimming,100m backstroke women
+6,FRA,laure manaudou,,Beijing 2008,Swimming,100m backstroke women
+7,JPN,hanae ito,,Beijing 2008,Swimming,100m backstroke women
+8,AUS,emily seebohm,,Beijing 2008,Swimming,100m backstroke women
+9,GBR,elizabeth simmonds,,Beijing 2008,Swimming,100m backstroke women
+10,ESP,nina alexandrovna zhivanevskaya,,Beijing 2008,Swimming,100m backstroke women
+11,CAN,julia wilkinson,,Beijing 2008,Swimming,100m backstroke women
+12,AUS,sophie edington,,Beijing 2008,Swimming,100m backstroke women
+13,RUS,kseniya moskvina,,Beijing 2008,Swimming,100m backstroke women
+14,GER,antje buschschulte,,Beijing 2008,Swimming,100m backstroke women
+15,NZL,elizabeth coster,,Beijing 2008,Swimming,100m backstroke women
+16,CHN,tianlongzi xu,,Beijing 2008,Swimming,100m backstroke women
+17,BRA,fabiola molina,,Beijing 2008,Swimming,100m backstroke women
+18,COL,carolina colorado henao,,Beijing 2008,Swimming,100m backstroke women
+19,NZL,melissa ingram,,Beijing 2008,Swimming,100m backstroke women
+20,UKR,kateryna zubkova,,Beijing 2008,Swimming,100m backstroke women
+21,CRO,sanja jovanovic,,Beijing 2008,Swimming,100m backstroke women
+22,FRA,alexianne castel,,Beijing 2008,Swimming,100m backstroke women
+23,HUN,nikolett szepesi,,Beijing 2008,Swimming,100m backstroke women
+24,ISR,anna gostomelsky,,Beijing 2008,Swimming,100m backstroke women
+25,ITA,romina armellini,,Beijing 2008,Swimming,100m backstroke women
+26,SLO,anja carman,,Beijing 2008,Swimming,100m backstroke women
+27,ESP,mercedes peris,,Beijing 2008,Swimming,100m backstroke women
+28,SWE,sarah sjostrom,,Beijing 2008,Swimming,100m backstroke women
+29,FIN,hanna-maria seppala,,Beijing 2008,Swimming,100m backstroke women
+30,IRL,aisling margaret cooney,,Beijing 2008,Swimming,100m backstroke women
+31,BAH,alana dillette,,Beijing 2008,Swimming,100m backstroke women
+32,BER,kiera aitken,,Beijing 2008,Swimming,100m backstroke women
+33,HKG,hiu wai sherry tsai,,Beijing 2008,Swimming,100m backstroke women
+34,MEX,fernanda gonzalez ramirez,,Beijing 2008,Swimming,100m backstroke women
+35,POL,zuzanna mazurek,,Beijing 2008,Swimming,100m backstroke women
+36,UKR,iryna amshennikova,,Beijing 2008,Swimming,100m backstroke women
+37,GUA,gisela morales,,Beijing 2008,Swimming,100m backstroke women
+38,CZE,petra klosova,,Beijing 2008,Swimming,100m backstroke women
+39,SRB,marica strazmester,,Beijing 2008,Swimming,100m backstroke women
+40,ISL,sarah blake bateman,,Beijing 2008,Swimming,100m backstroke women
+41,GER,christin zenner,,Beijing 2008,Swimming,100m backstroke women
+42,VEN,erin nicole volcan smith,,Beijing 2008,Swimming,100m backstroke women
+43,KOR,yuyon kim,,Beijing 2008,Swimming,100m backstroke women
+44,KAZ,yekaterina rudenko,,Beijing 2008,Swimming,100m backstroke women
+45,PAR,maria virginia baez,,Beijing 2008,Swimming,100m backstroke women
+46,PAN,christie marie bodden baca,,Beijing 2008,Swimming,100m backstroke women
+47,CHN,jing zhao,Disqualified,Beijing 2008,Swimming,100m backstroke women
+48,BLR,svetlana khokhlova,Did not start,Beijing 2008,Swimming,100m backstroke women
+0,JPN,kosuke kitajima,,Beijing 2008,Swimming,100m breaststroke men
+1,NOR,alexander dale oen,,Beijing 2008,Swimming,100m breaststroke men
+2,FRA,hugues duboscq,,Beijing 2008,Swimming,100m breaststroke men
+3,USA,brendan hansen,,Beijing 2008,Swimming,100m breaststroke men
+4,AUS,brenton rickard,,Beijing 2008,Swimming,100m breaststroke men
+5,RUS,roman sloudnov,,Beijing 2008,Swimming,100m breaststroke men
+6,UKR,ihor borysyk,,Beijing 2008,Swimming,100m breaststroke men
+7,USA,mark gangloff,,Beijing 2008,Swimming,100m breaststroke men
+8,UKR,oleh lisohor,,Beijing 2008,Swimming,100m breaststroke men
+9,RSA,cameron van der burgh,,Beijing 2008,Swimming,100m breaststroke men
+10,BUL,mihail aleksandrov,,Beijing 2008,Swimming,100m breaststroke men
+11,LTU,giedrius titenis,,Beijing 2008,Swimming,100m breaststroke men
+12,JPN,yuta suenaga,,Beijing 2008,Swimming,100m breaststroke men
+13,AUS,christian sprenger,,Beijing 2008,Swimming,100m breaststroke men
+14,GBR,christopher cook,,Beijing 2008,Swimming,100m breaststroke men
+15,SLO,damir dugonjic,,Beijing 2008,Swimming,100m breaststroke men
+16,KAZ,vladislav polyakov,,Beijing 2008,Swimming,100m breaststroke men
+17,AUT,hunor mate,,Beijing 2008,Swimming,100m breaststroke men
+18,HUN,richard bodor,,Beijing 2008,Swimming,100m breaststroke men
+19,CAN,mike brown,,Beijing 2008,Swimming,100m breaststroke men
+20,NZL,glenn snyders,,Beijing 2008,Swimming,100m breaststroke men
+21,BRA,felipe franca,,Beijing 2008,Swimming,100m breaststroke men
+22,BRA,henrique barbosa,,Beijing 2008,Swimming,100m breaststroke men
+23,SLO,matjaz markic,,Beijing 2008,Swimming,100m breaststroke men
+24,HUN,daniel gyurta,,Beijing 2008,Swimming,100m breaststroke men
+25,NED,thijs van valkengoed,,Beijing 2008,Swimming,100m breaststroke men
+26,GBR,kristopher gilchrist,,Beijing 2008,Swimming,100m breaststroke men
+27,CAN,mathieu bois,,Beijing 2008,Swimming,100m breaststroke men
+28,CZE,jiri jedlicka,,Beijing 2008,Swimming,100m breaststroke men
+29,IRL,andrew bree,,Beijing 2008,Swimming,100m breaststroke men
+30,ROU,valentin preda,,Beijing 2008,Swimming,100m breaststroke men
+31,SWE,jonas andersson,,Beijing 2008,Swimming,100m breaststroke men
+32,PUR,daniel velez,,Beijing 2008,Swimming,100m breaststroke men
+33,RUS,dmitry komornikov,,Beijing 2008,Swimming,100m breaststroke men
+34,KAZ,yevgeniy ryzhkov,,Beijing 2008,Swimming,100m breaststroke men
+35,ESP,borja iradier,,Beijing 2008,Swimming,100m breaststroke men
+36,ESP,melquiades alvarez,,Beijing 2008,Swimming,100m breaststroke men
+37,IND,sandeep sejwal,,Beijing 2008,Swimming,100m breaststroke men
+38,TUR,demir atasoy,,Beijing 2008,Swimming,100m breaststroke men
+39,SRB,caba siladi,,Beijing 2008,Swimming,100m breaststroke men
+40,PAR,genaro prono,,Beijing 2008,Swimming,100m breaststroke men
+41,ISR,tom beeri,,Beijing 2008,Swimming,100m breaststroke men
+42,CRO,vanja rogulj,,Beijing 2008,Swimming,100m breaststroke men
+43,ALG,sofiane daid,,Beijing 2008,Swimming,100m breaststroke men
+44,EST,martti aljand,,Beijing 2008,Swimming,100m breaststroke men
+45,CHN,ruipeng xue,,Beijing 2008,Swimming,100m breaststroke men
+46,ISL,jakob johann sveinsson,,Beijing 2008,Swimming,100m breaststroke men
+47,SEN,malick fall,,Beijing 2008,Swimming,100m breaststroke men
+48,BLR,viktar vabishchevich,,Beijing 2008,Swimming,100m breaststroke men
+49,GRE,romanos iasonas alyfantis,,Beijing 2008,Swimming,100m breaststroke men
+50,LUX,alwin de prins,,Beijing 2008,Swimming,100m breaststroke men
+51,ARG,sergio andres ferreyra,,Beijing 2008,Swimming,100m breaststroke men
+52,PAN,edgar crespo,,Beijing 2008,Swimming,100m breaststroke men
+53,MDA,sergiu postica,,Beijing 2008,Swimming,100m breaststroke men
+54,BAR,andrei cross,,Beijing 2008,Swimming,100m breaststroke men
+55,UZB,ivan demyanenko,,Beijing 2008,Swimming,100m breaststroke men
+56,LBN,wael koubrousli,,Beijing 2008,Swimming,100m breaststroke men
+57,VIE,huu viet nguyen,,Beijing 2008,Swimming,100m breaststroke men
+58,MAD,erik rajohnson,,Beijing 2008,Swimming,100m breaststroke men
+59,MGL,butekh-uils boldbaataryn,,Beijing 2008,Swimming,100m breaststroke men
+60,QAT,osama mohammed ye alarag,,Beijing 2008,Swimming,100m breaststroke men
+61,OMA,mohammed al-habsi,,Beijing 2008,Swimming,100m breaststroke men
+62,COK,petero okotai,,Beijing 2008,Swimming,100m breaststroke men
+63,ITA,alessandro terrin,Disqualified,Beijing 2008,Swimming,100m breaststroke men
+64,IRI,mohammad alirezaei dizicheh,Did not start,Beijing 2008,Swimming,100m breaststroke men
+0,AUS,leisel jones,,Beijing 2008,Swimming,100m breaststroke women
+1,USA,rebecca soni,,Beijing 2008,Swimming,100m breaststroke women
+2,AUT,mirna jukic,,Beijing 2008,Swimming,100m breaststroke women
+3,RUS,yuliya efimova,,Beijing 2008,Swimming,100m breaststroke women
+4,USA,megan quann,,Beijing 2008,Swimming,100m breaststroke women
+5,AUS,tarnee white,,Beijing 2008,Swimming,100m breaststroke women
+6,CHN,ye sun,,Beijing 2008,Swimming,100m breaststroke women
+7,JPN,asami kitagawa,,Beijing 2008,Swimming,100m breaststroke women
+8,SWE,joline hostman,,Beijing 2008,Swimming,100m breaststroke women
+9,CAN,annamay pierse,,Beijing 2008,Swimming,100m breaststroke women
+10,GBR,kate haywood,,Beijing 2008,Swimming,100m breaststroke women
+11,CHN,huijia chen,,Beijing 2008,Swimming,100m breaststroke women
+12,CAN,jillian tyler,,Beijing 2008,Swimming,100m breaststroke women
+13,BEL,elise matthysen,,Beijing 2008,Swimming,100m breaststroke women
+14,GBR,kirsty balfour,,Beijing 2008,Swimming,100m breaststroke women
+15,RSA,suzaan van biljon,,Beijing 2008,Swimming,100m breaststroke women
+16,JPN,megumi taneda,,Beijing 2008,Swimming,100m breaststroke women
+17,RUS,elena bogomazova,,Beijing 2008,Swimming,100m breaststroke women
+18,MAR,sara elbekri,,Beijing 2008,Swimming,100m breaststroke women
+19,GER,sarah poewe,,Beijing 2008,Swimming,100m breaststroke women
+20,SWE,hanna westrin,,Beijing 2008,Swimming,100m breaststroke women
+21,ITA,roberta panara,,Beijing 2008,Swimming,100m breaststroke women
+22,KOR,seul-gi jeong,,Beijing 2008,Swimming,100m breaststroke women
+23,UKR,yuliya pidlisna,,Beijing 2008,Swimming,100m breaststroke women
+24,UKR,anna khlistunova,,Beijing 2008,Swimming,100m breaststroke women
+25,POR,diana gomes,,Beijing 2008,Swimming,100m breaststroke women
+26,BLR,inna kapishina,,Beijing 2008,Swimming,100m breaststroke women
+27,TUR,dilara buse gunaydin,,Beijing 2008,Swimming,100m breaststroke women
+28,FRA,sophie de ronchi,,Beijing 2008,Swimming,100m breaststroke women
+29,GRE,angeliki exarchou,,Beijing 2008,Swimming,100m breaststroke women
+30,MEX,adriana rebeca marmolejo vargas,,Beijing 2008,Swimming,100m breaststroke women
+31,SGP,nicolette teo,,Beijing 2008,Swimming,100m breaststroke women
+32,CRO,smiljana marinovic,,Beijing 2008,Swimming,100m breaststroke women
+33,KAZ,yekaterina sadovnik,,Beijing 2008,Swimming,100m breaststroke women
+34,NED,jolijn van valkengoed,,Beijing 2008,Swimming,100m breaststroke women
+35,GER,sonja schober,,Beijing 2008,Swimming,100m breaststroke women
+36,ARG,liliana eugenia guiscardo,,Beijing 2008,Swimming,100m breaststroke women
+37,PER,valeria silva,,Beijing 2008,Swimming,100m breaststroke women
+38,BRA,tatiane sakemi,,Beijing 2008,Swimming,100m breaststroke women
+39,ISL,erla dogg haraldsdottir,,Beijing 2008,Swimming,100m breaststroke women
+40,HUN,reka pecz,,Beijing 2008,Swimming,100m breaststroke women
+41,LCA,danielle beaubrun,,Beijing 2008,Swimming,100m breaststroke women
+42,SRB,nadja higl,,Beijing 2008,Swimming,100m breaststroke women
+43,SRI,mayumi raheem,,Beijing 2008,Swimming,100m breaststroke women
+44,LBN,nibal yamout,,Beijing 2008,Swimming,100m breaststroke women
+45,AZE,oksana hatamkhanova,,Beijing 2008,Swimming,100m breaststroke women
+46,LBA,asmahan farhat,,Beijing 2008,Swimming,100m breaststroke women
+47,GEO,ana salnik'ova,,Beijing 2008,Swimming,100m breaststroke women
+48,MLI,mariam pauline keita,,Beijing 2008,Swimming,100m breaststroke women
+0,USA,michael phelps,,Beijing 2008,Swimming,100m butterfly men
+1,SRB,milorad cavic,,Beijing 2008,Swimming,100m butterfly men
+2,AUS,andrew lauterstein,,Beijing 2008,Swimming,100m butterfly men
+3,USA,ian crocker,,Beijing 2008,Swimming,100m butterfly men
+4,KEN,jason dunford,,Beijing 2008,Swimming,100m butterfly men
+5,JPN,takuro fujii,,Beijing 2008,Swimming,100m butterfly men
+6,UKR,andriy serdinov,,Beijing 2008,Swimming,100m butterfly men
+7,PNG,ryan pini,,Beijing 2008,Swimming,100m butterfly men
+8,CHN,feng shi,,Beijing 2008,Swimming,100m butterfly men
+9,SLO,peter mankoc,,Beijing 2008,Swimming,100m butterfly men
+10,VEN,albert subirats,,Beijing 2008,Swimming,100m butterfly men
+11,NZL,corney swanepoel,,Beijing 2008,Swimming,100m butterfly men
+12,UKR,sergii breus,,Beijing 2008,Swimming,100m butterfly men
+13,RSA,lyndon ferns,,Beijing 2008,Swimming,100m butterfly men
+14,BRA,kaio marcio,,Beijing 2008,Swimming,100m butterfly men
+15,FRA,frederick bousquet,,Beijing 2008,Swimming,100m butterfly men
+16,AUS,adam pine,,Beijing 2008,Swimming,100m butterfly men
+17,SWE,lars frolander,,Beijing 2008,Swimming,100m butterfly men
+18,DEN,jakob schioett andkjaer,,Beijing 2008,Swimming,100m butterfly men
+19,CRO,mario todorovic,,Beijing 2008,Swimming,100m butterfly men
+20,RUS,nikolay skvortsov,,Beijing 2008,Swimming,100m butterfly men
+21,NED,robin van aggele,,Beijing 2008,Swimming,100m butterfly men
+22,BRA,gabriel mangabeira,,Beijing 2008,Swimming,100m butterfly men
+23,RUS,evgeny korotyshkin,,Beijing 2008,Swimming,100m butterfly men
+24,GRE,sotirios pastras,,Beijing 2008,Swimming,100m butterfly men
+25,JPN,masayuki kishida,,Beijing 2008,Swimming,100m butterfly men
+26,GBR,michael rock,,Beijing 2008,Swimming,100m butterfly men
+27,ROU,ioan stefan gherghel,,Beijing 2008,Swimming,100m butterfly men
+28,GBR,todd cooper,,Beijing 2008,Swimming,100m butterfly men
+29,ESP,rafa múñoz,,Beijing 2008,Swimming,100m butterfly men
+30,FRA,christophe lebon,,Beijing 2008,Swimming,100m butterfly men
+31,NZL,moss burmester,,Beijing 2008,Swimming,100m butterfly men
+32,POR,simao morgado,,Beijing 2008,Swimming,100m butterfly men
+33,LTU,rimvydas salcius,,Beijing 2008,Swimming,100m butterfly men
+34,CAN,joe bartoch,,Beijing 2008,Swimming,100m butterfly men
+35,ISR,alon mandel,,Beijing 2008,Swimming,100m butterfly men
+36,BEL,francois heersbrandt,,Beijing 2008,Swimming,100m butterfly men
+37,PUR,douglas lennox-silva,,Beijing 2008,Swimming,100m butterfly men
+38,CAN,adam sioui,,Beijing 2008,Swimming,100m butterfly men
+39,SRB,ivan lendjer,,Beijing 2008,Swimming,100m butterfly men
+40,GER,benjamin starke,,Beijing 2008,Swimming,100m butterfly men
+41,CZE,michal rubacek,,Beijing 2008,Swimming,100m butterfly men
+42,BLR,yevgeniy lazuka,,Beijing 2008,Swimming,100m butterfly men
+43,GER,thomas rupprath,,Beijing 2008,Swimming,100m butterfly men
+44,MEX,juan jose veloz,,Beijing 2008,Swimming,100m butterfly men
+45,VEN,octavio andres alesi gonzalez,,Beijing 2008,Swimming,100m butterfly men
+46,CRO,alexei puninski,,Beijing 2008,Swimming,100m butterfly men
+47,MLT,ryan gambin,,Beijing 2008,Swimming,100m butterfly men
+48,BAH,jeremy knowles,,Beijing 2008,Swimming,100m butterfly men
+49,HUN,adam madarassy,,Beijing 2008,Swimming,100m butterfly men
+50,CAY,shaune fraser,,Beijing 2008,Swimming,100m butterfly men
+51,ISL,hjortur mar reynisson,,Beijing 2008,Swimming,100m butterfly men
+52,COL,camilo becerra,,Beijing 2008,Swimming,100m butterfly men
+53,MAS,daniel bego,,Beijing 2008,Swimming,100m butterfly men
+54,SUR,gordon touw ngie tjouw,,Beijing 2008,Swimming,100m butterfly men
+55,KAZ,rustam khudiyev,,Beijing 2008,Swimming,100m butterfly men
+56,IND,ankur poseria,,Beijing 2008,Swimming,100m butterfly men
+57,TUR,onur uras,,Beijing 2008,Swimming,100m butterfly men
+58,LAT,andrejs duda,,Beijing 2008,Swimming,100m butterfly men
+59,BUL,georgi palazov,,Beijing 2008,Swimming,100m butterfly men
+60,KSA,bader abdulrahman almuhana,,Beijing 2008,Swimming,100m butterfly men
+61,EGY,ahmed nada,,Beijing 2008,Swimming,100m butterfly men
+62,ANG,joao luis cardoso matias,,Beijing 2008,Swimming,100m butterfly men
+63,BIH,nedim nisic,,Beijing 2008,Swimming,100m butterfly men
+64,ECU,marco camargo,,Beijing 2008,Swimming,100m butterfly men
+65,ITA,mattia nalesso,Did not start,Beijing 2008,Swimming,100m butterfly men
+0,AUS,libby trickett,,Beijing 2008,Swimming,100m butterfly women
+1,USA,christine magnuson,,Beijing 2008,Swimming,100m butterfly women
+2,AUS,jessicah schipper,,Beijing 2008,Swimming,100m butterfly women
+3,CHN,yafei zhou,,Beijing 2008,Swimming,100m butterfly women
+4,SGP,li tao,,Beijing 2008,Swimming,100m butterfly women
+5,GBR,jemma lowe,,Beijing 2008,Swimming,100m butterfly women
+6,BRA,gabriella silva,,Beijing 2008,Swimming,100m butterfly women
+7,NED,inge dekker,,Beijing 2008,Swimming,100m butterfly women
+8,FRA,aurore mongel,,Beijing 2008,Swimming,100m butterfly women
+9,FRA,alena popchanka,,Beijing 2008,Swimming,100m butterfly women
+10,USA,elaine breeden,,Beijing 2008,Swimming,100m butterfly women
+11,RSA,lize-mari retief,,Beijing 2008,Swimming,100m butterfly women
+12,HUN,eszter dara,,Beijing 2008,Swimming,100m butterfly women
+13,RUS,natalia sutyagina,,Beijing 2008,Swimming,100m butterfly women
+14,DEN,jeanette ottesen,,Beijing 2008,Swimming,100m butterfly women
+15,ITA,ilaria bianchi,,Beijing 2008,Swimming,100m butterfly women
+16,POL,otylia jedrzejczak,,Beijing 2008,Swimming,100m butterfly women
+17,RSA,amanda loots,,Beijing 2008,Swimming,100m butterfly women
+18,JPN,yuko nakanishi,,Beijing 2008,Swimming,100m butterfly women
+19,SLO,sara isakovic,,Beijing 2008,Swimming,100m butterfly women
+20,GBR,francesca halsall,,Beijing 2008,Swimming,100m butterfly women
+21,RUS,irina bespalova,,Beijing 2008,Swimming,100m butterfly women
+22,JPN,yuka kato,,Beijing 2008,Swimming,100m butterfly women
+23,UKR,kateryna zubkova,,Beijing 2008,Swimming,100m butterfly women
+24,SVK,martina moravcova,,Beijing 2008,Swimming,100m butterfly women
+25,AUT,birgit koschischek,,Beijing 2008,Swimming,100m butterfly women
+26,SWE,sarah sjostrom,,Beijing 2008,Swimming,100m butterfly women
+27,CAN,audrey lacroix,,Beijing 2008,Swimming,100m butterfly women
+28,DEN,micha kathrine oestergaar jensen,,Beijing 2008,Swimming,100m butterfly women
+29,HKG,hannah jane arnett wilson,,Beijing 2008,Swimming,100m butterfly women
+30,NED,chantal groot,,Beijing 2008,Swimming,100m butterfly women
+31,EST,triin aljand,,Beijing 2008,Swimming,100m butterfly women
+32,CHN,yanwei xu,,Beijing 2008,Swimming,100m butterfly women
+33,BRA,daynara de paula,,Beijing 2008,Swimming,100m butterfly women
+34,POR,sara oliveira,,Beijing 2008,Swimming,100m butterfly women
+35,ISR,anna gostomelsky,,Beijing 2008,Swimming,100m butterfly women
+36,NOR,ingvild snildal,,Beijing 2008,Swimming,100m butterfly women
+37,COL,carolina colorado henao,,Beijing 2008,Swimming,100m butterfly women
+38,GER,daniela samulski,,Beijing 2008,Swimming,100m butterfly women
+39,KOR,hye ra choi,,Beijing 2008,Swimming,100m butterfly women
+40,GRE,eirini kavarnou,,Beijing 2008,Swimming,100m butterfly women
+41,ZIM,heather brand,,Beijing 2008,Swimming,100m butterfly women
+42,TPE,chin-kuei yang,,Beijing 2008,Swimming,100m butterfly women
+43,TUR,iris rosenberger,,Beijing 2008,Swimming,100m butterfly women
+44,CYP,natalia baranovskaya-khatziloizou,,Beijing 2008,Swimming,100m butterfly women
+45,FIN,emilia pikkarainen,,Beijing 2008,Swimming,100m butterfly women
+46,SEN,binta zahra diop,,Beijing 2008,Swimming,100m butterfly women
+47,URU,antonella scanavino crespo,,Beijing 2008,Swimming,100m butterfly women
+48,SMR,simona muccioli,,Beijing 2008,Swimming,100m butterfly women
+0,FRA,alain bernard,,Beijing 2008,Swimming,100m freestyle men
+1,AUS,eamon sullivan,,Beijing 2008,Swimming,100m freestyle men
+2,USA,jason lezak,,Beijing 2008,Swimming,100m freestyle men
+3,BRA,cesar cielo filho,,Beijing 2008,Swimming,100m freestyle men
+4,NED,pieter van den hoogenband,,Beijing 2008,Swimming,100m freestyle men
+5,RSA,lyndon ferns,,Beijing 2008,Swimming,100m freestyle men
+6,AUS,matt targett,,Beijing 2008,Swimming,100m freestyle men
+7,SWE,stefan nystrand,,Beijing 2008,Swimming,100m freestyle men
+8,ITA,christian galenda,,Beijing 2008,Swimming,100m freestyle men
+9,SWE,jonas persson,,Beijing 2008,Swimming,100m freestyle men
+10,FRA,fabien gilot,,Beijing 2008,Swimming,100m freestyle men
+11,ITA,filippo magnini,,Beijing 2008,Swimming,100m freestyle men
+12,USA,garrett weber-gale,,Beijing 2008,Swimming,100m freestyle men
+13,CAN,brent hayden,,Beijing 2008,Swimming,100m freestyle men
+14,RUS,andrey grechin,,Beijing 2008,Swimming,100m freestyle men
+15,SUI,dominik meichtry,,Beijing 2008,Swimming,100m freestyle men
+16,SRB,milorad cavic,,Beijing 2008,Swimming,100m freestyle men
+17,RUS,evgeny lagunov,,Beijing 2008,Swimming,100m freestyle men
+18,BEL,yoris grandjean,,Beijing 2008,Swimming,100m freestyle men
+19,TTO,george bovell,,Beijing 2008,Swimming,100m freestyle men
+20,CZE,martin verner,,Beijing 2008,Swimming,100m freestyle men
+21,VEN,albert subirats,,Beijing 2008,Swimming,100m freestyle men
+22,CAN,joel greenshields,,Beijing 2008,Swimming,100m freestyle men
+23,KEN,jason dunford,,Beijing 2008,Swimming,100m freestyle men
+24,CHN,zuo chen,,Beijing 2008,Swimming,100m freestyle men
+25,ISR,nimrod shapira bar-or,,Beijing 2008,Swimming,100m freestyle men
+26,DEN,jakob schioett andkjaer,,Beijing 2008,Swimming,100m freestyle men
+27,HUN,balazs makany,,Beijing 2008,Swimming,100m freestyle men
+28,LTU,paulius viktoravicius,,Beijing 2008,Swimming,100m freestyle men
+29,RSA,ryk neethling,,Beijing 2008,Swimming,100m freestyle men
+30,SLO,peter mankoc,,Beijing 2008,Swimming,100m freestyle men
+31,ALG,nabil kebbab,,Beijing 2008,Swimming,100m freestyle men
+32,GER,steffen deibler,,Beijing 2008,Swimming,100m freestyle men
+33,CRO,duje draganja,,Beijing 2008,Swimming,100m freestyle men
+34,ARG,jose martin meolans,,Beijing 2008,Swimming,100m freestyle men
+35,CAY,shaune fraser,,Beijing 2008,Swimming,100m freestyle men
+36,UKR,yuriy yegoshin,,Beijing 2008,Swimming,100m freestyle men
+37,NED,mitja zastrow,,Beijing 2008,Swimming,100m freestyle men
+38,PNG,ryan pini,,Beijing 2008,Swimming,100m freestyle men
+39,JPN,hisayoshi sato,,Beijing 2008,Swimming,100m freestyle men
+40,FIN,matti rajakyla,,Beijing 2008,Swimming,100m freestyle men
+41,IND,virdhawal vikram khade,,Beijing 2008,Swimming,100m freestyle men
+42,URU,martin kutscher,,Beijing 2008,Swimming,100m freestyle men
+43,BLR,stanislav neverovsky,,Beijing 2008,Swimming,100m freestyle men
+44,POR,tiago venancio,,Beijing 2008,Swimming,100m freestyle men
+45,LAT,romans miloslavskis,,Beijing 2008,Swimming,100m freestyle men
+46,BAR,terrence haynes,,Beijing 2008,Swimming,100m freestyle men
+47,GRE,aristeidis grigoriadis,,Beijing 2008,Swimming,100m freestyle men
+48,ISL,orn arnarson,,Beijing 2008,Swimming,100m freestyle men
+49,ROU,norbert trandafir,,Beijing 2008,Swimming,100m freestyle men
+50,EST,danil haustov,,Beijing 2008,Swimming,100m freestyle men
+51,KAZ,alexandr sklyar,,Beijing 2008,Swimming,100m freestyle men
+52,ARU,jan roodzant,,Beijing 2008,Swimming,100m freestyle men
+53,KOR,nam-gyun im,,Beijing 2008,Swimming,100m freestyle men
+54,UZB,petr romashkin,,Beijing 2008,Swimming,100m freestyle men
+55,ARM,mikayel koloyan,,Beijing 2008,Swimming,100m freestyle men
+56,MRI,gael adam,,Beijing 2008,Swimming,100m freestyle men
+57,FIJ,carl probert,,Beijing 2008,Swimming,100m freestyle men
+58,GUM,christopher duenas,,Beijing 2008,Swimming,100m freestyle men
+59,BER,roy-allan burch,,Beijing 2008,Swimming,100m freestyle men
+60,UAE,obaid ahmed obaid al jassimi,,Beijing 2008,Swimming,100m freestyle men
+61,CGO,emile rony bakale,,Beijing 2008,Swimming,100m freestyle men
+62,BOL,miguel angel navarro,,Beijing 2008,Swimming,100m freestyle men
+63,LBA,sofyan el gadi,,Beijing 2008,Swimming,100m freestyle men
+0,GER,britta steffen,,Beijing 2008,Swimming,100m freestyle women
+1,AUS,libby trickett,,Beijing 2008,Swimming,100m freestyle women
+2,USA,natalie coughlin,,Beijing 2008,Swimming,100m freestyle women
+3,FIN,hanna-maria seppala,,Beijing 2008,Swimming,100m freestyle women
+4,DEN,jeanette ottesen,,Beijing 2008,Swimming,100m freestyle women
+5,CHN,yingwen zhu,,Beijing 2008,Swimming,100m freestyle women
+6,NED,marleen veldhuis,,Beijing 2008,Swimming,100m freestyle women
+7,GBR,francesca halsall,,Beijing 2008,Swimming,100m freestyle women
+8,FRA,malia metella,,Beijing 2008,Swimming,100m freestyle women
+9,AUS,cate campbell,,Beijing 2008,Swimming,100m freestyle women
+10,SWE,josefin lillhage,,Beijing 2008,Swimming,100m freestyle women
+11,USA,lacey nymeyer,,Beijing 2008,Swimming,100m freestyle women
+12,GER,petra dallmann,,Beijing 2008,Swimming,100m freestyle women
+13,BLR,aliaksandra herasimenia,,Beijing 2008,Swimming,100m freestyle women
+14,CAN,erica morningstar,,Beijing 2008,Swimming,100m freestyle women
+15,CHN,jiaying pang,,Beijing 2008,Swimming,100m freestyle women
+16,CAN,julia wilkinson,,Beijing 2008,Swimming,100m freestyle women
+17,FRA,alena popchanka,,Beijing 2008,Swimming,100m freestyle women
+18,BRA,tatiana barbosa,,Beijing 2008,Swimming,100m freestyle women
+19,POL,agata ewa korc,,Beijing 2008,Swimming,100m freestyle women
+20,RSA,lize-mari retief,,Beijing 2008,Swimming,100m freestyle women
+21,ISR,anna gostomelsky,,Beijing 2008,Swimming,100m freestyle women
+22,SVK,martina moravcova,,Beijing 2008,Swimming,100m freestyle women
+23,NED,inge dekker,,Beijing 2008,Swimming,100m freestyle women
+24,RUS,anastasiya tulapina,,Beijing 2008,Swimming,100m freestyle women
+25,HKG,hannah jane arnett wilson,,Beijing 2008,Swimming,100m freestyle women
+26,UKR,dar'ia stepaniuk,,Beijing 2008,Swimming,100m freestyle women
+27,BAH,arianna vanderpool-wallace,,Beijing 2008,Swimming,100m freestyle women
+28,AUT,birgit koschischek,,Beijing 2008,Swimming,100m freestyle women
+29,VEN,arlene semeco,,Beijing 2008,Swimming,100m freestyle women
+30,CZE,jana myskova,,Beijing 2008,Swimming,100m freestyle women
+31,KOR,hui-jin jang,,Beijing 2008,Swimming,100m freestyle women
+32,EST,triin aljand,,Beijing 2008,Swimming,100m freestyle women
+33,SGP,ting wen quah,,Beijing 2008,Swimming,100m freestyle women
+34,ISL,ragnheidur ragnarsdottir,,Beijing 2008,Swimming,100m freestyle women
+35,CYP,anna stylianou,,Beijing 2008,Swimming,100m freestyle women
+36,GRE,eleni kosti,,Beijing 2008,Swimming,100m freestyle women
+37,SRB,miroslava najdanovski,,Beijing 2008,Swimming,100m freestyle women
+38,THA,natthanan junkrajang,,Beijing 2008,Swimming,100m freestyle women
+39,HUN,orsolya tompa,,Beijing 2008,Swimming,100m freestyle women
+40,PHI,christel simms,,Beijing 2008,Swimming,100m freestyle women
+41,ITA,maria laura simonetto,,Beijing 2008,Swimming,100m freestyle women
+42,TPE,pin-chieh nieh,,Beijing 2008,Swimming,100m freestyle women
+43,SLO,nina sovinek,,Beijing 2008,Swimming,100m freestyle women
+44,MLT,madeleine scerri,,Beijing 2008,Swimming,100m freestyle women
+45,UZB,irina shlemova,,Beijing 2008,Swimming,100m freestyle women
+46,MKD,elena popovska,,Beijing 2008,Swimming,100m freestyle women
+47,TKM,olga hachatryan,,Beijing 2008,Swimming,100m freestyle women
+48,GBR,caitlin mcclatchey,Did not start,Beijing 2008,Swimming,100m freestyle women
+0,TUN,oussama mellouli,,Beijing 2008,Swimming,1500m freestyle men
+1,AUS,grant hackett,,Beijing 2008,Swimming,1500m freestyle men
+2,CAN,ryan cochrane,,Beijing 2008,Swimming,1500m freestyle men
+3,RUS,yuri prilukov,,Beijing 2008,Swimming,1500m freestyle men
+4,USA,larsen jensen,,Beijing 2008,Swimming,1500m freestyle men
+5,GBR,david davies,,Beijing 2008,Swimming,1500m freestyle men
+6,CHN,lin zhang,,Beijing 2008,Swimming,1500m freestyle men
+7,CHN,yang sun,,Beijing 2008,Swimming,1500m freestyle men
+8,POL,mateusz sawrymowicz,,Beijing 2008,Swimming,1500m freestyle men
+9,ITA,federico colbertaldo,,Beijing 2008,Swimming,1500m freestyle men
+10,USA,peter vanderkaay,,Beijing 2008,Swimming,1500m freestyle men
+11,GRE,spyridon gianniotis,,Beijing 2008,Swimming,1500m freestyle men
+12,FRA,nicolas rostoucher,,Beijing 2008,Swimming,1500m freestyle men
+13,DEN,mads glaesner,,Beijing 2008,Swimming,1500m freestyle men
+14,AUS,craig stevens,,Beijing 2008,Swimming,1500m freestyle men
+15,KOR,tae-hwan park,,Beijing 2008,Swimming,1500m freestyle men
+16,ITA,samuel pizzetti,,Beijing 2008,Swimming,1500m freestyle men
+17,JPN,takeshi matsuda,,Beijing 2008,Swimming,1500m freestyle men
+18,HUN,gergo kis,,Beijing 2008,Swimming,1500m freestyle men
+19,BEL,tom vangeneugden,,Beijing 2008,Swimming,1500m freestyle men
+20,AUT,florian janistyn,,Beijing 2008,Swimming,1500m freestyle men
+21,RSA,hercules prinsloo,,Beijing 2008,Swimming,1500m freestyle men
+22,UKR,sergiy fesenko,,Beijing 2008,Swimming,1500m freestyle men
+23,POL,maciej hreniak,,Beijing 2008,Swimming,1500m freestyle men
+24,GBR,richard charlesworth,,Beijing 2008,Swimming,1500m freestyle men
+25,ESP,marcos rivera,,Beijing 2008,Swimming,1500m freestyle men
+26,FRA,sebastien rouault,,Beijing 2008,Swimming,1500m freestyle men
+27,ROU,dragos cristian coman,,Beijing 2008,Swimming,1500m freestyle men
+28,POR,fernando costa,,Beijing 2008,Swimming,1500m freestyle men
+29,BUL,petar stoychev,,Beijing 2008,Swimming,1500m freestyle men
+30,RUS,nikita lobintsev,,Beijing 2008,Swimming,1500m freestyle men
+31,PHI,ryan paolo arabejo,,Beijing 2008,Swimming,1500m freestyle men
+32,VEN,ricardo monasterio,,Beijing 2008,Swimming,1500m freestyle men
+33,ARG,juan martin pereyra,,Beijing 2008,Swimming,1500m freestyle men
+34,TUR,ediz yildirimer,,Beijing 2008,Swimming,1500m freestyle men
+35,GER,christian kubusch,Did not start,Beijing 2008,Swimming,1500m freestyle men
+36,SLO,luka turk,Did not start,Beijing 2008,Swimming,1500m freestyle men
+0,USA,ryan lochte,,Beijing 2008,Swimming,200m backstroke men
+1,USA,aaron peirsol,,Beijing 2008,Swimming,200m backstroke men
+2,RUS,arkady vyatchanin,,Beijing 2008,Swimming,200m backstroke men
+3,AUT,markus rogan,,Beijing 2008,Swimming,200m backstroke men
+4,JPN,ryosuke irie,,Beijing 2008,Swimming,200m backstroke men
+5,AUS,hayden stoeckel,,Beijing 2008,Swimming,200m backstroke men
+6,ROU,razvan ionut florea,,Beijing 2008,Swimming,200m backstroke men
+7,GBR,gregor tait,,Beijing 2008,Swimming,200m backstroke men
+8,GER,helge meeuw,,Beijing 2008,Swimming,200m backstroke men
+9,AUS,ashley delaney,,Beijing 2008,Swimming,200m backstroke men
+10,ITA,damiano lestingi,,Beijing 2008,Swimming,200m backstroke men
+11,CAN,keith beavers,,Beijing 2008,Swimming,200m backstroke men
+12,RSA,george du rand,,Beijing 2008,Swimming,200m backstroke men
+13,CRO,gordan kozulj,,Beijing 2008,Swimming,200m backstroke men
+14,CAN,tobias oriwol,,Beijing 2008,Swimming,200m backstroke men
+15,RUS,stanislav donets,,Beijing 2008,Swimming,200m backstroke men
+16,FRA,pierre roger,,Beijing 2008,Swimming,200m backstroke men
+17,COL,omar andres pinzon garcia,,Beijing 2008,Swimming,200m backstroke men
+18,AUT,sebastian stoss,,Beijing 2008,Swimming,200m backstroke men
+19,HUN,roland rudolf,,Beijing 2008,Swimming,200m backstroke men
+20,JPN,takashi nakano,,Beijing 2008,Swimming,200m backstroke men
+21,TUR,derya buyukuncu,,Beijing 2008,Swimming,200m backstroke men
+22,BRA,lucas salatta,,Beijing 2008,Swimming,200m backstroke men
+23,NED,nick driebergen,,Beijing 2008,Swimming,200m backstroke men
+24,ITA,mattia aversa,,Beijing 2008,Swimming,200m backstroke men
+25,KOR,jiheun kim,,Beijing 2008,Swimming,200m backstroke men
+26,ISR,itai chammah,,Beijing 2008,Swimming,200m backstroke men
+27,POR,pedro oliveira,,Beijing 2008,Swimming,200m backstroke men
+28,CAY,brett fraser,,Beijing 2008,Swimming,200m backstroke men
+29,CUB,pedro medel,,Beijing 2008,Swimming,200m backstroke men
+30,HUN,gabor balog,,Beijing 2008,Swimming,200m backstroke men
+31,SUI,jonathan massacand,,Beijing 2008,Swimming,200m backstroke men
+32,KAZ,oleg rabota,,Beijing 2008,Swimming,200m backstroke men
+33,FRA,simon dufour,,Beijing 2008,Swimming,200m backstroke men
+34,GRE,dimitrios chasiotis,,Beijing 2008,Swimming,200m backstroke men
+35,CZE,kvetoslav svoboda,,Beijing 2008,Swimming,200m backstroke men
+36,CHN,jian deng,,Beijing 2008,Swimming,200m backstroke men
+37,UZB,sergey pankov,,Beijing 2008,Swimming,200m backstroke men
+38,UKR,oleksandr isakov,,Beijing 2008,Swimming,200m backstroke men
+39,EST,andres olvik,,Beijing 2008,Swimming,200m backstroke men
+40,ESP,aschwin wildeboer faber,Did not start,Beijing 2008,Swimming,200m backstroke men
+41,SWE,simon sjodin,Did not start,Beijing 2008,Swimming,200m backstroke men
+0,ZIM,kirsty leigh coventry,,Beijing 2008,Swimming,200m backstroke women
+1,USA,margaret hoelzer,,Beijing 2008,Swimming,200m backstroke women
+2,JPN,reiko nakamura,,Beijing 2008,Swimming,200m backstroke women
+3,RUS,anastasia zueva,,Beijing 2008,Swimming,200m backstroke women
+4,USA,elizabeth beisel,,Beijing 2008,Swimming,200m backstroke women
+5,GBR,elizabeth simmonds,,Beijing 2008,Swimming,200m backstroke women
+6,AUS,meagen nay,,Beijing 2008,Swimming,200m backstroke women
+7,AUS,belinda hocking,,Beijing 2008,Swimming,200m backstroke women
+8,GBR,gemma spofforth,,Beijing 2008,Swimming,200m backstroke women
+9,CHN,jing zhao,,Beijing 2008,Swimming,200m backstroke women
+10,NZL,melissa ingram,,Beijing 2008,Swimming,200m backstroke women
+11,JPN,hanae ito,,Beijing 2008,Swimming,200m backstroke women
+12,FRA,alexianne castel,,Beijing 2008,Swimming,200m backstroke women
+13,RUS,stanislava komarova,,Beijing 2008,Swimming,200m backstroke women
+14,FRA,laure manaudou,,Beijing 2008,Swimming,200m backstroke women
+15,SLO,anja carman,,Beijing 2008,Swimming,200m backstroke women
+16,HUN,evelin verraszto,,Beijing 2008,Swimming,200m backstroke women
+17,HUN,nikolett szepesi,,Beijing 2008,Swimming,200m backstroke women
+18,CHN,yanyan chen,,Beijing 2008,Swimming,200m backstroke women
+19,IRL,melanie nocher,,Beijing 2008,Swimming,200m backstroke women
+20,POL,zuzanna mazurek,,Beijing 2008,Swimming,200m backstroke women
+21,RSA,melissa corfe,,Beijing 2008,Swimming,200m backstroke women
+22,UKR,kateryna zubkova,,Beijing 2008,Swimming,200m backstroke women
+23,ESP,victoria escarlata bernard,,Beijing 2008,Swimming,200m backstroke women
+24,ESP,lidia morant varo,,Beijing 2008,Swimming,200m backstroke women
+25,KOR,yeong-seo gang,,Beijing 2008,Swimming,200m backstroke women
+26,GUA,gisela morales,,Beijing 2008,Swimming,200m backstroke women
+27,MEX,fernanda gonzalez ramirez,,Beijing 2008,Swimming,200m backstroke women
+28,GRE,stella boumi,,Beijing 2008,Swimming,200m backstroke women
+29,CAN,lindsay seemann,,Beijing 2008,Swimming,200m backstroke women
+30,CRO,sanja jovanovic,,Beijing 2008,Swimming,200m backstroke women
+31,VEN,erin nicole volcan smith,,Beijing 2008,Swimming,200m backstroke women
+32,UKR,iryna amshennikova,,Beijing 2008,Swimming,200m backstroke women
+33,GER,christin zenner,,Beijing 2008,Swimming,200m backstroke women
+34,CAN,julia wilkinson,Did not start,Beijing 2008,Swimming,200m backstroke women
 0,JPN,kosuke kitajima,,Beijing 2008,Swimming,200m breaststroke men
 1,AUS,brenton rickard,,Beijing 2008,Swimming,200m breaststroke men
 2,FRA,hugues duboscq,,Beijing 2008,Swimming,200m breaststroke men

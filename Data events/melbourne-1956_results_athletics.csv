@@ -1,4 +1,189 @@
 ,country,participant,result,olympic_game,discipline,event
+0,URS,vladimir kuts,00:28:45.600,Melbourne 1956,Athletics,10000m men
+1,HUN,jozsef kovacs,00:28:52.400,Melbourne 1956,Athletics,10000m men
+2,AUS,allan lawrence,00:28:53.600,Melbourne 1956,Athletics,10000m men
+3,POL,zdzislaw krzyszkowiak,00:29:05.000,Melbourne 1956,Athletics,10000m men
+4,GBR,kenneth leonard norris,00:29:21.600,Melbourne 1956,Athletics,10000m men
+5,URS,ivan chernyavsky,00:29:31.600,Melbourne 1956,Athletics,10000m men
+6,AUS,david power,00:29:49.200,Melbourne 1956,Athletics,10000m men
+7,GBR,gordon pirie,00:29:49.600,Melbourne 1956,Athletics,10000m men
+8,GER,herbert schade,00:30:00.600,Melbourne 1956,Athletics,10000m men
+9,GBR,frank dennis sando,00:30:05.000,Melbourne 1956,Athletics,10000m men
+10,TCH,pavel kantorek,00:30:06.000,Melbourne 1956,Athletics,10000m men
+11,FRA,alain mimoun,00:30:18.000,Melbourne 1956,Athletics,10000m men
+12,GER,walter konrad,00:30:30.000,Melbourne 1956,Athletics,10000m men
+13,BEL,frans herman,,Melbourne 1956,Athletics,10000m men
+14,DEN,thyge pedersen thogersen,,Melbourne 1956,Athletics,10000m men
+15,URS,pyotr bolotnikov,,Melbourne 1956,Athletics,10000m men
+16,GER,klaus porbadnik,,Melbourne 1956,Athletics,10000m men
+17,USA,gordon edmund mckenzie,00:30:34.400,Melbourne 1956,Athletics,10000m men
+18,SWE,rune ahlund,00:30:57.000,Melbourne 1956,Athletics,10000m men
+19,AUS,david john stephens,,Melbourne 1956,Athletics,10000m men
+20,USA,richard lewis hart,00:31:06.800,Melbourne 1956,Athletics,10000m men
+21,FIN,ilmari rikhard taipale,00:31:10.600,Melbourne 1956,Athletics,10000m men
+22,CAN,douglas h. kyle,00:31:21.000,Melbourne 1956,Athletics,10000m men
+23,USA,max edwin truex,Did not finish,Melbourne 1956,Athletics,10000m men
+24,MYA,naw myintung,Did not finish,Melbourne 1956,Athletics,10000m men
+25,ETH,demissie gamatcho,Did not start,Melbourne 1956,Athletics,10000m men
+26,FIN,olavi osvald rintenpaa,Did not start,Melbourne 1956,Athletics,10000m men
+27,HUN,miklos szabo,Did not start,Melbourne 1956,Athletics,10000m men
+28,IRI,ali baghbanbashi,Did not start,Melbourne 1956,Athletics,10000m men
+29,KEN,arere anentia,Did not start,Melbourne 1956,Athletics,10000m men
+30,KEN,kanuti sum,Did not start,Melbourne 1956,Athletics,10000m men
+31,POL,jerzy chromik,Did not start,Melbourne 1956,Athletics,10000m men
+32,RSA,jan barnard,Did not start,Melbourne 1956,Athletics,10000m men
+33,RSA,mercer john davies,Did not start,Melbourne 1956,Athletics,10000m men
+34,TCH,emil zatopek,Did not start,Melbourne 1956,Athletics,10000m men
+0,USA,bobby morrow,10.500,Melbourne 1956,Athletics,100m men
+1,USA,walter thane baker,10.500,Melbourne 1956,Athletics,100m men
+2,AUS,hec hogan,10.600,Melbourne 1956,Athletics,100m men
+3,USA,ira james murchison,10.600,Melbourne 1956,Athletics,100m men
+4,GER,manfred germar,10.700,Melbourne 1956,Athletics,100m men
+5,TTO,michael agostini,10.700,Melbourne 1956,Athletics,100m men
+6,SUI,rené farine,Did not start,Melbourne 1956,Athletics,100m men
+7,SUI,walter tschudi,Did not start,Melbourne 1956,Athletics,100m men
+8,HUN,lászló kiss,Did not start,Melbourne 1956,Athletics,100m men
+9,IRQ,ghanim mahmoud,Did not start,Melbourne 1956,Athletics,100m men
+10,POL,edward szmidt,Did not start,Melbourne 1956,Athletics,100m men
+11,PUR,norberto cruz,Did not start,Melbourne 1956,Athletics,100m men
+12,SUI,fritz vogelsang,Did not start,Melbourne 1956,Athletics,100m men
+13,VEN,alfonso bruno,Did not start,Melbourne 1956,Athletics,100m men
+0,AUS,betty cuthbert,11.500,Melbourne 1956,Athletics,100m women
+1,GER,christa stubnick,11.700,Melbourne 1956,Athletics,100m women
+2,AUS,marlene mathews-willard,11.700,Melbourne 1956,Athletics,100m women
+3,USA,isabelle francis daniels,11.800,Melbourne 1956,Athletics,100m women
+4,ITA,giuseppina leone,11.900,Melbourne 1956,Athletics,100m women
+5,GBR,heather joy armitage,12.000,Melbourne 1956,Athletics,100m women
+6,IND,mary leela rao,,Melbourne 1956,Athletics,100m women
+7,CUB,julia bertha diaz hernandez,Did not start,Melbourne 1956,Athletics,100m women
+8,PHI,manolita cinco,Did not start,Melbourne 1956,Athletics,100m women
+9,PHI,francisca sanopal,Did not start,Melbourne 1956,Athletics,100m women
+0,USA,lee calhoun,13.500,Melbourne 1956,Athletics,110m hurdles men
+1,USA,jack davis,13.500,Melbourne 1956,Athletics,110m hurdles men
+2,USA,joel shankle,14.100,Melbourne 1956,Athletics,110m hurdles men
+3,GER,martin lauer,14.500,Melbourne 1956,Athletics,110m hurdles men
+4,YUG,stanko lorger,14.500,Melbourne 1956,Athletics,110m hurdles men
+5,URS,boris stolyarov,14.600,Melbourne 1956,Athletics,110m hurdles men
+6,PUR,amadeo francis,Did not start,Melbourne 1956,Athletics,110m hurdles men
+0,IRL,ronald michael delany,00:03:41.200,Melbourne 1956,Athletics,1500m men
+1,GER,klaus richtzenhain,00:03:42.000,Melbourne 1956,Athletics,1500m men
+2,AUS,john landy,00:03:42.000,Melbourne 1956,Athletics,1500m men
+3,HUN,laszlo tabori,00:03:42.400,Melbourne 1956,Athletics,1500m men
+4,GBR,brian stanford hewson,00:03:42.600,Melbourne 1956,Athletics,1500m men
+5,TCH,stanislav jungwirth,00:03:42.600,Melbourne 1956,Athletics,1500m men
+6,NZL,neville ian scott,00:03:42.800,Melbourne 1956,Athletics,1500m men
+7,GBR,ian hugh boyd,00:03:43.000,Melbourne 1956,Athletics,1500m men
+8,GBR,kenneth wood,00:03:44.300,Melbourne 1956,Athletics,1500m men
+9,DEN,niels gunnar nielsen,00:03:45.000,Melbourne 1956,Athletics,1500m men
+10,NZL,murray gordon halberg,00:03:45.200,Melbourne 1956,Athletics,1500m men
+11,AUS,merwyn george lincoln,00:03:51.900,Melbourne 1956,Athletics,1500m men
+12,GER,siegfried herrmann,,Melbourne 1956,Athletics,1500m men
+13,LBR,joseph narmah,Did not start,Melbourne 1956,Athletics,1500m men
+14,PAK,muhammad anwar,Did not start,Melbourne 1956,Athletics,1500m men
+15,AUS,james john bailey,Did not start,Melbourne 1956,Athletics,1500m men
+16,GRE,dimitrios konstantinidis,Did not start,Melbourne 1956,Athletics,1500m men
+17,LBR,george h. johnson,Did not start,Melbourne 1956,Athletics,1500m men
+18,NOR,audun boysen,Did not start,Melbourne 1956,Athletics,1500m men
+19,THA,phol jaiswang,Did not start,Melbourne 1956,Athletics,1500m men
+20,YUG,velisa mugosa,Did not start,Melbourne 1956,Athletics,1500m men
+0,USA,bobby morrow,20.600,Melbourne 1956,Athletics,200m men
+1,USA,andrew william stanfield,20.700,Melbourne 1956,Athletics,200m men
+2,USA,walter thane baker,20.900,Melbourne 1956,Athletics,200m men
+3,TTO,michael agostini,21.100,Melbourne 1956,Athletics,200m men
+4,URS,boris tokarev,21.200,Melbourne 1956,Athletics,200m men
+5,BRA,josé telles da conceição,21.300,Melbourne 1956,Athletics,200m men
+6,FRA,konstantin lissenko,,Melbourne 1956,Athletics,200m men
+7,LBR,james roberts,,Melbourne 1956,Athletics,200m men
+8,VEN,apolinar solorzano,,Melbourne 1956,Athletics,200m men
+9,SUI,rené farine,Did not start,Melbourne 1956,Athletics,200m men
+10,SUI,bruno urben,Did not start,Melbourne 1956,Athletics,200m men
+11,CAN,stan levenson,Did not start,Melbourne 1956,Athletics,200m men
+12,COL,carlos sierra,Did not start,Melbourne 1956,Athletics,200m men
+13,FIN,voitto valdemar hellsten,Did not start,Melbourne 1956,Athletics,200m men
+14,HUN,geza varasdi,Did not start,Melbourne 1956,Athletics,200m men
+15,IRQ,ghanim mahmoud,Did not start,Melbourne 1956,Athletics,200m men
+16,ISL,hilmar rognvaldsson,Did not start,Melbourne 1956,Athletics,200m men
+17,MAL,sinnayah karuppiah jarabalan,Did not start,Melbourne 1956,Athletics,200m men
+18,POL,zenon baranowski,Did not start,Melbourne 1956,Athletics,200m men
+19,PUR,norberto cruz,Did not start,Melbourne 1956,Athletics,200m men
+20,TTO,edmund turton,Did not start,Melbourne 1956,Athletics,200m men
+21,VEN,alfonso bruno,Did not start,Melbourne 1956,Athletics,200m men
+0,AUS,betty cuthbert,23.400,Melbourne 1956,Athletics,200m women
+1,GER,christa stubnick,23.700,Melbourne 1956,Athletics,200m women
+2,AUS,marlene mathews-willard,23.800,Melbourne 1956,Athletics,200m women
+3,AUS,norma wilson crooker-fleming,24.000,Melbourne 1956,Athletics,200m women
+4,GBR,june foulds-paul,24.300,Melbourne 1956,Athletics,200m women
+5,GER,gisela köhler-birkemeyer,24.300,Melbourne 1956,Athletics,200m women
+6,FRA,catherine capdevielle,Did not start,Melbourne 1956,Athletics,200m women
+7,MAL,annie choong,Did not start,Melbourne 1956,Athletics,200m women
+8,POL,marja kusion-bibro,Did not start,Melbourne 1956,Athletics,200m women
+0,URS,leonid spirin,01:31:27.400,Melbourne 1956,Athletics,20km walk men
+1,URS,antanas mikenas,01:32:03.000,Melbourne 1956,Athletics,20km walk men
+2,URS,bruno junk,01:32:12.000,Melbourne 1956,Athletics,20km walk men
+3,SWE,john artur ljunggren,01:32:24.000,Melbourne 1956,Athletics,20km walk men
+4,GBR,stanley frank vickers,01:32:34.200,Melbourne 1956,Athletics,20km walk men
+5,AUS,donald michael keane,01:33:52.000,Melbourne 1956,Athletics,20km walk men
+6,GBR,george william coleman,01:34:01.800,Melbourne 1956,Athletics,20km walk men
+7,GBR,roland hardy,01:34:40.400,Melbourne 1956,Athletics,20km walk men
+8,ITA,giuseppe dordoni,01:35:00.400,Melbourne 1956,Athletics,20km walk men
+9,AUS,edward james allsopp,01:35:43.000,Melbourne 1956,Athletics,20km walk men
+10,ITA,abdon pamich,01:36:03.600,Melbourne 1956,Athletics,20km walk men
+11,USA,henry helmut laskau,01:38:46.800,Melbourne 1956,Athletics,20km walk men
+12,AUS,ronald crawford,01:39:35.000,Melbourne 1956,Athletics,20km walk men
+13,ROU,dumitru paraschivescu,01:39:57.400,Melbourne 1956,Athletics,20km walk men
+14,ROU,ion barbu,01:41:37.800,Melbourne 1956,Athletics,20km walk men
+15,USA,bruce duncan macdonald,01:43:25.600,Melbourne 1956,Athletics,20km walk men
+16,USA,james edward hewson,01:46:24.800,Melbourne 1956,Athletics,20km walk men
+17,TCH,josef dolezal,Disqualified,Melbourne 1956,Athletics,20km walk men
+18,SWE,lars hindmar,Disqualified,Melbourne 1956,Athletics,20km walk men
+19,GER,dieter lindner,Disqualified,Melbourne 1956,Athletics,20km walk men
+20,CAN,alex oakley,Disqualified,Melbourne 1956,Athletics,20km walk men
+21,SUI,gilbert marquis,Did not start,Melbourne 1956,Athletics,20km walk men
+22,SUI,gabriel reymond,Did not start,Melbourne 1956,Athletics,20km walk men
+23,TCH,milan skront,Did not start,Melbourne 1956,Athletics,20km walk men
+0,GBR,christopher william brasher,00:08:41.200,Melbourne 1956,Athletics,3000m steeplechase men
+1,HUN,sandor rozsnyoi,00:08:43.600,Melbourne 1956,Athletics,3000m steeplechase men
+2,NOR,ernst larsen,00:08:44.000,Melbourne 1956,Athletics,3000m steeplechase men
+3,GER,heinz laufer,00:08:44.400,Melbourne 1956,Athletics,3000m steeplechase men
+4,URS,semyon rzhishchin,00:08:44.600,Melbourne 1956,Athletics,3000m steeplechase men
+5,GBR,john ivor disley,00:08:44.600,Melbourne 1956,Athletics,3000m steeplechase men
+6,AUS,neil james robbins,00:08:50.000,Melbourne 1956,Athletics,3000m steeplechase men
+7,GBR,eric shirley,00:08:57.000,Melbourne 1956,Athletics,3000m steeplechase men
+8,USA,charles nicholas jones,00:09:13.000,Melbourne 1956,Athletics,3000m steeplechase men
+9,BEL,frans herman,,Melbourne 1956,Athletics,3000m steeplechase men
+10,CHI,eduardo fontecilla,,Melbourne 1956,Athletics,3000m steeplechase men
+11,POL,jerzy chromik,Did not start,Melbourne 1956,Athletics,3000m steeplechase men
+0,USA,glenn ashby davis,50.100,Melbourne 1956,Athletics,400m hurdles men
+1,USA,silas edward southern,50.800,Melbourne 1956,Athletics,400m hurdles men
+2,USA,joshua culbreath,51.600,Melbourne 1956,Athletics,400m hurdles men
+3,URS,yury lituyev,51.700,Melbourne 1956,Athletics,400m hurdles men
+4,AUS,david francis lean,51.800,Melbourne 1956,Athletics,400m hurdles men
+5,RSA,gerhardus cornelius potgieter,56.000,Melbourne 1956,Athletics,400m hurdles men
+6,URS,igor ilyin,Did not start,Melbourne 1956,Athletics,400m hurdles men
+7,SUI,josef kost,Did not start,Melbourne 1956,Athletics,400m hurdles men
+8,GER,helmuth janz,Did not start,Melbourne 1956,Athletics,400m hurdles men
+9,SUI,christian wagli,Did not start,Melbourne 1956,Athletics,400m hurdles men
+0,USA,charles lamont jenkins,46.700,Melbourne 1956,Athletics,400m men
+1,GER,karl-friedrich haas,46.800,Melbourne 1956,Athletics,400m men
+2,FIN,voitto valdemar hellsten,47.000,Melbourne 1956,Athletics,400m men
+3,URS,ardalion ignatyev,47.000,Melbourne 1956,Athletics,400m men
+4,USA,louis woodard iii jones,48.100,Melbourne 1956,Athletics,400m men
+5,RSA,malcolm clive spence,48.300,Melbourne 1956,Athletics,400m men
+6,JPN,kanji akagi,,Melbourne 1956,Athletics,400m men
+7,GER,horst mann,,Melbourne 1956,Athletics,400m men
+8,LBR,joseph narmah,Did not start,Melbourne 1956,Athletics,400m men
+9,COL,ruben guevara,Did not start,Melbourne 1956,Athletics,400m men
+10,URS,yury bashlikov,Did not start,Melbourne 1956,Athletics,400m men
+11,COL,alfonso munoz,Did not start,Melbourne 1956,Athletics,400m men
+12,MAL,manikavagasam harichandra,Did not start,Melbourne 1956,Athletics,400m men
+13,ROU,ilie savel,Did not start,Melbourne 1956,Athletics,400m men
+14,SUI,rene weber,Did not start,Melbourne 1956,Athletics,400m men
+15,TCH,vaclav janecek,Did not start,Melbourne 1956,Athletics,400m men
+16,TCH,jaroslav jirasek,Did not start,Melbourne 1956,Athletics,400m men
+17,TCH,josef trousil,Did not start,Melbourne 1956,Athletics,400m men
+18,TTO,michael agostini,Did not start,Melbourne 1956,Athletics,400m men
+19,TTO,joe goddard,Did not start,Melbourne 1956,Athletics,400m men
+20,TTO,edmund turton,Did not start,Melbourne 1956,Athletics,400m men
 0,,,39.500,Melbourne 1956,Athletics,4x100m relay men
 1,,,39.800,Melbourne 1956,Athletics,4x100m relay men
 2,,,40.300,Melbourne 1956,Athletics,4x100m relay men

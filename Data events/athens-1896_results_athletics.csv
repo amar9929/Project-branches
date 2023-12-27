@@ -1,4 +1,196 @@
 ,country,participant,result,olympic_game,discipline,event
+0,USA,thomas burke,12.000,Athens 1896,Athletics,100m men
+1,GER,fritz hofmann,at 2 metres,Athens 1896,Athletics,100m men
+2,HUN,alajos szokolyi,at 4 metres,Athens 1896,Athletics,100m men
+3,USA,francis lane,at 4 metres,Athens 1896,Athletics,100m men
+4,GRE,alexandros khalkokondylis,at 4 metres,Athens 1896,Athletics,100m men
+5,GER,kurt doerry,,Athens 1896,Athletics,100m men
+6,GRE,georgios gennimatas,,Athens 1896,Athletics,100m men
+7,SWE,henrik sjöberg,,Athens 1896,Athletics,100m men
+8,CHI,luis subercaseaux,Did not start,Athens 1896,Athletics,100m men
+9,HUN,leonidasz manno,Did not start,Athens 1896,Athletics,100m men
+10,FRA,jean tournois,Did not start,Athens 1896,Athletics,100m men
+11,GRE,konstantinos mouratis,Did not start,Athens 1896,Athletics,100m men
+12,HUN,istván zachar,Did not start,Athens 1896,Athletics,100m men
+13,USA,ralph derr,Did not start,Athens 1896,Athletics,100m men
+14,FRA,louis adler,Did not start,Athens 1896,Athletics,100m men
+15,GER,alfred flatow,Did not start,Athens 1896,Athletics,100m men
+16,SWE,harald arbin,Did not start,Athens 1896,Athletics,100m men
+17,FRA,alexandre tufferi,Did not start,Athens 1896,Athletics,100m men
+18,HUN,nandor dani,Did not start,Athens 1896,Athletics,100m men
+19,USA,charles vanoni,Did not start,Athens 1896,Athletics,100m men
+0,USA,tom curtis,17.600,Athens 1896,Athletics,110m hurdles men
+1,GBR,grantley goulding,at 0.05 metres,Athens 1896,Athletics,110m hurdles men
+2,GRE,anastasios andreou,,Athens 1896,Athletics,110m hurdles men
+3,HUN,alajos szokolyi,,Athens 1896,Athletics,110m hurdles men
+4,GER,kurt doerry,,Athens 1896,Athletics,110m hurdles men
+5,GRE,athanasios skaltsogiannis,,Athens 1896,Athletics,110m hurdles men
+6,HUN,pál péthy,Did not start,Athens 1896,Athletics,110m hurdles men
+7,GRE,konstantinos mouratis,Did not start,Athens 1896,Athletics,110m hurdles men
+8,USA,fred lord,Did not start,Athens 1896,Athletics,110m hurdles men
+9,GER,fritz traun,Did not start,Athens 1896,Athletics,110m hurdles men
+10,GER,fritz hofmann,Did not start,Athens 1896,Athletics,110m hurdles men
+11,SWE,harald arbin,Did not start,Athens 1896,Athletics,110m hurdles men
+12,SWE,henrik sjöberg,Did not start,Athens 1896,Athletics,110m hurdles men
+13,USA,james brendan connolly,Did not start,Athens 1896,Athletics,110m hurdles men
+14,USA,charles vanoni,Did not start,Athens 1896,Athletics,110m hurdles men
+0,AUS,edwin flack,00:04:33.200,Athens 1896,Athletics,1500m men
+1,USA,arthur blake,at 2-10 metres,Athens 1896,Athletics,1500m men
+2,FRA,albin lermusiaux,at 6-15 metres,Athens 1896,Athletics,1500m men
+3,GER,karl galle,,Athens 1896,Athletics,1500m men
+4,GRE,angelos fetsis,,Athens 1896,Athletics,1500m men
+5,GRE,dimitrios golemis,,Athens 1896,Athletics,1500m men
+6,GRE,konstantinos karakatsanis,,Athens 1896,Athletics,1500m men
+7,GRE,dimitri tombrof,,Athens 1896,Athletics,1500m men
+8,HUN,gyula malcsiner,Did not start,Athens 1896,Athletics,1500m men
+9,FRA,georges de la néziere,Did not start,Athens 1896,Athletics,1500m men
+10,GBR,george marshall,Did not start,Athens 1896,Athletics,1500m men
+11,HUN,nandor dani,Did not start,Athens 1896,Athletics,1500m men
+0,USA,thomas burke,54.200,Athens 1896,Athletics,400m men
+1,USA,herbert jamison,55.200,Athens 1896,Athletics,400m men
+2,GBR,charles gmelin,at 15-20 metres,Athens 1896,Athletics,400m men
+3,GER,fritz hofmann,,Athens 1896,Athletics,400m men
+4,FRA,alphonse grisel,,Athens 1896,Athletics,400m men
+5,GER,kurt doerry,,Athens 1896,Athletics,400m men
+6,CHI,luis subercaseaux,Did not start,Athens 1896,Athletics,400m men
+7,GRE,konstantinos mouratis,Did not start,Athens 1896,Athletics,400m men
+8,HUN,leonidasz manno,Did not start,Athens 1896,Athletics,400m men
+9,GER,fritz traun,Did not start,Athens 1896,Athletics,400m men
+10,AUS,edwin flack,Did not start,Athens 1896,Athletics,400m men
+11,FRA,georges de la néziere,Did not start,Athens 1896,Athletics,400m men
+12,GBR,launceston elliot,Did not start,Athens 1896,Athletics,400m men
+13,GBR,grantley goulding,Did not start,Athens 1896,Athletics,400m men
+14,GBR,george marshall,Did not start,Athens 1896,Athletics,400m men
+15,HUN,nandor dani,Did not start,Athens 1896,Athletics,400m men
+0,AUS,edwin flack,00:02:11.000,Athens 1896,Athletics,800m men
+1,HUN,nandor dani,00:02:11.800,Athens 1896,Athletics,800m men
+2,GRE,dimitrios golemis,at 20-100 metres,Athens 1896,Athletics,800m men
+3,GRE,dimitri tombrof,,Athens 1896,Athletics,800m men
+4,GRE,angelos fetsis,,Athens 1896,Athletics,800m men
+5,CHI,luis subercaseaux,Did not start,Athens 1896,Athletics,800m men
+6,HUN,istván zaborszky,Did not start,Athens 1896,Athletics,800m men
+7,GER,fritz hofmann,Did not start,Athens 1896,Athletics,800m men
+8,FRA,frantz reichel,Did not start,Athens 1896,Athletics,800m men
+9,GER,kurt doerry,Did not start,Athens 1896,Athletics,800m men
+10,USA,thomas burke,Did not start,Athens 1896,Athletics,800m men
+0,USA,bob garrett,WR,Athens 1896,Athletics,discus throw men
+1,GRE,panagiotis paraskevopoulos,WR,Athens 1896,Athletics,discus throw men
+2,GRE,sotirios versis,,Athens 1896,Athletics,discus throw men
+3,GBR,george stuart robertson,,Athens 1896,Athletics,discus throw men
+4,SWE,henrik sjöberg,,Athens 1896,Athletics,discus throw men
+5,GRE,georgios papasideris,,Athens 1896,Athletics,discus throw men
+6,DEN,holger nielsen,,Athens 1896,Athletics,discus throw men
+7,DEN,viggo jensen,,Athens 1896,Athletics,discus throw men
+8,FRA,alphonse grisel,,Athens 1896,Athletics,discus throw men
+9,FRA,louis adler,Did not start,Athens 1896,Athletics,discus throw men
+10,DEN,charles winckler,Did not start,Athens 1896,Athletics,discus throw men
+11,GER,carl schuhmann,Did not start,Athens 1896,Athletics,discus throw men
+12,USA,charles vanoni,Did not start,Athens 1896,Athletics,discus throw men
+0,USA,ellery clark,1.81,Athens 1896,Athletics,high jump men
+1,USA,bob garrett,1.65,Athens 1896,Athletics,high jump men
+2,USA,james brendan connolly,1.65,Athens 1896,Athletics,high jump men
+3,SWE,henrik sjöberg,1.6,Athens 1896,Athletics,high jump men
+4,GER,fritz hofmann,1.55,Athens 1896,Athletics,high jump men
+5,GER,conrad böcker,Did not start,Athens 1896,Athletics,high jump men
+6,USA,j. stanley edwards,Did not start,Athens 1896,Athletics,high jump men
+7,FRA,louis adler,Did not start,Athens 1896,Athletics,high jump men
+8,GER,fritz traun,Did not start,Athens 1896,Athletics,high jump men
+9,GER,alfred flatow,Did not start,Athens 1896,Athletics,high jump men
+10,GER,fritz manteuffel,Did not start,Athens 1896,Athletics,high jump men
+11,GER,gustav schuft,Did not start,Athens 1896,Athletics,high jump men
+12,HUN,gyula kakas,Did not start,Athens 1896,Athletics,high jump men
+13,SWE,harald arbin,Did not start,Athens 1896,Athletics,high jump men
+14,GER,kurt doerry,Did not start,Athens 1896,Athletics,high jump men
+15,GER,gustav felix flatow,Did not start,Athens 1896,Athletics,high jump men
+16,GER,karl galle,Did not start,Athens 1896,Athletics,high jump men
+17,GER,carl schuhmann,Did not start,Athens 1896,Athletics,high jump men
+18,HUN,alajos szokolyi,Did not start,Athens 1896,Athletics,high jump men
+19,HUN,dezső wein,Did not start,Athens 1896,Athletics,high jump men
+0,USA,ellery clark,OR,Athens 1896,Athletics,long jump men
+1,USA,bob garrett,,Athens 1896,Athletics,long jump men
+2,USA,james brendan connolly,,Athens 1896,Athletics,long jump men
+3,GRE,alexandros khalkokondylis,,Athens 1896,Athletics,long jump men
+4,FRA,alexandre tufferi,,Athens 1896,Athletics,long jump men
+5,GRE,athanasios skaltsogiannis,,Athens 1896,Athletics,long jump men
+6,SWE,henrik sjöberg,,Athens 1896,Athletics,long jump men
+7,GER,carl schuhmann,,Athens 1896,Athletics,long jump men
+8,FRA,alphonse grisel,,Athens 1896,Athletics,long jump men
+9,USA,ralph derr,Did not start,Athens 1896,Athletics,long jump men
+10,GRE,konstantinos mouratis,Did not start,Athens 1896,Athletics,long jump men
+11,HUN,pál péthy,Did not start,Athens 1896,Athletics,long jump men
+12,GER,fritz traun,Did not start,Athens 1896,Athletics,long jump men
+13,HUN,momcsillo tapavicza,Did not start,Athens 1896,Athletics,long jump men
+14,GER,alfred flatow,Did not start,Athens 1896,Athletics,long jump men
+15,GER,fritz hofmann,Did not start,Athens 1896,Athletics,long jump men
+16,GER,hermann weingärtner,Did not start,Athens 1896,Athletics,long jump men
+17,SWE,harald arbin,Did not start,Athens 1896,Athletics,long jump men
+18,GER,kurt doerry,Did not start,Athens 1896,Athletics,long jump men
+19,GER,karl galle,Did not start,Athens 1896,Athletics,long jump men
+20,HUN,nandor dani,Did not start,Athens 1896,Athletics,long jump men
+21,HUN,alajos szokolyi,Did not start,Athens 1896,Athletics,long jump men
+22,USA,tom curtis,Did not start,Athens 1896,Athletics,long jump men
+0,GRE,spyridon louis,02:58:50.000,Athens 1896,Athletics,marathon men
+1,GRE,kharilaos vasilakos,03:06:03.000,Athens 1896,Athletics,marathon men
+2,HUN,gyula kellner,03:06:35.000,Athens 1896,Athletics,marathon men
+3,GRE,ioannis vrettos,,Athens 1896,Athletics,marathon men
+4,GRE,eleftherios papasymeon,,Athens 1896,Athletics,marathon men
+5,GRE,dimitrios deligiannis,,Athens 1896,Athletics,marathon men
+6,GRE,evangelos gerakakis,,Athens 1896,Athletics,marathon men
+7,GRE,stamatios masouris,,Athens 1896,Athletics,marathon men
+8,GRE,sokratis lagoudakis,,Athens 1896,Athletics,marathon men
+9,AUS,edwin flack,Did not finish,Athens 1896,Athletics,marathon men
+10,FRA,albin lermusiaux,Did not finish,Athens 1896,Athletics,marathon men
+11,GRE,georgios lavrentis,Did not finish,Athens 1896,Athletics,marathon men
+12,GRE,georgios grigoriou,Did not finish,Athens 1896,Athletics,marathon men
+13,USA,arthur blake,Did not finish,Athens 1896,Athletics,marathon men
+14,GRE,ilias kafetzis,Did not finish,Athens 1896,Athletics,marathon men
+15,GRE,dimitrios khristopoulos,Did not finish,Athens 1896,Athletics,marathon men
+16,GRE,spyridon belokas,Disqualified,Athens 1896,Athletics,marathon men
+17,GRE,vathis vathis,Did not start,Athens 1896,Athletics,marathon men
+18,GRE,vanitakis vanitakis,Did not start,Athens 1896,Athletics,marathon men
+19,HUN,gyula malcsiner,Did not start,Athens 1896,Athletics,marathon men
+20,ITA,carlo airoldi,Did not start,Athens 1896,Athletics,marathon men
+21,GER,karl galle,Did not start,Athens 1896,Athletics,marathon men
+0,USA,william welles hoyt,3.3,Athens 1896,Athletics,pole vault men
+1,USA,albert tyler,3.2,Athens 1896,Athletics,pole vault men
+2,GRE,evangelos damaskos,2.6,Athens 1896,Athletics,pole vault men
+3,GRE,ioannis theodoropoulos,2.6,Athens 1896,Athletics,pole vault men
+4,GRE,vasilios xydas,2.4,Athens 1896,Athletics,pole vault men
+5,GER,fritz traun,Did not start,Athens 1896,Athletics,pole vault men
+6,HUN,momcsillo tapavicza,Did not start,Athens 1896,Athletics,pole vault men
+7,GER,alfred flatow,Did not start,Athens 1896,Athletics,pole vault men
+8,GER,fritz hofmann,Did not start,Athens 1896,Athletics,pole vault men
+9,GER,fritz manteuffel,Did not start,Athens 1896,Athletics,pole vault men
+10,GER,karl neukirch,Did not start,Athens 1896,Athletics,pole vault men
+11,GER,hermann weingärtner,Did not start,Athens 1896,Athletics,pole vault men
+12,HUN,gyula kakas,Did not start,Athens 1896,Athletics,pole vault men
+13,BUL,charles champoff,Did not start,Athens 1896,Athletics,pole vault men
+14,GER,kurt doerry,Did not start,Athens 1896,Athletics,pole vault men
+15,GER,gustav felix flatow,Did not start,Athens 1896,Athletics,pole vault men
+16,GER,karl galle,Did not start,Athens 1896,Athletics,pole vault men
+17,GER,carl schuhmann,Did not start,Athens 1896,Athletics,pole vault men
+18,HUN,alajos szokolyi,Did not start,Athens 1896,Athletics,pole vault men
+19,HUN,dezső wein,Did not start,Athens 1896,Athletics,pole vault men
+20,USA,charles vanoni,Did not start,Athens 1896,Athletics,pole vault men
+0,USA,bob garrett,OR,Athens 1896,Athletics,shot put men
+1,GRE,miltiadis gouskos,,Athens 1896,Athletics,shot put men
+2,GRE,georgios papasideris,,Athens 1896,Athletics,shot put men
+3,DEN,viggo jensen,,Athens 1896,Athletics,shot put men
+4,GER,carl schuhmann,,Athens 1896,Athletics,shot put men
+5,GER,fritz hofmann,,Athens 1896,Athletics,shot put men
+6,USA,ellery clark,,Athens 1896,Athletics,shot put men
+7,GER,conrad böcker,Did not start,Athens 1896,Athletics,shot put men
+8,HUN,pál péthy,Did not start,Athens 1896,Athletics,shot put men
+9,FRA,louis adler,Did not start,Athens 1896,Athletics,shot put men
+10,HUN,momcsillo tapavicza,Did not start,Athens 1896,Athletics,shot put men
+11,GER,alfred flatow,Did not start,Athens 1896,Athletics,shot put men
+12,GER,hermann weingärtner,Did not start,Athens 1896,Athletics,shot put men
+13,DEN,holger nielsen,Did not start,Athens 1896,Athletics,shot put men
+14,FRA,alphonse grisel,Did not start,Athens 1896,Athletics,shot put men
+15,DEN,charles winckler,Did not start,Athens 1896,Athletics,shot put men
+16,GBR,george stuart robertson,Did not start,Athens 1896,Athletics,shot put men
+17,HUN,dezső wein,Did not start,Athens 1896,Athletics,shot put men
+18,USA,charles vanoni,Did not start,Athens 1896,Athletics,shot put men
 0,USA,james brendan connolly,OR,Athens 1896,Athletics,triple jump men
 1,FRA,alexandre tufferi,,Athens 1896,Athletics,triple jump men
 2,GRE,ioannis persakis,,Athens 1896,Athletics,triple jump men

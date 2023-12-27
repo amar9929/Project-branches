@@ -1,4 +1,215 @@
 ,country,participant,result,olympic_game,discipline,event
+0,ETH,kenenisa bekele,00:27:01.170,Beijing 2008,Athletics,10000m men
+1,ETH,sileshi sihine,00:27:02.770,Beijing 2008,Athletics,10000m men
+2,KEN,micah kipkemboi kogo,00:27:04.110,Beijing 2008,Athletics,10000m men
+3,KEN,moses ndiema masai,00:27:04.110,Beijing 2008,Athletics,10000m men
+4,ERI,zersenay tadesse,00:27:05.110,Beijing 2008,Athletics,10000m men
+5,ETH,haile gebrselassie,00:27:06.680,Beijing 2008,Athletics,10000m men
+6,KEN,martin irungu mathathi,00:27:08.250,Beijing 2008,Athletics,10000m men
+7,QAT,ahmad hassan abdullah,00:27:23.750,Beijing 2008,Athletics,10000m men
+8,TAN,fabiano joseph,00:27:25.330,Beijing 2008,Athletics,10000m men
+9,UGA,boniface kiprop toroitich,00:27:27.280,Beijing 2008,Athletics,10000m men
+10,TUR,selim bayrak,00:27:29.330,Beijing 2008,Athletics,10000m men
+11,ERI,kidane tadesse,00:27:36.110,Beijing 2008,Athletics,10000m men
+12,USA,galen rupp,00:27:36.990,Beijing 2008,Athletics,10000m men
+13,TAN,dickson marwa,00:27:48.030,Beijing 2008,Athletics,10000m men
+14,USA,abdi abdirahman,00:27:52.530,Beijing 2008,Athletics,10000m men
+15,MAR,abdellah falil,00:27:53.140,Beijing 2008,Athletics,10000m men
+16,ESP,juan carlos de la ossa,00:27:54.200,Beijing 2008,Athletics,10000m men
+17,BRN,ali hasan mahbood,00:27:55.140,Beijing 2008,Athletics,10000m men
+18,RWA,dieudonne disi,00:27:56.740,Beijing 2008,Athletics,10000m men
+19,QAT,essa ismail rashed,00:27:58.670,Beijing 2008,Athletics,10000m men
+20,TAN,samwel shauri,00:28:06.260,Beijing 2008,Athletics,10000m men
+21,QAT,felix kikwai kibore,00:28:11.920,Beijing 2008,Athletics,10000m men
+22,ESP,carles castillejo,00:28:13.680,Beijing 2008,Athletics,10000m men
+23,ESP,ayad lamdassem,00:28:13.730,Beijing 2008,Athletics,10000m men
+24,USA,jorge torres,00:28:13.930,Beijing 2008,Athletics,10000m men
+25,IND,surendra singh,00:28:13.970,Beijing 2008,Athletics,10000m men
+26,AUT,gunther weidlinger,00:28:14.380,Beijing 2008,Athletics,10000m men
+27,JPN,kensuke takezawa,00:28:23.280,Beijing 2008,Athletics,10000m men
+28,MEX,juan carlos romero,00:28:26.570,Beijing 2008,Athletics,10000m men
+29,RUS,sergey ivanov,00:28:34.720,Beijing 2008,Athletics,10000m men
+30,JPN,takayuki matsumiya,00:28:39.770,Beijing 2008,Athletics,10000m men
+31,ERI,teklemariam medhin,00:28:54.330,Beijing 2008,Athletics,10000m men
+32,CAN,eric gillis,00:29:08.100,Beijing 2008,Athletics,10000m men
+33,POR,rui pedro silva,00:29:09.030,Beijing 2008,Athletics,10000m men
+34,MEX,alejandro suarez,00:29:24.780,Beijing 2008,Athletics,10000m men
+35,MAR,mohamed el hachimi,Did not finish,Beijing 2008,Athletics,10000m men
+36,MEX,josé david galván,Did not finish,Beijing 2008,Athletics,10000m men
+37,ZIM,cuthbert nyasango,Did not finish,Beijing 2008,Athletics,10000m men
+38,ALG,khoudir aggoune,Did not start,Beijing 2008,Athletics,10000m men
+0,ETH,tirunesh dibaba,00:29:54.660,Beijing 2008,Athletics,10000m women
+1,USA,shalane flanagan,00:30:22.220,Beijing 2008,Athletics,10000m women
+2,KEN,linet chepkwemoi masai,00:30:26.500,Beijing 2008,Athletics,10000m women
+3,RUS,maria konovalova,00:30:35.840,Beijing 2008,Athletics,10000m women
+4,KEN,lucy wangui kabuu,00:30:39.960,Beijing 2008,Athletics,10000m women
+5,NED,lornah kiplagat,00:30:40.270,Beijing 2008,Athletics,10000m women
+6,NZL,kimberley smith,00:30:51.000,Beijing 2008,Athletics,10000m women
+7,USA,kara goucher,00:30:55.160,Beijing 2008,Athletics,10000m women
+8,JPN,kayoko fukushi,00:31:01.140,Beijing 2008,Athletics,10000m women
+9,GBR,joanne pavey,00:31:12.300,Beijing 2008,Athletics,10000m women
+10,GER,sabrina mockenhaupt,00:31:14.210,Beijing 2008,Athletics,10000m women
+11,ETH,ejegayehu dibaba,00:31:22.180,Beijing 2008,Athletics,10000m women
+12,NED,hilda kibet,00:31:29.690,Beijing 2008,Athletics,10000m women
+13,CHN,yingying zhang,00:31:31.120,Beijing 2008,Athletics,10000m women
+14,JPN,yoko shibui,00:31:31.130,Beijing 2008,Athletics,10000m women
+15,KEN,peninah arusei,00:31:39.870,Beijing 2008,Athletics,10000m women
+16,RUS,tatiana aryasova,00:31:45.570,Beijing 2008,Athletics,10000m women
+17,JPN,yukiko akaba,00:32:00.370,Beijing 2008,Athletics,10000m women
+18,CHN,xue bai,00:32:20.270,Beijing 2008,Athletics,10000m women
+19,HUN,aniko kalovics,00:32:24.830,Beijing 2008,Athletics,10000m women
+20,GBR,kate reed,00:32:26.690,Beijing 2008,Athletics,10000m women
+21,BEL,nathalie de vos,00:32:33.450,Beijing 2008,Athletics,10000m women
+22,IND,preeja sreedharan,00:32:34.640,Beijing 2008,Athletics,10000m women
+23,USA,amy begley,00:32:38.280,Beijing 2008,Athletics,10000m women
+24,MEX,dulce maria rodriguez,00:32:58.040,Beijing 2008,Athletics,10000m women
+25,CHN,xiaoqin dong,00:33:03.140,Beijing 2008,Athletics,10000m women
+26,ESP,isabel checa,00:33:17.880,Beijing 2008,Athletics,10000m women
+27,MAR,asmae leghzaoui,Did not finish,Beijing 2008,Athletics,10000m women
+28,ETH,mestawet tufa,Did not finish,Beijing 2008,Athletics,10000m women
+29,TUR,elvan abeylegesse,Disqualified,Beijing 2008,Athletics,10000m women
+30,RUS,inga abitova,Disqualified,Beijing 2008,Athletics,10000m women
+31,UKR,nataliya berkut,Did not start,Beijing 2008,Athletics,10000m women
+0,USA,dawn harper,12.540,Beijing 2008,Athletics,100m hurdles women
+1,AUS,sally pearson,12.640,Beijing 2008,Athletics,100m hurdles women
+2,CAN,priscilla lopes-schliep,12.640,Beijing 2008,Athletics,100m hurdles women
+3,USA,damu cherry,12.650,Beijing 2008,Athletics,100m hurdles women
+4,JAM,delloreen ennis-london,12.650,Beijing 2008,Athletics,100m hurdles women
+5,JAM,brigitte foster-hylton,12.660,Beijing 2008,Athletics,100m hurdles women
+6,USA,lolo jones,12.720,Beijing 2008,Athletics,100m hurdles women
+7,GBR,sarah claxton,12.940,Beijing 2008,Athletics,100m hurdles women
+8,SWE,susanna kallur,,Beijing 2008,Athletics,100m hurdles women
+9,CUB,anay tejeda,,Beijing 2008,Athletics,100m hurdles women
+10,GUI,fatmata fofanah,,Beijing 2008,Athletics,100m hurdles women
+11,ESP,josephine nnkiruka onyia,Disqualified,Beijing 2008,Athletics,100m hurdles women
+0,JAM,usain bolt,09.690,Beijing 2008,Athletics,100m men
+1,TTO,richard thompson,09.890,Beijing 2008,Athletics,100m men
+2,USA,walter dix,09.910,Beijing 2008,Athletics,100m men
+3,AHO,churandy martina,09.930,Beijing 2008,Athletics,100m men
+4,JAM,asafa powell,09.950,Beijing 2008,Athletics,100m men
+5,JAM,michael frater,09.970,Beijing 2008,Athletics,100m men
+6,TTO,marc burns,10.010,Beijing 2008,Athletics,100m men
+7,USA,darvis patton,10.030,Beijing 2008,Athletics,100m men
+8,QAT,samuel francis,Disqualified,Beijing 2008,Athletics,100m men
+0,JAM,shelly-ann fraser-pryce,10.780,Beijing 2008,Athletics,100m women
+1,JAM,sherone simpson,10.980,Beijing 2008,Athletics,100m women
+2,JAM,kerron stewart,10.980,Beijing 2008,Athletics,100m women
+3,USA,lauryn williams,11.030,Beijing 2008,Athletics,100m women
+4,USA,muna lee,11.070,Beijing 2008,Athletics,100m women
+5,GBR,jeanette kwakye,11.140,Beijing 2008,Athletics,100m women
+6,BAH,debbie ferguson-mckenzie,11.190,Beijing 2008,Athletics,100m women
+7,USA,torri edwards,11.200,Beijing 2008,Athletics,100m women
+8,BUL,tezzhan naimova,Disqualified,Beijing 2008,Athletics,100m women
+0,CUB,dayron robles,12.930,Beijing 2008,Athletics,110m hurdles men
+1,USA,david payne,13.170,Beijing 2008,Athletics,110m hurdles men
+2,USA,david oliver,13.180,Beijing 2008,Athletics,110m hurdles men
+3,FRA,ladji doucoure,13.240,Beijing 2008,Athletics,110m hurdles men
+4,POL,artur noga,13.360,Beijing 2008,Athletics,110m hurdles men
+5,JAM,maurice wignall,13.460,Beijing 2008,Athletics,110m hurdles men
+6,JAM,richard phillips,13.600,Beijing 2008,Athletics,110m hurdles men
+7,ESP,jackson quinonez,13.690,Beijing 2008,Athletics,110m hurdles men
+8,QAT,mohammed issa al-thawadi,,Beijing 2008,Athletics,110m hurdles men
+9,USA,terrence trammell,,Beijing 2008,Athletics,110m hurdles men
+10,CHN,xiang liu,,Beijing 2008,Athletics,110m hurdles men
+11,LAT,stanislavs olijars,Did not start,Beijing 2008,Athletics,110m hurdles men
+0,KEN,asbel kiprop,00:03:33.110,Beijing 2008,Athletics,1500m men
+1,NZL,nick willis,00:03:34.160,Beijing 2008,Athletics,1500m men
+2,FRA,mehdi baala,00:03:34.210,Beijing 2008,Athletics,1500m men
+3,ESP,juan carlos higuero,00:03:34.440,Beijing 2008,Athletics,1500m men
+4,MAR,abdalaati iguider,00:03:34.660,Beijing 2008,Athletics,1500m men
+5,RSA,juan van deventer,00:03:34.770,Beijing 2008,Athletics,1500m men
+6,BRN,belal mansoor ali,00:03:35.230,Beijing 2008,Athletics,1500m men
+7,GBR,andrew baddeley,00:03:35.370,Beijing 2008,Athletics,1500m men
+8,KEN,augustine kiprono choge,00:03:35.500,Beijing 2008,Athletics,1500m men
+9,QAT,daham najim bashir,00:03:37.680,Beijing 2008,Athletics,1500m men
+10,ITA,christian obrist,00:03:39.870,Beijing 2008,Athletics,1500m men
+11,BRN,rashid ramzi,Disqualified,Beijing 2008,Athletics,1500m men
+12,MEX,juan luis barrios,Did not start,Beijing 2008,Athletics,1500m men
+13,UKR,ivan heshko,Did not start,Beijing 2008,Athletics,1500m men
+0,KEN,nancy jebet langat,00:04:00.230,Beijing 2008,Athletics,1500m women
+1,UKR,iryna lishchynska,00:04:01.630,Beijing 2008,Athletics,1500m women
+2,UKR,nataliya tobias,00:04:01.780,Beijing 2008,Athletics,1500m women
+3,GBR,lisa dobriskey,00:04:02.100,Beijing 2008,Athletics,1500m women
+4,BRN,maryam yusuf jamal,00:04:02.710,Beijing 2008,Athletics,1500m women
+5,ESP,natalia rodriguez,00:04:03.190,Beijing 2008,Athletics,1500m women
+6,USA,shannon rowbury,00:04:03.580,Beijing 2008,Athletics,1500m women
+7,ESP,iris fuentes-pila,00:04:04.860,Beijing 2008,Athletics,1500m women
+8,UKR,anna mishchenko,00:04:05.130,Beijing 2008,Athletics,1500m women
+9,MAR,siham hilali,00:04:05.570,Beijing 2008,Athletics,1500m women
+10,RUS,anna alminova,00:04:06.990,Beijing 2008,Athletics,1500m women
+11,MAR,btissam lakhouad,00:04:07.250,Beijing 2008,Athletics,1500m women
+0,JAM,usain bolt,19.300,Beijing 2008,Athletics,200m men
+1,USA,shawn crawford,19.960,Beijing 2008,Athletics,200m men
+2,USA,walter dix,19.980,Beijing 2008,Athletics,200m men
+3,ZIM,brian dzingai,20.220,Beijing 2008,Athletics,200m men
+4,GBR,christian malcolm,20.400,Beijing 2008,Athletics,200m men
+5,SKN,kim collins,20.590,Beijing 2008,Athletics,200m men
+6,AHO,churandy martina,Disqualified,Beijing 2008,Athletics,200m men
+7,USA,wallace spearmon,Disqualified,Beijing 2008,Athletics,200m men
+8,JAM,marvin anderson,,Beijing 2008,Athletics,200m men
+9,CAN,bryan barnett,,Beijing 2008,Athletics,200m men
+10,GBR,alex nelson,Did not start,Beijing 2008,Athletics,200m men
+11,QAT,samuel francis,Disqualified,Beijing 2008,Athletics,200m men
+12,POR,francis obikwelu,Did not start,Beijing 2008,Athletics,200m men
+0,JAM,veronica campbell-brown,21.740,Beijing 2008,Athletics,200m women
+1,USA,allyson felix,21.930,Beijing 2008,Athletics,200m women
+2,JAM,kerron stewart,22.000,Beijing 2008,Athletics,200m women
+3,USA,muna lee,22.010,Beijing 2008,Athletics,200m women
+4,USA,marshevet hooker,22.340,Beijing 2008,Athletics,200m women
+5,JAM,sherone simpson,22.360,Beijing 2008,Athletics,200m women
+6,BAH,debbie ferguson-mckenzie,22.610,Beijing 2008,Athletics,200m women
+7,CAY,cydonie mothersille,22.680,Beijing 2008,Athletics,200m women
+8,RUS,yuliya chermoshanskaya,Disqualified,Beijing 2008,Athletics,200m women
+9,BEL,kim gevaert,Did not start,Beijing 2008,Athletics,200m women
+10,GHA,vida anim,Did not start,Beijing 2008,Athletics,200m women
+0,RUS,olga kaniskina,01:26:31.000,Beijing 2008,Athletics,20km race walk women
+1,NOR,kjersti platzer,01:27:07.000,Beijing 2008,Athletics,20km race walk women
+2,ITA,elisa rigaudo,01:27:12.000,Beijing 2008,Athletics,20km race walk women
+3,CHN,hong liu,01:27:17.000,Beijing 2008,Athletics,20km race walk women
+4,ESP,maria vasco,01:27:25.000,Beijing 2008,Athletics,20km race walk women
+5,ESP,beatriz pascual,01:27:44.000,Beijing 2008,Athletics,20km race walk women
+6,IRL,olive loughnane,01:27:45.000,Beijing 2008,Athletics,20km race walk women
+7,POR,ana cabecinha,01:27:46.000,Beijing 2008,Athletics,20km race walk women
+8,POR,vera santos,01:28:14.000,Beijing 2008,Athletics,20km race walk women
+9,BLR,margarita turova,01:28:26.000,Beijing 2008,Athletics,20km race walk women
+10,RUS,tatiana sibileva,01:28:28.000,Beijing 2008,Athletics,20km race walk women
+11,CHN,na shi,01:29:08.000,Beijing 2008,Athletics,20km race walk women
+12,JPN,mayumi kawasaki,01:29:43.000,Beijing 2008,Athletics,20km race walk women
+13,GER,sabine krantz,01:30:19.000,Beijing 2008,Athletics,20km race walk women
+14,LTU,sonata milusauskaite,01:30:26.000,Beijing 2008,Athletics,20km race walk women
+15,UKR,vira zozulya,01:30:31.000,Beijing 2008,Athletics,20km race walk women
+16,ESP,maria jose poves,01:30:52.000,Beijing 2008,Athletics,20km race walk women
+17,LTU,kristina saltanovic,01:31:03.000,Beijing 2008,Athletics,20km race walk women
+18,AUS,jane saville,01:31:17.000,Beijing 2008,Athletics,20km race walk women
+19,POL,sylwia korzeniowska,01:31:19.000,Beijing 2008,Athletics,20km race walk women
+20,GBR,johanna jackson,01:31:33.000,Beijing 2008,Athletics,20km race walk women
+21,GER,melanie seeger,01:31:56.000,Beijing 2008,Athletics,20km race walk women
+22,ROU,ana maria groza,01:32:16.000,Beijing 2008,Athletics,20km race walk women
+23,GRE,evaggelia xinou,01:32:19.000,Beijing 2008,Athletics,20km race walk women
+24,JPN,sachiko konishi,01:32:21.000,Beijing 2008,Athletics,20km race walk women
+25,CZE,zuzana schindlerova,01:32:57.000,Beijing 2008,Athletics,20km race walk women
+26,AUS,claire tallent,01:33:02.000,Beijing 2008,Athletics,20km race walk women
+27,KOR,mi jeong kim,01:33:55.000,Beijing 2008,Athletics,20km race walk women
+28,KAZ,svetlana tolstaya,01:34:03.000,Beijing 2008,Athletics,20km race walk women
+29,USA,joanne dow,01:34:15.000,Beijing 2008,Athletics,20km race walk women
+30,SVK,zuzana malikova,01:34:33.000,Beijing 2008,Athletics,20km race walk women
+31,BLR,sniazhana yurchanka,01:35:33.000,Beijing 2008,Athletics,20km race walk women
+32,UKR,nadiya borovska,01:35:50.000,Beijing 2008,Athletics,20km race walk women
+33,COL,sandra zapata,01:36:18.000,Beijing 2008,Athletics,20km race walk women
+34,ECU,johana ordonez,01:36:26.000,Beijing 2008,Athletics,20km race walk women
+35,BRA,tania regina spindler,01:36:46.000,Beijing 2008,Athletics,20km race walk women
+36,ESA,veronica colindres,01:36:52.000,Beijing 2008,Athletics,20km race walk women
+37,HUN,edina fusti,01:37:03.000,Beijing 2008,Athletics,20km race walk women
+38,AUS,kellie wapshott,01:37:59.000,Beijing 2008,Athletics,20km race walk women
+39,GRE,despoina zapounidou,01:39:11.000,Beijing 2008,Athletics,20km race walk women
+40,LAT,jolanta dukure,01:41:03.000,Beijing 2008,Athletics,20km race walk women
+41,GUA,evelyn nunez,01:44:13.000,Beijing 2008,Athletics,20km race walk women
+42,POR,susana feitor,Did not finish,Beijing 2008,Athletics,20km race walk women
+43,MAS,yufang yuan,Did not finish,Beijing 2008,Athletics,20km race walk women
+44,RUS,tatyana kalmykova,Disqualified,Beijing 2008,Athletics,20km race walk women
+45,CHN,mingxia yang,Disqualified,Beijing 2008,Athletics,20km race walk women
+46,BLR,elena ginko,Disqualified,Beijing 2008,Athletics,20km race walk women
+47,GRE,athanasia tsoumeleka,Disqualified,Beijing 2008,Athletics,20km race walk women
 0,RUS,valeriy borchin,01:19:01.000,Beijing 2008,Athletics,20km walk men
 1,ECU,jefferson perez,01:19:15.000,Beijing 2008,Athletics,20km walk men
 2,AUS,jared tallent,01:19:42.000,Beijing 2008,Athletics,20km walk men

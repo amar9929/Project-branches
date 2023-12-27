@@ -1,0 +1,92 @@
+,country,participant,result,olympic_game,discipline,event
+0,USA,warren paoa kealoha,00:01:13.200,Paris 1924,Swimming,100m backstroke men
+1,USA,paul wyatt,00:01:15.400,Paris 1924,Swimming,100m backstroke men
+2,HUN,károly bartha,00:01:17.800,Paris 1924,Swimming,100m backstroke men
+3,BEL,gerard blitz,00:01:19.600,Paris 1924,Swimming,100m backstroke men
+4,GBR,austin rawlinson,00:01:20.000,Paris 1924,Swimming,100m backstroke men
+5,USA,henry luning,Disqualified,Paris 1924,Swimming,100m backstroke men
+6,ARG,juan behrensen,Did not start,Paris 1924,Swimming,100m backstroke men
+7,HUN,aladár bitskey,Did not start,Paris 1924,Swimming,100m backstroke men
+8,ITA,emilio polli,Did not start,Paris 1924,Swimming,100m backstroke men
+9,TCH,václav bičák,Did not start,Paris 1924,Swimming,100m backstroke men
+10,TCH,j. vodicka,Did not start,Paris 1924,Swimming,100m backstroke men
+11,YUG,b. deak,Did not start,Paris 1924,Swimming,100m backstroke men
+12,YUG,z. mirkovic,Did not start,Paris 1924,Swimming,100m backstroke men
+0,USA,sybil bauer,00:01:23.200,Paris 1924,Swimming,100m backstroke women
+1,GBR,phyllis harding,00:01:27.400,Paris 1924,Swimming,100m backstroke women
+2,USA,aileen riggin,00:01:28.200,Paris 1924,Swimming,100m backstroke women
+3,USA,florence chambers,00:01:30.800,Paris 1924,Swimming,100m backstroke women
+4,TCH,jarmila müllerova,00:01:31.200,Paris 1924,Swimming,100m backstroke women
+5,DEN,rigmor olsen,Did not start,Paris 1924,Swimming,100m backstroke women
+0,USA,johnny weissmuller,59.000,Paris 1924,Swimming,100m freestyle men
+1,USA,duke paoa kahanamoku,00:01:01.400,Paris 1924,Swimming,100m freestyle men
+2,USA,sam kahanamoku,00:01:01.800,Paris 1924,Swimming,100m freestyle men
+3,SWE,arne borg,00:01:02.000,Paris 1924,Swimming,100m freestyle men
+4,JPN,katsuo takaishi,00:01:03.000,Paris 1924,Swimming,100m freestyle men
+5,HUN,l. henyeri,Did not start,Paris 1924,Swimming,100m freestyle men
+6,HUN,a. turnovsky,Did not start,Paris 1924,Swimming,100m freestyle men
+0,USA,ethel lackie,00:01:12.400,Paris 1924,Swimming,100m freestyle women
+1,USA,mariechen wehselau,00:01:12.800,Paris 1924,Swimming,100m freestyle women
+2,USA,gertrude ederle,00:01:14.200,Paris 1924,Swimming,100m freestyle women
+3,GBR,constance mabel jeans,00:01:15.400,Paris 1924,Swimming,100m freestyle women
+4,GBR,vera tanner,00:01:20.800,Paris 1924,Swimming,100m freestyle women
+5,FRA,gilberte mortier,Did not start,Paris 1924,Swimming,100m freestyle women
+6,NED,mietje baron,Did not start,Paris 1924,Swimming,100m freestyle women
+7,NED,alida cornelia bolten,Did not start,Paris 1924,Swimming,100m freestyle women
+8,TCH,eva chaloupkova,Did not start,Paris 1924,Swimming,100m freestyle women
+0,AUS,andrew murray charlton,00:20:06.600,Paris 1924,Swimming,1500m freestyle men
+1,SWE,arne borg,00:20:41.400,Paris 1924,Swimming,1500m freestyle men
+2,AUS,frank de beaurepaire,00:21:48.400,Paris 1924,Swimming,1500m freestyle men
+3,GBR,john gatenby hatfield,00:21:55.600,Paris 1924,Swimming,1500m freestyle men
+4,JPN,katsuo takaishi,00:22:10.400,Paris 1924,Swimming,1500m freestyle men
+5,FRA,gustave klein,Did not finish,Paris 1924,Swimming,1500m freestyle men
+6,JPN,kazuo onoda,Did not finish,Paris 1924,Swimming,1500m freestyle men
+7,YUG,antun roje,Did not finish,Paris 1924,Swimming,1500m freestyle men
+8,HUN,zoltán bitskey,Did not start,Paris 1924,Swimming,1500m freestyle men
+9,HUN,b. eperjessy,Did not start,Paris 1924,Swimming,1500m freestyle men
+10,HUN,e. sereny,Did not start,Paris 1924,Swimming,1500m freestyle men
+11,ITA,gianni patrignani,Did not start,Paris 1924,Swimming,1500m freestyle men
+12,YUG,đuro sentđerđi,Did not start,Paris 1924,Swimming,1500m freestyle men
+0,USA,robert skelton,00:02:56.600,Paris 1924,Swimming,200m breaststroke men
+1,BEL,joseph de combe,00:02:59.200,Paris 1924,Swimming,200m breaststroke men
+2,USA,bill kirschbaum,00:03:01.000,Paris 1924,Swimming,200m breaststroke men
+3,SWE,bengt linders,00:03:02.200,Paris 1924,Swimming,200m breaststroke men
+4,SUI,robert wyss,00:03:05.600,Paris 1924,Swimming,200m breaststroke men
+5,USA,john faricey,Did not start,Paris 1924,Swimming,200m breaststroke men
+6,YUG,b. deak,Did not start,Paris 1924,Swimming,200m breaststroke men
+0,GBR,lucille morton,00:03:33.200,Paris 1924,Swimming,200m breaststroke women
+1,USA,agnes geraghty,00:03:34.000,Paris 1924,Swimming,200m breaststroke women
+2,GBR,gladys carson,00:03:35.400,Paris 1924,Swimming,200m breaststroke women
+3,SWE,wivan pettersson,00:03:37.600,Paris 1924,Swimming,200m breaststroke women
+4,GBR,irene gilbert,00:03:38.000,Paris 1924,Swimming,200m breaststroke women
+5,LUX,laury koster,00:03:39.200,Paris 1924,Swimming,200m breaststroke women
+6,SWE,hjördis töpel,00:03:47.600,Paris 1924,Swimming,200m breaststroke women
+7,NED,mietje baron,Disqualified,Paris 1924,Swimming,200m breaststroke women
+0,USA,johnny weissmuller,00:05:04.200,Paris 1924,Swimming,400m freestyle men
+1,SWE,arne borg,00:05:05.600,Paris 1924,Swimming,400m freestyle men
+2,AUS,andrew murray charlton,00:05:06.600,Paris 1924,Swimming,400m freestyle men
+3,SWE,ake borg,00:05:26.000,Paris 1924,Swimming,400m freestyle men
+4,GBR,john gatenby hatfield,00:05:32.000,Paris 1924,Swimming,400m freestyle men
+5,GRE,andreas assimakopoulos,Did not start,Paris 1924,Swimming,400m freestyle men
+6,HUN,b. eperjessy,Did not start,Paris 1924,Swimming,400m freestyle men
+7,ITA,renato bacigalupo,Did not start,Paris 1924,Swimming,400m freestyle men
+8,JPN,katsuo takaishi,Did not start,Paris 1924,Swimming,400m freestyle men
+0,USA,martha norelius,00:06:02.200,Paris 1924,Swimming,400m freestyle women
+1,USA,helen wainwright,00:06:03.800,Paris 1924,Swimming,400m freestyle women
+2,USA,gertrude ederle,00:06:04.800,Paris 1924,Swimming,400m freestyle women
+3,GBR,doris molesworth,00:06:25.400,Paris 1924,Swimming,400m freestyle women
+4,NZL,gwitha shand,Did not finish,Paris 1924,Swimming,400m freestyle women
+5,DEN,m. hansen,Did not start,Paris 1924,Swimming,400m freestyle women
+0,,,00:04:58.800,Paris 1924,Swimming,4x100m freestyle relay women
+1,,,00:05:17.000,Paris 1924,Swimming,4x100m freestyle relay women
+2,,,00:05:35.600,Paris 1924,Swimming,4x100m freestyle relay women
+3,,,00:05:42.400,Paris 1924,Swimming,4x100m freestyle relay women
+4,,,00:05:43.400,Paris 1924,Swimming,4x100m freestyle relay women
+5,,,00:05:45.800,Paris 1924,Swimming,4x100m freestyle relay women
+0,,,,Paris 1924,Swimming,4x200m freestyle relay men
+1,,,,Paris 1924,Swimming,4x200m freestyle relay men
+2,,,,Paris 1924,Swimming,4x200m freestyle relay men
+3,,,,Paris 1924,Swimming,4x200m freestyle relay men
+4,,,,Paris 1924,Swimming,4x200m freestyle relay men
+5,,,Did not start,Paris 1924,Swimming,4x200m freestyle relay men
+6,,,Did not start,Paris 1924,Swimming,4x200m freestyle relay men

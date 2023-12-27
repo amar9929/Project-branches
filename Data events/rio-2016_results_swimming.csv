@@ -1,4 +1,462 @@
 ,country,participant,result,olympic_game,discipline,event
+0,USA,ryan murphy,OR,Rio 2016,Swimming,100m backstroke men
+1,CHN,jiayu xu,,Rio 2016,Swimming,100m backstroke men
+2,USA,david plummer,,Rio 2016,Swimming,100m backstroke men
+3,AUS,mitchell larkin,,Rio 2016,Swimming,100m backstroke men
+4,FRA,camille lacourt,,Rio 2016,Swimming,100m backstroke men
+5,RUS,evgeny rylov,,Rio 2016,Swimming,100m backstroke men
+6,JPN,ryosuke irie,,Rio 2016,Swimming,100m backstroke men
+7,ROU,robert glinta,,Rio 2016,Swimming,100m backstroke men
+8,RUS,grigory tarasevich,,Rio 2016,Swimming,100m backstroke men
+9,RSA,christopher patrick reid,,Rio 2016,Swimming,100m backstroke men
+10,GBR,chris walker-hebborn,,Rio 2016,Swimming,100m backstroke men
+11,GER,jan-philip glania,,Rio 2016,Swimming,100m backstroke men
+12,AUS,joshua beaver,,Rio 2016,Swimming,100m backstroke men
+13,BRA,guilherme guido,,Rio 2016,Swimming,100m backstroke men
+14,NZL,corey main,,Rio 2016,Swimming,100m backstroke men
+15,IRL,shane ryan,,Rio 2016,Swimming,100m backstroke men
+16,CAN,javier acevedo,,Rio 2016,Swimming,100m backstroke men
+17,GRE,apostolos christou,,Rio 2016,Swimming,100m backstroke men
+18,JPN,junya hasegawa,,Rio 2016,Swimming,100m backstroke men
+19,ESP,hugo gonzalez de oliveira,,Rio 2016,Swimming,100m backstroke men
+20,CHN,guangyuan li,,Rio 2016,Swimming,100m backstroke men
+21,SGP,zheng wen quah,,Rio 2016,Swimming,100m backstroke men
+22,POL,radoslaw kawecki,,Rio 2016,Swimming,100m backstroke men
+23,LTU,danas rapsys,,Rio 2016,Swimming,100m backstroke men
+24,HUN,gabor balog,,Rio 2016,Swimming,100m backstroke men
+25,POL,tomasz polewka,,Rio 2016,Swimming,100m backstroke men
+26,ISR,yakov toumarkin,,Rio 2016,Swimming,100m backstroke men
+27,ITA,simone sabbioni,,Rio 2016,Swimming,100m backstroke men
+28,BLR,mikita tsmyh,,Rio 2016,Swimming,100m backstroke men
+29,KOR,youngjun won,,Rio 2016,Swimming,100m backstroke men
+30,VEN,albert subirats,,Rio 2016,Swimming,100m backstroke men
+31,BLR,viktar staselovich,,Rio 2016,Swimming,100m backstroke men
+32,TKM,merdan atayev,,Rio 2016,Swimming,100m backstroke men
+33,JAM,timothy wynter,,Rio 2016,Swimming,100m backstroke men
+34,BOT,david van der colff,,Rio 2016,Swimming,100m backstroke men
+35,MAR,driss lahrichi,,Rio 2016,Swimming,100m backstroke men
+36,UAE,yaaqoub alsaadi,,Rio 2016,Swimming,100m backstroke men
+37,KEN,hamdan bayusuf,,Rio 2016,Swimming,100m backstroke men
+38,QAT,noah al-khulaifi,,Rio 2016,Swimming,100m backstroke men
+0,HUN,katinka hosszu,,Rio 2016,Swimming,100m backstroke women
+1,USA,kathleen baker,,Rio 2016,Swimming,100m backstroke women
+2,CAN,kylie masse,,Rio 2016,Swimming,100m backstroke women
+3,CHN,yuanhui fu,,Rio 2016,Swimming,100m backstroke women
+4,DEN,mie nielsen,,Rio 2016,Swimming,100m backstroke women
+5,USA,olivia smoliga,,Rio 2016,Swimming,100m backstroke women
+6,AUS,emily seebohm,,Rio 2016,Swimming,100m backstroke women
+7,AUS,madison wilson,,Rio 2016,Swimming,100m backstroke women
+8,RUS,anastasia zueva,,Rio 2016,Swimming,100m backstroke women
+9,GBR,georgia davies,,Rio 2016,Swimming,100m backstroke women
+10,ZIM,kirsty leigh coventry,,Rio 2016,Swimming,100m backstroke women
+11,CAN,dominique bouchard,,Rio 2016,Swimming,100m backstroke women
+12,CRO,matea samardzic,,Rio 2016,Swimming,100m backstroke women
+13,ISL,eyglo gustafsdottir,,Rio 2016,Swimming,100m backstroke women
+14,ESP,duane da rocha marce,,Rio 2016,Swimming,100m backstroke women
+15,CHN,xueer wang,,Rio 2016,Swimming,100m backstroke women
+16,CZE,simona baumrtova,,Rio 2016,Swimming,100m backstroke women
+17,NED,kira toussaint,,Rio 2016,Swimming,100m backstroke women
+18,HKG,claudia lau,,Rio 2016,Swimming,100m backstroke women
+19,KAZ,yekaterina rudenko,,Rio 2016,Swimming,100m backstroke women
+20,POL,alicja tchorz,,Rio 2016,Swimming,100m backstroke women
+21,SVK,katarina listopadova,,Rio 2016,Swimming,100m backstroke women
+22,RUS,daria ustinova,,Rio 2016,Swimming,100m backstroke women
+23,FIN,mimosa jallow,,Rio 2016,Swimming,100m backstroke women
+24,BRA,etiene medeiros,,Rio 2016,Swimming,100m backstroke women
+25,JPN,natsumi sakai,,Rio 2016,Swimming,100m backstroke women
+26,SEY,alexus laird,,Rio 2016,Swimming,100m backstroke women
+27,SRI,kimiko raheem,,Rio 2016,Swimming,100m backstroke women
+28,CAY,lara butler,,Rio 2016,Swimming,100m backstroke women
+29,ISV,caylee watson,,Rio 2016,Swimming,100m backstroke women
+30,NEP,gaurika singh,,Rio 2016,Swimming,100m backstroke women
+31,SAM,evelina afoa,,Rio 2016,Swimming,100m backstroke women
+32,KEN,talisa lanoe,,Rio 2016,Swimming,100m backstroke women
+33,KOS,rita zeqiri,,Rio 2016,Swimming,100m backstroke women
+0,GBR,adam peaty,WR,Rio 2016,Swimming,100m breaststroke men
+1,RSA,cameron van der burgh,,Rio 2016,Swimming,100m breaststroke men
+2,USA,cody miller,,Rio 2016,Swimming,100m breaststroke men
+3,USA,kevin cordes,,Rio 2016,Swimming,100m breaststroke men
+4,BRA,joao gomes,,Rio 2016,Swimming,100m breaststroke men
+5,JPN,yasuhiro koseki,,Rio 2016,Swimming,100m breaststroke men
+6,BRA,felipe franca,,Rio 2016,Swimming,100m breaststroke men
+7,KAZ,dmitriy balandin,,Rio 2016,Swimming,100m breaststroke men
+8,AUS,jake packard,,Rio 2016,Swimming,100m breaststroke men
+9,LTU,giedrius titenis,,Rio 2016,Swimming,100m breaststroke men
+10,GBR,ross murdoch,,Rio 2016,Swimming,100m breaststroke men
+11,GER,christian vom lehn,,Rio 2016,Swimming,100m breaststroke men
+12,CHN,xiang li,,Rio 2016,Swimming,100m breaststroke men
+13,RUS,vsevolod zanko,,Rio 2016,Swimming,100m breaststroke men
+14,NZL,glenn snyders,,Rio 2016,Swimming,100m breaststroke men
+15,COL,jorge mario murillo valdes,,Rio 2016,Swimming,100m breaststroke men
+16,HUN,daniel gyurta,,Rio 2016,Swimming,100m breaststroke men
+17,JPN,ippei watanabe,,Rio 2016,Swimming,100m breaststroke men
+18,GRE,panagiotis samilidis,,Rio 2016,Swimming,100m breaststroke men
+19,RUS,kirill prigoda,,Rio 2016,Swimming,100m breaststroke men
+20,SLO,damir dugonjic,,Rio 2016,Swimming,100m breaststroke men
+21,ITA,andrea toniato,,Rio 2016,Swimming,100m breaststroke men
+22,LTU,andrius sidlauskas,,Rio 2016,Swimming,100m breaststroke men
+23,SUI,yannick kaeser,,Rio 2016,Swimming,100m breaststroke men
+24,CAN,jason block,,Rio 2016,Swimming,100m breaststroke men
+25,SRB,caba siladi,,Rio 2016,Swimming,100m breaststroke men
+26,LUX,laurent carnol,,Rio 2016,Swimming,100m breaststroke men
+27,CHN,zibei yan,,Rio 2016,Swimming,100m breaststroke men
+28,POL,marcin stolarski,,Rio 2016,Swimming,100m breaststroke men
+29,VEN,jesus herrada lopez,,Rio 2016,Swimming,100m breaststroke men
+30,AUS,joshua palmer,,Rio 2016,Swimming,100m breaststroke men
+31,SWE,erik persson,,Rio 2016,Swimming,100m breaststroke men
+32,IRL,nicholas quinn,,Rio 2016,Swimming,100m breaststroke men
+33,UZB,vladislav mustafin,,Rio 2016,Swimming,100m breaststroke men
+34,ISL,anton mckee,,Rio 2016,Swimming,100m breaststroke men
+35,SYR,azad albarzi,,Rio 2016,Swimming,100m breaststroke men
+36,THA,radomyos matjiur,,Rio 2016,Swimming,100m breaststroke men
+37,FIN,matti mattsson,,Rio 2016,Swimming,100m breaststroke men
+38,URU,martin andres melconian alvez,,Rio 2016,Swimming,100m breaststroke men
+39,BER,julian fletcher,,Rio 2016,Swimming,100m breaststroke men
+40,PAN,edgar crespo,,Rio 2016,Swimming,100m breaststroke men
+41,SVK,tomas klobucnik,,Rio 2016,Swimming,100m breaststroke men
+42,GUM,benjamin schulte,,Rio 2016,Swimming,100m breaststroke men
+43,BAH,dustin tynes,,Rio 2016,Swimming,100m breaststroke men
+44,TGA,amini fonua,,Rio 2016,Swimming,100m breaststroke men
+45,GRN,corey ollivierre,,Rio 2016,Swimming,100m breaststroke men
+0,USA,lilly king,OR,Rio 2016,Swimming,100m breaststroke women
+1,RUS,yuliya efimova,,Rio 2016,Swimming,100m breaststroke women
+2,USA,katie meili,,Rio 2016,Swimming,100m breaststroke women
+3,CHN,jinglin shi,,Rio 2016,Swimming,100m breaststroke women
+4,CAN,rachel nicol,,Rio 2016,Swimming,100m breaststroke women
+5,ISL,hrafnhildur luthersdottir,,Rio 2016,Swimming,100m breaststroke women
+6,LTU,ruta meilutyte,,Rio 2016,Swimming,100m breaststroke women
+7,JAM,alia atkinson,,Rio 2016,Swimming,100m breaststroke women
+8,SWE,jennie johansson,,Rio 2016,Swimming,100m breaststroke women
+9,DEN,rikke moller pedersen,,Rio 2016,Swimming,100m breaststroke women
+10,AUS,taylor mckeown,,Rio 2016,Swimming,100m breaststroke women
+11,JPN,satomi suzuki,,Rio 2016,Swimming,100m breaststroke women
+12,GBR,chloe tutton,,Rio 2016,Swimming,100m breaststroke women
+13,TUR,viktoria zeynep gunes,,Rio 2016,Swimming,100m breaststroke women
+14,JPN,kanako watanabe,,Rio 2016,Swimming,100m breaststroke women
+15,ESP,jessica vall montero,,Rio 2016,Swimming,100m breaststroke women
+16,ITA,arianna castiglioni,,Rio 2016,Swimming,100m breaststroke women
+17,FIN,jenna laukkanen,,Rio 2016,Swimming,100m breaststroke women
+18,CAN,kierra smith,,Rio 2016,Swimming,100m breaststroke women
+19,ITA,martina carraro,,Rio 2016,Swimming,100m breaststroke women
+20,IRL,fiona doyle,,Rio 2016,Swimming,100m breaststroke women
+21,CHN,xinyu zhang,,Rio 2016,Swimming,100m breaststroke women
+22,GBR,molly renshaw,,Rio 2016,Swimming,100m breaststroke women
+23,AUS,georgia bohl,,Rio 2016,Swimming,100m breaststroke women
+24,HUN,anna sztankovics,,Rio 2016,Swimming,100m breaststroke women
+25,CZE,martina moravcikova,,Rio 2016,Swimming,100m breaststroke women
+26,SWE,sophie hansson,,Rio 2016,Swimming,100m breaststroke women
+27,BEL,fanny lecluyse,,Rio 2016,Swimming,100m breaststroke women
+28,RUS,daria chikunova,,Rio 2016,Swimming,100m breaststroke women
+29,ISR,amit ivry,,Rio 2016,Swimming,100m breaststroke women
+30,EST,maria romanjuk,,Rio 2016,Swimming,100m breaststroke women
+31,HKG,yvette man-yi kong,,Rio 2016,Swimming,100m breaststroke women
+32,MAS,jinq en phee,,Rio 2016,Swimming,100m breaststroke women
+33,KGZ,daria talanova,,Rio 2016,Swimming,100m breaststroke women
+34,SLO,tjasa vozel,,Rio 2016,Swimming,100m breaststroke women
+35,MDA,tatiana chisca,,Rio 2016,Swimming,100m breaststroke women
+36,SUR,evita leter,,Rio 2016,Swimming,100m breaststroke women
+37,GUM,pilar shimizu,,Rio 2016,Swimming,100m breaststroke women
+38,VIN,izzy joachim,,Rio 2016,Swimming,100m breaststroke women
+39,UGA,jamila lunkuse,,Rio 2016,Swimming,100m breaststroke women
+40,TKM,darya semyonova,,Rio 2016,Swimming,100m breaststroke women
+41,NGR,rechael tonjor,,Rio 2016,Swimming,100m breaststroke women
+42,GEO,teona bostashvili,,Rio 2016,Swimming,100m breaststroke women
+43,LBA,daniah hagul,,Rio 2016,Swimming,100m breaststroke women
+0,SGP,joseph schooling,OR,Rio 2016,Swimming,100m butterfly men
+1,USA,michael phelps,,Rio 2016,Swimming,100m butterfly men
+2,RSA,chad le clos,,Rio 2016,Swimming,100m butterfly men
+3,HUN,laszlo cseh,,Rio 2016,Swimming,100m butterfly men
+4,CHN,zhuhao li,,Rio 2016,Swimming,100m butterfly men
+5,FRA,mehdy metella,,Rio 2016,Swimming,100m butterfly men
+6,USA,tom shields,,Rio 2016,Swimming,100m butterfly men
+7,RUS,aleksandr sadovnikov,,Rio 2016,Swimming,100m butterfly men
+8,AUS,david morgan,,Rio 2016,Swimming,100m butterfly men
+9,POL,konrad czerniak,,Rio 2016,Swimming,100m butterfly men
+10,ITA,piero codia,,Rio 2016,Swimming,100m butterfly men
+11,CAN,santo condorelli,,Rio 2016,Swimming,100m butterfly men
+12,AUS,grant irvine,,Rio 2016,Swimming,100m butterfly men
+13,GBR,james guy,,Rio 2016,Swimming,100m butterfly men
+14,SGP,zheng wen quah,,Rio 2016,Swimming,100m butterfly men
+15,RUS,evgeny koptelov,,Rio 2016,Swimming,100m butterfly men
+16,FRA,jeremy stravius,,Rio 2016,Swimming,100m butterfly men
+17,GER,steffen deibler,,Rio 2016,Swimming,100m butterfly men
+18,GUA,luis martinez,,Rio 2016,Swimming,100m butterfly men
+19,JPN,takuro fujii,,Rio 2016,Swimming,100m butterfly men
+20,BRA,henrique martins,,Rio 2016,Swimming,100m butterfly men
+21,NED,joeri verlinden,,Rio 2016,Swimming,100m butterfly men
+22,UKR,liubomyr lemeshko,,Rio 2016,Swimming,100m butterfly men
+23,ARG,santiago grassi,,Rio 2016,Swimming,100m butterfly men
+24,ITA,matteo rivolta,,Rio 2016,Swimming,100m butterfly men
+25,HUN,bence pulai,,Rio 2016,Swimming,100m butterfly men
+26,CHN,qibin zhang,,Rio 2016,Swimming,100m butterfly men
+27,BLR,pavel sankovich,,Rio 2016,Swimming,100m butterfly men
+28,VEN,albert subirats,,Rio 2016,Swimming,100m butterfly men
+29,PNG,ryan pini,,Rio 2016,Swimming,100m butterfly men
+30,BLR,yauhen tsurkin,,Rio 2016,Swimming,100m butterfly men
+31,MEX,long gutierrez feng,,Rio 2016,Swimming,100m butterfly men
+32,POL,pawel korzeniowski,,Rio 2016,Swimming,100m butterfly men
+33,BRA,marcos macedo,,Rio 2016,Swimming,100m butterfly men
+34,INA,glenn sutanto,,Rio 2016,Swimming,100m butterfly men
+35,IOA,abbas qali,,Rio 2016,Swimming,100m butterfly men
+36,MAD,anthonny sitraka ralefy,,Rio 2016,Swimming,100m butterfly men
+37,ZAM,ralph goveia assafrao,,Rio 2016,Swimming,100m butterfly men
+38,HON,allan gutierrez,,Rio 2016,Swimming,100m butterfly men
+39,EOR,rami anis,,Rio 2016,Swimming,100m butterfly men
+40,MLI,oumar toure,,Rio 2016,Swimming,100m butterfly men
+41,GUY,hannibal gaskin,,Rio 2016,Swimming,100m butterfly men
+42,MYA,thint myaat,,Rio 2016,Swimming,100m butterfly men
+0,SWE,sarah sjoestroem,WR,Rio 2016,Swimming,100m butterfly women
+1,CAN,penny oleksiak,,Rio 2016,Swimming,100m butterfly women
+2,USA,dana vollmer,,Rio 2016,Swimming,100m butterfly women
+3,CHN,ying lu,,Rio 2016,Swimming,100m butterfly women
+4,JPN,rikako ikee,,Rio 2016,Swimming,100m butterfly women
+5,AUS,emma mckeon,,Rio 2016,Swimming,100m butterfly women
+6,DEN,jeanette ottesen,,Rio 2016,Swimming,100m butterfly women
+7,USA,kelsi worrell,,Rio 2016,Swimming,100m butterfly women
+8,KOR,sehyeon an,,Rio 2016,Swimming,100m butterfly women
+9,JPN,natsumi hoshi,,Rio 2016,Swimming,100m butterfly women
+10,EGY,farida osman,,Rio 2016,Swimming,100m butterfly women
+11,HUN,liliana szilagyi,,Rio 2016,Swimming,100m butterfly women
+12,BRA,daiene marcal,,Rio 2016,Swimming,100m butterfly women
+13,BEL,kimberly buys,,Rio 2016,Swimming,100m butterfly women
+14,BRA,daynara de paula,,Rio 2016,Swimming,100m butterfly women
+15,AUS,madeline groves,,Rio 2016,Swimming,100m butterfly women
+16,GRE,anna ntountounaki,,Rio 2016,Swimming,100m butterfly women
+17,CAN,noemie thomas,,Rio 2016,Swimming,100m butterfly women
+18,RUS,svetlana chimrova,,Rio 2016,Swimming,100m butterfly women
+19,ITA,ilaria bianchi,,Rio 2016,Swimming,100m butterfly women
+20,GER,alexandra wenk,,Rio 2016,Swimming,100m butterfly women
+21,GRE,kristel vourna,,Rio 2016,Swimming,100m butterfly women
+22,FRA,marie wattel,,Rio 2016,Swimming,100m butterfly women
+23,FRA,beryl gastaldello,,Rio 2016,Swimming,100m butterfly women
+24,RUS,nataliya lovtsova,,Rio 2016,Swimming,100m butterfly women
+25,ISR,amit ivry,,Rio 2016,Swimming,100m butterfly women
+26,SUI,danielle villars,,Rio 2016,Swimming,100m butterfly women
+27,CZE,lucie svecena,,Rio 2016,Swimming,100m butterfly women
+28,SVK,katarina listopadova,,Rio 2016,Swimming,100m butterfly women
+29,ESP,judit ignacio,,Rio 2016,Swimming,100m butterfly women
+30,SWE,louise hansson,,Rio 2016,Swimming,100m butterfly women
+31,NZL,helena gasson,,Rio 2016,Swimming,100m butterfly women
+32,UKR,dar'ia stepaniuk,,Rio 2016,Swimming,100m butterfly women
+33,SGP,ting wen quah,,Rio 2016,Swimming,100m butterfly women
+34,BIH,amina kajtaz,,Rio 2016,Swimming,100m butterfly women
+35,CRC,marie laura meza,,Rio 2016,Swimming,100m butterfly women
+36,CYP,sotiria neofytou,,Rio 2016,Swimming,100m butterfly women
+37,MOZ,jannah sonnenschein,,Rio 2016,Swimming,100m butterfly women
+38,NCA,dalia torrez,,Rio 2016,Swimming,100m butterfly women
+39,XXB,yusra mardini,,Rio 2016,Swimming,100m butterfly women
+40,GRN,oreoluwa cherebin,,Rio 2016,Swimming,100m butterfly women
+41,YEM,nooran ahmed ali ba matraf,,Rio 2016,Swimming,100m butterfly women
+42,RWA,johanna umurungi,,Rio 2016,Swimming,100m butterfly women
+43,QAT,nada arakji,,Rio 2016,Swimming,100m butterfly women
+44,CHN,xinyi chen,Disqualified,Rio 2016,Swimming,100m butterfly women
+0,AUS,kyle chalmers,,Rio 2016,Swimming,100m freestyle men
+1,BEL,pieter timmers,,Rio 2016,Swimming,100m freestyle men
+2,USA,nathan adrian,,Rio 2016,Swimming,100m freestyle men
+3,CAN,santo condorelli,,Rio 2016,Swimming,100m freestyle men
+4,GBR,duncan scott,,Rio 2016,Swimming,100m freestyle men
+5,USA,caeleb dressel,,Rio 2016,Swimming,100m freestyle men
+6,AUS,cameron mcevoy,,Rio 2016,Swimming,100m freestyle men
+7,BRA,marcelo chierighini,,Rio 2016,Swimming,100m freestyle men
+8,RUS,vladimir morozov,,Rio 2016,Swimming,100m freestyle men
+9,NED,sebastiaan verschuren,,Rio 2016,Swimming,100m freestyle men
+10,CAN,yuri kisil,,Rio 2016,Swimming,100m freestyle men
+11,CHN,zetao ning,,Rio 2016,Swimming,100m freestyle men
+12,ITA,luca dotto,,Rio 2016,Swimming,100m freestyle men
+13,FRA,clement mignon,,Rio 2016,Swimming,100m freestyle men
+14,GER,damian wierling,,Rio 2016,Swimming,100m freestyle men
+15,SGP,joseph schooling,,Rio 2016,Swimming,100m freestyle men
+16,JPN,katsumi nakamura,,Rio 2016,Swimming,100m freestyle men
+17,FRA,jeremy stravius,,Rio 2016,Swimming,100m freestyle men
+18,BEL,glenn surgeloose,,Rio 2016,Swimming,100m freestyle men
+19,GRE,kristian gkolomeev,,Rio 2016,Swimming,100m freestyle men
+20,RUS,andrey grechin,,Rio 2016,Swimming,100m freestyle men
+21,ARG,federico grabich,,Rio 2016,Swimming,100m freestyle men
+22,TTO,dylan carter,,Rio 2016,Swimming,100m freestyle men
+23,HUN,richard bohus,,Rio 2016,Swimming,100m freestyle men
+24,CHN,hexin yu,,Rio 2016,Swimming,100m freestyle men
+25,HUN,dominik kozma,,Rio 2016,Swimming,100m freestyle men
+26,JPN,shinri shioura,,Rio 2016,Swimming,100m freestyle men
+27,BRA,nicolas nilo,,Rio 2016,Swimming,100m freestyle men
+28,GBR,ben proud,,Rio 2016,Swimming,100m freestyle men
+29,LTU,simonas bilis,,Rio 2016,Swimming,100m freestyle men
+30,ALG,oussama sahnoune,,Rio 2016,Swimming,100m freestyle men
+31,KOR,tae-hwan park,,Rio 2016,Swimming,100m freestyle men
+32,SRB,velimir stjepanovic,,Rio 2016,Swimming,100m freestyle men
+33,VEN,cristian quintero,,Rio 2016,Swimming,100m freestyle men
+34,BLR,yauhen tsurkin,,Rio 2016,Swimming,100m freestyle men
+35,SLO,anze tavcar,,Rio 2016,Swimming,100m freestyle men
+36,ITA,filippo magnini,,Rio 2016,Swimming,100m freestyle men
+37,ROU,marius radu,,Rio 2016,Swimming,100m freestyle men
+38,GER,bjorn hornikel,,Rio 2016,Swimming,100m freestyle men
+39,IRL,shane ryan,,Rio 2016,Swimming,100m freestyle men
+40,BUL,aleksandar nikolov,,Rio 2016,Swimming,100m freestyle men
+41,FIN,ari-pekka liukkonen,,Rio 2016,Swimming,100m freestyle men
+42,NZL,matt stanley,,Rio 2016,Swimming,100m freestyle men
+43,PAR,benjamin hockin,,Rio 2016,Swimming,100m freestyle men
+44,MOZ,igor mogne,,Rio 2016,Swimming,100m freestyle men
+45,ISR,ziv kalontarov,,Rio 2016,Swimming,100m freestyle men
+46,LUX,raphael stacchiotti,,Rio 2016,Swimming,100m freestyle men
+47,ZIM,sean michael gunn,,Rio 2016,Swimming,100m freestyle men
+48,MRI,bradley vincent,,Rio 2016,Swimming,100m freestyle men
+49,SRI,matthew duncan abeysinghe,,Rio 2016,Swimming,100m freestyle men
+50,MLT,andrew chetcuti,,Rio 2016,Swimming,100m freestyle men
+51,DOM,jhonny perez urena,,Rio 2016,Swimming,100m freestyle men
+52,PER,nicholas magana,,Rio 2016,Swimming,100m freestyle men
+53,CIV,thibaut amani danho,,Rio 2016,Swimming,100m freestyle men
+54,NCA,miguel mena,,Rio 2016,Swimming,100m freestyle men
+55,EOR,rami anis,,Rio 2016,Swimming,100m freestyle men
+56,CAM,sovijja pou,,Rio 2016,Swimming,100m freestyle men
+57,NEP,sirish gurung,,Rio 2016,Swimming,100m freestyle men
+58,ETH,robel kiros habte,,Rio 2016,Swimming,100m freestyle men
+0,USA,simone manuel,OR,Rio 2016,Swimming,100m freestyle women
+1,CAN,penny oleksiak,OR,Rio 2016,Swimming,100m freestyle women
+2,SWE,sarah sjostrom,,Rio 2016,Swimming,100m freestyle women
+3,AUS,bronte campbell,,Rio 2016,Swimming,100m freestyle women
+4,NED,ranomi kromowidjojo,,Rio 2016,Swimming,100m freestyle women
+5,AUS,cate campbell,,Rio 2016,Swimming,100m freestyle women
+6,USA,abbey weitzeil,,Rio 2016,Swimming,100m freestyle women
+7,DEN,jeanette ottesen,,Rio 2016,Swimming,100m freestyle women
+8,CHN,menghui zhu,,Rio 2016,Swimming,100m freestyle women
+9,CAN,chantal van landeghem,,Rio 2016,Swimming,100m freestyle women
+10,DEN,pernille blume,,Rio 2016,Swimming,100m freestyle women
+11,JPN,rikako ikee,,Rio 2016,Swimming,100m freestyle women
+12,BLR,aliaksandra herasimenia,,Rio 2016,Swimming,100m freestyle women
+13,JPN,miki uchida,,Rio 2016,Swimming,100m freestyle women
+14,FRA,charlotte bonnet,,Rio 2016,Swimming,100m freestyle women
+15,BRA,etiene medeiros,,Rio 2016,Swimming,100m freestyle women
+16,CHN,duo shen,,Rio 2016,Swimming,100m freestyle women
+17,BAH,arianna vanderpool-wallace,,Rio 2016,Swimming,100m freestyle women
+18,RUS,veronika popova,,Rio 2016,Swimming,100m freestyle women
+19,NED,femke heemskerk,,Rio 2016,Swimming,100m freestyle women
+20,BRA,larissa oliveira,,Rio 2016,Swimming,100m freestyle women
+21,FRA,beryl gastaldello,,Rio 2016,Swimming,100m freestyle women
+22,SUI,maria ugolkova,,Rio 2016,Swimming,100m freestyle women
+23,HKG,camille cheng,,Rio 2016,Swimming,100m freestyle women
+24,LUX,julie meynen,,Rio 2016,Swimming,100m freestyle women
+25,ITA,erika ferraioli,,Rio 2016,Swimming,100m freestyle women
+26,NOR,susann bjornsen,,Rio 2016,Swimming,100m freestyle women
+27,RUS,nataliya lovtsova,,Rio 2016,Swimming,100m freestyle women
+28,POL,katarzyna wilk,,Rio 2016,Swimming,100m freestyle women
+29,ISR,andrea murez,,Rio 2016,Swimming,100m freestyle women
+30,BUL,nina rangelova,,Rio 2016,Swimming,100m freestyle women
+31,THA,natthanan junkrajang,,Rio 2016,Swimming,100m freestyle women
+32,PHI,jasmine alkhaldi,,Rio 2016,Swimming,100m freestyle women
+33,URU,ines remersaro,,Rio 2016,Swimming,100m freestyle women
+34,ZAM,jade howard,,Rio 2016,Swimming,100m freestyle women
+35,ROU,ana iulia dascal,,Rio 2016,Swimming,100m freestyle women
+36,MRI,heather arseth,,Rio 2016,Swimming,100m freestyle women
+37,COK,tracy keith-matchitt,,Rio 2016,Swimming,100m freestyle women
+38,PAR,karen riveros,,Rio 2016,Swimming,100m freestyle women
+39,ANG,ana sofia nobrega,,Rio 2016,Swimming,100m freestyle women
+40,AZE,fatimə alkərəmova,,Rio 2016,Swimming,100m freestyle women
+41,MNE,jovana terzic,,Rio 2016,Swimming,100m freestyle women
+42,ALB,nikol merizaj,,Rio 2016,Swimming,100m freestyle women
+43,MAD,estellah fils rabetsara,,Rio 2016,Swimming,100m freestyle women
+44,EOR,yusra mardini,,Rio 2016,Swimming,100m freestyle women
+45,MDV,aminath shajan,,Rio 2016,Swimming,100m freestyle women
+46,ITA,federica pellegrini,Did not start,Rio 2016,Swimming,100m freestyle women
+47,SWE,michelle coleman,Did not start,Rio 2016,Swimming,100m freestyle women
+0,ITA,gregorio paltrinieri,,Rio 2016,Swimming,1500m freestyle men
+1,USA,connor jaeger,,Rio 2016,Swimming,1500m freestyle men
+2,ITA,gabriele detti,,Rio 2016,Swimming,1500m freestyle men
+3,USA,jordan wilimovsky,,Rio 2016,Swimming,1500m freestyle men
+4,AUS,mack horton,,Rio 2016,Swimming,1500m freestyle men
+5,CAN,ryan cochrane,,Rio 2016,Swimming,1500m freestyle men
+6,FRA,damien joly,,Rio 2016,Swimming,1500m freestyle men
+7,NOR,henrik christiansen,,Rio 2016,Swimming,1500m freestyle men
+8,AUS,jack mcloughlin,,Rio 2016,Swimming,1500m freestyle men
+9,GBR,stephen milne,,Rio 2016,Swimming,1500m freestyle men
+10,EGY,ahmed akram,,Rio 2016,Swimming,1500m freestyle men
+11,CZE,jan micka,,Rio 2016,Swimming,1500m freestyle men
+12,RUS,ilia druzhinin,,Rio 2016,Swimming,1500m freestyle men
+13,RUS,iaroslav potapov,,Rio 2016,Swimming,1500m freestyle men
+14,UKR,mykhailo romanchuk,,Rio 2016,Swimming,1500m freestyle men
+15,CHN,yang sun,,Rio 2016,Swimming,1500m freestyle men
+16,UKR,sergii frolov,,Rio 2016,Swimming,1500m freestyle men
+17,DEN,anton ipsen,,Rio 2016,Swimming,1500m freestyle men
+18,HUN,gergely gyurta,,Rio 2016,Swimming,1500m freestyle men
+19,CHN,ziao qiu,,Rio 2016,Swimming,1500m freestyle men
+20,TUN,oussama mellouli,,Rio 2016,Swimming,1500m freestyle men
+21,ESA,marcelo alberto acosta jiménez,,Rio 2016,Swimming,1500m freestyle men
+22,ECU,esteban enderica,,Rio 2016,Swimming,1500m freestyle men
+23,ESP,marc sanchez torrens,,Rio 2016,Swimming,1500m freestyle men
+24,MEX,ricardo vargas jacobo,,Rio 2016,Swimming,1500m freestyle men
+25,ESP,antonio arroyo perez,,Rio 2016,Swimming,1500m freestyle men
+26,GBR,tim shuttleworth,,Rio 2016,Swimming,1500m freestyle men
+27,POL,wojciech wojdak,,Rio 2016,Swimming,1500m freestyle men
+28,BRA,brandonn almeida,,Rio 2016,Swimming,1500m freestyle men
+29,DEN,pal joensen,,Rio 2016,Swimming,1500m freestyle men
+30,BRA,miguel valente,,Rio 2016,Swimming,1500m freestyle men
+31,GER,florian wellbrock,,Rio 2016,Swimming,1500m freestyle men
+32,POL,mateusz sawrymowicz,,Rio 2016,Swimming,1500m freestyle men
+33,SVK,richard nagy,,Rio 2016,Swimming,1500m freestyle men
+34,HUN,kristof rasovszky,,Rio 2016,Swimming,1500m freestyle men
+35,SLO,martin bau,,Rio 2016,Swimming,1500m freestyle men
+36,BIH,mihajlo ceprkalo,,Rio 2016,Swimming,1500m freestyle men
+37,NZL,matt hutchins,,Rio 2016,Swimming,1500m freestyle men
+38,MAS,welson sim,,Rio 2016,Swimming,1500m freestyle men
+39,FRA,nicolas doriano,,Rio 2016,Swimming,1500m freestyle men
+40,RSA,matthew mark meyer,,Rio 2016,Swimming,1500m freestyle men
+41,AUT,felix auboeck,,Rio 2016,Swimming,1500m freestyle men
+42,ARG,martin naidich,,Rio 2016,Swimming,1500m freestyle men
+43,COK,wesley roberts,,Rio 2016,Swimming,1500m freestyle men
+44,CHI,felipe tapia,,Rio 2016,Swimming,1500m freestyle men
+45,KOR,tae-hwan park,Did not start,Rio 2016,Swimming,1500m freestyle men
+0,USA,ryan murphy,,Rio 2016,Swimming,200m backstroke men
+1,AUS,mitchell larkin,,Rio 2016,Swimming,200m backstroke men
+2,RUS,evgeny rylov,,Rio 2016,Swimming,200m backstroke men
+3,CHN,jiayu xu,,Rio 2016,Swimming,200m backstroke men
+4,USA,jacob pebley,,Rio 2016,Swimming,200m backstroke men
+5,CHN,guangyuan li,,Rio 2016,Swimming,200m backstroke men
+6,GER,christian diener,,Rio 2016,Swimming,200m backstroke men
+7,JPN,ryosuke irie,,Rio 2016,Swimming,200m backstroke men
+8,GER,jan-philip glania,,Rio 2016,Swimming,200m backstroke men
+9,AUS,joshua beaver,,Rio 2016,Swimming,200m backstroke men
+10,JPN,masaki kaneko,,Rio 2016,Swimming,200m backstroke men
+11,RUS,andrei shabasov,,Rio 2016,Swimming,200m backstroke men
+12,BRA,leonardo de deus,,Rio 2016,Swimming,200m backstroke men
+13,NZL,corey main,,Rio 2016,Swimming,200m backstroke men
+14,ISR,yakov toumarkin,,Rio 2016,Swimming,200m backstroke men
+15,ESP,hugo gonzalez de oliveira,,Rio 2016,Swimming,200m backstroke men
+16,POL,radoslaw kawecki,,Rio 2016,Swimming,200m backstroke men
+17,ROU,robert glinta,,Rio 2016,Swimming,200m backstroke men
+18,HUN,adam telegdy,,Rio 2016,Swimming,200m backstroke men
+19,ISV,rexford tullius,,Rio 2016,Swimming,200m backstroke men
+20,LTU,danas rapsys,,Rio 2016,Swimming,200m backstroke men
+21,HUN,david foldhazi,,Rio 2016,Swimming,200m backstroke men
+22,COL,omar andres pinzon garcia,,Rio 2016,Swimming,200m backstroke men
+23,GRE,apostolos christou,,Rio 2016,Swimming,200m backstroke men
+24,BLR,mikita tsmyh,,Rio 2016,Swimming,200m backstroke men
+25,AZE,boris kirillov,,Rio 2016,Swimming,200m backstroke men
+0,USA,madeline dirado,,Rio 2016,Swimming,200m backstroke women
+1,HUN,katinka hosszu,,Rio 2016,Swimming,200m backstroke women
+2,CAN,hilary caldwell,,Rio 2016,Swimming,200m backstroke women
+3,RUS,daria ustinova,,Rio 2016,Swimming,200m backstroke women
+4,AUS,belinda hocking,,Rio 2016,Swimming,200m backstroke women
+5,ZIM,kirsty leigh coventry,,Rio 2016,Swimming,200m backstroke women
+6,CHN,yaxin liu,,Rio 2016,Swimming,200m backstroke women
+7,ISL,eyglo gustafsdottir,,Rio 2016,Swimming,200m backstroke women
+8,UKR,daryna zevina,,Rio 2016,Swimming,200m backstroke women
+9,CAN,dominique bouchard,,Rio 2016,Swimming,200m backstroke women
+10,RUS,anastasia zueva,,Rio 2016,Swimming,200m backstroke women
+11,AUS,emily seebohm,,Rio 2016,Swimming,200m backstroke women
+12,GER,lisa graf,,Rio 2016,Swimming,200m backstroke women
+13,USA,missy franklin,,Rio 2016,Swimming,200m backstroke women
+14,CRO,matea samardzic,,Rio 2016,Swimming,200m backstroke women
+15,GER,jenny mensing,,Rio 2016,Swimming,200m backstroke women
+16,ITA,margherita panziera,,Rio 2016,Swimming,200m backstroke women
+17,HKG,claudia lau,,Rio 2016,Swimming,200m backstroke women
+18,ESP,duane da rocha marce,,Rio 2016,Swimming,200m backstroke women
+19,POL,alicja tchorz,,Rio 2016,Swimming,200m backstroke women
+20,TUR,ekaterina ivanova avramova,,Rio 2016,Swimming,200m backstroke women
+21,HUN,reka gyorgy,,Rio 2016,Swimming,200m backstroke women
+22,CZE,simona baumrtova,,Rio 2016,Swimming,200m backstroke women
+23,SUI,martina van berkel,,Rio 2016,Swimming,200m backstroke women
+24,ESP,africa zamorano sanz,,Rio 2016,Swimming,200m backstroke women
+25,JPN,natsumi sakai,,Rio 2016,Swimming,200m backstroke women
+26,CHN,jie chen,,Rio 2016,Swimming,200m backstroke women
+27,INA,yessy venisia yosaputra,,Rio 2016,Swimming,200m backstroke women
 0,KAZ,dmitriy balandin,,Rio 2016,Swimming,200m breaststroke men
 1,USA,josh prenot,,Rio 2016,Swimming,200m breaststroke men
 2,RUS,anton chupkov,,Rio 2016,Swimming,200m breaststroke men
