@@ -1,0 +1,886 @@
+,rank,country,participant,result,discipline,event,olympic_host,olympic_game_year,gender
+0,0,,,41.0,Athletics,4x100m relay,Amsterdam,1928,men
+1,1,,,41.2,Athletics,4x100m relay,Amsterdam,1928,men
+2,2,,,41.8,Athletics,4x100m relay,Amsterdam,1928,men
+3,0,,,48.4,Athletics,4x100m relay,Amsterdam,1928,women
+4,1,,,48.8,Athletics,4x100m relay,Amsterdam,1928,women
+5,2,,,49.0,Athletics,4x100m relay,Amsterdam,1928,women
+6,0,,,42.2,Athletics,4x100m relay,Antwerp,1920,men
+7,1,,,42.6,Athletics,4x100m relay,Antwerp,1920,men
+8,2,,,42.8,Athletics,4x100m relay,Antwerp,1920,men
+9,0,,,38.07,Athletics,4x100m relay,Athens,2004,men
+10,1,,,38.08,Athletics,4x100m relay,Athens,2004,men
+11,2,,,38.23,Athletics,4x100m relay,Athens,2004,men
+12,0,,,41.73,Athletics,4x100m relay,Athens,2004,women
+13,1,,,42.27,Athletics,4x100m relay,Athens,2004,women
+14,2,,,42.54,Athletics,4x100m relay,Athens,2004,women
+15,0,,,37.69,Athletics,4x100m relay,Atlanta,1996,men
+16,1,,,38.05,Athletics,4x100m relay,Atlanta,1996,men
+17,2,,,38.41,Athletics,4x100m relay,Atlanta,1996,men
+18,0,,,41.95,Athletics,4x100m relay,Atlanta,1996,women
+19,1,,,42.14,Athletics,4x100m relay,Atlanta,1996,women
+20,2,,,42.24,Athletics,4x100m relay,Atlanta,1996,women
+21,0,,,37.4,Athletics,4x100m relay,Barcelona,1992,men
+22,1,,,37.98,Athletics,4x100m relay,Barcelona,1992,men
+23,2,,,38.0,Athletics,4x100m relay,Barcelona,1992,men
+24,0,,,42.11,Athletics,4x100m relay,Barcelona,1992,women
+25,1,,,42.16,Athletics,4x100m relay,Barcelona,1992,women
+26,2,,,42.81,Athletics,4x100m relay,Barcelona,1992,women
+27,0,,,38.06,Athletics,4x100m relay,Beijing,2008,men
+28,1,,,38.15,Athletics,4x100m relay,Beijing,2008,men
+29,2,,,38.24,Athletics,4x100m relay,Beijing,2008,men
+30,0,,,42.54,Athletics,4x100m relay,Beijing,2008,women
+31,1,,,43.04,Athletics,4x100m relay,Beijing,2008,women
+32,2,,,43.14,Athletics,4x100m relay,Beijing,2008,women
+33,0,,,39.8,Athletics,4x100m relay,Berlin,1936,men
+34,1,,,41.1,Athletics,4x100m relay,Berlin,1936,men
+35,2,,,41.2,Athletics,4x100m relay,Berlin,1936,men
+36,0,,,46.9,Athletics,4x100m relay,Berlin,1936,women
+37,1,,,47.6,Athletics,4x100m relay,Berlin,1936,women
+38,2,,,47.8,Athletics,4x100m relay,Berlin,1936,women
+39,0,,,40.1,Athletics,4x100m relay,Helsinki,1952,men
+40,1,,,40.3,Athletics,4x100m relay,Helsinki,1952,men
+41,2,,,40.5,Athletics,4x100m relay,Helsinki,1952,men
+42,0,,,45.9,Athletics,4x100m relay,Helsinki,1952,women
+43,1,,,45.9,Athletics,4x100m relay,Helsinki,1952,women
+44,2,,,46.2,Athletics,4x100m relay,Helsinki,1952,women
+45,0,,,40.6,Athletics,4x100m relay,London,1948,men
+46,1,,,41.3,Athletics,4x100m relay,London,1948,men
+47,2,,,41.5,Athletics,4x100m relay,London,1948,men
+48,0,,,47.5,Athletics,4x100m relay,London,1948,women
+49,1,,,47.6,Athletics,4x100m relay,London,1948,women
+50,2,,,47.8,Athletics,4x100m relay,London,1948,women
+51,0,,,36.84,Athletics,4x100m relay,London,2012,men
+52,1,,,38.12,Athletics,4x100m relay,London,2012,men
+53,2,,,38.16,Athletics,4x100m relay,London,2012,men
+54,0,,,40.82,Athletics,4x100m relay,London,2012,women
+55,1,,,41.41,Athletics,4x100m relay,London,2012,women
+56,2,,,42.04,Athletics,4x100m relay,London,2012,women
+57,0,,,40.0,Athletics,4x100m relay,Los Angeles,1984,men
+58,1,,,40.9,Athletics,4x100m relay,Los Angeles,1984,men
+59,2,,,41.2,Athletics,4x100m relay,Los Angeles,1984,men
+60,0,,,47.0,Athletics,4x100m relay,Los Angeles,1984,women
+61,1,,,47.0,Athletics,4x100m relay,Los Angeles,1984,women
+62,2,,,47.6,Athletics,4x100m relay,Los Angeles,1984,women
+63,0,,,37.83,Athletics,4x100m relay,Los Angeles,1984,men
+64,1,,,38.62,Athletics,4x100m relay,Los Angeles,1984,men
+65,2,,,38.7,Athletics,4x100m relay,Los Angeles,1984,men
+66,0,,,41.65,Athletics,4x100m relay,Los Angeles,1984,women
+67,1,,,42.77,Athletics,4x100m relay,Los Angeles,1984,women
+68,2,,,43.11,Athletics,4x100m relay,Los Angeles,1984,women
+69,0,,,39.5,Athletics,4x100m relay,Melbourne,1956,men
+70,1,,,39.8,Athletics,4x100m relay,Melbourne,1956,men
+71,2,,,40.3,Athletics,4x100m relay,Melbourne,1956,men
+72,0,,,44.5,Athletics,4x100m relay,Melbourne,1956,women
+73,1,,,44.7,Athletics,4x100m relay,Melbourne,1956,women
+74,2,,,44.9,Athletics,4x100m relay,Melbourne,1956,women
+75,0,,,38.2,Athletics,4x100m relay,Mexico City,1968,men
+76,1,,,38.3,Athletics,4x100m relay,Mexico City,1968,men
+77,2,,,38.4,Athletics,4x100m relay,Mexico City,1968,men
+78,0,,,42.8,Athletics,4x100m relay,Mexico City,1968,women
+79,1,,,43.3,Athletics,4x100m relay,Mexico City,1968,women
+80,2,,,43.4,Athletics,4x100m relay,Mexico City,1968,women
+81,0,,,38.33,Athletics,4x100m relay,Montreal,1976,men
+82,1,,,38.66,Athletics,4x100m relay,Montreal,1976,men
+83,2,,,38.78,Athletics,4x100m relay,Montreal,1976,men
+84,0,,,42.55,Athletics,4x100m relay,Montreal,1976,women
+85,1,,,42.59,Athletics,4x100m relay,Montreal,1976,women
+86,2,,,43.09,Athletics,4x100m relay,Montreal,1976,women
+87,0,,,38.26,Athletics,4x100m relay,Moscow,1980,men
+88,1,,,38.33,Athletics,4x100m relay,Moscow,1980,men
+89,2,,,38.53,Athletics,4x100m relay,Moscow,1980,men
+90,0,,,41.6,Athletics,4x100m relay,Moscow,1980,women
+91,1,,,42.1,Athletics,4x100m relay,Moscow,1980,women
+92,2,,,42.43,Athletics,4x100m relay,Moscow,1980,women
+93,0,,,38.19,Athletics,4x100m relay,Munich,1972,men
+94,1,,,38.5,Athletics,4x100m relay,Munich,1972,men
+95,2,,,38.79,Athletics,4x100m relay,Munich,1972,men
+96,0,,,42.81,Athletics,4x100m relay,Munich,1972,women
+97,1,,,42.95,Athletics,4x100m relay,Munich,1972,women
+98,2,,,43.36,Athletics,4x100m relay,Munich,1972,women
+99,0,,,41.0,Athletics,4x100m relay,Paris,1924,men
+100,1,,,41.2,Athletics,4x100m relay,Paris,1924,men
+101,2,,,41.8,Athletics,4x100m relay,Paris,1924,men
+102,0,,,37.27,Athletics,4x100m relay,Rio,2016,men
+103,1,,,37.6,Athletics,4x100m relay,Rio,2016,men
+104,2,,,37.64,Athletics,4x100m relay,Rio,2016,men
+105,0,,,41.01,Athletics,4x100m relay,Rio,2016,women
+106,1,,,41.36,Athletics,4x100m relay,Rio,2016,women
+107,2,,,41.77,Athletics,4x100m relay,Rio,2016,women
+108,0,,,39.5,Athletics,4x100m relay,Rome,1960,men
+109,1,,,40.1,Athletics,4x100m relay,Rome,1960,men
+110,2,,,40.2,Athletics,4x100m relay,Rome,1960,men
+111,0,,,44.5,Athletics,4x100m relay,Rome,1960,women
+112,1,,,44.8,Athletics,4x100m relay,Rome,1960,women
+113,2,,,45.0,Athletics,4x100m relay,Rome,1960,women
+114,0,,,38.19,Athletics,4x100m relay,Seoul,1988,men
+115,1,,,38.28,Athletics,4x100m relay,Seoul,1988,men
+116,2,,,38.4,Athletics,4x100m relay,Seoul,1988,men
+117,0,,,41.98,Athletics,4x100m relay,Seoul,1988,women
+118,1,,,42.09,Athletics,4x100m relay,Seoul,1988,women
+119,2,,,42.75,Athletics,4x100m relay,Seoul,1988,women
+120,0,,,42.4,Athletics,4x100m relay,Stockholm,1912,men
+121,1,,,42.6,Athletics,4x100m relay,Stockholm,1912,men
+122,2,,,0.0,Athletics,4x100m relay,Stockholm,1912,men
+123,0,,,37.61,Athletics,4x100m relay,Sydney,2000,men
+124,1,,,37.9,Athletics,4x100m relay,Sydney,2000,men
+125,2,,,38.04,Athletics,4x100m relay,Sydney,2000,men
+126,0,,,41.95,Athletics,4x100m relay,Sydney,2000,women
+127,1,,,42.13,Athletics,4x100m relay,Sydney,2000,women
+128,2,,,42.2,Athletics,4x100m relay,Sydney,2000,women
+129,0,,,39.0,Athletics,4x100m relay,Tokyo,1964,men
+130,1,,,39.3,Athletics,4x100m relay,Tokyo,1964,men
+131,2,,,39.3,Athletics,4x100m relay,Tokyo,1964,men
+132,0,,,43.6,Athletics,4x100m relay,Tokyo,1964,women
+133,1,,,43.9,Athletics,4x100m relay,Tokyo,1964,women
+134,2,,,44.0,Athletics,4x100m relay,Tokyo,1964,women
+135,0,CAN,percy williams,10.8,Athletics,100m,Amsterdam,1928,men
+136,1,GBR,jack london,10.9,Athletics,100m,Amsterdam,1928,men
+137,2,GER,georg lammers,10.9,Athletics,100m,Amsterdam,1928,men
+138,0,USA,elizabeth robinson,12.2,Athletics,100m,Amsterdam,1928,women
+139,1,CAN,bobby rosenfeld,12.3,Athletics,100m,Amsterdam,1928,women
+140,2,CAN,ethel m. smith,12.3,Athletics,100m,Amsterdam,1928,women
+141,0,USA,charles paddock,10.8,Athletics,100m,Antwerp,1920,men
+142,1,USA,morris kirksey,10.9,Athletics,100m,Antwerp,1920,men
+143,2,GBR,harry edward,10.9,Athletics,100m,Antwerp,1920,men
+144,0,USA,thomas burke,12.0,Athletics,100m,Athens,1896,men
+145,1,GER,fritz hofmann,0.0,Athletics,100m,Athens,1896,men
+146,2,HUN,alajos szokolyi,0.0,Athletics,100m,Athens,1896,men
+147,0,USA,justin gatlin,9.85,Athletics,100m,Athens,2004,men
+148,1,POR,francis obikwelu,9.86,Athletics,100m,Athens,2004,men
+149,2,USA,maurice greene,9.87,Athletics,100m,Athens,2004,men
+150,0,BLR,yuliya nestsiarenka,10.93,Athletics,100m,Athens,2004,women
+151,1,USA,lauryn williams,10.96,Athletics,100m,Athens,2004,women
+152,2,JAM,veronica campbell-brown,10.97,Athletics,100m,Athens,2004,women
+153,0,CAN,donovan bailey,9.84,Athletics,100m,Atlanta,1996,men
+154,1,NAM,frank fredericks,9.89,Athletics,100m,Atlanta,1996,men
+155,2,TTO,ato boldon,9.9,Athletics,100m,Atlanta,1996,men
+156,0,USA,yolanda gail devers-roberts,10.94,Athletics,100m,Atlanta,1996,women
+157,1,JAM,merlene ottey-page,10.94,Athletics,100m,Atlanta,1996,women
+158,2,USA,gwen torrence,10.96,Athletics,100m,Atlanta,1996,women
+159,0,GBR,linford christie,9.96,Athletics,100m,Barcelona,1992,men
+160,1,NAM,frank fredericks,10.02,Athletics,100m,Barcelona,1992,men
+161,2,USA,dennis mitchell,10.04,Athletics,100m,Barcelona,1992,men
+162,0,USA,yolanda gail devers-roberts,10.82,Athletics,100m,Barcelona,1992,women
+163,1,JAM,juliet cuthbert,10.83,Athletics,100m,Barcelona,1992,women
+164,2,EUN,irina privalova,10.84,Athletics,100m,Barcelona,1992,women
+165,0,JAM,usain bolt,9.69,Athletics,100m,Beijing,2008,men
+166,1,TTO,richard thompson,9.89,Athletics,100m,Beijing,2008,men
+167,2,USA,walter dix,9.91,Athletics,100m,Beijing,2008,men
+168,0,JAM,shelly-ann fraser-pryce,10.78,Athletics,100m,Beijing,2008,women
+169,1,JAM,sherone simpson,10.98,Athletics,100m,Beijing,2008,women
+170,2,JAM,kerron stewart,10.98,Athletics,100m,Beijing,2008,women
+171,0,USA,jesse owens,10.3,Athletics,100m,Berlin,1936,men
+172,1,USA,ralph metcalfe,10.4,Athletics,100m,Berlin,1936,men
+173,2,NED,martinus osendarp,10.5,Athletics,100m,Berlin,1936,men
+174,0,USA,helen herring stephens,11.5,Athletics,100m,Berlin,1936,women
+175,1,POL,stanislawa walasiewicz,11.7,Athletics,100m,Berlin,1936,women
+176,2,GER,käthe krauss,11.9,Athletics,100m,Berlin,1936,women
+177,0,USA,lindy remigino,10.4,Athletics,100m,Helsinki,1952,men
+178,1,JAM,herbert mckenley,10.4,Athletics,100m,Helsinki,1952,men
+179,2,GBR,emmanuel mcdonald bailey,10.4,Athletics,100m,Helsinki,1952,men
+180,0,AUS,marjorie jackson,11.5,Athletics,100m,Helsinki,1952,women
+181,1,RSA,daphne lilian evelyn robb-hasenjäger,11.8,Athletics,100m,Helsinki,1952,women
+182,2,AUS,shirley strickland-de la hunty,11.9,Athletics,100m,Helsinki,1952,women
+183,0,RSA,reggie walker,10.8,Athletics,100m,London,1908,men
+184,1,USA,james rector,11.0,Athletics,100m,London,1908,men
+185,2,CAN,robert kerr,11.0,Athletics,100m,London,1908,men
+186,0,USA,harrison dillard,10.3,Athletics,100m,London,1948,men
+187,1,USA,harold norwood ewell,10.4,Athletics,100m,London,1948,men
+188,2,PAN,lloyd labeach,10.6,Athletics,100m,London,1948,men
+189,0,NED,fanny blankers-koen,11.9,Athletics,100m,London,1948,women
+190,1,GBR,dorothy gladys manley,12.2,Athletics,100m,London,1948,women
+191,2,AUS,shirley strickland-de la hunty,12.2,Athletics,100m,London,1948,women
+192,0,JAM,usain bolt,9.63,Athletics,100m,London,2012,men
+193,1,JAM,yohan blake,9.75,Athletics,100m,London,2012,men
+194,2,USA,justin gatlin,9.79,Athletics,100m,London,2012,men
+195,0,JAM,shelly-ann fraser-pryce,10.75,Athletics,100m,London,2012,women
+196,1,USA,carmelita jeter,10.78,Athletics,100m,London,2012,women
+197,2,JAM,veronica campbell-brown,10.81,Athletics,100m,London,2012,women
+198,0,USA,eddie tolan,10.3,Athletics,100m,Los Angeles,1984,men
+199,1,USA,ralph metcalfe,10.3,Athletics,100m,Los Angeles,1984,men
+200,2,GER,arthur jonath,10.4,Athletics,100m,Los Angeles,1984,men
+201,0,POL,stanislawa walasiewicz,11.9,Athletics,100m,Los Angeles,1984,women
+202,1,CAN,hilda strike-sisson,11.9,Athletics,100m,Los Angeles,1984,women
+203,2,USA,wilhelmina von bremen,12.0,Athletics,100m,Los Angeles,1984,women
+204,0,USA,carl lewis,9.99,Athletics,100m,Los Angeles,1984,men
+205,1,USA,samuel louis graddy,10.19,Athletics,100m,Los Angeles,1984,men
+206,2,CAN,ben johnson,10.22,Athletics,100m,Los Angeles,1984,men
+207,0,USA,evelyn ashford,10.97,Athletics,100m,Los Angeles,1984,women
+208,1,USA,alice regina brown,11.13,Athletics,100m,Los Angeles,1984,women
+209,2,JAM,merlene ottey-page,11.16,Athletics,100m,Los Angeles,1984,women
+210,0,USA,bobby morrow,10.5,Athletics,100m,Melbourne,1956,men
+211,1,USA,walter thane baker,10.5,Athletics,100m,Melbourne,1956,men
+212,2,AUS,hec hogan,10.6,Athletics,100m,Melbourne,1956,men
+213,0,AUS,betty cuthbert,11.5,Athletics,100m,Melbourne,1956,women
+214,1,GER,christa stubnick,11.7,Athletics,100m,Melbourne,1956,women
+215,2,AUS,marlene mathews-willard,11.7,Athletics,100m,Melbourne,1956,women
+216,0,USA,james ray hines,9.9,Athletics,100m,Mexico City,1968,men
+217,1,JAM,lennox miller,10.0,Athletics,100m,Mexico City,1968,men
+218,2,USA,charles edward greene,10.0,Athletics,100m,Mexico City,1968,men
+219,0,USA,wyomia tyus,11.0,Athletics,100m,Mexico City,1968,women
+220,1,USA,barbara ann ferrell,11.1,Athletics,100m,Mexico City,1968,women
+221,2,POL,irena szewińska,11.1,Athletics,100m,Mexico City,1968,women
+222,0,TTO,hasely crawford,10.06,Athletics,100m,Montreal,1976,men
+223,1,JAM,donald quarrie,10.08,Athletics,100m,Montreal,1976,men
+224,2,URS,valeriy borzov,10.14,Athletics,100m,Montreal,1976,men
+225,0,FRG,annegret richter,11.08,Athletics,100m,Montreal,1976,women
+226,1,GDR,renate stecher,11.13,Athletics,100m,Montreal,1976,women
+227,2,FRG,inge helten,11.17,Athletics,100m,Montreal,1976,women
+228,0,GBR,allan wells,10.25,Athletics,100m,Moscow,1980,men
+229,1,CUB,silvio leonard sarria,10.25,Athletics,100m,Moscow,1980,men
+230,2,BUL,peter petrov,10.39,Athletics,100m,Moscow,1980,men
+231,0,URS,lyudmila kondratyeva,11.06,Athletics,100m,Moscow,1980,women
+232,1,GDR,marlies oelsner-göhr,11.07,Athletics,100m,Moscow,1980,women
+233,2,GDR,ingrid auerswald-lange,11.14,Athletics,100m,Moscow,1980,women
+234,0,URS,valeriy borzov,10.14,Athletics,100m,Munich,1972,men
+235,1,USA,robert taylor,10.24,Athletics,100m,Munich,1972,men
+236,2,JAM,lennox miller,10.33,Athletics,100m,Munich,1972,men
+237,0,GDR,renate stecher,11.07,Athletics,100m,Munich,1972,women
+238,1,AUS,raelene ann boyle,11.23,Athletics,100m,Munich,1972,women
+239,2,CUB,silvia chivas baro,11.24,Athletics,100m,Munich,1972,women
+240,0,USA,francis jarvis,11.0,Athletics,100m,Paris,1900,men
+241,1,USA,walter b. john tewksbury,0.0,Athletics,100m,Paris,1900,men
+242,2,AUS,stanley rowley,0.0,Athletics,100m,Paris,1900,men
+243,0,GBR,harold abrahams,10.6,Athletics,100m,Paris,1924,men
+244,1,USA,jackson scholz,10.7,Athletics,100m,Paris,1924,men
+245,2,NZL,arthur porritt,10.8,Athletics,100m,Paris,1924,men
+246,0,JAM,usain bolt,9.81,Athletics,100m,Rio,2016,men
+247,1,USA,justin gatlin,9.89,Athletics,100m,Rio,2016,men
+248,2,CAN,andre de grasse,9.91,Athletics,100m,Rio,2016,men
+249,0,JAM,elaine thompson-herah,10.71,Athletics,100m,Rio,2016,women
+250,1,USA,tori bowie,10.83,Athletics,100m,Rio,2016,women
+251,2,JAM,shelly-ann fraser-pryce,10.86,Athletics,100m,Rio,2016,women
+252,0,GER,armin hary,10.2,Athletics,100m,Rome,1960,men
+253,1,USA,david sime,10.2,Athletics,100m,Rome,1960,men
+254,2,GBR,peter radford,10.3,Athletics,100m,Rome,1960,men
+255,0,USA,wilma rudolph,11.0,Athletics,100m,Rome,1960,women
+256,1,GBR,dorothy hyman,11.3,Athletics,100m,Rome,1960,women
+257,2,ITA,giuseppina leone,11.3,Athletics,100m,Rome,1960,women
+258,0,USA,carl lewis,9.92,Athletics,100m,Seoul,1988,men
+259,1,GBR,linford christie,9.97,Athletics,100m,Seoul,1988,men
+260,2,USA,calvin smith,9.99,Athletics,100m,Seoul,1988,men
+261,0,USA,florence griffith-joyner,10.54,Athletics,100m,Seoul,1988,women
+262,1,USA,evelyn ashford,10.83,Athletics,100m,Seoul,1988,women
+263,2,GDR,heike drechsler,10.85,Athletics,100m,Seoul,1988,women
+264,0,USA,ralph craig,10.8,Athletics,100m,Stockholm,1912,men
+265,1,USA,i. alvah meyer,10.9,Athletics,100m,Stockholm,1912,men
+266,2,USA,donald lippincott,10.9,Athletics,100m,Stockholm,1912,men
+267,0,USA,maurice greene,9.87,Athletics,100m,Sydney,2000,men
+268,1,TTO,ato boldon,9.99,Athletics,100m,Sydney,2000,men
+269,2,BAR,obadele thompson,10.04,Athletics,100m,Sydney,2000,men
+270,0,GRE,aikaterini thanou,11.12,Athletics,100m,Sydney,2000,women
+271,1,JAM,tanya lawrence,11.18,Athletics,100m,Sydney,2000,women
+272,2,JAM,merlene ottey-page,11.19,Athletics,100m,Sydney,2000,women
+273,0,USA,robert hayes,10.0,Athletics,100m,Tokyo,1964,men
+274,1,CUB,enrique figuerola camue,10.2,Athletics,100m,Tokyo,1964,men
+275,2,CAN,henry winston harry jerome,10.2,Athletics,100m,Tokyo,1964,men
+276,0,USA,wyomia tyus,11.4,Athletics,100m,Tokyo,1964,women
+277,1,USA,edith marie mcguire,11.6,Athletics,100m,Tokyo,1964,women
+278,2,POL,ewa klobukowska,11.6,Athletics,100m,Tokyo,1964,women
+279,0,ITA,lamont marcell jacobs,9.8,Athletics,100m,Tokyo,2020,men
+280,1,USA,fred kerley,9.84,Athletics,100m,Tokyo,2020,men
+281,2,CAN,andre de grasse,9.89,Athletics,100m,Tokyo,2020,men
+282,0,JAM,elaine thompson-herah,10.61,Athletics,100m,Tokyo,2020,women
+283,1,JAM,shelly-ann fraser-pryce,10.74,Athletics,100m,Tokyo,2020,women
+284,2,JAM,shericka jackson,10.76,Athletics,100m,Tokyo,2020,women
+285,0,CAN,percy williams,10.8,Athletics,100m,Amsterdam,1928,men
+286,1,GBR,jack london,10.9,Athletics,100m,Amsterdam,1928,men
+287,2,GER,georg lammers,10.9,Athletics,100m,Amsterdam,1928,men
+288,0,USA,elizabeth robinson,12.2,Athletics,100m,Amsterdam,1928,women
+289,1,CAN,bobby rosenfeld,12.3,Athletics,100m,Amsterdam,1928,women
+290,2,CAN,ethel m. smith,12.3,Athletics,100m,Amsterdam,1928,women
+291,0,USA,charles paddock,10.8,Athletics,100m,Antwerp,1920,men
+292,1,USA,morris kirksey,10.9,Athletics,100m,Antwerp,1920,men
+293,2,GBR,harry edward,10.9,Athletics,100m,Antwerp,1920,men
+294,0,USA,thomas burke,12.0,Athletics,100m,Athens,1896,men
+295,1,GER,fritz hofmann,0.0,Athletics,100m,Athens,1896,men
+296,2,HUN,alajos szokolyi,0.0,Athletics,100m,Athens,1896,men
+297,0,USA,justin gatlin,9.85,Athletics,100m,Athens,2004,men
+298,1,POR,francis obikwelu,9.86,Athletics,100m,Athens,2004,men
+299,2,USA,maurice greene,9.87,Athletics,100m,Athens,2004,men
+300,0,BLR,yuliya nestsiarenka,10.93,Athletics,100m,Athens,2004,women
+301,1,USA,lauryn williams,10.96,Athletics,100m,Athens,2004,women
+302,2,JAM,veronica campbell-brown,10.97,Athletics,100m,Athens,2004,women
+303,0,CAN,donovan bailey,9.84,Athletics,100m,Atlanta,1996,men
+304,1,NAM,frank fredericks,9.89,Athletics,100m,Atlanta,1996,men
+305,2,TTO,ato boldon,9.9,Athletics,100m,Atlanta,1996,men
+306,0,USA,yolanda gail devers-roberts,10.94,Athletics,100m,Atlanta,1996,women
+307,1,JAM,merlene ottey-page,10.94,Athletics,100m,Atlanta,1996,women
+308,2,USA,gwen torrence,10.96,Athletics,100m,Atlanta,1996,women
+309,0,GBR,linford christie,9.96,Athletics,100m,Barcelona,1992,men
+310,1,NAM,frank fredericks,10.02,Athletics,100m,Barcelona,1992,men
+311,2,USA,dennis mitchell,10.04,Athletics,100m,Barcelona,1992,men
+312,0,USA,yolanda gail devers-roberts,10.82,Athletics,100m,Barcelona,1992,women
+313,1,JAM,juliet cuthbert,10.83,Athletics,100m,Barcelona,1992,women
+314,2,EUN,irina privalova,10.84,Athletics,100m,Barcelona,1992,women
+315,0,JAM,usain bolt,9.69,Athletics,100m,Beijing,2008,men
+316,1,TTO,richard thompson,9.89,Athletics,100m,Beijing,2008,men
+317,2,USA,walter dix,9.91,Athletics,100m,Beijing,2008,men
+318,0,JAM,shelly-ann fraser-pryce,10.78,Athletics,100m,Beijing,2008,women
+319,1,JAM,sherone simpson,10.98,Athletics,100m,Beijing,2008,women
+320,2,JAM,kerron stewart,10.98,Athletics,100m,Beijing,2008,women
+321,0,USA,jesse owens,10.3,Athletics,100m,Berlin,1936,men
+322,1,USA,ralph metcalfe,10.4,Athletics,100m,Berlin,1936,men
+323,2,NED,martinus osendarp,10.5,Athletics,100m,Berlin,1936,men
+324,0,USA,helen herring stephens,11.5,Athletics,100m,Berlin,1936,women
+325,1,POL,stanislawa walasiewicz,11.7,Athletics,100m,Berlin,1936,women
+326,2,GER,käthe krauss,11.9,Athletics,100m,Berlin,1936,women
+327,0,USA,lindy remigino,10.4,Athletics,100m,Helsinki,1952,men
+328,1,JAM,herbert mckenley,10.4,Athletics,100m,Helsinki,1952,men
+329,2,GBR,emmanuel mcdonald bailey,10.4,Athletics,100m,Helsinki,1952,men
+330,0,AUS,marjorie jackson,11.5,Athletics,100m,Helsinki,1952,women
+331,1,RSA,daphne lilian evelyn robb-hasenjäger,11.8,Athletics,100m,Helsinki,1952,women
+332,2,AUS,shirley strickland-de la hunty,11.9,Athletics,100m,Helsinki,1952,women
+333,0,RSA,reggie walker,10.8,Athletics,100m,London,1908,men
+334,1,USA,james rector,11.0,Athletics,100m,London,1908,men
+335,2,CAN,robert kerr,11.0,Athletics,100m,London,1908,men
+336,0,USA,harrison dillard,10.3,Athletics,100m,London,1948,men
+337,1,USA,harold norwood ewell,10.4,Athletics,100m,London,1948,men
+338,2,PAN,lloyd labeach,10.6,Athletics,100m,London,1948,men
+339,0,NED,fanny blankers-koen,11.9,Athletics,100m,London,1948,women
+340,1,GBR,dorothy gladys manley,12.2,Athletics,100m,London,1948,women
+341,2,AUS,shirley strickland-de la hunty,12.2,Athletics,100m,London,1948,women
+342,0,JAM,usain bolt,9.63,Athletics,100m,London,2012,men
+343,1,JAM,yohan blake,9.75,Athletics,100m,London,2012,men
+344,2,USA,justin gatlin,9.79,Athletics,100m,London,2012,men
+345,0,JAM,shelly-ann fraser-pryce,10.75,Athletics,100m,London,2012,women
+346,1,USA,carmelita jeter,10.78,Athletics,100m,London,2012,women
+347,2,JAM,veronica campbell-brown,10.81,Athletics,100m,London,2012,women
+348,0,USA,eddie tolan,10.3,Athletics,100m,Los Angeles,1984,men
+349,1,USA,ralph metcalfe,10.3,Athletics,100m,Los Angeles,1984,men
+350,2,GER,arthur jonath,10.4,Athletics,100m,Los Angeles,1984,men
+351,0,POL,stanislawa walasiewicz,11.9,Athletics,100m,Los Angeles,1984,women
+352,1,CAN,hilda strike-sisson,11.9,Athletics,100m,Los Angeles,1984,women
+353,2,USA,wilhelmina von bremen,12.0,Athletics,100m,Los Angeles,1984,women
+354,0,USA,carl lewis,9.99,Athletics,100m,Los Angeles,1984,men
+355,1,USA,samuel louis graddy,10.19,Athletics,100m,Los Angeles,1984,men
+356,2,CAN,ben johnson,10.22,Athletics,100m,Los Angeles,1984,men
+357,0,USA,evelyn ashford,10.97,Athletics,100m,Los Angeles,1984,women
+358,1,USA,alice regina brown,11.13,Athletics,100m,Los Angeles,1984,women
+359,2,JAM,merlene ottey-page,11.16,Athletics,100m,Los Angeles,1984,women
+360,0,USA,bobby morrow,10.5,Athletics,100m,Melbourne,1956,men
+361,1,USA,walter thane baker,10.5,Athletics,100m,Melbourne,1956,men
+362,2,AUS,hec hogan,10.6,Athletics,100m,Melbourne,1956,men
+363,0,AUS,betty cuthbert,11.5,Athletics,100m,Melbourne,1956,women
+364,1,GER,christa stubnick,11.7,Athletics,100m,Melbourne,1956,women
+365,2,AUS,marlene mathews-willard,11.7,Athletics,100m,Melbourne,1956,women
+366,0,USA,james ray hines,9.9,Athletics,100m,Mexico City,1968,men
+367,1,JAM,lennox miller,10.0,Athletics,100m,Mexico City,1968,men
+368,2,USA,charles edward greene,10.0,Athletics,100m,Mexico City,1968,men
+369,0,USA,wyomia tyus,11.0,Athletics,100m,Mexico City,1968,women
+370,1,USA,barbara ann ferrell,11.1,Athletics,100m,Mexico City,1968,women
+371,2,POL,irena szewińska,11.1,Athletics,100m,Mexico City,1968,women
+372,0,TTO,hasely crawford,10.06,Athletics,100m,Montreal,1976,men
+373,1,JAM,donald quarrie,10.08,Athletics,100m,Montreal,1976,men
+374,2,URS,valeriy borzov,10.14,Athletics,100m,Montreal,1976,men
+375,0,FRG,annegret richter,11.08,Athletics,100m,Montreal,1976,women
+376,1,GDR,renate stecher,11.13,Athletics,100m,Montreal,1976,women
+377,2,FRG,inge helten,11.17,Athletics,100m,Montreal,1976,women
+378,0,GBR,allan wells,10.25,Athletics,100m,Moscow,1980,men
+379,1,CUB,silvio leonard sarria,10.25,Athletics,100m,Moscow,1980,men
+380,2,BUL,peter petrov,10.39,Athletics,100m,Moscow,1980,men
+381,0,URS,lyudmila kondratyeva,11.06,Athletics,100m,Moscow,1980,women
+382,1,GDR,marlies oelsner-göhr,11.07,Athletics,100m,Moscow,1980,women
+383,2,GDR,ingrid auerswald-lange,11.14,Athletics,100m,Moscow,1980,women
+384,0,URS,valeriy borzov,10.14,Athletics,100m,Munich,1972,men
+385,1,USA,robert taylor,10.24,Athletics,100m,Munich,1972,men
+386,2,JAM,lennox miller,10.33,Athletics,100m,Munich,1972,men
+387,0,GDR,renate stecher,11.07,Athletics,100m,Munich,1972,women
+388,1,AUS,raelene ann boyle,11.23,Athletics,100m,Munich,1972,women
+389,2,CUB,silvia chivas baro,11.24,Athletics,100m,Munich,1972,women
+390,0,USA,francis jarvis,11.0,Athletics,100m,Paris,1900,men
+391,1,USA,walter b. john tewksbury,0.0,Athletics,100m,Paris,1900,men
+392,2,AUS,stanley rowley,0.0,Athletics,100m,Paris,1900,men
+393,0,GBR,harold abrahams,10.6,Athletics,100m,Paris,1924,men
+394,1,USA,jackson scholz,10.7,Athletics,100m,Paris,1924,men
+395,2,NZL,arthur porritt,10.8,Athletics,100m,Paris,1924,men
+396,0,JAM,usain bolt,9.81,Athletics,100m,Rio,2016,men
+397,1,USA,justin gatlin,9.89,Athletics,100m,Rio,2016,men
+398,2,CAN,andre de grasse,9.91,Athletics,100m,Rio,2016,men
+399,0,JAM,elaine thompson-herah,10.71,Athletics,100m,Rio,2016,women
+400,1,USA,tori bowie,10.83,Athletics,100m,Rio,2016,women
+401,2,JAM,shelly-ann fraser-pryce,10.86,Athletics,100m,Rio,2016,women
+402,0,GER,armin hary,10.2,Athletics,100m,Rome,1960,men
+403,1,USA,david sime,10.2,Athletics,100m,Rome,1960,men
+404,2,GBR,peter radford,10.3,Athletics,100m,Rome,1960,men
+405,0,USA,wilma rudolph,11.0,Athletics,100m,Rome,1960,women
+406,1,GBR,dorothy hyman,11.3,Athletics,100m,Rome,1960,women
+407,2,ITA,giuseppina leone,11.3,Athletics,100m,Rome,1960,women
+408,0,USA,carl lewis,9.92,Athletics,100m,Seoul,1988,men
+409,1,GBR,linford christie,9.97,Athletics,100m,Seoul,1988,men
+410,2,USA,calvin smith,9.99,Athletics,100m,Seoul,1988,men
+411,0,USA,florence griffith-joyner,10.54,Athletics,100m,Seoul,1988,women
+412,1,USA,evelyn ashford,10.83,Athletics,100m,Seoul,1988,women
+413,2,GDR,heike drechsler,10.85,Athletics,100m,Seoul,1988,women
+414,0,USA,ralph craig,10.8,Athletics,100m,Stockholm,1912,men
+415,1,USA,i. alvah meyer,10.9,Athletics,100m,Stockholm,1912,men
+416,2,USA,donald lippincott,10.9,Athletics,100m,Stockholm,1912,men
+417,0,USA,maurice greene,9.87,Athletics,100m,Sydney,2000,men
+418,1,TTO,ato boldon,9.99,Athletics,100m,Sydney,2000,men
+419,2,BAR,obadele thompson,10.04,Athletics,100m,Sydney,2000,men
+420,0,GRE,aikaterini thanou,11.12,Athletics,100m,Sydney,2000,women
+421,1,JAM,tanya lawrence,11.18,Athletics,100m,Sydney,2000,women
+422,2,JAM,merlene ottey-page,11.19,Athletics,100m,Sydney,2000,women
+423,0,USA,robert hayes,10.0,Athletics,100m,Tokyo,1964,men
+424,1,CUB,enrique figuerola camue,10.2,Athletics,100m,Tokyo,1964,men
+425,2,CAN,henry winston harry jerome,10.2,Athletics,100m,Tokyo,1964,men
+426,0,USA,wyomia tyus,11.4,Athletics,100m,Tokyo,1964,women
+427,1,USA,edith marie mcguire,11.6,Athletics,100m,Tokyo,1964,women
+428,2,POL,ewa klobukowska,11.6,Athletics,100m,Tokyo,1964,women
+429,0,ITA,lamont marcell jacobs,9.8,Athletics,100m,Tokyo,2020,men
+430,1,USA,fred kerley,9.84,Athletics,100m,Tokyo,2020,men
+431,2,CAN,andre de grasse,9.89,Athletics,100m,Tokyo,2020,men
+432,0,JAM,elaine thompson-herah,10.61,Athletics,100m,Tokyo,2020,women
+433,1,JAM,shelly-ann fraser-pryce,10.74,Athletics,100m,Tokyo,2020,women
+434,2,JAM,shericka jackson,10.76,Athletics,100m,Tokyo,2020,women
+435,0,USA,robert wade king,1.94,Athletics,high jump,Amsterdam,1928,men
+436,1,USA,benjamen van doren hedges,1.91,Athletics,high jump,Amsterdam,1928,men
+437,2,FRA,claude charles menard,1.91,Athletics,high jump,Amsterdam,1928,men
+438,0,CAN,ethel catherwood,1.595,Athletics,high jump,Amsterdam,1928,women
+439,1,NED,carolina anna gisolf,1.56,Athletics,high jump,Amsterdam,1928,women
+440,2,USA,mildred olive wiley,1.56,Athletics,high jump,Amsterdam,1928,women
+441,0,USA,richmond landon,1.936,Athletics,high jump,Antwerp,1920,men
+442,1,USA,harold muller,1.9,Athletics,high jump,Antwerp,1920,men
+443,2,SWE,bo ekelund,1.9,Athletics,high jump,Antwerp,1920,men
+444,0,USA,ellery clark,1.81,Athletics,high jump,Athens,1896,men
+445,1,USA,bob garrett,1.65,Athletics,high jump,Athens,1896,men
+446,2,USA,james brendan connolly,1.65,Athletics,high jump,Athens,1896,men
+447,0,SWE,stefan holm,2.36,Athletics,high jump,Athens,2004,men
+448,1,USA,matt hemingway,2.34,Athletics,high jump,Athens,2004,men
+449,2,CZE,jaroslav baba,2.34,Athletics,high jump,Athens,2004,men
+450,0,RUS,elena slesarenko,2.06,Athletics,high jump,Athens,2004,women
+451,1,RSA,hestrie cloete,2.02,Athletics,high jump,Athens,2004,women
+452,2,UKR,vita styopina,2.02,Athletics,high jump,Athens,2004,women
+453,0,USA,charles austin,2.39,Athletics,high jump,Atlanta,1996,men
+454,1,POL,artur partyka,2.37,Athletics,high jump,Atlanta,1996,men
+455,2,GBR,stephen james smith,2.35,Athletics,high jump,Atlanta,1996,men
+456,0,BUL,stefka kostadinova,2.05,Athletics,high jump,Atlanta,1996,women
+457,1,GRE,niki bakogianni,2.03,Athletics,high jump,Atlanta,1996,women
+458,2,UKR,inha babakova,2.01,Athletics,high jump,Atlanta,1996,women
+459,0,CUB,javier sotomayor,2.34,Athletics,high jump,Barcelona,1992,men
+460,1,SWE,patrick sjöberg,2.34,Athletics,high jump,Barcelona,1992,men
+461,2,AUS,timothy forsyth,2.34,Athletics,high jump,Barcelona,1992,men
+462,0,GER,heike henkel,2.02,Athletics,high jump,Barcelona,1992,women
+463,1,ROU,alina astafei,2.0,Athletics,high jump,Barcelona,1992,women
+464,2,CUB,ioamnet quintero,1.97,Athletics,high jump,Barcelona,1992,women
+465,0,RUS,andrey silnov,2.36,Athletics,high jump,Beijing,2008,men
+466,1,GBR,germaine mason,2.34,Athletics,high jump,Beijing,2008,men
+467,2,RUS,yaroslav rybakov,2.34,Athletics,high jump,Beijing,2008,men
+468,0,BEL,tia hellebaut,2.05,Athletics,high jump,Beijing,2008,women
+469,1,CRO,blanka vlasic,2.05,Athletics,high jump,Beijing,2008,women
+470,2,USA,chaunte howard,1.99,Athletics,high jump,Beijing,2008,women
+471,0,USA,cornelius cooper johnson,2.03,Athletics,high jump,Berlin,1936,men
+472,1,USA,david donald albritton,2.0,Athletics,high jump,Berlin,1936,men
+473,2,USA,delos packard thurber,2.0,Athletics,high jump,Berlin,1936,men
+474,0,HUN,ibolya csak,1.6,Athletics,high jump,Berlin,1936,women
+475,1,GBR,dorothy beatrice j. odam-tyler,1.6,Athletics,high jump,Berlin,1936,women
+476,2,GER,elfriede kaun,1.6,Athletics,high jump,Berlin,1936,women
+477,0,USA,walter francis davis,2.04,Athletics,high jump,Helsinki,1952,men
+478,1,USA,kenneth george wiesner,2.01,Athletics,high jump,Helsinki,1952,men
+479,2,BRA,josé telles da conceição,1.98,Athletics,high jump,Helsinki,1952,men
+480,0,RSA,esther cornelia brand,1.67,Athletics,high jump,Helsinki,1952,women
+481,1,GBR,sheila lerwill,1.65,Athletics,high jump,Helsinki,1952,women
+482,2,URS,aleksandra chudina,1.63,Athletics,high jump,Helsinki,1952,women
+483,0,USA,harry franklin porter,1.9,Athletics,high jump,London,1908,men
+484,1,GBR,cornelius leahy,1.88,Athletics,high jump,London,1908,men
+485,2,HUN,istvan somody,1.88,Athletics,high jump,London,1908,men
+486,0,AUS,john winter,1.98,Athletics,high jump,London,1948,men
+487,1,NOR,bjorn andreas paulson,1.95,Athletics,high jump,London,1948,men
+488,2,USA,george anthony stanich,1.95,Athletics,high jump,London,1948,men
+489,0,USA,alice marie coachman,1.68,Athletics,high jump,London,1948,women
+490,1,GBR,dorothy beatrice j. odam-tyler,1.68,Athletics,high jump,London,1948,women
+491,2,FRA,micheline ostermeyer,1.61,Athletics,high jump,London,1948,women
+492,0,USA,erik kynard,2.33,Athletics,high jump,London,2012,men
+493,1,QAT,mutaz essa barshim,2.29,Athletics,high jump,London,2012,men
+494,2,CAN,derek drouin,2.29,Athletics,high jump,London,2012,men
+495,0,RUS,anna chicherova,2.05,Athletics,high jump,London,2012,women
+496,1,USA,brigetta barrett,2.03,Athletics,high jump,London,2012,women
+497,2,ESP,ruth beitia,2.0,Athletics,high jump,London,2012,women
+498,0,CAN,duncan mcnaughton,1.97,Athletics,high jump,Los Angeles,1984,men
+499,1,USA,robert van osdel,1.97,Athletics,high jump,Los Angeles,1984,men
+500,2,PHI,simeon galvez toribio,1.97,Athletics,high jump,Los Angeles,1984,men
+501,0,USA,jean shiley,1.65,Athletics,high jump,Los Angeles,1984,women
+502,1,USA,mildred didrikson,1.65,Athletics,high jump,Los Angeles,1984,women
+503,2,CAN,eva dawes-spinks,1.6,Athletics,high jump,Los Angeles,1984,women
+504,0,FRG,dietmar mögenburg,2.35,Athletics,high jump,Los Angeles,1984,men
+505,1,SWE,patrick sjöberg,2.33,Athletics,high jump,Los Angeles,1984,men
+506,2,CHN,jian-hua zhu,2.31,Athletics,high jump,Los Angeles,1984,men
+507,0,FRG,ulrike meyfarth,2.02,Athletics,high jump,Los Angeles,1984,women
+508,1,ITA,sara simeoni,2.0,Athletics,high jump,Los Angeles,1984,women
+509,2,USA,johanna luann huntley,1.97,Athletics,high jump,Los Angeles,1984,women
+510,0,USA,charles everett dumas,2.12,Athletics,high jump,Melbourne,1956,men
+511,1,AUS,charles michael porter,2.1,Athletics,high jump,Melbourne,1956,men
+512,2,URS,igor kashkarov,2.08,Athletics,high jump,Melbourne,1956,men
+513,0,USA,mildred louise mcdaniel,1.76,Athletics,high jump,Melbourne,1956,women
+514,1,GBR,thelma elizabeth hopkins,1.67,Athletics,high jump,Melbourne,1956,women
+515,2,URS,mariya pissareva,1.67,Athletics,high jump,Melbourne,1956,women
+516,0,USA,richard douglas fosbury,2.24,Athletics,high jump,Mexico City,1968,men
+517,1,USA,edward j. jr. caruthers,2.22,Athletics,high jump,Mexico City,1968,men
+518,2,URS,valentin gavrilov,2.2,Athletics,high jump,Mexico City,1968,men
+519,0,TCH,miloslava rezkova-hubner,1.82,Athletics,high jump,Mexico City,1968,women
+520,1,URS,antonina okorokova-lazareva,1.8,Athletics,high jump,Mexico City,1968,women
+521,2,URS,valentina kozyr,1.8,Athletics,high jump,Mexico City,1968,women
+522,0,POL,jacek wszola,2.25,Athletics,high jump,Montreal,1976,men
+523,1,CAN,gregory joy,2.23,Athletics,high jump,Montreal,1976,men
+524,2,USA,dwight edwin stones,2.21,Athletics,high jump,Montreal,1976,men
+525,0,GDR,rosemarie witschas-ackermann,1.93,Athletics,high jump,Montreal,1976,women
+526,1,ITA,sara simeoni,1.91,Athletics,high jump,Montreal,1976,women
+527,2,BUL,yordanka blagoeva-dimitrova,1.91,Athletics,high jump,Montreal,1976,women
+528,0,GDR,gerd wessig,2.36,Athletics,high jump,Moscow,1980,men
+529,1,POL,jacek wszola,2.31,Athletics,high jump,Moscow,1980,men
+530,2,GDR,jörg freimuth,2.31,Athletics,high jump,Moscow,1980,men
+531,0,ITA,sara simeoni,1.97,Athletics,high jump,Moscow,1980,women
+532,1,POL,urszula kielan,1.94,Athletics,high jump,Moscow,1980,women
+533,2,GDR,jutta kirst,1.94,Athletics,high jump,Moscow,1980,women
+534,0,URS,yuri tarmak,2.23,Athletics,high jump,Munich,1972,men
+535,1,GDR,stefan junge,2.21,Athletics,high jump,Munich,1972,men
+536,2,USA,dwight edwin stones,2.21,Athletics,high jump,Munich,1972,men
+537,0,FRG,ulrike meyfarth,1.92,Athletics,high jump,Munich,1972,women
+538,1,BUL,yordanka blagoeva-dimitrova,1.88,Athletics,high jump,Munich,1972,women
+539,2,AUT,ilona gusenbauer-majdan,1.88,Athletics,high jump,Munich,1972,women
+540,0,USA,irving baxter,1.9,Athletics,high jump,Paris,1900,men
+541,1,GBR,patrick joseph leahy,1.78,Athletics,high jump,Paris,1900,men
+542,2,HUN,lajos gönczy,1.75,Athletics,high jump,Paris,1900,men
+543,0,USA,harold marion osborn,1.98,Athletics,high jump,Paris,1924,men
+544,1,USA,leroy taylor brown,1.95,Athletics,high jump,Paris,1924,men
+545,2,FRA,pierre lewden,1.92,Athletics,high jump,Paris,1924,men
+546,0,CAN,derek drouin,2.38,Athletics,high jump,Rio,2016,men
+547,1,QAT,mutaz essa barshim,2.36,Athletics,high jump,Rio,2016,men
+548,2,UKR,bohdan bondarenko,2.33,Athletics,high jump,Rio,2016,men
+549,0,ESP,ruth beitia,1.97,Athletics,high jump,Rio,2016,women
+550,1,BUL,mirela demireva,1.97,Athletics,high jump,Rio,2016,women
+551,2,CRO,blanka vlasic,1.97,Athletics,high jump,Rio,2016,women
+552,0,URS,robert' shavlaq'adze,2.16,Athletics,high jump,Rome,1960,men
+553,1,URS,valeri brumel,2.16,Athletics,high jump,Rome,1960,men
+554,2,USA,john curtis thomas,2.14,Athletics,high jump,Rome,1960,men
+555,0,ROU,iolanda balas,1.85,Athletics,high jump,Rome,1960,women
+556,1,GBR,dorothy ada shirley,1.71,Athletics,high jump,Rome,1960,women
+557,2,POL,jaroslawa jozwiakowska-bieda,1.71,Athletics,high jump,Rome,1960,women
+558,0,URS,gennady avdeyenko,2.38,Athletics,high jump,Seoul,1988,men
+559,1,USA,hollis conway,2.36,Athletics,high jump,Seoul,1988,men
+560,2,SWE,patrick sjöberg,2.36,Athletics,high jump,Seoul,1988,men
+561,0,USA,dorothy louise ritter,2.01,Athletics,high jump,Seoul,1988,women
+562,1,BUL,stefka kostadinova,2.01,Athletics,high jump,Seoul,1988,women
+563,2,URS,tamara bykova,1.99,Athletics,high jump,Seoul,1988,women
+564,0,USA,alma wilfred richards,1.93,Athletics,high jump,Stockholm,1912,men
+565,1,GER,hans liesche,1.91,Athletics,high jump,Stockholm,1912,men
+566,2,USA,george leslie horine,1.89,Athletics,high jump,Stockholm,1912,men
+567,0,RUS,sergey kliugin,2.35,Athletics,high jump,Sydney,2000,men
+568,1,CUB,javier sotomayor,2.32,Athletics,high jump,Sydney,2000,men
+569,2,ALG,abderrahmane hammad,2.32,Athletics,high jump,Sydney,2000,men
+570,0,RUS,yelena yelesina,2.01,Athletics,high jump,Sydney,2000,women
+571,1,RSA,hestrie cloete,2.01,Athletics,high jump,Sydney,2000,women
+572,2,ROU,oana mușunoi-pantelimon,1.99,Athletics,high jump,Sydney,2000,women
+573,0,URS,valeri brumel,2.18,Athletics,high jump,Tokyo,1964,men
+574,1,USA,john curtis thomas,2.18,Athletics,high jump,Tokyo,1964,men
+575,2,USA,john barnett rambo,2.16,Athletics,high jump,Tokyo,1964,men
+576,0,ROU,iolanda balas,1.9,Athletics,high jump,Tokyo,1964,women
+577,1,AUS,michelle mary mason-brown,1.8,Athletics,high jump,Tokyo,1964,women
+578,2,URS,taisiya chenchik,1.78,Athletics,high jump,Tokyo,1964,women
+579,0,QAT,mutaz essa barshim,2.37,Athletics,high jump,Tokyo,2020,men
+580,1,ITA,gianmarco tamberi,2.37,Athletics,high jump,Tokyo,2020,men
+581,2,BLR,maksim nedasekau,2.37,Athletics,high jump,Tokyo,2020,men
+582,0,ROC,mariya lasitskene,2.04,Athletics,high jump,Tokyo,2020,women
+583,1,AUS,nicola mcdermott,2.02,Athletics,high jump,Tokyo,2020,women
+584,2,UKR,yaroslava mahuchikh,2.0,Athletics,high jump,Tokyo,2020,women
+585,0,CAN,percy williams,10.8,Athletics,100m,Amsterdam,1928,men
+586,1,GBR,jack london,10.9,Athletics,100m,Amsterdam,1928,men
+587,2,GER,georg lammers,10.9,Athletics,100m,Amsterdam,1928,men
+588,0,USA,elizabeth robinson,12.2,Athletics,100m,Amsterdam,1928,women
+589,1,CAN,bobby rosenfeld,12.3,Athletics,100m,Amsterdam,1928,women
+590,2,CAN,ethel m. smith,12.3,Athletics,100m,Amsterdam,1928,women
+591,0,USA,charles paddock,10.8,Athletics,100m,Antwerp,1920,men
+592,1,USA,morris kirksey,10.9,Athletics,100m,Antwerp,1920,men
+593,2,GBR,harry edward,10.9,Athletics,100m,Antwerp,1920,men
+594,0,USA,thomas burke,12.0,Athletics,100m,Athens,1896,men
+595,1,GER,fritz hofmann,0.0,Athletics,100m,Athens,1896,men
+596,2,HUN,alajos szokolyi,0.0,Athletics,100m,Athens,1896,men
+597,0,USA,justin gatlin,9.85,Athletics,100m,Athens,2004,men
+598,1,POR,francis obikwelu,9.86,Athletics,100m,Athens,2004,men
+599,2,USA,maurice greene,9.87,Athletics,100m,Athens,2004,men
+600,0,BLR,yuliya nestsiarenka,10.93,Athletics,100m,Athens,2004,women
+601,1,USA,lauryn williams,10.96,Athletics,100m,Athens,2004,women
+602,2,JAM,veronica campbell-brown,10.97,Athletics,100m,Athens,2004,women
+603,0,CAN,donovan bailey,9.84,Athletics,100m,Atlanta,1996,men
+604,1,NAM,frank fredericks,9.89,Athletics,100m,Atlanta,1996,men
+605,2,TTO,ato boldon,9.9,Athletics,100m,Atlanta,1996,men
+606,0,USA,yolanda gail devers-roberts,10.94,Athletics,100m,Atlanta,1996,women
+607,1,JAM,merlene ottey-page,10.94,Athletics,100m,Atlanta,1996,women
+608,2,USA,gwen torrence,10.96,Athletics,100m,Atlanta,1996,women
+609,0,GBR,linford christie,9.96,Athletics,100m,Barcelona,1992,men
+610,1,NAM,frank fredericks,10.02,Athletics,100m,Barcelona,1992,men
+611,2,USA,dennis mitchell,10.04,Athletics,100m,Barcelona,1992,men
+612,0,USA,yolanda gail devers-roberts,10.82,Athletics,100m,Barcelona,1992,women
+613,1,JAM,juliet cuthbert,10.83,Athletics,100m,Barcelona,1992,women
+614,2,EUN,irina privalova,10.84,Athletics,100m,Barcelona,1992,women
+615,0,JAM,usain bolt,9.69,Athletics,100m,Beijing,2008,men
+616,1,TTO,richard thompson,9.89,Athletics,100m,Beijing,2008,men
+617,2,USA,walter dix,9.91,Athletics,100m,Beijing,2008,men
+618,0,JAM,shelly-ann fraser-pryce,10.78,Athletics,100m,Beijing,2008,women
+619,1,JAM,sherone simpson,10.98,Athletics,100m,Beijing,2008,women
+620,2,JAM,kerron stewart,10.98,Athletics,100m,Beijing,2008,women
+621,0,USA,jesse owens,10.3,Athletics,100m,Berlin,1936,men
+622,1,USA,ralph metcalfe,10.4,Athletics,100m,Berlin,1936,men
+623,2,NED,martinus osendarp,10.5,Athletics,100m,Berlin,1936,men
+624,0,USA,helen herring stephens,11.5,Athletics,100m,Berlin,1936,women
+625,1,POL,stanislawa walasiewicz,11.7,Athletics,100m,Berlin,1936,women
+626,2,GER,käthe krauss,11.9,Athletics,100m,Berlin,1936,women
+627,0,USA,lindy remigino,10.4,Athletics,100m,Helsinki,1952,men
+628,1,JAM,herbert mckenley,10.4,Athletics,100m,Helsinki,1952,men
+629,2,GBR,emmanuel mcdonald bailey,10.4,Athletics,100m,Helsinki,1952,men
+630,0,AUS,marjorie jackson,11.5,Athletics,100m,Helsinki,1952,women
+631,1,RSA,daphne lilian evelyn robb-hasenjäger,11.8,Athletics,100m,Helsinki,1952,women
+632,2,AUS,shirley strickland-de la hunty,11.9,Athletics,100m,Helsinki,1952,women
+633,0,RSA,reggie walker,10.8,Athletics,100m,London,1908,men
+634,1,USA,james rector,11.0,Athletics,100m,London,1908,men
+635,2,CAN,robert kerr,11.0,Athletics,100m,London,1908,men
+636,0,USA,harrison dillard,10.3,Athletics,100m,London,1948,men
+637,1,USA,harold norwood ewell,10.4,Athletics,100m,London,1948,men
+638,2,PAN,lloyd labeach,10.6,Athletics,100m,London,1948,men
+639,0,NED,fanny blankers-koen,11.9,Athletics,100m,London,1948,women
+640,1,GBR,dorothy gladys manley,12.2,Athletics,100m,London,1948,women
+641,2,AUS,shirley strickland-de la hunty,12.2,Athletics,100m,London,1948,women
+642,0,JAM,usain bolt,9.63,Athletics,100m,London,2012,men
+643,1,JAM,yohan blake,9.75,Athletics,100m,London,2012,men
+644,2,USA,justin gatlin,9.79,Athletics,100m,London,2012,men
+645,0,JAM,shelly-ann fraser-pryce,10.75,Athletics,100m,London,2012,women
+646,1,USA,carmelita jeter,10.78,Athletics,100m,London,2012,women
+647,2,JAM,veronica campbell-brown,10.81,Athletics,100m,London,2012,women
+648,0,USA,eddie tolan,10.3,Athletics,100m,Los Angeles,1984,men
+649,1,USA,ralph metcalfe,10.3,Athletics,100m,Los Angeles,1984,men
+650,2,GER,arthur jonath,10.4,Athletics,100m,Los Angeles,1984,men
+651,0,POL,stanislawa walasiewicz,11.9,Athletics,100m,Los Angeles,1984,women
+652,1,CAN,hilda strike-sisson,11.9,Athletics,100m,Los Angeles,1984,women
+653,2,USA,wilhelmina von bremen,12.0,Athletics,100m,Los Angeles,1984,women
+654,0,USA,carl lewis,9.99,Athletics,100m,Los Angeles,1984,men
+655,1,USA,samuel louis graddy,10.19,Athletics,100m,Los Angeles,1984,men
+656,2,CAN,ben johnson,10.22,Athletics,100m,Los Angeles,1984,men
+657,0,USA,evelyn ashford,10.97,Athletics,100m,Los Angeles,1984,women
+658,1,USA,alice regina brown,11.13,Athletics,100m,Los Angeles,1984,women
+659,2,JAM,merlene ottey-page,11.16,Athletics,100m,Los Angeles,1984,women
+660,0,USA,bobby morrow,10.5,Athletics,100m,Melbourne,1956,men
+661,1,USA,walter thane baker,10.5,Athletics,100m,Melbourne,1956,men
+662,2,AUS,hec hogan,10.6,Athletics,100m,Melbourne,1956,men
+663,0,AUS,betty cuthbert,11.5,Athletics,100m,Melbourne,1956,women
+664,1,GER,christa stubnick,11.7,Athletics,100m,Melbourne,1956,women
+665,2,AUS,marlene mathews-willard,11.7,Athletics,100m,Melbourne,1956,women
+666,0,USA,james ray hines,9.9,Athletics,100m,Mexico City,1968,men
+667,1,JAM,lennox miller,10.0,Athletics,100m,Mexico City,1968,men
+668,2,USA,charles edward greene,10.0,Athletics,100m,Mexico City,1968,men
+669,0,USA,wyomia tyus,11.0,Athletics,100m,Mexico City,1968,women
+670,1,USA,barbara ann ferrell,11.1,Athletics,100m,Mexico City,1968,women
+671,2,POL,irena szewińska,11.1,Athletics,100m,Mexico City,1968,women
+672,0,TTO,hasely crawford,10.06,Athletics,100m,Montreal,1976,men
+673,1,JAM,donald quarrie,10.08,Athletics,100m,Montreal,1976,men
+674,2,URS,valeriy borzov,10.14,Athletics,100m,Montreal,1976,men
+675,0,FRG,annegret richter,11.08,Athletics,100m,Montreal,1976,women
+676,1,GDR,renate stecher,11.13,Athletics,100m,Montreal,1976,women
+677,2,FRG,inge helten,11.17,Athletics,100m,Montreal,1976,women
+678,0,GBR,allan wells,10.25,Athletics,100m,Moscow,1980,men
+679,1,CUB,silvio leonard sarria,10.25,Athletics,100m,Moscow,1980,men
+680,2,BUL,peter petrov,10.39,Athletics,100m,Moscow,1980,men
+681,0,URS,lyudmila kondratyeva,11.06,Athletics,100m,Moscow,1980,women
+682,1,GDR,marlies oelsner-göhr,11.07,Athletics,100m,Moscow,1980,women
+683,2,GDR,ingrid auerswald-lange,11.14,Athletics,100m,Moscow,1980,women
+684,0,URS,valeriy borzov,10.14,Athletics,100m,Munich,1972,men
+685,1,USA,robert taylor,10.24,Athletics,100m,Munich,1972,men
+686,2,JAM,lennox miller,10.33,Athletics,100m,Munich,1972,men
+687,0,GDR,renate stecher,11.07,Athletics,100m,Munich,1972,women
+688,1,AUS,raelene ann boyle,11.23,Athletics,100m,Munich,1972,women
+689,2,CUB,silvia chivas baro,11.24,Athletics,100m,Munich,1972,women
+690,0,USA,francis jarvis,11.0,Athletics,100m,Paris,1900,men
+691,1,USA,walter b. john tewksbury,0.0,Athletics,100m,Paris,1900,men
+692,2,AUS,stanley rowley,0.0,Athletics,100m,Paris,1900,men
+693,0,GBR,harold abrahams,10.6,Athletics,100m,Paris,1924,men
+694,1,USA,jackson scholz,10.7,Athletics,100m,Paris,1924,men
+695,2,NZL,arthur porritt,10.8,Athletics,100m,Paris,1924,men
+696,0,JAM,usain bolt,9.81,Athletics,100m,Rio,2016,men
+697,1,USA,justin gatlin,9.89,Athletics,100m,Rio,2016,men
+698,2,CAN,andre de grasse,9.91,Athletics,100m,Rio,2016,men
+699,0,JAM,elaine thompson-herah,10.71,Athletics,100m,Rio,2016,women
+700,1,USA,tori bowie,10.83,Athletics,100m,Rio,2016,women
+701,2,JAM,shelly-ann fraser-pryce,10.86,Athletics,100m,Rio,2016,women
+702,0,GER,armin hary,10.2,Athletics,100m,Rome,1960,men
+703,1,USA,david sime,10.2,Athletics,100m,Rome,1960,men
+704,2,GBR,peter radford,10.3,Athletics,100m,Rome,1960,men
+705,0,USA,wilma rudolph,11.0,Athletics,100m,Rome,1960,women
+706,1,GBR,dorothy hyman,11.3,Athletics,100m,Rome,1960,women
+707,2,ITA,giuseppina leone,11.3,Athletics,100m,Rome,1960,women
+708,0,USA,carl lewis,9.92,Athletics,100m,Seoul,1988,men
+709,1,GBR,linford christie,9.97,Athletics,100m,Seoul,1988,men
+710,2,USA,calvin smith,9.99,Athletics,100m,Seoul,1988,men
+711,0,USA,florence griffith-joyner,10.54,Athletics,100m,Seoul,1988,women
+712,1,USA,evelyn ashford,10.83,Athletics,100m,Seoul,1988,women
+713,2,GDR,heike drechsler,10.85,Athletics,100m,Seoul,1988,women
+714,0,USA,ralph craig,10.8,Athletics,100m,Stockholm,1912,men
+715,1,USA,i. alvah meyer,10.9,Athletics,100m,Stockholm,1912,men
+716,2,USA,donald lippincott,10.9,Athletics,100m,Stockholm,1912,men
+717,0,USA,maurice greene,9.87,Athletics,100m,Sydney,2000,men
+718,1,TTO,ato boldon,9.99,Athletics,100m,Sydney,2000,men
+719,2,BAR,obadele thompson,10.04,Athletics,100m,Sydney,2000,men
+720,0,GRE,aikaterini thanou,11.12,Athletics,100m,Sydney,2000,women
+721,1,JAM,tanya lawrence,11.18,Athletics,100m,Sydney,2000,women
+722,2,JAM,merlene ottey-page,11.19,Athletics,100m,Sydney,2000,women
+723,0,USA,robert hayes,10.0,Athletics,100m,Tokyo,1964,men
+724,1,CUB,enrique figuerola camue,10.2,Athletics,100m,Tokyo,1964,men
+725,2,CAN,henry winston harry jerome,10.2,Athletics,100m,Tokyo,1964,men
+726,0,USA,wyomia tyus,11.4,Athletics,100m,Tokyo,1964,women
+727,1,USA,edith marie mcguire,11.6,Athletics,100m,Tokyo,1964,women
+728,2,POL,ewa klobukowska,11.6,Athletics,100m,Tokyo,1964,women
+729,0,ITA,lamont marcell jacobs,9.8,Athletics,100m,Tokyo,2020,men
+730,1,USA,fred kerley,9.84,Athletics,100m,Tokyo,2020,men
+731,2,CAN,andre de grasse,9.89,Athletics,100m,Tokyo,2020,men
+732,0,JAM,elaine thompson-herah,10.61,Athletics,100m,Tokyo,2020,women
+733,1,JAM,shelly-ann fraser-pryce,10.74,Athletics,100m,Tokyo,2020,women
+734,2,JAM,shericka jackson,10.76,Athletics,100m,Tokyo,2020,women
+735,0,USA,robert wade king,1.94,Athletics,high jump,Amsterdam,1928,men
+736,1,USA,benjamen van doren hedges,1.91,Athletics,high jump,Amsterdam,1928,men
+737,2,FRA,claude charles menard,1.91,Athletics,high jump,Amsterdam,1928,men
+738,0,CAN,ethel catherwood,1.595,Athletics,high jump,Amsterdam,1928,women
+739,1,NED,carolina anna gisolf,1.56,Athletics,high jump,Amsterdam,1928,women
+740,2,USA,mildred olive wiley,1.56,Athletics,high jump,Amsterdam,1928,women
+741,0,USA,richmond landon,1.936,Athletics,high jump,Antwerp,1920,men
+742,1,USA,harold muller,1.9,Athletics,high jump,Antwerp,1920,men
+743,2,SWE,bo ekelund,1.9,Athletics,high jump,Antwerp,1920,men
+744,0,USA,ellery clark,1.81,Athletics,high jump,Athens,1896,men
+745,1,USA,bob garrett,1.65,Athletics,high jump,Athens,1896,men
+746,2,USA,james brendan connolly,1.65,Athletics,high jump,Athens,1896,men
+747,0,SWE,stefan holm,2.36,Athletics,high jump,Athens,2004,men
+748,1,USA,matt hemingway,2.34,Athletics,high jump,Athens,2004,men
+749,2,CZE,jaroslav baba,2.34,Athletics,high jump,Athens,2004,men
+750,0,RUS,elena slesarenko,2.06,Athletics,high jump,Athens,2004,women
+751,1,RSA,hestrie cloete,2.02,Athletics,high jump,Athens,2004,women
+752,2,UKR,vita styopina,2.02,Athletics,high jump,Athens,2004,women
+753,0,USA,charles austin,2.39,Athletics,high jump,Atlanta,1996,men
+754,1,POL,artur partyka,2.37,Athletics,high jump,Atlanta,1996,men
+755,2,GBR,stephen james smith,2.35,Athletics,high jump,Atlanta,1996,men
+756,0,BUL,stefka kostadinova,2.05,Athletics,high jump,Atlanta,1996,women
+757,1,GRE,niki bakogianni,2.03,Athletics,high jump,Atlanta,1996,women
+758,2,UKR,inha babakova,2.01,Athletics,high jump,Atlanta,1996,women
+759,0,CUB,javier sotomayor,2.34,Athletics,high jump,Barcelona,1992,men
+760,1,SWE,patrick sjöberg,2.34,Athletics,high jump,Barcelona,1992,men
+761,2,AUS,timothy forsyth,2.34,Athletics,high jump,Barcelona,1992,men
+762,0,GER,heike henkel,2.02,Athletics,high jump,Barcelona,1992,women
+763,1,ROU,alina astafei,2.0,Athletics,high jump,Barcelona,1992,women
+764,2,CUB,ioamnet quintero,1.97,Athletics,high jump,Barcelona,1992,women
+765,0,RUS,andrey silnov,2.36,Athletics,high jump,Beijing,2008,men
+766,1,GBR,germaine mason,2.34,Athletics,high jump,Beijing,2008,men
+767,2,RUS,yaroslav rybakov,2.34,Athletics,high jump,Beijing,2008,men
+768,0,BEL,tia hellebaut,2.05,Athletics,high jump,Beijing,2008,women
+769,1,CRO,blanka vlasic,2.05,Athletics,high jump,Beijing,2008,women
+770,2,USA,chaunte howard,1.99,Athletics,high jump,Beijing,2008,women
+771,0,USA,cornelius cooper johnson,2.03,Athletics,high jump,Berlin,1936,men
+772,1,USA,david donald albritton,2.0,Athletics,high jump,Berlin,1936,men
+773,2,USA,delos packard thurber,2.0,Athletics,high jump,Berlin,1936,men
+774,0,HUN,ibolya csak,1.6,Athletics,high jump,Berlin,1936,women
+775,1,GBR,dorothy beatrice j. odam-tyler,1.6,Athletics,high jump,Berlin,1936,women
+776,2,GER,elfriede kaun,1.6,Athletics,high jump,Berlin,1936,women
+777,0,USA,walter francis davis,2.04,Athletics,high jump,Helsinki,1952,men
+778,1,USA,kenneth george wiesner,2.01,Athletics,high jump,Helsinki,1952,men
+779,2,BRA,josé telles da conceição,1.98,Athletics,high jump,Helsinki,1952,men
+780,0,RSA,esther cornelia brand,1.67,Athletics,high jump,Helsinki,1952,women
+781,1,GBR,sheila lerwill,1.65,Athletics,high jump,Helsinki,1952,women
+782,2,URS,aleksandra chudina,1.63,Athletics,high jump,Helsinki,1952,women
+783,0,USA,harry franklin porter,1.9,Athletics,high jump,London,1908,men
+784,1,GBR,cornelius leahy,1.88,Athletics,high jump,London,1908,men
+785,2,HUN,istvan somody,1.88,Athletics,high jump,London,1908,men
+786,0,AUS,john winter,1.98,Athletics,high jump,London,1948,men
+787,1,NOR,bjorn andreas paulson,1.95,Athletics,high jump,London,1948,men
+788,2,USA,george anthony stanich,1.95,Athletics,high jump,London,1948,men
+789,0,USA,alice marie coachman,1.68,Athletics,high jump,London,1948,women
+790,1,GBR,dorothy beatrice j. odam-tyler,1.68,Athletics,high jump,London,1948,women
+791,2,FRA,micheline ostermeyer,1.61,Athletics,high jump,London,1948,women
+792,0,USA,erik kynard,2.33,Athletics,high jump,London,2012,men
+793,1,QAT,mutaz essa barshim,2.29,Athletics,high jump,London,2012,men
+794,2,CAN,derek drouin,2.29,Athletics,high jump,London,2012,men
+795,0,RUS,anna chicherova,2.05,Athletics,high jump,London,2012,women
+796,1,USA,brigetta barrett,2.03,Athletics,high jump,London,2012,women
+797,2,ESP,ruth beitia,2.0,Athletics,high jump,London,2012,women
+798,0,CAN,duncan mcnaughton,1.97,Athletics,high jump,Los Angeles,1984,men
+799,1,USA,robert van osdel,1.97,Athletics,high jump,Los Angeles,1984,men
+800,2,PHI,simeon galvez toribio,1.97,Athletics,high jump,Los Angeles,1984,men
+801,0,USA,jean shiley,1.65,Athletics,high jump,Los Angeles,1984,women
+802,1,USA,mildred didrikson,1.65,Athletics,high jump,Los Angeles,1984,women
+803,2,CAN,eva dawes-spinks,1.6,Athletics,high jump,Los Angeles,1984,women
+804,0,FRG,dietmar mögenburg,2.35,Athletics,high jump,Los Angeles,1984,men
+805,1,SWE,patrick sjöberg,2.33,Athletics,high jump,Los Angeles,1984,men
+806,2,CHN,jian-hua zhu,2.31,Athletics,high jump,Los Angeles,1984,men
+807,0,FRG,ulrike meyfarth,2.02,Athletics,high jump,Los Angeles,1984,women
+808,1,ITA,sara simeoni,2.0,Athletics,high jump,Los Angeles,1984,women
+809,2,USA,johanna luann huntley,1.97,Athletics,high jump,Los Angeles,1984,women
+810,0,USA,charles everett dumas,2.12,Athletics,high jump,Melbourne,1956,men
+811,1,AUS,charles michael porter,2.1,Athletics,high jump,Melbourne,1956,men
+812,2,URS,igor kashkarov,2.08,Athletics,high jump,Melbourne,1956,men
+813,0,USA,mildred louise mcdaniel,1.76,Athletics,high jump,Melbourne,1956,women
+814,1,GBR,thelma elizabeth hopkins,1.67,Athletics,high jump,Melbourne,1956,women
+815,2,URS,mariya pissareva,1.67,Athletics,high jump,Melbourne,1956,women
+816,0,USA,richard douglas fosbury,2.24,Athletics,high jump,Mexico City,1968,men
+817,1,USA,edward j. jr. caruthers,2.22,Athletics,high jump,Mexico City,1968,men
+818,2,URS,valentin gavrilov,2.2,Athletics,high jump,Mexico City,1968,men
+819,0,TCH,miloslava rezkova-hubner,1.82,Athletics,high jump,Mexico City,1968,women
+820,1,URS,antonina okorokova-lazareva,1.8,Athletics,high jump,Mexico City,1968,women
+821,2,URS,valentina kozyr,1.8,Athletics,high jump,Mexico City,1968,women
+822,0,POL,jacek wszola,2.25,Athletics,high jump,Montreal,1976,men
+823,1,CAN,gregory joy,2.23,Athletics,high jump,Montreal,1976,men
+824,2,USA,dwight edwin stones,2.21,Athletics,high jump,Montreal,1976,men
+825,0,GDR,rosemarie witschas-ackermann,1.93,Athletics,high jump,Montreal,1976,women
+826,1,ITA,sara simeoni,1.91,Athletics,high jump,Montreal,1976,women
+827,2,BUL,yordanka blagoeva-dimitrova,1.91,Athletics,high jump,Montreal,1976,women
+828,0,GDR,gerd wessig,2.36,Athletics,high jump,Moscow,1980,men
+829,1,POL,jacek wszola,2.31,Athletics,high jump,Moscow,1980,men
+830,2,GDR,jörg freimuth,2.31,Athletics,high jump,Moscow,1980,men
+831,0,ITA,sara simeoni,1.97,Athletics,high jump,Moscow,1980,women
+832,1,POL,urszula kielan,1.94,Athletics,high jump,Moscow,1980,women
+833,2,GDR,jutta kirst,1.94,Athletics,high jump,Moscow,1980,women
+834,0,URS,yuri tarmak,2.23,Athletics,high jump,Munich,1972,men
+835,1,GDR,stefan junge,2.21,Athletics,high jump,Munich,1972,men
+836,2,USA,dwight edwin stones,2.21,Athletics,high jump,Munich,1972,men
+837,0,FRG,ulrike meyfarth,1.92,Athletics,high jump,Munich,1972,women
+838,1,BUL,yordanka blagoeva-dimitrova,1.88,Athletics,high jump,Munich,1972,women
+839,2,AUT,ilona gusenbauer-majdan,1.88,Athletics,high jump,Munich,1972,women
+840,0,USA,irving baxter,1.9,Athletics,high jump,Paris,1900,men
+841,1,GBR,patrick joseph leahy,1.78,Athletics,high jump,Paris,1900,men
+842,2,HUN,lajos gönczy,1.75,Athletics,high jump,Paris,1900,men
+843,0,USA,harold marion osborn,1.98,Athletics,high jump,Paris,1924,men
+844,1,USA,leroy taylor brown,1.95,Athletics,high jump,Paris,1924,men
+845,2,FRA,pierre lewden,1.92,Athletics,high jump,Paris,1924,men
+846,0,CAN,derek drouin,2.38,Athletics,high jump,Rio,2016,men
+847,1,QAT,mutaz essa barshim,2.36,Athletics,high jump,Rio,2016,men
+848,2,UKR,bohdan bondarenko,2.33,Athletics,high jump,Rio,2016,men
+849,0,ESP,ruth beitia,1.97,Athletics,high jump,Rio,2016,women
+850,1,BUL,mirela demireva,1.97,Athletics,high jump,Rio,2016,women
+851,2,CRO,blanka vlasic,1.97,Athletics,high jump,Rio,2016,women
+852,0,URS,robert' shavlaq'adze,2.16,Athletics,high jump,Rome,1960,men
+853,1,URS,valeri brumel,2.16,Athletics,high jump,Rome,1960,men
+854,2,USA,john curtis thomas,2.14,Athletics,high jump,Rome,1960,men
+855,0,ROU,iolanda balas,1.85,Athletics,high jump,Rome,1960,women
+856,1,GBR,dorothy ada shirley,1.71,Athletics,high jump,Rome,1960,women
+857,2,POL,jaroslawa jozwiakowska-bieda,1.71,Athletics,high jump,Rome,1960,women
+858,0,URS,gennady avdeyenko,2.38,Athletics,high jump,Seoul,1988,men
+859,1,USA,hollis conway,2.36,Athletics,high jump,Seoul,1988,men
+860,2,SWE,patrick sjöberg,2.36,Athletics,high jump,Seoul,1988,men
+861,0,USA,dorothy louise ritter,2.01,Athletics,high jump,Seoul,1988,women
+862,1,BUL,stefka kostadinova,2.01,Athletics,high jump,Seoul,1988,women
+863,2,URS,tamara bykova,1.99,Athletics,high jump,Seoul,1988,women
+864,0,USA,alma wilfred richards,1.93,Athletics,high jump,Stockholm,1912,men
+865,1,GER,hans liesche,1.91,Athletics,high jump,Stockholm,1912,men
+866,2,USA,george leslie horine,1.89,Athletics,high jump,Stockholm,1912,men
+867,0,RUS,sergey kliugin,2.35,Athletics,high jump,Sydney,2000,men
+868,1,CUB,javier sotomayor,2.32,Athletics,high jump,Sydney,2000,men
+869,2,ALG,abderrahmane hammad,2.32,Athletics,high jump,Sydney,2000,men
+870,0,RUS,yelena yelesina,2.01,Athletics,high jump,Sydney,2000,women
+871,1,RSA,hestrie cloete,2.01,Athletics,high jump,Sydney,2000,women
+872,2,ROU,oana mușunoi-pantelimon,1.99,Athletics,high jump,Sydney,2000,women
+873,0,URS,valeri brumel,2.18,Athletics,high jump,Tokyo,1964,men
+874,1,USA,john curtis thomas,2.18,Athletics,high jump,Tokyo,1964,men
+875,2,USA,john barnett rambo,2.16,Athletics,high jump,Tokyo,1964,men
+876,0,ROU,iolanda balas,1.9,Athletics,high jump,Tokyo,1964,women
+877,1,AUS,michelle mary mason-brown,1.8,Athletics,high jump,Tokyo,1964,women
+878,2,URS,taisiya chenchik,1.78,Athletics,high jump,Tokyo,1964,women
+879,0,QAT,mutaz essa barshim,2.37,Athletics,high jump,Tokyo,2020,men
+880,1,ITA,gianmarco tamberi,2.37,Athletics,high jump,Tokyo,2020,men
+881,2,BLR,maksim nedasekau,2.37,Athletics,high jump,Tokyo,2020,men
+882,0,ROC,mariya lasitskene,2.04,Athletics,high jump,Tokyo,2020,women
+883,1,AUS,nicola mcdermott,2.02,Athletics,high jump,Tokyo,2020,women
+884,2,UKR,yaroslava mahuchikh,2.0,Athletics,high jump,Tokyo,2020,women
